@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons?",
+        "answer": [
+            "One.",
+            "Six.",
+            "Two.",
+            "Four.",
+            "[person_1] in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] hold [person_1]'s hand?",
+        "answer": [
+            "To help [person_1] keep balance.",
+            "[person_2] prepares to discover the gifts.",
+            "[person_1] is learning how to stack cups.",
+            "[person_1] and [person_2] are just starting to play chess.",
+            "[person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will keep holding the kicking board.",
+            "[person_1] is going to have a battle.",
+            "[person_1] will keep on playing drums.",
+            "[person_1] will stop.",
+            "[person_1] will ask for praise."
+        ],
+        "reason": [
+            "He wants to go to the toilet.",
+            "[person_1] is helping [person_1] to stretch.",
+            "[person_1] has just begin . And [person_1] does not intend to stop.",
+            "[person_1] is tired.",
+            "[person_1] is looking for the answer to the question with her mobile phone."
+        ]
+    },
+    "counterfactual": {
+        "question": "How will [person_1] feel if [person_1] looses [person_2]'s grip?",
+        "answer": [
+            "[person_1] would throw away [person_1].",
+            "She will not let [person_1] eat the ice cream.",
+            "[person_1] would look for [person_1].",
+            "[person_1] will feel afraid.",
+            "[person_1] will ask someone for help."
+        ],
+        "reason": [
+            "This is like the first of [person_2] for this kind of dance.",
+            "[person_1] needs to finish her task.",
+            "[person_1] is not skilled enough to run on the treadmill without help.",
+            "He needs to finish his goal.",
+            "Because they need to coax her."
+        ]
+    }
+}
