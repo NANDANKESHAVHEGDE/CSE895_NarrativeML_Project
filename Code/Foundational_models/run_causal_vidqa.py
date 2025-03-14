@@ -1,11 +1,14 @@
 import torch
 import gc
 import argparse
+import os
+from dotenv import load_dotenv
 from videos_func import videos_framing
 from huggingface_hub import login
 from vision_llm_func import init_vision_llm, generate_descriptions
 from description_to_narrative import generate_narratives, init_text_llm, generate_narrativeml_files, generate_answer_causal_vidqa
 
+load_dotenv()
 #Constants
 torch.manual_seed(42)
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
@@ -20,7 +23,7 @@ def main():
     parser.add_argument("--num_frames_per_segment", type=int, default=16)
     parser.add_argument("--videos_dir", type=str, default="./datasets/Causal-VidQA/Test/test_videos")
     parser.add_argument("--videos_frames_dir", type=str, default="./datasets/Causal-VidQA/Test/frames")
-    parser.add_argument("--huggingface_token", type=str, default="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")
+    parser.add_argument("--huggingface_token", type=str, default=os.getenv("HUGGINGFACE_TOKEN"))
     parser.add_argument("--captioner_model_id", type=str, default="meta-llama/Llama-3.2-11B-Vision-Instruct")
     parser.add_argument("--description_narrative_csv", type=str, default="narrative_csv_file.csv")
     parser.add_argument("--des_start_pos", type=int, default=0)
