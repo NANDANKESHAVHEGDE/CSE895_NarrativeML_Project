@@ -383,7 +383,7 @@ class Narrator(object):
             ********************************************************************************
             """
 
-            examples = self._read_file_("Narrative.txt")
+            examples = self._read_file_("./Related_files/narrative_only_examples.txt")
 
             self.examples_prompt = system_prompt + user_prompt + examples
 
@@ -436,7 +436,7 @@ class Narrator(object):
             ********************************************************************************
             """
 
-            examples = self._read_file_("./narrativeml_files/narrativeml_only_examples.txt")
+            examples = self._read_file_("./Related_files/narrativeml_only_examples.txt")
 
             examples = self._narml_filter_(examples, spatial_flag=spatial_flag, temporal_flag=temporal_flag)
 
@@ -473,7 +473,7 @@ class Narrator(object):
             ********************************************************************************
             """
             
-            examples = self._read_file_("./narrativeml_files/both_examples.txt")
+            examples = self._read_file_("./Related_files/both_examples.txt")
 
             #Filter the examples
             if narml_type == "spatial":
