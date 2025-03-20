@@ -1,0 +1,460 @@
+Here are five example to help you better understand your taks:
+Example 1:
+Narrative:
+The scene takes place on a sidewalk in what appears to be a residential or urban area, with trees, houses, and parked cars visible in the background. The sky is bright, indicating a daytime setting. The video captures a sequence of interactions between individuals labeled "person_1", "person_2", and other entities.
+
+At the start, "person_1", a man wearing a white t-shirt and dark pants, stands on the sidewalk facing "person_2", who is also wearing a white t-shirt but with light-colored pants. The two individuals appear to be engaged in conversation, standing with their feet shoulder-width apart and hands behind their backs. Behind them, "car_1" is parked on the sidewalk, partially obscured by "person_1".
+
+In another moment, the scene expands to show additional background details. A tree is positioned near the sidewalk, while houses and a building provide depth to the setting. The atmosphere remains casual and peaceful, with no indications of conflict or urgency.
+
+The video continues, capturing different angles and interactions. "person_1" is seen in a blue rectangle, highlighted with the tag "person_1", while "person_2" is enclosed in a gray rectangle. The two maintain their positions, with "person_1" looking at "person_2", possibly engaged in conversation or awaiting a response.
+
+As the frames progress, another sequence features a child, dressed in a light blue t-shirt and jeans, interacting with a mannequin clad in white clothing. The mannequin, which lacks facial features, appears in multiple shots, positioned alternately to the left and right of the child. The presence of both the mannequin and the child introduces a different visual contrast, possibly suggesting an observational or playful moment.
+
+Later, "person_1" is shown standing in a driveway, with a child visible in the background. The man, still wearing a white t-shirt and jeans, is facing another individual dressed in similar attire. The setting includes a tree, a brick wall, and additional buildings, reinforcing the residential context.
+
+The final sequence captures a man walking down a sidewalk, with a child following closely behind. The man is still wearing a white t-shirt and dark pants, while the child is in a white tank top, positioned slightly to the right. The two appear to be moving in a linear progression, suggesting a stroll or journey to a destination. The peaceful atmosphere, coupled with their close positioning, implies a familial or caregiving relationship.
+
+Throughout the video, the interactions between "person_1", "person_2", the child, and other elements remain consistent with everyday life. The presence of the parked "car_1", trees, and residential buildings contributes to the sense of normalcy, while the varied perspectives provide a detailed view of their movements and interactions.
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "What passed?",
+        "answer": [
+            "0. [person_2] is sitting on ice with many people around him.",
+            "1. [person_1] is picking up a concrete tile.",
+            "2. [person_1] is talking about the car.",
+            "3. [car_1].",
+            "4. [person_1] is panning gold."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] going away?",
+        "answer": [
+            "0. Because [person_1] is attending a party.",
+            "1. [person_1] wants to go home.",
+            "2. Because [person_1] has not used enough force to inflate the balloon.",
+            "3. Because [person_1] wants to surpass [person_1].",
+            "4. [person_1] is attacking [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "0. [person_2] may prevent [person_2] from singing.",
+            "1. [person_2] is going to speak something to the audiences.",
+            "2. [person_2] may take off his shirt.",
+            "3. Shine his ears with a flashlight.",
+            "4. [person_2] is going to continue open the present."
+        ],
+        "reason": [
+            "0. [person_2] has step on [person_2]'s hands and [person_2]'s shoes are dirty.",
+            "1. [person_2] feels hot.",
+            "2. [person_2] is looking at [person_2] for help.",
+            "3. [person_2] has a toy.",
+            "4. Because [person_2] doesn't watch [person_2] do the exercise and has been prepared to do his own exercising."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2]'s little boy falls down?",
+        "answer": [
+            "0. [person_2] may stand up and leave the room.",
+            "1. [person_2] will be badly hurt.",
+            "2. They will be excited.",
+            "3. [person_2] can't hula hoop.",
+            "4. [person_2] will hold him."
+        ],
+        "reason": [
+            "0. [person_2] is the only person who is next to him.",
+            "1. [person_2] is a member of the [person_2]'s team.",
+            "2. They think it is interesting.",
+            "3. It's normal that there's some disputes between lovers . So [person_2] and [person_2] will be fine if the problems are solved.",
+            "4. [person_2] , [person_2] and [person_2] wants to thank the audiences."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 3
+    },
+    "explanatory": {
+        "answer": 1
+    },
+    "predictive": {
+        "answer": 2,
+        "reason": 1
+    },
+    "counterfactual": {
+        "answer": 4,
+        "reason": 0
+    }
+}
+Example 2:
+Narrative:
+The scene takes place at a waterfront location where a dock extends over a body of water, with a large bridge spanning the background. The sky is blue with scattered clouds, and the atmosphere suggests a warm, sunny day.
+
+In the foreground, a person labeled "person_1", with short hair and wearing a blue tank top with gray trim and a red stripe on the back, stands at the edge of the dock. They are facing away from the camera, gazing out at the water. Behind them, several individuals are visible. One man, labeled "person_5", dressed in a red shirt and white shorts, is standing on the dock, seemingly engaged in fishing. He holds a fishing pole in his left hand and is positioned near the edge of the dock. To his left, another man labeled "person_2", wearing a light green shirt and dark pants, stands holding a long stick. Behind "person_2", an additional individual labeled "person_1", wearing a light green shirt and dark pants, is also standing on the dock. Further in the background, "person_3", dressed in a blue shirt and dark shorts, is positioned on a boat in the water, while "person_4" is also visible on a separate boat.
+
+The dock, made of wooden planks, has a railing along its sides. Several boats are moored nearby, with people onboard appearing to enjoy the outdoor setting. One person, labeled "person_4", wearing a red hat, is seated on a boat while observing the activities on the dock.
+
+As the scene progresses, "person_5" adjusts his grip on the fishing rod, his gaze directed toward the water. A few feet away, another person, labeled "person_6", wearing a light-colored shirt and shorts, stands near the railing, looking out at the expanse of the water. Further in the background, trees line the far shore, adding to the tranquil and scenic setting.
+
+The bridge in the background, a large metal structure with support beams and arches, serves as a prominent landmark in the composition. It spans across the water, connecting two landmasses. Boats continue to drift nearby, their occupants participating in leisurely activities.
+
+The overall scene captures a moment of relaxation and outdoor enjoyment, with individuals engaging in fishing, boating, and quiet observation. The combination of water, dock, and bridge creates a picturesque and serene setting, embodying the essence of a peaceful day by the water.
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "What pants is [person_5] wearing?",
+        "answer": [
+            "0. From the pond nearby.",
+            "1. It's a singing group.",
+            "2. Black.",
+            "3. [person_5] is wearing white shorts.",
+            "4. It is on the wall and behind [person_5] and [person_5]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_5] suddenly look back?",
+        "answer": [
+            "0. To accompany the woman in a red dress.",
+            "1. To draw the painting in a comfortable angle.",
+            "2. [person_5] prepares so well before the match.",
+            "3. [person_5] uses bricks and stacks them to make a wall.",
+            "4. Because something happened might have attracted the attention of [person_5]."
+        ]
+    },
+    "predictive": {
+        "question": "What might the man on shore in front of [person_2] do next?",
+        "answer": [
+            "0. He may ask for a close look to the cow.",
+            "1. They are competitive.",
+            "2. [person_2] will begin to practice.",
+            "3. [person_2] will try her best to run rapidly.",
+            "4. The man may pull the rope."
+        ],
+        "reason": [
+            "0. It's great that a robot can do this.",
+            "1. Because it is too much for her.",
+            "2. [person_2] is in a competition and needs to achieve a good performance.",
+            "3. Because the man is holding the rope and trying to move.",
+            "4. [person_2] is tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] suddenly accelerates?",
+        "answer": [
+            "0. [person_1] will not drink any water.",
+            "1. [person_1] will sit on [person_1] and rest.",
+            "2. The [person_1] will take the cup and pour water on the [person_5]'s head.",
+            "3. [person_5] may fall into the water.",
+            "4. [person_1] will put his flute away."
+        ],
+        "reason": [
+            "0. Because [person_5] may not have time to react when [person_5] pulls the rope and will be directly brought into the water by the rope.",
+            "1. When [person_5] can't lift the barbell , [person_5] will be overwhelmed by the barbell.",
+            "2. The dog is small and close to the [person_1].",
+            "3. Because if [person_1] does not use the [person_5] , the paints can splash on the [person_5].",
+            "4. [person_1] has to lick [person_1]'s butt like a mission."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 3
+    },
+    "explanatory": {
+        "answer": 4
+    },
+    "predictive": {
+        "answer": 4,
+        "reason": 3
+    },
+    "counterfactual": {
+        "answer": 3,
+        "reason": 0
+    }
+}
+
+Example 3:
+Narrative:
+The scene takes place in an outdoor recreational area, enclosed by a circular chain-link fence. A person_1, wearing a green shirt and pants, stands at the center of the fenced-in area with their hands raised to their face, looking down at something on the ground. The metal fence has a gate that is slightly ajar, suggesting possible access to or interaction with something inside the enclosed space. Trees and other objects are visible in the background, reinforcing the setting as a park or sports field.
+
+As the scene progresses, person_1 is now wearing a black shirt and pants, standing in what appears to be a batting cage or practice facility. Their head is covered by an object detection box labeled "person_1". To their left, there is a purple object detection box labeled "chair_1", identifying a chair positioned behind them. The structured environment and the presence of a chair suggest that the area is intended for training or sports practice, likely baseball.
+
+Further in the sequence, person_1 is depicted again, standing in front of the fence, with chair_1 still situated behind them. They appear focused, possibly preparing to bat or practice their swing. The chair, identified as a standard folding chair with a metal frame and backrest, is placed for convenience, allowing for moments of rest between activities.
+
+Another angle captures person_1 in the circular enclosure, still surrounded by the chain-link fence. This time, they are seen on a concrete surface, reinforcing the idea that this is a controlled sports facility. A yellow ball is lying on the ground in front of them, adding to the implication of a batting practice setup. The background reveals a playground with trees and grass, emphasizing the park-like setting.
+
+At one point, person_1 is seen sitting on chair_1, now positioned in front of the chain-link fence surrounding a playground area. Wearing dark pants and a dark shirt, they sit facing the camera, their face not visible. The relaxed posture suggests they are taking a break. Behind them, additional playground equipment, such as a slide and a swing set, can be seen, reinforcing a casual and recreational environment.
+
+In a later moment, person_1 is standing in the circular fenced-in area, holding a long object, possibly a bat or a stick, which is highlighted by a green rectangle. Their blurred movement and motion lines indicate activity and energy, likely preparing to swing or engage in a physical activity.
+
+Towards the end of the sequence, person_1 is seen again in the batting cage, standing with chair_1 positioned behind them. They remain facing towards the right side of the image, seemingly engaged in a training exercise. The chain-link fence continues to enclose the space, maintaining a controlled setting for sports practice. The background, though blurry, still shows elements of a park with trees and grass, reinforcing the outdoor and recreational nature of the scene.
+
+Throughout the video, person_1 transitions between moments of focus, action, and rest, all within a structured sports practice environment. The chain-link fence, batting cage, and presence of a chair and ball highlight an emphasis on training or physical activity, while the surrounding park and playground equipment suggest a public recreational area.
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "0. [chair_1] is black.",
+            "1. [person_1] is sitting on [chair_1].",
+            "2. [chair_1] is behind the [person_1].",
+            "3.[chair_1] is on the right of [chair_1].",
+            "4. [chair_1] is on the right side of  [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "0. [person_1] is saying something in an interview.",
+            "1. [person_1] is in skating on an outdoor skating rink.",
+            "2. [person_1] is playing hammer throw.",
+            "3. [person_1] is skiing uphill.",
+            "4. [person_1] is sword fighting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "0. Maybe [person_1] is going to continue dance.",
+            "1. [person_1] is going to play there.",
+            "2. [person_1] may keep feeding the goat with [person_1].",
+            "3. [person_1] is going to step back and observe [person_1].",
+            "4. [person_1] is going to get more food for the goats."
+        ],
+        "reason": [
+            "0. The machine needs enough plaster to run.",
+            "1. [person_1] looks have a lot of energy.",
+            "2. [person_1] is performing.",
+            "3. [person_1] needs to practice many times.",
+            "4. [person_1] is a professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws the hammer?",
+        "answer": [
+            "0. [person_1] will stop introducing the circular saw.",
+            "1. The plate may be damaged.",
+            "2. [person_1] will take him to the clinic.",
+            "3. Perhaps [person_1] will startup.",
+            "4. Maybe [person_1] will toss it in the trash."
+        ],
+        "reason": [
+            "0. [person_1] is walking backwards so he can't see behind and he will fall.",
+            "1. [person_1] spins around a lot before throwing the hammer away.",
+            "2. Without electricity , the fan can't work , so the two children will feel hotter.",
+            "3. Because the pot is still cooking , so [person_1] will stand up and continue cooking.",
+            "4. It is possible that [person_1] will find it."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 2
+    },
+    "explanatory": {
+        "answer": 2
+    },
+    "predictive": {
+        "answer": 1,
+        "reason": 4
+    },
+    "counterfactual": {
+        "answer": 3,
+        "reason": 1
+    }
+}
+
+Example 4:
+Narrative:
+The scene takes place in a playroom or classroom setting, where a young child, labeled as "person_1", is engaged in various activities. The child appears to be around 2-4 years old, with short dark brown hair, and is dressed in plaid pants and red shoes. Their shirt color changes across different moments, sometimes being white with an orange heart or circle, and at other times pink.
+
+At the beginning, person_1 is seen playing with a yellow and green toy, standing near a small, white table or chair labeled "chair_1". The gray floor and beige or light gray walls create a neutral backdrop. In the background, additional tables and chairs are visible but are partially obscured.
+
+Later, person_1 is standing in a slightly different position in the room, facing to the left. The child’s arms are outstretched, and their gaze is directed at the camera. A white table with a black base is positioned in front of them, with chair_1 to their left. Their curious expression and body language suggest they are actively engaging with their surroundings, possibly playing or exploring.
+
+In another instance, person_1 is holding a yellow ball in their right hand. The child is positioned near a small, round table labeled "chair_1" with a white top and black legs, while another similar table is visible behind them. The gray carpeted floor and gray walls remain consistent, reinforcing the daycare or preschool atmosphere.
+
+A later moment captures person_1 standing in the center of the room, wearing a pink shirt and plaid pants, looking to the right. Their left arm is bent at the elbow, and their right arm is extended to the side, as if reaching or interacting with something. The purple-labeled "chair_1" is positioned behind them, and a table with a green object on it is in the background.
+
+As the video progresses, person_1 continues exploring the space, now holding a green and yellow object in their right hand, possibly a toy or book. The light-colored small tables and black chairs remain scattered throughout the room, emphasizing the structured environment for play or learning.
+
+Throughout the sequence, person_1 exhibits natural curiosity, shifting between moments of play, observation, and interaction with objects in the room. The various tables, chairs, and toys suggest a stimulating and engaging environment, designed to encourage exploration and creativity in a child-friendly educational setting.
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "How many chairs are there on the video?",
+        "answer": [
+            "0. The [person_1] is practicing roller skating with his team.",
+            "1. [person_1] is behind [person_1].",
+            "2. The [chair_1] is underneath the picture.",
+            "3. There are 6 chairs on the video.",
+            "4. It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "0. Because [person_1] wants to do fast mountain climbers.",
+            "1. [person_1] is happy because [person_1] is squeezing oranges.",
+            "2. [person_1] is excited with the maracas on [person_1] hands.",
+            "3. The [person_1] is not familiar with skating.",
+            "4. Because [person_1] is tickling him."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do then?",
+        "answer": [
+            "0. [person_1] and [person_1] will finish sanding it and then stat painting the chair.",
+            "1. [person_1] will keep trying to find something.",
+            "2. [person_1] is going to continue recording.",
+            "3. [person_1] is going to record the scene using her cellphone.",
+            "4. [person_1] is going to keep swinging the maracas."
+        ],
+        "reason": [
+            "0. the men have finished all the food on their plates , so now they will clean the [person_1].",
+            "1. [person_1] founds interested with the sound of the maracas.",
+            "2. Because he is old , and this procedure of wedding takes a lot of his efforts.",
+            "3. [person_1] is the one who keeps talking while others seldom talk.",
+            "4. [person_1] goes back to her seat to relax after she smacked [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] stood closer to [chair_1]?",
+        "answer": [
+            "0. [person_1] would not lick his finger.",
+            "1. [person_1] would not finish her set.",
+            "2. The baseball ball may be on the shelf.",
+            "3. [person_1] could fall.",
+            "4. The [person_1] wouldn't have been knocked down."
+        ],
+        "reason": [
+            "0. [person_1] is not defensive.",
+            "1. It would be not fun at all when [person_1] was alone.",
+            "2. [person_1] needs glasses to read the newspaper.",
+            "3. [person_1] had jumped aggressively.",
+            "4. [person_1] would not want [chair_1] to be damaged."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 3
+    },
+    "explanatory": {
+        "answer": 2
+    },
+    "predictive": {
+        "answer": 4,
+        "reason": 1
+    },
+    "counterfactual": {
+        "answer": 3,
+        "reason": 3
+    }
+}
+
+Example 5:
+Narrative:
+The scene takes place in a quiet indoor setting, possibly a bedroom or living room, where "person_1" is present. The room has white walls and a white ceiling, giving it a neutral and calm atmosphere. A door is positioned on the left side of the room, and a bookshelf or dresser is visible on the right. A small painting or picture hangs on the wall, adding to the decor.
+
+At the beginning, "person_1", a man with short brown hair, is seen standing in the center of the room, wearing a black t-shirt. His right hand is raised to his face, covering his mouth or chin, suggesting a contemplative or introspective moment. His gaze is directed downward, possibly looking at something in his hand, though the object is not clearly visible. His posture and body language suggest he is either thinking deeply or engaged in a quiet activity.
+
+In another instance, "person_1" is positioned in front of a slightly ajar white door. His right arm remains raised, and his left arm is bent at the elbow, indicating a gesturing motion. The bookshelf on the right side of the image contains various objects, though the details are not fully clear. The room appears well-lit, with soft lighting contributing to the peaceful setting.
+
+As the scene progresses, "person_1" is observed wearing a black beanie while seated in the same room. He appears to be engaged in a video chat, pointing at himself with his left hand while making gestures. His facial expression and movements suggest he is actively participating in a conversation or presentation.
+
+Later in the sequence, "person_1" continues to stand in front of the white wall, now looking down at something in his hand. The background remains consistent, with the picture, bookshelf, and white door still in place. His posture suggests he is focused on the unseen object, possibly a phone or a book.
+
+Throughout the video, "person_1"'s actions convey a sense of contemplation, engagement, and interaction within the space. The room remains relatively unchanged, maintaining its calm and neutral ambiance. His body language, including the raised hand gestures and seated movements, suggests a mix of thoughtfulness and communication, adding depth to the otherwise quiet setting.
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "What is the pattern on the left side of the wall?",
+        "answer": [
+            "0. They are yellow.",
+            "1. Dao.",
+            "2. It's a baseball pattern.",
+            "3. Some plates.",
+            "4. Summer . \u3002"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] so happy?",
+        "answer": [
+            "0. Because [person_1] wants to show how to use the power drill.",
+            "1. Because [person_1] wants to find the best angle.",
+            "2. The [person_1] was afraid of being attacked by the horse.",
+            "3. The [person_1] did not pay attention to the bicycle and the [person_1] could not keep balance.",
+            "4. Because [person_1] is taking pictures."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "0. [person_1] is going to continue jumping.",
+            "1. [person_1] is going to open present.",
+            "2. [person_1] may turn off the photography equipment.",
+            "3. [person_1] is going to follow the camera.",
+            "4. [person_1] may go back home."
+        ],
+        "reason": [
+            "0. [person_1] is quite satisfied with what [person_1] takes.",
+            "1. [person_1] wants to be a good batter.",
+            "2. [person_1] is watering the plants.",
+            "3. Because [person_1] is practicing skiing.",
+            "4. [person_1] moves the wood over."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not satisfied with the content he took?",
+        "answer": [
+            "0. [person_1] may take pictures again.",
+            "1. [person_1] won't be able to continue playing the guitar.",
+            "2. Maybe [person_1] can't fulfill [person_1]'s products.",
+            "3. [person_1] would smile with her fans.",
+            "4. [person_1] will be famous."
+        ],
+        "reason": [
+            "0. [person_1]'s a lefty and he is used to using his left hand.",
+            "1. [person_1] will have to stop singing and help [person_1] change a new string.",
+            "2. Because if [person_1] doesn't flatten the biscuit , it will be too thick , so it is difficult to bake it.",
+            "3. [person_1] wants to take a photo that [person_1] is satisfied with , and may retake it if he is not satisfied.",
+            "4. Waxing can make the problem worse if the skin has any pimples , open sores , or infections."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 2
+    },
+    "explanatory": {
+        "answer": 4
+    },
+    "predictive": {
+        "answer": 2,
+        "reason": 0
+    },
+    "counterfactual": {
+        "answer": 0,
+        "reason": 3
+    }
+}
+********************************************************************************

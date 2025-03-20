@@ -1,0 +1,421 @@
+Here are three examples to help you better understand your task:
+Example 1:
+NarrativeML:
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.2">
+  <NARRATIVE id="n1" title="Sports Practice Scene" medium="video_description">
+
+    <NARRATOR id="n1" order="CHRONICLE" distance="NARRATED" perspective="NON_FOCALIZED" timeRelation="SUBSEQUENT" />
+
+    <CHARACTER id="c1" name="person_1" type="animate" exists="true" mentionIDs="m1 m3 m5 m7 m9 m11 m12"/>
+    <CHARACTER id="c2" name="chair_1" type="inanimate" exists="true" mentionIDs="m4 m6 m8" />
+    <CHARACTER id="c2" name="yellow_ball" type="inanimate" exists="true" mentionIDs="m8" />
+
+    <PLACE id="p1" exists="true" mentionIDs="m2 m4 m6 m8 m9 m10" />
+
+    <SEGMENT id="s1" title="Sports Practice Scene">
+
+        <EVENT id="e1" type="ACTION" participants="c1" textSpanStart="112" textSpanEnd="182">looking_down</EVENT>
+        <SPATIALREL id="sr1" eventID="e1" predicate="RCC8_NTPP" args="c1 p1">person_1 inside enclosed space</SPATIALREL>
+
+        <EVENT id="e2" type="ACTION" participants="c1" textSpanStart="422" textSpanEnd="452">standing in structured area</EVENT>
+        <SPATIALREL id="sr2" eventID="e2" predicate="RCC8_EC" args="c1 p1">person_1 externally connected to structured area</SPATIALREL>
+
+        <EVENT id="e3" type="MENTAL" participants="c1" textSpanStart="471" textSpanEnd="523">focused, preparing to bat</EVENT>
+        <SPATIALREL id="sr3" eventID="e3" predicate="RCC8_EC" args="c1 p1">person_1 externally connected to fence</SPATIALREL>
+
+        <EVENT id="e4" type="ACTION" participants="c1 c2" textSpanStart="638" textSpanEnd="659">sitting on chair</EVENT>
+        <SPATIALREL id="sr4" eventID="e4" predicate="RCC8_EC" args="c1 c2">person_1 externally connected to chair</SPATIALREL>
+
+        <EVENT id="e5" type="ACTION" participants="c1" textSpanStart="814" textSpanEnd="888">holding long object, preparing to swing</EVENT>
+        <SPATIALREL id="sr5" eventID="e5" predicate="RCC8_NTPP" args="c1 p1">person_1 inside batting area</SPATIALREL>
+
+    </SEGMENT>
+
+    <PLOT id="plot1" NECS="nec1 nec2 nec3" />
+
+    <NEC id="nec1" entity="c1" events="e1 e2 e3 e4 e5" />
+    <NEC id="nec2" entity="p1" events="e1 e2 e3 e4 e5" />
+    <NEC id="nec3" entity="c2" events="e4" />
+
+    <MENTION id="m1" ref="c1" textSpanStart="80" textSpanEnd="88" />
+    <MENTION id="m2" ref="p1" textSpanStart="106" textSpanEnd="118" />
+    <MENTION id="m3" ref="c1" textSpanStart="206" textSpanEnd="214" />
+    <MENTION id="m4" ref="p1" textSpanStart="367" textSpanEnd="376" />
+    <MENTION id="m5" ref="c1" textSpanStart="367" textSpanEnd="375" />
+    <MENTION id="m5" ref="c1" textSpanStart="422" textSpanEnd="430" />
+    <MENTION id="m6" ref="p1" textSpanStart="470" textSpanEnd="491" />
+    <MENTION id="m7" ref="c1" textSpanStart="531" textSpanEnd="539" />
+    <MENTION id="m8" ref="p1" textSpanStart="605" textSpanEnd="628" />
+    <MENTION id="m9" ref="c1" textSpanStart="638" textSpanEnd="646" />
+    <MENTION id="m10" ref="p1" textSpanStart="715" textSpanEnd="740" />
+    <MENTION id="m11" ref="c1" textSpanStart="814" textSpanEnd="822" />
+    <MENTION id="m12" ref="c1" textSpanStart="1043" textSpanEnd="1051" />
+    <MENTION id="m8" ref="c2" textSpanStart="737" textSpanEnd="748" />
+
+    <TLINK id="tr1" type="BEFORE" eventID="e1" relatedToEvent="e2" />
+    <TLINK id="tr2" type="BEFORE" eventID="e2" relatedToEvent="e3" />
+    <TLINK id="tr3" type="BEFORE" eventID="e3" relatedToEvent="e4" />
+    <TLINK id="tr4" type="BEFORE" eventID="e4" relatedToEvent="e5" />
+
+    <TEMPO storyTime="PT15M" readingLength="PT120S" />
+
+  </SEGMENT>
+</NarrativeML>
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "0. [chair_1] is black.",
+            "1. [person_1] is sitting on [chair_1].",
+            "2. [chair_1] is behind the [person_1].",
+            "3.[chair_1] is on the right of [chair_1].",
+            "4. [chair_1] is on the right side of  [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "0. [person_1] is saying something in an interview.",
+            "1. [person_1] is in skating on an outdoor skating rink.",
+            "2. [person_1] is playing hammer throw.",
+            "3. [person_1] is skiing uphill.",
+            "4. [person_1] is sword fighting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "0. Maybe [person_1] is going to continue dance.",
+            "1. [person_1] is going to play there.",
+            "2. [person_1] may keep feeding the goat with [person_1].",
+            "3. [person_1] is going to step back and observe [person_1].",
+            "4. [person_1] is going to get more food for the goats."
+        ],
+        "reason": [
+            "0. The machine needs enough plaster to run.",
+            "1. [person_1] looks have a lot of energy.",
+            "2. [person_1] is performing.",
+            "3. [person_1] needs to practice many times.",
+            "4. [person_1] is a professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws the hammer?",
+        "answer": [
+            "0. [person_1] will stop introducing the circular saw.",
+            "1. The plate may be damaged.",
+            "2. [person_1] will take him to the clinic.",
+            "3. Perhaps [person_1] will startup.",
+            "4. Maybe [person_1] will toss it in the trash."
+        ],
+        "reason": [
+            "0. [person_1] is walking backwards so he can't see behind and he will fall.",
+            "1. [person_1] spins around a lot before throwing the hammer away.",
+            "2. Without electricity , the fan can't work , so the two children will feel hotter.",
+            "3. Because the pot is still cooking , so [person_1] will stand up and continue cooking.",
+            "4. It is possible that [person_1] will find it."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 2
+    },
+    "explanatory": {
+        "answer": 2
+    },
+    "predictive": {
+        "answer": 1,
+        "reason": 4
+    },
+    "counterfactual": {
+        "answer": 3,
+        "reason": 1
+    }
+}
+
+Example 2:
+NarrativeML:
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.2">
+  <NARRATIVE id="n1" title="Child Exploration in Playroom" medium="descriptive_text" order="CHRONICLE" distance="NARRATED" perspective="NON_FOCALIZED" timeRelation="SUBSEQUENT" narrator="narrator1">
+    <NARRATOR id="narrator1" type="absent" person="third" />
+
+    <CHARACTER id="c1" name="person_1" type="animate" exists="true" mentionIDs="m1 m2 m3 m4 m5 m6 m7 m8 m9 m10" />
+
+    <PLACE id="p1" name="playroom/classroom" exists="true" mentionIDs="m11" textSpanStart="14" textSpanEnd="45" />
+
+    <SEGMENT id="s1" title="Child Engaging in Activities">
+      <EVENT id="e1" type="ACTION" participants="c1" textSpanStart="273" textSpanEnd="301">playing with a yellow and green toy</EVENT>
+      <EVENT id="e2" type="ACTION" participants="c1" textSpanStart="432" textSpanEnd="460">standing near a small table</EVENT>
+      <EVENT id="e3" type="ACTION" participants="c1" textSpanStart="647" textSpanEnd="714">standing facing left with arms outstretched, gaze at camera</EVENT>
+      <EVENT id="e4" type="ACTION" participants="c1" textSpanStart="885" textSpanEnd="922">holding a yellow ball</EVENT>
+      <EVENT id="e5" type="ACTION" participants="c1" textSpanStart="1202" textSpanEnd="1286">standing center of room, left arm bent, right arm extended</EVENT>
+      <EVENT id="e6" type="ACTION" participants="c1" textSpanStart="1397" textSpanEnd="1457">holding a green and yellow object</EVENT>
+
+      <SPATIALREL id="sr1" eventID="e2" predicate="RCC8_EC" args="c1 chair_1">person_1 externally connected to chair_1</SPATIALREL>
+      <SPATIALREL id="sr2" eventID="e4" predicate="RCC8_EC" args="c1 chair_1">person_1 externally connected to chair_1</SPATIALREL>
+      <SPATIALREL id="sr3" eventID="e5" predicate="RCC8_DC" args="c1 chair_1">person_1 disconnected from chair_1</SPATIALREL>
+
+      <TIME id="t1" textSpanStart="213" textSpanEnd="225">At the beginning</TIME>
+      <TIME id="t2" textSpanStart="625" textSpanEnd="630">Later</TIME>
+      <TIME id="t3" textSpanStart="867" textSpanEnd="886">In another instance</TIME>
+      <TIME id="t4" textSpanStart="1185" textSpanEnd="1200">A later moment</TIME>
+      <TIME id="t5" textSpanStart="1378" textSpanEnd="1402">As the video progresses</TIME>
+
+      <TLINK id="tr1" type="BEFORE" eventID="e1" relatedToEvent="e3" />
+      <TLINK id="tr2" type="BEFORE" eventID="e3" relatedToEvent="e4" />
+      <TLINK id="tr3" type="BEFORE" eventID="e4" relatedToEvent="e5" />
+      <TLINK id="tr4" type="BEFORE" eventID="e5" relatedToEvent="e6" />
+
+    </SEGMENT>
+
+    <PLOT id="plot1" NECS="nec1 nec2" />
+
+    <NEC id="nec1" entity="c1" events="e1 e2 e3 e4 e5 e6" />
+    <NEC id="nec2" entity="p1" events="e1 e2 e3 e4 e5 e6" />
+
+    <MENTION id="m1" ref="c1" textSpanStart="68" textSpanEnd="76" />
+    <MENTION id="m2" ref="c1" textSpanStart="170" textSpanEnd="173" />
+    <MENTION id="m3" ref="c1" textSpanStart="213" textSpanEnd="221" />
+    <MENTION id="m4" ref="c1" textSpanStart="625" textSpanEnd="633" />
+    <MENTION id="m5" ref="c1" textSpanStart="680" textSpanEnd="684" />
+    <MENTION id="m6" ref="c1" textSpanStart="867" textSpanEnd="875" />
+    <MENTION id="m7" ref="c1" textSpanStart="885" textSpanEnd="889" />
+    <MENTION id="m8" ref="c1" textSpanStart="1185" textSpanEnd="1193" />
+    <MENTION id="m9" ref="c1" textSpanStart="1378" textSpanEnd="1386" />
+    <MENTION id="m10" ref="c1" textSpanStart="1567" textSpanEnd="1575" />
+
+    <MENTION id="m11" ref="p1" textSpanStart="14" textSpanEnd="45" />
+
+  </NARRATIVE>
+</NarrativeML>
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "How many chairs are there on the video?",
+        "answer": [
+            "0. The [person_1] is practicing roller skating with his team.",
+            "1. [person_1] is behind [person_1].",
+            "2. The [chair_1] is underneath the picture.",
+            "3. There are 6 chairs on the video.",
+            "4. It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "0. Because [person_1] wants to do fast mountain climbers.",
+            "1. [person_1] is happy because [person_1] is squeezing oranges.",
+            "2. [person_1] is excited with the maracas on [person_1] hands.",
+            "3. The [person_1] is not familiar with skating.",
+            "4. Because [person_1] is tickling him."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do then?",
+        "answer": [
+            "0. [person_1] and [person_1] will finish sanding it and then stat painting the chair.",
+            "1. [person_1] will keep trying to find something.",
+            "2. [person_1] is going to continue recording.",
+            "3. [person_1] is going to record the scene using her cellphone.",
+            "4. [person_1] is going to keep swinging the maracas."
+        ],
+        "reason": [
+            "0. the men have finished all the food on their plates , so now they will clean the [person_1].",
+            "1. [person_1] founds interested with the sound of the maracas.",
+            "2. Because he is old , and this procedure of wedding takes a lot of his efforts.",
+            "3. [person_1] is the one who keeps talking while others seldom talk.",
+            "4. [person_1] goes back to her seat to relax after she smacked [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] stood closer to [chair_1]?",
+        "answer": [
+            "0. [person_1] would not lick his finger.",
+            "1. [person_1] would not finish her set.",
+            "2. The baseball ball may be on the shelf.",
+            "3. [person_1] could fall.",
+            "4. The [person_1] wouldn't have been knocked down."
+        ],
+        "reason": [
+            "0. [person_1] is not defensive.",
+            "1. It would be not fun at all when [person_1] was alone.",
+            "2. [person_1] needs glasses to read the newspaper.",
+            "3. [person_1] had jumped aggressively.",
+            "4. [person_1] would not want [chair_1] to be damaged."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 3
+    },
+    "explanatory": {
+        "answer": 2
+    },
+    "predictive": {
+        "answer": 4,
+        "reason": 1
+    },
+    "counterfactual": {
+        "answer": 3,
+        "reason": 3
+    }
+}
+
+Example 3:
+NarrativeML:
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.2">
+  <NARRATIVE id="n1" title="Relaxing at the Dock" medium="descriptive_text" narrator="n1" order="CHRONICLE" distance="NARRATED" perspective="NON_FOCALIZED" timeRelation="SIMULTANEOUS">
+    <NARRATOR id="n1" type="absent" />
+
+    <PLACE id="p1" textSpanStart="27" textSpanEnd="48">Smith residence</PLACE>
+    <PLACE id="p2" textSpanStart="483" textSpanEnd="487">dock</PLACE>
+    <PLACE id="p3" textSpanStart="672" textSpanEnd="678">bridge</PLACE>
+
+    <CHARACTER id="c1" name="person_1" type="animate" exists="true" mentionIDs="m1">
+      <MENTION id="m1" ref="c1" textSpanStart="185" textSpanEnd="193" />
+    </CHARACTER>
+    <CHARACTER id="c2" name="person_5" type="animate" exists="true" mentionIDs="m2 m5">
+      <MENTION id="m2" ref="c2" textSpanStart="394" textSpanEnd="402" />
+      <MENTION id="m3" ref="c2" textSpanStart="890" textSpanEnd="898" />
+    </CHARACTER>
+    <CHARACTER id="c3" name="person_2" type="animate" exists="true" mentionIDs="m4">
+      <MENTION id="m4" ref="c3" textSpanStart="525" textSpanEnd="533" />
+    </CHARACTER>
+    <CHARACTER id="c4" name="person_3" type="animate" exists="true" mentionIDs="m5">
+      <MENTION id="m5" ref="c3" textSpanStart="732" textSpanEnd="740" />
+    </CHARACTER>
+    <CHARACTER id="c5" name="person_4" type="animate" exists="true" mentionIDs="m6 m7">
+      <MENTION id="m6" ref="c5" textSpanStart="760" textSpanEnd="768" />
+      <MENTION id="m7" ref="c5" textSpanStart="863" textSpanEnd="871" />
+    </CHARACTER>
+    <CHARACTER id="c6" name="person_6" type="animate" exists="true" mentionIDs="m8">
+      <MENTION id="m8" ref="c6" textSpanStart="952" textSpanEnd="960" />
+    </CHARACTER>
+
+    <SEGMENT id="s1" title="Dock Scene">
+      <EVENT id="e1" type="ACTION" participants="c1" textSpanStart="246" textSpanEnd="252">gazing</EVENT>
+      <EVENT id="e2" type="ACTION" participants="c2" textSpanStart="890" textSpanEnd="936">adjusts his grip on the fishing rod</EVENT>
+      <EVENT id="e3" type="ACTION" participants="c1" textSpanStart="185" textSpanEnd="253">stands at the edge of the dock</EVENT>
+      <EVENT id="e4" type="ACTION" participants="c6" textSpanStart="969" textSpanEnd="1018">stands near the railing observing the water</EVENT>
+
+    <SPATIALREL id="sr1" eventID="e1" predicate="RCC8_EC" args="c1 p1">person_1 externally connected to dock</SPATIALREL>
+    <SPATIALREL id="sr2" eventID="e2" predicate="RCC8_EC" args="c2 p2">person_5 externally connected to fishing rod</SPATIALREL>
+    <SPATIALREL id="sr3" eventID="e2" predicate="DCC_lf" args="c2 c1">person_5 located left-forward relative to person_1</SPATIALREL>
+    <SPATIALREL id="sr4" eventID="e3" predicate="DCC_lf" args="c1 p1">person_1 located at left-forward edge of dock relative to camera</SPATIALREL>
+
+    <TIME id="t1" value="Daytime" textSpanStart="120" textSpanEnd="138">warm, sunny day</TIME>
+
+    <TLINK id="tl1" type="SIMULTANEOUS" eventID="e2" relatedToEvent="e3" />
+
+    <SEGMENT id="s1" title="Dock Scene Activities">
+      <EVENT id="e4" type="ACTION" participants="c6" textSpanStart="952" textSpanEnd="1005">stands observing the water</EVENT>
+      <SPATIALREL id="sr5" eventID="e4" predicate="DCC_lc" args="c6 p1">person_6 positioned left-center on dock</SPATIALREL>
+      <EVENT id="e5" type="ACTION" participants="c5" textSpanStart="817" textSpanEnd="880">seated on a boat observing activities</EVENT>
+      <SPATIALREL id="sr6" eventID="e5" predicate="RCC8_NTPP" args="c5 p3">person_4 inside boat</SPATIALREL>
+
+      <TLINK id="tr1" type="SIMULTANEOUS" eventID="e2" relatedToEvent="e4" />
+      <TLINK id="tr2" type="SIMULTANEOUS" eventID="e4" relatedToEvent="e5" />
+    </SEGMENT>
+
+    <PLOT id="plot1" NECS="nec1 nec2 nec3" />
+
+    <NEC id="nec1" entity="c1" events="e1 e3" />
+    <NEC id="nec2" entity="c2" events="e2" />
+    <NEC id="nec3" entity="c6" events="e4" />
+
+    <EVALUATION id="ev1" eventID="e1" characterID="c1" audienceID="reader1" polarity="positive" value="1" comment="Serene observation at dock" />
+    <EVALUATION id="ev2" eventID="e2" characterID="c2" audienceID="reader1" value="1" polarity="positive" comment="Enjoyable fishing activity" />
+    <EVALUATION id="ev3" eventID="e5" characterID="c5" audienceID="reader1" value="1" polarity="positive" comment="Relaxed observer on the boat" />
+
+    <TEMPO storyTime="PT30M" readingLength="PT60S" />
+  </NARRATIVE>
+</NarrativeML>
+
+Questions in json format:
+{
+    "descriptive": {
+        "question": "What pants is [person_5] wearing?",
+        "answer": [
+            "0. From the pond nearby.",
+            "1. It's a singing group.",
+            "2. Black.",
+            "3. [person_5] is wearing white shorts.",
+            "4. It is on the wall and behind [person_5] and [person_5]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_5] suddenly look back?",
+        "answer": [
+            "0. To accompany the woman in a red dress.",
+            "1. To draw the painting in a comfortable angle.",
+            "2. [person_5] prepares so well before the match.",
+            "3. [person_5] uses bricks and stacks them to make a wall.",
+            "4. Because something happened might have attracted the attention of [person_5]."
+        ]
+    },
+    "predictive": {
+        "question": "What might the man on shore in front of [person_2] do next?",
+        "answer": [
+            "0. He may ask for a close look to the cow.",
+            "1. They are competitive.",
+            "2. [person_2] will begin to practice.",
+            "3. [person_2] will try her best to run rapidly.",
+            "4. The man may pull the rope."
+        ],
+        "reason": [
+            "0. It's great that a robot can do this.",
+            "1. Because it is too much for her.",
+            "2. [person_2] is in a competition and needs to achieve a good performance.",
+            "3. Because the man is holding the rope and trying to move.",
+            "4. [person_2] is tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] suddenly accelerates?",
+        "answer": [
+            "0. [person_1] will not drink any water.",
+            "1. [person_1] will sit on [person_1] and rest.",
+            "2. The [person_1] will take the cup and pour water on the [person_5]'s head.",
+            "3. [person_5] may fall into the water.",
+            "4. [person_1] will put his flute away."
+        ],
+        "reason": [
+            "0. Because [person_5] may not have time to react when [person_5] pulls the rope and will be directly brought into the water by the rope.",
+            "1. When [person_5] can't lift the barbell , [person_5] will be overwhelmed by the barbell.",
+            "2. The dog is small and close to the [person_1].",
+            "3. Because if [person_1] does not use the [person_5] , the paints can splash on the [person_5].",
+            "4. [person_1] has to lick [person_1]'s butt like a mission."
+        ]
+    }
+}
+
+Your answers to the questions in json format:
+{
+    "descriptive": {
+        "answer": 3
+    },
+    "explanatory": {
+        "answer": 4
+    },
+    "predictive": {
+        "answer": 4,
+        "reason": 3
+    },
+    "counterfactual": {
+        "answer": 3,
+        "reason": 0
+    }
+}
+********************************************************************************

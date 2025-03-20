@@ -1,0 +1,385 @@
+Tina made spaghetti for her boyfriend. It took a lot of work, but she was very proud. Her boyfriend ate the whole plate and said it was good. Tina tried it herself, and realized it was disgusting. She was touched that he pretended it was good to spare her feelings.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.1">
+    <NARRATIVE id="n1" title="Tina's Spaghetti" medium="descriptive_text">
+        <NARRATOR id="n2" type="present" coref="c1" exists="true" order="CHRONICLE" distance="DIRECT"
+		perspective="INTERNALLY_FOCALIZED" timeRelation="SUBSEQUENT" />
+        <CHARACTER id="c1" name="Tina" type="animate" exists="true" accessibleTo="c1" mentionIDs="m1 m4">
+            <MENTION id="m1" ref="c1" textSpanStart="0" textSpanEnd="4"/>
+            <MENTION id="m4" ref="c1" textSpanStart="125" textSpanEnd="129"/>
+        </CHARACTER>
+        <CHARACTER id="c2" name="Boyfriend" type="animate" exists="true" accessibleTo="c1" mentionIDs="m2 m3">
+            <MENTION id="m2" ref="c2" textSpanStart="26" textSpanEnd="35"/>
+            <MENTION id="m3" ref="c2" textSpanStart="168" textSpanEnd="177"/>
+        </CHARACTER>
+        <CHARACTER id="c3" name="Spaghetti" type="inanimate" exists="true" accessibleTo="c1" mentionIDs="m5">
+            <MENTION id="m5" ref="c3" textSpanStart="10" textSpanEnd="19"/>
+        </CHARACTER>
+        <SEGMENT id="s1" title="Cooking and Eating Spaghetti">
+            <EVENT id="e1" type="ACTION" participants="c1 c3" duration="PT2H" textSpanStart="5" textSpanEnd="9">made</EVENT>
+            <SPATIALREL id="sr1" eventID="e1" predicate="RCC8_EC" args="c1 c3">Tina externally connected to the spaghetti</SPATIALREL>
+            <CONDITION id="cond1" event="e1" type="pre" logic="Exists(x) (Ingredient(x) & Has(c1, x))" />
+            <CONDITION id="cond2" event="e1" type="post" logic="Cooked(c3)" />
+            <EVENT id="e2" type="MENTAL" participants="c1" duration="PT1M" textSpanStart="56" textSpanEnd="61">proud</EVENT>
+            <CONDITION id="cond3" event="e2" type="pre" logic="Cooked(c3)" />
+            <CONDITION id="cond4" event="e2" type="post" logic="Proud(c1, e1)" />
+            <EVENT id="e3" type="ACTION" participants="c2 c3" duration="PT15M" textSpanStart="102" textSpanEnd="105">ate</EVENT>
+            <CONDITION id="cond5" event="e3" type="pre" logic="OnPlate(c3)" />
+            <SPATIALREL id="sr2" eventID="e3" predicate="RCC8_EC" args="c2 c3">Boyfriend externally connected to the spaghetti</SPATIALREL>
+            <CONDITION id="cond6" event="e3" type="post" logic="not(OnPlates(c3, Plate))" />
+            <EVENT id="e4" type="SPEECHACT" participants="c2" duration="PT1M" textSpanStart="110" textSpanEnd="114">said</EVENT>
+            <CONDITION id="cond7" event="e4" type="pre" logic="Ate(c2, c3)" />
+            <CONDITION id="cond8" event="e4" type="post" logic="Believe(c1, Good(c3))" />
+            <EVENT id="e5" type="ACTION" participants="c1 c3" duration="PT2M" textSpanStart="130" textSpanEnd="135">tried</EVENT>
+            <SPATIALREL id="sr3" eventID="e5" predicate="RCC8_EC" args="c1 c3">Tina externally connected to the spaghetti</SPATIALREL>	
+            <CONDITION id="cond9" event="e5" type="pre" logic="not(Empty(c3))" />
+            <CONDITION id="cond10" event="e5" type="post" logic="Tasted(c1, c3)" />
+            <EVENT id="e6" type="MENTAL" participants="c1" duration="PT1M" textSpanStart="142" textSpanEnd="150">realized</EVENT>
+            <CONDITION id="cond11" event="e6" type="pre" logic="Tasted(c1, c3)" />
+            <CONDITION id="cond12" event="e6" type="post" logic="Aware(c1, not(Good(c3)))" />
+            <EVENT id="e7" type="MENTAL" participants="c1" duration="PT1M" textSpanStart="175" textSpanEnd="182">touched</EVENT>
+            <CONDITION id="cond13" event="e7" type="pre" logic="Complimented(c2, c3)" />
+            <CONDITION id="cond14" event="e7" type="post" logic="Touched(c1, Complimented(c2, c3))" />
+            <TLINK id="tr1" type="BEFORE" eventID="e2" relatedToEvent="e3" />
+            <TLINK id="tr2" type="BEFORE" eventID="e3" relatedToEvent="e5" />
+            <TLINK id="tr3" type="SIMULTANEOUS" eventID="e6" relatedToEvent="e7" />
+        </SEGMENT>
+        <PLOT id="p1" NECS="nec1 nec2 nec3"/>
+        <NEC id="nec1" entity="c1" events="e1 e2 e5 e6 e7" />
+        <NEC id="nec2" entity="c2" events="e3 e4" />
+        <NEC id="nec3" entity="c3" events="e1 e3 e5" />
+        <EVALUATION id="ev1" eventID="e4" characterID="c2" audienceID="reader1" value="1" polarity="positive" />
+        <EVALUATION id="ev2" eventID="e6" characterID="c1" audienceID="reader1" value="1" polarity="negative" />
+        <EVALUATION id="ev3" eventID="e7" characterID="c1" audienceID="reader1" value="1" polarity="positive" />
+        <GOAL id="g1" parent="g2" character="c1" leaf="true" events="e1">cook</GOAL>
+        <GOAL id="g2" parent="" character="c1" leaf="false">show love</GOAL>
+        <GOAL id="g3" parent="g2" character="c1" leaf="true" events="e2">feel proud</GOAL>
+        <GOAL id="g4" parent="" character="c2" leaf="false">show appreciation</GOAL>
+        <GOAL id="g5" parent="g4" character="c2" leaf="true" events="e4">say</GOAL>
+        <TEMPO storyTime="PT2H30M" readingLength="PT45S" />
+    </NARRATIVE>
+</NarrativeML>
+
+Tina made spaghetti for her boyfriend. It took a lot of work, but she was very proud. Her boyfriend ate the whole plate and said it was good. I tried it, and realized it was disgusting. I was touched that he pretended it was good to spare my feelings.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.1">
+   <NARRATIVE id="n1" title="Tina's Spaghetti" medium="descriptive_text">
+      <NARRATOR id="n2" type="present" coref="c1" exists="true" order="CHRONICLE" distance="DIRECT"
+		perspective="INTERNALLY_FOCALIZED" timeRelation="SUBSEQUENT" />
+        <CHARACTER id="c1" name="Tina" type="animate" exists="true" accessibleTo="c1" mentionIDs="m1">
+            <MENTION id="m1" ref="c1" textSpanStart="0" textSpanEnd="4" />
+        </CHARACTER>
+        <CHARACTER id="c2" name="Boyfriend" type="animate" exists="true" accessibleTo="c1" mentionIDs="m2 m3">
+            <MENTION id="m2" ref="c2" textSpanStart="24" textSpanEnd="33" />
+            <MENTION id="m3" ref="c2" textSpanStart="102" textSpanEnd="111" />
+        </CHARACTER>
+        <CHARACTER id="c3" name="Spaghetti" type="inanimate" exists="true" accessibleTo="c1" mentionIDs="m4">
+            <MENTION id="m4" ref="c3" textSpanStart="9" textSpanEnd="18" />
+        </CHARACTER>
+        <SEGMENT id="s1" title="Cooking and Eating Spaghetti">
+            <EVENT id="e1" type="ACTION" participants="c1 c3" duration="PT2H" textSpanStart="5" textSpanEnd="9">made</EVENT>
+            <SPATIALREL id="sr1" eventID="e1" predicate="RCC8_EC" args="c1 c3">Tina externally connected to the spaghetti</SPATIALREL>
+            <CONDITION id="cond1" event="e1" type="pre" logic="Exists(x) (Ingredient(x) & Has(c1, x))" />
+            <CONDITION id="cond2" event="e1" type="post" logic="Cooked(c3)" />
+            <EVENT id="e2" type="MENTAL" participants="c1" duration="PT1M" textSpanStart="59" textSpanEnd="64">proud</EVENT>
+            <CONDITION id="cond3" event="e2" type="pre" logic="Cooked(c3)" />
+            <CONDITION id="cond4" event="e2" type="post" logic="Proud(c1, e1)" />
+            <EVENT id="e3" type="ACTION" participants="c2 c3" duration="PT15M" textSpanStart="94" textSpanEnd="97">ate</EVENT>
+            <SPATIALREL id="sr2" eventID="e3" predicate="RCC8_EC" args="c2 c3">Boyfriend externally connected to the spaghetti</SPATIALREL>
+            <CONDITION id="cond5" event="e3" type="pre" logic="OnPlate(c3)" />
+            <CONDITION id="cond6" event="e3" type="post" logic="not(OnPlates(c3, Plate))" />
+            <EVENT id="e4" type="SPEECHACT" participants="c2" duration="PT1M" textSpanStart="102" textSpanEnd="106">said</EVENT>
+            <CONDITION id="cond7" event="e4" type="pre" logic="Ate(c2, c3)" />
+            <CONDITION id="cond8" event="e4" type="post" logic="Believe(c1, Good(c3))" />
+            <EVENT id="e5" type="ACTION" participants="n2 c3" duration="PT2M" textSpanStart="113" textSpanEnd="118">tried</EVENT>
+             <SPATIALREL id="sr3" eventID="e5" predicate="RCC8_EC" args="c1 c3">Tina externally connected to the spaghetti</SPATIALREL>	
+            <CONDITION id="cond9" event="e5" type="pre" logic="not(Empty(c3))" />
+            <CONDITION id="cond10" event="e5" type="post" logic="Tasted(n2, c3)" />
+            <EVENT id="e6" type="MENTAL" participants="n2" duration="PT1M" textSpanStart="124" textSpanEnd="132">realized</EVENT>
+            <CONDITION id="cond11" event="e6" type="pre" logic="Tasted(n2, c3)" />
+            <CONDITION id="cond12" event="e6" type="post" logic="Aware(n2, not(Good(c3)))" />
+            <EVENT id="e7" type="MENTAL" participants="n2" duration="PT1M" textSpanStart="144" textSpanEnd="151">touched</EVENT>
+            <CONDITION id="cond13" event="e7" type="pre" logic="Complimented(c2, c3)" />
+            <CONDITION id="cond14" event="e7" type="post" logic="Touched(n2, Complimented(c2, c3))" />
+            <TLINK id="tr1" type="BEFORE" eventID="e2" relatedToEvent="e3" />
+            <TLINK id="tr2" type="BEFORE" eventID="e3" relatedToEvent="e5" />
+            <TLINK id="tr3" type="SIMULTANEOUS" eventID="e6" relatedToEvent="e7" />
+        </SEGMENT>
+        <PLOT id="p1" NECS="nec1 nec2 nec3 nec4"/>
+        <NEC id="nec1" entity="c1" events="e1 e2 " />
+        <NEC id="nec2" entity="c2" events="e3 e4" />
+        <NEC id="nec3" entity="c3" events="e1 e3 e5" />
+         <NEC id="nec4" entity="n2" events="e5 e6 e7" />
+        <EVALUATION id="ev1" eventID="e4" characterID="c2" audienceID="reader1" value="1" polarity="positive" />
+        <EVALUATION id="ev2" eventID="e6" characterID="n2" audienceID="reader1" value="2" polarity="negative"
+          comment="Implausible intrusion of narrator into story" />
+         <EVALUATION id="ev3" eventID="e7" characterID="n2" audienceID="reader1" value="2" polarity="negative"
+          comment="Implausible implication that boyfriend wanted to impress narrator rather than girlfriend Tina." />
+        <GOAL id="g1" parent="g2" character="c1" leaf="true" events="e1">cook</GOAL>
+        <GOAL id="g2" parent="" character="c1" leaf="false">show love</GOAL>
+        <GOAL id="g3" parent="g2" character="c1" leaf="true" events="e2">feel proud</GOAL>
+        <GOAL id="g4" parent="" character="c2" leaf="false">show appreciation</GOAL>
+        <GOAL id="g5" parent="g4" character="c2" leaf="true" events="e4">say</GOAL>
+        <TEMPO storyTime="PT2H30M" readingLength="PT45S" />
+    </NARRATIVE>
+</NarrativeML>
+
+There was a power outage in the Smith residence. The infant Fred could barely see in front of him. He crawled around in the dark, feeling his way around. Finally, he felt his hand wrap around a familiar item. He turned on the flashlight.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.1">
+  <NARRATIVE id="n1" title="Power Outage">
+    <NARRATOR id="n2" order="CHRONICLE" distance="NARRATED" perspective="NON_FOCALIZED" timeRelation="SUBSEQUENT"/>
+    <CHARACTER id="c1" name="Fred" type="animate" exists="true" mentionIDs="m1 m2 m3 m4"/>
+    <CHARACTER id="c2" name="Smith Residence" type="inanimate" exists="true" mentionIDs="m5"/>
+    <CHARACTER id="c3" name="Flashlight" type="inanimate" exists="true" mentionIDs="m6"/>
+    <SEGMENT id="s1" title="Power Outage Sequence">
+      <EVENT id="e1" type="ACTION" participants="c1 c2" textSpanStart="10" textSpanEnd="47">power_outage</EVENT>
+      <CONDITION id="condition1" event="e1" logic="not(Have(c2, Electricity))" type="pre"/>
+      <CONDITION id="condition2" event="e1" logic="Dark(c2)" type="post"/>
+      <EVENT id="e2" type="ACTION" participants="c1" textSpanStart="93" textSpanEnd="142">crawling_in_dark</EVENT>
+      <SPATIALREL eventID="e2" id="spatialrel1" predicate="RCC8_NTPP" args="c1 c2">Fred inside Smith Residence</SPATIALREL>
+      <CONDITION id="condition3" event="e2" logic="Crawling(c1)" type="pre"/>
+      <CONDITION id="condition4" event="e2" logic="Feeling_way(c1)" type="post"/>
+      <SPATIALREL eventID="e2" id="spatialrel2" predicate="RCC8_DC" args="c1 c3">Fred disconnected from the flashlight</SPATIALREL>
+      <EVENT id="e3" type="ACTION" participants="c1 c3" textSpanStart="143" textSpanEnd="188">find_flashlight</EVENT>
+      <CONDITION id="condition5" event="e3" logic="Feeling_way(c1)" type="pre"/>
+      <CONDITION id="condition6" event="e3" logic="Grasp(c1, c3)" type="post"/>
+      <SPATIALREL eventID="e3" id="spatialrel3" predicate="RCC8_EC" args="c1 c3">Fred externally connected to flashlight</SPATIALREL>
+      <EVENT id="e4" type="ACTION" participants="c1 c3" textSpanStart="189" textSpanEnd="217">turn_on_flashlight</EVENT>
+      <CONDITION id="condition7" event="e4" logic="Grasp(c1, c3)" type="pre"/>
+      <CONDITION id="condition8" event="e4" logic="not(Dark(c2))" type="post"/>
+      <TLINK id="tr1" type="BEFORE" eventID="e1" relatedToEvent="e2" />
+      <TLINK id="tr2" type="BEFORE" eventID="e2" relatedToEvent="e3" />
+      <TLINK id="tr3" type="BEFORE" eventID="e3" relatedToEvent="e4" />
+    </SEGMENT>
+    <PLOT id="plot1" NECS="nec1 nec2 nec3 nec4">
+      <GOAL id="g1" parent="g2" character="c1" leaf="true" events="e2 e3 e4">find_light</GOAL>
+      <GOAL id="g2" parent="" character="c1" leaf="false">navigate_comfortably</GOAL>
+    </PLOT>
+    <NEC id="nec1" entity="c1" events="e1 e2 e3 e4"/>
+    <NEC id="nec2" entity="c2" events="e1"/>
+    <NEC id="nec3" entity="c3" events="e3 e4"/>
+    <NEC id="nec4" entity="e1" events="e2"/>
+    <EVALUATION id="ev1" eventID="e2" characterID="c2" audienceID="reader1" value="1" polarity="positive" />
+    <EVALUATION id="ev2" eventID="e3" characterID="n2" audienceID="reader1" value="1" polarity="positive" />
+    <EVALUATION id="ev3" eventID="e4" characterID="n2" audienceID="reader1" value="2" polarity="negative" comment="Implausible that infant Fred could turn on flashlight." />
+    <TEMPO storyTime="PT10M" readingLength="PT30S" />
+    <MENTION id="m1" ref="c1" textSpanStart="55" textSpanEnd="59"/> <!-- Fred -->
+    <MENTION id="m2" ref="c1" textSpanStart="93" textSpanEnd="95"/> <!-- He (Fred) -->
+    <MENTION id="m3" ref="c1" textSpanStart="143" textSpanEnd="145"/> <!-- he (Fred) -->
+    <MENTION id="m4" ref="c1" textSpanStart="189" textSpanEnd="191"/> <!-- He (Fred) -->
+    <MENTION id="m5" ref="c2" textSpanStart="32" textSpanEnd="47"/> <!-- Smith residence -->
+    <MENTION id="m6" ref="c3" textSpanStart="200" textSpanEnd="209"/> <!-- flashlight -->
+  </NARRATIVE>
+</NarrativeML>
+
+There was a power outage in the Smith residence. Fred could barely see in front of him. He crawled around in the dark, feeling his way around. Finally, he felt his hand wrap around a familiar item. He turned on the flashlight and illuminated the narrator, who was frantically scribbling the final words of this story by the light of his laptop screen.
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.1">
+  <NARRATIVE id="n1" title="Power Outage">
+    <!--Involves metalepsis, handled via subordination link SLINK -->
+    <!-- Implausible aspect according to AI but not human!!!: Author writing by laptop light during a power outage -->
+    <NARRATOR id="n2" order="CHRONICLE" distance="NARRATED" perspective="NON_FOCALIZED" timeRelation="SUBSEQUENT"/>
+    <CHARACTER id="c1" name="Fred" type="animate" exists="true" mentionIDs="m1"/>
+    <CHARACTER id="c2" name="Smith Residence" type="inanimate" exists="true" mentionIDs="m2"/>
+    <CHARACTER id="c3" name="Flashlight" type="inanimate" exists="true" mentionIDs="m3"/>
+    <SEGMENT id="s1" title="Power Outage Sequence">
+      <EVENT id="e1" type="ACTION" participants="c1 c2" textSpanStart="10" textSpanEnd="25">power_outage</EVENT>
+      <CONDITION id="condition1" event="e1" logic="not(Have(c2, Electricity))" type="pre"/>
+      <CONDITION id="condition2" event="e1" logic="Dark(c2)" type="post"/>
+      <EVENT id="e2" type="ACTION" participants="c1" textSpanStart="31" textSpanEnd="57">crawling_in_dark</EVENT>
+      <SPATIALREL eventID="e2" id="spatialrel1" predicate="RCC8_NTPP" args="c1 c2">Fred inside Smith Residence</SPATIALREL>
+      <CONDITION id="condition3" event="e2" logic="Crawling(c1)" type="pre"/>
+      <CONDITION id="condition4" event="e2" logic="Feeling_way(c1)" type="post"/>
+      <SPATIALREL eventID="e2" id="spatialrel1" predicate="RCC8_DC" args="c1 c3">Fred disconnected from the flashlight</SPATIALREL>
+      <EVENT id="e3" type="ACTION" participants="c1 c3" textSpanStart="75" textSpanEnd="99">find_flashlight</EVENT>
+      <CONDITION id="condition5" event="e3" logic="Feeling_way(c1)" type="pre"/>
+      <CONDITION id="condition6" event="e3" logic="Grasp(c1, c3)" type="post"/>
+      <SPATIALREL eventID="e3" id="spatialrel2" predicate="RCC8_EC" args="c1 c3">Fred externally connected to flashlight</SPATIALREL>
+      <EVENT id="e4" type="ACTION" participants="c1 c3" textSpanStart="105" textSpanEnd="123">turn_on_flashlight</EVENT>
+      <CONDITION id="condition7" event="e4" logic="Grasp(c1, c3)" type="pre"/>
+      <CONDITION id="condition8" event="e4" logic="not(Dark(c2))" type="post"/>
+      <TLINK id="tr1" type="BEFORE" eventID="e1" relatedToEvent="e2"/>
+      <TLINK id="tr2" type="BEFORE" eventID="e2" relatedToEvent="e3"/>
+      <TLINK id="tr2" type="BEFORE" eventID="e3" relatedToEvent="e4"/>
+      <EVENT id="e5" type="ACTION" participants="c3 n2" textSpanStart="143" textSpanEnd="174">illuminate_author</EVENT>
+      <CONDITION id="condition7" event="e5" logic="Dark(n2)" type="pre"/>
+      <CONDITION id="condition8" event="e5" logic="not(Dark(n2))" type="post"/>
+      <TLINK id="tr2" type="BEFORE" eventID="e4" relatedToEvent="e5"/>
+      <EVENT id="e6" type="ACTION" participants="n2" textSpanStart="180" textSpanEnd="210">write_story</EVENT>
+      <TLINK id="tr3" type="DURING" eventID="e5" relatedToEvent="e6"/>
+      <SLINK id="s1" type="MODAL" eventID="e6" subordinatedEventID="e5">
+        <CONDITION id="condition7" event="e6" logic="Typing(n2, n1)" type="pre"/>
+        <CONDITION id="condition8" event="e4" logic="Typing(n2, n1)" type="post"/>
+      </SEGMENT>
+      <PLOT id="plot1" NECS="nec1 nec2 nec3 nec4">
+        <GOAL id="g1" parent="g2" character="c1" leaf="true" events="e2 e3 e4">find_light</GOAL>
+        <GOAL id="g2" parent="" character="c1" leaf="false">navigate_comfortably</GOAL>
+        <GOAL id="g3" parent="" character="n2" leaf="true">metaleptic_narrative</GOAL>
+      </PLOT>
+    </PLOT>
+    <NEC id="nec1" entity="c1" events="e1 e2 e3 e4"/>
+    <NEC id="nec2" entity="c2" events="e1"/>
+    <NEC id="nec3" entity="c3" events="e3 e4 e5"/>
+    <NEC id="nec4" entity="n2" events="e5 e6"/>
+    <EVALUATION id="ev1" eventID="e2" characterID="c2" audienceID="reader1" value="1" polarity="positive"/>
+    <EVALUATION id="ev2" eventID="e3" characterID="n2" audienceID="reader1" value="1" polarity="positive"/>
+    <EVALUATION id="ev3" eventID="e4" characterID="n2" audienceID="reader1" value="2" polarity="negative" comment="Implausible that infant Fred could turn on flashlight."/>
+    <EVALUATION id="ev4" eventID="e5" characterID="n2" audienceID="reader1" value="1" polarity="positive" comment="Surprised that narrator is metaleptic character in story."/>
+    <TEMPO storyTime="PT10M" readingLength="PT50S"/>
+  </NARRATIVE>
+  <MENTION id="m1" ref="c1" textSpanStart="0" textSpanEnd="4"/>
+  <MENTION id="m2" ref="c2" textSpanStart="40" textSpanEnd="55"/>
+  <MENTION id="m3" ref="c3" textSpanStart="120" textSpanEnd="130"/>
+</NarrativeML>
+
+Sometimes passing in front of the hotel he remembered the rainy days when he used to bring his nursemaid that far, on a pilgrimage. But he remembered them without the melancholy that he then thought he would surely some day savor on feeling that he no longer loved her.
+
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.1">
+  <NARRATIVE id="n1" title="Remembrance" medium="prose" level="1" narrator="narrator1" order="ZIGZAG" distance="NARRATED" perspective="INTERNALLY_FOCALIZED" timeRelation="PRIOR">
+    <NARRATOR id="narrator1" type="present" person="third" name="Narrator"/>
+    <CHARACTER id="c1" name="He" type="animate" mentionIDs="m1"/>
+    <CHARACTER id="c2" name="Nursemaid" type="animate" mentionIDs="m2"/>
+    <CHARACTER id="c3" name="Hotel" type="inanimate" mentionIDs="m3"/>
+    <CHARACTER id="c4" name="her" type="animate" mentionIDs="m4"/>
+    <SEGMENT id="s1" title="Passing Hotel">
+      <TIME id="t1" value="PXT">Sometimes</TIME>
+      <EVENT id="e1" type="PERCEPTION" participants="c1 c3" textSpanStart="18" textSpanEnd="33">passing_hotel</EVENT>
+      <SPATIALREL eventID="e1" id="sr1" predicate="RCC8_DC" args="c1 c3">He disconnected from Hotel</SPATIALREL>
+      <TLINK id="tr1" type="SIMULTANEOUS" eventID="e1" relatedToTime="t1"/>
+      <CONDITION id="cond1" event="e1" type="pre" logic="Near(c1, c3)"/>
+      <CONDITION id="cond2" event="e1" type="post" logic="Passed(c1, c3)"/>
+      <EVENT id="e2" type="MENTAL" participants="c1" textSpanStart="39" textSpanEnd="61">remember_rainy_days</EVENT>
+      <SLINK id="sl1" eventID="e2" type="MODAL" subordinatedEventID="e1"/>
+      <SPATIALREL eventID="e2" id="sr2" predicate="RCC8_DC" args="c1 c2">He disconnected from Nursemaid</SPATIALREL>
+      <TLINK id="tr2" type="DURING" eventID="e2" relatedToEvent="e1"/>
+      <CONDITION id="cond3" event="e2" type="pre" logic="Previously(e1)"/>
+      <CONDITION id="cond4" event="e2" type="post" logic="Remembered(c1, t2)"/>
+      <EVENT id="e3" type="ACTION" participants="c1 c2" textSpanStart="88" textSpanEnd="126">bring_on_pilgrimage</EVENT>
+      <TIME id="t2" value="PXD">rainy days</TIME>
+      <TLINK id="tr3" type="DURING" eventID="e2" relatedToEvent="e1"/>
+      <TLINK id="tr4" type="BEFORE" timeID="t2" relatedToTime="t1"/>
+      <CONDITION id="cond5" event="e3" type="pre" logic="UsedToBring(c1, c2)"/>
+      <CONDITION id="cond6" event="e3" type="post" logic="Pilgrimage(c1, c2)"/>
+      <EVENT id="e4" type="MENTAL" participants="c1" textSpanStart="157" textSpanEnd="172">remember_them</EVENT>
+      <TIME id="t3" value="PXD">them</TIME>
+      <TIME id="t4" value="PXD">then</TIME>
+      <TLINK id="tr5" type="SIMULTANEOUS" timeID="t3" relatedToTime="t4"/>
+      <CONDITION id="cond7" event="e4" type="pre" logic="TriggeredBy(e2, e4)"/>
+      <CONDITION id="cond8" event="e4" type="post" logic="Not(Melancholy(c1))"/>
+      <EVENT id="e5" type="MENTAL" participants="c1" textSpanStart="179" textSpanEnd="185">thought</EVENT>
+      <SLINK id="sl2" eventID="e4" subordinatedEventID="e1"/>
+      <TLINK id="tr6" type="DURING" eventID="e5" relatedToTime="t4"/>
+      <TIME id="t5" value="P1D">some day</TIME>
+      <CONDITION id="cond9" event="e5" type="pre" logic="ReflectingOn(c1, e2)"/>
+      <CONDITION id="cond10" event="e5" type="post" logic="EnvisionFutureFeelings(c1, e6)"/>
+      <EVENT id="e6" type="MENTAL" participants="c1" textSpanStart="220" textSpanEnd="225">savor</EVENT>
+      <TLINK id="tr7" type="DURING" eventID="e6" relatedToTime="t5"/>
+      <CONDITION id="cond11" event="e6" type="pre" logic="PredictedBy(e5, e6)"/>
+      <CONDITION id="cond12" event="e6" type="post" logic="AnticipatedMelancholy(c1)"/>
+      <EVENT id="e7" type="MENTAL" participants="c1 c4" textSpanStart="262" textSpanEnd="272">loved</EVENT>
+      <TLINK id="tr8" type="BEFORE" eventID="e7" relatedToEvent="e6"/>
+      <SLINK id="sl3" eventID="e5" subordinatedEventID="e6"/>
+      <CONDITION id="cond13" event="e7" type="pre" logic="OnceLoved(c1, c4)"/>
+      <CONDITION id="cond14" event="e7" type="post" logic="NoLongerLoves(c1, c4)"/>
+    </SEGMENT>
+    <PLOT id="plot1" NECS="nec1 nec2 nec3 nec4">
+      <GOAL id="g1" parent="" character="c1" leaf="false">ReflectOnPast</GOAL>
+      <GOAL id="g2" parent="g1" character="c1" leaf="true" events="e2 e4 e5 e6 e7">AchieveEmotionalClosure</GOAL>
+    </PLOT>
+    <NEC id="nec1" entity="c1" events="e1 e2 e3 e4 e5 e6 e7"/>
+    <NEC id="nec2" entity="c2" events="e3"/>
+    <NEC id="nec3" entity="c3" events="e1"/>
+    <NEC id="nec4" entity="c4" events="e7"/>
+    <EVALUATION id="ev1" eventID="e2" characterID="c1" audienceID="reader1" value="1" polarity="positive" comment="Remembers rainy days without the expected melancholy, creating relief"/>
+    <EVALUATION id="ev2" eventID="e4" characterID="c1" audienceID="reader1" value="1" polarity="positive" comment="Reflecting on them free of sadness suggests a positive outcome for him"/>
+    <EVALUATION id="ev3" eventID="e5" characterID="c1" audienceID="reader1" value="1" polarity="negative" comment="Imagining future melancholy about lost love carries a negative emotional tone"/>
+    <EVALUATION id="ev4" eventID="e6" characterID="c1" audienceID="reader1" value="1" polarity="negative" comment="Contemplating no longer loving her results in a negative reflection for him"/>
+    <TEMPO storyTime="PTXY" readingLength="PT180S" />
+    <MENTION id="m1" ref="c1" textSpanStart="0" textSpanEnd="2"/>
+    <MENTION id="m2" ref="c2" textSpanStart="75" textSpanEnd="83"/>
+    <MENTION id="m3" ref="c3" textSpanStart="18" textSpanEnd="23"/>
+    <MENTION id="m4" ref="c4" textSpanStart="251" textSpanEnd="254"/>
+  </NARRATIVE>
+</NarrativeML>
+
+John was thrilled when Mary accepted his engagement ring. But when he found out about her father's  illegal mail-order business, he felt torn between his love for Mary and his responsibility as a police officer. When John finally arrested her father, Mary called off their engagement. 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<NarrativeML version="2.1">
+  <NARRATIVE id="n1" title="A Difficult Choice" medium="descriptive_text" level="1" narrator="n2"
+             order="CHRONICLE" distance="DIRECT" perspective="EXTERNALLY_FOCALIZED" timeRelation="PRIOR">
+      <NARRATOR id="narrator1" type="present" person="third" name="Narrator"/>
+     <CHARACTER id="c1" name="John" type="animate" mentionIDs="m1 m2 m3 m4" />
+    <CHARACTER id="c2" name="Mary" type="animate" mentionIDs="m5 m6 m7 m8" />
+    <CHARACTER id="c3" name="ring" type="inanimate" mentionIDs="m9" />
+    <CHARACTER id="c4" name="Mary's Father" type="animate" mentionIDs="m10 m11" />
+    <SEGMENT id="s1" title="Engagement Unraveled">
+      <EVENT id="e1" type="MENTAL" participants="c1" textSpanStart="0" textSpanEnd="13">was thrilled</EVENT>
+      <CONDITION id="cond1" event="e1" type="pre" logic="Proposed(c1,c2)"/>
+      <CONDITION id="cond2" event="e1" type="post" logic="Thrilled(c1)"/>
+        <EVENT id="e2" type="ACTION" participants="c2 c1" textSpanStart="19" textSpanEnd="49">accepted his engagement ring</EVENT>
+        <SPATIALREL id="sr1" eventID="e2" predicate="RCC8_EC" args="c1 c2">
+       Mary is externally connected to John, symbolizing closeness during acceptance of the ring
+       </SPATIALREL>
+     <CONDITION id="cond3" event="e2" type="pre" logic="Offered(c1,c2,c3)"/>
+      <CONDITION id="cond4" event="e2" type="post" logic="Engaged(c1,c2)"/>
+           <EVENT id="e3" type="MENTAL" participants="c1 c4" textSpanStart="55" textSpanEnd="97">found out about her father's illegal mail-order business</EVENT>
+      <CONDITION id="cond5" event="e3" type="pre" logic="Suspected(c1,c4)"/>
+      <CONDITION id="cond6" event="e3" type="post" logic="Aware(c1,IllegalBusiness(c4))"/>
+      <EVENT id="e4" type="MENTAL" participants="c1" textSpanStart="103" textSpanEnd="147">felt torn between his love for Mary and his responsibility as a police officer</EVENT>
+      <CONDITION id="cond7" event="e4" type="pre" logic="KnowsIsCriminal(c1,c4) and Loves(c1,c2)"/>
+      <CONDITION id="cond8" event="e4" type="post" logic="Conflicted(c1)"/>
+          <EVENT id="e5" type="ACTION" participants="c1 c4" textSpanStart="153" textSpanEnd="182">finally arrested her father</EVENT>
+      <CONDITION id="cond9" event="e5" type="pre" logic="HasEvidence(c1,c4)"/>
+      <CONDITION id="cond10" event="e5" type="post" logic="Arrested(c4)"/>
+      <SPATIALREL id="sr2" eventID="e5" predicate="RCC8_EC" args="c1 c3">
+ 	 John is externally connected to Mary's father (physical contact) while carrying out the arrest
+	</SPATIALREL>
+          <EVENT id="e6" type="ACTION" participants="c2 c1" textSpanStart="188" textSpanEnd="223">called off their engagement</EVENT>
+          <SPATIALREL id="sr3" eventID="e6" predicate="RCC8_DC" args="c1 c2">
+ 	 Mary disconnects from John, emphasizing the end of the engagement
+	</SPATIALREL>
+      <CONDITION id="cond11" event="e6" type="pre" logic="KnowsArrested(c2,c4) and Engaged(c1,c2)"/>
+      <CONDITION id="cond12" event="e6" type="post" logic="Ends(Engagement(c1,c2), c2))"/>
+      <EVALUATION id="ev1" eventID="e1" characterID="c1" audienceID="reader1" value="1" polarity="positive"
+     	 comment="John was thrilled: positive outcome">
+      <EVALUATION id="ev2" eventID="e2" characterID="c1" audienceID="reader1" value="1" polarity="positive"
+     	 comment="Mary accepted the ring: positive outcome">
+      <EVALUATION id="ev3" eventID="e3" characterID="c1" audienceID="reader1" value="1" polarity="negative"
+      	comment="Finding out about the illegal business: negative outcome">
+      <EVALUATION id="ev4" eventID="e4" characterID="c1" audienceID="reader1" value="1" polarity="negative"
+      comment="Feeling torn: negative outcome">
+      <EVALUATION id="ev5" eventID="e5" characterID="c1" audienceID="reader1" value="1" polarity="negative"
+      	comment="Arresting father (personally distressing): negative outcome">
+      <EVALUATION id="ev6" eventID="e6" characterID="c1" audienceID="reader1" value="1" polarity="negative"
+      comment="Mary calling off engagement: negative outcome">
+    </SEGMENT>
+    <PLOT id="plot1" NECS="nec1 nec2 nec3">
+      <GOAL id="g1" parent="" character="c1" leaf="false">Marry_Mary</GOAL>
+      <GOAL id="g2" parent="g1" character="c1" leaf="true" events="e1 e2">Engagement</GOAL>
+      <GOAL id="g3" parent="" character="c1" leaf="false">Uphold_Law</GOAL>
+      <GOAL id="g4" parent="g3" character="c1" leaf="true" events="e3 e5">StopCriminalFather</GOAL>
+    </PLOT>
+    <NEC id="nec1" entity="c1" events="e1 e2 e3 e4 e5 e6"/>
+    <NEC id="nec2" entity="c2" events="e2 e4 e6"/>
+    <NEC id="nec3" entity="c4" events="e3 e5"/>
+    <MENTION id="m1" ref="c1" textSpanStart="0" textSpanEnd="4"/>
+    <MENTION id="m2" ref="c1" textSpanStart="45" textSpanEnd="49"/>
+    <MENTION id="m3" ref="c1" textSpanStart="109" textSpanEnd="113"/>
+    <MENTION id="m4" ref="c1" textSpanStart="149" textSpanEnd="153"/>
+    <MENTION id="m5" ref="c2" textSpanStart="19" textSpanEnd="23"/>
+    <MENTION id="m6" ref="c2" textSpanStart="91" textSpanEnd="95"/>
+    <MENTION id="m7" ref="c2" textSpanStart="135" textSpanEnd="139"/>
+    <MENTION id="m8" ref="c2" textSpanStart="194" textSpanEnd="198"/>
+    <MENTION id="m9" ref="c3" textSpanStart="36" textSpanEnd="49"/>
+    <MENTION id="m10" ref="c4" textSpanStart="55" textSpanEnd="64"/>
+    <MENTION id="m11" ref="c4" textSpanStart="169" textSpanEnd="178"/>
+  </NARRATIVE>
+</NarrativeML>
