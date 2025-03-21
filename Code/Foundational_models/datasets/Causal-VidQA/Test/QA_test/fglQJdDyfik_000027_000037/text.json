@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening the box of a gift.",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is listening to a man sitting in front of her.",
+            "[person_1] is slamming a tire.",
+            "[person_1] is roasting the marshmallows while crouching."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] roast marshmallows?",
+        "answer": [
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing with someone.",
+            "[person_1] uses fire to roast marshmallows.",
+            "[person_1] uses [bowl_1] to roast the marshmallows.",
+            "Because they have just heard a funny story."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after finishing roasting the marshmallow?",
+        "answer": [
+            "[person_1] will stand up quickly.",
+            "[person_1] wants to do some kind of style.",
+            "To lean against the wall.",
+            "[person_1] will remove the cage.",
+            "She will mess it up."
+        ],
+        "reason": [
+            "The other two have helped him . They look like old friends.",
+            "[person_1] seems don't care and didn't have the intention to wipe it.",
+            "It's tiring for a person to crouch for a long time.",
+            "[person_1] wants to check if there is something wrong in the field.",
+            "[person_1] is busy with doing her clothes and [person_1] hasn't another hand to make her hair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] proposes to go home?",
+        "answer": [
+            "[person_1] and [person_2] would still snap their fingers.",
+            "[person_1] might eat all the toothpaste.",
+            "[person_1] will be smarter.",
+            "[person_1] would be difficult to film.",
+            "[person_1] would take [person_2] back home."
+        ],
+        "reason": [
+            "The weights is very heavy.",
+            "They have finished roasting them and It is time to go home.",
+            "The weights is very heavy .",
+            "Because more clothes can make people feel warm.",
+            "[person_2] wants to comfort [person_2]."
+        ]
+    }
+}

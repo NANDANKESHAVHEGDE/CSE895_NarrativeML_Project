@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is purple.",
+            "It is pink.",
+            "The socks are white.",
+            "It is white.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] may just take up skating.",
+            "[person_1] is squeezing oranges with a juicer.",
+            "[person_1] is training spinning poi.",
+            "[person_1] is introducing how to do massaging neck.",
+            "[person_1] is here to tag the graffiti."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after watching?",
+        "answer": [
+            "[person_1] will sing the birthday song.",
+            "[person_1] will carry the [person_1] into the truck.",
+            "[person_1] will continue to eat.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to keep spraying the graffiti."
+        ],
+        "reason": [
+            "Because [person_1] is on a competition.",
+            "Because [person_1] seems to be proficient with the spray paints and graffiti tagging.",
+            "Because [person_1] is taking part in a contest with judges and audiences.",
+            "The box squat mainly works for the shoulders and thighs so [person_1] will feel very tired on the shoulders and thighs after doing squat.",
+            "[person_1] is still very focused on blowing the clarinet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color on the graffiti?",
+        "answer": [
+            "[person_1] might have to compensate for what [person_1] had not done.",
+            "Maybe [person_1] will toss it in the trash.",
+            "[person_1] might have to compensate for what [person_1] had done.",
+            "The house will be dark and [person_1] will use [person_1] for light.",
+            "[person_1] might not have to compensate for what [person_1] had done."
+        ],
+        "reason": [
+            "Because the graffiti might not be ruined.",
+            "The hot dog is dirty.",
+            "Because the graffiti might be kept.",
+            "Earthquake is dangerous.",
+            "Because the graffiti might be ruined."
+        ]
+    }
+}

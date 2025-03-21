@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the car?",
+        "answer": [
+            "Black.",
+            "It's a sunny day.",
+            "The [person_1]'s socks are white.",
+            "[person_1] is white.",
+            "The [person_1] is on a window sill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] open the door and close it?",
+        "answer": [
+            "[person_1] is using the piano.",
+            "Because there is something wrong with her mind.",
+            "[person_1] is recording a video.",
+            "[person_1] is playing the harmonica to relax.",
+            "[person_1] is enjoying massage."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will go to hospital.",
+            "[person_1] is going to hold a stick.",
+            "Maybe [person_1] is going to continue dance.",
+            "[person_1] is going to bow down to fondle a kangaroo.",
+            "[person_1] may eat the food on [person_1]."
+        ],
+        "reason": [
+            "Because she has Alzheimer's disease.",
+            "When [person_1] lies back down , [person_1] raises her hands and prepares to tickle.",
+            "There is only one square on the course to put one foot in.",
+            "[person_1] is passing a beer bottle to the man in front of him.",
+            "[person_1] is returning to the starting point of the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not have a car?",
+        "answer": [
+            "[person_1] will go back home quickly.",
+            "[person_1] will take a taxi.",
+            "[person_1] will not be able to smoke.",
+            "[person_1] will take different taxis.",
+            "Security team will have a plan to solve the problem."
+        ],
+        "reason": [
+            "Because the hospital is near her house.",
+            "There is no one who controls the game.",
+            "Because the hospital is far away from her baby.",
+            "He put his chicken in the bag before hand.",
+            "Because the hospital is far away from her house."
+        ]
+    }
+}

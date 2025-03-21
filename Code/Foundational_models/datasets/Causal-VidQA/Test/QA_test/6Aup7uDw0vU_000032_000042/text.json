@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "[person_1] is on the floor.",
+            "It is in the parking lot.",
+            "[person_1] is in the corner of the yard.",
+            "The [person_1] is near [person_1].",
+            "[couch_1] is near [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look happy?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is interested in the gifts on the [couch_1].",
+            "Because [person_1] plays to improve the speed of play.",
+            "Because [person_1] is showing how to play it.",
+            "[person_1] is trying to get as many dices stacked in the bottle as possible."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will collect honey.",
+            "[person_1] is going to drink water.",
+            "[person_1] is going to hold a stick.",
+            "Maybe [person_1] is going to open all the rest.",
+            "[person_1] is going to bow down to fondle a kangaroo."
+        ],
+        "reason": [
+            "There are many presents there.",
+            "[person_1] is moving.",
+            "Children are very dependent on their parents.",
+            "[person_1] keeps talking about blackjack.",
+            "To ask for [person_1]'s agreement with the proposal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] may go out to play.",
+            "[person_1] may stop playing.",
+            "[person_1] may stop reading.",
+            "Someone can not see the film.",
+            "[person_1] may stop opening."
+        ],
+        "reason": [
+            "The microphone will be off.",
+            "The microphone and the music will be off.",
+            "The TV is in front of [person_1] and [person_1].",
+            "The space will be dark.",
+            "It is daytime."
+        ]
+    }
+}

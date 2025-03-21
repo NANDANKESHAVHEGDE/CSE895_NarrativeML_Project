@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is black.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on stage?",
+        "answer": [
+            "[person_1] could be practicing guitar trying to get better at it.",
+            "[person_1] is training the side kick.",
+            "[person_1] is playing darts.",
+            "[person_1] is performing circus.",
+            "[person_1] is helping [person_1] and [person_1] skip the ropes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going grind the knife.",
+            "Maybe [person_1] is going to jump .",
+            "[person_1] will check the container.",
+            "[person_1] is going to swallow the sword.",
+            "Maybe [person_1] is going to start taking photo."
+        ],
+        "reason": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is leaving.",
+            "Because [person_1] has reached for the phone , it looks like the recording is finished.",
+            "[person_1] is putting the sword in his mouth.",
+            "To cut [person_1] into small pieces."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] swallows another sword?",
+        "answer": [
+            "[person_1] will record the song again.",
+            "[person_1] would get an injury.",
+            "[person_1] will be hurt.",
+            "The audience will be very excited.",
+            "[person_1] may hit his head."
+        ],
+        "reason": [
+            "[person_1] run too fast.",
+            "[person_1] would look very ridiculous.",
+            "It was very cold and there were thin layers of ice on the water.",
+            "It was hard but he did it.",
+            "They will fix the door."
+        ]
+    }
+}

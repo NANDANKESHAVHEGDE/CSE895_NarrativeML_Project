@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the flute?",
+        "answer": [
+            "[person_1] is taking clothes out of the box.",
+            "[person_1] is drawing a picture.",
+            "[person_1] is playing chess.",
+            "[person_1] is playing the flute.",
+            "[person_1] is doing a skate movement."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to not take the flute out of the mouth [person_1].",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] will get up.",
+            "Maybe [person_1] is going to continue skiing"
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "[person_1] is looking at [person_1].",
+            "[person_1] is holding the flute.",
+            "Maybe [person_1] is a earthen pot.",
+            "Because [person_1] has finished measuring the gap."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will help [person_1].",
+            "Maybe [person_1] will laugh.",
+            "[person_1] will lose.",
+            "Maybe [person_1] will cry.",
+            "[person_1]'s team will lose."
+        ],
+        "reason": [
+            "[person_1] is not pain.",
+            "[person_1] is closest to [person_1].",
+            "[person_1] is tough.",
+            "The ground is very firm.",
+            "[person_1] is pain."
+        ]
+    }
+}

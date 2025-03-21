@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks old and thin.",
+            "[person_1] looks thin.",
+            "[person_1] looks beautiful and simple.",
+            "[person_1] is so cute.",
+            "[person_1] looks like a basket weaver."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a microphone next to [person_1]?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] wants to help [person_1] shave.",
+            "Maybe [person_1] does the guitar for fun.",
+            "The [person_1] peels the potatoes.",
+            "The microphone helps [person_1] flute to be transmitted further."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to approach [person_1].",
+            "[person_1] will keep cleaning the dog.",
+            "Maybe [person_1] is going to sit.",
+            "[person_1] is going to be performing at the concert.",
+            "Maybe [person_1] is going to continue skiing"
+        ],
+        "reason": [
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is very attentive and serious.",
+            "It is too dark.",
+            "It is very sunny to play.",
+            "[person_1] is dancing in free style."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] foot hurts?",
+        "answer": [
+            "[person_1] will stop playing the flute.",
+            "The parents of [person_1] and [person_1] will comfort them.",
+            "[person_1] will continue playing the flute.",
+            "[person_1] will be full of happiness.",
+            "[person_1] will start playing the flute."
+        ],
+        "reason": [
+            "This is going to be a less important concert.",
+            "[person_1] will have many fans.",
+            "This is going to be an important concert.",
+            "Because lifting weights is very difficult and dangerous if [person_1] does not practice properly.",
+            "This isn't going to be an important concert."
+        ]
+    }
+}

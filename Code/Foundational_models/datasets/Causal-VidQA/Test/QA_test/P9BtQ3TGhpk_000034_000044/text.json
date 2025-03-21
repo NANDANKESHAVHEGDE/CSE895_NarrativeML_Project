@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room ?",
+        "answer": [
+            "The room is dark.",
+            "The room is very big.",
+            "The room is clean.",
+            "The room is quite bright.",
+            "It is in a grass field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the floor ?",
+        "answer": [
+            "[person_1] is playing flute alone.",
+            "Because [person_1] can somersault.",
+            "[person_1] is playing with cups.",
+            "[person_1] is a model for the exercise.",
+            "Because [person_1] is playing the toy organ."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep dancing.",
+            "[person_1] will stop kicking high.",
+            "[person_1] will certainly keep playing flute.",
+            "[person_1] will share his work with the camera.",
+            "[person_1] will think about the next move."
+        ],
+        "reason": [
+            "[person_1] is putting the pump nozzle into the car fuel tank.",
+            "Maybe [person_1] finished the song.",
+            "[person_1] is touching the shoe.",
+            "Maybe [person_1] got bored playing this game.",
+            "Then maybe [person_1] will rest in a few minutes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone knocks the door ?",
+        "answer": [
+            "Someone will help [person_1] to play the gong.",
+            "The [person_1] could not pick the blueberries.",
+            "[person_1] will be startled.",
+            "The girl will be very happy.",
+            "[person_1] may go to pick the object up."
+        ],
+        "reason": [
+            "[person_1] is a little boy and children normally enjoy watching movement.",
+            "[person_1] will look towards the door.",
+            "[person_1] spent money on his hat ; he would not want it to blow away and get lost.",
+            "The square green paper needs to be on the table for the person to fold.",
+            "When the cow does not move , [person_1] walks over to help."
+        ]
+    }
+}

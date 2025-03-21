@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is near [chair_1].",
+            "[chair_1] is behind the boy.",
+            "[chair_1] is near [chair_1].",
+            "It is in the room.",
+            "It is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing chess with [person_1].",
+            "[person_1] is trying to play guitar.",
+            "Because [person_1] wants to see the keyboard more clearly.",
+            "[person_1] is \u00a0 helping his daughter somersaults.",
+            "[person_1] is playing chess with [person_1] and [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to keep support the baby.",
+            "[person_1] will probably drink.",
+            "[person_1] will display his good work of the opening.",
+            "[person_1] will have a rest next.",
+            "[person_1]'s going to ride more smoothly."
+        ],
+        "reason": [
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] is going to turn the iron that poked the lock.",
+            "[person_1] must keep track of her student's progress.",
+            "Because [person_1] climbs so high.",
+            "[person_1] will laugh out loud."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not help his daughter ? ?",
+        "answer": [
+            "[person_1] would get drunk.",
+            "[person_1] would feel giddy.",
+            "[person_1] may hit his head.",
+            "It is possible that [person_1] will not have attractive eyes.",
+            "The baby will be sad."
+        ],
+        "reason": [
+            "[person_1] need to take a rest.",
+            "Practice makes perfect.",
+            "Drinking too much leads to getting drunk.",
+            "There is a long road ahead.",
+            "The baby will not somersault well."
+        ]
+    }
+}

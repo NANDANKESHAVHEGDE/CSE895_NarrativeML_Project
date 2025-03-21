@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bench_1]?",
+        "answer": [
+            "[bench_1] is a doctor.",
+            "The couch is in front of [bench_1].",
+            "[bench_1] is on the other side of the pond.",
+            "There is one \" Electric \" plate.",
+            "It is a circular saw."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] covering his ears?",
+        "answer": [
+            "[person_1] doesn't want to hear the noise from the explosion.",
+            "People are playing a group game.",
+            "With hands.",
+            "Because he's been running for a long time.",
+            "The flowers are for decoration."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is waiting for the calmness of everything.",
+            "[person_1] may cut the leaf on her hand.",
+            "[person_1] is going to do exercise.",
+            "[person_1] may wash his feet.",
+            "[person_1] is going to lift slowly."
+        ],
+        "reason": [
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] holds the hoop before hooping.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "[person_1] sat still and waited for the explosion ending.",
+            "Because [person_1] acts as a guide."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were nearer the explosion?",
+        "answer": [
+            "[person_1] might not be in danger or the water would cover him.",
+            "[person_1] would not have to bend down.",
+            "[person_1] might be in safety or the water would cover him.",
+            "[person_1] would find help from divers.",
+            "[person_1] might be in danger or the water would cover him."
+        ],
+        "reason": [
+            "The explosion has gray smoke and it could be bombed.",
+            "Because the stone plates would not be stable and fixed in place.",
+            "The explosion has no gray smoke and it could be bombed.",
+            "[person_1] would not have to pick up the apple.",
+            "The explosion has gray smoke and it could not be bombed."
+        ]
+    }
+}

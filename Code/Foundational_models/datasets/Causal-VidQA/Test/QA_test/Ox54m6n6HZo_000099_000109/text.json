@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [car_1]?",
+        "answer": [
+            "[car_1] is next to [person_1].",
+            "[person_1] is behind [person_1].",
+            "No.",
+            "It is behind [person_1] .",
+            "[car_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] going outside?",
+        "answer": [
+            "[person_1] is riding a unicycle.",
+            "Because [person_1] wants to cut the board.",
+            "[person_1] is helping [person_1] to open the gift.",
+            "Because [person_1] sees the bubbles and wants to catch them.",
+            "[person_1] is helping [person_1] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat potato chips.",
+            "[person_1] keeps riding the bicycle.",
+            "[person_1] will turn around and jump from this side to the other side of the jumping course.",
+            "[person_1] is going to spread the whipped cream over the [person_1] until it is done perfectly.",
+            "[person_1] is going to hold [person_1]'s leg."
+        ],
+        "reason": [
+            "It is dirty after taking shower for [person_1].",
+            "Because [person_1] is giving [person_1] instructions.",
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "When [person_1] opens the box , [person_1] takes out a beautiful pink shirt.",
+            "[person_1] looks happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will find shelter from the rain.",
+            "[person_1] and [person_1] will set up a tent.",
+            "[person_1] and [person_1] will stop running.",
+            "[person_1] will stop riding.",
+            "The [person_1] may be wet."
+        ],
+        "reason": [
+            "[person_1] is outside and [person_1] will get we if it rains.",
+            "[person_1] is outside and [person_1] will get wet if it rains?",
+            "[person_1] is outdoor and [person_1] will get wet if it rains.",
+            "The rain will wash away the chemicals.",
+            "[person_1] needs to find a shelter."
+        ]
+    }
+}

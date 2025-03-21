@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of hair does [person_2] have?",
+        "answer": [
+            "[person_2] uses his hand.",
+            "The fire extinguisher is red.",
+            "[person_2] has curly hair.",
+            "[person_2] is slamming the tire.",
+            "[person_2] has beautiful golden hair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] press [person_2]'s head?",
+        "answer": [
+            "They are making an \" X \" sign by the ropes.",
+            "[person_1] is standing up to play his guitar in front of the camera.",
+            "[person_1] is giving massage to [person_2] on his head.",
+            "[person_1] is standing on hands.",
+            "[person_1] uses the gas cooker to roast marshmallows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may take off [person_1]'s gloves.",
+            "[person_1] may hold the bear.",
+            "[person_1] will have a rest.",
+            "[person_1] continues to play the keyboard.",
+            "[person_1] may brush teeth."
+        ],
+        "reason": [
+            "Avoid hitting the tree forward.",
+            "[person_1] must be tired after long time using his hands.",
+            "[person_1] must feel sore of his waist.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "The [person_1] is stopping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] took off his clothes?",
+        "answer": [
+            "[person_2] will find gift wrapping very easy.",
+            "He can not sing if there is no music.",
+            "[person_2] would feel cold.",
+            "[person_2] would not do it.",
+            "[person_2] can erase the wrong words."
+        ],
+        "reason": [
+            "Because [person_2] did not have anyone else to keep the ball for him.",
+            "[person_2] needs the hair clipper to cut.",
+            "It seems the weather inside the video is cold.",
+            "The sole of his dirty shoe will rub against the pants of [person_2].",
+            "The [person_2] tries to throw shot put as far as the [person_2] can."
+        ]
+    }
+}

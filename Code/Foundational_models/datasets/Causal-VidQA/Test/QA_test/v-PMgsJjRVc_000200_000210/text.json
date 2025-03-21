@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his sawmill.",
+            "[person_1] is sitting on the floor in a bedroom.",
+            "[person_1] is in a small library.",
+            "[person_1] is standing on the side of a busy road.",
+            "[person_1] is at a grocery store."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] look like?",
+        "answer": [
+            "[person_1] is watching [person_1] lift weights.",
+            "Because [person_1] is asked to close the door.",
+            "[person_1] looks quite careful and intent.",
+            "Because the [person_1] needs to keep the [person_1] door open.",
+            "Because [person_1] learns about animals."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sing.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to keep working.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "[person_1] is dancing in free style.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "It is very sunny to play.",
+            "[person_1] likes sledding.",
+            "[person_1] hasn't finished the product yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wants a better product?",
+        "answer": [
+            "[person_1] will go to the hospital.",
+            "[person_1] will see her reflection.",
+            "[person_1] won't be able to perform.",
+            "[person_1] will fix it.",
+            "[person_1] , [person_1] and [person_1] would be talking together."
+        ],
+        "reason": [
+            "The sun will make you sick.",
+            "[person_1] wants to pamper customers.",
+            "[person_1] will not be interviewed.",
+            "The ropes are enough.",
+            "[person_1] wouldn't have to communicate with [person_1]."
+        ]
+    }
+}

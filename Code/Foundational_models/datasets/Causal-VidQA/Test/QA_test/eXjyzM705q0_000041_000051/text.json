@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is snatching weight lifting.",
+            "[person_1] is throwing the ball forward.",
+            "[person_1] is looking at himself.",
+            "[person_1] is standing behind the net to play badminton.",
+            "[person_1] is taking mortar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] trying to take a deep breath?",
+        "answer": [
+            "Because [person_1] wants to hold up the weight lifting.",
+            "To be more attractive in the mirror.",
+            "[person_1] is reading [person_1].",
+            "[person_1] wears a cap to avoid the dazzling light from the sun.",
+            "Because [person_1] is interviewed."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will go to the bed.",
+            "[person_1] will run towards the ball.",
+            "[person_1] will talk with other people.",
+            "[person_1] will bake the dough.",
+            "[person_1] will open the door."
+        ],
+        "reason": [
+            "[person_1] will go to the bed because [person_1] is going backwards.",
+            "[person_1] is looking at [person_1].",
+            "[person_1] is helping [person_1] to stretch.",
+            "He keeps asking help from someone and will start the jigsaw.",
+            "[person_1] has stepped aside."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] turned his head?",
+        "answer": [
+            "[person_1] will not fall off the chair and prepare for the class.",
+            "[person_1] will stop playing.",
+            "[person_1] would be shy or angry.",
+            "[person_1] will win.",
+            "[person_1] will rest on [person_1]."
+        ],
+        "reason": [
+            "[person_1] wants to rest himself.",
+            "[person_1] won't have anybody to dance with.",
+            "Because it's [person_1]'s goal . ",
+            "[person_1] would be shy or angry because someone saw him looking at himself.",
+            "Because the barbell is very heavy for [person_1]."
+        ]
+    }
+}

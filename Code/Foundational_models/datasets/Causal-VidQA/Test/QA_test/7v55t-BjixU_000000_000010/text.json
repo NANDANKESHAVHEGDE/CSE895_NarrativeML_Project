@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are 5 people.",
+            "There are 7 people.",
+            "There are 10 people.",
+            "The room is spacious.",
+            "There are 2 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] gathered together?",
+        "answer": [
+            "Because [person_2] is aiming to shoot marbles.",
+            "Perhaps [person_1] wants to be stronger.",
+            "Because [person_1] is spraying paint the door.",
+            "The [person_1] expands the bellows to make the sound loudlier or softer.",
+            "Because [person_1] and [person_2] are opening [vase_1] together."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] will come up the stairs.",
+            "[person_1] is going to help [person_2] open [vase_1].",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to move quicker."
+        ],
+        "reason": [
+            "[person_1] has not turned down the water.",
+            "[person_1] fell under the bed.",
+            "[person_1] is in the gymnastic.",
+            "[person_1] look at the camera , then back to [person_2] place.",
+            "[person_1] is jumping very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [vase_1] is empty?",
+        "answer": [
+            "[person_1] would not be able to play hockey after warming up.",
+            "[person_1] will adjust the right color and make it perfect.",
+            "[person_1] and [person_2] will be very angry and confused.",
+            "[person_1] can earn the money.",
+            "The [person_1] will cry."
+        ],
+        "reason": [
+            "Because [vase_1] thinks it is a hit .",
+            "Two kids found out they've been tricked.",
+            "Because there would be an opening on the bottle and [vase_1] is flipping the bottle upside down.",
+            "Because [vase_1] couldn't play hockey without a hockey stick.",
+            "To check the condition of [vase_1]'s hands."
+        ]
+    }
+}

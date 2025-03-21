@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the floor?",
+        "answer": [
+            "The floor is red and green.",
+            "There are four people.",
+            "There are five cups on the table.",
+            "Toys are on the floor.",
+            "There are four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn his head to the left?",
+        "answer": [
+            "[person_1] sits in order to play the drums more conveniently.",
+            "[person_1] is holding the didgeridoo in his hands to play.",
+            "[person_1] wants to check his position.",
+            "The plate fell to the ground.",
+            "[person_1] was bored before."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intends to do?",
+        "answer": [
+            "[person_1] intends to lift himself up and move to the wheelchair next to him.",
+            "[person_1] intends to fold over the other side of the paper and tape it down.",
+            "[person_1] intends to finish his performance.",
+            "[person_1] intends to do more somersaults.",
+            "[person_1] will kiss [person_1]."
+        ],
+        "reason": [
+            "[person_1] is putting instrument down.",
+            "It is likely that [person_1] legs will be tired.",
+            "[person_1] is very excited about the game.",
+            "[person_1] is preparing for his somersault.",
+            "[person_1] is bad at somersaults."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't check his position?",
+        "answer": [
+            "[person_1] would appear to be shameful.",
+            "[person_3] might hit the baby.",
+            "It is probable that [person_1] will fall again.",
+            "[person_3] won't hit the baby.",
+            "[person_1] will make another one."
+        ],
+        "reason": [
+            "The baby is standing near [person_1].",
+            "Because bowls can also hold food.",
+            "The baby is sitting near [person_1].",
+            "Some people are sitting on the floor watching [person_1].",
+            "The baby is keeling near [person_1]."
+        ]
+    }
+}

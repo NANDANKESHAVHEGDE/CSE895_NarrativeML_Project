@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_1]?",
+        "answer": [
+            "[chair_1] is on the right hand side of [chair_1].",
+            "[chair_1] and [chair_1] are doing tai chi.",
+            "It is made of wood.",
+            "They are looking at the domino tiles on the table.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [chair_1] put there?",
+        "answer": [
+            "[person_1] will exercise with them.",
+            "[person_1] and [chair_1] are playing luge sport.",
+            "[chair_1] is performing circus.",
+            "[chair_1] is put there for [person_1] to sit.",
+            "[person_1] is trying to squeeze it."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_1] intends to keep playing the harp.",
+            "[person_2] will mark [person_2]'s hammer throwing result.",
+            "[person_1] intends to kick the ball back to a friend on the opposite side.",
+            "[person_1] intends to keep singing while playing piano.",
+            "[person_1] intends to practice spinning again."
+        ],
+        "reason": [
+            "[person_1] looks very focused while playing didgeridoo.",
+            "[person_1] crouched down at the billiard table and determined the direction of the billiards shot.",
+            "[person_1] doesn't stop moving hands on it.",
+            "[person_1] turns around to leave.",
+            "[person_1] may try to keep balance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] weren't there?",
+        "answer": [
+            "[person_1] would not be able to sit on [chair_1].",
+            "[person_1] would buy orange juice instead of making it.",
+            "[person_1] would not be able to standing on [chair_1].",
+            "[person_1] would get tired.",
+            "[person_1] would not be able to sit under [chair_1]."
+        ],
+        "reason": [
+            "There would be only [chair_1] there.",
+            "Because [chair_1] likes flowers very much.",
+            "There would be many chairs there.",
+            "[chair_1] is still a baby and he refuses something by crying.",
+            "There would be no chairs there."
+        ]
+    }
+}

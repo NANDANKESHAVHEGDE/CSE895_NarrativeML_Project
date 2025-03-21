@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the room.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] and [person_2] are opening presents.",
+            "[person_2] is opening her present.",
+            "[person_2] is sitting on the carpet.",
+            "[person_2] is playing the game.",
+            "[person_2] is opening a present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] maybe will give food to customers.",
+            "[person_1] is going to eat corns.",
+            "[person_1] will stand here.",
+            "[person_1] is going to stand up to get more stones.",
+            "[person_1] will start playing the game."
+        ],
+        "reason": [
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] was walking towards [person_1] and the right hand of [person_1] touched the leg of [person_1].",
+            "[person_1] is booting the game disc.",
+            "Because [person_1] is eating potato chips."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] loses?",
+        "answer": [
+            "[person_1] and [person_1] may collide.",
+            "[person_1] will be very sad.",
+            "[person_1] and [person_1] will make another snowball.",
+            "Maybe people won't take out their mobile phones to take pictures.",
+            "Maybe [person_1] would learn how to wear a sari."
+        ],
+        "reason": [
+            "[person_1] is shooting video there , it's embarrassing to fail.",
+            "Failure will damage the sculpt pattern.",
+            "[person_1] can't control his somersault.",
+            "[person_1] doesn't get the winner.",
+            "[person_1] is being interviewed and all the people will see his mistake."
+        ]
+    }
+}

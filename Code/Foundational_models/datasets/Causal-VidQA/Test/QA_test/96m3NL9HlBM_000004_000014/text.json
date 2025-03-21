@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_1]?",
+        "answer": [
+            "[person_1] is in his garage.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is training at a gym.",
+            "[person_1] is sitting on the floor in a bedroom.",
+            "[person_1] is outside standing on the sidewalk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] plays the lute happily.",
+            "[person_1] is using a single - wheel electric vehicle so she does not have to ride.",
+            "[person_1] combines playing both instruments.",
+            "[person_1] is practicing standing with hands.",
+            "[person_1] is outside performing on the street to earn money."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with the person recording [person_1] next?",
+        "answer": [
+            "To promote the school.",
+            "[person_1] may avoid [person_1].",
+            "The green shirt team will defend.",
+            "They will take out the camera.",
+            "The person recording [person_1] will walk up to the bag in front of [person_1] and put money in it."
+        ],
+        "reason": [
+            "Because it's a part of the exercise.",
+            "To record the happy moment.",
+            "[person_1] wants to get the ball.",
+            "The person watching [person_1] is enjoying his music , so he will want to donate money to [person_1] for doing a good job.",
+            "The camera man goes after [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the person watching [person_1] walked up to the bag and stole money from [person_1]?",
+        "answer": [
+            "[person_1] may not score extra points for the team.",
+            "[person_1] would immediately stop playing to try to stop the person from stealing his money.",
+            "[person_1] might have to get a new one or stop playing.",
+            "[person_1] might get angry and stop flipping.",
+            "[person_1] may hurt [person_1]."
+        ],
+        "reason": [
+            "[person_1] really hopes to open it by his hands to show his strength.",
+            "Because Keep pavement clean is the responsibility of [person_1] and [person_1].",
+            "[person_1] is working for that money and would get aggressive to stop someone from stealing from him.",
+            "Because it is [person_1]'s only planing wood.",
+            "Because [person_1] was running to [person_1]."
+        ]
+    }
+}

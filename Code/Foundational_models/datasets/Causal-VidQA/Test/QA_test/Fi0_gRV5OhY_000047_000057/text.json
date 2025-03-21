@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bottle_1]?",
+        "answer": [
+            "It is on the grass.",
+            "[person_1] is wearing a white T - shirt and glasses.",
+            "It is behind the [person_1].",
+            "The [bottle_1] is near the [person_1].",
+            "[person_1] is holding a black guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is doing exercise to increase his physical.",
+            "[person_1] is raising her eyebrows.",
+            "[person_1] is spraying.",
+            "[person_1] is whistling.",
+            "[person_1] is watching [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to \b lie down.",
+            "[person_1] is going to maintain spraying.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to keep preparing some unprepared food.",
+            "[person_1] is going to pick up the discus."
+        ],
+        "reason": [
+            "[person_1] seems to still hold the phone with his hands.",
+            "[person_1]'s hand is on the pan handle so [person_1] will probably shake the pan to stir the food.",
+            "Because it seems that there is still a lot work to do.",
+            "[person_1] seems to like shaking in front of [person_1].",
+            "[person_1] is paying all attention on the painting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is hungry?",
+        "answer": [
+            "[person_1] will order food.",
+            "Maybe [person_1] will stop playing skateboard.",
+            "[person_1] may eat spaghetti everyday.",
+            "Maybe [person_4] will continue spraying.",
+            "[person_1] and [person_4] will help him."
+        ],
+        "reason": [
+            "[person_1] may be more professional.",
+            "[person_1] practices a lot.",
+            "[person_1] will cut more quickly.",
+            "[person_1] need to take food.",
+            "[person_1] tends to be attracted to this activity."
+        ]
+    }
+}

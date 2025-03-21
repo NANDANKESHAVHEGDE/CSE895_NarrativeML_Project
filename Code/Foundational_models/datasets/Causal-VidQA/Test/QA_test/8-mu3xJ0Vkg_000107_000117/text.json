@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_5] doing?",
+        "answer": [
+            "[person_5] is standing near the net while others are playing badminton.",
+            "[person_5] is parking in front of the house?",
+            "[person_5] is standing next to a wood fence?",
+            "[person_5] is stomping grapes.",
+            "[person_5] wears a helmet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] standing near [person_5]?",
+        "answer": [
+            "[person_5] is planing wood.",
+            "[person_3] is reading news on the computer.",
+            "[person_3] and [person_5] are in the same team.",
+            "[person_3] is \u00a0 preparing to somersault.",
+            "It seems difficult for [person_5] to open the bottle by himself."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to start blowing the balloon.",
+            "[person_3] will stand on the shore.",
+            "[person_3] is going to push as much grape liquid as possible from the grape container.",
+            "[person_3] is going to continue to dance with [person_3].",
+            "[person_3] will pull a small boat with buckets to another place to fish."
+        ],
+        "reason": [
+            "[person_3] can not hold it by himself.",
+            "They are friendly and look at the same age.",
+            "Because [person_3] cannot hold on any longer.",
+            "[person_3] may keep inflating carefully.",
+            "There is a jar near [person_3]'s feet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the liquid pipe were stuck?",
+        "answer": [
+            "Liquid will put on his clothes.",
+            "There would be no grape liquid in the jar.",
+            "Liquid would not do somersaults.",
+            "There would be no grape liquid out the jar.",
+            "Liquid would get hurt."
+        ],
+        "reason": [
+            "The pipe helps not to move the grape liquid from the grape container to the jar.",
+            "Because there is no other safety insurance for [person_5].",
+            "The pipe helps to move the grape liquid from the grape container to the jar.",
+            "To fix the mower.",
+            "The pipe helps to move the grape liquid from the the jar to grape container."
+        ]
+    }
+}

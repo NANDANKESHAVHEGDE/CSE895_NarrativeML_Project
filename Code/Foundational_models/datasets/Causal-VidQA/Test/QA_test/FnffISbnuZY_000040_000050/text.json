@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is why.",
+            "It is red.",
+            "It's red.",
+            "[person_1] is wearing black pants with white line.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] smile?",
+        "answer": [
+            "Because [person_2] knows that [person_2] will win this match against [person_1].",
+            "Because [person_2] receives the ring and flower from [person_1]'s proposal.",
+            "The [person_2] is harvesting agricultural products on the ground.",
+            "Because [person_1] feels funny when [person_1] plays checker with [person_2].",
+            "The [person_1] is holding the teddy bear to beat the [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after [person_2]'s triumph?",
+        "answer": [
+            "[person_1] will put the left small bricks on the large baseboard.",
+            "Go back in a certain distance.",
+            "Turn left or right.",
+            "[person_1] may request for a rematch.",
+            "[person_1] will have some other activities."
+        ],
+        "reason": [
+            "He wakes up early to go jogging.",
+            "[person_1] is still cycling until the end of the video.",
+            "[person_1] is still playing the accordion so she can not move.",
+            "[person_1] , [person_2] and [person_1] are at the middle of the performance.",
+            "Because the feeling of losing a match is not pleasant at all."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not win?",
+        "answer": [
+            "[person_1] will be happy.",
+            "[person_1] will be startled.",
+            "[person_1] will be sad.",
+            "[person_2] will ask people to care for [person_1].",
+            "[person_1] won't be happy."
+        ],
+        "reason": [
+            "There is only [person_1] on the stage.",
+            "Because [person_1] would lose this match.",
+            "[person_2] and [person_2] is in a boxing match.",
+            "Because [person_1] would win this match.",
+            "[person_1] is a baby."
+        ]
+    }
+}

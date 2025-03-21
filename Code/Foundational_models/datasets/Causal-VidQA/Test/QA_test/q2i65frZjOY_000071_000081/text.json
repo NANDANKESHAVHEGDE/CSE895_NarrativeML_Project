@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is inside a room.",
+            "[person_1] is sitting on the right hand side of [person_2].",
+            "[person_1] is in the gym.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] open the box?",
+        "answer": [
+            "[person_2] makes beautiful shoes to sell them to customers.",
+            "Because [person_2] wants to know which present [person_2] will receive.",
+            "Because the automatic machine will peel the apples.",
+            "Because [person_2] is playing the cello.",
+            "Because [person_2] wants to show the gift to the dog."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will be naughty [person_1].",
+            "[person_1] is going to drink water.",
+            "[person_1] will get up.",
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] is going to look down to open the gift of [person_1]."
+        ],
+        "reason": [
+            "Maybe [person_1] loves to read.",
+            "[person_1]'s arms are still extended.",
+            "[person_1] is walking very fast.",
+            "Because [person_1] has successfully finished the training.",
+            "[person_1] is looking straight and holding the present , [person_1] is preparing to open the gift."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not hold the present?",
+        "answer": [
+            "[person_1] and [person_1] would bump into each other.",
+            "[person_1] will not open the gift.",
+            "It is possible that [person_1] and [person_1] may feel relaxed.",
+            "The [person_1] will see the way clearly to move.",
+            "The man will pick up the notebook and continue to talk."
+        ],
+        "reason": [
+            "[person_1] and [person_1] are doing the challenge on stage.",
+            "Because children like candy very much.",
+            "The man needs the notebook to continue his talk.",
+            "Because behind [person_1] is a cliff.",
+            "Because the hands of [person_1] hold nothing."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing guitar.",
+            "[person_1] is playing basketball.",
+            "[person_1] is smiling and playing piano.",
+            "[person_1] is pressing the frets.",
+            "[person_1] is kissing her husband."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_2]'s hand moving?",
+        "answer": [
+            "[person_2] just picked it up from the tree.",
+            "because [person_2] is play the keys.",
+            "when [person_2] looking at the mirror , the reflection looks like someone else.",
+            "Maybe [person_2] is learning how to play the harmonica.",
+            "[person_2] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lie down.",
+            "[person_1] is going to take the photocopy and leave.",
+            "[person_1] is going to rest a little bit.",
+            "[person_1] is going to go on.",
+            "[person_1] might going to take a break."
+        ],
+        "reason": [
+            "[person_1] is still sitting on the back of the mechanical bull and holding it tight.",
+            "after he shows the pan to the camera , he turns around to the [person_1].",
+            "[person_1] is inside a car , ready to go somewhere.",
+            "[person_1] let go of the guitar.",
+            "[person_1] is still in the middle of the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the electricity was turned off?",
+        "answer": [
+            "[person_1] and [person_2] will not be able to see clearly.",
+            "[person_1] will stop cleaning the shoe.",
+            "[person_1] and [person_2] would stop playing.",
+            "The second cap is still under the sink.",
+            "[person_1] will fix the strings."
+        ],
+        "reason": [
+            "Because if [person_1] doesn't move , the feet are easy to be frostbitten.",
+            "[person_2] blocked the entrance to the greenhouse.",
+            "From the clothes of [person_1] and [person_2] we can learn that it's in hot summer , so no one could stand waiting in such a small and hot room for too long.",
+            "Because cats are easily - frightened animals.",
+            "because [person_1] and [person_2] are playing electric guitars."
+        ]
+    }
+}

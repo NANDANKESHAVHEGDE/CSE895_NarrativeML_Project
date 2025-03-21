@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cup_1]?",
+        "answer": [
+            "The [cup_1] is on the [dining table_1].",
+            "[cup_1] is behind [dining table_1].",
+            "The [dining table_1] is black.",
+            "The chair to [cup_1]'s left is blue.",
+            "[dining table_1] is holding a guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stacking the cups?",
+        "answer": [
+            "This is to increase the space between the cork and the bottle neck.",
+            "[person_1] wants to practice this game.",
+            "[person_1] is playing music with the people around.",
+            "[person_1] is playing lute.",
+            "[person_1] looks at the plate to swing the stick in the middle of the plate easier."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to practice.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to see how long he did it.",
+            "[person_1] may cheer up.",
+            "[person_1] is going to keep dancing."
+        ],
+        "reason": [
+            "[person_1] was blocked by the door.",
+            "[person_1] may go on reading.",
+            "[person_1] wants to do it in a short amount of time.",
+            "[person_1] feels that the food is not good.",
+            "There are many sand on his feet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has to do his homework?",
+        "answer": [
+            "The frisbee may not be thrown far.",
+            "[person_1] may let off the hand of [person_1].",
+            "Maybe [person_1] will go to the study table.",
+            "The [person_1] will not be fallen when throwing.",
+            "[person_1] would have a great fall."
+        ],
+        "reason": [
+            "The people are in a bar.",
+            "The present was wrapped with paper.",
+            "[person_1] needs to complete the schoolwork.",
+            "The copy machine is very high.",
+            "[person_1] is lazy to eat."
+        ]
+    }
+}

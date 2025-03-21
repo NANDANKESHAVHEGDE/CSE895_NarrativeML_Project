@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [chair_1]?",
+        "answer": [
+            "There are two white buckets.",
+            "The [chair_1] is leaned against the wall , next to the table.",
+            "[chair_1] is sitting on it.",
+            "They are in the middle of the place.",
+            "The [chair_1] is near [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is opening present.",
+            "Because [person_1] is lifting weights.",
+            "Because [person_1] is training.",
+            "[person_1] is spending time playing with [person_2].",
+            "Because [person_1] is practicing standing on hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is going to happen with [person_1] next?",
+        "answer": [
+            "[person_1] is going to continue playing with the baby.",
+            "Maybe [person_1] put some decorations on the Christmas tree.",
+            "[person_1] is going to continue spraying the object.",
+            "[person_1] will continue to put the decorations on the ground on the Christmas tree.",
+            "It looks like that [person_1] is the teacher of [person_1]."
+        ],
+        "reason": [
+            "It is possible that [person_1] wants to improve his skill.",
+            "[person_1] seems to quite enjoy it.",
+            "[person_1] seems to pay all his attention on the painting.",
+            "[person_1] is taking care of [person_1].",
+            "[person_1] shows no sign of stopping crawling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries?",
+        "answer": [
+            "[person_1] will find a way to make [person_2] stop crying.",
+            "It is possible that [person_1] will be in danger.",
+            "The ball will fly to the wrong direction .",
+            "[person_1] will make [person_1] stop crying.",
+            "If [person_2] cries , [person_1] will stop lifting."
+        ],
+        "reason": [
+            "The weather will be very cold.",
+            "[person_1] loves [person_2].",
+            "Because the vacuum cleaner is a public property.",
+            "Because the snow blower needs petrol to offer energy.",
+            "To check what's wrong with the snow blower."
+        ]
+    }
+}

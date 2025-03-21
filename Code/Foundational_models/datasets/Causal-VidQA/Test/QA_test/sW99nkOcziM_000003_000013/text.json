@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of upper cloth of [person_1]?",
+        "answer": [
+            "[person_1] is playing the drum.",
+            "No.",
+            "The wall that has the mirror on is purple.",
+            "It's black.",
+            "The [person_1] is wearing checked pants."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the beer cap on his eyes.",
+        "answer": [
+            "[person_1] is instructing [person_1] about the book.",
+            "Because [person_1] wants to unscrew the lid of the beer with his eyelids.",
+            "[person_1] is painting the [person_1] on the table.",
+            "[person_1] is celebrating his success in stacking the dices.",
+            "[person_1] is helping the kids to do this."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to do lunges.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] may keep mixing the drink.",
+            "[person_1] is going to put the cap on the desk.",
+            "[person_1] is going to put the legs down."
+        ],
+        "reason": [
+            "[person_1] is lying on the floor.",
+            "[person_1] is headed for the desk.",
+            "Maybe [person_1] and [person_1] are having a good time.",
+            "[person_1] is taking more oranges and holding a knife.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there's a needle in the cap?",
+        "answer": [
+            "[person_1] will then jump into the lake.",
+            "The [person_1]'s pajama would get wet.",
+            "Perhaps [person_1] will catch it.",
+            "[person_1] won't fall.",
+            "The eyelids of [person_1] will blood."
+        ],
+        "reason": [
+            "[person_1] wants to play the keyboard really well.",
+            "[person_1] is holding a wine glass.",
+            "Eyelids are very fragile and can be punctured by sharp objects.",
+            "[person_1] will land into the river without any protection and he will get hurt.",
+            "[person_1] mainly wants to set the beautiful scenery as the background."
+        ]
+    }
+}

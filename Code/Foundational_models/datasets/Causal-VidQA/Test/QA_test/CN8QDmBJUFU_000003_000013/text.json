@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] ?",
+        "answer": [
+            "[person_1] and [person_2] are in the game room.",
+            "[person_1] and [person_2] are in the children's play area.",
+            "[person_2] and [person_1] are in the subway station.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] on a snow - covered slope?",
+        "answer": [
+            "He is watching [person_2] unwrapping the present.",
+            "[person_1] is practicing a move in tai chi.",
+            "Because they want to ski.",
+            "[person_2] prepares to discover the gifts.",
+            "Because [person_2] can be the coach and is teaching [person_1] and [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to ski.",
+            "[person_1] and [person_2] are going to pull balloon out of the pump.",
+            "[person_1] and [person_2] are going to keep learning to ride skateboard.",
+            "[person_1] and [person_2] are going to play together.",
+            "[person_1] and [person_2] are going to sing karaoke , too."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are on their wedding day and they light up the candle to take vows.",
+            "[person_1] is standing up to lift [person_2].",
+            "Because [person_1] and [person_2] want to ski.",
+            "[person_1] and [person_2] don't want the balloon to explode.",
+            "[person_1] and [person_2] both want to score."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] and [person_2] don't ski carefully?",
+        "answer": [
+            "The [person_1] may not make fire so big.",
+            "[person_1] and [person_2] may fall.",
+            "[person_1] will kick one leg to the bed behind [person_1].",
+            "The opposing team will be the winner.",
+            "[person_1] will continue to get sand."
+        ],
+        "reason": [
+            "Because more pottery clay will make [person_2] bigger.",
+            "Because skiing is very dangerous.",
+            "There would be no sticks for [person_1] to use.",
+            "The secret will be revealed.",
+            "[person_1] needs to stand and move to play basketball."
+        ]
+    }
+}

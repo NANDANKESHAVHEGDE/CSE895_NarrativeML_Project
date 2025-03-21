@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is in a store.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is at the gym.",
+            "[person_1] is in a gym.",
+            "[person_1] is in his room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in a store ?",
+        "answer": [
+            "[person_1] is exercising . He must supply water for himself anytime.",
+            "[person_1] and [person_1] want to practice roller skating.",
+            "It looks like the fire is from [person_1]'s mouth.",
+            "[person_1] is making video.",
+            "[person_1] is holding a harp."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue strumming.",
+            "[person_1] will play basic chords.",
+            "[person_1] may go to somewhere else.",
+            "[person_1] will continue to laugh.",
+            "[person_1] may go to finish his job."
+        ],
+        "reason": [
+            "His fingers are touching in the harp.",
+            "Something is making [person_1] happy.",
+            "[person_1] is in the beach.",
+            "[person_1] is going to rest.",
+            "[person_1] is also eager to open presents."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bottle_1] falls ?",
+        "answer": [
+            "[bottle_1] may stop reading.",
+            "Someone can not see the film.",
+            "[bottle_1] may stop playing.",
+            "[bottle_1] may stop tap dancing.",
+            "It will make a noise."
+        ],
+        "reason": [
+            "[bottle_1] will try playing new didgeridoo.",
+            "They are both electronic devices.",
+            "It will break.",
+            "The electron microscope can't work without electricity.",
+            "when [bottle_1] is standing , [bottle_1]'s flip would be a success."
+        ]
+    }
+}

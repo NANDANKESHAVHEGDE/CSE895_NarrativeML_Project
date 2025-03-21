@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [chair_1]?",
+        "answer": [
+            "No.",
+            "[chair_1] and [chair_1] are are on the road.",
+            "[chair_1] and [chair_1] are sitting in a wheelbarrow.",
+            "It is pink.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_1]?",
+        "answer": [
+            "Because [person_1] is instructing the arm stretch.",
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "Because [person_1] is making him laugh by tickling him.",
+            "[person_1] is watching [chair_1] lift weights.",
+            "[person_1] is helping [person_1] open the lid of the box."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue practicing yoga.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to keep on dancing."
+        ],
+        "reason": [
+            "The tap is still on.",
+            "Maybe it's a basic stretch.",
+            "Maybe the weights are too heavy.",
+            "Because this can express respect.",
+            "[person_1] looks like a couple."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] goes to the gym?",
+        "answer": [
+            "All the others will look at him.",
+            "[person_1] will be practice worse.",
+            "[person_1] may lose his microphone.",
+            "[person_1] will be practice better.",
+            "[person_1] may no be smiling."
+        ],
+        "reason": [
+            "In this dance movement , [person_1] can't dance alone.",
+            "The gym will have no equipment to practice.",
+            "[person_1] trained hard and it was well deserved.",
+            "The gym will have a lot of equipment to practice.",
+            "They are friends."
+        ]
+    }
+}

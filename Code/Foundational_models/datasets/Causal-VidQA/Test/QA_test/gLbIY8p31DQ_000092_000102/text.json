@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are [person_1]'s pants?",
+        "answer": [
+            "[person_1]'s pants are black.",
+            "[person_1]'s hat is black.",
+            "[person_1] is wearing a hat on his head.",
+            "It is a hair - binding cord.",
+            "[person_1] is putting all his apples in his t - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] constantly moving ?",
+        "answer": [
+            "[person_1] is opening her present.",
+            "[person_1] is singing and dancing at the same time.",
+            "[person_1] sticks it with the cork and pulls it.",
+            "Because [person_1] is afraid of falling down.",
+            "[person_1] is excited about her action."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] probably do after that?",
+        "answer": [
+            "The [person_2] will continue to speak with the microphone.",
+            "[person_2] will keep knocking [person_2]'s pen on the table.",
+            "[person_2] will clean her face.",
+            "[person_2] tends to go on practicing.",
+            "[person_2] will continue the game."
+        ],
+        "reason": [
+            "[person_2] are standing behind [person_2] to wait for his turn.",
+            "[person_2] will be very happy when [person_2] finishes the performance.",
+            "[person_2] will keep knocking [person_2]'s pen on the table because [person_2] is creating the rhythm for [person_1].",
+            "The [person_1] fell to the ground so [person_1] needed to get up.",
+            "Because according to the recipe , the next step is to roll the sushi up and shape it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] stopped singing?",
+        "answer": [
+            "The [person_1] will send it to be repaired.",
+            "[person_1] will be broken.",
+            "[person_2] would stop pen tapping.",
+            "[person_1] will stop training.",
+            "[person_1] will fall down."
+        ],
+        "reason": [
+            "[person_2] would stop pen tapping because the main purpose of pen tapping is to create sound for [person_1].",
+            "If the tyre flat , it can not be ride.",
+            "Because it will be very dark in the room.",
+            "[person_1] is made of glass.",
+            "Because if the fire cannot be controlled , it will affect the surrounding residents."
+        ]
+    }
+}

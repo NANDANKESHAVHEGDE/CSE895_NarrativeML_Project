@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [couch_1] big?",
+        "answer": [
+            "It is on the grass.",
+            "Yes , it is.",
+            "[couch_1] is on the counter.",
+            "It is on the [couch_1].",
+            "[couch_1] is behind [couch_1]'s back."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [couch_1]?",
+        "answer": [
+            "[person_1] and [person_1] are analyzing hits in tai chi.",
+            "[person_1] is playing with the cups.",
+            "Because the [person_1] needs to keep the [person_1] door open.",
+            "Because the [person_1] wants to look for something in the [person_1].",
+            "To lift the shirt in [person_1]'s hand to look at it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will check the honey.",
+            "[person_1] does a workout.",
+            "[person_1] will play basic chords.",
+            "[person_1] is going to continue stacking the cups.",
+            "[person_1] may take off the clip."
+        ],
+        "reason": [
+            "[person_1] is leaning to the left.",
+            "[person_1] is focusing on this action.",
+            "[person_1] is landing on the street.",
+            "[person_1] likes sledding.",
+            "[person_1] stepped forward continuously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is worn out?",
+        "answer": [
+            "The person on the other line might misunderstand [person_1].",
+            "[person_1] will not fall off the chair in a strong way like [person_1] experienced.",
+            "Maybe [person_1] will stop doing this movement.",
+            "[person_1] and [person_1] could get serious injury on their chests.",
+            "[person_1] will sit on the [person_1]."
+        ],
+        "reason": [
+            "There are no other workers here.",
+            "[person_1] will find a way to fix the lamp.",
+            "[person_1] seems to focus on his dance.",
+            "[person_1] will rest.",
+            "[person_1] legs could be hurt."
+        ]
+    }
+}

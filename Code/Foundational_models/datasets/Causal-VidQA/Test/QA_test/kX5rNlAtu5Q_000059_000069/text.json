@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is between the bed and the door.",
+            "The [person_1] is sitting on the right - hand side of the [person_1].",
+            "The [person_1] is in a restaurant.",
+            "The [person_1] is in a garden.",
+            "The [person_1] is sitting on a brown couch."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_2] standing next to the [dinning table_1]?",
+        "answer": [
+            "Because the [person_2] seems to be taking the [person_2] apart.",
+            "To give [person_2]'s feet a massage.",
+            "The [person_2] is reading a book which is on the table.",
+            "Because [person_2] wants to protect the head if [person_2] falls.",
+            "because someone puts [dinning table_1] there."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_2] do?",
+        "answer": [
+            "the [person_1] will turn off the camera.",
+            "The [person_1] will get to his friends.",
+            "The [person_2] may say something to the [person_1].",
+            "The [person_1] will push the cart.",
+            "The [person_1] will step back."
+        ],
+        "reason": [
+            "Because [person_2]'s team is winning.",
+            "The [person_2] turns to the [person_1].",
+            "the [person_1] flipped the bottle successfully and came toward the camera.",
+            "[person_1] doesn't stop moving hands on it.",
+            "Because these people have been waiting for a long time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the book dropped to the floor?",
+        "answer": [
+            "The three people would grab each other.",
+            "The [person_2] would take the book and put the book on the table.",
+            "The [person_2]'s hair would get wet.",
+            "[person_2] will put the dog away.",
+            "They would be penalized for causing disturbance towards local residents."
+        ],
+        "reason": [
+            "The [person_2] is paying attention to the book.",
+            "If [person_2] doesn't go to the hospital , [person_2] won't be well.",
+            "The [person_2] is in the farm.",
+            "The [person_2] is standing right in front of the showerhead.",
+            "[person_2] would be left if [person_2] did not move because the herd was going."
+        ]
+    }
+}

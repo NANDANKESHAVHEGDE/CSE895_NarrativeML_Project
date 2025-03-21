@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the gender of [person_1]?",
+        "answer": [
+            "[person_1] is a male.",
+            "It's white.",
+            "[person_1] is wearing a checkerboard shirt.",
+            "It's a beer.",
+            "[person_1] hair is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is practicing playing drums.",
+            "[person_1] just played maracas while sitting.",
+            "[person_1] is practicing cello.",
+            "[person_1] is playing the lute with [person_1] and [person_1] like a band.",
+            "Because [person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will sit on the canoe after diving.",
+            "[person_1] will continue playing drums.",
+            "[person_1] will lead the following horses.",
+            "[person_1] will continue playing harmonica.",
+            "[person_1] will stop suddenly."
+        ],
+        "reason": [
+            "To see if any of the walls haven't been painted.",
+            "[person_1] is running towards one of his teammates.",
+            "[person_1] stops shaking.",
+            "[person_1] is in the middle of his drums playing.",
+            "[person_1] has gone in the opposite direction."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the drums were breached?",
+        "answer": [
+            "They will make more videos.",
+            "[person_1] will not be here playing golf.",
+            "[person_1] could not play drums anymore.",
+            "[person_1] will not play harp anymore.",
+            "[person_1] will be very happy."
+        ],
+        "reason": [
+            "A hole in a drum would totally ruin it and make it useless.",
+            "[person_1] is paying attention in reading.",
+            "[person_1] hates the things that his hating things appear in his eyes.",
+            "Then he will stand up and keep running.",
+            "Because more people bring more funs."
+        ]
+    }
+}

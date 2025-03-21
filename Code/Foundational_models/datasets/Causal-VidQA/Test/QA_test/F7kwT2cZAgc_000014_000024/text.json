@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] has gray hair.",
+            "[person_1] looks like a student.",
+            "[person_1] is tall and thin.",
+            "[person_1] looks quite old.",
+            "[person_1] looks so muscular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is reading newspaper.",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "[person_1] is doing weightlifting.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is spending time doing an enjoyable activity."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may drive by the side of the road.",
+            "[person_1] may make the juicer start to work.",
+            "[person_1] will go on throwing the cards.",
+            "[person_1] is going to play the game again.",
+            "[person_1] is going to try lifting heavier weights."
+        ],
+        "reason": [
+            "[person_1] is a professional weightlifter.",
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "[person_1] is picking up the [person_1] and using a spoon to mix the ingredients.",
+            "Because [person_1] is playing the ball and throwing it is his way to play it.",
+            "[person_1] is going to small [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [bicycle_1] falls on his leg?",
+        "answer": [
+            "[person_1] will be injured.",
+            "[person_1] will ride alone.",
+            "[person_1] may instruct learners in the fitness center.",
+            "[bicycle_1] will feel uncomfortable.",
+            "The other two won't be recording anymore."
+        ],
+        "reason": [
+            "shoes of [bicycle_1] have been cleaned by [bicycle_1].",
+            "[bicycle_1] and [bicycle_1] look pretty much the same.",
+            "The [bicycle_1] is heavy.",
+            "[bicycle_1] will enjoy the meal.",
+            "[bicycle_1] and [bicycle_1] can still go on without [bicycle_1]."
+        ]
+    }
+}

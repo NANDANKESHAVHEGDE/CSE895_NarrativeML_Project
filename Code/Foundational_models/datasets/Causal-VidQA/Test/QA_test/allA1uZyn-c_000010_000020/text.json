@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding [person_3]'s feet.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is holding a pencil.",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding a stick."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] is hold [person_3]'s feet?",
+        "answer": [
+            "[person_1] is a small baby and [person_1] wants to look around.",
+            "[person_1] is holding the flute and playing.",
+            "[person_1] does it for fun.",
+            "[person_1] and [person_3] are trying to open the gift.",
+            "Maybe [person_3] studying gymnastics."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do next?",
+        "answer": [
+            "[person_3] will continue dancing.",
+            "[person_3] will wait for [person_1] to play with.",
+            "[person_3] will continue toss rope.",
+            "[person_3] will jump high.",
+            "[person_3] is probably trying to get another plate."
+        ],
+        "reason": [
+            "[person_1] is trying on sari.",
+            "The sports car is moving to the left.",
+            "[person_1] sat on chair.",
+            "Because it seems that [person_3] is interested in dancing.",
+            "[person_3] is picking up another ball from the basket"
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] hurt [person_1].",
+        "answer": [
+            "There will be no one here to play lute.",
+            "The baby may cry.",
+            "[person_1] may not hold the feet of [person_1] again.",
+            "The team would lack [person_3].",
+            "The people will stop practicing."
+        ],
+        "reason": [
+            "Because [person_1] wants to dog be cute.",
+            "Because [person_1] is already in bed.",
+            "[person_1] will lie down and sleep.",
+            "Because [person_1] will not be professional if he isn't a bee keeper.",
+            "[person_3] might kick [person_1] when [person_1] held [person_3]'s feet."
+        ]
+    }
+}

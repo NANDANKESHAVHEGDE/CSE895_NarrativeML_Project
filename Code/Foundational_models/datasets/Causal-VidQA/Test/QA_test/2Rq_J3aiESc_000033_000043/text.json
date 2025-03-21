@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How's the weather ?",
+        "answer": [
+            "It's sunny.",
+            "He is with a smiling face.",
+            "[person_1] and [person_1] are in the garden.",
+            "[person_1] and [person_1] are on the street.",
+            "[person_2] and [person_2] are in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_2] is helping [person_1] train.",
+            "[person_2] wants to help [person_1] shave.",
+            "[person_2] bows to cut the gift below [person_2].",
+            "[person_1] holds a badminton racket to play badminton with friends.",
+            "[person_2] is helping [person_1] to trim shrubs."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may spray water on the flowers.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] is going to laugh a lot.",
+            "[person_1] continues to introduce the book.",
+            "[person_1] may stand on the [person_1]."
+        ],
+        "reason": [
+            "[person_1] is sliding downhill.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] has finished the body color.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] and [person_2] are friends and they are doing it for fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beard of [person_1] is shaved?",
+        "answer": [
+            "[person_1] will not regret it.",
+            "[person_1] will like it so much.",
+            "[person_1] will regret it.",
+            "The people can't see what's happening.",
+            "[person_1] will hate it."
+        ],
+        "reason": [
+            "It took a short time to get a long beard like [person_1].",
+            "[person_1] will no longer have marbles to play with.",
+            "It took a long time to get a short beard like [person_1].",
+            "[person_1] will appreciate this gift.",
+            "It took a long time to get a long beard like [person_1]."
+        ]
+    }
+}

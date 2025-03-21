@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [clock_1]?",
+        "answer": [
+            "[clock_1] is next to [clock_1].",
+            "The [clock_1] is behind [clock_1].",
+            "It is circle.",
+            "It is round.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting next to a set of drums?",
+        "answer": [
+            "[person_1] is playing drums.",
+            "[person_1] wants to keep his balance on the mechanical bull.",
+            "The [person_1] likes to play accordion in free time.",
+            "[person_1] feels sore of his hand which has held the hammer.",
+            "Because he loses the game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may close the window.",
+            "[person_1] will bend back.",
+            "[person_1] is going to keep playing drums.",
+            "[person_1] will continue turning over.",
+            "[person_1] may hug others."
+        ],
+        "reason": [
+            "[person_1] doesn't make sound by using drumsticks.",
+            "[person_1] is still dancing with fire.",
+            "There are many sand on his feet.",
+            "[person_1] was blocked by the door.",
+            "[person_1] just looked back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "[person_1] would do all the tasks.",
+            "[person_1] would not be able to cycle anymore.",
+            "[person_1] would not spin the fist with others.",
+            "[person_1] would be just a normal kid.",
+            "[person_1] could not play the set of drums."
+        ],
+        "reason": [
+            "There would be fewer things to see in the room.",
+            "[person_1] would not see the set of drums.",
+            "There would be some people in the room to stick the wallpaper.",
+            "There would be one more empty eat in it.",
+            "[person_1] is a baby and small."
+        ]
+    }
+}

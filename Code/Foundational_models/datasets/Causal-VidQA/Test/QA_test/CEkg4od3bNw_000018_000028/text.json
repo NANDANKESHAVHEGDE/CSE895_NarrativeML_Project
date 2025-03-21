@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is in the room.",
+            "[chair_1] is behind [chair_1].",
+            "[chair_1] is in the garden.",
+            "[chair_1] is standing outside the fence.",
+            "[chair_1] and [chair_1] are outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paper?",
+        "answer": [
+            "[person_1] and [person_1] are practicing the clarinet.",
+            "[person_1] and [person_1] are practicing a piece of music.",
+            "[person_1] looks at the exam results.",
+            "[person_1] loves playing with these objects.",
+            "[person_1] is listening to the music beat."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably keep going further.",
+            "[person_1] is going to pull the fish up.",
+            "[person_1] will let the maracas down.",
+            "[person_1] will ask her parents for help.",
+            "[person_1] continues to tear the paper."
+        ],
+        "reason": [
+            "Because [person_1] put his passion in planing wood.",
+            "Because [person_1] is finding some tools to help to make pottery.",
+            "Because [person_1] has already been collecting the fish line.",
+            "Maybe [person_1] is tearing up the test.",
+            "Because [person_1] is too tired now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] got good exam result ?",
+        "answer": [
+            "It would take longer time to open the bottle.",
+            "[person_1] may hit his head on the camera behind.",
+            "[person_1] can be broken.",
+            "[person_1] will not do his homework.",
+            "[person_1] would tell with parents."
+        ],
+        "reason": [
+            "Because there's no protection.",
+            "[person_1] is not skillful enough.",
+            "[person_1] could get good exam result.",
+            "Because at that time the floor will be clean.",
+            "Because dogs are very attentive to their owner's every move."
+        ]
+    }
+}

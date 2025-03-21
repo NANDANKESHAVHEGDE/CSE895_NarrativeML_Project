@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] have white hair?",
+        "answer": [
+            "The pant is black.",
+            "Yes.",
+            "It is a piece of tissue.",
+            "No.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep talking?",
+        "answer": [
+            "[person_1] wants to improve her health.",
+            "Maybe [person_1] wants her exercise being more efficacious.",
+            "[person_1] needs to show the steps.",
+            "[person_1] really wants to improve her health.",
+            "Because she is interested in it."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after talking?",
+        "answer": [
+            "[person_1] will continue to eat.",
+            "[person_1] will stop skating.",
+            "[person_1] will keep riding the bike",
+            "[person_1] will touch the bricks.",
+            "[person_1] will use the inhaler in person."
+        ],
+        "reason": [
+            "We have waited for 10 seconds and want to know the next step.",
+            "[person_1] intends to teach people how to use the inhaler.",
+            "Because they eat cake for the birthday.",
+            "[person_1] is waiting for medicine totally being absorbed.",
+            "Because [person_1] will continue to play the bricks."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a cat burst into the office?",
+        "answer": [
+            "[person_1] will not make the cat go away gently.",
+            "[person_1] will put the dumbbells next to him.",
+            "[person_1] will make the cat go away gently.",
+            "So [person_1] won't fall so badly.",
+            "[person_1] will make the cat stay gently."
+        ],
+        "reason": [
+            "The cat interrupts his video.",
+            "The bookshelf will fall on video.",
+            "The cat doesn't interrupt his video.",
+            "That player would not be able to play hurling.",
+            "The cat interrupts his photo."
+        ]
+    }
+}

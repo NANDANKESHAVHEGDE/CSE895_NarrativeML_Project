@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his room.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is sitting at a table.",
+            "[person_1] is in the studio.",
+            "[person_1] is at the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] wants to train to change body.",
+            "[person_1] is smoking and is trying to shake off the ashes.",
+            "[person_1] wants to practice blowing clarinet.",
+            "Because [person_1] wants to water the plants.",
+            "Because [person_1] wants to use the cola to open the beer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to dismantle the power drill.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] will add another liquor.",
+            "[person_1] is instructing people a leg exercise.",
+            "[person_1] may mix the ingredients in [person_1] many times."
+        ],
+        "reason": [
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "[person_1] is going to small [person_1].",
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "Because [person_1] is a trainer at the gym."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "[person_1] could be broken.",
+            "[person_1] can still continue to guide people to practice.",
+            "[person_1] will go to pick up the golfs which fall down on the grass.",
+            "[person_1] can not still continue to guide people to practice.",
+            "[person_1] cannot continue to practice."
+        ],
+        "reason": [
+            "Because the gym has no windows and enough light from outside.",
+            "The man can't fry hot dogs without a fork because it's very hot with hand.",
+            "Because the gym has many windows and enough light from inside.",
+            "Because the scooter can not be used in a crowded place.",
+            "Because the gym has many windows and enough light from outside."
+        ]
+    }
+}

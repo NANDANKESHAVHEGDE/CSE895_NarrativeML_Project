@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt is yellow.",
+            "It is black.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is \u00a0 helping his daughter somersaults.",
+            "Because [person_1] wants to see the keyboard more clearly.",
+            "The view at the window is beautiful.",
+            "[person_1] is standing and stacking cups.",
+            "[person_1] is playing chess with [person_2] and [person_3]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to get more food for the goats.",
+            "Maybe [person_1] is going to continue dance.",
+            "[person_1] may keep feeding the goat with [person_2].",
+            "[person_1] is going to tap dancing.",
+            "[person_1] is going to teach [person_2] to play better."
+        ],
+        "reason": [
+            "When [person_1] lies back down , [person_1] raises her hands and prepares to tickle.",
+            "[person_1] is having his turn next.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] looks so funny.",
+            "There is only one square on the course to put one foot in."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is winner?",
+        "answer": [
+            "[person_2] will be very happy.",
+            "[person_2] will be sad.",
+            "Maybe [person_2]'s team will make a score.",
+            "[person_2] won't move.",
+            "It is possible that [person_2] will lose."
+        ],
+        "reason": [
+            "Wheelchair will not be a means of transportation for [person_2].",
+            "He is standing his head.",
+            "The audience always applauds after a performance.",
+            "[person_2] will continue playing.",
+            "The weather is raining."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the living room.",
+            "[person_1] is in the gym.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the dining room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the floor?",
+        "answer": [
+            "[person_1] wants to throw it into the plastic sink.",
+            "[person_1] is playing with the maraca.",
+            "Because [person_1] was still young and could not stand still.",
+            "[person_1] is sitting on the chair.",
+            "[person_1] is sitting on the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bandage [person_1].",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to go home.",
+            "[person_1] is going to crawl on the floor.",
+            "[person_1] is going to continue eating."
+        ],
+        "reason": [
+            "[person_1] doesn't know how to walk.",
+            "[person_1] is not going to stop.",
+            "[person_1] feels that the food is not good.",
+            "[person_1] is bowing.",
+            "[person_1] gave a loud , silly laugh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the maraca makes a funny sound?",
+        "answer": [
+            "[person_1] , [person_1] , [person_1] will stop pushing.",
+            "[person_1] can't give food to a giraffe.",
+            "[person_1] will fall down on the ground.",
+            "[person_1] will go back or turn right.",
+            "[person_1] will shake the maraca more."
+        ],
+        "reason": [
+            "[person_1] can not dance on the stage.",
+            "[person_1] parked behind [person_1] and there is nothing in the road can stop.",
+            "[person_1] likes to play with funny toys.",
+            "[person_1] uses the grill to cook.",
+            "[person_1] can not dance with broken leg."
+        ]
+    }
+}

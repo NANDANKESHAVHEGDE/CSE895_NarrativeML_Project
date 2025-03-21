@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is large.",
+            "It is quite small.",
+            "It is in a rugby field.",
+            "It is very clean and neat.",
+            "It is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the bed?",
+        "answer": [
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] is putting the wheelchair in the car.",
+            "Because [person_1] needs to be comfortable to swing his arms.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "Because [person_1] is producing a table."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is foreseen that [person_1] will weave all the baskets in the yard.",
+            "[person_1] will put the frying pan on the stove to continue frying his pancake.",
+            "[person_1] will clip her left eyelash with [person_1] and [person_1].",
+            "[person_1] will cut the chicken.",
+            "[person_1] will play the harmonica."
+        ],
+        "reason": [
+            "[person_2] is giving the harmonica to [person_1].",
+            "[person_1] was playing the harmonica in a professional way.",
+            "The hair in cutting may get into her eyes.",
+            "Because these performers need to finish the show in turn.",
+            "[person_1] didn't catch any fish because the current was too strong."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] leaves?",
+        "answer": [
+            "[person_1] will stand up and leave there with other people.",
+            "[person_1] will cry and shout.",
+            "[person_1] will keep arranging the fruit.",
+            "[person_2] will have 2 more turns.",
+            "[person_1] will need to be taken to the hospital."
+        ],
+        "reason": [
+            "[person_1] is too young to stay alone.",
+            "[person_2] is too young to be alone.",
+            "[person_2] is videotaping [person_1] . [person_2]'ll show [person_1] the video.",
+            "[person_1] can't train because [person_1] was injured.",
+            "[person_1] will feel more pain."
+        ]
+    }
+}

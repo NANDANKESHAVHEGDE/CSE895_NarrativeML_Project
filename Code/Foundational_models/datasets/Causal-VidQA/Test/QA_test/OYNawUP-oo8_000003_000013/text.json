@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [cup_1]?",
+        "answer": [
+            "[cup_1] is behind the [dining table_1].",
+            "The [cup_1] is on the [dining table_1].",
+            "[cup_1] is round ball.",
+            "It is in the parking lot.",
+            "[cup_1] is directly in front of [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_2] stop pouring?",
+        "answer": [
+            "[person_2] wants to go to somewhere by [cup_1].",
+            "The [person_2] stops pouring because the [cup_1] is full.",
+            "[person_2] is rubbing [person_2]'s back.",
+            "Because [cup_1] wants to propose loudly.",
+            "The [cup_1] was hit with a pillow and flew out."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_2] do?",
+        "answer": [
+            "[person_2] intends to follow showing the fist as [person_2].",
+            "The [person_2] perhaps will drink the [cup_1].",
+            "[person_2] intends to lift [person_2] up.",
+            "The [person_2] will help to wash the clothes.",
+            "[person_2] intends to control the match."
+        ],
+        "reason": [
+            "[cup_1] will rake the concrete because [cup_1] is lifting the rake.",
+            "[person_2]'s fingers is pressing on the keyboard.",
+            "[person_2] still doesn't stop shaking the body.",
+            "The [cup_1] is so full that the beer foam spill out so he needs to drink it immediately.",
+            "[person_2] is still in the dancing posture with hands shaking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] keeps pouring?",
+        "answer": [
+            "[person_1] could not skateboard.",
+            "The [person_1]'s hand will be wet.",
+            "The animal costume of the [person_1] would be wet.",
+            "[person_1] could not cycle because the road would slippery.",
+            "[person_1] could not practice dance skill."
+        ],
+        "reason": [
+            "The [person_1] is running outside.",
+            "The [person_1] and the horse are outside and the [person_1] would not let the horse be wet.",
+            "There is a risk of danger when [person_1] and [person_1] are in the sea.",
+            "[person_1] and the team will not practice under the rain.",
+            "The [person_1] is holding a cup of beer . If he keeps pouring , it will come out."
+        ]
+    }
+}

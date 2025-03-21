@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "There are two gongs in the room.",
+            "[person_1] is standing next to a wooden desk.",
+            "[person_1] is wearing a black shirt.",
+            "[person_1] is wearing a red T - shirt.",
+            "The [person_1] is big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] blow the clarinet?",
+        "answer": [
+            "[person_1] needs it to promote his products.",
+            "[person_1] put pressure on the opposing team to throw the ball out of the [person_1]'s cup.",
+            "[person_1] wants to record his clarinet performance.",
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] dyed her hair."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] may rest on the rocking chair next to [person_1] for a while.",
+            "[person_1] will begin to dance.",
+            "[person_1] will continue to raise [person_1]'s leg."
+        ],
+        "reason": [
+            "[person_1]'s hands is touching the string.",
+            "[person_1] has not finished the performance.",
+            "Because [person_1] has raised up his hands on the top of the pottery.",
+            "[person_1] has already put her arm on the right one.",
+            "There are many wine bottles on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not know how to play the clarinet?",
+        "answer": [
+            "[person_1] will sharpen the pencil.",
+            "[person_1] might leave the room.",
+            "[person_1] would not record the clarinet performance.",
+            "[person_1] may order another one.",
+            "[person_1]'s face may turn dark."
+        ],
+        "reason": [
+            "Food should not be served after making contact with the dirty floor.",
+            "[person_1] wants to practice before recording.",
+            "The sunlight would get into [person_1]'s eyes.",
+            "Because it is a normal human behavior.",
+            "[person_1] has an unfinished jump."
+        ]
+    }
+}

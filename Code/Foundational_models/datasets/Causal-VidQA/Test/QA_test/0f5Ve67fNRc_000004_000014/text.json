@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [person_1] sitting on the [chair_2]?",
+        "answer": [
+            "[person_1] is at a car park.",
+            "[person_1] is outside.",
+            "No , the [person_1] is not . The [person_1] is sitting on the [chair_1].",
+            "[person_1] is an baby.",
+            "In the forest."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] touch bass buttons?",
+        "answer": [
+            "The hand of [person_1] is supporting the back of [person_1].",
+            "The [person_1] can control the sound [person_1] wants to play.",
+            "Because they're competing.",
+            "To make sure [person_1] wouldn't fall.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may open another page of musical notes chart.",
+            "[person_1] will stretch the body.",
+            "The [person_1] is going to keep standing still.",
+            "The [person_1] keeps stamping feet when the song is finished.",
+            "The [person_1] may keep shooting the ball again."
+        ],
+        "reason": [
+            "The [person_1] is walking toward the house.",
+            "The [person_1] touches the page of a book that contains musical notes chart.",
+            "The [person_1] puts the stone down and moves his body to lift it.",
+            "The [person_1] takes care the [person_1] and has some talk to the camera.",
+            "The [person_1] turns back and looks in front."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] knows any musical notes?",
+        "answer": [
+            "It is probable that [person_1] would put the weights on the shelf and have a break.",
+            "[person_1] might sit on [person_1] for a short rest.",
+            "The dog will bark.",
+            "The [person_1] will play the song rightly through accordion.",
+            "[person_1] will break the cup."
+        ],
+        "reason": [
+            "The [person_1] doesn't know and follow musical notes chart to play.",
+            "There are many things in the box which is in front of [person_1].",
+            "The [person_1] knows and follows musical notes chart to play.",
+            "[person_1] and [person_1] will stop playing.",
+            "The [person_1] knows and follows musical notes chart to song."
+        ]
+    }
+}

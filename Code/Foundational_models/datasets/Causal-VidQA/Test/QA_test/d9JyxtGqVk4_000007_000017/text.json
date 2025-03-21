@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "Blue.",
+            "It is white.",
+            "It is a hat."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] stand on [person_1] of hand?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] is slowly moving his legs and hands.",
+            "It was a punishment for the loser.",
+            "Prepare to add it.",
+            "[person_2] balances and stands on one leg."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to study.",
+            "[person_2] was about to run out to help [person_2].",
+            "[person_2] is going to fold the quilt.",
+            "[person_2] will stop stretching arm.",
+            "[person_2] is going to taste the food."
+        ],
+        "reason": [
+            "Maybe [person_2] likes reading book.",
+            "[person_2] is an employee of the gas station.",
+            "[person_2] seems wanting to say something.",
+            "Because it can't be eaten.",
+            "Maybe [person_2] can't keep balance for long."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a sore hand ?",
+        "answer": [
+            "[person_2] would send [person_1] the message.",
+            "[person_1] and [person_2] will stop playing.",
+            "Then others may hold [person_2] immediately and timely.",
+            "[person_1] will ask [person_1] instead.",
+            "[person_1] will not be able to help [person_2]."
+        ],
+        "reason": [
+            "There is nobody else.",
+            "Maybe injury to [person_2].",
+            "Because the sun is not as cool as a cool place.",
+            "[person_1] may want to combine both singing and playing the guitar.",
+            "[person_1]'s a lefty and he is used to using his left hand."
+        ]
+    }
+}

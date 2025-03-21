@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "It is black.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] familiar with the guitar?",
+        "answer": [
+            "[person_2] used his hand to stop the video.",
+            "[person_2] wears shorts to wax the legs easier.",
+            "[person_2] doesn't want to be taken into the video.",
+            "[person_2] wanted it to be more beautiful.",
+            "Because [person_2] has a long time using it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop watering.",
+            "[person_1] is going to introduce about her book.",
+            "Keep explaining something.",
+            "[person_1] is going to take a short rest after a long time working hard.",
+            "[person_1] intends to spend his time playing."
+        ],
+        "reason": [
+            "[person_1] is holding a glass of water.",
+            "Maybe [person_1] is having fun.",
+            "Because [person_1] looks very tired.",
+            "Maybe [person_1] started weaving fabric.",
+            "Because [person_1] knows that is necessary for her health."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wants to rest by playing something?",
+        "answer": [
+            "[person_1] will eat the ice cream.",
+            "Maybe [person_1] will be sad.",
+            "Maybe [person_2] will borrow the guitar to play.",
+            "Perhaps [person_2] would be thirsty and hungry.",
+            "[person_2] , [person_2] and [person_2] will difficult to shuck an oysters."
+        ],
+        "reason": [
+            "When [person_1] watches , [person_2] continues to open the gift.",
+            "Because [person_2] is also into playing guitar.",
+            "[person_1] is on a show and can not speak.",
+            "falling on the hard floor is very painful.",
+            "[person_1] blinks too much."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in bathroom.",
+            "[person_1] is in the studio.",
+            "[person_1] is on the stage.",
+            "[person_1] is near the window.",
+            "[person_1] is near the lake."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put his fingers on the keyboard?",
+        "answer": [
+            "[person_1] uses the [person_1] to spread the plaster on the wall.",
+            "[person_1] is doing it for fun.",
+            "To pull the cork out which is sticking on the opener.",
+            "Because [person_1] wants to play the organ.",
+            "Because [person_1] wants to prove he has cracked the cap."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to adjust the volume.",
+            "[person_1] is going to join the game.",
+            "[person_1] may keep carving.",
+            "[person_1] is going to share one of the bottles to his friends.",
+            "She may go to a party."
+        ],
+        "reason": [
+            "[person_1] looks happy with this action.",
+            "[person_1] is raising his hand to adjust.",
+            "[person_1] keeps talking about blackjack.",
+            "Because [person_1] is taking [person_1]'s photo while explaining about the camera's function.",
+            "To ask for [person_1]'s agreement with the proposal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s keyboard is broken?",
+        "answer": [
+            "[person_1] will be famous.",
+            "[person_1] will be criticized.",
+            "[person_1] may fall down.",
+            "[person_1] will not continue playing the keyboard.",
+            "[person_1] may stick a band aid."
+        ],
+        "reason": [
+            "[person_1] needs a pen to take notes.",
+            "Tiles are slippery with water.",
+            "The bandage is the only bandage [person_1] has , [person_1] can't lose it because [person_1] needs it.",
+            "[person_1] stopped suddenly to avoid the car.",
+            "[person_1] can't play the keyboard without a keyboard."
+        ]
+    }
+}

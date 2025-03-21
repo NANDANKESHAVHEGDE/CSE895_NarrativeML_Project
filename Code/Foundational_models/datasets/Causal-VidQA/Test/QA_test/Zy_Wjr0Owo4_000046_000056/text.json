@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [refrigerator_1] in the room?",
+        "answer": [
+            "[refrigerator_1] is on the corner behind [person_1]'s back.",
+            "The [refrigerator_1] is yellow.",
+            "The [person_1] is bringing a bag.",
+            "The [refrigerator_1] is next to [person_1].",
+            "Behind [person_1] is a bookshelf."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] moving the cup back and forth?",
+        "answer": [
+            "because [person_1] is trying to stack a dice.",
+            "Because [person_1] is trying to tell us he's gonna open a beer bottle with [person_1].",
+            "Because [person_1] wants to show the construction of the circular saw.",
+            "With [person_1] and [person_1]'s mouths.",
+            "Maybe because [person_1] feel cold."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to play.",
+            "[person_1] will joke with [dining table_1].",
+            "[person_1] is going to take a break.",
+            "[person_1] is going to need a break.",
+            "[person_1] is going to come back to [dining table_1]."
+        ],
+        "reason": [
+            "because [person_1] is finding the dice , if [person_1] finds it , [person_1] will keep practicing.",
+            "[person_1] is holding the guitar.",
+            "[person_1] wants to see the pig.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] is holding a candy pack."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] failed to grip the cup tightly enough?",
+        "answer": [
+            "The [person_1] would be curious about the box.",
+            "the cup and the dice would be thrown away.",
+            "[person_1] will fall from [person_1].",
+            "[person_1] will be hurt.",
+            "No bowling pin will be hit down."
+        ],
+        "reason": [
+            "Because this will not effect the practice.",
+            "Because [person_1] needs a shovel to fill the hole.",
+            "The paper in the hand of [person_1] falls in the hot pan and gets fire , [person_1] is nearest the pan.",
+            "since [person_1] puts a force on the cup and the dice.",
+            "Players were using their batches to take the ball."
+        ]
+    }
+}

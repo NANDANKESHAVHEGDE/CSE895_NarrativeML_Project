@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the bucket of the [person_1]?",
+        "answer": [
+            "[person_1] and [person_1] are above the sink.",
+            "The bucket of the [person_1] is red.",
+            "[person_1] and [person_1] are in the subway station.",
+            "[person_1] and [person_1] are in the room.",
+            "They are black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] look at the [apple_1]?",
+        "answer": [
+            "[apple_1] wants to help [person_1] shave.",
+            "The [person_1] harvested the [apple_1].",
+            "He wants to ride [person_1] outside.",
+            "[person_1] is instructing how to spin the yarn.",
+            "[person_1] is advising on how to play guitar better."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may try walking on the stilts again.",
+            "[person_1] will go out of the pool and rest.",
+            "The [person_1] is going to keep harvesting apples in the farm.",
+            "The [person_1] may place the square plate somewhere.",
+            "The [person_1] is going to back to the land."
+        ],
+        "reason": [
+            "The [person_1] tries to hold dog leash of the [person_1].",
+            "The [person_1] is still putting the cloth on the feet of the [person_1].",
+            "The bucket of the [person_1] is not full yet and the [person_1] is still looking at the apples.",
+            "The [person_1] jumps and throws the ball through the hoop.",
+            "The [person_1] has just finished washing the left foot of the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it had a storm?",
+        "answer": [
+            "Maybe [person_1] will turn on the television.",
+            "[person_1] will not play.",
+            "The [person_1] would bring the apple bucket to shelter somewhere.",
+            "[person_1] will hurry to help him.",
+            "[person_1] will be sad."
+        ],
+        "reason": [
+            "This game is for children.",
+            "The [person_1] is in the farm.",
+            "To wash eyes.",
+            "Because [person_1] was tricked.",
+            "[person_1] was right in front of [person_1]."
+        ]
+    }
+}

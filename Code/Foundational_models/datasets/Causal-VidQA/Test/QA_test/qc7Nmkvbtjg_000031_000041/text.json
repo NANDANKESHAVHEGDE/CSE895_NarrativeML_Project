@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is gray.",
+            "The shirt is black.",
+            "The shirt is green.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the mirror?",
+        "answer": [
+            "The table is discarded and the wood can be recycled.",
+            "Because the camel is the best way of transportation in the desert.",
+            "Because it's the instrument for playing the cello.",
+            "[person_1] is shaving.",
+            "[person_1] wants to exercise physical health."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to shave off all his beard.",
+            "[person_1] will bend back.",
+            "[person_1] may put the milk in the fridge.",
+            "[person_1] may close the window.",
+            "[person_1] is going to keep dancing."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "Because [person_1] is wearing a baby bib.",
+            "Maybe [person_1] wants a younger face.",
+            "[person_1] is touching three cups.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [cup_1] falls to the floor?",
+        "answer": [
+            "The clouds may move slower.",
+            "The [cup_1] will be picked up by [person_1].",
+            "The cameraman may not step back.",
+            "The [person_1] will be picked up by [cup_1].",
+            "[person_1] will instruct other people who want to learn this skill."
+        ],
+        "reason": [
+            "It's a glass cup so it's hard to break.",
+            "There is no one listen to him.",
+            "It's a plastic cup so it's easy to break.",
+            "It is dirty with hair in it.",
+            "It's a plastic cup so it's hard to break."
+        ]
+    }
+}

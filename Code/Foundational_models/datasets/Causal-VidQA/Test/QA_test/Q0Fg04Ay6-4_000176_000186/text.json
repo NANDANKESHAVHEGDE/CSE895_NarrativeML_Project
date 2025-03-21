@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "It is on the [cup_1].",
+            "[person_1] is between [person_1] and [cup_1].",
+            "[cup_1] is on the desk.",
+            "[cup_1] is in the floor.",
+            "It is on the left of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising his hands?",
+        "answer": [
+            "They go there to skate.",
+            "Because it saves room space.",
+            "[person_1] and [person_1] may want to show their respect.",
+            "[person_1] is satisfied with the result.",
+            "To avoid the dust."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] will stop spinning.",
+            "[person_1] is going to sit on [couch_1].",
+            "Maybe [person_1] is going to continue watering.",
+            "Maybe [person_1] is going to dance with others.",
+            "[person_1] will be naughty [person_1]."
+        ],
+        "reason": [
+            "[person_1] is standing too long to stack the dice , and he needs to take a break.",
+            "[person_1] is in the middle of his performance.",
+            "[person_1] feels cold sitting on the floor.",
+            "[person_1] holding a water bottle.",
+            "[person_1] may keep trying to throw."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't complete his goal?",
+        "answer": [
+            "[person_1] would try his best to do it.",
+            "The salad will spill over the table.",
+            "[person_1] would get injured.",
+            "[person_1] might go to find mother.",
+            "[person_1] will throw it."
+        ],
+        "reason": [
+            "She didn't want to stop the work in half.",
+            "It's hard to to hit a moving target , even if [person_1] is a martial arts master.",
+            "[person_1] is very determined to complete it.",
+            "The floor is very hard.",
+            "Maybe [person_1] is timing to see how long it takes at least . If it doesn't meet expectations , [person_1] may try several more times."
+        ]
+    }
+}

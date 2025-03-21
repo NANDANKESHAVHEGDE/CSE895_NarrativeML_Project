@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding a cello?",
+        "answer": [
+            "[person_1] wants to improve her performance.",
+            "Maybe the watering can is too heavy for [person_1] to carry.",
+            "Because [person_1] wants to show the construction of the circular saw.",
+            "[person_1] is practicing playing the cello.",
+            "[person_1] is controlling the clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will probably practice the cello.",
+            "[person_2] will play the steer roping.",
+            "[person_2] will bring more concrete.",
+            "[person_2] will continue watching what [person_2] is doing and learning.",
+            "[person_2] will practice riding a bike."
+        ],
+        "reason": [
+            "[person_2] didn't drink yet.",
+            "[person_2] is turning to the sky.",
+            "[person_2] has shown some great high kicks.",
+            "[person_2] is practicing very hard.",
+            "[person_2] is watching [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_2] maybe stop painting.",
+            "[person_2] will be afraid.",
+            "[person_2] will be scared.",
+            "[person_2] will afraid.",
+            "[person_2] maybe stop playing."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the guitar.",
+            "[person_1] is smiling and playing piano.",
+            "[person_1] is playing drums.",
+            "[person_1] is playing basketball.",
+            "[person_1] is kissing her husband."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking at the guitar?",
+        "answer": [
+            "[person_1] uses the cup to take the dice.",
+            "[person_1] shows that point is where to break through.",
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] is playing the guitar.",
+            "[person_1] blows the clarinet attentively."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to?",
+        "answer": [
+            "[person_1] intends to push the wheelchair around the field and kick the ball.",
+            "[person_1] intends to do lunges.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] tends to sway to the sound of the guitar.",
+            "[person_1] has an intention of making a video playing violin."
+        ],
+        "reason": [
+            "[person_1] rides in a circle regularly.",
+            "Because [person_1] needs to kick the board that [person_1] is holding.",
+            "[person_1] is nodding to the music.",
+            "[person_1] is concentrating on playing the harp.",
+            "[person_1] wrapped around the gift and pressed it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power goes out?",
+        "answer": [
+            "The music performance would be interrupted.",
+            "[person_1] does not know how to play soil.",
+            "[person_1] could not teach others.",
+            "[person_1] could not see the ball.",
+            "[person_1] felt surprised."
+        ],
+        "reason": [
+            "Every one can't dance with music.",
+            "There won't be enough light to play hurling in this warehouse.",
+            "[person_1] hasn't finish her work.",
+            "The lights will be off.",
+            "The room is too dark."
+        ]
+    }
+}

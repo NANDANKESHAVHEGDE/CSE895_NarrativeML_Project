@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is working out.",
+            "Because [person_1] is working out his biceps with resistance bands",
+            "[person_1] likes stacking cups.",
+            "[person_1] is taking care of her lips.",
+            "[person_1] is staying with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to dismantle the power drill.",
+            "[person_1] is smashing the candies.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] may mix the ingredients in [person_1] many times.",
+            "[person_1] will add another liquor."
+        ],
+        "reason": [
+            "[person_1] keeps talking about blackjack.",
+            "[person_1] looks happy with this action.",
+            "Because [person_1] is taking [person_1]'s photo while explaining about the camera's function.",
+            "[person_1] uses a long bottle.",
+            "To ask for [person_1]'s agreement with the proposal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the electricity were cut off?",
+        "answer": [
+            "The wind will blow into the room.",
+            "[person_1] and [person_1] may help [person_2] to heal the injuries.",
+            "[person_1]'s master would bring [person_1] over and continue to blow [person_1]'s hair.",
+            "[person_1] and [person_2] would go out.",
+            "[person_1] will call the repair man."
+        ],
+        "reason": [
+            "In the video , [person_2] moves really slowly like waiting for the moment to attack [person_1].",
+            "The [person_1] can't work without electricity.",
+            "[person_1] and [person_2] continue to work after lighting candles.",
+            "It can cause injury to [person_1].",
+            "The audience can't follow."
+        ]
+    }
+}

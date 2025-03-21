@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is well - equipped.",
+            "The room is dark.",
+            "The room is very big.",
+            "There are two vases.",
+            "The room is colorful."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a guitar?",
+        "answer": [
+            "[person_1] is playing the guitar.",
+            "[person_1] thinks the inhaler is interesting.",
+            "[person_1] wears a watch to see the time.",
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] blows the clarinet attentively."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep focusing on playing the guitar.",
+            "Maybe [person_1] will shares a pro tip for applying foundation to viewers.",
+            "[person_1] will go away.",
+            "[person_1] will pour the champagne in to the goblet.",
+            "[person_1] is continuously rolling the glass ball from the right arm to the left arm."
+        ],
+        "reason": [
+            "[person_1] is still heading for the gongs.",
+            "Because if [person_1] squats for a long time , [person_1] will be very tired.",
+            "[person_1] looks very excited.",
+            "The hands of [person_1] is still moving on the guitar.",
+            "[person_1] turned around and go to [person_1]'s spot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the guitar is broken?",
+        "answer": [
+            "[person_1] will float and hit the others.",
+            "[person_1] will not be able to play the guitar any more.",
+            "The horse will change a direction.",
+            "[person_1] will be able to play the guitar any more.",
+            "Nothing will happen."
+        ],
+        "reason": [
+            "[person_1] need not fix the guitar.",
+            "Because [person_1]'s duty is to clean the house.",
+            "[person_1] need fix the guitar.",
+            "The square plate is made of porcelain.",
+            "[person_1] need break the guitar."
+        ]
+    }
+}

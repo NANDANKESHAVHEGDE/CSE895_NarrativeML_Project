@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "It is on the grass.",
+            "[bottle_1] is in the floor.",
+            "It is behind the [bottle_1].",
+            "The [bottle_1] is near [bottle_1].",
+            "It is on the windowsill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paint can?",
+        "answer": [
+            "[person_1] is skipping the rope.",
+            "[person_1] is running around to play basketball.",
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] wants to open the box.",
+            "[person_1] is shaking the dices."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to jump .",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] will get up.",
+            "Maybe [person_1] is going to continue spray paint.",
+            "[person_1] will be naughty [person_1]."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] has bent back.",
+            "[person_1] is holding a paint can.",
+            "[person_1] tricked the opponent by attacking a specific target."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sprays paint?",
+        "answer": [
+            "[person_1] will run and catch up with the truck.",
+            "[person_1] will feel awkward.",
+            "[person_1] will fall very painfully.",
+            "The door will be more beautiful.",
+            "[person_1] will make the picture more colorful."
+        ],
+        "reason": [
+            "Bed is necessary for massage.",
+            "Both teams have the cups remaining on the [person_1].",
+            "A microscope is a very fine instrument.",
+            "The ground is very muddy.",
+            "The picture will lack color."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it winter?",
+        "answer": [
+            "The cabinet is on the right and behind [person_1].",
+            "It is made of glass.",
+            "The bookshelf is behind [person_1].",
+            "It is next to the cabinet . .",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a dog?",
+        "answer": [
+            "[person_1] is the dog's master.",
+            "[person_1] got a gift.",
+            "He need the strong body.",
+            "Because [person_1] and [person_1] are having a cup - stacking competition.",
+            "Because [person_1] gives the ring to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the phone rings?",
+        "answer": [
+            "They will milk the cows by their hands.",
+            "[person_1] will answer the phone.",
+            "[person_1] will give the patient the tool.",
+            "[person_1] will use the inhaler slowly.",
+            "[person_1] will probably go to school."
+        ],
+        "reason": [
+            "[person_1]'s phone rings.",
+            "Because it is the rule of the game.",
+            "[person_1] hasn't finished the steps totally.",
+            "Because practice makes perfect.",
+            "[person_1] must be tired because it is not an easy work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a cat running towards [person_1]?",
+        "answer": [
+            "[person_1] will play alone.",
+            "[person_1] would not dance and just sit still.",
+            "There would be no trumpet sound from [person_1].",
+            "[person_1] and [person_1] would still perform.",
+            "[person_1] will stop."
+        ],
+        "reason": [
+            "Because there were no one sitting by side to talk with [person_1].",
+            "The cat is so cute.",
+            "The [person_1] is the referee of the match.",
+            "There is only [person_1] on the stage.",
+            "[person_1] is busy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a room.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "[person_1] is in a gym.",
+            "[person_1] is in his room.",
+            "[person_1] is in the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] wears a cap to avoid the dazzling light from the sun.",
+            "[person_1] turns the tablecloth over to be able to tap the pen on the table.",
+            "[person_1] is stretching the whole body.",
+            "Maybe [person_1] just finished assembling it.",
+            "[person_1] is here to spray - paint the chair."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after stopping spraying?",
+        "answer": [
+            "[person_1] will continue to type some metrics into the machine.",
+            "Maybe [person_1]'s left foot will kick the ball.",
+            "[person_1] will take a turn . ",
+            "[person_1] will explain how to do next.",
+            "[person_1] will ask the professional snake catcher to take the snake out of his neck."
+        ],
+        "reason": [
+            "[person_1] is still being filmed until the end of the video.",
+            "Because it seems that [person_1] says something to the video.",
+            "Because they look like so happy and don't want to stop.",
+            "Because it is a good mix of slow and fast dancing.",
+            "[person_1] wants to be skillful in skating."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color on the chair?",
+        "answer": [
+            "[person_1] would have to re - color the door from the beginning or , in the worst case , recreate it.",
+            "[person_1] would have to re - color the chair from the beginning.",
+            "[person_1] may not want to dig hole.",
+            "[person_1] would wipe the table with a piece of cloth.",
+            "The [person_1] could throw snow into the dog."
+        ],
+        "reason": [
+            "Because his customer might be displeased and his product would be ruined.",
+            "The swords may cause injuries on their chests.",
+            "Because her product would be ruined.",
+            "The egg in the pot is still very fragile.",
+            "Because there are many other toys in the room of [person_1] , [person_1] can choose various toys that [person_1] likes."
+        ]
+    }
+}

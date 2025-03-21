@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] outside?",
+        "answer": [
+            "Black and white.",
+            "[person_1] is on the road.",
+            "It's in the yard.",
+            "[person_1] is parking on the road.",
+            "No , she isn't . She is in a sporting event hall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising her hands?",
+        "answer": [
+            "[person_1] is playing piano and that is the best position.",
+            "[person_1] is taking clothes out of the box.",
+            "[person_1] is picking the poi that he dropped.",
+            "[person_1] is doing a skate movement.",
+            "[person_1] is playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may get out of the recording room.",
+            "[person_1] may dance with [person_1].",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] is going to make a difficult movement."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] is raising her right foot.",
+            "[person_1] has bent back.",
+            "[person_1] has raised his two palms.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "It is probable that [person_1] will not continue playing kickball with friends.",
+            "[person_1] will be unable to continue skating.",
+            "[person_1] will get a low mark from referees.",
+            "[person_1] won't be able to ski.",
+            "[person_1]'s team will lose."
+        ],
+        "reason": [
+            "[person_1] is performing a difficult movement.",
+            "[person_1] can be hurt.",
+            "[person_1] stands in a high building.",
+            "[person_1] is performing in a competition.",
+            "[person_1] is looking at [person_1]."
+        ]
+    }
+}

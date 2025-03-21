@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are at a massage room.",
+            "[person_1] and [person_2] are sitting on the floor.",
+            "[person_1] and [person_2] are in the kitchen.",
+            "[person_1] and [person_2] are at the leisure center.",
+            "[person_1] and [person_2] are in a bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] following [person_1]?",
+        "answer": [
+            "[person_1] is talking about his barber shop.",
+            "Because [person_2] is taking care of [person_1].",
+            "[person_1] is playing guitar.",
+            "[person_1] is playing didgeridoo to relax.",
+            "[person_2] is waiting for his turn to cut his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] may stop [person_1].",
+            "[person_2] will make it more professional.",
+            "[person_2] will definitely take a rest.",
+            "[person_2] will try to raising eyebrows.",
+            "[person_2] will keep taking care of [person_1]."
+        ],
+        "reason": [
+            "Because [person_2] is the guest of this show.",
+            "[person_2] is following [person_1].",
+            "[person_2] seems to pay all his attention on the work.",
+            "[person_2] felt after joining the competition.",
+            "Maybe [person_2] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't go there?",
+        "answer": [
+            "Maybe [person_1] will stray away.",
+            "[person_1] will give her a piece of cake first.",
+            "[person_1] and [person_2] would bump into each other.",
+            "Maybe [person_1] will cut his finger.",
+            "The birds will fly away."
+        ],
+        "reason": [
+            "[person_1] is a kid.",
+            "Because [person_2] could exchange gifts with [person_1].",
+            "[person_2] is too little.",
+            "[person_2] punched the ground , which reduced the speed of [person_2].",
+            "[person_2] could exchange gifts with [person_1]."
+        ]
+    }
+}

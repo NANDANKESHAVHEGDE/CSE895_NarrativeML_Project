@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [bowl_1] ?",
+        "answer": [
+            "It is a washbasin.",
+            "The shirt [bowl_1] wearing is white.",
+            "The shirt [bowl_1] wearing is black.",
+            "The [bowl_1] is holding a musical instrument.",
+            "The [bowl_1] is holding a skating aid."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_2]?",
+        "answer": [
+            "Because the plants in [person_1] need watering.",
+            "[person_1] is singing.",
+            "[person_1] , [person_1] and [person_1] are performing together.",
+            "[person_1] is shaving.",
+            "Because [chair_2] of hand has a problem , maybe [chair_2] of hand is paralyzed and needs [person_1] help."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to put the legs down.",
+            "[person_1] is going to turn the page.",
+            "[person_1] is going to clean his face.",
+            "[person_1] is going to stop wrapping presents.",
+            "[person_1] may keep mixing the drink."
+        ],
+        "reason": [
+            "[person_1] needs to do this to wash off the shaving cream left on his face.",
+            "The weights is very heavy.",
+            "[person_1] wants to sell it on the website.",
+            "The hammer and chisels are on [person_1].",
+            "[person_1] is empty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes shaving?",
+        "answer": [
+            "[person_1] will be reminded by [person_1].",
+            "[person_1] will ask [person_1] to do another style.",
+            "Nothing will happen with [person_1].",
+            "[person_1] will use [person_1] and water to wash his face.",
+            "She may feel very happy and dance next time."
+        ],
+        "reason": [
+            "This is an indoor stadium , not a hospital.",
+            "[person_1] has no beard.",
+            "The shell of an oyster is attached to the meat.",
+            "They have to keep the same pace so they don't hit.",
+            "Because [person_1] is behind to [person_1] ."
+        ]
+    }
+}

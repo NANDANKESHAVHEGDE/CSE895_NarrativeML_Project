@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is on the sidewalk to [person_1]'s right.",
+            "The [car_1] is in the [person_1]'s hand.",
+            "[person_1] is behind [person_1].",
+            "[person_1] is on the table which behind [person_1].",
+            "[car_1] is in a garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wave [person_1]'s hand?",
+        "answer": [
+            "[person_1] is talking to everyone.",
+            "To help [person_1] keep his balance.",
+            "Maybe [person_1] get his clothes wet.",
+            "Because [person_1] is going to have a massage.",
+            "[person_1] and [person_1] are practicing the clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to share something about riding [person_1].",
+            "[person_1] will go forward.",
+            "To borrow the bubble machine from [person_1].",
+            "[person_1] may put the flowers in [person_1] .",
+            "[person_1] is going to take some photos."
+        ],
+        "reason": [
+            "[person_1] is lifting light weights.",
+            "[person_1]'s head only looks forward so [person_1] will keep going forward.",
+            "[person_1] wants the birds perched on his hand.",
+            "The man in the middle walked to the man on the right and put the bandage on his arm.",
+            "[person_1] is tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if there were other vehicles on the road?",
+        "answer": [
+            "There might be an accident.",
+            "The man in the yellow hat will have a rest.",
+            "The judge couldn't rate [car_1].",
+            "Maybe spoons and chopsticks.",
+            "[person_1] and [person_1] would continued the show."
+        ],
+        "reason": [
+            "Because [person_1] is folding a T - shirt , [person_1] will continue to fold other unfolded T - shirts.",
+            "The [person_1] would be interrupted and turn to look at the door.",
+            "[person_1] and [person_1] might swim to the surface in order to breathe.",
+            "Because the view of [person_1] wouldn't be blocked.",
+            "There might be an accident because [person_1] controls the bike in an imperfect manner."
+        ]
+    }
+}

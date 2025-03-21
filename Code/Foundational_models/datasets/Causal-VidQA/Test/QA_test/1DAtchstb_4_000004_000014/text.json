@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is sitting on the sofa.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is standing near [person_1].",
+            "[person_1] is opening [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look at [person_2]?",
+        "answer": [
+            "[person_2] is a kid and [person_2] is trying to open the gift box.",
+            "[person_1] is teaching how to do a pull - up.",
+            "[person_1] places the brick on and between two wooden bracket and slams it with a sledgehammer.",
+            "[person_1] doing a warm - up before yoga.",
+            "Maybe [person_1] is waiting for something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to take the pile of flooring rock plates on the cart and put them on the ground.",
+            "[person_2] may be going to struggle to lift the barbell . \u3001",
+            "[person_2] is going to pick up the gift box and continue tearing off the wrapping paper.",
+            "[person_2] may walk toward [person_2].",
+            "[person_2] is going to dry [person_2]'s hair."
+        ],
+        "reason": [
+            "Maybe [person_2] can't keep balance for long.",
+            "[person_2] is moving to his starting point.",
+            "[person_2] suddenly stops playing.",
+            "The gift box was lying on the ground.",
+            "It's the turn of [person_2] to kick and [person_2] hasn't finished."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] sits to open the gift?",
+        "answer": [
+            "[person_2] may defend [person_2].",
+            "[person_2] may be stop for another jump.",
+            "[person_2] will rest to recover.",
+            "[person_2] will be difficult to open the gift.",
+            "The [person_2] may practice shot put skills."
+        ],
+        "reason": [
+            "Wearing a jacket and helmet is compulsory for fencing players in drills and games.",
+            "The hair of [person_2] is very special.",
+            "there is only one guitar in the video.",
+            "The gift box is so big for [person_2].",
+            "The box is wrapped with the colorful paper."
+        ]
+    }
+}

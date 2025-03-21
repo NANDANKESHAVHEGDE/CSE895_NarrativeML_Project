@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is behind the [book_1].",
+            "[book_1] is lying on the table.",
+            "[book_1] is on the bed.",
+            "[book_1] is on the bookshelf.",
+            "It is on the loom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "Because the [person_1] seems to pick something from the bookshelves.",
+            "Because [person_1] wants to hold up the weight lifting.",
+            "Maybe [person_1] is in a guitar shop.",
+            "[person_1] is reading [book_1].",
+            "The [person_1] is waving the arms of the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to bed.",
+            "[person_1] is going to turn the page.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "Because the machine is on.",
+            "[person_1] has towel in the hand.",
+            "[person_1] may keep trying to throw.",
+            "[person_1] puts hand on the corner of the page.",
+            "Because he finished his work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the power went out?",
+        "answer": [
+            "[person_1] will not drink it out.",
+            "[person_1] would close [book_1].",
+            "The trophies will drop off.",
+            "[person_1] would tear [book_1].",
+            "[person_1] will feel surprised."
+        ],
+        "reason": [
+            "[person_1] will feel tired.",
+            "[person_1] can not read without light.",
+            "Because they cannot see anything.",
+            "[person_1] can read without light.",
+            "It could be a bit of bad luck to [person_1] and [person_1]'s wedding day."
+        ]
+    }
+}

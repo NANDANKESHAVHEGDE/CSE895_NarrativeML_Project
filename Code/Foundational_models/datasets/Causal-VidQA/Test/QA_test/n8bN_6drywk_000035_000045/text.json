@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the space dark?",
+        "answer": [
+            "There are seven.",
+            "Yes , only one.",
+            "It's in the classroom.",
+            "No , it isn't.",
+            "[person_3] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] laughing?",
+        "answer": [
+            "Because [person_3] is participating in a skating competition.",
+            "Because [person_2] prepares for the next move.",
+            "[person_1] , [person_2] and [person_3] are interested in a story.",
+            "Because [person_1] is snatching weight lifting.",
+            "Maybe [person_3] is hosting the show."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do after adjusting the camera?",
+        "answer": [
+            "[person_1] will put the inhaler into the mouth.",
+            "[person_1] , [person_2] and [person_3] will stop laughing.",
+            "[person_1] will run toward the ball.",
+            "[person_2] may pass things to another person.",
+            "[person_1] , [person_2] and [person_3] will leave the stage and have a rest."
+        ],
+        "reason": [
+            "Because this action is too difficult for [person_1] , [person_1] can\u2019t complete the action alone.",
+            "The horse is too hungry.",
+            "[person_1] , [person_2] , and [person_3] seem to prepare for turning off the video.",
+            "Because they are in the middle of their training now.",
+            "It seems that [person_1] is more familiar with this work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is thirsty?",
+        "answer": [
+            "Maybe [person_1] will stop playing together.",
+            "Maybe [person_1] will deal with himself.",
+            "Maybe [person_1] will stop talking together.",
+            "Maybe [person_1] will drink some water.",
+            "Maybe [person_1] will stop hitting together."
+        ],
+        "reason": [
+            "Maybe [person_1] will spill water.",
+            "Water is essential for the human body.",
+            "Maybe [person_1] will boil water.",
+            "[person_1] loves [person_1] so much.",
+            "Maybe [person_1] will drink water."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room ?",
+        "answer": [
+            "It is quite small.",
+            "It is narrow.",
+            "It is quite dark.",
+            "It is very clean.",
+            "It is in a rugby field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in the room ?",
+        "answer": [
+            "[person_1] is hungry and wants to eat something.",
+            "[person_1] is playing flute in the room.",
+            "[person_1] is adjusting the amount of water to water the plants.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will go on eating the food.",
+            "[person_1] will go on playing rock - paper - scissors.",
+            "[person_1] will talk and introduce the tool.",
+            "[person_1] will put some chair blocks inside the building block.",
+            "[person_1] will watch the laptop."
+        ],
+        "reason": [
+            "[person_1] needs to relax.",
+            "[person_1] will feel hungry.",
+            "It seems that they are in a food store.",
+            "[person_1] looks extremely hungry.",
+            "[person_1] will certainly watch something on laptop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone rings the bell ?",
+        "answer": [
+            "The [person_1] will make an effort to try to open it and call the staff.",
+            "[person_1] would sit down on [person_1].",
+            "The [person_1]'s hands will be off - balance.",
+            "[person_1] will be sad.",
+            "[person_1] will stand up."
+        ],
+        "reason": [
+            "When [person_1] feels urgent to go to the toilet , he has to first leave the equipment and find the right place to solve his problem.",
+            "[person_1] will get water on his hands.",
+            "To let [person_1] go to the toilet first.",
+            "because [person_1] and [person_1] may not see anything and be unable to move , keeping dancing is impossible . .",
+            "Then [person_1] will go to open the door."
+        ]
+    }
+}

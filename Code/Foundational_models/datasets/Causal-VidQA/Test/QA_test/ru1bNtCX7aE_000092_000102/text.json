@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is shaking the cup.",
+            "[person_1] is stacking dice.",
+            "[person_1] is opening the bottle.",
+            "[person_1] is sitting on the ground.",
+            "[person_1] is roller blading."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] open the bottle?",
+        "answer": [
+            "[person_1] may want to learn something from the book.",
+            "[person_1] spirals the cork and pries it out.",
+            "[person_1] can strum the right tune.",
+            "[person_1] is playing a very difficult song on guitar.",
+            "[person_1] is counting 10 seconds."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "It is anticipated that [person_1] will ride the surfboard.",
+            "[person_1] will climb back up the slope.",
+            "[person_1] will go into the shade.",
+            "It is anticipated that [person_1] will keep on playing hurling.",
+            "[person_1] will enjoy the champagne."
+        ],
+        "reason": [
+            "They does not seem to stop playing anytime soon.",
+            "[person_1] hasn't reach the amount of exercise planned for today.",
+            "[person_1] has opened the bottle.",
+            "There has been many people there to listen to his speech.",
+            "They are in the middle of their hurling training."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't hold the bottle tightly?",
+        "answer": [
+            "The bottle would fall to the ground and break.",
+            "The man will beg for [person_1]'s agreement.",
+            "The room will be dark then.",
+            "The present would still be pristine.",
+            "It would run away."
+        ],
+        "reason": [
+            "[person_1] cannot see anything without the glasses.",
+            "[person_1] will not see anything.",
+            "Because of the water in the wave.",
+            "The bottle is made of glass.",
+            "The maracas is made of plastic and not tough enough."
+        ]
+    }
+}

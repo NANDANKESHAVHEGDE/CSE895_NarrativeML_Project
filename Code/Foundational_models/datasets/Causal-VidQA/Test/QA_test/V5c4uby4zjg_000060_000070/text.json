@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the sweater [person_1] wearing ?",
+        "answer": [
+            "The sweater is white.",
+            "The [person_1] is behind [person_1].",
+            "It is black.",
+            "[person_1] is cylinder.",
+            "The [person_1] is behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside ?",
+        "answer": [
+            "The [person_1] pointed at the furniture.",
+            "Because [person_1] is playing beer pong.",
+            "The [person_1] tries to work out properly and keeps her balance.",
+            "[person_1] is ripping paper.",
+            "Maybe [person_1] feels happy because of a successful somersault."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] is going to jump faster.",
+            "[person_1] will continue kneading the dough.",
+            "[person_1] is going to throw paper away.",
+            "[person_1] is going to play.",
+            "[person_1] will go on working."
+        ],
+        "reason": [
+            "[person_1] is going to continue eating.",
+            "[person_1] looks out and is ready to speak.",
+            "[person_1] is going to go home.",
+            "[person_1] is still in the talking posture.",
+            "[person_1] looks at the camera and doesn't stop talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains ?",
+        "answer": [
+            "[person_1] will stop ripping paper.",
+            "Maybe [person_1] will come back home.",
+            "[person_1] can't play.",
+            "[person_1] and [person_1] will go into the [person_1].",
+            "[person_1] may not keep playing."
+        ],
+        "reason": [
+            "[person_1] will get wet.",
+            "[person_1] and [person_1] need to go to the room.",
+            "There is no umbrella or shelter from the rain around [person_1].",
+            "The concrete gets wet.",
+            "The cows will get wet."
+        ]
+    }
+}

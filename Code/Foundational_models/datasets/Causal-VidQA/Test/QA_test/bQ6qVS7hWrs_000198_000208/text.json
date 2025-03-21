@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the right hand side of [person_2].",
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is between [person_2] and [person_3].",
+            "[person_1] is in the yard.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise hands before skating?",
+        "answer": [
+            "It is cold outside.",
+            "He want to play better.",
+            "Maybe because the weather is cold.",
+            "[person_1] is performing.",
+            "[person_1] is curious about the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_1] next after the preparation?",
+        "answer": [
+            "[person_1] will feel really relaxed.",
+            "[person_1] and [person_1] will go for a rest.",
+            "[person_1] will go to practice in front.",
+            "[person_1] will continue skating.",
+            "[person_1] , [person_1] and [person_1] will continue dancing together."
+        ],
+        "reason": [
+            "[person_1]'s action is a little violent.",
+            "[person_1] has not finished the performance.",
+            "The surrounding looks like it is in a kindergarten.",
+            "William wins the award.",
+            "It can be seen from the video that there are some things on his bed . He should tidy them up after completing his task."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell while performing?",
+        "answer": [
+            "The [person_2] will get hair all over the ground.",
+            "[person_1] will ask the dog not do that.",
+            "Perhaps [person_1] would talk with her so that [person_2] could not ask for some water.",
+            "The [person_3] will get hair all over the floor.",
+            "[person_2] and [person_3] would fell too."
+        ],
+        "reason": [
+            "[person_1] wants to find a toilet.",
+            "[person_1] and [person_2] look pretty much the same.",
+            "The [person_1] is heavy.",
+            "[person_2] and [person_3] are skating with [person_1].",
+            "Water level is not deep and [person_1] just needs to get up if [person_1] falls."
+        ]
+    }
+}

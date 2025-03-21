@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing near the beach with a man who is wearing a brown T - shirt.",
+            "[person_1] is reading a fairy tale book.",
+            "[person_1] is peeling a coco.",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is doing lunges with 2 dumbbells and raising his hands"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stepping one foot to the side?",
+        "answer": [
+            "[person_1] is trying playing maracas.",
+            "Because [person_1] is a man.",
+            "Because [person_1] is playing guitar and whistling.",
+            "[person_1] is doing side lunges.",
+            "Because [person_1] wants to touch her belly button."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is about to receive money from passersby.",
+            "[person_1] is about to attach the bunch of feathers onto [person_1].",
+            "[person_1] is about to put [person_1] into the pot.",
+            "[person_1] is about to coach young ballet dancers.",
+            "[person_1] is about to raise the dumbbells up."
+        ],
+        "reason": [
+            "[person_1] is putting a bunch of feather on top of [person_1].",
+            "[person_1] placing [person_1] in front of him playing bagpipe to take donation of listeners.",
+            "[person_1] is going to unlock the lock because [person_1] is inserting the iron rod into the lock.",
+            "[person_1] close his leg and put the dumbbells above his shoulder.",
+            "[person_1] wants to talk with the other people."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "Maybe [person_1] won't dance.",
+            "[person_1] can fall down onto the [person_1].",
+            "The leg of [person_1] may not hurt.",
+            "[person_1] will need help to stand up.",
+            "[person_1] will get hurt."
+        ],
+        "reason": [
+            "Maybe the skateboard hit the leg so [person_1] was injured.",
+            "The ground is very firm.",
+            "[person_1] is closest to [person_1].",
+            "[person_1] may get hit by the dumbbells.",
+            "[person_1] will feel hurt."
+        ]
+    }
+}

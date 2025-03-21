@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is standing side by side with [person_2].",
+            "Along the river.",
+            "[person_1] is on the stage.",
+            "It is in the room.",
+            "[person_1] is near the window."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] blow the clarinet?",
+        "answer": [
+            "[person_1] thinks the inhaler is interesting.",
+            "It helps to preserve the pulp as much as possible.",
+            "[person_1] is showing how to squeeze oranges with a juicer.",
+            "[person_1] is performing for [person_1] and [person_1].",
+            "[person_1] blows the clarinet attentively."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "They will keep on laying those bricks on each other.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] and [person_2] will celebrate.",
+            "[person_1] and [person_2] will continue practicing.",
+            "[person_1] and [person_2] will sit down and rest."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are still looking at [chair_1].",
+            "[person_2] has just joined with [person_1].",
+            "[person_1] and [person_2] are resting , and [person_1] and [person_2] will continue to train when [person_1] and [person_2] are well.",
+            "[person_1] and [person_2] were looking at the light screen attentively.",
+            "[person_1] and [person_2] are looking at the beautiful seascape."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not look at [chair_1] while practicing?",
+        "answer": [
+            "[chair_1] and [person_1] will bite each other.",
+            "Maybe [person_1] will not maintain the ballet.",
+            "[chair_1] will eat the [person_1] faster.",
+            "[person_1] might forget the rhyme.",
+            "The horse could not be cleaned thoroughly."
+        ],
+        "reason": [
+            "[person_1] is making cakes for the restaurant.",
+            "[person_1] has not remember the rhyme yet.",
+            "There are big snows around the [person_1].",
+            "Hairpin helps her to separate the hair.",
+            "The [person_1] plays accordion."
+        ]
+    }
+}

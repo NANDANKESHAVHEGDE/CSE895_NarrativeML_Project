@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the room ?",
+        "answer": [
+            "There are fourteen chairs in the room.",
+            "There are two vases.",
+            "There are three.",
+            "There is only person.",
+            "There are 4 trees."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room ?",
+        "answer": [
+            "[person_1] is playing keyboard.",
+            "[person_1] is playing piano.",
+            "[person_1] is using the piano.",
+            "[person_1] is excited about his activity.",
+            "[person_1] is excited about her book."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will certainly stand up.",
+            "[person_1] will stand aside there or leave.",
+            "[person_1] may get out of the pool.",
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "[person_1] still has the harmonica on her mouth , closing her eyes to enjoy playing the harmonica.",
+            "[person_1] will press on the keyboard.",
+            "To show others how to take out the paint roller.",
+            "It seems that [person_1] is far from [person_1]'s reach.",
+            "[person_1] used a powder - buff to apply foundation cream on [person_1]'s face."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired ?",
+        "answer": [
+            "[person_1] will stop playing guitar.",
+            "[person_1] will not play keyboard any more.",
+            "Maybe [person_1] will stop stacking.",
+            "Then [person_1] may be rejected by the boss.",
+            "[person_1] will take a break."
+        ],
+        "reason": [
+            "[person_1] will go home.",
+            "[person_1] will lie down and sleep.",
+            "Because [person_1] and [person_1] are colleagues.",
+            "Maybe [person_1] will hug the [person_1].",
+            "[person_1] cries suddenly because [person_1] feels uncomfortable."
+        ]
+    }
+}

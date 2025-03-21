@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the weather like?",
+        "answer": [
+            "He is with a smiling face.",
+            "Yes , only one.",
+            "It's sunny.",
+            "[person_1] is lying on the floor.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] is stacking cups.",
+            "[person_1] wants to keep healthy.",
+            "[person_1] is plastering a high wall.",
+            "Because the water was flowing [person_1] ran out to water the plants.",
+            "[person_1] is doing for fun."
+        ]
+    },
+    "predictive": {
+        "question": "Where will [person_1] go after a run?",
+        "answer": [
+            "Turn left or right.",
+            "[person_1] may leave the room as well.",
+            "[person_1] will jump forward.",
+            "[person_1] will go back to work.",
+            "[person_1] will have a lunch."
+        ],
+        "reason": [
+            "Because the cleaned hair will breed bacteria if it is not cleaned.",
+            "[person_1] has suppressed for several seconds.",
+            "[person_1] carries schoolbags.",
+            "[person_1] is hungry.",
+            "Because he is just standing there to enjoy the race."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would he do if he got hurt?",
+        "answer": [
+            "He'll call a doctor.",
+            "The taste of the food would not be good.",
+            "He won't call a doctor.",
+            "The cows would be running.",
+            "He'll stop the doctor."
+        ],
+        "reason": [
+            "Doctors can cure diseases.",
+            "The wolf is dangerous for people.",
+            "Doctors cannot cure diseases.",
+            "The things on the table will fall onto the ground and in a mess.",
+            "Doctors can to nothing to his diseases."
+        ]
+    }
+}

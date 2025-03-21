@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [bench_1]?",
+        "answer": [
+            "[bench_1] is on the floor , between the [bench_1] and [bench_1].",
+            "The [bench_1] is seated on the body of the [bench_1].",
+            "[bench_1] is brown.",
+            "The [bench_1] is next to the [bench_1] and they are on the floor.",
+            "[bench_1] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Maybe [person_1] wants to practice kickball.",
+            "Because [person_1] is playing the violin with his friends in the room.",
+            "[person_1] is roller skating slowly in the room.",
+            "[person_1] is standing on the [person_1] by hands.",
+            "Maybe [person_1] is playing laser tag."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to talk to [person_1].",
+            "[person_1] is going to kick the [sports ball_1] on the wall.",
+            "Maybe [person_1] will enter the house.",
+            "Perhaps [person_1] is going to come home.",
+            "[person_1] will hug [person_1]."
+        ],
+        "reason": [
+            "[person_1] is sitting near the [person_1].",
+            "[person_1] ran up and kicked the [sports ball_1] on the wall.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] is holding a candy pack.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't wear shoes when [person_1] kicks the ball?",
+        "answer": [
+            "The [person_1] will not play another instrument called a piano.",
+            "The [person_1] will try again.",
+            "The [person_1] will learn it.",
+            "Maybe [person_1] will play again.",
+            "Maybe [person_1] will hurt feet."
+        ],
+        "reason": [
+            "[person_1] is holding the shield , which is the target.",
+            "When [person_1] kicks the ball , the toe touches the ball and maybe [person_1] feels hurt feet.",
+            "The [person_1] lost balance and the [person_1] needed something to hold on.",
+            "The [person_1] puts them in the small [person_1].",
+            "Because [person_1] can score and become the winner."
+        ]
+    }
+}

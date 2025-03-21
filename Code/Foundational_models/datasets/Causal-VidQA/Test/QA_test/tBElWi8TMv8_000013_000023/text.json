@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is green.",
+            "The shirt is red.",
+            "The shirt is blue.",
+            "The shirt is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_1] is sitting on the carpet.",
+            "[person_1] needs to place the accordion on his lap.",
+            "[person_1] and [person_2] are playing together.",
+            "[person_1] and [person_2] are opening presents.",
+            "[person_1] sat on the ground to bounce the ball."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will report the phone number on the tank.",
+            "[person_2] will play the steer roping.",
+            "Perhaps [person_2] will continue walking.",
+            "[person_2] will start a new game.",
+            "[person_2] will go all out to be the winner."
+        ],
+        "reason": [
+            "[person_2] just finishes doing boxing.",
+            "Because [person_2] seems to be not likely to stop and tries to say something.",
+            "[person_2] has finished arranging the chessboard.",
+            "Because there is a microphone in front of [person_2].",
+            "Because [person_2] is not quite familiar with the martial arts and needs to practice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] and [person_2] maybe afraid.",
+            "[person_1] will stop hooping.",
+            "[person_1] maybe afraid.",
+            "[person_1] and [person_2] will stop playing.",
+            "[person_1] will stop raising his eyebrows."
+        ],
+        "reason": [
+            "Maybe [person_1] will feel scared.",
+            "[person_1] will put the lute on the table.",
+            "Maybe [person_1] and [person_2] will go out.",
+            "[person_1] will stand still.",
+            "Maybe [person_1] will find candles to light."
+        ]
+    }
+}

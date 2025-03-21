@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is next to the table.",
+            "[person_1] is sitting on the [couch_1].",
+            "[couch_1] is next to the window.",
+            "It is in front of the yellow curtain.",
+            "[couch_1] is behind the girl."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] trying to play didgeridoo?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "Because [person_1] is currently in a room without light.",
+            "[person_1] is slowly move backwards.",
+            "[person_1] wants to play with these big dices.",
+            "Because [person_1] is playing the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue playing.",
+            "[person_1] is going to crawl out.",
+            "[person_1] may continue writing.",
+            "[person_1] is going to get up.",
+            "[person_1] is going to stop wrapping presents."
+        ],
+        "reason": [
+            "[person_1] is making noodles thin and long.",
+            "[person_1] is playing attentively.",
+            "[person_1] is very satisfied with her research.",
+            "Maybe [person_1] is about to finish weaving the fabric.",
+            "A massage is unlikely to be free."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not know how to play didgeridoo?",
+        "answer": [
+            "[person_1] would have to stop doing squat if she got injury on her knees.",
+            "The progress will take longer.",
+            "Some books may fall off.",
+            "[person_1] might try to learn.",
+            "[person_1] will borrow another golf club from others."
+        ],
+        "reason": [
+            "[person_1] is a professional trainer.",
+            "[person_1] is not moving.",
+            "[person_1] had to be hospitalized right away.",
+            "The [person_1] does not put on any glasses to throw the shot effectively.",
+            "[person_1] would research about the didgeridoo."
+        ]
+    }
+}

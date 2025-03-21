@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is red.",
+            "The [chair_1] is rectangular.",
+            "[chair_1] is black.",
+            "It is green.",
+            "[chair_1] is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "Because [person_1] successfully turned the plate.",
+            "Maybe someone is talking with [person_1].",
+            "Because [person_1] amazes when the apple is peeled so fast.",
+            "because [person_1] is excited about playing snowball.",
+            "Because [person_1] spilled beer all over the floor."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1]'s going to have rest.",
+            "[person_1] will drop two plates.",
+            "[person_1] will keep spraying.",
+            "[person_1] may play the harmonica.",
+            "[person_1]'ll hurry to the hospital."
+        ],
+        "reason": [
+            "[person_1] is practicing hard.",
+            "To show how to cut the board.",
+            "[person_1] will drop two plates because [person_1]'s done.",
+            "[person_1] wants to see how far the weight can go.",
+            "[person_1] did a stupid action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1]'s right hand were shaken?",
+        "answer": [
+            "The [person_1] will ask his parents to teach him.",
+            "[person_1] would have to pay a fine.",
+            "The red plate in [person_1]'s hand would fall.",
+            "Then [person_1] can hold the donut with one hand to eat.",
+            "[person_1] would not use it to exercise."
+        ],
+        "reason": [
+            "Because if [person_1] keeps raising her hands , [person_1] will feel embarrassed.",
+            "The mouth of [person_1] skin is tightly sticking to the beer bottle which is very sharp after breaking to fragments",
+            "Because the person squats and can't see what it is.",
+            "The red plate in [person_1]'s hand would fall and [person_1] might lose.",
+            "Maybe [person_1] is busy playing."
+        ]
+    }
+}

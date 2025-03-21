@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [couch_1]?",
+        "answer": [
+            "[couch_1] is blue.",
+            "The [couch_1] is behind the [couch_1].",
+            "The sweater is white.",
+            "No.",
+            "The [couch_1] is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is practicing to play didgeridoo.",
+            "[person_1] is opening present.",
+            "Because [person_1] can somersault.",
+            "[person_1] is instructing [person_1] about the book.",
+            "Riding a mechanical bull is very easy to play."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to slip.",
+            "[person_1] is going to put the donut in his mouth.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] may tickle [person_1] again."
+        ],
+        "reason": [
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "[person_1] is riding a mechanical bull.",
+            "[person_1] was walking towards [person_1] and the right hand of [person_1] touched the leg of [person_1].",
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "The person pinching [person_1] will have to coax [person_1].",
+            "Maybe [person_1]'s parents will coax into smiling.",
+            "[person_1] will be sad.",
+            "Maybe [person_1] will not ride.",
+            "Perhaps the mother of [person_1] will persuade [person_1] to stop crying."
+        ],
+        "reason": [
+            "[person_1] is happy.",
+            "Dancing takes a lot of energy.",
+            "[person_1] and [person_1] are in a race.",
+            "[person_1] is just a child.",
+            "[person_1] is sitting there."
+        ]
+    }
+}

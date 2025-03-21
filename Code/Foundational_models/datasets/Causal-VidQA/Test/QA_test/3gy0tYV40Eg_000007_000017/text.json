@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons?",
+        "answer": [
+            "Six.",
+            "[person_1] is on a stage.",
+            "Two.",
+            "The color of [person_2] is green.",
+            "[person_4] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_4] hold the machine?",
+        "answer": [
+            "[person_4] is practicing playing field hockey.",
+            "To keep balance.",
+            "[person_4] wants to open this box.",
+            "It is cold outside.",
+            "Because [person_4] made it out of hookah smoke."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after seeing [person_4] running?",
+        "answer": [
+            "[person_2] , [person_2] and [person_4] are going to install the fender.",
+            "[person_2] will go to play.",
+            "[person_2] will do whatever he likes.",
+            "[person_2] will return to the barn.",
+            "[person_2] will instruct [person_4]."
+        ],
+        "reason": [
+            "It appears that [person_2] concentrates on the painting and uses the bottles.",
+            "Because [person_2] will continue to play the bricks.",
+            "[person_2] is the instructor.",
+            "[person_2] is smiling a lot and looks quite happy.",
+            "[person_2] is just capping the bottles so later it will be the turn of [person_4]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] suddenly faints out?",
+        "answer": [
+            "[person_1] can't bounce like now.",
+            "[person_1] won't help [person_4].",
+            "[person_4] may drink beer with [person_4].",
+            "[person_1] will help [person_4].",
+            "[person_1] will change pants."
+        ],
+        "reason": [
+            "[person_1] is helpless.",
+            "Without the frisbee , they can not play the game.",
+            "[person_1] is helpful.",
+            "[person_1] will be confused.",
+            "[person_1] is not helpful."
+        ]
+    }
+}

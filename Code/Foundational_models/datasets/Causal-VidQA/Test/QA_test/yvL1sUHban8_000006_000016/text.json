@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the tool on the hand [person_1]?",
+        "answer": [
+            "[person_1] is black.",
+            "It is high heel.",
+            "It is red.",
+            "It's looks like key.",
+            "It is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] didn't drink the beer?",
+        "answer": [
+            "Because [person_1] and [person_1] are competing.",
+            "Because [person_1] is participating in a running competition.",
+            "[person_1] is playing basketball with friends.",
+            "Because [person_1] wanted to share the opening skills with his friends.",
+            "Because [person_1] wants to film the baby , [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand on her hands.",
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] is going to clean up the spilled beer on the floor.",
+            "[person_1] may straighten his arms.",
+            "[person_1] is going to do some difficult techniques."
+        ],
+        "reason": [
+            "[person_1] looks like a manager.",
+            "The tap is still on.",
+            "[person_1] cleaned the wood very carefully.",
+            "A wet floor can be very uncomfortable.",
+            "[person_1] is excited about this book."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] didn't open the beer successfully at first?",
+        "answer": [
+            "The liquid will not spill out.",
+            "Balls may fly through the grid.",
+            "The fruit would be easier to open.",
+            "the bowl will be broken.",
+            "They would encourage him and help him to do it."
+        ],
+        "reason": [
+            "Because those people are outgoing and enthusiastic.",
+            "Because smelling is a step before drinking beer.",
+            "Each team gets to throw one ball per turn.",
+            "Liquids do not spill out of enclosed spaces.",
+            "Try to arc the ball when you throw . It is more likely to land in a cup."
+        ]
+    }
+}

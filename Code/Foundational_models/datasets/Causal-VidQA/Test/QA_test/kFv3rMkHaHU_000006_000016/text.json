@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding [person_1].",
+            "[person_1] and [person_1] are in the house.",
+            "[person_1] is holding a bagpipe.",
+            "[person_1] and [person_1] are in the barber shop.",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a bagpipe?",
+        "answer": [
+            "[person_1] is playing with the book.",
+            "[person_1] is playing bagpipes.",
+            "[person_1] , [person_1] and [person_1] are spending all their energy relaxing.",
+            "[person_1] is roller skating.",
+            "Because [person_1] does not want to fall."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [baseball bat_1]?",
+        "answer": [
+            "[person_1] and [baseball bat_1] may feed the fish.",
+            "[person_1] will try to ride another mule.",
+            "[person_1] will leave.",
+            "[person_1] and [person_1] are going out.",
+            "[person_1] will keep holding it."
+        ],
+        "reason": [
+            "[person_1] is reaching out her hand to [baseball bat_1].",
+            "[person_1] and [baseball bat_1] held the microphone.",
+            "Because [person_1] and [baseball bat_1] are checking their looks.",
+            "[person_1] and [baseball bat_1] clapped as a rhythmic accompaniment.",
+            "[person_1] is playing bagpipes with [baseball bat_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's raining?",
+        "answer": [
+            "This video will not exist.",
+            "[person_1] will stop playing.",
+            "All things on it will also fall down.",
+            "[person_1] will continue playing.",
+            "The music which [person_1] is playing now will sound strange."
+        ],
+        "reason": [
+            "[person_1] isn't playing at all.",
+            "The adult will need to answer the phone call.",
+            "[person_1] is playing inside.",
+            "When [person_1] step back , she almost hit [person_1].",
+            "[person_1] is playing outside."
+        ]
+    }
+}

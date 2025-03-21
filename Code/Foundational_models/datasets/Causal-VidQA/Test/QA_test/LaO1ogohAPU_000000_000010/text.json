@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool does [person_1] use to open [bottle_1]?",
+        "answer": [
+            "[person_1] is reading newspaper.",
+            "[person_1] is playing field hockey.",
+            "[person_1] is cheering [person_1] up",
+            "[person_1] is playing near the beach with a man who is wearing a brown T - shirt.",
+            "The arm."
+        ]
+    },
+    "explanatory": {
+        "question": "Why didn't the cap fall off from hand of [person_1]?",
+        "answer": [
+            "[person_1] is playing harmonica.",
+            "This is a children's playroom.",
+            "Because the gym equipment needs a place to store it.",
+            "[person_1] is practicing.",
+            "Because the skin of [person_1] is sticky."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will get up.",
+            "[person_1] is going to drink water.",
+            "[person_1] will be naughty [person_1].",
+            "[person_1] will stop standing on the hand.",
+            "[person_1] is going to drink the beer in [bottle_1]."
+        ],
+        "reason": [
+            "[person_1] stands up and lift the bike up.",
+            "[person_1] is preparing for a long jump.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] is going to finish her performance.",
+            "[person_1] sends the bottle to his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cap of [bottle_1] is tightly attached in it by glue ?",
+        "answer": [
+            "[person_1]'s leg will break.",
+            "[person_1] will not open the [bottle_1] easily.",
+            "[person_1] will go to get it back.",
+            "[person_1] won't be able to play.",
+            "Maybe they will be more excited."
+        ],
+        "reason": [
+            "Glue has a great viscosity . There's no way to open a normal tool",
+            "[bottle_1] should be careful.",
+            "Because the weather is not suitable to play.",
+            "It is too hot.",
+            "The rope will drop to the ground."
+        ]
+    }
+}

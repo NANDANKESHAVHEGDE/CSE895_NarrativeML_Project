@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is holding a newspaper.",
+            "[person_1] is holding the harmonica.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is removing the cork from the corkscrew."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smell the cork?",
+        "answer": [
+            "[person_1] turns his back on the basket and throws the ball backward.",
+            "[person_1] doesn't want the cat run away.",
+            "The cork must give off a fragrant perfume.",
+            "[person_1] roasts marshmallows with other's help.",
+            "[person_1] wants to stick the accordion to the body and control the accordion conveniently."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will continue playing ice hockey with friends.",
+            "[person_1] will enjoy the liquid inside the bottle.",
+            "[person_1] will bake a cake.",
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "[person_1] will pour the wine into a goblet."
+        ],
+        "reason": [
+            "[person_1] is touching in the keyboard.",
+            "[person_1] will drink it with a goblet.",
+            "[person_1] is moving the hoop from her hands down to her waist.",
+            "[person_1] is spinning the skateboard.",
+            "Because the purpose of [person_1] rock climbing is to reach the top."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't drink it with goblet?",
+        "answer": [
+            "There would be no gathering.",
+            "[person_1] may feel sad.",
+            "The experience must be not perfect.",
+            "He will ride aside.",
+            "He would not stay with them."
+        ],
+        "reason": [
+            "A goblet is the best vessel for champagne.",
+            "[person_1] could not even lift the hammer.",
+            "Because coins are dirty.",
+            "[person_1] has roasted them well and prepared to eat them.",
+            "Because the oven is hot"
+        ]
+    }
+}

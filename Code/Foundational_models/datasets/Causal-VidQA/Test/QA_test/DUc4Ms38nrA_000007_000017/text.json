@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a snow mountain.",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] is in the gym.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] there?",
+        "answer": [
+            "[person_1] meets somebody on the street.",
+            "Maybe [person_1] is managing workers who are cutting wood.",
+            "Because [person_1] is smoking.",
+            "[person_1] is relaxing.",
+            "Because [person_1] is skiing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to bed.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] will get the job done.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to come back home."
+        ],
+        "reason": [
+            "[person_1] showed the snake and kept stepping forward.",
+            "[person_1] is finishing the product.",
+            "[person_1] fell into the water.",
+            "Maybe [person_1] is practicing.",
+            "[person_1] wants to be a good batter."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wants to continue skiing?",
+        "answer": [
+            "The boy would be upset.",
+            "The floor has to be cleaned.",
+            "[person_1] cannot play golf indoor.",
+            "[person_1] will have to change clothes.",
+            "[person_1] might be fussy."
+        ],
+        "reason": [
+            "From the video we can see that [person_1] is right - handed.",
+            "The fall made the clothes of [person_1] wet.",
+            "because [person_1] is made of glass and easy to break.",
+            "The [person_1] just says nothing before [person_1] plays the lighter.",
+            "Because the grass is small , if [person_1] and [person_1] turn over together , they are likely to hit each other."
+        ]
+    }
+}

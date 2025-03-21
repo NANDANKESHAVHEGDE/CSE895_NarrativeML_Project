@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside.",
+            "[person_1] is in a classroom.",
+            "[person_1] is performing on a stage.",
+            "[person_1] is in a park.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] walk away?",
+        "answer": [
+            "[person_1] talks about something to the camera.",
+            "[person_1] injured his left hand.",
+            "[person_1] is recording the video.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is finished playing bagpipes , so he walks off the stage quickly so someone else can have a turn on stage."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after stopping performing?",
+        "answer": [
+            "[person_1] will go backstage since his turn on stage is over.",
+            "[person_1] will keep playing.",
+            "[person_1] maybe not be happy.",
+            "[person_1] will keep on dancing.",
+            "[person_1] will continue to drink."
+        ],
+        "reason": [
+            "Because a man is going to break the board.",
+            "[person_1] thinks the food is quite delicious.",
+            "[person_1] walks off stage because he finished performing the song he was playing.",
+            "[person_1]'s hand will still hold weights and closes to his body.",
+            "[person_1] will turn around and jump in the opposite direction."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] tripped while quickly walking off stage?",
+        "answer": [
+            "The baseball bat would slip out of [person_1]'s hand every time [person_1] swung it.",
+            "The face of the [person_1] might be injured.",
+            "[person_1] would fall forwards onto the floor , landing on his bagpipes.",
+            "There will be an accident.",
+            "The [person_1] who sat on the [person_1] would get hurt."
+        ],
+        "reason": [
+            "[person_1] was in a hurry to get off stage , so if he tripped , he would lose his balance and fall on top of his instrument.",
+            "Because water coming from the shower head is going to spread in the bathroom.",
+            "The body of the girl is hit with the pillow and the pillow is on the body of the girl.",
+            "To check what's wrong with it.",
+            "[person_1] and [person_1] are standing while the car is running , which is very dangerous."
+        ]
+    }
+}

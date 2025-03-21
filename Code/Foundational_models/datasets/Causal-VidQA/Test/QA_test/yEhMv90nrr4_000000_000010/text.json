@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is in his house.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the yard.",
+            "[person_1] is on the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] skating backwards?",
+        "answer": [
+            "[person_1] introduces by words and pose.",
+            "[person_1] and [person_1] are spinning the rope for [person_1].",
+            "[person_1] is trying something like clothes.",
+            "[person_1] is doing it for fun.",
+            "[person_1] wants to be with nature when he is doing tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack three more cups.",
+            "[person_1] may clean the inside.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to show more difficult moves.",
+            "[person_1] may keep shaking ropes."
+        ],
+        "reason": [
+            "[person_1] has very good technique.",
+            "[person_1] is not going to stop.",
+            "[person_1] hasn't stopped yet.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] is jumping very high."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happens if the movements of [person_1] are not technically correct?",
+        "answer": [
+            "[person_1] will be cry.",
+            "[person_1] may need help to land safely.",
+            "[person_1] might fall.",
+            "[person_1] will look at others.",
+            "[person_1] will smile and be satisfied for these compliments."
+        ],
+        "reason": [
+            "[person_1] will not touch the bass guitar strings if [person_1] does not play music.",
+            "[person_1] is holding a matchstick too.",
+            "[person_1] is skating with a high speed.",
+            "It is very easy to fall when playing roller skating.",
+            "Because it looks like the [person_1] is her assistant."
+        ]
+    }
+}

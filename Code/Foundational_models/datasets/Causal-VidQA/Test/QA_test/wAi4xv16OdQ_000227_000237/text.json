@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the gym.",
+            "[person_1] and [person_2] are in an ice cream shop.",
+            "[person_1] and [person_2] are on stage.",
+            "[person_1] and [person_2] are on their room.",
+            "[person_1] and [person_2] are in a show."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is recording a video with [person_2].",
+            "[person_1] is excited about holding her gift.",
+            "[person_1] is instructing someone how to stack cups.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is playing chess with many people in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do ?",
+        "answer": [
+            "[person_1] and [person_2] are going to continue snapping their fingers.",
+            "[person_1] and [person_2] may go on trying to push the wheelchair forward.",
+            "[person_1] and [person_2] are going to continue their work.",
+            "[person_1] and [person_2] are going to make jokes on their faces.",
+            "Eating the sushi."
+        ],
+        "reason": [
+            "[person_1] and [person_2] will not stop learning skateboarding until they can ride it.",
+            "[person_1] and [person_2] seem enjoy the travel.",
+            "[person_1] and [person_2] are making videos for fun.",
+            "The bricks needs to be aligned to complete a wall.",
+            "[person_1] is full of water and [person_1] and [person_2] are putting their hands in [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] has to go ?",
+        "answer": [
+            "[person_1] will keep practicing.",
+            "[person_1] will not be able to skate.",
+            "[person_1] won't record videos anymore.",
+            "[person_2] will fall.",
+            "The other two won't be recording anymore."
+        ],
+        "reason": [
+            "[person_2] will feel hurt.",
+            "[person_2] wants to find a toilet.",
+            "This game only needs at least 2 people to be able to play.",
+            "Making videos alone is not fun.",
+            "Moving too fast is hardly safe for skiers."
+        ]
+    }
+}

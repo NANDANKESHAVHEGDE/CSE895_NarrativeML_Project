@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] ?",
+        "answer": [
+            "[book_1] is on the [book_1].",
+            "It is in front of the dog.",
+            "[book_1] is lying on the table.",
+            "[book_1] is on the floor.",
+            "[book_1] is outside behind [book_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor ?",
+        "answer": [
+            "Because [person_1] is playing the game.",
+            "[person_1] is reading book.",
+            "Because [person_1] is thinking about the next movement of [person_1].",
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "[person_1] is dropping marbles from [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] is going to keep watching the program.",
+            "[person_1] is going to \b lie down.",
+            "[person_1] is going to pick up [book_1].",
+            "[person_1] will separate the legs.",
+            "[person_1] is going to keep talking."
+        ],
+        "reason": [
+            "Because [person_1] seems to be scared.",
+            "Or [person_1] is going to home.",
+            "[person_1] is reading [book_1].",
+            "Then maybe [person_1] is going to rest.",
+            "Because [person_1] still has cards in hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off ?",
+        "answer": [
+            "[person_1] will put them back to the pot.",
+            "The [person_1]'s hair would get wet.",
+            "Then maybe [person_1] will fall.",
+            "[person_1] will be afraid.",
+            "[person_1] will run away."
+        ],
+        "reason": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] will cry.",
+            "The swing speed of [person_1] is quite fast so she would fall suddenly if the swing chains broke.",
+            "Because the [person_1] has another machine.",
+            "Maybe [person_1] will repair it."
+        ]
+    }
+}

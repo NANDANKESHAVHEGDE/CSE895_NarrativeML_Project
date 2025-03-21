@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_3] and [person_4] ?",
+        "answer": [
+            "[person_3] and [person_4] are in the house.",
+            "[person_3] is on the left hand side of [person_3].",
+            "[person_3] is sit on [person_3].",
+            "[person_4] is sitting on [person_4].",
+            "[person_4] is in the big yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_3] and [person_4] are in the house?",
+        "answer": [
+            "[person_4] is helping [person_3] on practicing roller skating.",
+            "[person_4] is required to play field hockey.",
+            "[person_3] is playing with [person_3].",
+            "[person_4] is watching [person_3] lift weights.",
+            "[person_3] and [person_4] are preparing to open the presents."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_3] and [person_4] going to do?",
+        "answer": [
+            "Perhaps [person_3] and [person_4] are going to check the competition result.",
+            "[person_4] is going to push the bricks.",
+            "[person_4] will change the glasses.",
+            "[person_3] wants to drag the crocodile ashore.",
+            "[person_3] and [person_4] want to open the gift box."
+        ],
+        "reason": [
+            "[person_3] has practiced and not had any progress.",
+            "The finger of [person_3] is moving towards the brick.",
+            "Because [person_3] and [person_4] want to know what's inside.",
+            "There is a spectacle frame on the table.",
+            "[person_3] was hit and wants to hit back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if inside that gift was what [person_3] and [person_4] wanted?",
+        "answer": [
+            "[person_3] will pick up the chips and eat it.",
+            "[person_4] will be sad.",
+            "[person_3] and [person_4] may be very happy.",
+            "[person_3] may break [person_3]'s arms.",
+            "[person_4] will look for some help."
+        ],
+        "reason": [
+            "Vases are fragile objects . ",
+            "[person_3] is too close to [person_3].",
+            "The deaf can't hear anything.",
+            "Because [person_3] and [person_4] has received gifts.",
+            "Maybe [person_4] could open it up earlier and play with it."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the bag next to [person_1]?",
+        "answer": [
+            "The bag next to [person_1] is white.",
+            "The [person_1] is standing behind the fence.",
+            "The [person_1] is behind the [person_1].",
+            "The color of [person_1] is mint.",
+            "The [person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bend down?",
+        "answer": [
+            "It requires a lot of balance.",
+            "[person_1] does it for entertainment.",
+            "[person_1] bends down to pick up the dice which are dropped.",
+            "For relaxation.",
+            "[person_1] strikes the bottle quickly with the knife from the below to the bottleneck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] is going to stacking the dice again.",
+            "Perhaps [person_1] is going to jump next.",
+            "Maybe [person_1] is going to jump.",
+            "[person_1] will play with the cat.",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "[person_1] bent down to pick up the dice which are dropped and swung the cup again to stack them.",
+            "[person_1] is holding a candy pack.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is moving to the chair.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if all the dice are stacked?",
+        "answer": [
+            "[person_1] will go to see a doctor.",
+            "[person_1] might make eyes contact with his partner and try to prompt him.",
+            "[person_1] would be very happy and would jump for joy.",
+            "[person_1] must seek it and stack the dice again.",
+            "[person_1] will sit down to be able to play the xylophone."
+        ],
+        "reason": [
+            "The dice are stacked perfectly and no dice are dropped.",
+            "Mahjong is a game that requires both strategy and luck.",
+            "[person_1] is trying to keep [person_1] away from [person_1].",
+            "[person_1] feels lonely and scared.",
+            "Other programs do not scare [person_1]."
+        ]
+    }
+}

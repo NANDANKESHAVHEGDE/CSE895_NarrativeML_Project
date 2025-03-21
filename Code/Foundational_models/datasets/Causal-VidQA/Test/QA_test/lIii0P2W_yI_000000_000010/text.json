@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] holding?",
+        "answer": [
+            "[person_2] is holding a stick and the wax.",
+            "[person_2] is trying to hold a big snowball.",
+            "[person_2] is playing a big drum.",
+            "[person_2] is standing on the grass.",
+            "[person_2] is holding a target pad."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding a target pad?",
+        "answer": [
+            "Because he has no other tools.",
+            "[person_1] needs a target for the kick.",
+            "They are practicing side - kicking to keep fit.",
+            "They are practicing rugby.",
+            "[person_1] is talking about whistling - a tradition of a certain nation."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "She will finish her ice cream.",
+            "[person_1] will keep doing kick",
+            "[person_1] will ask someone to confirm her good working.",
+            "[person_1] will support his teammates.",
+            "[person_1] will clean his sweatshirt."
+        ],
+        "reason": [
+            "[person_1] just applies amount of plaster on the wall.",
+            "[person_1] is practicing.",
+            "[person_1] spreads the plaster after applying it on the wall.",
+            "Because [person_1] has no intention to go away.",
+            "[person_1] starts mopping and [person_1] will follow [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] moves the pad?",
+        "answer": [
+            "Maybe the tree will die.",
+            "[person_1] will open the package.",
+            "[person_1] may miss the kick.",
+            "The shoe will be ready for selling.",
+            "[person_1] would find it easily to exercise."
+        ],
+        "reason": [
+            "Because the road surface is very hard.",
+            "There are plenty exercises in one session.",
+            "It's hard to to hit a moving target , even if [person_1] is a martial arts master.",
+            "To take [person_2] home.",
+            "To see whether the package is damaged."
+        ]
+    }
+}

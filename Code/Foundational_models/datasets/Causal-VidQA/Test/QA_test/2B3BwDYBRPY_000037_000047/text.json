@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many trees in the room?",
+        "answer": [
+            "There are three.",
+            "There is only person.",
+            "There are 4 trees.",
+            "There are three people.",
+            "There are two vases."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the maracas in his hand?",
+        "answer": [
+            "[person_1] is shaking the maracas.",
+            "[person_1] is making video.",
+            "[person_1] is holding the stick for safety and moving faster.",
+            "Because a lot of people want to see their body after training.",
+            "Because a lot of people want to see their bodies after they practice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is going to climb onto the sofa.",
+            "[person_1] will get more cards",
+            "[person_1] is going to cross the street."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is coming close the sofa.",
+            "When [person_1] holds the comb , he is raising his hand to comb his hair.",
+            "Maybe [person_1] likes to play with toys.",
+            "Because [person_1] is wearing a baby bib."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell?",
+        "answer": [
+            "Perhaps [person_1] would talk with her so that [person_1] could not ask for some water.",
+            "[person_1] might cry.",
+            "[person_1]'s father would help [person_1].",
+            "[person_1] would help [person_1] stand up.",
+            "[person_1] would fall too."
+        ],
+        "reason": [
+            "[person_1]'s father is taking care of [person_1].",
+            "[person_1] is so strong and [person_1] pulls the rope.",
+            "because [person_1] is standing close to the edge.",
+            "There is no one around [person_1] and he needs help.",
+            "[person_1] will make a chess piece fly away."
+        ]
+    }
+}

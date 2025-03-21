@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are sitting?",
+        "answer": [
+            "There are two people.",
+            "There are four people.",
+            "There are seven.",
+            "There are four.",
+            "There are nine people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding maracas?",
+        "answer": [
+            "They are trying to roast the marshmallows.",
+            "Perhaps [person_2] and [person_2] are saluting.",
+            "Because they are having a visit together.",
+            "To make sure that audience can also see what's in the microscope.",
+            "Because [person_2] is playing maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "Perhaps [person_2] will continue to play maracas.",
+            "[person_2] will contradict [person_2]'s speech.",
+            "[person_2] will then pick up the pillow go the ground.",
+            "[person_2] will sit down on the floor.",
+            "To make bubbles by himself."
+        ],
+        "reason": [
+            "Because [person_2] wants to try.",
+            "[person_2] wants to see who can make the bigger bubble.",
+            "[person_2] is asking [person_2] for it.",
+            "[person_2] looks tired.",
+            "[person_2] is performing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there were no maracas?",
+        "answer": [
+            "[person_1] will go home to get it.",
+            "They will not be comfortable.",
+            "[person_1] will go from home to get it.",
+            "[person_1] may hit the wall.",
+            "[person_1] will go home to drop it."
+        ],
+        "reason": [
+            "The show won't be good.",
+            "[person_1] wouldn't bring cakes to the kids.",
+            "The show will be good.",
+            "Because it is likely to lose control of the camel.",
+            "The maracas won't be good."
+        ]
+    }
+}

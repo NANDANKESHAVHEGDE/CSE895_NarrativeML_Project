@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [suitcase_1]?",
+        "answer": [
+            "[suitcase_1] is behind [person_5].",
+            "The [person_5] is on the ceiling.",
+            "The dog is behind [person_5].",
+            "[suitcase_1] is hanging on the wall in the room of [suitcase_1].",
+            "[suitcase_1] is on the wall which is on the right of [suitcase_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a microphone?",
+        "answer": [
+            "Because [person_1] finished in short time.",
+            "Because they find it interesting.",
+            "[person_1] is the singer.",
+            "Because the sunshine is too strong.",
+            "The [person_1] knows which treble keyboard needed to touch."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will tattoo the right leg of [person_2].",
+            "[person_1] will probably continue to lift the dumbbell.",
+            "[person_1] will weigh the bag.",
+            "[person_1] will continue perform with [person_5] and [person_2]."
+        ],
+        "reason": [
+            "The hair in cutting may get into her eyes.",
+            "[person_1] , [person_2] and [person_5] have not finished the performance.",
+            "[person_1] will continue to play.",
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] hasn't finished lifting the dumbbell yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] stopped singing?",
+        "answer": [
+            "[person_1] will go to bed to take a rest.",
+            "Maybe they will happy.",
+            "[person_1] had finished the performance.",
+            "[person_1] will press the wound.",
+            "He will keep chase the kid."
+        ],
+        "reason": [
+            "Food can not be wasted.",
+            "[person_1] has finished the song.",
+            "Because [person_1] only cheers with the audiences before drinking beer.",
+            "[person_1] likes to get experience from failed things.",
+            "[person_1] has been turning around for so many times."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the space dark?",
+        "answer": [
+            "There are seven.",
+            "Yes , only one.",
+            "It's in the classroom.",
+            "No , it isn't.",
+            "[person_1] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting on the [couch_1]?",
+        "answer": [
+            "Maybe [person_1] studying gymnastics.",
+            "[person_1] is performing with [couch_1].",
+            "[person_1] and [person_2] are practicing saluting.",
+            "They want to make their performance more beautiful.",
+            "[person_1] and [person_2] are reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to make burger.",
+            "[person_1] and [person_2] are going to drink.",
+            "[person_1] and [person_2] are going to read the newspaper.",
+            "[person_1] and [person_2] are going to continue to practice basketball.",
+            "[person_1] and [person_2] is going to catch cows."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are excited about the newspaper.",
+            "Because [person_1] and [person_2] want to find out the winner.",
+            "Then maybe [person_1] and [person_2] are going to rest.",
+            "There are many different types of cattle that are not following the herd , so [person_1] and [person_2] are going to bring each type of cattle to the correct barn.",
+            "[person_1] and [person_2] have to measure the exact length and width to calculate the area of the garden."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] read the newspapers everyday?",
+        "answer": [
+            "[person_1] and [person_2] will gain no information.",
+            "[person_1] will stop exercising right now.",
+            "[person_1] and [person_2] will gain a lot of information.",
+            "[person_1] will feel tired.",
+            "[person_1] and [person_2] will lose a lot of information."
+        ],
+        "reason": [
+            "Newspaper is very useless.",
+            "The flute of [person_1] might be broken.",
+            "Newspaper is very out-of-date.",
+            "Because the pencil head is very sharp at that moment.",
+            "Newspaper is very useful."
+        ]
+    }
+}

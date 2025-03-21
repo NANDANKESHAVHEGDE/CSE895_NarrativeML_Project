@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the floor?",
+        "answer": [
+            "It is on the roadside.",
+            "[suitcase_1] is on the floor.",
+            "[suitcase_1] is under the window.",
+            "It is on the shelf.",
+            "The bicycle machine is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_4] kicking?",
+        "answer": [
+            "They are practicing roller - skating.",
+            "[person_4] is here to instruct the rugby players how to tackle.",
+            "[person_4] is shaving the beard of [person_4].",
+            "The [person_4] is picking an apple underneath.",
+            "[person_4] is performing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will keep kicking.",
+            "[person_1] will teach the boy how to do head stand.",
+            "[person_1] will continue playing drums.",
+            "[person_1] will stop suddenly.",
+            "[person_1] will continue to finish the key."
+        ],
+        "reason": [
+            "Their match has not done yet.",
+            "Otherwise there is no way to eat cookies.",
+            "To unload the sand down.",
+            "To make an example for [person_1].",
+            "[person_1] is performing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_4] kicks faster?",
+        "answer": [
+            "The iron pipe will deform.",
+            "The performance will be ruined.",
+            "The microscope may tilt.",
+            "The camera might hurt [person_4].",
+            "Pepsi."
+        ],
+        "reason": [
+            "[person_4] is performing in a group.",
+            "To cut the right width of the board.",
+            "[person_4] is in a rather tight room.",
+            "[person_4] may bump into things.",
+            "[person_4] cheers because she has easily opened it."
+        ]
+    }
+}

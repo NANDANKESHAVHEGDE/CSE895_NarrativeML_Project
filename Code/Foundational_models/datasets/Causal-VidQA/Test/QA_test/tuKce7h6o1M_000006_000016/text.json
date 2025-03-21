@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing ?",
+        "answer": [
+            "It is red.",
+            "It's red.",
+            "It's brown.",
+            "[person_1] is wearing a white T - shirt.",
+            "It is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a long hair ?",
+        "answer": [
+            "Because the gym have a lot of the weights.",
+            "Because it is very sunny outside.",
+            "[person_1] is losing weight . It is a fitness room.",
+            "Because [person_1] doesn't cut it.",
+            "It's a part of the traditional costume."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to perform a harmonica melody.",
+            "[person_1] is bound to perform the song with the guitar.",
+            "[person_1] will get the ball back.",
+            "[person_1] intends to rest.",
+            "[person_1] intends to share something with others."
+        ],
+        "reason": [
+            "[person_1] is looking for loopholes of [person_1].",
+            "Because [person_1] dreams of showing off her talent.",
+            "It is likely that [person_1]'s fingers will be tired.",
+            "[person_1] loves playing violin.",
+            "[person_1] is moving the wrong chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] maybe afraid.",
+            "[person_1] will be stop talking.",
+            "The room will be still bright.",
+            "[person_1] maybe afraid",
+            "[person_1] maybe cry."
+        ],
+        "reason": [
+            "[person_1] will go out.",
+            "It is daytime.",
+            "The burner will turn off.",
+            "It is possible that [person_1] is sensitive to light.",
+            "Because [person_1] can see nothing."
+        ]
+    }
+}

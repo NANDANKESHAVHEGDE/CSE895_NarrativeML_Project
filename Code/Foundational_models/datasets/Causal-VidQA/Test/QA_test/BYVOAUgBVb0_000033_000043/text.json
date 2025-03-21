@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is behind [person_1].",
+            "It is next to the [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "To practice [person_1]'s riding skill.",
+            "[person_1] think [person_1] is lovely and funny.",
+            "Because [person_1] maybe loves to pick apples.",
+            "Because [person_1] is happy to touch the mirror.",
+            "[person_1] likes to play with maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to break.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to shake maracas."
+        ],
+        "reason": [
+            "Feedback is needed in the classroom.",
+            "Because [person_1] has finished measuring the gap.",
+            "Maybe [person_1] is a earthen pot.",
+            "[person_1] is talking very seriously.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] had no maracas to play with?",
+        "answer": [
+            "They might get sunstroke.",
+            "There will be no one here to play lute.",
+            "The snake might escape.",
+            "[person_1] would find another toy to play with.",
+            "[person_1] would rest for a while and make no more jumps."
+        ],
+        "reason": [
+            "[person_1] would get bored.",
+            "Teammates of [person_1] came to stop [person_1] and that person before fighting.",
+            "Because he seems to be careful and love ice cream.",
+            "[person_1] seems not proficient because he is not a tropical resident.",
+            "There are a lot of people watching him."
+        ]
+    }
+}

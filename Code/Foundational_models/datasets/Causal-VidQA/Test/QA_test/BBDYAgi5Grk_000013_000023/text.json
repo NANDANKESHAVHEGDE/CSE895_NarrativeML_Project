@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_2] using?",
+        "answer": [
+            "[person_2] uses a knife.",
+            "It is a sledgehammer.",
+            "[person_2] uses a can which sprays a hard small stick.",
+            "[person_2] uses a clamp to open it.",
+            "[person_2] is using a chef's knife."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] use that to open the bottle?",
+        "answer": [
+            "Because [person_2] wants to relieve stress.",
+            "[person_2] uses the stick to poke the cork.",
+            "[person_2] wants to go skiing with friends.",
+            "[person_2] picks up the dropped ball to throw.",
+            "Because [person_2] likes riding unicycle."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do with the [bottle_1]?",
+        "answer": [
+            "The audiences will cheer after the performance is over.",
+            "[person_2] will choke himself.",
+            "[person_2] will continue playing the game.",
+            "[person_2] will open the [bottle_1].",
+            "[bottle_1] and [person_2] may be the same team's member."
+        ],
+        "reason": [
+            "Because she has seen [person_2]'s love for dancing.",
+            "[person_2] is using a tool to try to open the [bottle_1].",
+            "[person_2] and [person_2] are imitating the action of playing drums.",
+            "Their family is very happy for the dancing.",
+            "[bottle_1] and [person_2] are performing tai chi moves in front of [person_2] and [bottle_1] who are thought to be judges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the stick was fractured?",
+        "answer": [
+            "The [person_2] would be injured.",
+            "[person_2] would have to try another one.",
+            "Maybe the picture will be broken.",
+            "The coffee beans will be dirty.",
+            "The [person_2] will greet with the cow."
+        ],
+        "reason": [
+            "[bottle_1] is hula hooping on the fence.",
+            "A fractured stick is useless.",
+            "Blowing out candles is the first part of celebrating birthday.",
+            "Because the drawing board is tilted and easy to fall off.",
+            "Because [person_2]'s duty is to clean the house."
+        ]
+    }
+}

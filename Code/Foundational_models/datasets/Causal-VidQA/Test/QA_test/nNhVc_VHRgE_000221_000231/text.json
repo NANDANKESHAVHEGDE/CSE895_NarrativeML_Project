@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is the T - shirt [person_3] wearing?",
+        "answer": [
+            "Yes.",
+            "It is black.",
+            "The hair is yellow.",
+            "No.",
+            "The puffer."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] smiling?",
+        "answer": [
+            "[person_2] hit the same cup in beer pong.",
+            "[person_2] needed to grab the bar.",
+            "Because the puppets are manipulated with ropes.",
+            "[person_2] is happy.",
+            "Because the gym have a lot of the weights."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] will stop playing the cello.",
+            "[person_1] intends to encourage [person_3].",
+            "[person_1] intends to read all the newspapers on the table.",
+            "Maybe [person_1] intends to use onions to cook.",
+            "Maybe [person_1] intends to hug the baby."
+        ],
+        "reason": [
+            "[person_1] is holding the harmonica.",
+            "[person_1] is still under the sea.",
+            "[person_1] arms are outstretched to welcome the baby.",
+            "Maybe [person_1] been playing the guitar for a long time.",
+            "[person_1] is clapping the hands and looking at [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_2] weren't there?",
+        "answer": [
+            "[chair_2] would get hurt.",
+            "The bar would fall off on the ground.",
+            "[person_3] would have to stand.",
+            "[person_3] would have to cook another dish.",
+            "It is probable that [chair_2] could not keep balanced."
+        ],
+        "reason": [
+            "[chair_2] fell when [chair_2] pushed the wheelbarrow downhill.",
+            "It is probable that [chair_2] is in his room because there is a picture on the wall behind him and there are some books on the table behind him.",
+            "[chair_2] is a small child.",
+            "[person_3] was sitting on [chair_2].",
+            "The [chair_2] is an adult and can shovel the snow better than the [person_3]."
+        ]
+    }
+}

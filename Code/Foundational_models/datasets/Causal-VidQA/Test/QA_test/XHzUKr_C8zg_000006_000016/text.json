@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "The sweater is white.",
+            "No.",
+            "The [chair_1] is behind the [chair_1].",
+            "It is black.",
+            "[chair_1] is cylinder."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on a chair?",
+        "answer": [
+            "[person_1] is playing the harmonica to relax.",
+            "[person_1] is using the piano.",
+            "[person_1] is stretching her arms.",
+            "Because there is something wrong with her mind.",
+            "[person_1] is enjoying massage."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] keeps playing the harmonica.",
+            "[person_1] intends to touch in the harp.",
+            "[person_1] intends to take his billiard shot.",
+            "[person_1] will definitely push the wheelchair.",
+            "Maybe [person_1] intend to teach [person_1]."
+        ],
+        "reason": [
+            "[person_1] intends to sing a song while playing piano.",
+            "[person_1] prepared to play the harp.",
+            "[person_1] looks very focused while playing didgeridoo.",
+            "[person_1] put the harmonica down then raised the harmonica up , moved it to the mouth.",
+            "[person_1] is hover boarding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [chair_1] falls over?",
+        "answer": [
+            "[chair_1] hadn't touched [person_1] and [person_1].",
+            "[person_1] will talk to [chair_1].",
+            "[person_1] may succeed on flipping the bottle.",
+            "[person_1] will be hurt.",
+            "Maybe [person_1] feels disliked."
+        ],
+        "reason": [
+            "The mechanical bull raises its head to lean back , the [person_1] can standstill.",
+            "[person_1] is sitting on [chair_1].",
+            "Without signpost , [person_1] may not know how to locate the bird park.",
+            "The [person_1] tries the [person_1] best and finishes throwing.",
+            "Then when [person_1] goes to the finish line , he will answer phone."
+        ]
+    }
+}

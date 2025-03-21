@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is sitting on the [person_2].",
+            "[person_2] is playing the drums.",
+            "It is brown.",
+            "He is performing hip - hop.",
+            "[person_2] is sitting on the [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the [couch_1]?",
+        "answer": [
+            "[person_2] holds two gong sticks in hands and then knocks on gongs.",
+            "[person_2] feels hurt on his shoulder.",
+            "[person_2] is enjoying massage.",
+            "[couch_1] wanted to keep her balance.",
+            "[couch_1] is curious what happens in front of it."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_2] feel later?",
+        "answer": [
+            "[person_2] may feel better.",
+            "[person_2] is going to continue to skate on the ice.",
+            "[person_2] might have a show to play on.",
+            "[person_2] is going to play a nice song.",
+            "[person_2] may cry."
+        ],
+        "reason": [
+            "Because [person_1] holds the [person_1] and looks up with no intention to stand up.",
+            "[person_2] is the mother of [person_1] and [person_2] is holding [person_1].",
+            "[person_1] is rubbing [person_2]'s shoulder.",
+            "Because [person_1] just bent knees and is stretching out legs little by little.",
+            "[person_1] is putting the rods into water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not rub [person_2]'s shoulder?",
+        "answer": [
+            "[person_1] will take the person to the hospital immediately.",
+            "[person_2] will go to the hospital.",
+            "[person_1] will send the makeup video to public.",
+            "[person_1] will take a taxi.",
+            "[person_2] will help [person_1] and [person_2]."
+        ],
+        "reason": [
+            "Because audiences buy tickets to watch live performances instead of recordings . .",
+            "Without glass wall , the monkeys outside can reach to [person_1].",
+            "[person_2]'s shoulder hurts.",
+            "[person_2] will sit there alone.",
+            "[person_2] will continue to dance."
+        ]
+    }
+}

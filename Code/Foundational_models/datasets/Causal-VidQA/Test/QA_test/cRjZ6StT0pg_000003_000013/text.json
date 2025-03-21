@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are at a massage room.",
+            "[person_1] and [person_2] are sitting on the floor.",
+            "They are in roller skating rink.",
+            "[person_1] and [person_2] are in the kitchen.",
+            "[person_1] and [person_2] are in his office."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [person_2] ?",
+        "answer": [
+            "[person_1] wants to make sure that [person_2] won't fall.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is excited about playing in the playground.",
+            "Because [person_1] wants to charge the circular saw.",
+            "Because [person_2] is proposing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Bake the dough batch after batch.",
+            "[person_1] is going to play with [person_2].",
+            "[person_1] will call the rescue team.",
+            "[person_1] will dance with [person_2].",
+            "[person_1] is going to turn left."
+        ],
+        "reason": [
+            "She is absorbed in dancing.",
+            "[person_1] is jumping very professionally.",
+            "[person_1] picked [person_2] up and let [person_2] sit on his lap.",
+            "[person_1] is holding a title.",
+            "It is very sunny."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the mother of [person_2] enters the room?",
+        "answer": [
+            "[person_1] will not play the flute.",
+            "[person_2] would be injure.",
+            "[person_1] will change to another guitar.",
+            "[person_2] will be happy.",
+            "[person_1] will hand [person_2] over to her mother to take care of."
+        ],
+        "reason": [
+            "Because here are a lot more balls.",
+            "Then [person_1] is easily distracted.",
+            "Tsunami is very dangerous.",
+            "[person_1] needs to keep working.",
+            "Standing in the sun for too long is not good for health."
+        ]
+    }
+}

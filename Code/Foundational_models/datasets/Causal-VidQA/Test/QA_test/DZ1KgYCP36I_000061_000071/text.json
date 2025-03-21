@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is red.",
+            "It is orange.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It is purple.",
+            "It is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving?",
+        "answer": [
+            "[person_1] maybe talking about cigarettes.",
+            "[person_1] has to do so in order to create sound from drums.",
+            "[person_1] wants to show people how to run properly.",
+            "[person_1] is chopping the wood.",
+            "Perhaps [person_1] plays the harmonica for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may clean the table.",
+            "[person_1] is going to plan all the wood log.",
+            "[person_1] will check the honey.",
+            "[person_1] will stop watering.",
+            "[person_1] will stop kicking high."
+        ],
+        "reason": [
+            "[person_1] showed the snake and kept stepping forward.",
+            "[person_1] is finishing the product.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] already planed part of the wood log.",
+            "Maybe [person_1] isn't finishing the performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plans too much wood?",
+        "answer": [
+            "[person_1] will start singing.",
+            "[person_1] will be very tired.",
+            "[person_1] will stop dancing.",
+            "[person_1] will be less tired.",
+            "[person_1] will stand to let [person_1] dance."
+        ],
+        "reason": [
+            "This is a very easy and tiring job.",
+            "Express their love for dance.",
+            "This is a less hard and tiring job.",
+            "Smoking hookah will be addictive.",
+            "This is a very hard and tiring job."
+        ]
+    }
+}

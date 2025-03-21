@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is nicely decorated.",
+            "It is quite dark.",
+            "It is spacious.",
+            "It is quite large.",
+            "The room is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] upside - down?",
+        "answer": [
+            "[person_1] is feeling easier to play standing up.",
+            "Because it's the instrument for playing the cello.",
+            "[person_1] is practicing handstand.",
+            "[person_1] is messing around with someone on the bed.",
+            "Because [person_1] finds it funny so [person_1] leans over to avoid the camera and laughs."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to feel tired.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] may change another tool.",
+            "[person_1] is going to stand again."
+        ],
+        "reason": [
+            "[person_1] feels that the food is not good.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] is turning the page.",
+            "[person_1] is going to stop standing on hands.",
+            "Because the blue is skying at night."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1]'s hands were not strong?",
+        "answer": [
+            "[person_1] could stand on hands.",
+            "It is probable that [person_1] would cry loudly.",
+            "[person_1] could not stand on hands.",
+            "[person_1] may not fall like he did before anymore.",
+            "[person_1] could sit on hands."
+        ],
+        "reason": [
+            "[person_1] would hurt his hands.",
+            "The snake is horrible.",
+            "[person_1] would cure his hands.",
+            "[person_1] didn't have time to react.",
+            "[person_1] would practice his hands."
+        ]
+    }
+}

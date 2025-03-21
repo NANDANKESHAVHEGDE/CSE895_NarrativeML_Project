@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_3] wearing?",
+        "answer": [
+            "It's black.",
+            "The [person_3] is on the right side of [person_3].",
+            "The [person_3] is next to [person_3].",
+            "The [person_3] is holding a coat.",
+            "The shirt [person_3] wearing is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is doing arm stretching exercises.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] wants to play drums.",
+            "[person_1] is playing with [person_2] and [person_3] .",
+            "[person_1] is feeding [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to hold [dog_1].",
+            "[person_2] going to guide [person_2] how to clean floor.",
+            "[person_2] will play again.",
+            "[person_2] is going to eat the donut in his hand.",
+            "[person_2] is going to walk to the left side of the screen."
+        ],
+        "reason": [
+            "When [person_2] finishes tickling [person_1] and [person_3] , she raises her hands and prepares to do the next joke.",
+            "Because [person_1] has taught [person_2] before.",
+            "[person_1] is in the safe zone and [person_2] can control [person_1].",
+            "Because [person_3] kept [person_1] and [person_2] didn't keep anything.",
+            "After [person_1] failed to flip the [person_2] , it is now turn of [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] takes her hand off [person_1]?",
+        "answer": [
+            "[person_1] will be ashamed.",
+            "[person_1] will then stop exercising.",
+            "[person_1] will eat all.",
+            "[person_1] might fall.",
+            "[person_1] will intervene."
+        ],
+        "reason": [
+            "[person_1] needs [person_3] to hold him.",
+            "Obviously [person_1] is a student.",
+            "Because it seems that the [person_1] needs to look the [person_3] when introducing the dolls.",
+            "Because [person_1] would replace another one.",
+            "[person_1] is protect [person_1] just behind [person_1]."
+        ]
+    }
+}

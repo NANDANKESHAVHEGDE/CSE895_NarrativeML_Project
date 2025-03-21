@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is at the near sea.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is on the right hand of [person_2].",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] sit?",
+        "answer": [
+            "Because [person_1] and [person_2] want to have some fun on snowy days.",
+            "Because [person_1] is trying to tell us he's gonna open a beer bottle with [person_2].",
+            "[person_2] sits to see [person_1] playing the xylophone.",
+            "Because [person_2] pushes the wheelbarrow downhill too fast.",
+            "[person_1] holds a sledgehammer to slam at the tire hard."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack the dice again.",
+            "Perhaps [person_1] is going to jump next.",
+            "[person_1] is going to do the trick again.",
+            "Maybe [person_1] is going to jump.",
+            "[person_1] is going to use the mallets to strike the wooden bars on the right side of [person_1]."
+        ],
+        "reason": [
+            "[person_1] is trying to make it more beautiful.",
+            "[person_1] is beating the bars from the left to the right side.",
+            "[person_1] has towel in the hand.",
+            "[person_1] is leaning to the left.",
+            "[person_1] has drunk too much water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains right away?",
+        "answer": [
+            "[person_1] would look left side.",
+            "[person_1] will hold the xylophone into the house.",
+            "[person_1] will leave",
+            "[person_1] will not hold the xylophone into the house.",
+            "Maybe [person_1] will try again with another banana."
+        ],
+        "reason": [
+            "It might burn the branches into ashes.",
+            "Because [person_1] needs to shelter from the rain.",
+            "[person_1] just wants to exercise.",
+            "Because [person_1] needs to shelter in the rain.",
+            "the floor will be flat then and [person_1] can just install the carpet normally."
+        ]
+    }
+}

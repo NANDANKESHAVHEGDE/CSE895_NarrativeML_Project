@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is large.",
+            "It is quite small.",
+            "It is in a rugby field.",
+            "It is very clean and neat.",
+            "It is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 the chess?",
+        "answer": [
+            "[person_1] is in the competition.",
+            "[person_1] wants to polish the shoe.",
+            "With many tools.",
+            "there is no chair in the dining room.",
+            "[person_1] needs to finish other works."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is foreseen that [person_1] will spin on the farm.",
+            "[person_1] will weigh the bag.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will continue jumping.",
+            "[person_1] will play quickly."
+        ],
+        "reason": [
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference.",
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "Because [person_1] divides the money into piles.",
+            "Because when the dish is cooked , it needs to be put on a plate.",
+            "Perhaps [person_1] will win."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] won't be able to continue reading.",
+            "[person_1] may not keep speaking with the microphone.",
+            "[person_1] will stop playing.",
+            "[person_1] will continue reading.",
+            "[person_1] will stop talking."
+        ],
+        "reason": [
+            "[person_1] may not keep performing.",
+            "The match must stop.",
+            "The room will be no light.",
+            "[person_1] may have a break.",
+            "[person_1] may stop jumping."
+        ]
+    }
+}

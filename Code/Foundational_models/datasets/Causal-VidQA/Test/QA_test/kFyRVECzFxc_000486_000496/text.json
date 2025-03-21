@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing badminton outside.",
+            "[person_1] is playing the harmonica.",
+            "[person_1] is striking the wooden table.",
+            "[person_1] is reading a fairy tale book.",
+            "[person_1] is showing the shoes in front of the screen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] showing the shoes in front of the screen?",
+        "answer": [
+            "Because [person_1] is watering the plants in the garden.",
+            "[person_1] is trying to play the harmonica.",
+            "[person_1] wants to show everyone her new shoes.",
+            "To be more attractive in the mirror.",
+            "Because [person_1] is lifting weights."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may walk out.",
+            "[person_1] will rip the paper.",
+            "[person_1] may put her shoes down and lace them up.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] may keep sweeping."
+        ],
+        "reason": [
+            "[person_1] is shaking the arms.",
+            "[person_1] has finished checking the computer.",
+            "[person_1] is lowering her shoes.",
+            "It seems they are not going to stop now.",
+            "[person_1] is going to go back home."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the shoes don't fit [person_1]?",
+        "answer": [
+            "The [person_1] may not make fire so big.",
+            "[person_1] will still use the shoes.",
+            "[person_1] may want to find another place to do exercise.",
+            "[person_1] won't still use the shoes.",
+            "[person_1] will also crash into the house."
+        ],
+        "reason": [
+            "The team that has no cups loses and the other team has won.",
+            "[person_1] looks like likes those shoes.",
+            "[person_1] is a child so may not notice it.",
+            "[person_1] looks like hates those shoes.",
+            "[person_1]'s head is not badly injured ."
+        ]
+    }
+}

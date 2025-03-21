@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "[person_1] is putting the ring on the woman's finger.",
+            "[person_1] is sitting in a wheelbarrow.",
+            "[person_1] is wearing a t - shirt.",
+            "The [person_1] is dark brown and white.",
+            "[person_1] is placed on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the classroom?",
+        "answer": [
+            "[person_1]'s body is bouncing because the [person_1] is bouncing.",
+            "A video is shown to advertise tai chi to the people in the room.",
+            "Because [person_1] supports [person_1] and [person_1].",
+            "[person_1] stands to play the drums better.",
+            "Maybe [person_1] is taking a short break."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will shares a pro tip for applying foundation to viewers.",
+            "[person_1] may swim towards [person_1].",
+            "[person_1] will pour the champagne in to the goblet.",
+            "[person_1] will fix the gongs.",
+            "[person_1] will put on lipstick."
+        ],
+        "reason": [
+            "The hair in cutting may get into her eyes.",
+            "Perhaps [person_1] does it for fun and some classmates look at him.",
+            "[person_1] threw the ball through the basket , so [person_1] might want to pick it up.",
+            "Because these performers need to finish the show in turn.",
+            "[person_1] hasn't finished lifting the dumbbell yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the teacher enters the class?",
+        "answer": [
+            "[person_1] will call the repair man.",
+            "[person_1] and [person_1] would stop the fight.",
+            "[person_1] will explain to them why he did that and clean up the broken glass.",
+            "It is probable that [person_1] will wipe lipstick.",
+            "[person_1] may change another one."
+        ],
+        "reason": [
+            "Maybe the teacher will see and laugh at him.",
+            "All the machine can not work without power.",
+            "[person_1] and [person_1]'s inconsistent movements indicate that [person_1] and [person_1] are not proficient enough , so [person_1] and [person_1] will continue to practice.",
+            "The room is so dark.",
+            "The floor is hard."
+        ]
+    }
+}

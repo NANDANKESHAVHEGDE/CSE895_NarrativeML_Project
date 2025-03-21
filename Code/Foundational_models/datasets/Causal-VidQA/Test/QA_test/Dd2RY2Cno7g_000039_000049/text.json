@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall ?",
+        "answer": [
+            "The wall is yellow.",
+            "The wall is black.",
+            "The wall is blue.",
+            "The flute is white.",
+            "The wall is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a flute in her hands ?",
+        "answer": [
+            "The [person_1] is polishing the table.",
+            "The [person_1] is holding the teddy bear to beat the [person_1].",
+            "Maybe [person_1] is performing.",
+            "Because [person_1] is doing a concert.",
+            "[person_1] is standing there to give [person_1] the knifes."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after her performance ?",
+        "answer": [
+            "[person_1] is going to fall.",
+            "[person_1] may sit on [person_1] and read something.",
+            "[person_1] will go on [person_1] and continue to send the express.",
+            "[person_1] will eat a lot.",
+            "[person_1] will take a photo."
+        ],
+        "reason": [
+            "Playing flute costs a lot.",
+            "Some people fell down.",
+            "Game is just like this.",
+            "Because it's so dirty.",
+            "Because they drive the atmosphere."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the audience like [person_1]'s performance?",
+        "answer": [
+            "[person_1] might be imprisoned.",
+            "[person_1] will be loved by many people.",
+            "[person_1] would smile with her fans.",
+            "The performance would not that interesting.",
+            "The viewers won't know how to do the training correctly."
+        ],
+        "reason": [
+            "[person_1] will be famous.",
+            "That's probably why [person_1] researched it , [person_1] wants to help improve people's knowledge.",
+            "For a military commander , winning or losing a battle is a common occurrence . ",
+            "[person_1] is afraid of riding alone.",
+            "[person_1] is running too fast and his body is upfront too much."
+        ]
+    }
+}

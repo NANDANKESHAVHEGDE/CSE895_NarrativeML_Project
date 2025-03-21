@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing next to the [dining table_1] ?",
+        "answer": [
+            "Because [dining table_1] doesn't know how to play the clapping game.",
+            "[person_1] is stacking dice.",
+            "[person_1] is squeezing oranges.",
+            "To keep him steady because [person_1] only stands on one leg.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to stack again.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "It seems they are not going to stop now.",
+            "[person_1] likes it.",
+            "[person_1] has finished checking the computer.",
+            "[person_1] is training.",
+            "[person_1] is going to feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] enters the dice stack contest?",
+        "answer": [
+            "[person_1] has no chance to win.",
+            "The two men will call for others' help.",
+            "Her coach - [person_1] wouldn't get up.",
+            "[person_1] wouldn't be able to do that technique.",
+            "[person_1] will have a chance to win."
+        ],
+        "reason": [
+            "Cramps may prevent [person_1] from stretching leg.",
+            "Now [person_1] is attracted by other things and may not hear [person_1].",
+            "Opponents will have to be wary of [person_1]'s speed.",
+            "No one is watching [person_1] and [person_1].",
+            "There would be nothing for [person_1] to see and surprise."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the outside.",
+            "[person_1] is at the basketball court.",
+            "[person_1] is at the room.",
+            "[person_1] is on train."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is somersaulting in the room.",
+            "He is reading a book.",
+            "[person_1] is taking care of her lips.",
+            "[person_1] trying to train to change its body.",
+            "[person_1] is staying with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift heavier weights.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] going to do an aerobic exercise.",
+            "[person_1] may continue writing.",
+            "[person_1] is going to keep dancing."
+        ],
+        "reason": [
+            "[person_1] is kite surfing.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "[person_1] is lying on [person_1].",
+            "[person_1] knows that once the gas in the [person_1] is empty then it will be save for her . And that process needn't much time.",
+            "That for a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "[person_1] will have to go back to practice or find a more well - lit place.",
+            "[person_1] may stop training.",
+            "[person_1] will have to go out to practice or find a more well - lit place.",
+            "[person_1] will stop practicing the exercises.",
+            "[person_1] will have to go out to practice or find a less well - lit place."
+        ],
+        "reason": [
+            "They look very happy , if the rain is not heavy , they will continue.",
+            "Because it will be very dark in the room.",
+            "Maybe [person_1] will take it in for repair.",
+            "Because it will be very bright in the room.",
+            "Because the room is using light from outside."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite small.",
+            "It is nicely decorated.",
+            "The room is quite big.",
+            "The room is quite large.",
+            "It is in a training field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is talking about chess.",
+            "[person_1] is raising her eyebrows.",
+            "[person_1] is eating.",
+            "[person_1] is wearing makeup.",
+            "[person_1] is performing with a guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to eat.",
+            "[person_1] will pump gas into his car.",
+            "[person_1] will continue to blow.",
+            "[person_1] will plane wood carefully.",
+            "[person_1] will store the harp."
+        ],
+        "reason": [
+            "[person_1] has held the branch and is ready to climb the tree.",
+            "[person_1] is laying tiles the room.",
+            "[person_1] is eating the meat.",
+            "To finish the building of the shed.",
+            "[person_1] may keep snowboarding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the piece of meat falls down?",
+        "answer": [
+            "[person_1] can be eaten anymore.",
+            "[person_1] would have to stand up.",
+            "[person_1] can't be eaten anymore.",
+            "[person_1] will be hurt.",
+            "[person_1] can't be dropped anymore."
+        ],
+        "reason": [
+            "It is so smooth that someone may slide.",
+            "The piece of meat is dirty.",
+            "Because people walk on the earth , it is by gravity.",
+            "The piece of meat is clean.",
+            "Noise can be very annoying."
+        ]
+    }
+}

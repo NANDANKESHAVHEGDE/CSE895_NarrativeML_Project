@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is recording his fingers playing an electric guitar.",
+            "[person_1] is removing the cork with her teeth.",
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] is exercising.",
+            "[person_1] is looking at her leg after waxing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] exercise?",
+        "answer": [
+            "[person_1] wants to exercise.",
+            "[person_1] is playing with [person_1].",
+            "[person_1] and [person_1] are playing chess.",
+            "[person_1] is playing the lute.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will call the rescue team.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] will continue to exercise.",
+            "[person_1] is going to play there.",
+            "[person_1] will read books."
+        ],
+        "reason": [
+            "[person_1] is hooping very hard.",
+            "Perhaps [person_1] doesn't have the same body as a fitness trainer.",
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1] is talking passionately.",
+            "[person_1] is looking at [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happens if it rains?",
+        "answer": [
+            "[person_1] would chase [person_1] away.",
+            "[person_1] will be exercise.",
+            "The [person_1] will hurt [person_1].",
+            "[person_1] will not be exercise.",
+            "The [person_1] will go home."
+        ],
+        "reason": [
+            "Sunny weather won't be more suitable for exercise.",
+            "[person_1] is outside working and [person_1] will get wet if it rains.",
+            "Sunny weather will be more suitable for exercise.",
+            "Because band aids can stop bleeding.",
+            "Sunny weather will be more unsuitable for exercise."
+        ]
+    }
+}

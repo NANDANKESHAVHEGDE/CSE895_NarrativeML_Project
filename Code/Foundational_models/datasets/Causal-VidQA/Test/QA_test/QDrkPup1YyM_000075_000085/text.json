@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is red.",
+            "It's red.",
+            "It is blue.",
+            "It's brown.",
+            "[person_1] is wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] weave fabric?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] likes marbles.",
+            "[person_1] is practicing.",
+            "[person_1] is holding a sword and slowly walk towards and then turning around.",
+            "Because [person_1] wants to ski safely."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] is going to continue securing the paper to the box.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] will continue weaving fabric."
+        ],
+        "reason": [
+            "Maybe [person_1] started weaving fabric.",
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "Because [person_1] is giving [person_1] instructions.",
+            "Because [person_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "It is dirty after taking shower for [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] damages the fabric?",
+        "answer": [
+            "[person_1] will have to report again.",
+            "[person_1] will go back home.",
+            "[person_1] will stop skiing.",
+            "[person_1] will be very sad.",
+            "[person_1] will not ski anymore."
+        ],
+        "reason": [
+            "The weather will be very cold.",
+            "He will wait the girl to finish her ice cream.",
+            "Maybe [person_1] will have to repair the fabric.",
+            "Because [person_1] wants to eat honey.",
+            "There is no water there."
+        ]
+    }
+}

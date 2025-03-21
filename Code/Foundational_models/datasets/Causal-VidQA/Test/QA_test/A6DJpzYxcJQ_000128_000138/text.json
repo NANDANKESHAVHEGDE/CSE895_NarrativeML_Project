@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is inside.",
+            "[person_1] is outside.",
+            "Along the river.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have to wear diapers?",
+        "answer": [
+            "Because [person_1] is a baby.",
+            "Because [person_1] is producing a table.",
+            "Because the [person_1] is the owner of the camels.",
+            "[person_1] prepares to throw it into cups.",
+            "Because the [person_1] wants the others to ride the scooter."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop wrapping presents.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to turn the page.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "[person_1] is going to start riding unicycle faster.",
+            "[person_1] gaining momentum to get up after somersault.",
+            "The hamburger is not over yet.",
+            "[person_1] is showing the hands up and shaking the body.",
+            "[person_1] is instructing about riding [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did somersault outside?",
+        "answer": [
+            "[person_1] won't continue practicing.",
+            "[person_1] would be in danger.",
+            "[person_1] would not smile as brightly.",
+            "[person_1] would not be in danger.",
+            "[person_1] would not be injured."
+        ],
+        "reason": [
+            "Because it would not be unsafe outside to [person_1] do somersaults there.",
+            "[person_1] has reached his drinking limit.",
+            "Because it would be unsafe outside to [person_1] do somersaults there.",
+            "[person_1] was so focus on talking that she did not realize what the kid behind her was doing.",
+            "Because it would be unsafe inside to [person_1] do somersaults there."
+        ]
+    }
+}

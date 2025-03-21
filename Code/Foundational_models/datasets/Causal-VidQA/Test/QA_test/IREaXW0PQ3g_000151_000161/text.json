@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[chair_1] is in a roller skating floor.",
+            "[person_2] is behind [chair_1].",
+            "The dog is behind [chair_1].",
+            "No.",
+            "[person_2] is sitting on [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] sit back to back?",
+        "answer": [
+            "[person_1] is listening to music through a headphone.",
+            "[person_2] is the reflection of [person_1] in the mirror.",
+            "[person_2] is helping [person_1] open the lid of the box.",
+            "[person_1] and [person_2] listen to another person.",
+            "Maybe [person_1] , [person_2] and [person_2] are doing a live recording on the subject of make up."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will upload some photos to the Internet.",
+            "[person_1] will have a rest.",
+            "[person_1] may send the crocodile to another person.",
+            "[person_1] continues to play the keyboard.",
+            "[person_1] may brush teeth."
+        ],
+        "reason": [
+            "[person_1] has just taken some selfies with the clarinet.",
+            "Because [person_1] still walks forward and the introduction regarding the earbuds is not over.",
+            "The [person_1] puts the [person_1] on the sand to take a photo then drinks it.",
+            "The towel isn't finished folding and [person_1] is holding the napkin.",
+            "Because [person_1] seems to be very proficient with sign language."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not take selfies?",
+        "answer": [
+            "[person_1] may speak.",
+            "[person_1] may fall over.",
+            "[person_1] may trip over the carpet.",
+            "[person_1] would not be able to copy the hand movements of [person_1].",
+            "[person_1] would continue practicing the clarinet."
+        ],
+        "reason": [
+            "[person_1] is not distracted.",
+            "Leaving the price tag on a present is generally considered improper etiquette as the recipient doesn't need to know how much you spent.",
+            "[person_1] is out of breath.",
+            "[person_1] needs to complete the schoolwork.",
+            "[person_1] stopped and hung her head , giving advice to [person_1]."
+        ]
+    }
+}

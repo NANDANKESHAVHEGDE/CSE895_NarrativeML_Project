@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2] in the room?",
+        "answer": [
+            "It is dark.",
+            "It is pretty dark.",
+            "Pine tree in the corner.",
+            "[chair_2] is behind [person_1].",
+            "White and green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] stand?",
+        "answer": [
+            "Maybe [person_2] does it for fun.",
+            "[person_2] is here to help [person_2] practicing tackling.",
+            "Because [person_2] wants to open the present easily.",
+            "Because [person_2] wants to wipe the objective with a clean paper.",
+            "[person_2] is helping [person_2] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to use the spade to put the dirt into the bucket.",
+            "[person_2] is going to guess what the food is.",
+            "[person_2] is going to continue to build bricks by row.",
+            "[person_2] is going to look inside the toy.",
+            "[person_2] is going to keep following the [person_2]."
+        ],
+        "reason": [
+            "At [person_2]'s first bandage , she didn't use the binding clips to bind up the bandage , so at [person_2]'s second bandage , [person_2] will do the same thing.",
+            "After [person_2] opens the present , [person_2] takes a look at the toy.",
+            "The bandage has been fully wrapped up on [person_2]'s arm.",
+            "[person_2] aimed at the target for a long time , so [person_2] could be aiming at the bull's eye.",
+            "[person_2] is about to take the image and stick it into the papers under [person_2]'s hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws away the present [person_2] is holding?",
+        "answer": [
+            "[person_1] will keep doing his job.",
+            "[person_2] may have to ask someone for help.",
+            "[person_1] will continue his part of the competition.",
+            "[person_1] will stop spinning the poi.",
+            "[person_1] will not grasp the present anymore."
+        ],
+        "reason": [
+            "Because this is an outdoor gym.",
+            "Because [person_1] will not want to be hit by the cars.",
+            "Because [person_1] is in the yard.",
+            "Because [person_1] will get wet if he keeps fixing the car.",
+            "When [person_1] throws away the present , the present will be far from [person_2]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is on the [dining table_1].",
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the desk.",
+            "[dining table_1] is on the left of [dining table_1].",
+            "[cup_1] is on the table and behind [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play stacking cups?",
+        "answer": [
+            "[person_1] wants to make sure that [person_1] won't fall.",
+            "Because [person_1] wants to make bubbles.",
+            "Because [person_1] is proposing.",
+            "[person_1] is doing it for fun.",
+            "[person_1] stables the driller on the table to utilize it easier."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to start stacking cups.",
+            "[person_1] probably will get more food.",
+            "[person_1] may plan to push [person_1] ahead.",
+            "Take the fruit out of pumpkin and throw it away.",
+            "[person_1] is going to put the cans down."
+        ],
+        "reason": [
+            "[person_1] stacks all the cups.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "Lowering the lifts is one of the movements of the exercise , but the lifts are raised now.",
+            "[person_1] eats too much.",
+            "[person_1] is whistling for example."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups quickly?",
+        "answer": [
+            "Perhaps [person_1] will be seriously injured.",
+            "[person_1] may be sad and can not eat the [person_1].",
+            "[person_1] will be spill the cup.",
+            "The face of the [person_1] would have been hit.",
+            "The [person_1] would run."
+        ],
+        "reason": [
+            "[person_1] will be lose.",
+            "The secret will be revealed.",
+            "Because no one will disturb [person_1] climbing if there is no emergency.",
+            "During somersault , [person_1] cannot control the direction.",
+            "The [person_1] is paying attention to the objects in front."
+        ]
+    }
+}

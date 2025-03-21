@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "The hat which [person_1] is wearing is black.",
+            "The shirt [person_1] is wearing is white.",
+            "It is black.",
+            "The shirt [person_1] is wearing is black.",
+            "The shorts are red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have \u00a0 a trimmer \u00a0 in his hand?",
+        "answer": [
+            "[person_1] is shaving.",
+            "The table is discarded and the wood can be recycled.",
+            "Because it's the instrument for playing the cello.",
+            "[person_1] wants to exercise physical health.",
+            "The [person_1] is testing his balance by playing the mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "He is going to enjoy the beer.",
+            "[person_1] is going to swim his best to the other side of the pool.",
+            "[person_1] is going to clean his face.",
+            "She is going to play with her toys.",
+            "[person_1] is going to land on the sand pit."
+        ],
+        "reason": [
+            "[person_1] wears gloves to tamp the soil around a tree.",
+            "[person_1] holds the button in his hands.",
+            "[person_1] is stills a baby so [person_1] loves gifts.",
+            "[person_1] is very satisfied with her research.",
+            "[person_1] needs to do it after shaving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beard is shaved?",
+        "answer": [
+            "[person_1] would not work.",
+            "[person_1] may choose to have a rest.",
+            "[person_1] would keep going.",
+            "The piece of leather will be more prevalent.",
+            "The beard will look shorter and better."
+        ],
+        "reason": [
+            "[person_1] does not like doing exercise in the darkness.",
+            "[person_1] can monitor [person_1] carefully and [person_1] often has a rest when [person_1] is not there",
+            "That's why [person_1] shaves.",
+            "[person_1] need to perform with [person_1].",
+            "[person_1] is still trying now."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is skating.",
+            "[person_1] is holding two maracas.",
+            "[person_1] is watering plants.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is playing with toy cars."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding maracas?",
+        "answer": [
+            "Because [person_1] is playing checkers.",
+            "Maybe [person_1] loves the sound of maracas.",
+            "[person_1] succeeded at stacking the dice.",
+            "For horses to drink water.",
+            "[person_1] is happy because of playing football."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will uncork the bottle.",
+            "[person_1] will go on painting the wall.",
+            "[person_1] will definitely shake maracas.",
+            "[person_1] will continue to jump long distances.",
+            "[person_1] will see what cards he has."
+        ],
+        "reason": [
+            "Maybe [person_1] is tearing up the test.",
+            "Maybe [person_1] finds it very interesting.",
+            "[person_1] has successfully opened the bottle.",
+            "[person_1] is spreading the shirt to fold.",
+            "Because [person_1] hasn't finished yet , and [person_1] shakes his head to show that it's delicious."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the maracas don't have the stones?",
+        "answer": [
+            "[person_1] won't play it anymore.",
+            "[person_1] would be alone in the room.",
+            "[person_1] will play it anymore.",
+            "Maybe [person_1] and his teammates will smile.",
+            "[person_1] won't play it here."
+        ],
+        "reason": [
+            "The maracas will make sound.",
+            "It is impossible to remove the cork with a laundry rack.",
+            "The maracas will not keep quite.",
+            "There must be a winner and no one wants to lose.",
+            "The maracas will not make sound."
+        ]
+    }
+}

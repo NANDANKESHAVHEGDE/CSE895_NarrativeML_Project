@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the room?",
+        "answer": [
+            "There are three people.",
+            "There is only person.",
+            "There are two people.",
+            "There is only person in this room.",
+            "There are three."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing with [person_2].",
+            "He wants to see if there is anything outside.",
+            "Because [person_1] is practicing standing on hands.",
+            "[person_1] is playing with cups.",
+            "Because [person_1] is weaving fabric"
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the paper inside the shredding machine.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to continue riding.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to sing."
+        ],
+        "reason": [
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1] is [person_1]'s partner.",
+            "[person_1] is hooping very hard.",
+            "[person_1] is going to laugh.",
+            "[person_1] is holding a glass of water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will sit on the chair.",
+            "[person_1] will lie on the floor.",
+            "Maybe [person_1] will stop playing.",
+            "[person_1] will get off the horse.",
+            "Perhaps , [person_1] will look out of place and feel a bit uncomfortable."
+        ],
+        "reason": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is beside [person_1].",
+            "The floor is the only place for rest.",
+            "[person_1] will go home.",
+            "Maybe [person_1] is tired and has no effort so she falls again."
+        ]
+    }
+}

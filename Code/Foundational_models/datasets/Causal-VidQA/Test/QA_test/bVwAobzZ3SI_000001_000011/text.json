@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is in the living room and in front of the TV.",
+            "The [chair_1] is behind the gong.",
+            "[chair_1] is sitting on the sofa.",
+            "[chair_1] is perched on [chair_1].",
+            "[chair_1] is behind the [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] holding a stick?",
+        "answer": [
+            "Because the [person_1] keeps balance by leaning the stick.",
+            "[person_1] is performing for the boy wearing a t - shirt.",
+            "Because there is no one here except for [person_1] and [person_1].",
+            "[person_1] is performing music on the street . .",
+            "[person_1] is playing basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may take the skin of the balloon.",
+            "The [person_1] may carry on walking on the stilts.",
+            "The [person_1] may continue to throw the snow with a shovel.",
+            "The [person_1] may play accordion more to feel great.",
+            "The [person_1] may turn back and walk more."
+        ],
+        "reason": [
+            "The [person_1] tries to hold dog leash of the [person_1].",
+            "The [person_1] takes foot of [person_1] to touch nose of [person_1].",
+            "The [person_1] is able to keep balance on the stilts and the [person_1] is moving.",
+            "The [person_1] is not moving at all.",
+            "The [person_1] is still standing next to the horse and petting the horse."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not hold a stick?",
+        "answer": [
+            "The two dog will be in the bowl.",
+            "Maybe [person_1] would ride the bike to home.",
+            "The [person_1] might fall to the floor.",
+            "Maybe [person_1] would become famous.",
+            "Then [person_1] can't catch the hot dogs."
+        ],
+        "reason": [
+            "[person_1] is too young to be alone.",
+            "[person_1] is riding at high speed.",
+            "[person_1] can stand closer to [person_1].",
+            "[person_1] will probably answer the phone.",
+            "The stick helps the [person_1] keep balance on the stilts."
+        ]
+    }
+}

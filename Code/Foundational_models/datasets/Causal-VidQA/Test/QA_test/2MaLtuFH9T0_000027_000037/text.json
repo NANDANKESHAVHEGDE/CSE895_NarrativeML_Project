@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the faucet?",
+        "answer": [
+            "Because [person_1] wants to touch her belly button.",
+            "Because [person_1] is playing the guitar.",
+            "[person_1] is trying to play the harmonica.",
+            "Because [person_1] is watering the plants.",
+            "Maybe [person_1] is under stress."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue teaching.",
+            "[person_1] is going to tap dancing.",
+            "[person_1] will stop smoking.",
+            "[person_1] is going to step back and observe [person_1].",
+            "[person_1] is going to use his hand to tamp the soil."
+        ],
+        "reason": [
+            "Maybe [person_1] is more comfortable.",
+            "[person_1] opens the [person_1] to put the [person_1] in.",
+            "When [person_1] jumps off the pool , he floats and prepares to swim.",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "Maybe [person_1] is going to practice more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bottle breaks?",
+        "answer": [
+            "[person_1] may hold this animal.",
+            "The [person_1] would face danger.",
+            "[person_1] will be stop smoke.",
+            "[person_1] may fall and get hurt.",
+            "[person_1] will stop competing."
+        ],
+        "reason": [
+            "[person_1] is riding on the back of the mechanical bull.",
+            "It is too dark for them to continue their performance.",
+            "The water jar in the bottle will no longer be available.",
+            "The boy in red is younger.",
+            "The elephant is too huge."
+        ]
+    }
+}

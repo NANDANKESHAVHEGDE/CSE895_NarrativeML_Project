@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room has many objects.",
+            "It is spacious.",
+            "The room is a bit dark.",
+            "The room is very bright.",
+            "The room is quite big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the flute?",
+        "answer": [
+            "[person_1] is taking clothes out of the box.",
+            "[person_1] is playing the flute.",
+            "[person_1] is drawing a picture.",
+            "[person_1] is playing chess.",
+            "[person_1] is doing a skate movement."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to skateboard.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to keep blowing the flute.",
+            "[person_1] is going to spread the whipped cream over the [person_1] until it is done perfectly.",
+            "[person_1] may be going to put the heavy barbell back."
+        ],
+        "reason": [
+            "Because [person_1] is cooking.",
+            "Because [person_1] is eating the donut.",
+            "[person_1] has lied down and hold the barbell.",
+            "[person_1] is trying pressing some keys.",
+            "[person_1] is holding the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] tripped?",
+        "answer": [
+            "Buy anti - inflammatory drugs to eat.",
+            "Maybe [person_1] will not cry.",
+            "[person_1] will win the contest.",
+            "Maybe [person_1] will cry.",
+            "[person_1] would get more occupation in camera."
+        ],
+        "reason": [
+            "[person_1] is not injured.",
+            "[person_1] will get used to the spinning motion.",
+            "[person_1] is injured.",
+            "Standing on hand is very beneficial for health.",
+            "[person_1] is cured."
+        ]
+    }
+}

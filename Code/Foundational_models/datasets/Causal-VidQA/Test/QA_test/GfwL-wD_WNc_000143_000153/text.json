@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] picking out of the box?",
+        "answer": [
+            "[person_1] is picking a pink shirt out of the box.",
+            "[person_1] is standing on a slope.",
+            "[person_1] is playing a song for the person holding the camera.",
+            "The car is white.",
+            "The shirt is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting next to [person_1]?",
+        "answer": [
+            "Because [person_1] needs a lot of power to lift the weights.",
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "[person_2] is helping [person_1] open the lid of the box.",
+            "Because [person_2] wants to play the drums in the room.",
+            "Because [person_1] is instructing the arm stretch."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may straighten his arms.",
+            "[person_1] will obviously stop stand on the hand.",
+            "[person_1] may carve the back.",
+            "She may try on her new shirt.",
+            "[person_1] is going to observe all the newspapers."
+        ],
+        "reason": [
+            "When [person_2] opens the box , [person_1] takes out a beautiful pink shirt.",
+            "Maybe [person_1] will clap his hands.",
+            "The cat is sitting next to [person_1].",
+            "[person_1] is resting.",
+            "[person_1] is talking with partner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is not there for [person_1]?",
+        "answer": [
+            "[person_1] may miss the kick.",
+            "[person_1] probably will not catch the ball.",
+            "[person_1] may not be able to open the box herself.",
+            "The [person_1] may fall.",
+            "[person_1] will practice longer."
+        ],
+        "reason": [
+            "Because [person_1] was held by another person to prevent the snake from escaping.",
+            "Because [person_1] might hit his head on the ground , which would lead to brain damage.",
+            "Because [person_1] needed to maintain the speed to keep running.",
+            "Since [person_1] is trying to step on the chair , so he will fall down if the chair falls down.",
+            "When [person_2] puts the box down , the box is too big and tight for [person_1] to open herself."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the way.",
+            "It is in the room.",
+            "Along the river.",
+            "[person_1] is in bathroom.",
+            "[person_1] is in a wood workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing protective clothing?",
+        "answer": [
+            "Because the protective clothing helps [person_1] protect her body when [person_1] is rollerblading.",
+            "Because the [person_1] does not want to be hit with a snowball.",
+            "[person_1] is playing drums.",
+            "[person_1] is playing lute alone.",
+            "[person_1] is about to stop performing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to jump up.",
+            "[person_2] is going to slide by [person_1].",
+            "[person_2] is going to laugh.",
+            "[person_2] is going to smile.",
+            "[person_2] is going to leave."
+        ],
+        "reason": [
+            "[person_2] is skating with everyone.",
+            "[person_2] is smiling and looks very excited.",
+            "[person_2] must know how to balance first in order to ride the skateboard.",
+            "[person_2] is keen on the activity.",
+            "Because [person_2] is looking at [person_2] and waiting for the opinion."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will go inside.",
+            "[person_1] may get wet.",
+            "[person_1] won't continue skating.",
+            "[person_1] will enter the house.",
+            "[person_1] will stop running."
+        ],
+        "reason": [
+            "[person_1] will need to find a shelter.",
+            "[person_1] may fall while it is raining.",
+            "People will go home.",
+            "Plants will die without water.",
+            "Many people will get wet."
+        ]
+    }
+}

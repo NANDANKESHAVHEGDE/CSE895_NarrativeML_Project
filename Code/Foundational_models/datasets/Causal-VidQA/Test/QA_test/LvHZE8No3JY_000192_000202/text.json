@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the current place?",
+        "answer": [
+            "It's a table lamp.",
+            "The room is quite bright.",
+            "The room is spacious.",
+            "The room is very big.",
+            "It is outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are these painting sprayers here?",
+        "answer": [
+            "Help spice up the proposal.",
+            "[bottle_1] learned to play the keyboard before.",
+            "Maybe it's because of coincidence.",
+            "Yes , because a bunch of people are too noisy together.",
+            "They will be used for painting later."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the camera falls down?",
+        "answer": [
+            "He will take a bath.",
+            "[person_1] will pick it up firstly and adjust the scene.",
+            "[person_1] will shout and cry.",
+            "[person_1] will go home and sleep.",
+            "Maybe [person_1] will use electric drill to drill holes."
+        ],
+        "reason": [
+            "[person_1] needs to sleep because [person_1] has spent too much energy in this party.",
+            "To find a support for the head stand.",
+            "Because [person_1] still maintains the gesture and does not move.",
+            "Because [person_1] seems to stop what he is doing and the scene returns to normal later.",
+            "[person_1] and [person_1] stopped practice and looked at the coach."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [bottle_1] suddenly exploded?",
+        "answer": [
+            "[bottle_1] head would be injured.",
+            "[person_1] may be injured by accident.",
+            "[person_1] would be upset.",
+            "It would splatter the paint everywhere on [person_1]'s body.",
+            "[person_1] will not cut its nail."
+        ],
+        "reason": [
+            "Because [bottle_1] still wants to adjust hair of [bottle_1].",
+            "[bottle_1] is not broken.",
+            "Because [person_1] was standing very close to [bottle_1].",
+            "If [person_1] is out of control , [person_1]'s life will be in danger , so naturally [person_1] will not keep calm.",
+            "because when [bottle_1] hits the ground will create a counterforce which impacts the seed on [bottle_1]."
+        ]
+    }
+}

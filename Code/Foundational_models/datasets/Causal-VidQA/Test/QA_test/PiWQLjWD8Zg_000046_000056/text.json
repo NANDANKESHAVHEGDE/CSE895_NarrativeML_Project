@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the big room.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] and [person_2] are in the children's play area.",
+            "[person_1] and [person_2] are at the roller rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] standing?",
+        "answer": [
+            "[person_3] is doing for fun.",
+            "[person_3] takes each cup and arranges them higher and higher.",
+            "[person_3] is playing didgeridoo to relax.",
+            "Because the water was flowing [person_3] ran out to water the plants.",
+            "[person_3] is waiting for his turn to cut his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the plate away.",
+            "[person_1] will get more cards",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is going to cross the street.",
+            "[person_1] is going to sit down."
+        ],
+        "reason": [
+            "[person_1] is keeping still.",
+            "Because [person_1] is lifting the beehive.",
+            "It's almost the turn of [person_1] to cut his hair.",
+            "[person_1] has turned away.",
+            "[person_1] has not finished his talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_5] finishes shaving?",
+        "answer": [
+            "The [person_5] will make the same doll again.",
+            "[person_5] would cry and became unhappy.",
+            "[person_5] will collide with [person_5].",
+            "[person_5] will agree.",
+            "[person_5] will leave that seat."
+        ],
+        "reason": [
+            "Because of the rules of rock - paper - scissors.",
+            "Because they are friends.",
+            "[person_5] is holding dumbbells in her hand to do exercise.",
+            "It's the turn of [person_3].",
+            "[person_5] may go downhill faster."
+        ]
+    }
+}

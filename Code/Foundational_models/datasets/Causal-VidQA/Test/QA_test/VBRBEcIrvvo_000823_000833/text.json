@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s clothes?",
+        "answer": [
+            "The floor is white color.",
+            "[person_1] is wearing black pants with white line.",
+            "Black.",
+            "Adidas.",
+            "It's green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_3] stand there?",
+        "answer": [
+            "Because [person_1] is a doctor.",
+            "The [person_1] is polishing the table.",
+            "[person_1] is showing how to peel a banana easily.",
+            "[person_1] is performing spinning plates.",
+            "[person_1] and [person_3] stand there watching the massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do next?",
+        "answer": [
+            "[person_3] will do the massaging neck for [person_2].",
+            "[person_3] will try to climb up the ice.",
+            "[person_3] will move the cabinet into the house.",
+            "Maybe [person_3] will continue practicing.",
+            "It is possible that [person_3] will celebrate the victory of the whole team."
+        ],
+        "reason": [
+            "[person_3] has just token over the microphone.",
+            "Maybe [person_3] is interested.",
+            "Because [person_3] has already learned how to massage.",
+            "Because [person_3] was hurt when [person_3] put down the barbell.",
+            "[person_3] is holding [person_3] next to the [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] get hurt suddenly?",
+        "answer": [
+            "[person_1] will call the ambulance.",
+            "[person_1] will keep on smoking.",
+            "[person_1] will rest on [person_2].",
+            "[person_2] and [person_1] will send him to the hospital.",
+            "[person_1] will ask some questions."
+        ],
+        "reason": [
+            "The team of [person_2] can win the game.",
+            "[person_2] would felt dizzy.",
+            "Only them three here.",
+            "To save [person_2] in time.",
+            "Because [person_2] isn't flat."
+        ]
+    }
+}

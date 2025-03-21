@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the lamp ?",
+        "answer": [
+            "It is in the hand of [person_1].",
+            "It is behind [person_1].",
+            "It is on the hand of [person_1].",
+            "The lamp is on the [person_1].",
+            "It is next to the man."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a short hair ?",
+        "answer": [
+            "[person_1] is a trainer.",
+            "[person_1] wanted to throw it away.",
+            "[person_1] is a man.",
+            "Because they are at home.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will certainly playing piano.",
+            "[person_1] will take a break.",
+            "[person_1] will drop two plates.",
+            "[person_1] will lift the third one.",
+            "[person_1] will continue interpreting something."
+        ],
+        "reason": [
+            "Avoid hitting the tree forward.",
+            "[person_1] is playing very enthusiastically.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] must feel sore of his waist.",
+            "[person_1] is explaining how to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lamps after [person_1] falls down ?",
+        "answer": [
+            "It will make a noise.",
+            "[person_1] may not be able to see.",
+            "They might change the game.",
+            "[person_1] will be broken into many pieces.",
+            "Maybe [person_1] and [person_1] would suffer from a serious injury."
+        ],
+        "reason": [
+            "The lamp will break.",
+            "They need to fight it out.",
+            "Because they are standing on the stage now.",
+            "The judges can not see the acting.",
+            "[person_1] will jump very short and unprofessional."
+        ]
+    }
+}

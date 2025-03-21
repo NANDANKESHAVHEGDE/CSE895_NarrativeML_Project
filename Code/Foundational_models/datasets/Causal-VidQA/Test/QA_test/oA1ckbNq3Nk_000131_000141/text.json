@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are those people?",
+        "answer": [
+            "It is a circular saw.",
+            "They are in a big yard.",
+            "No , it isn't.",
+            "They are in a backstage door.",
+            "They are in a music room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] stand at a distance from [person_1]?",
+        "answer": [
+            "Perhaps [person_1] tiptoes and lunges forward to throw the ball into the cup easier.",
+            "Because [person_1] and [person_2] are training with each other.",
+            "[person_1] thought the reflection is a different cat.",
+            "because [person_1] is trying to stack a dice.",
+            "[person_2] is watching [person_1] playing cymbals."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after [person_1] stops playing?",
+        "answer": [
+            "[person_1] who is a man with a cap is going to make sausage.",
+            "[person_1] will go for the waiter in front of him.",
+            "[person_1] will lift another leg of the dog.",
+            "[person_2] may give [person_1] positive feedback on his cymbals playing.",
+            "[person_1] will go for another side."
+        ],
+        "reason": [
+            "Because [person_2] has nodded for a few times as [person_2] watches [person_1] playing.",
+            "Because [person_2] is in front of [person_1] and [person_1] finishes her performance.",
+            "It seems that [person_1] is in the center of the room and performs for others.",
+            "[person_2] is imitating what [person_1] does.",
+            "It seems that [person_1] is a professional actor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] left the room?",
+        "answer": [
+            "Maybe [person_2] will fix it immediately.",
+            "[person_1] would not be able to receive feedback.",
+            "[person_1] and [person_2] will stop playing.",
+            "They would tell the person that there is no cake left.",
+            "[person_1] will water the [person_2]."
+        ],
+        "reason": [
+            "Because [person_1] would fall to the solid ground with nothing but stones.",
+            "Because there would be no one watching [person_1] playing the cymbals,",
+            "Because [person_1] is charging at the wheel with the intention of tackling it.",
+            "If the headset breaks down , [person_1] will not be able to listen to pleasant music .",
+            "Because it is time to eat."
+        ]
+    }
+}

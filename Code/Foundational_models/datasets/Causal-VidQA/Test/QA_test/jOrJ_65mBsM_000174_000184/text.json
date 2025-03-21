@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is smashing a tire.",
+            "[person_1] is shooting basketball.",
+            "[person_1] is riding the bike with one leg.",
+            "[person_1] is stacking dice.",
+            "[person_1] is shaking the cup."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the tire lie here instead of being in a car?",
+        "answer": [
+            "It is discarded.",
+            "Because the juice has been drunk.",
+            "[person_1] is not familiar with this kind of fruit.",
+            "[person_1] does it for entertainment.",
+            "Sitting on the chair to stack the dice is more difficult than standing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will thank the audience.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will show what she has done.",
+            "[person_1] will take a break.",
+            "[person_1]'s going to ride more smoothly."
+        ],
+        "reason": [
+            "Because [person_1] does want to fall down.",
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "Because [person_1] divides the money into piles.",
+            "[person_1] must be tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the tire was not discarded?",
+        "answer": [
+            "Perhaps [person_1] will be very angry.",
+            "The cards can't be easily picked up.",
+            "[person_1] and [person_1] may sit on [person_1] and [person_1] and rest.",
+            "[person_1] would not use it to exercise.",
+            "The [person_1] makes the [person_1] tired."
+        ],
+        "reason": [
+            "The tire would be still useful for a car.",
+            "[person_1] , [person_1] and [person_1] think their dance is not good enough.",
+            "Because there were no sign to notify [person_1] the place to stand.",
+            "[person_1] will need to repair the wood planer to continue working.",
+            "[person_1] is just pretending to be running."
+        ]
+    }
+}

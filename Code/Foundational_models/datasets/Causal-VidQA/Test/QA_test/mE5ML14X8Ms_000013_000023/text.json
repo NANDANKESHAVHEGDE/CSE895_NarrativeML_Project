@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] ?",
+        "answer": [
+            "[chair_1] is near the dining table.",
+            "[chair_1] is empty.",
+            "[chair_1] is under [chair_1].",
+            "[chair_1] is in the corner.",
+            "[chair_1] is being seated by [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a long hair ?",
+        "answer": [
+            "Because [person_1] doesn't cut it.",
+            "Because the gym have a lot of the weights.",
+            "Because it is very sunny outside.",
+            "[person_1] is losing weight . It is a fitness room.",
+            "It's a part of the traditional costume."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may keep trying to play the gong.",
+            "[person_1] may go on playing flute.",
+            "[person_1] will continue playing the gong.",
+            "[person_1] will change another foot of the customer.",
+            "[person_1] will pour the wine into a cup and drink."
+        ],
+        "reason": [
+            "[person_1] is good at plane.",
+            "[person_1] is teaching in a professional way.",
+            "[person_1] will be more tired when it is winter.",
+            "Because [person_1] seems to be very proficient and does not stop her action.",
+            "[person_1] will probably drink water when the performance is finished."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is hungry ?",
+        "answer": [
+            "[person_1] will run back home.",
+            "Maybe the mother of [person_1] will bring some food.",
+            "[person_1] can throw the ball into the basket.",
+            "[person_1] will not go on playing flute.",
+            "Then the man who is videotaping [person_1] may be there to comfort him."
+        ],
+        "reason": [
+            "There is no guardian at the pool.",
+            "[person_1] will find food to eat.",
+            "[person_1] may be more professional.",
+            "It will be more convenient than using hands.",
+            "[person_1] practices a lot."
+        ]
+    }
+}

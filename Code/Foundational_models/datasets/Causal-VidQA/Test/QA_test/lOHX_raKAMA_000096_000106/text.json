@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the house.",
+            "[person_1] is in the car.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the house?",
+        "answer": [
+            "[person_1] is playing chess.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is looking for fun.",
+            "[person_1] is excited about setting up the game.",
+            "[person_1] is instructing someone how to stack cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep sticking the wallpaper.",
+            "He is going to enjoy the beer.",
+            "[person_1] is going to land on the sand pit.",
+            "[person_1] is going to swim his best to the other side of the pool.",
+            "[person_1] is going to continue arrange the chess pieces."
+        ],
+        "reason": [
+            "[person_1] looks so happy.",
+            "[person_1] holds the button in his hands.",
+            "This can help [person_1] remember the action.",
+            "[person_1] teaches [person_1] how to dance.",
+            "Food burnt."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues to stack chess pieces?",
+        "answer": [
+            "The chess pieces will fall on the floor",
+            "[person_1] will give a grade.",
+            "[person_1] would fall.",
+            "[person_1] would not attend the cheer - leading team.",
+            "[person_1] will stop doing the head stand immediately."
+        ],
+        "reason": [
+            "The cycling speed of [person_1] is quite fast so he would get injury on his head if he did not wear the helmet.",
+            "Because eating too much and too fast may make the person choked up so the person may be in danger.",
+            "[person_1] will pick up and put them on the table.",
+            "The person in dog cosplay costume is trying to make [person_1] feel better.",
+            "Watermelon seeds are hard to swallow."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are in their yard.",
+            "They are in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting in front of the door?",
+        "answer": [
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "When [person_1] sits on a chair , [person_1] can hold the guitar.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "[person_1] is listening to music through a headphone.",
+            "[person_1] and [person_2] are working."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to walk to the car.",
+            "[person_1] intends to observe the game.",
+            "[person_1] intends to drink more.",
+            "[person_1] intends to stand up.",
+            "[person_1] intends to be a master of playing violin."
+        ],
+        "reason": [
+            "[person_1] is in the car - park.",
+            "[person_1] is moving the wrong chess piece.",
+            "[person_1] looks very excited.",
+            "[person_1] looks very interested and wants to try folding clothes . [person_1] doesn't fold clothes.",
+            "[person_1] looks tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sings ?",
+        "answer": [
+            "[person_1] will sing too.",
+            "[person_1] will be hurt.",
+            "[person_2] will sing too.",
+            "[person_1] will not keep playing.",
+            "[person_2] maybe traumatized."
+        ],
+        "reason": [
+            "[person_1] will help [person_2] up.",
+            "[person_2] and [person_2] were spinning very fast then.",
+            "because [person_1] wants to keep reading [person_1].",
+            "[person_1] and [person_2] will sing together.",
+            "Because they want to pet [person_1]."
+        ]
+    }
+}

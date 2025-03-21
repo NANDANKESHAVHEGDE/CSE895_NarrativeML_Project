@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is pointing the champagne to the photographer.",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is proposing to [person_1].",
+            "[person_1] is opening a champagne bottle.",
+            "[person_1] is is throwing a stone so that it slides on the river surface."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] open the bottle?",
+        "answer": [
+            "[person_1] is the coach of this basketball team.",
+            "Because the person holding the camera was speaking something to [person_1].",
+            "[person_1] uses the bottom of a goblet to strike the bottleneck.",
+            "[person_1] wants to keep herself balance.",
+            "[person_1] holds the [person_1] in one hand and the spoon in his other hand , and uses the spoon to peel [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is bound to keep playing guitar.",
+            "[person_1] is bound to play guitar.",
+            "[person_1] will continue with the pulling.",
+            "[person_1] will share his champagne with others.",
+            "[person_1] will drive to go fishing next."
+        ],
+        "reason": [
+            "Because there's a car next to [person_1] and the bucket is in the car.",
+            "[person_1] is pouring champagne to other's cup.",
+            "That man is wait for [person_1].",
+            "[person_1] has successfully opened the bottle.",
+            "Because the [person_1] wants to go home for dinner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if he was not proficient in uncorking?",
+        "answer": [
+            "[person_1] might fail to open the bottle by this way.",
+            "[person_1] would not be chased down by [person_1].",
+            "[person_1] will instruct other people who want to learn this skill.",
+            "[person_1] would stop and look back at [person_1].",
+            "[person_1] will make his effort to learn how to play [person_1] well."
+        ],
+        "reason": [
+            "It is not easy to open a champagne bottle with a goblet.",
+            "[person_1] might feel happy.",
+            "Because maybe [person_1] has something urgent.",
+            "[person_1] is nearsighted.",
+            "The goats need to be full to grow faster."
+        ]
+    }
+}

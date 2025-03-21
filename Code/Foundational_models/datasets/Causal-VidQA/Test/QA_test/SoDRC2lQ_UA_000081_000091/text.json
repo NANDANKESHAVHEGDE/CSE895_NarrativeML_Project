@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in their house.",
+            "They are in the yard.",
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] have \u00a0 a trimmer in her hand?",
+        "answer": [
+            "The [person_1] harvested the [person_2].",
+            "Perhaps [person_1] is checking the wax before waxing.",
+            "Because the dog wants to find water outside.",
+            "The lamp helps [person_1] see better.",
+            "[person_2] wants to help [person_1] shave."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going to continue skateboarding.",
+            "[person_1] is going to stand in front of the mirror.",
+            "[person_1] is going to roll the ruler back."
+        ],
+        "reason": [
+            "Maybe [person_1] is a earthen pot.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is weaving fabric.",
+            "Feedback is needed in the classroom.",
+            "[person_1] will need to look at himself in the mirror after shaving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes shaving?",
+        "answer": [
+            "[person_1] will lower his score.",
+            "[person_1] and [person_1] will clap their hands.",
+            "[person_1] would not feel good.",
+            "[person_1] will look better.",
+            "[person_1] would be hurt."
+        ],
+        "reason": [
+            "[person_1] would wait for the little boy to play the game together.",
+            "[person_1] has a lot of toys.",
+            "Because the power failure is unexpected.",
+            "That's why [person_1] needs to shave her beard.",
+            "[person_1] wants to sing for [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside his house.",
+            "[person_1] is at a grocery store.",
+            "[person_1] is in a guitar shop.",
+            "[person_1] is on a stage.",
+            "[person_1] is in the workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the machine?",
+        "answer": [
+            "Because [person_1] wants to sharpen the pencil.",
+            "Because [person_1] wants to play the gong.",
+            "Because [person_1] is arranging the cups.",
+            "[person_1] turns around to go to the mirror.",
+            "The person behind [person_1] can remove the wax for [person_1] easier."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may brush teeth.",
+            "[person_1] will stop sharpening the pencil.",
+            "[person_1] continues to play the keyboard.",
+            "[person_1] may send the crocodile to another person.",
+            "[person_1] may take off [person_1]'s gloves."
+        ],
+        "reason": [
+            "[person_1] move the machine to the non - dominant hand.",
+            "[person_1] will want to score as many goals as possible so that his team will win.",
+            "[person_1] will lean forward because right now his body is still moving to the front.",
+            "[person_1] had completed the work because he changed position from crawling to a sitting position.",
+            "Because [person_1] is the referee."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bottle_3] falls down?",
+        "answer": [
+            "[bottle_3] will be sad.",
+            "Maybe [bottle_3] will have eyestrain.",
+            "Maybe [bottle_3] will break.",
+            "[bottle_3] and that person will play 1 vs 1.",
+            "Maybe [bottle_3] will sleep."
+        ],
+        "reason": [
+            "[bottle_3] had been interrupted and had to reply.",
+            "Because [bottle_3] is on the high shelf.",
+            "[bottle_3] is not in a hurry to use wood , [bottle_3] can come back and continue.",
+            "[bottle_3] looks sleepy.",
+            "Eyes are very vulnerable."
+        ]
+    }
+}

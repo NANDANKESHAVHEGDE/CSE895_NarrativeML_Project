@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_5] wearing on his face?",
+        "answer": [
+            "A pair of sunglasses.",
+            "[person_5] is blue.",
+            "[person_5] is holding [person_5].",
+            "No.",
+            "[person_5] is on the right hand of [person_5]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they riding in the desert?",
+        "answer": [
+            "[person_5] is guiding [person_5] to do an exercise right way",
+            "Because the camels live in the desert.",
+            "Maybe [person_5] wants to take the wheelchair somewhere.",
+            "Because [person_5] is preparing the usage of microscope.",
+            "Because [person_1] is helping [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do on the back of the camel?",
+        "answer": [
+            "[person_1] is ready to turn to [person_1] and help her make hair too.",
+            "[person_1] will jump off from [person_1].",
+            "Maybe [person_1] will help [person_1].",
+            "[person_1] will eat the them.",
+            "[person_1] will ride the camel."
+        ],
+        "reason": [
+            "[person_1] wants to stop.",
+            "Because the [person_1] feels excited on the camel.",
+            "[person_1] wants to go home.",
+            "Because [person_1] seems very tired.",
+            "Because [person_1] wants to experience this special way of transportation."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the two girls do not know how to ride the camel?",
+        "answer": [
+            "The owner of the camel will not teach them how to ride.",
+            "Perhaps he will replay the song.",
+            "The owner of the camel will teach them how to ride.",
+            "The owner's hair would get wet.",
+            "The owner of the camel will prevent them how to ride."
+        ],
+        "reason": [
+            "Because it is the owner of the camel's duty.",
+            "Because there is no electricity for the lamb to work.",
+            "Because it is not the owner of the camel's duty.",
+            "Because a leaking bucket has no use.",
+            "Because it is the owner of the camel's habit."
+        ]
+    }
+}

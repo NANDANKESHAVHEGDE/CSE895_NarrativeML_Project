@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [truck_1]?",
+        "answer": [
+            "They are in a room.",
+            "He is a figure in the picture on the wall.",
+            "In front of a house.",
+            "[truck_1] is on the left side of the house.",
+            "[truck_1] is in front of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "Because [person_2] fell from the wheelbarrow and hit [person_2]'s back to the ground.",
+            "He used his hat to soak up the sweat.",
+            "They are here to practice martial arts.",
+            "[person_1] is shredding paper.",
+            "Maybe [person_1] and [person_2] are hanging out together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue sitting on the chair.",
+            "Maybe [person_1] will watch TV.",
+            "[person_1] intends to go to find something to stop the [dog_1].",
+            "[person_1] will lay on the floor.",
+            "The [person_1] will pick up the [person_1]."
+        ],
+        "reason": [
+            "Because hands of the [person_1] are still on the handle and [person_1] is ready for the next pulling.",
+            "The shoes haven't been finished polishing.",
+            "[person_1] will raise his right hand to hit the keys above the guitar.",
+            "[dog_1] is biting the rope of the wheelchair and pulling [person_2] away.",
+            "[person_1] is holding the first page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the rope is cut?",
+        "answer": [
+            "[person_2] will buy it.",
+            "[dog_1] will pick it up.",
+            "[person_2] may be suffered from backache.",
+            "It is possible that [dog_1] will bite [person_2].",
+            "[dog_1] may easily be stung."
+        ],
+        "reason": [
+            "Maybe [person_2] is disabled so [person_2] in a wheelchair.",
+            "[person_2] is too young so he needs an adult to accompany.",
+            "It needs electricity to work.",
+            "Because the accordion can't be created music with a paralyzed keyboard.",
+            "The phone is in the carpet."
+        ]
+    }
+}

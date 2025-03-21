@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is behind [person_1] and next to the door.",
+            "[person_1] is sitting in front of a bed.",
+            "[person_1] is in a roller skating floor.",
+            "[person_1] is standing between [person_1] and [person_1].",
+            "The [person_1] is under the table , behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] holding [book_1]?",
+        "answer": [
+            "[person_1] wants to play with the child.",
+            "[person_1] is helping [person_2] to shear sheep.",
+            "because [person_1] is reading [book_1] for [person_2].",
+            "Because [person_1] might fall.",
+            "[person_1] is shearing [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn off the camera.",
+            "[person_1] is going to fold a paper airplane.",
+            "[person_1] is going to keep reading [book_1] until it's over.",
+            "[person_1] will look into a mirror.",
+            "[person_1] will attack [person_1] in a sword fight."
+        ],
+        "reason": [
+            "[person_1] was unconscious after he fell off the chair.",
+            "because [book_1] still has a few pages left.",
+            "[person_1] is moving the lizard down with his left hand.",
+            "when [person_1] flips the bottle , [book_1] did not notice.",
+            "[person_1] has already set up the machine on the computer."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_2] reach for [book_1]?",
+        "answer": [
+            "[person_1] might be hurt.",
+            "Then [person_1] can't keep making cookies.",
+            "[person_2] will get angry.",
+            "[person_2] may not be able to do parkour.",
+            "[person_1] will push [person_2] away."
+        ],
+        "reason": [
+            "[person_1] will go to sleep.",
+            "[person_1] just has one cake that [person_1] is holding.",
+            "The injury needs to be stopped bleeding.",
+            "because [person_1] wants to keep reading [book_1].",
+            "If [person_1] scratched [person_1]'s hand , [person_1] would immediately put down [book_1] and check the wound , so [person_1] could not continue to make cookies."
+        ]
+    }
+}

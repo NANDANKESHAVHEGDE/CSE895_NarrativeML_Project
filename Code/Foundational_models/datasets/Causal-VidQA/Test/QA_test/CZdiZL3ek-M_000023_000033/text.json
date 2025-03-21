@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on the [dining table_1].",
+            "[dining table_1] is on the left of [cup_1].",
+            "[cup_1] is on the table and behind [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the [cup_2]?",
+        "answer": [
+            "Because [person_1] is doing lunges.",
+            "[person_1] and [cup_2] are spinning for [person_1] jumping.",
+            "[person_1] is competing with [cup_2].",
+            "[person_1] wants to drink water.",
+            "Because [cup_2] wants to know which present [cup_2] will receive."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to give feedback about the smart phone.",
+            "[person_1] is going to ride a unicycle forward.",
+            "[person_1] is going to learn how to ride a bicycle.",
+            "[person_1] is going to blow more air into the balloon.",
+            "[person_1] is going to crawl."
+        ],
+        "reason": [
+            "[person_1] has not finished shaking his arms up and down.",
+            "[person_1] looks like a bad whistler.",
+            "[person_1] will do a show after she said all words.",
+            "[person_1] does not know how to ride a bicycle.",
+            "[person_1] is going to start riding unicycle faster."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] would find a different place to drink.",
+            "[person_1] might go home.",
+            "They will not visit here.",
+            "[person_1] would find a place for a shelter.",
+            "She maybe fell sad."
+        ],
+        "reason": [
+            "[person_1] and [person_1] are outside the house.",
+            "[person_1] would have to find a shelter.",
+            "Because the scenery can't be good without sunshine.",
+            "[person_1] and [person_1] are outside and shearing machine will stop working under the rain.",
+            "[person_1] does not have an umbrella and he doesn't want to get wet."
+        ]
+    }
+}

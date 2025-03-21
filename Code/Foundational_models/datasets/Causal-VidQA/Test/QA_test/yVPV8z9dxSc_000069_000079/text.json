@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "Dancing.",
+            "[person_1] is doing some tai chi moves.",
+            "[person_1] is stripping [person_1].",
+            "[person_1] is peeling [person_1].",
+            "[person_1] is sitting with [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] dancing?",
+        "answer": [
+            "The [person_1] ran to avoid snowballs.",
+            "Because the high pressure inside presses the champagne out as soon as the cork flies.",
+            "With the help of the machine.",
+            "Because he thinks he is good at dancing.",
+            "By waving the arms."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to skate again.",
+            "[person_2] is going to look for [person_2]'s present.",
+            "[person_2] is going to go straight ahead.",
+            "[person_2] is going to open the gift.",
+            "[person_2] will ask [person_1] to stop."
+        ],
+        "reason": [
+            "[person_2] is still showing the hands up and shaking the body.",
+            "[person_1] is waiting for [person_2].",
+            "Because [person_2] is old and easy to get tired.",
+            "Because [person_1] dances badly.",
+            "Easier to squeeze out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if today is weekday?",
+        "answer": [
+            "[person_1] would look for a tool to eat.",
+            "It will drive into the ocean.",
+            "[person_1]'s face will turn red.",
+            "[person_1] will not be here.",
+            "You can't see what he writes."
+        ],
+        "reason": [
+            "Because he has to go to school.",
+            "Onion water is very spicy and causes eye irritation.",
+            "Because they're not familiar with this place and can't keep riding.",
+            "[person_1] jumps so high.",
+            "To have a medical examination."
+        ]
+    }
+}

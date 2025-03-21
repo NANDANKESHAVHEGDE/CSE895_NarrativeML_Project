@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How's the weather ?",
+        "answer": [
+            "He is with a smiling face.",
+            "It's sunny.",
+            "[person_1] and [person_1] are in the garden.",
+            "[person_1] and [person_1] are on the street.",
+            "[person_1] and [person_1] are in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is riding [person_1].",
+            "The rope was dropped.",
+            "[person_1] is planing wood.",
+            "[person_1] is roller skating.",
+            "[person_1] is waiting for someone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to jump.",
+            "[person_1] is going to continue riding.",
+            "[person_1] is going to skate."
+        ],
+        "reason": [
+            "[person_1] finishes singing.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is holding a glass of water.",
+            "Maybe [person_1] is having fun.",
+            "[person_1] looks so happy and [person_1] jumps to celebrate."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] jumps too high ?",
+        "answer": [
+            "[person_1] will cry and shout.",
+            "[person_1] will drink all of the water.",
+            "[person_1] might fall when [person_1] hits the ground.",
+            "[person_1] will fall and get hurt.",
+            "[person_1] may stop doing parkour and may have to have treatment."
+        ],
+        "reason": [
+            "Because [person_1] can't do parkour while having injured legs.",
+            "The lifting weight or skipping rope are also working out.",
+            "It was very cold and there were a lot of icebergs on the water.",
+            "[person_1] shouldn't jump too high even when [person_1] is excited.",
+            "That is the mission of the trainer."
+        ]
+    }
+}

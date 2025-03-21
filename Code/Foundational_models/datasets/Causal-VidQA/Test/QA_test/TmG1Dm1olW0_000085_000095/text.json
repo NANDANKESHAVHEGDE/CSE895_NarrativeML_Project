@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [refrigerator_1]?",
+        "answer": [
+            "[refrigerator_1] is behind [person_1].",
+            "The [refrigerator_1] is next to [person_1].",
+            "Light is above [person_1].",
+            "Pine tree in the corner.",
+            "The hair is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting here?",
+        "answer": [
+            "[person_1] is celebrating his success in stacking the dices.",
+            "[person_1] is reading a newspaper.",
+            "[person_1] is opening a present.",
+            "[person_1] is painting the [person_1] on the table.",
+            "[person_1] is instructing [person_1] about the book."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going out.",
+            "[person_1] and [person_2] discussing about the newspaper.",
+            "[person_1] and [person_2] are going to eat.",
+            "[person_1] and [person_2] are going to play hand clapping game.",
+            "[person_1] and [person_2] may feed the fish."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are eating and talking about it.",
+            "[person_1] and [person_2] seem enjoy the travel.",
+            "[person_1] and [person_2] are paying attention to the newspaper.",
+            "[person_1] and [person_2] leaned towards the ground.",
+            "[person_1] and [person_2] are paying a lot of attention to the drill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_2] and [person_1] both cannot work.",
+            "The house will be dark and [person_1] will use [person_1] for light.",
+            "[person_1] and [person_2] may stop discussing.",
+            "[person_1] and [person_2] may stop singing karaoke.",
+            "[person_2] will stop singing karaoke."
+        ],
+        "reason": [
+            "The lights are off , too.",
+            "The television will be turned off.",
+            "The microphone and the music will be off.",
+            "The music will be turned off.",
+            "The room will be dark."
+        ]
+    }
+}

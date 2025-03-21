@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cell phone_1]?",
+        "answer": [
+            "[cell phone_1] is behind the [person_1].",
+            "[person_1] is standing under a tree.",
+            "The short [person_1] wearing is blue.",
+            "[cell phone_1] is next to [person_1].",
+            "The [person_1] is wearing checked pants."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the magazine?",
+        "answer": [
+            "[person_1] wants to greet everyone.",
+            "[person_1] puts the dice into the cup to stack easier.",
+            "[person_1] holds a sledgehammer to slam at the tire hard.",
+            "[person_1] likes this action.",
+            "[person_1] wants to keep balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] is going to continue playing badminton without a net with [person_1] on the grass.",
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to lift the barbell."
+        ],
+        "reason": [
+            "[person_1] used the tape on the table.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "At the last of the video , [person_1] is slowing down , so [person_1] may not want to go on skating.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is upset."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [cell phone_2] disappeared?",
+        "answer": [
+            "The man in black hat will film [person_1].",
+            "[person_1] may wake up.",
+            "[person_1] would not stand there.",
+            "The [cell phone_2] would stop acting.",
+            "[person_1] will have someone fix it for him."
+        ],
+        "reason": [
+            "[person_1] is doing another work.",
+            "The man in black hat is holding the camera . And [person_1] eats more slowly than him , so when he finishes the donut , he will film [person_1] eating donut.",
+            "Dogs bark when they are frightened.",
+            "Another people stands next to the man in yellow and they are partners.",
+            "[person_1] is very close to the bookshelf , and the bookshelf has a lot of stuff and is very heavy."
+        ]
+    }
+}

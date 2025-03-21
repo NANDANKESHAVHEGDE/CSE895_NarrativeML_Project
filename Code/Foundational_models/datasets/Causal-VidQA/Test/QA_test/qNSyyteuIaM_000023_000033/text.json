@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are the shoes of the [person_1]?",
+        "answer": [
+            "It's pink.",
+            "It is black.",
+            "The shoes of the [person_1] are white.",
+            "[person_1] and [person_1] are above the sink.",
+            "They are black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] hold a cloth?",
+        "answer": [
+            "Because [person_1] is playing maracas.",
+            "[person_1] he is shaving [person_1].",
+            "Because [person_1] tries to eat it.",
+            "Because the [person_1] cleaned the [dining table_1].",
+            "Maybe [person_1] wants to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to stop cleaning the [dining table_1].",
+            "The [person_1] may take another snowball to throw toward the [dining table_1].",
+            "The [person_1] may go around and look for the shot put ball.",
+            "The [person_1] may keep pressing the buttons at the same time.",
+            "[person_1] will stretch the body."
+        ],
+        "reason": [
+            "The [person_1] has just put the cloth and the bottle in the basket on the ground.",
+            "The [person_1] is taking the white pillow on the [person_1].",
+            "The [person_1] is still holding the tether and following the dog.",
+            "The [person_1] looks in front and goes forward after pushing the ball away.",
+            "The [person_1] is holding it and going to let go of the hat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the basket of the [person_1] were holed?",
+        "answer": [
+            "It is possible that [person_1] will feel scared.",
+            "[person_1] will feel confused.",
+            "[person_1] will continue to ride.",
+            "[person_1] will stop spinning ropes.",
+            "The bottle might drop when the [person_1] lifts the basket."
+        ],
+        "reason": [
+            "[person_1] , [person_1] and [person_1] want to perform for audience.",
+            "If [person_1] breaks , it is useless.",
+            "[person_1] needs electricity to broadcast the news on the screen.",
+            "The [person_1] put the bottle in the basket.",
+            "The [person_1] is putting the agricultural products in the bucket."
+        ]
+    }
+}

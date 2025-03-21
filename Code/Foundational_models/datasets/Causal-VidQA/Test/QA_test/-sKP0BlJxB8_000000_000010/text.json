@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "It is beautiful.",
+            "There are two persons.",
+            "The room is quite small.",
+            "It is nicely decorated.",
+            "Three."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] sitting in the cart?",
+        "answer": [
+            "It is a part of his outfit.",
+            "[person_3] turns his back on the basket and throws the ball backward.",
+            "He is a baby.",
+            "Because she is given by [person_3].",
+            "They are put on the table given that someone is thirsty but does not want to leave the seat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to spread the whipped cream over the [person_1] until it is done perfectly.",
+            "[person_1] may go to the toilet.",
+            "[person_1] is going to skateboard.",
+            "[person_1] will turn around and jump from this side to the other side of the jumping course.",
+            "[person_1] may climb the tree."
+        ],
+        "reason": [
+            "[person_1] eats too much.",
+            "At the last of the video , [person_1] is slowing down , so [person_1] may not want to go on skating.",
+            "[person_1] has drunk too much water.",
+            "[person_1] uses her hands to squeeze and pulls the sausage slowly and gently.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] starts to cry?",
+        "answer": [
+            "[person_3] will stop playing.",
+            "[person_2] will take him out.",
+            "[person_3] will continue to practice.",
+            "[person_2] will take him in.",
+            "[person_3] will continue not jumping."
+        ],
+        "reason": [
+            "They can't disturb [person_3].",
+            "[person_3] will jump stride then.",
+            "They can't disturb others.",
+            "Because it's hard to save money.",
+            "They can disturb others."
+        ]
+    }
+}

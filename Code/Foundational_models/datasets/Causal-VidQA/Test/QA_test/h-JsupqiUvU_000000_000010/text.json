@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is in front of the garage.",
+            "[car_1] is parked on the runway behind [car_1].",
+            "[car_1] is in front of the house.",
+            "[car_1] is in a garage.",
+            "[car_1] is in front of table which is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] ride the unicycle?",
+        "answer": [
+            "[person_1] rides it quite amateurishly.",
+            "[person_1] is teaching [person_1] how to tie a knot.",
+            "[person_1] wants to try riding the mechanical bull.",
+            "[person_1] is exhibiting the picture to the public.",
+            "[person_1] shows that point is where to break through."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is talking about his opinion.",
+            "[person_1] is going to try again.",
+            "[person_1] will get the job done."
+        ],
+        "reason": [
+            "[person_1] is very interested in what he says.",
+            "To make it look more fresh.",
+            "[person_1] has finished the body color.",
+            "[person_1] has brought the unicycle back.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] broke his arm?",
+        "answer": [
+            "Possibly the following one will do it.",
+            "[person_1] would look out the window of [person_1].",
+            "[person_1] would get hurt on her head if she fell from the bike.",
+            "[person_1] would be disqualified from the game.",
+            "[person_1] might never want to try to ride a unicycle again."
+        ],
+        "reason": [
+            "[person_1] threw the discus very strongly.",
+            "[person_1] is not satisfied with the performance.",
+            "[person_1] would tell her that he was uncomfortable.",
+            "[person_1] is the coach and the leader of this group.",
+            "[person_1] would have a very forgettable memory with the unicycle."
+        ]
+    }
+}

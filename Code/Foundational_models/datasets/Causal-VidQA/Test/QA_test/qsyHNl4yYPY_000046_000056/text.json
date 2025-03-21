@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite dark.",
+            "The room is bright.",
+            "It is dark with the spot light on the stage only.",
+            "It is well - decorated.",
+            "There are two vases."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] and [person_2] is stacking cups.",
+            "[person_2] is playing basketball.",
+            "Because [person_2] is practicing for the next performance of her.",
+            "[person_2] is sitting on [person_2] to use the computer in front of him.",
+            "[person_2] is sitting with his friend and smoking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to eat potato chips.",
+            "[person_1] is going to keep smoking.",
+            "[person_1] is going to continue securing the paper to the box."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1] uses her hands to squeeze and pulls the sausage slowly and gently.",
+            "It is the time for [person_1] to make [person_1] move the usual route.",
+            "Because [person_1] is looking at the mirror where his posture is reflected."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] may not keep sitting.",
+            "[person_1] may not keep jumping.",
+            "[person_1] may keep sitting.",
+            "[person_1] can not see anything.",
+            "The room will be so dark then."
+        ],
+        "reason": [
+            "The light will be off.",
+            "The machine will be stopped working.",
+            "The light will be on.",
+            "[person_1] will stop jumping.",
+            "The room very dark."
+        ]
+    }
+}

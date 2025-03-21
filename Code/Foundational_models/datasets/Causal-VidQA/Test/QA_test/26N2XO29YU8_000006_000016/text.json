@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] , [person_2]?",
+        "answer": [
+            "[person_1] is on the right of [person_2].",
+            "[person_1] , [person_2] , [person_1] and [person_2] are at music festival.",
+            "The [person_1] is on the hand of [person_1].",
+            "[person_1] , [person_2] and [person_1] are in the big room.",
+            "[person_1] , [person_2] are sitting at the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing glasses?",
+        "answer": [
+            "That is the concert of [person_1].",
+            "[person_1] needs glasses to read newspaper.",
+            "[person_1] is trying to play lute.",
+            "[person_1] is taking part in a game.",
+            "The people want to watch [person_1] doing tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to sit closer to [person_1].",
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] going to guide [person_1] how to clean floor.",
+            "[person_2] is going to taste wine.",
+            "[person_2] may continue to play with [person_1] and [person_2]."
+        ],
+        "reason": [
+            "[person_2] has the uncomfortable facial expression of tasting it.",
+            "After doing the pancake throwing challenge for the person behind , he needs to turn around and see the result.",
+            "[person_2] puts the [person_2] in her mouth to eat.",
+            "[person_2] wants to read the newspaper but it is quite far to see clearly.",
+            "[person_2] opens his mouth to eat the donut."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't wear glasses?",
+        "answer": [
+            "Not everyone would hear what [person_1] is playing.",
+            "[person_1] would feel uncomfortable.",
+            "[person_1] will faint.",
+            "Then everyone doesn't know how to do this handicraft.",
+            "[person_1] would not read newspaper."
+        ],
+        "reason": [
+            "There would be nothing to protect [person_1]'s eyes.",
+            "The sun will shine into the room.",
+            "[person_1] would be hurt.",
+            "[person_1] is too old to read newspaper without glasses.",
+            "She had to pay attention to her bike and found where the problem was."
+        ]
+    }
+}

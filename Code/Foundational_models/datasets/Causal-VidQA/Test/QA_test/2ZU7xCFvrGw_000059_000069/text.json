@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[person_1] is under [person_1].",
+            "[book_1] is behind [person_1].",
+            "[book_1] is in front of [person_1] . [person_1] is holding [book_1] in hand.",
+            "[book_1] is on the left of [person_1]?",
+            "[book_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the couches?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] does that to get ready to hit the birdie back.",
+            "[person_1] is reading a book.",
+            "[person_1] is performing for the girl.",
+            "Maybe [person_1] is participating in a competition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to return and check the [person_1].",
+            "[person_1] will close the door.",
+            "To borrow the bubble machine from [person_1].",
+            "[person_1] is going to feed the [person_1].",
+            "[person_1] is going to open the book."
+        ],
+        "reason": [
+            "[person_1] will do a show after she said all words.",
+            "[person_1] is going to take a ride on the bicycle.",
+            "[person_1] has not finished shaking his arms up and down.",
+            "The hamburger is not over yet.",
+            "[person_1] scratched head and read aloud."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sits too long on the sofa?",
+        "answer": [
+            "[person_1] will be tired.",
+            "[person_1] will continue to play.",
+            "[person_1] will record the song again.",
+            "[person_1] would be famous.",
+            "[person_1] won't float away."
+        ],
+        "reason": [
+            "The man on the canoe is helping [person_1].",
+            "[person_1] needs to rest and catch his breath.",
+            "Maybe [person_1] has been reading for a while and looks sleepy.",
+            "[person_1] can't hula hooping without using abdomen.",
+            "[person_1] would stop to regain his bearings and to remember how to play the song correctly."
+        ]
+    }
+}

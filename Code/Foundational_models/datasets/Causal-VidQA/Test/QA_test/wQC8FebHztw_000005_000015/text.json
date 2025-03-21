@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall?",
+        "answer": [
+            "The house opposite is yellow.",
+            "The wall is yellow.",
+            "The wall is orange.",
+            "It's red.",
+            "It is in the corner."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] kicking?",
+        "answer": [
+            "[person_1] is confident when [person_1] plays the harmonica.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is holding flute and playing it.",
+            "[person_1] is training martial arts.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What martial art is [person_1] practicing?",
+        "answer": [
+            "[person_1] maybe is training mixed martial arts.",
+            "The [person_1] will chat with others.",
+            "[person_1] will keep on dancing.",
+            "[person_1] will continue to jump rope.",
+            "[person_1] would like to find more gifts from the tree."
+        ],
+        "reason": [
+            "[person_1] is holding a balloon.",
+            "Looks like [person_1] really likes the sari she is trying on.",
+            "Maybe [person_1] is tired.",
+            "[person_1] is doing side kick , and many martial arts have that technique.",
+            "Because [person_1] will sweep the floor clean."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] kicks one more?",
+        "answer": [
+            "[person_1] and [person_2] will return to the first position.",
+            "[person_1] won't get hurt.",
+            "The [person_2] would fall.",
+            "[person_2] and [person_1] would be extremely sad about it.",
+            "[person_2] would stop moving forward."
+        ],
+        "reason": [
+            "[person_2] will run out of space to step backwards.",
+            "[person_1] is standing in front of [person_2].",
+            "Caring for the teammates is our nature.",
+            "[person_1] stopped dancing when seeing [person_1] walking by.",
+            "Because the beverage would spill out of [person_2]."
+        ]
+    }
+}

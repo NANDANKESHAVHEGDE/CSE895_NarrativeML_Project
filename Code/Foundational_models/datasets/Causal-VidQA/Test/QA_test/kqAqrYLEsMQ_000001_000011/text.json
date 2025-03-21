@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is near the tree.",
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "[chair_1] is sitting on it.",
+            "[chair_1] is in the corner of the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is excited about holding her gift.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is excited about her book.",
+            "[person_1] is working out in the gym.",
+            "[person_1] is playing chess with many people in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to jump over a chair.",
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "Lowering the lifts is one of the movements of the exercise , but the lifts are raised now.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] eats too much.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "Maybe [person_1] will continue working out.",
+            "The TV will be off.",
+            "Maybe [person_1] will stop working out.",
+            "Maybe [person_1] will go to another place to play.",
+            "Maybe [person_1] will stop resting."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "It will be too dark to see much.",
+            "The room will be bright.",
+            "The television will be turned off.",
+            "The room will be bigger."
+        ]
+    }
+}

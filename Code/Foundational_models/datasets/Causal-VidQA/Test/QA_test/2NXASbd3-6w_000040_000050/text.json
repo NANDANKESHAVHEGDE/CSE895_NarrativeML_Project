@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks quite old.",
+            "[person_1] has a long hair.",
+            "[person_1] is tall and thin.",
+            "[person_1] looks about 70 years old .",
+            "[person_1] looks so pretty in her dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holing a wheel on his hand?",
+        "answer": [
+            "[person_1] is playing with cups for fun.",
+            "Because [person_1] finds stomping very interesting.",
+            "[person_1] is trying to play.",
+            "It looks fancy and attractive.",
+            "Perhaps [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is jumping on [car_1].",
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "[person_1] is going to hit the ball.",
+            "[person_1] is going to drink water.",
+            "[person_1] will throw the dumbbell up."
+        ],
+        "reason": [
+            "[person_1] is holding the flute and is about to play.",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "[person_1] is going to smash [car_1].",
+            "[person_1] opens the [person_1] to put the [person_1] in.",
+            "Because [person_1] steps aside it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were slipped ?",
+        "answer": [
+            "[person_1] could not be cut.",
+            "Water would fall into the floor.",
+            "[person_1] would be surprised.",
+            "The dirt on the floor will remain.",
+            "[person_1] would be hurt."
+        ],
+        "reason": [
+            "Because [person_1] is still holding the vacuum and does not use this vacuum.",
+            "To relieve [person_1]'s sore.",
+            "[person_1] would be fell into the ground.",
+            "Because [person_1] needs the baseball.",
+            "Because [person_1] is folding the clothes on the [person_1]."
+        ]
+    }
+}

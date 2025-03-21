@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[person_1] is opening a present.",
+            "[cup_1] is in front of [person_1].",
+            "It is white.",
+            "[person_1] is fighting with his enemy.",
+            "[person_1] is standing next to a snowman."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] laughing so happily?",
+        "answer": [
+            "[person_1] is enjoying this game.",
+            "[person_1] feels hurt on his shoulder.",
+            "Because [person_1] is taking care of flowers",
+            "[person_1] is trying to make orange juice by a squeezer.",
+            "cleaning the shoe with shoe polish is cleaner than cleaning with hands."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will continue to play the game with [person_1].",
+            "[person_2] will continue playing checkers.",
+            "[person_2] is highly likely to shoot marbles.",
+            "[person_2] is highly likely to continue to hug [person_1].",
+            "[person_2] will keep dancing until he finishes it."
+        ],
+        "reason": [
+            "To teach [person_1] how to do the exercise correctly.",
+            "Because [person_1] enjoys the game very much.",
+            "Because [person_2] seems to be [person_1]'s trainer.",
+            "Because [person_2] wants to do well.",
+            "Maybe [person_2] is happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] fails in the game?",
+        "answer": [
+            "The man in the back will feel happy.",
+            "[person_2] would fall down on the floor.",
+            "[person_2] would blame him for that.",
+            "[person_2] will insist on doing it again.",
+            "[person_2] may be in danger."
+        ],
+        "reason": [
+            "More people make the game funnier.",
+            "Because [person_2] is unsatisfied with [person_2].",
+            "[person_2] is doing a difficult exercise.",
+            "[person_2] really wants to win.",
+            "[person_2] doesn't want to play with [person_2]."
+        ]
+    }
+}

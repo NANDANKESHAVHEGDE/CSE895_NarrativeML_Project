@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is giving massage to her customer.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] is working out at a gym.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is playing the harp."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] give the massage?",
+        "answer": [
+            "It's more interesting.",
+            "They are about to play a game.",
+            "It's convenient.",
+            "Because it is sunny and so bright on the road.",
+            "[person_1] gives the massage when washing customer's hair."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the massage?",
+        "answer": [
+            "[person_1] will join the dance.",
+            "[person_1] will wash the shampoo away from customer's head.",
+            "[person_1] will sit on the ground.",
+            "[person_1] will give some money to him.",
+            "[person_1] will go uphill."
+        ],
+        "reason": [
+            "Because he may hurt [person_1]'s owner.",
+            "[person_1] has to clean customer's hair and dry it.",
+            "Because they have just grouped , this is the game time.",
+            "Because after the discussion , they all went to their respective positions , indicating that the game is about to begin.",
+            "To help protect [person_1]'s feet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't wash the shampoo away?",
+        "answer": [
+            "Her customer would not feel uncomfortable.",
+            "It is probable that [person_1] would put the weights on the shelf and have a break.",
+            "Her customer would feel comfortable.",
+            "Cut hair might get into her eyes.",
+            "Her customer would feel uncomfortable."
+        ],
+        "reason": [
+            "[person_1] is shaking hands and all the people are watching ahead.",
+            "The shampoo left in hair makes her uncomfortable.",
+            "The oven needs to be plugged in to work.",
+            "The shampoo left in hair makes her comfortable.",
+            "People get ill when they are wet for long time."
+        ]
+    }
+}

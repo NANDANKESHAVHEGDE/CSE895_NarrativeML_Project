@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the hat [person_3] wearing?",
+        "answer": [
+            "It is black.",
+            "The sweater is white.",
+            "[person_3] is on the left side of [person_3].",
+            "[person_3] is behind the [person_3] and [person_3].",
+            "[person_3] is on the right side [person_3]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] , [person_3] in a stable?",
+        "answer": [
+            "Because [person_2] is roller skating.",
+            "Because shoes helps [person_1] keeps his feet clean.",
+            "Maybe [person_3] is instructing [person_1] and [person_2] how to shear sheep.",
+            "Because [person_1] kneels on one knee suddenly.",
+            "The lamp used for lighting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue to build bricks by row.",
+            "[person_2] is going to take care of the child.",
+            "[person_2] is going to try to shear sheep.",
+            "[person_2] may continue to play with [person_2] and [person_2].",
+            "[person_2] may show us the broken boards."
+        ],
+        "reason": [
+            "[person_2] is watching and waiting for [person_1].",
+            "It looks like [person_2] is better at throwing cards.",
+            "[person_2] is afraid of losing his bike so he is going to run after [person_1].",
+            "[person_2] puts the hamburger in his mouth.",
+            "[person_1] is holding a sake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] were not there?",
+        "answer": [
+            "[person_2] , [person_3] and [person_2] will difficult to shuck an oysters.",
+            "[person_1] will need a bath.",
+            "[person_1] will be full of stomach.",
+            "[person_1] and [person_2] would hurt the sheep while shearing.",
+            "Parents off [person_1] will buy more for him."
+        ],
+        "reason": [
+            "Or [person_1] may not be able to continue to finish his work.",
+            "[person_1] ate all eight burgers on the [person_3].",
+            "[person_1] and [person_2] would not know the right way to shear sheep without instruction.",
+            "[person_1] , [person_2] are just kids who love blowing out candles.",
+            "Because [person_2] was there to see [person_1] dancing."
+        ]
+    }
+}

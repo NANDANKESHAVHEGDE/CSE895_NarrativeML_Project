@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there an adult in the video?",
+        "answer": [
+            "It is small.",
+            "It is quite small.",
+            "No.",
+            "The room has many objects.",
+            "It is large."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sleep in the bassinet?",
+        "answer": [
+            "[person_1] is too young to walk alone without any help.",
+            "[person_1] is recording his hands so he can teach people how to play the song he's playing.",
+            "The glass piece is sharp . It can deal with the foil.",
+            "[person_1] needs it to increase the volume.",
+            "[person_1] wears a cap to avoid the dazzling light from the sun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "[person_1] will speed up happily.",
+            "[person_1] will begin to ride [person_1].",
+            "[person_1] is going to water the plant.",
+            "[person_1] will put down the inhaler quietly.",
+            "[person_1] will sing."
+        ],
+        "reason": [
+            "[person_1] will continue typing because [person_1] is creating a melody for [person_1] to sing.",
+            "[person_1] may feel dizzy after nodding head for many times.",
+            "[person_1] feels it boring to play with the inhaler.",
+            "[person_1] seems to be happy and pays his attention on the song.",
+            "It seems that [person_1] feels tired and does not want to continue."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s mom gives him milk?",
+        "answer": [
+            "Maybe someone will be hurt and it could be [person_1] , [person_1] and so on.",
+            "[person_1] and [person_1] would strongly ask him to do so.",
+            "[person_1] will get wet.",
+            "[person_1] will hug the dog.",
+            "[person_1] will receive the milk."
+        ],
+        "reason": [
+            "The child would have no one to play with.",
+            "Milk is attractive for [person_1].",
+            "[person_1]'s mom can comfort and calm [person_1] down so [person_1] will feel better and stop crying.",
+            "Because [person_1] needs water to keep pushing up.",
+            "[person_1] needs this special green cup to do the trick."
+        ]
+    }
+}

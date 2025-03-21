@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "[person_1] is kicking a ball.",
+            "[person_1] is in the large room.",
+            "The weather is sunny.",
+            "It is cool.",
+            "[person_1] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] and [person_1] for fun.",
+            "[person_1] is here to tag the graffiti.",
+            "[person_1] is playing kickball with friends.",
+            "[person_1] is talking about how to tie a bow.",
+            "[person_1] is practicing baseball in the stadium."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1]'ll pull the bike out of the snow.",
+            "[person_1] may have a rest.",
+            "[person_1]'ll count the money.",
+            "[person_1] may continue to do the next set of exercises.",
+            "It is predicted that [person_1] will go on playing with the balls."
+        ],
+        "reason": [
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] is still a little kid and impatient.",
+            "[person_1] is concentrating on making the basket deftly.",
+            "[person_1] is trying to challenge himself to play this game.",
+            "[person_1] will continue to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is weary?",
+        "answer": [
+            "[person_1] will drink some water.",
+            "Maybe [person_1] will stop spending time playing baseball.",
+            "Two guys under [person_1] might fall in the sea.",
+            "Maybe [person_1] will finish playing with cups.",
+            "Maybe [person_1] will stop spreading the liquid temporarily."
+        ],
+        "reason": [
+            "The wind is very strong.",
+            "There are bottles on the table.",
+            "[person_1] will have a break.",
+            "[person_1] will find food to eat.",
+            "There is no protection."
+        ]
+    }
+}

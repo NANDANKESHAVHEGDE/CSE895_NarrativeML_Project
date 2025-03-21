@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are under the trees.",
+            "[person_1] and [person_2] are sitting on the stairs.",
+            "[person_1] and [person_2] are in a log cabin.",
+            "[person_1] and [person_2] are in his office.",
+            "They are in roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting there?",
+        "answer": [
+            "[person_1] and [person_2] are performing the didgeridoo.",
+            "[person_1] and [person_2] are talking to each other.",
+            "[person_1] and [person_2] are waving to each other.",
+            "[person_1] turns the tablecloth over to be able to tap the pen on the table.",
+            "[person_1] is here to play the cymbals and drums made of an empty bucket."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] intends to attract viewers.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] will get more cards",
+            "Maybe [person_1] is going to move quicker."
+        ],
+        "reason": [
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] is clapping and dances to get everyone's attention.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] is paying attention to other things."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there are many viewers?",
+        "answer": [
+            "[person_1] will put [person_2] down.",
+            "[person_1] and [person_2] will get drunk.",
+            "[person_1] and [person_2] will be cheerful.",
+            "[person_1] and [person_2] would sleep together.",
+            "[person_1] will back to practice later."
+        ],
+        "reason": [
+            "[person_1] and [person_2] look pretty much the same.",
+            "Maybe the picture will be very bad.",
+            "[person_1] and [person_2] will earn more money.",
+            "The birds will go to [person_1] to get food from him.",
+            "Anyone will laugh if they feel happy."
+        ]
+    }
+}

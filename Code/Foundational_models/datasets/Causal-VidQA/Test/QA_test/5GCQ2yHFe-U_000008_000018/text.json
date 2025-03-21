@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is outdoors.",
+            "[person_1] is in the study room.",
+            "[person_1] is in the martial arts studio."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the target pads?",
+        "answer": [
+            "Because [person_1] uses it to play marbles.",
+            "[person_2] is helping [person_1] riding the skateboard.",
+            "They want to have fun with each other",
+            "[person_1] is performing circus.",
+            "[person_1] is helping [person_2] train."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will keep holding the kicking board.",
+            "[person_1] will continue stomping the grapes.",
+            "[person_1] will flip the bottle in his hand.",
+            "[person_1] will walk back and forth.",
+            "It is probable that [person_1] will continue driving [person_1] around."
+        ],
+        "reason": [
+            "[person_1] is training [person_2].",
+            "[person_1] is going to restore this place.",
+            "To join [person_2].",
+            "Dance moves make the performance more special.",
+            "[person_1] doesn't want to use the key to unlock the lock."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] kicked the wrong technique?",
+        "answer": [
+            "The game would soon become boring and everyone would leave.",
+            "[person_2] will fall from [person_1] but [person_1] will catch [person_2].",
+            "[person_1] and [person_2] will ask that person to leave.",
+            "[person_1] would ask [person_2] to kick again.",
+            "[person_1] will call other workers."
+        ],
+        "reason": [
+            "To buy a new ring.",
+            "[person_2] is the student , and she is training.",
+            "Pianos play important role in a regular band.",
+            "Eight dice may make a taller column , but the cup which [person_2] is using is not tall enough.",
+            "To save [person_2] in time."
+        ]
+    }
+}

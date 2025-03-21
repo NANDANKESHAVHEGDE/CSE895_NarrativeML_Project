@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tv_1]?",
+        "answer": [
+            "[tv_1] is on the cabinet.",
+            "The color of [tv_1] is green.",
+            "The balls are red and blue.",
+            "[tv_1] is near the column.",
+            "[tv_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] looks very happy while playing didgeridoo.",
+            "Because [person_1] is training.",
+            "[person_1] is excited about holding these cups.",
+            "Maybe [person_1] is playing laser tag.",
+            "Because [person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use the gun toy to shoot lasers at the target in front.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to do many air tricks.",
+            "[person_1] may take off the clip.",
+            "[person_1] may take a phone with the dancer."
+        ],
+        "reason": [
+            "[person_1] keeps talking about blackjack.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is preparing paper to spray paint.",
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1]'s arms are still extended."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] will finish her performance.",
+            "It is possible that [person_1] will not continue playing laser tag.",
+            "[person_1] may stop singing karaoke.",
+            "[person_1] will continue to dance.",
+            "[person_1] will stop dancing."
+        ],
+        "reason": [
+            "The music will be turned off.",
+            "It will be too dark to see much.",
+            "The internet will be off , too.",
+            "The room will be dark.",
+            "[tv_1] will be turned off."
+        ]
+    }
+}

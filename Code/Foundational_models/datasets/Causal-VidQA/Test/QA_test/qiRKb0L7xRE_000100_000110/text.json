@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It's [person_2].",
+            "It is white.",
+            "The shoes are pink.",
+            "It is gray.",
+            "[person_2] is \u00a0 wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] use the big wheelbarrow?",
+        "answer": [
+            "He want to play better.",
+            "Wine bottle stoppers are very tight.",
+            "Because [person_2] wants to bring concrete.",
+            "He wants to ride better.",
+            "He wants to play better."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will learn to [person_2].",
+            "[person_2] will practice riding a bike.",
+            "[person_2] will keep holding [person_2].",
+            "[person_2] will bring more concrete.",
+            "[person_2] will play the steer roping."
+        ],
+        "reason": [
+            "They look alike and they give embrace comfortably.",
+            "[person_2] seems to be interested in it.",
+            "[person_2] is shaking her head.",
+            "[person_2] is tired.",
+            "There are many places lacking concrete."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not there?",
+        "answer": [
+            "[person_1] may not talk anything.",
+            "The road will be paved with concrete for a long time.",
+            "[person_1] will drive [person_1].",
+            "[person_1] might shout at him.",
+            "[person_1] might not dance for long."
+        ],
+        "reason": [
+            "Because [person_2] will have to work alone.",
+            "[person_1] hit the target.",
+            "[person_1] would not have anyone to play with.",
+            "[person_1] could not join his team.",
+            "Kelly won't understand what [person_2] and [person_2] are saying."
+        ]
+    }
+}

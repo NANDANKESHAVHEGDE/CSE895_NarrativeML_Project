@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is in front of the window.",
+            "[person_2] is next to [chair_1].",
+            "It is next to the wall.",
+            "[chair_1] is behind [person_2].",
+            "[chair_1] is in the corner of the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_2] sit between [person_1] and [person_3]?",
+        "answer": [
+            "Maybe [person_1] and [person_2] are taking a photo.",
+            "[person_1] and [person_1] are judges of a tai chi contest.",
+            "[person_2] , [person_1] and [person_3] are performing together.",
+            "It seems that the [person_1] wants to pick something in the [person_2].",
+            "Because the [person_1] is looking for something in the [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] , [person_1] and [person_3] do next?",
+        "answer": [
+            "[person_2] , [person_1] and [person_3] will continue performing.",
+            "[person_1] , [person_2] and [person_3] may dance for a while.",
+            "[person_1] and [person_2] will end the conversation.",
+            "[person_1] and [person_2] will continue watching the cheer - leading team.",
+            "[person_2] and [person_3] will stop shouting at each other."
+        ],
+        "reason": [
+            "[person_1] is turning to [person_2].",
+            "[person_2] , [person_1] and [person_3] are not likely to stop performing.",
+            "Each person plays a different musical instrument.",
+            "[person_1] and [person_2] got closer to the camera and pause it.",
+            "[person_3] will continue to jumping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not there?",
+        "answer": [
+            "[person_1] and [person_3] could not perform.",
+            "[person_1] cannot do the presentation.",
+            "[person_1] may have to start from the starting line.",
+            "[person_2] will not dance.",
+            "[person_1] would fall and get hurt while swinging."
+        ],
+        "reason": [
+            "[person_1] and [person_3] need the appearance of [person_2].",
+            "There is no one to film the presentation of [person_1].",
+            "It is too dangerous for them to play alone.",
+            "Because [person_1] moved to get close to [person_2].",
+            "The force of collision between [person_1] and [person_2] is very strong . So they would get serious injury on their head is they did not wear helmets."
+        ]
+    }
+}

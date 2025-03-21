@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding drumsticks?",
+        "answer": [
+            "[person_1] is shredding the paper.",
+            "[person_1] wants to show people how to run properly.",
+            "[person_1] is playing drums.",
+            "[person_1] does squats.",
+            "[person_1] is shaving and trimming his beard."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to finish decorating the left ledge.",
+            "[person_1] is going to keep playing the drums.",
+            "[person_1] will probably keep walking.",
+            "[person_1] is going to get the decorations on the table and continue to decorate the Christmas tree.",
+            "[person_1] is going to keep doing hula hooping."
+        ],
+        "reason": [
+            "[person_1] still uses drumsticks to bang on the face of drums.",
+            "[person_1] is pointing at her cheeks to make fun.",
+            "It seems that [person_1] enjoys it a lot.",
+            "It seems that [person_1] has not finished the work.",
+            "It seems that [person_1] does not finish the work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "[person_1] might be in danger.",
+            "[person_1] would not be able to cycle anymore.",
+            "[person_1] would not play anything any instruments in the room.",
+            "[person_1] would do all the tasks.",
+            "[person_1] would not be able to play drums."
+        ],
+        "reason": [
+            "There would only [person_1] there to guide [person_1].",
+            "[person_1] would not sit next to the drums to play.",
+            "[person_1] can't eat the banana with its skin.",
+            "The paper airplane does not work anymore so [person_1] needs to fold again.",
+            "Because [person_1] holds the other person's arm tightly for a long time , which makes the other person hurt."
+        ]
+    }
+}

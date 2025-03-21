@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is holding a newspaper.",
+            "[person_1] is holding the harmonica.",
+            "[person_1] is stacking the dice on the table.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is standing near [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have [toothbrush_1] in his hands?",
+        "answer": [
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "Maybe [person_1] does it for fun.",
+            "Maybe [person_1] is introducing the plate.",
+            "It will be easier for [person_1] to tie the knot.",
+            "Because [person_1] wants to play the keyboard."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably invite [person_2] going out.",
+            "Perhaps [person_1] will continue to fold the napkin.",
+            "[person_1] will continue playing basketball.",
+            "[person_1] will be keep playing the harmonica.",
+            "[person_1] will practice typing the pen on the table."
+        ],
+        "reason": [
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] is going to turn the iron that poked the lock.",
+            "[person_1] will continue to play.",
+            "[person_1] has already put her arm on the right one.",
+            "Because [person_1] is bored after a long time playing the piano."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] just practices for a short time?",
+        "answer": [
+            "[person_1] would steal the [person_1] from [person_1].",
+            "[person_1] will turn off [person_1] .",
+            "[person_1] may be confined in the room.",
+            "His parents will angry with him.",
+            "[person_1] may not hide under the blanket."
+        ],
+        "reason": [
+            "Students should go away after class.",
+            "[person_1] would feel uncomfortable from the burning , making him curious about where the cut is on his hand.",
+            "Because his parents hope him try his best.",
+            "When the class is over , we will turn off the computer.",
+            "It's a home - run."
+        ]
+    }
+}

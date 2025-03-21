@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] ?",
+        "answer": [
+            "[chair_1] is behind the boy.",
+            "It is on the right hand of [chair_1].",
+            "[chair_1] is next to the wall.",
+            "[chair_1] is near the woman.",
+            "It is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room ?",
+        "answer": [
+            "[person_1] is reading the newspaper.",
+            "Maybe [person_1] is in the class.",
+            "Because [person_1] is practicing with the weights in the room.",
+            "[person_1] is sitting on the chair.",
+            "Because [person_1] is doing stretching exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1]'ll give the money to his wife.",
+            "[person_1]'ll continue making pottery.",
+            "[person_1] fell down and his knees were on the ground.",
+            "[person_1] might climb onto a branch.",
+            "[person_1] will play."
+        ],
+        "reason": [
+            "Someone is playing with [person_1].",
+            "To make other places clean.",
+            "[person_1] is pushing the wheelbarrow to the middle of the yard.",
+            "[person_1] will feel tired.",
+            "To challenge a more difficult position."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone doesn't rip paper?",
+        "answer": [
+            "[person_1] will stop laughing.",
+            "[person_1] would be injure.",
+            "[person_1] won't see a doctor for treatment.",
+            "[person_1] would get injured.",
+            "[person_1] will get hurt."
+        ],
+        "reason": [
+            "Maybe that's the goal [person_1].",
+            "Grass is the main food of the cows.",
+            "[person_1] is tall , big and heavy.",
+            "Maybe [person_1] will stand up then.",
+            "[person_1] will cry."
+        ]
+    }
+}

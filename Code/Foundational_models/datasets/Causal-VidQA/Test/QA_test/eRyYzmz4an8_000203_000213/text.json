@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] a young girl?",
+        "answer": [
+            "The [person_1] is behind [person_1].",
+            "It is circle.",
+            "There is a wall cabinet.",
+            "[person_1] is blue.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] close his mouth?",
+        "answer": [
+            "[person_1] stood up to arrange things.",
+            "[person_1] thinks it is amazing.",
+            "[person_1] doesn't have a car.",
+            "It's too shinny outside.",
+            "[person_1] needs to hold the breath."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "[person_1] will put down the inhaler slowly.",
+            "[person_1] will store away the inhaler.",
+            "[person_1] will wait for several seconds.",
+            "[person_1] will sit down and rest.",
+            "[person_1] will stop eating."
+        ],
+        "reason": [
+            "[person_1] enjoys the food very much.",
+            "To see how they do the head stand.",
+            "[person_1] has taken in the medicine.",
+            "Because appropriate parameter is the key to baking.",
+            " [person_1] enjoys the sea."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is choked?",
+        "answer": [
+            "[person_1] won't cough.",
+            "[person_1] will be known by many people.",
+            "[person_1] will die.",
+            "[person_1] may step on [person_1].",
+            "[person_1] will cough."
+        ],
+        "reason": [
+            "People will cough before being choked.",
+            "To relax.",
+            "People won't cough after being choked.",
+            "To protect [person_1].",
+            "People will cough after being choked."
+        ]
+    }
+}

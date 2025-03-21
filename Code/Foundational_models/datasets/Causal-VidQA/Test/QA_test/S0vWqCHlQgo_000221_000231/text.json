@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on the left of [cup_1].",
+            "[cup_1] is in the corner of the yard.",
+            "[cup_1] is on the [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the table?",
+        "answer": [
+            "[person_1] is a model for the exercise.",
+            "[person_1] is teaching [person_1] how to squeeze the hand muscles.",
+            "[person_1] is weaving fabric.",
+            "Because [person_1] is watering the plants and saying something.",
+            "[person_1] is playing music with the bass guitar that [person_1] is holding."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may give the drink to the customer.",
+            "[person_1] may ask [person_1] for some money.",
+            "[person_1] is going to sell the orange juice.",
+            "[person_1] is highly likely to give instructions on how to take care of the tree.",
+            "[person_1] is going to blow more air into the balloon."
+        ],
+        "reason": [
+            "[person_1] finishes washing.",
+            "[person_1] is holding the flute and is about to play.",
+            "Maybe [person_1] has woven a lot.",
+            "[person_1]'s hands are up close to the glasses.",
+            "Maybe [person_1] is giving instructions on how to take care of the tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if [person_1] doesn't water the plants?",
+        "answer": [
+            "It is probable that the tree will die.",
+            "[person_1] will fall off the ground without the poles.",
+            "Maybe the dice inside the cup would be slided outside the cup.",
+            "[person_1]'s hands will bleed.",
+            "[person_1] will try to fix it and make it all right."
+        ],
+        "reason": [
+            "Because it's [person_1]'s birthday.",
+            "Plants can't live without water.",
+            "There is still a lot of land to plant.",
+            "The dice are easy to slide outside the cup if someone doesn't know how to swing and stack.",
+            "Because it will be more convenient to eat sushi in small pieces."
+        ]
+    }
+}

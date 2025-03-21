@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his sawmill.",
+            "[person_1] is in his office,",
+            "[person_1] is at a grocery store.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the phone?",
+        "answer": [
+            "Because [person_1] is playing the toy organ.",
+            "Maybe [person_1] is listening to music.",
+            "[person_1] is opening present.",
+            "Because [person_1] is playing maracas.",
+            "Because [person_1] is picking up marbles."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to whistle."
+        ],
+        "reason": [
+            "[person_1] is very small.",
+            "[person_1] has food on hand.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] is listening to music and whistling along with the music.",
+            "[person_1] has many other bottles on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the phone of [person_1] runs out of battery?",
+        "answer": [
+            "People in cars may get hurt.",
+            "[person_1] won't be able to try on clothes.",
+            "[person_1] will never play golf again.",
+            "[person_1] may not be so happy.",
+            "[person_1] won't be able to continue listening to music."
+        ],
+        "reason": [
+            "Because the audience thinks those are boring.",
+            "[person_1] felt down then.",
+            "[person_1] needs to charge his phone.",
+            "[person_1] would lose his patience.",
+            "[person_1] felt down then."
+        ]
+    }
+}

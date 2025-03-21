@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the yoga mats?",
+        "answer": [
+            "The ribbon is blue.",
+            "Red.",
+            "Yellow.",
+            "It is black hair.",
+            "It is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] exercise?",
+        "answer": [
+            "[person_1] has a short rope.",
+            "With two small dumbbells.",
+            "With the help of a chair in front of [person_1].",
+            "With the help of [bow_1].",
+            "Because [person_1] laughs."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bed.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] will get the job done.",
+            "[person_1] is going to come back home."
+        ],
+        "reason": [
+            "Because [person_1] is getting the bee box.",
+            "Because [person_1] is going to chop something.",
+            "Because [person_1] has already finished exercising.",
+            "[person_1] has lifted up the container.",
+            "To cut [person_1] into small pieces."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1]'s wrists were twisted?",
+        "answer": [
+            "[person_1] will not go to the clinic.",
+            "[person_1] will call the repair man.",
+            "[person_1] will go away from the clinic.",
+            "[person_1] will then take [person_1] to the shop.",
+            "[person_1] will go to the clinic."
+        ],
+        "reason": [
+            "To have not examinations of the wrists.",
+            "[person_1] seems tired when he pulls stone out even if [person_1] gives help.",
+            "To have some examinations of the wrists.",
+            "The match would be stopped for safety reasons.",
+            "To stop doing examinations of the wrists."
+        ]
+    }
+}

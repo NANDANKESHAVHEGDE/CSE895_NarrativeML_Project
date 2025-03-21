@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing the gong.",
+            "[person_1] is playing drums.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is picking an apple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear headphones?",
+        "answer": [
+            "[person_1] wants to sync the drumbeats with the music.",
+            "[person_1] is showing the rest of the yoga class how to perform the yoga techniques.",
+            "[person_1] is squeezing oranges for juice.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is really into getting involved in an activity with another person."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] intend to do?",
+        "answer": [
+            "[person_1] is going to keep on playing drums.",
+            "[person_1] wants to do some kind of style.",
+            "[person_1] is going to drink beer.",
+            "[person_1] will turn the spin button to the most right.",
+            "[person_1] will become stronger than before."
+        ],
+        "reason": [
+            "[person_1] is attaching to [person_1].",
+            "Because other cabinets have doors.",
+            "[person_1] seems to be enjoying it.",
+            "Children are easy to be attracted by fun games.",
+            "[person_1] is using the equipment to work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was a sudden power outage in the room?",
+        "answer": [
+            "It can't be eaten.",
+            "They would annoy the residents.",
+            "This game will become easier.",
+            "[person_1] would ride the bike easily.",
+            "[person_1] might not be able to play drums."
+        ],
+        "reason": [
+            "Walking on the flat road is very difficult to fall.",
+            "The rock is an obstacle that causes the thrust to be affected.",
+            "There would not be electricity to the loudspeaker as well as there would not be any light.",
+            "The fewer people , the quicker it is the other's turn.",
+            "Because [person_1] is in the middle of his performance."
+        ]
+    }
+}

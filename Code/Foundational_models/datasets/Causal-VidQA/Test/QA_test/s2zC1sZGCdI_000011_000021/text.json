@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the floor?",
+        "answer": [
+            "It is brown.",
+            "The curtain is blue.",
+            "The shirt of [person_1] is blue.",
+            "The box is pink.",
+            "Adidas."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is \u00a0 trying to somersault.",
+            "[person_1] is sitting on the floor to stack the dice easier.",
+            "[person_1] is a baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to continue trying to whistle.",
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] is going to try standing up."
+        ],
+        "reason": [
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] sees something interesting.",
+            "[person_1] is wearing tap dancing shoes.",
+            "Because he just drunk strong wine and he looks terrible and run away with hands covered his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not see anything interesting?",
+        "answer": [
+            "[person_1] may feel sad.",
+            "[person_1] will get hurt.",
+            "[person_1] will not see anything clearly.",
+            "[person_1] would keep playing with the maracas.",
+            "[person_1] could not perform well."
+        ],
+        "reason": [
+            "[person_1] is face would turn red.",
+            "[person_1] is keen on playing with the maracas.",
+            "[person_1] would be unable to iron clothes.",
+            "It is so boring to dance and snap finger alone.",
+            "Because the bottle is placed behind [person_1]."
+        ]
+    }
+}

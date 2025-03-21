@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have to wear glasses when playing the organ?",
+        "answer": [
+            "The [person_1] is holding a basketball to play.",
+            "Because [person_1] is a baby.",
+            "Maybe [person_1] wants her exercise being more efficacious.",
+            "[person_1] is holding the newspaper to read.",
+            "Perhaps [person_1] is nearsighted."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] may walk out.",
+            "[person_1] may keep working.",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to continue playing the organ."
+        ],
+        "reason": [
+            "[person_1]'s hand remains on the keyboard.",
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] is going to go back home.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is still dancing with fire."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] wasn't nearsighted?",
+        "answer": [
+            "[person_1] will bump into the beer keg.",
+            "[person_1] will stop kicking high.",
+            "The woman in black will go to the hospital.",
+            "[person_1] would have to chase and fetch it.",
+            "[person_1] would play the organ without glasses."
+        ],
+        "reason": [
+            "[person_1] will appear under the stage so everyone will get crazy.",
+            "[person_1] walks gently to the pigeons.",
+            "When [person_1] runs , he jumps over the first hurdle easily but fails to jump the second one.",
+            "[person_1] is made of glass.",
+            "[person_1] can see clearly the organ keyboard."
+        ]
+    }
+}

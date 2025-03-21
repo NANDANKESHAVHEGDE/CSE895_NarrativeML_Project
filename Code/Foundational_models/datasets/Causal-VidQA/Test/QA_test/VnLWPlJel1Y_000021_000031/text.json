@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there only one person?",
+        "answer": [
+            "A trash can.",
+            "It is made of glass.",
+            "No.",
+            "The bookshelf is behind [person_1].",
+            "The [person_1] is in front of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_3] run more comfortable?",
+        "answer": [
+            "To fill up his lungs.",
+            "Wearing a pair of trainers.",
+            "[person_3] holds [person_3].",
+            "[person_3] is playing the drums.",
+            "Because [person_3] can't afford to go to the gym."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_3] after a while?",
+        "answer": [
+            "[person_3] will sit down soon after.",
+            "[person_3] would probably pick it up later.",
+            "[person_3] will receive applause.",
+            "[person_3] will continue skating.",
+            "[person_3] will faint out."
+        ],
+        "reason": [
+            "[person_3] runs too fast.",
+            "There is no one else around.",
+            "Because the road here is too narrow.",
+            "Because there are many colors mixed.",
+            "[person_3] seems so confident."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] faints out?",
+        "answer": [
+            "[person_1] and [person_3] can not practice.",
+            "[person_1] will take sick leave.",
+            "[person_3] will help [person_1].",
+            "[person_1] will not use the hand - held vacuum to clean the floor.",
+            "The horse will neigh."
+        ],
+        "reason": [
+            "[person_1] may keep trying to practice more to get stronger.",
+            "Because people will eat when he is hungry if he can.",
+            "The dance studio is out of power and it will become too dark to dance.",
+            "Because [person_1] isn't able to play baseball in dark.",
+            "[person_3] is helpful."
+        ]
+    }
+}

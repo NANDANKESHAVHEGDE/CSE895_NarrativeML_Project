@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing field hockey.",
+            "[person_1] is serving his customers.",
+            "[person_1] is throwing the ball into the basket.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is smashing something."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] not hit the ball right away?",
+        "answer": [
+            "To be more attractive in the mirror.",
+            "For relaxation.",
+            "[person_1] strikes the bottle quickly with the knife from the below to the bottleneck.",
+            "[person_1] needs it to increase the volume.",
+            "[person_1] wants to take aim carefully first."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will enjoy the champagne.",
+            "[person_1] is going to raise the lifts again.",
+            "[person_1] will continue demonstrating.",
+            "[person_1] tend to follow the dance.",
+            "[person_1] will then accept the ring."
+        ],
+        "reason": [
+            "[person_1] is in a show.",
+            "[person_1] seems to have fun.",
+            "[person_1] looks really energetic and enthusiastic in playing drums.",
+            "[person_1] is running towards one of his teammates.",
+            "There is still no fish biting the hook."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not wear a cap?",
+        "answer": [
+            "[person_1] might not be able to play well.",
+            "[person_1] will practice longer.",
+            "[person_1] might be able to play well.",
+            "[person_1] may fall down into the grassland.",
+            "[person_1] might not be able to play badly."
+        ],
+        "reason": [
+            "Because [person_1]'s been training for a long time.",
+            "The cap helps [person_1] avoiding the sunlight ; without it , [person_1] might be annoyed by the dazzling light.",
+            "Because [person_1] did nothing to attract the attention of people.",
+            "The cap helps [person_1] avoiding the sunlight ; with it , [person_1] might be annoyed by the dazzling light.",
+            "Because the carpet and the boat is placed on the ground , lower than [person_1]."
+        ]
+    }
+}

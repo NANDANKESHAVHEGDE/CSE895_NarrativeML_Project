@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] holding?",
+        "answer": [
+            "No.",
+            "[person_2] is holding [remote_1].",
+            "[remote_1] is holding the guitar bass.",
+            "[remote_1] is standing on the grass.",
+            "[person_2] is holding a stick and the wax."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] looking at the ceiling?",
+        "answer": [
+            "Because the bellows produce sound.",
+            "[person_2] is trying to squeeze it.",
+            "[person_2] is shaving for [person_2].",
+            "It is convenient for [person_2] to put on.",
+            "[person_2] is plastering the ceiling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to stand by hands.",
+            "[person_1] might going to plaster the corner part of the room.",
+            "[person_1] may keep watching.",
+            "[person_1] would ask questions of her students.",
+            "She may keep moving her feet and dance."
+        ],
+        "reason": [
+            "[person_1] walks to the corner.",
+            "[person_1] has picked the frisbee up.",
+            "There are many books on the shelf.",
+            "[person_1] is upset.",
+            "[person_1] feels hot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] accidentally touched the light bulb?",
+        "answer": [
+            "[person_2] will catch the donut and eat.",
+            "[person_2] may be startled.",
+            "The camera will film [person_2].",
+            "The baby would laugh happily.",
+            "He can not sing if there is no music."
+        ],
+        "reason": [
+            "[person_2] is holding up the wine glass.",
+            "[person_2] doesn't put her hands on her back , so she will catch the donut with her hand.",
+            "Because the light bulb was on for a while so it would be hot.",
+            "To wash the sheets first.",
+            "Because the hammer is very hard and heavy , it might cause tremendous damage to the surroundings."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like ?",
+        "answer": [
+            "[person_1] looks old.",
+            "[person_1] looks old with gray hair and long beard.",
+            "[person_1] looks a bit chubby.",
+            "[person_1] looks very pretty.",
+            "It's a beer."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room ?",
+        "answer": [
+            "Because [person_1] is sitting chair.",
+            "Maybe [person_1] is practicing playing flute.",
+            "That is the concert of [person_1].",
+            "Because [person_1] is practicing standing on hands.",
+            "Because [person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will play other things.",
+            "[person_1] will put on his shirt.",
+            "[person_1] maybe not be happy.",
+            "[person_1] will keep practicing.",
+            "The girl may have some water."
+        ],
+        "reason": [
+            "[person_1] has experienced a long way and is very tired.",
+            "To find a support for the head stand.",
+            "[person_1] is flipping through the book.",
+            "Practice makes perfect.",
+            "It is not likely that [person_1] wants to show off his skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is famous ?",
+        "answer": [
+            "[person_1] will be known by few people.",
+            "[person_1] may get off the [person_1].",
+            "[person_1] will be known by no people.",
+            "[person_1] may stop tap dancing.",
+            "[person_1] will be known by many people."
+        ],
+        "reason": [
+            "[person_1] will have few fans.",
+            "[person_1] is making a video.",
+            "[person_1] will have no fans.",
+            "[person_1] can not dance.",
+            "[person_1] will have many fans."
+        ]
+    }
+}

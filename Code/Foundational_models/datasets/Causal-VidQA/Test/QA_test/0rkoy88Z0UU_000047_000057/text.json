@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is using [person_1] to move.",
+            "[person_1] is opening the gift.",
+            "[person_1] is standing next to [person_3] on the court to play badminton.",
+            "[person_1] is playing gongs.",
+            "[person_1] is doing some tai chi moves."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand next to [person_3]?",
+        "answer": [
+            "Because [person_1] is competing in roller skating.",
+            "Maybe [person_1] think the way to move a chess piece.",
+            "[person_1] wants to keep the balance.",
+            "[person_1] needs to raze the wall to the ground so that the ground can be treated for other uses.",
+            "Because [person_1] and [person_3] are members of a team."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will give it a try to play badminton.",
+            "[person_1] is going to keep playing harmonica.",
+            "[person_1] will come hug [person_1].",
+            "[person_1] is going to rest.",
+            "[person_1] may say his creative inspiration."
+        ],
+        "reason": [
+            "Because [person_1] is competing with the other team.",
+            "[person_1] wants to increase the difficulty.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] and [person_1] are friends.",
+            "[person_1] jumped into the lake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] has a hand injury?",
+        "answer": [
+            "[person_3] may come to comfort him.",
+            "[person_3] will pick it up.",
+            "[person_3] is gonna get hurt.",
+            "[person_3] will not participate in playing badminton.",
+            "[person_3] will be knocked down to the floor and injured."
+        ],
+        "reason": [
+            "The [person_3] keeps elbow up high.",
+            "[person_3] is too young , she may get hurt.",
+            "They think it is interesting.",
+            "Because [person_3] is [person_3]'s father , and father always protects their children.",
+            "Because an injured hand prevents [person_3] from playing badminton."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [dining table_1]?",
+        "answer": [
+            "The fire is in the middle of place.",
+            "The [dining table_1] is on the floor.",
+            "[dining table_1] is a female.",
+            "[dining table_1] is behind the [dining table_1].",
+            "[dining table_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing stacking cups.",
+            "[person_1] is starting play this game.",
+            "[person_1] is seeing [person_1]'s gifts.",
+            "[person_1] is plucking her eyebrows.",
+            "[person_1] is supporting the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] will check the result.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will stop skiing."
+        ],
+        "reason": [
+            "Riding a mechanical bull is very difficult to play with a [person_1].",
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [person_1].",
+            "They are doing a report here.",
+            "[person_1] is jumping very hard.",
+            "[person_1] is in the gymnastic."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slips?",
+        "answer": [
+            "Perhaps [person_1] will fall.",
+            "[person_1] will then jump into the lake.",
+            "Maybe [person_1] will go to the hospital.",
+            "It is possible that [person_1] can turn the television on and watch a video of tai chi.",
+            "Perhaps [person_1] will catch it."
+        ],
+        "reason": [
+            "Because [person_1] is afraid of the dark.",
+            "[person_1] will feel hurt.",
+            "Because [person_1] breaks , food will fall out.",
+            "Because [person_1] needs plaster to plaster the wall.",
+            "Because the wind will blow all the powder away."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is next to the window.",
+            "[couch_1] is behind [person_1].",
+            "[person_1] is standing beside the sink.",
+            "[person_1] is standing on a mattress.",
+            "[person_1] is sitting on the [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising her legs up?",
+        "answer": [
+            "[person_1] is standing on her hands.",
+            "Glasses make [person_1] look cooler.",
+            "[person_1] can see things more clearly.",
+            "They start by making two teams of 2 players.",
+            "[person_1] reads the sheet music when playing."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to keep running.",
+            "[person_1] tends to take the present.",
+            "[person_1] tends to show how to stand on two hands.",
+            "[person_1] tends to make the next steps for the ballet.",
+            "[person_1] will perform with the harp."
+        ],
+        "reason": [
+            "The guitar is in the hands of [person_1].",
+            "[person_1] is raising the right hand.",
+            "[person_1] is having fun.",
+            "[person_1] is talking something.",
+            "[person_1] is holding a baseball bat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "The room will be dark.",
+            "The room maybe afraid.",
+            "The room will be bright.",
+            "The piano won't be able to work.",
+            "The room will not be dark."
+        ],
+        "reason": [
+            "There is no light in the room.",
+            "The light needs electricity to work.",
+            "There is much light in the room.",
+            "The lights will not have electricity to glow.",
+            "There is no light outside the room."
+        ]
+    }
+}

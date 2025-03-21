@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What did [person_1] do just now?",
+        "answer": [
+            "[person_1] is sitting behind [person_1].",
+            "[person_1] closed the door.",
+            "[person_1] is on the way.",
+            "[person_1] hair is braided on both sides.",
+            "[person_1] is performing on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] close the door.",
+        "answer": [
+            "Because [person_1] learns about animals.",
+            "Because [person_1] wants to protect the head if [person_1] falls.",
+            "[person_1] is opening present.",
+            "Because [person_1] is asked to close the door.",
+            "[person_1] and [person_1] are family."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go to finish his job.",
+            "[person_1] may go to have lunch.",
+            "[person_1] will play basic chords.",
+            "[person_1] is going to keep performing.",
+            "[person_1] may turn on the light."
+        ],
+        "reason": [
+            "Because it is midday.",
+            "It is late.",
+            "Maybe the weights are too heavy.",
+            "[person_1] walks away.",
+            "[person_1] is trying to do the job fast."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cannot close the door?",
+        "answer": [
+            "[person_1] will be knocked down by the skater.",
+            "[person_1] will be famous.",
+            "[person_1] will let the door open.",
+            "[person_1] would not have to use some tissue papers to clean his face.",
+            "[person_1] would get serious injury on his chest."
+        ],
+        "reason": [
+            "It is not safe acting like that.",
+            "Because it's too dangerous.",
+            "Plants can't live without water.",
+            "Because her mother will help close the door.",
+            "It's easy to hurt your muscles if you don't warm up."
+        ]
+    }
+}

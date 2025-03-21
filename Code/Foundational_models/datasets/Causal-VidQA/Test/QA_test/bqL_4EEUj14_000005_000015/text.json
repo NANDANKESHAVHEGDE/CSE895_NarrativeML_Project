@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the picture?",
+        "answer": [
+            "It is on the roadside.",
+            "[person_1] is under the window.",
+            "It is next to the [person_1].",
+            "It is near next to the railing.",
+            "It is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paint can?",
+        "answer": [
+            "[person_1] is skipping the rope.",
+            "[person_1] is running around to play basketball.",
+            "[person_1] wants to open the box.",
+            "[person_1] is shaking the dices.",
+            "Because [person_1] is spraying paint on the picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "[person_1] is going to drink water.",
+            "Maybe [person_1] is going to continue spray paint.",
+            "[person_1] will collect honey.",
+            "[person_1] is going to hit the ball."
+        ],
+        "reason": [
+            "[person_1] is rubbing the shoe over and over again.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] starts to spray paint.",
+            "[person_1] has covered [person_1]'s wound with the bandage.",
+            "[person_1] has finished the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't spray paint ?",
+        "answer": [
+            "[person_1] will feel it lacks vitality.",
+            "The organ will make shrill sounds.",
+            "[person_1] will be fall when practicing.",
+            "[person_1] can not play bagpipes.",
+            "[person_1] will drive [person_1]."
+        ],
+        "reason": [
+            "A face shield is essential for a welder.",
+            "Maybe the picture will be very bad.",
+            "Because this machine is very safe.",
+            "It is metal that will rust.",
+            "Because [person_1] needs to fix the car which belongs to her customer."
+        ]
+    }
+}

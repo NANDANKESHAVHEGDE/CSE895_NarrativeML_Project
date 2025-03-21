@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [chair_1] in the room?",
+        "answer": [
+            "[person_1] is sitting on a chair.",
+            "[chair_1] is on the right of [chair_1].",
+            "[chair_1] is in the back of [person_1].",
+            "[person_1] is holding a shoe cleaner bottle.",
+            "[person_1] , [chair_1] , and [chair_1] are sitting on the sofa."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] ripping the paper?",
+        "answer": [
+            "[person_1] uses a tool to make the bubble.",
+            "[person_1] wants to place the bass guitar on the laps and play it.",
+            "because [person_1] does it for fun.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] is unwrapping her present to see her gift inside."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with the sheaf of papers on the ground next after [person_1] sees them?",
+        "answer": [
+            "[person_1] and [person_1] might be a couple.",
+            "The man in the yellow hat will let the wall dry for a while.",
+            "The sheaf of papers will be ripped by [person_1] until it's over.",
+            "The boy might struggle to get up.",
+            "A person who wears a T - shirt is going to put the hat in a specific place."
+        ],
+        "reason": [
+            "because the sheaf still has a lot of paper and [person_1] is still ripping the paper.",
+            "The boy suddenly appears in front of the camera and does something silly.",
+            "Because the woman in black top is always chasing the man who is kicking with eyes.",
+            "The child on the right did not catch it.",
+            "Because [person_1] is very close to the man , the girl in red may come and talk to the man."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1]'s hand was hurt?",
+        "answer": [
+            "The apple may fall apart.",
+            "[person_1] would stop ripping the sheaf.",
+            "[person_1] might have to leave the training session.",
+            "[person_1] would not know when it's time to go home.",
+            "[person_1] may plaster the wall faster."
+        ],
+        "reason": [
+            "[person_1] is just a child and [person_1] might want to attract his mother's attention.",
+            "because [person_1] is a child and he might get tired.",
+            "Because [person_1] does not wear work gloves , it is easy to get injured if [person_1] makes a mistake.",
+            "[person_1] is pleased to have this machine.",
+            "Because [person_1] would be able to move more freely and [person_1] wouldn't be able to run while wearing dress."
+        ]
+    }
+}

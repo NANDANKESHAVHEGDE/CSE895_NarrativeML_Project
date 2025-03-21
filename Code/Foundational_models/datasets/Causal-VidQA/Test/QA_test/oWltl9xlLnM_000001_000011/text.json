@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of cloth does [person_1] wear?",
+        "answer": [
+            "Plaid shirt.",
+            "[person_1] is on the field.",
+            "Four.",
+            "Green.",
+            "[person_1] is sitting against the white wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] open the [refrigerator_1]?",
+        "answer": [
+            "[person_1] is rubbing [person_1]'s back.",
+            "Because [person_1] wants to get a beer from it.",
+            "Because [refrigerator_1] needs a tissue to wipe sweat.",
+            "[person_1] is taking a bath.",
+            "[person_1] is holding [person_1] down on the ground so he can trim the fur of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will be naughty [person_1].",
+            "Maybe [person_1] is going to continue watering.",
+            "Maybe [person_1] is going to dance again.",
+            "[person_1] is going to open the beer.",
+            "[person_1] is going to put the plate away."
+        ],
+        "reason": [
+            "The hand of [person_1] was on the top of the beer bottle and ready to twist it.",
+            "[person_1] is walking very fast.",
+            "Maybe [person_1] loves to read.",
+            "Because [person_1] has successfully finished the training.",
+            "Maybe [person_1] looks thirsty and tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the hand of [person_1] is caught in the fridge door?",
+        "answer": [
+            "[person_1] would show [person_1]'s hair.",
+            "The [person_1] may clean potatoes for cooking.",
+            "The [person_1] will ask others to bring one.",
+            "The [person_1] will call the police.",
+            "The hand of [person_1] would swell."
+        ],
+        "reason": [
+            "Because the police can solve this problem.",
+            "Muscles swell when squeezed.",
+            "He will clean it for [person_1].",
+            "Because it may out of the catching range of [person_1].",
+            "The toilet is out of the field."
+        ]
+    }
+}

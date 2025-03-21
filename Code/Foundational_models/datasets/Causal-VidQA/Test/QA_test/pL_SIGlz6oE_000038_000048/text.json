@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [car_2]?",
+        "answer": [
+            "The [person_1] is next to [person_1].",
+            "The [car_2] is standing behind the fence.",
+            "The [person_1] is sitting outside.",
+            "The [car_2] is behind the [person_1].",
+            "[car_2] is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] touching the wall?",
+        "answer": [
+            "Because the [person_1] wants to keep balance while riding an unicycle.",
+            "[person_1] maybe smoking tobacco.",
+            "[person_1] is performing didgeridoo.",
+            "[person_1] is curious about the thing inside the box.",
+            "To make it easy to operate."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "The [person_1] may keep riding on the unicycle.",
+            "[person_1] will rise to her feet firstly.",
+            "[person_1] will try to squeeze it.",
+            "[person_1] will give advice.",
+            "The [person_1] may carry on touching the wall to keep balance."
+        ],
+        "reason": [
+            "The [person_1] looks happy while playing with the hoop.",
+            "Because [person_1] is putting her left hand on her head.",
+            "Touching the wall helps the [person_1] keep balance while riding.",
+            "Because he needs to clean all his clothes.",
+            "After being splashed with water twice on the [person_1]'s head , she felt uncomfortable."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not touch the wall?",
+        "answer": [
+            "The [person_1] will not get stomach ache.",
+            "The baby will cry.",
+            "[person_1] will win the contest.",
+            "The [person_1] could fall.",
+            "They will take a new one."
+        ],
+        "reason": [
+            "Because [person_1] wants to eat the potato chips in the [bicycle_1].",
+            "The [person_1] is riding the [bicycle_1] and it is not easy to keep balance while riding the [bicycle_1].",
+            "The cup is made of glass.",
+            "The plate is made of porcelain.",
+            "[person_1] will apologize for his mistake."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is pink.",
+            "The shirt [person_1] wearing is white.",
+            "The shirt [person_1] wearing is black.",
+            "it is black.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the cups?",
+        "answer": [
+            "[person_1] is raising eyebrows.",
+            "They are holding a party and really having fun.",
+            "[person_1] is making a tutorial video.",
+            "[person_1] is stacking cups.",
+            "[person_1] is playing something."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may keep trying to play the gong.",
+            "[person_1] may not ride the toy car which [person_1] sits on anymore.",
+            "[person_1] will play it.",
+            "[person_1] will keep on seeing the water.",
+            "[person_1] will certainly wear sari for [person_1]."
+        ],
+        "reason": [
+            "[person_1] will lean forward because right now his body is still moving to the front.",
+            "[person_1] is so happy with new headphones and the headphones are so cute.",
+            "[person_1] will want to score as many goals as possible so that his team will win.",
+            "[person_1] practices stacking cups on top of each other.",
+            "The shoes haven't been finished polishing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if those cups were glass cups?",
+        "answer": [
+            "[person_1] couldn't do it anymore.",
+            "She would turn off the treadmill.",
+            "[person_1] will be very careful.",
+            "[person_1] , [person_1] and [person_1] would stop dancing and talking together.",
+            "It is possible that [person_1]'s eyes will get infected."
+        ],
+        "reason": [
+            "[person_1] and others can't play in the dark.",
+            "Because she won't let them run alone.",
+            "The glass cups are very fragile.",
+            "They can not see anything and they do not have music to dance.",
+            "Because [person_1] did not want to shake hand."
+        ]
+    }
+}

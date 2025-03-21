@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is sitting on bed.",
+            "[person_1] is in the bathtub."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the bathtub?",
+        "answer": [
+            "Because [person_1] is taking a bath.",
+            "Because [person_1] is ready to play the gong.",
+            "Because [person_1] has practiced playing the piano before.",
+            "[person_1] is rehearsing a performance.",
+            "[person_1] is doing an example for others."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to the water in the bathtub [person_1] staying in?",
+        "answer": [
+            "It will be gone.",
+            "[person_1] will preserve it carefully.",
+            "[person_1] will stop under the shade.",
+            "[person_1] will be taken home.",
+            "The water will be cold."
+        ],
+        "reason": [
+            "Because the detergent in the bucket now is not enough.",
+            "[person_1] plays so hard and very tired.",
+            "[person_1] is holding two hot dogs in his hand.",
+            "[person_1] drank too much water.",
+            "As time goes on , the water gets cold."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slipped in the bathtub?",
+        "answer": [
+            "The [person_1] will fall down the floor.",
+            "Then [person_1] might put some scald medicine on it.",
+            "[person_1] will run away.",
+            "[person_1] will pick up the comb and wash it.",
+            "[person_1] will call [person_1]'s mother."
+        ],
+        "reason": [
+            "To save [person_1].",
+            "The cup on the hand of [person_1] may be made from glass and it will break when it falls down to the floor.",
+            "It is uncomfortable working with wet clothes.",
+            "[person_1] has spun 5 plates before.",
+            "Because there is only one ball."
+        ]
+    }
+}

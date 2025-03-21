@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_1]?",
+        "answer": [
+            "It is on the wooden box.",
+            "[laptop_1] is behind the [laptop_1].",
+            "It is on the table.",
+            "It is in the parking lot.",
+            "[laptop_1] is on the road and next to the [laptop_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is stacking the cups very quickly.",
+            "Because [person_1] is doing her music homework.",
+            "[person_1] is reading a book.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is excited about stacking the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] is going to share the beer with his friends.",
+            "[person_1] is going to start stacking the dice.",
+            "[person_1] is going to continue trying to stack.",
+            "[person_1] is about to play the glass ball in his hand."
+        ],
+        "reason": [
+            "[person_1] stacks in a professional way.",
+            "[person_1] used the tape on the table.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground.",
+            "[person_1] looks tired and has put the barbell back.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cups are lost?",
+        "answer": [
+            "[person_1] will be startled.",
+            "[person_1] will touch the horse gently.",
+            "[person_1] will be very sad.",
+            "[person_1] and [person_1] may go home.",
+            "[person_1] will hit [person_1]."
+        ],
+        "reason": [
+            "It is dirty on the fire.",
+            "Because they'll get hurt.",
+            "The picture will fall down suddenly.",
+            "Because the luger will stop his race.",
+            "[person_1] will buy new cups."
+        ]
+    }
+}

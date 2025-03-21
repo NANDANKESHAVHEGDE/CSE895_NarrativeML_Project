@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [couch_1]?",
+        "answer": [
+            "[couch_1] is white.",
+            "It is a grey shirt.",
+            "[couch_1] is wearing a plaid shirt.",
+            "The shirt is white.",
+            "[couch_1] is wearing a red T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on [couch_1]?",
+        "answer": [
+            "because it's comfortable.",
+            "It's dangerous.",
+            "[person_1] is reading newspaper.",
+            "Because it's very hot.",
+            "Because it is convenient to open and close the door of the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to slowly opening his arms.",
+            "[person_1] is going to whistle.",
+            "[person_1] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "[person_1] is turning the page.",
+            "[person_1] used the tape on the table.",
+            "[person_1] looks tired and has put the barbell back.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the power went out?",
+        "answer": [
+            "[person_1] would neither keep reading [person_1] nor talk with people.",
+            "the [person_1] will be sunk.",
+            "[person_1] and [person_1] will get bored.",
+            "[person_1] might have to stop practicing interpreting sign language.",
+            "[person_1] would stop reading to open the curtains."
+        ],
+        "reason": [
+            "Live performance will make the performance more exciting.",
+            "[person_1] needs light to keep reading newspaper.",
+            "Hot weather will cause dehydration.",
+            "Because [person_1] may fall into [person_1]'s feet.",
+            "[person_1] is a little boy and children normally enjoy watching movement."
+        ]
+    }
+}

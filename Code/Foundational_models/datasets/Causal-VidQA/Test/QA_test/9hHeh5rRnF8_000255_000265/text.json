@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is on train.",
+            "[person_1] is sitting on the sofa.",
+            "[person_1] is at the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the girl with yellow hair in front of [person_3] covering her face?",
+        "answer": [
+            "[person_3] swings her arms to keep balance.",
+            "Because the picture is the representative work of men and can attract customers.",
+            "Because [person_3] is moved by the proposal.",
+            "Because the girl with yellow hair is embarrassed in front of the camera.",
+            "[person_3] is doing somersaults."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will change other kind of workout.",
+            "[person_1] will certainly continue playing guitar.",
+            "[person_1] will make the sandwich confidently.",
+            "[person_1] may play the harmonica.",
+            "[person_1] will continue to rollerblade forward."
+        ],
+        "reason": [
+            "[person_1] will continue to rollerblade forward because [person_1] shows no sign of stopping.",
+            "To see whether they have been cut successfully.",
+            "Because there's no paint on the paint roller.",
+            "[person_1] is standing ; therefore , [person_1] can dance.",
+            "Because it takes a lot of energy to climb a rope."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the girl with yellow hair sat in front of [person_3] when [person_3] fell?",
+        "answer": [
+            "The man in white will stop playing.",
+            "[person_3] would not fall.",
+            "[person_3] will not continue doing the job.",
+            "[person_3] would fall.",
+            "[person_3] will stop the snow blower."
+        ],
+        "reason": [
+            "[person_3] would fall because the girl with white hair gets in [person_3]'s way.",
+            "The brake can not reduce the speed.",
+            "[person_3] would fall because the girl with yellow hair gets in [person_3]'s way.",
+            "[person_3] can't playing keyboard without the keyboard.",
+            "[person_3] would fall because the girl with black hair gets in [person_3]'s way."
+        ]
+    }
+}

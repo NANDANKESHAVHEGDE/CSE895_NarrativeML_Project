@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bicycle_1]?",
+        "answer": [
+            "[bicycle_1] is behind [person_1].",
+            "No , the [person_1] is not . The [person_1] is peeling the potatoes.",
+            "[bicycle_1] is on the [person_1].",
+            "The [bicycle_1] is on the ground.",
+            "The [bicycle_1] is in the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile?",
+        "answer": [
+            "[person_1] finds playing drums interesting.",
+            "[person_1] is playing darts.",
+            "[person_1] is giving the boy a gift.",
+            "[person_1] is helping [person_1] to trim shrubs.",
+            "The chair [person_1] sit on is not secure."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will continue playing drums.",
+            "[person_1] will continue stacking cups.",
+            "[person_1] will continue the performance.",
+            "[person_1] will play drums with a new song.",
+            "[person_1] will keep spinning the poi."
+        ],
+        "reason": [
+            "Because [person_1] hasn't finished it yet.",
+            "It seems that [person_1] is very interested in doing so.",
+            "[person_1] has not finished his dance yet.",
+            "[person_1] is holding a plate containing eating utensils . ",
+            "[person_1] has not ironed all the clothes yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] got bored of playing drums?",
+        "answer": [
+            "[person_1] might damage his muscles.",
+            "[person_1]'s feet might get hurt badly.",
+            "[person_1] might throw the drumsticks away and leave the room.",
+            "[person_1] might get hurt.",
+            "[person_1] would practice once more time."
+        ],
+        "reason": [
+            "[person_1] broke up their friendship because he didn't share.",
+            "[person_1] can be distracted from washing dishes by looking in the cameraman's direction then breaking the plate.",
+            "Maybe [person_1] will learn how to play it.",
+            "[person_1] is still a child and children's focus are mostly short - term.",
+            "Because in order to prevent [person_1] from falling off the rock and causing injury."
+        ]
+    }
+}

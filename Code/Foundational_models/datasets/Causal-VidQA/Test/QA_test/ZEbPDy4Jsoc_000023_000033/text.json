@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [person_2]'s shoes?",
+        "answer": [
+            "The photo placement is set on the table.",
+            "It's [person_2].",
+            "[person_2]'s pants is white.",
+            "The shoes are pink.",
+            "It is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is doing arm training by pulling weights.",
+            "[person_2] is unwrapping a doll.",
+            "[person_2] is playing roller skating.",
+            "[person_2] is trying to unbox the present.",
+            "[person_2] is raising eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will jump.",
+            "[person_2] will continue to laugh.",
+            "[person_2] will keep on playing the game.",
+            "[person_2] will jump with [person_2].",
+            "[person_2] will continue to dance."
+        ],
+        "reason": [
+            "[person_2] is paying attention to this.",
+            "To accept this proposal.",
+            "Because it can be seen from the end of the video that [person_2] has fallen to the ground.",
+            "There are only two men on the stage.",
+            "Because it's more exciting to play together."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't know how to play?",
+        "answer": [
+            "The boy would run back to rooms.",
+            "[person_2] will throw her gloves on the ground.",
+            "[person_2] will be excited.",
+            "There would be more champagne spout out.",
+            "It is possible that [person_2] will try playing."
+        ],
+        "reason": [
+            "They will have no space to move.",
+            "[person_2] is injured , so it's impossible to ask anyone to take off [person_2]'s bandage.",
+            "Doctors can cure diseases.",
+            "[person_2] wants to practice riding.",
+            "[person_2] will stand unsteadily on her shoes."
+        ]
+    }
+}

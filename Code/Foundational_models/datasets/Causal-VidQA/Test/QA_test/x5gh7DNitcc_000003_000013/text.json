@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is behind [person_1]?",
+        "answer": [
+            "[person_1] is in the living room.",
+            "[person_1] is in the kitchen.",
+            "It is a mirror.",
+            "There is a fireplace.",
+            "[person_1] is in a snow mountain."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the fireplace burning?",
+        "answer": [
+            "Because it is so cold in winter , so [person_1] uses the fireplace to heat.",
+            "Because [person_1] walks backwards downhill.",
+            "[person_1] hit the same cup in beer pong.",
+            "[person_1] will feel hot while exercising.",
+            "[person_1] is happy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "It seems that [person_1] is going to stop her drill and another student will practice tai chi.",
+            "[person_1] will keep blowing the bagpipes.",
+            "[person_1] is going to use hammer and chisel.",
+            "[person_1] is going to continue trying to spray paint.",
+            "[person_1] will definitely continue to burn wood."
+        ],
+        "reason": [
+            "[person_1] looks like a bad whistler.",
+            "[person_1] is putting hand on the corner of the page.",
+            "To relax for a while.",
+            "[person_1] looks so excited with the bagpipes.",
+            "[person_1] shaved off the bottom part of his beard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels hot?",
+        "answer": [
+            "[person_1] will will turn on the fan.",
+            "[person_1] will take off his clothes.",
+            "[person_1] will extinguish the fire in the fireplace.",
+            "[person_1] will not be here playing golf.",
+            "[person_1] will open the window behind him."
+        ],
+        "reason": [
+            "The glasses are given by [person_1]'s daughter.",
+            "The fan can make people cooler.",
+            "People allergic to UV cannot be exposed to strong sunlight.",
+            "Because the fireplace is heating the room.",
+            "[person_1] falls to the river and can not swim , which is very dangerous."
+        ]
+    }
+}

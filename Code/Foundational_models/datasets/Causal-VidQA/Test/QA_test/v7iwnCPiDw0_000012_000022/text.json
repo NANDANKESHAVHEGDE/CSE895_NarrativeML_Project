@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in bathroom.",
+            "[person_1] is outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the maracas?",
+        "answer": [
+            "The [person_1] wishes for sound to emanate from these buttons.",
+            "[person_1] wants to try riding the mechanical bull.",
+            "Because the skating aid helps the [person_1] in balance.",
+            "[person_1] is showing how to use maracas.",
+            "Because the [person_1] needs to trim the lawn."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep talking about how to play the maracas.",
+            "[person_1] will probably continue to lift the dumbbell.",
+            "[person_1] will have some rest.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] might use [person_1] or [person_1] to replace the one [person_1] is currently using."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "Maybe [person_1] is afraid of something.",
+            "[person_1] wants to share what [person_1] knows about maracas.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference.",
+            "Because [person_1] divides the money into piles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it suddenly rained?",
+        "answer": [
+            "[person_1]'s words would not be as clear.",
+            "[person_1] will be drenched.",
+            "[person_1] could not skate.",
+            "They would stop the game and deal with the mess.",
+            "[person_1] would stop interviewing and find a place to shelter."
+        ],
+        "reason": [
+            "[person_1] will fall.",
+            "To find the shelter from the rain.",
+            "[person_1] does not have umbrella.",
+            "[person_1] can not be balance on a slippery floor.",
+            "To find a chair for [person_1] to sit on."
+        ]
+    }
+}

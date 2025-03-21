@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is at the basketball court.",
+            "[person_2] is on the basketball yard.",
+            "[person_2] is the baby who is shorter.",
+            "[person_2] is sitting on [person_2].",
+            "[person_2] is \u00a0 in the swimming pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the swimming pool?",
+        "answer": [
+            "Because [person_1] is playing checkers with [person_2].",
+            "[person_2] is watching [person_1] playing cymbals.",
+            "Because [person_1] has already read in that page and wants to read the next page.",
+            "[person_1] is teaching [person_2] and [person_3] how to swim butterfly stroke.",
+            "Because there is a person who guides [person_1] how to play basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep swimming with [person_3].",
+            "[person_2] is going to stop eating the fruit.",
+            "[person_2] is going to go down and push the swing for [person_2].",
+            "[person_2] is going to help [person_2] move.",
+            "[person_2] going to guide [person_2] how to clean floor."
+        ],
+        "reason": [
+            "[person_2] is recording , and the voice was coughing.",
+            "[person_2] is holding the white tool to drill the gray rock.",
+            "[person_2] turns round and holds the frisbee.",
+            "[person_2] is swimming faster.",
+            "[person_2] has almost finished covering [person_2]'s wound with the bandage."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] takes part in a swimming competition?",
+        "answer": [
+            "[person_2] may continue trying to hit the ball.",
+            "[person_2] will swim in a professional way.",
+            "[person_2] would perform in the stage.",
+            "[person_2] will take [person_2]'s place.",
+            "[person_2] will have a lot of fans."
+        ],
+        "reason": [
+            "[person_2] would catch the ball and throw it back.",
+            "There would just have a candy on [person_2]'s hand.",
+            "[person_2] will perform as a contestant.",
+            "[person_2] swims very well.",
+            "[person_2] is playing in a darts throwing competition."
+        ]
+    }
+}

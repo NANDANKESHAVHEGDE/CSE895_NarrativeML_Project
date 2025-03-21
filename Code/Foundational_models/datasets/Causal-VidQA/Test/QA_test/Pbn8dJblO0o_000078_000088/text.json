@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the swimming pool.",
+            "[person_1] and [person_2] are on the bed.",
+            "[person_1] and [person_2] are in the children's play area.",
+            "[person_1] and [person_2] are in the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] spending time with [person_1]?",
+        "answer": [
+            "[person_2] wants to teach [person_1] how to skate.",
+            "Because [person_1] wants to practice in the sun.",
+            "[person_1] is excited about creating activities.",
+            "Perhaps [person_1] does it for fun.",
+            "Because that is his present is given on birthday."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_5] going to do?",
+        "answer": [
+            "[person_5] is going to express gratitude.",
+            "[person_5] is going to stand up.",
+            "[person_5] will likely stomp the grapes.",
+            "[person_5] is going to open his present.",
+            "[person_5] is going to take [person_5]'s hand down."
+        ],
+        "reason": [
+            "[person_5] isn't wearing hat which is a part of the uniform while others do.",
+            "[person_5] lights up the candle , [person_5] lifts her body to the table and prepares to blow.",
+            "[person_5] sits down and bends forward.",
+            "[person_5] is blindfolded and she jumped rope freely.",
+            "[person_5] fell down the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_5] could not stand up by himself?",
+        "answer": [
+            "[person_5] will chase and catch the cat.",
+            "[person_5] would help [person_3].",
+            "[person_5] will not hug this boy.",
+            "[person_3] would help [person_5].",
+            "[person_5] and [person_5] may just drink."
+        ],
+        "reason": [
+            "[person_3] is close to [person_5].",
+            "[person_5] can not move his body naturally when [person_5] who feels terrible does exercise .",
+            "[person_5] is close to [person_3].",
+            "The [person_5] needs to do first for the [person_5] to follow.",
+            "[person_3] is away from [person_5]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "it is black.",
+            "It is white.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] standing in the hand of [person_2]?",
+        "answer": [
+            "[person_1] is picking up fruit.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is helping [person_3] swing on it.",
+            "[person_1] stacks cups very quickly.",
+            "[person_1] is playing music with the people around."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will go on throwing the cards.",
+            "[person_1] will take out the tiles to fix the floor.",
+            "[person_1] is going to raise both hands.",
+            "[person_1] is going to tie a knot on [person_2]'s back.",
+            "[person_3] will continue in the hands of [person_2]."
+        ],
+        "reason": [
+            "Because this is a vlog.",
+            "[person_1] is practicing.",
+            "[person_1] is talking to someone.",
+            "[person_2] and [person_3] are practicing.",
+            "[person_1] wears gloves to tamp the soil around a tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "[person_3] will be stay.",
+            "[person_3] will ride by himself.",
+            "[person_3] will be fall.",
+            "Everyone will stop doing sports.",
+            "[person_3] will not be fall."
+        ],
+        "reason": [
+            "The room will be bright.",
+            "Because they can't play then.",
+            "The room will not be dark.",
+            "To fix the equipment.",
+            "The room will be dark."
+        ]
+    }
+}

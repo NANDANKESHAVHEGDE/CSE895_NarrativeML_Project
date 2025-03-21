@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of site is it?",
+        "answer": [
+            "It is in a wine factory.",
+            "It is a wine bar.",
+            "The books are behind [person_2].",
+            "The door is behind [person_2].",
+            "Three."
+        ]
+    },
+    "explanatory": {
+        "question": "Why can we conclude that it is a bar?",
+        "answer": [
+            "[person_2] looks like a waitress.",
+            "[person_2] is listening to music beat through the headphones.",
+            "[person_2] is playing with his phone.",
+            "It is a relatively big pit on the ground.",
+            "Some videos are played on [person_2] and [person_2] to create atmosphere and music for the tai chi performance."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will give a speech after [person_2].",
+            "[person_2] will continue to make jokes with [person_2] and [person_2].",
+            "[person_2] will continue to play the hoop.",
+            "[person_2] will serve her customers with the wine.",
+            "[person_2] will then teach [person_2] to blow out the candles."
+        ],
+        "reason": [
+            "[person_2] opens the wine just for customers there.",
+            "[person_2] is holding the camera.",
+            "Because it can be seen from the end of the video that [person_2] has fallen to the ground.",
+            "[person_2] is holding some papers with a microphone on her hands.",
+            "Because there are still several cups left."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] couldn't open the bottle?",
+        "answer": [
+            "[person_1] will try to play the flute.",
+            "The [person_1] would have fallen off the unicycle.",
+            "[person_1] will stand up.",
+            "[person_1] would share her present with [person_1].",
+            "[person_1] would ask others for help."
+        ],
+        "reason": [
+            "That's what happens all the time when [person_1] plays basketball.",
+            "[person_1] must open it now as the customers order.",
+            "[person_1] would do this with only one arm bearing the weight.",
+            "Gym make [person_1] stronger.",
+            "[person_1] couldn't stop the edge on time."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does the [person_1] wear?",
+        "answer": [
+            "A T - shirt and a helmet.",
+            "The shirt is black.",
+            "[person_1] is wearing a black shirt.",
+            "It's white.",
+            "The shirt is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] wear the helmet?",
+        "answer": [
+            "Because [person_1] is a child.",
+            "[person_1] picks up the cup slowly to avoid falling the dice.",
+            "Because [person_1] wants to protect himself.",
+            "[person_1] is shearing a sheep for wool.",
+            "Because [person_1] is doing lunges."
+        ]
+    },
+    "predictive": {
+        "question": "Where will the [person_1] go?",
+        "answer": [
+            "The [person_1] will get to his friends.",
+            "Maybe [person_1] will eat it out.",
+            "[person_1] will stay quiet and be touched by [person_1]'s master.",
+            "Maybe [person_1] will push the spoon.",
+            "The [person_1] will teach the [person_1] how to wash the clothes."
+        ],
+        "reason": [
+            "[person_1] is hungry so he doesn't stop to eat.",
+            "[person_1] is the referee.",
+            "Because his friends are nearby.",
+            "[person_1] is amused by the movements of [person_1].",
+            "Because only constant movement can make him reach the end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if they need to leave together?",
+        "answer": [
+            "[person_1] would have to stop doing squat if she got injury on her knees.",
+            "They won't use their scooters together.",
+            "[person_1] can throw [person_1] into the hoop.",
+            "They will use their scooters together.",
+            "The bowl will fall to pieces."
+        ],
+        "reason": [
+            "Because each of them has no scooter.",
+            "The place is a bit like a sports goods store.",
+            "Because each of them has many scooters.",
+            "The babies like watching the toy moving.",
+            "Because each of them has a scooter."
+        ]
+    }
+}

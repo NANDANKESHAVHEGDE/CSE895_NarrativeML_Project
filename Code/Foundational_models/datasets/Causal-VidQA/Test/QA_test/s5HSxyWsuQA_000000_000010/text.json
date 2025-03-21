@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the yard.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] starting at the same time?",
+        "answer": [
+            "Because [person_1] wants to store the wheelchair.",
+            "[person_1] is playing with water.",
+            "[person_1] and [person_2] are in a roller skating competition.",
+            "Because [person_1] is a wheelchair consultant.",
+            "[person_1] is doing yoga."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] will get more cards",
+            "[person_1] is going to roller - skate where he started skating.",
+            "[person_1] is going to put the plate away.",
+            "Maybe [person_1] is going to move quicker."
+        ],
+        "reason": [
+            "[person_1] is ripping paper.",
+            "[person_1] is in the gymnastic.",
+            "The message says he should come home for dinner.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] is sliding back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "Maybe [person_1] will cry.",
+            "[person_1] will lose.",
+            "[person_1] can get up by himself.",
+            "[person_1] will get up by himself.",
+            "[person_1] will stand up then."
+        ],
+        "reason": [
+            "[person_1] will be injured.",
+            "[person_1] is seriously injured.",
+            "[person_1] will hurt her leg.",
+            "[person_2] becomes the winner.",
+            "[person_1] needs to help."
+        ]
+    }
+}

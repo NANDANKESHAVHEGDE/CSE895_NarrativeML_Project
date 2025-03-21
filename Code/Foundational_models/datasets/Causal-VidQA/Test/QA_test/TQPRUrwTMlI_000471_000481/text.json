@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [vase_1]?",
+        "answer": [
+            "The [vase_1] is in the hands of the [person_1].",
+            "The [vase_1] is in front of [person_1].",
+            "The [refrigerator_1] is in the [person_1]'s hand.",
+            "It's an earring.",
+            "[vase_1] is on the [refrigerator_1] behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] putting two dice on [dinning table_1]?",
+        "answer": [
+            "There some information that the [person_1] can read.",
+            "To bring the right eye into focus.",
+            "[person_1] is stacking the dice.",
+            "Because [person_1] looks like the father of [person_1].",
+            "[person_1] is interested in the gifts on the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the dice and the cup on [dining table_1].",
+            "Maybe [person_1] is going to dance again.",
+            "[person_1] is going to drink water.",
+            "[person_1] is going to read the book.",
+            "[person_1] is going to stop kicking high."
+        ],
+        "reason": [
+            "[person_1] is holding a present.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [dining table_1] is the next step.",
+            "[person_1] is going to drink water.",
+            "[person_1] is sitting on jumper kids.",
+            "Because [person_1] is still very sad."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] had more dice?",
+        "answer": [
+            "[person_1] would needs a bigger cup.",
+            "[person_1] will introduce how to draw eyebrows.",
+            "[person_1] will have a beautiful kitchen shelf.",
+            "[person_1] may be hit by [person_1].",
+            "[person_1] will need a micro."
+        ],
+        "reason": [
+            "Because [person_1] is practicing for the competition.",
+            "A bigger cup has enough space for more dice.",
+            "When [person_1] put the dices on each other , the column is high and may possibly fall down.",
+            "The dog is big , and [person_1] is still a baby.",
+            "[person_1] would have been fussy because [person_1] kept getting poked by [person_1]."
+        ]
+    }
+}

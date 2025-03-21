@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [bed_1] big?",
+        "answer": [
+            "Just one.",
+            "Yes , it is.",
+            "The text is white.",
+            "[bed_1] is near some trees.",
+            "[bed_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is spraying a cupboard.",
+            "[person_1] is instructing someone how to stack cups.",
+            "[person_1] is doing somersaults."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue to stand there.",
+            "[person_1] is certain to spray the rest of the cupboard.",
+            "[person_1] may turn around.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to practice."
+        ],
+        "reason": [
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] is snowmobiling.",
+            "[person_1] wants to make the cupboard brighter.",
+            "[person_1] has run out of cards",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is turned off?",
+        "answer": [
+            "[person_1] will find a hammer.",
+            "[person_1] will not be able to water the plants.",
+            "[person_1] will stop spraying temporarily.",
+            "[person_1] can not deal with the music.",
+            "The performers may stop their performance."
+        ],
+        "reason": [
+            "The workers need to repair the light.",
+            "Because a broken knife is useless.",
+            "An iron needs the electricity to work.",
+            "There is no light in the room.",
+            "[bed_1] is a baby and [bed_1] will fall very easily."
+        ]
+    }
+}

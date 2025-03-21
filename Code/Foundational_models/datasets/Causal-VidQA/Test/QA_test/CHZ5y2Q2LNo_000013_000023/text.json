@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] is using a towel.",
+            "There are two cymbals.",
+            "[person_1] is using pliers.",
+            "[person_1] uses a metal claw.",
+            "[person_1] uses an electric drill and a bolt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why can pliers open the bottle so smoothly?",
+        "answer": [
+            "[person_1] is instructing how to spin the yarn.",
+            "Because [person_1] needs the chessman to complete the movement of [person_1].",
+            "Because the [person_1] cleaned the [person_1].",
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "Pliers is a kind of tool expending less force but generate great effect."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to climb.",
+            "[person_1] is going to continue to dance.",
+            "[person_1] will enjoy the coco.",
+            "[person_1] will drive the car into the yard.",
+            "[person_1] will serve her customers with the champagne."
+        ],
+        "reason": [
+            "To show how to cut the board.",
+            "The butterfly is unfinished.",
+            "[person_1] is practicing hard.",
+            "[person_1] did a stupid action.",
+            "[person_1] is a service in this bar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if someone crashed to the shelf behind [person_1] accidentally?",
+        "answer": [
+            "[person_1] will not go back home.",
+            "The bottles and goblet would fall and break.",
+            "Maybe [person_1] will use something else as a weapon.",
+            "The [person_1] can throw the shot properly and get the target.",
+            "[person_1] would call his mother to help [person_1]."
+        ],
+        "reason": [
+            "It's impolite not to open the door because the doorbell rings.",
+            "Elder people don't like headbanging.",
+            "There are many goblets and bottles on the shelf and they are settled very closely.",
+            "To check the condition of the body.",
+            "It's time for lunch."
+        ]
+    }
+}

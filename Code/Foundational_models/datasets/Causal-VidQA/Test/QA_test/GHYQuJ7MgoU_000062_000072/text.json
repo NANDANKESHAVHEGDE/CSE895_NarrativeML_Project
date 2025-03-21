@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[person_1] is next to [chair_1].",
+            "The [chair_1] is next to the wall.",
+            "[person_1] is sitting on the sofa.",
+            "The [chair_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look down?",
+        "answer": [
+            "[person_1] looks down to watch the step of [person_1].",
+            "Because [person_1] wants to see the gift [person_1] receives.",
+            "Maybe [person_1] is playing soccer with friends.",
+            "Because [person_1] holds a mirror and [person_1] looks down to look at the mirror.",
+            "[person_1] is painting the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the legs down.",
+            "[person_1] is going to lift heavier weights.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to look up.",
+            "[person_1] is going to stop wrapping presents."
+        ],
+        "reason": [
+            "A massage is unlikely to be free.",
+            "Because there is someone sitting in front of [person_1].",
+            "There is no bar of soap there.",
+            "[person_1] has finished this cup of drink.",
+            "[person_1] is very satisfied with her research."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not hold a mirror?",
+        "answer": [
+            "[person_1] may not look down.",
+            "[person_1] would not have the copy.",
+            "[person_1] would try the wine.",
+            "[person_1] , [person_1] and [person_1] might have some gossip with other people.",
+            "[person_1] will have to move to somewhere else to concentrate on the music."
+        ],
+        "reason": [
+            "Two kids found out they've been tricked.",
+            "[person_1] is trying to print or copy something by the machine.",
+            "[person_1] is a little baby.",
+            "The mirror is a reflective surface . [person_1] can see her appearance in the mirror.",
+            "Because there was nothing in the hand of [person_1]."
+        ]
+    }
+}

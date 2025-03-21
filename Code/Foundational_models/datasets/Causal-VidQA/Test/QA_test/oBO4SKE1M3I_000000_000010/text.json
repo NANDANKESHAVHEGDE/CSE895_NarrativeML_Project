@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is tickling [person_1] and [person_1].",
+            "[person_1] is taking mortar.",
+            "[person_1] is snatching weight lifting.",
+            "[person_1] is looking at himself.",
+            "[person_1] is turning the body."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] take mortar?",
+        "answer": [
+            "Because [person_1] opened the beer cap very easily.",
+            "[person_1] takes mortar for plastering the walls.",
+            "[person_1] holds a hammer to strike at the tire hard.",
+            "[person_1] is the singer.",
+            "Because [person_1] is so excited."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use more dice.",
+            "[person_1] will read books.",
+            "[person_1] will carry on plastering the walls.",
+            "[person_1] is bound to play the guitar.",
+            "[person_1] is going to water the plants."
+        ],
+        "reason": [
+            "Because the walls have not been plastered completely yet.",
+            "The tire is fully inflated.",
+            "Maybe have run out of water.",
+            "The performance has not finished yet.",
+            "[person_1] is resting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls to the ground?",
+        "answer": [
+            "[person_1] will drop the mortar on the ground.",
+            "[person_1] will throw it in the trash.",
+            "[person_1] may stand up by herself and continue to play.",
+            "[person_1] will laugh.",
+            "[person_1] will go get it."
+        ],
+        "reason": [
+            "Because the water in the bucket will spill out.",
+            "There are so many trees near targets , so if [person_1] misses the target , [person_1]'s arrow will probably hit a tree.",
+            "Because [person_1] is playing alone and nobody is here.",
+            "Because [person_1] is holding mortar and can not keep balance so the mortar will fall to the ground.",
+            "[person_1] haven't finish the [person_1] . So he can't eat the next donut."
+        ]
+    }
+}

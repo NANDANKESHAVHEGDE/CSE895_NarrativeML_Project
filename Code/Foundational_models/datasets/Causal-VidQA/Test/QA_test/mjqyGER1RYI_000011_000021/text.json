@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is watering plants.",
+            "[person_1] is touching the organ.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is peeling a banana."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] peel a banana?",
+        "answer": [
+            "[person_1] is performing a song with the maracas.",
+            "Because [person_1] wants the plant to retain moisture.",
+            "[person_1] is performing spinning plates.",
+            "[person_1] is showing how to peel a banana easily.",
+            "Because the [person_1] wants to keep warm in the snow."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will call the rescue team.",
+            "[person_1] is going to eat a banana.",
+            "Maybe [person_1] will drink water.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to play there."
+        ],
+        "reason": [
+            "A banana was peeled , so [person_1] should eat it.",
+            "[person_1] is holding the bottle.",
+            "Maybe [person_1] will continue playing.",
+            "[person_1] is holding a glass of water.",
+            "Because [person_1] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can't peel a banana easily?",
+        "answer": [
+            "They would ask their mother to play the game with them.",
+            "[person_1] will hit the [person_1].",
+            "The [person_1] will go to somewhere else to get water.",
+            "Maybe [person_1] will try again with another banana.",
+            "The [person_1] will be more excited."
+        ],
+        "reason": [
+            "Because [person_1] and [person_1] need to shelter from the rain.",
+            "The water in the pool will seep into [person_1] pants.",
+            "Because [person_1] is showing how to peel a banana.",
+            "[person_1] will need help.",
+            "Because the [person_1] hasn't seen a real cow yet."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is pouring the champagne into the goblet.",
+            "[person_1] is reading a fairy tale book.",
+            "[person_1] is screwing the cap of the bottle.",
+            "[person_1] is peeling a coco."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] open the bottle?",
+        "answer": [
+            "[person_1] strikes the bottle cap with the foot of the goblet.",
+            "[person_1] is moving her hand to change her clothe in the virtual reality screen.",
+            "[person_1] puts her eyebrows up and down to record a video.",
+            "Because [person_1] is just a baby and he can not stand by himself yet.",
+            "[person_1] is playing a very difficult song on guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will lay on the floor.",
+            "[person_1] will keep shaving [person_1]'s left leg.",
+            "[person_1] will drink the liquid in the goblet.",
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "Maybe [person_1] will keep playing lute until sunset."
+        ],
+        "reason": [
+            "Because [person_1] is now explaining how to use it.",
+            "[person_1] has filled the goblet with champagne.",
+            "[person_1] may sing and play more than.",
+            "Because of the snow , the road is frozen . Maybe [person_1] does it for fun.",
+            "Because [person_1] has already massaged the left foot of the customer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen to the goblet if he struck violently?",
+        "answer": [
+            "The mother would comfort the babies.",
+            "It would be still.",
+            "[person_1] might be considered weird.",
+            "It would be broken.",
+            "[person_1] would get wet."
+        ],
+        "reason": [
+            "Because she can only stand if she can't sit.",
+            "The goblet is fat and easy to be broken.",
+            "Because they disturb the woman to play games.",
+            "The goblet is thin and easy to be broken.",
+            "He had nothing of his own to bind up."
+        ]
+    }
+}

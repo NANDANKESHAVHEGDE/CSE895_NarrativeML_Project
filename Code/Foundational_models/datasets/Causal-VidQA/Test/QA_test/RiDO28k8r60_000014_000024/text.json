@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many steps are there?",
+        "answer": [
+            "A helmet.",
+            "It is full of exercise equipment.",
+            "Three.",
+            "[person_1] is holding [person_1].",
+            "Standing still."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit on the couch?",
+        "answer": [
+            "It seems that the [person_1] wants to pick something in the [person_1].",
+            "Because [person_1] wants to experience lawn mowing.",
+            "Because [person_1] can be more comfortable on the couch.",
+            "Because [person_1] wants to make it harder to open [person_1].",
+            "[person_1] is a conductor and [person_1] is leading the band."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "[person_1] will sit down and rest.",
+            "[person_1] is going to open it.",
+            "[person_1] will wait for several seconds.",
+            "[person_1] will stop eating.",
+            "[person_1] will probably shrug his leg."
+        ],
+        "reason": [
+            "[person_1] has shown step 4 & 5.",
+            "Because it tastes good.",
+            "[person_1] is holding breath.",
+            "[person_1] is not likely to stop singing.",
+            "[person_1] feels very comfortable now and wants to express herself."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone makes faces at her?",
+        "answer": [
+            "[person_1] and [person_1] will help her.",
+            "[person_1] will have to clean the shirt.",
+            "[person_1] will face danger that can lead to the death.",
+            "[person_1] and [person_1] will stop dancing.",
+            "[person_1] will laugh."
+        ],
+        "reason": [
+            "Whether the performance is good or not depends on its score.",
+            "The performer might be hurt.",
+            "It's too dangerous.",
+            "Making faces is too funny.",
+            "To see what goes wrong."
+        ]
+    }
+}

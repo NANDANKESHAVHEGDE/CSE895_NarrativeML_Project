@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the car.",
+            "[person_1] is in the house.",
+            "[person_1] is in the room",
+            "[person_1] is in the outside.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the right?",
+        "answer": [
+            "[person_1] is relaxing.",
+            "[person_1] is washing his hair.",
+            "Because [person_1] does not drive.",
+            "[person_1] wants to build a cup tower on the floor.",
+            "[person_1] is teaching martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going grab something.",
+            "[person_1] is going to lie on the ground.",
+            "[person_1] is going to bow down to fondle a kangaroo.",
+            "[person_1] is going to hold a stick.",
+            "[person_1] is going to continue talking."
+        ],
+        "reason": [
+            "[person_1] is very satisfied with her research.",
+            "[person_1] is stills a baby so [person_1] loves gifts.",
+            "Because [person_1] opens his mouth.",
+            "Maybe [person_1] likes to play it.",
+            "[person_1] is holding the flute and is about to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the weather turns rainy?",
+        "answer": [
+            "The car will move slower.",
+            "That team will lose easily.",
+            "It will be broken.",
+            "Maybe they will be more excited.",
+            "The video will have only two persons."
+        ],
+        "reason": [
+            "[person_1] raised his hand with an effort to wait for a bird to land in his hand.",
+            "The person does not fold the paper in a right way . ",
+            "Her leg would be broken.",
+            "Because , if it rains , the road will be slippery.",
+            "Because fire on the roof is very dangerous for their safety."
+        ]
+    }
+}

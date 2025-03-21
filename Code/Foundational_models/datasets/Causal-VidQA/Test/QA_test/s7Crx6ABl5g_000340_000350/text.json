@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is introducing how to slam the tire.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is reading newspaper on the sofa.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is working out at a gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] drink a cup of tea?",
+        "answer": [
+            "The man in front of the person stumbled.",
+            "[person_1] is being interviewed.",
+            "[person_1] is thirsty.",
+            "[person_1] doesn't have a car.",
+            "The gong in front of [person_1] is enormous."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will return to the starting position.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may cheer up.",
+            "[person_1] is going to continue reading the newspaper."
+        ],
+        "reason": [
+            "[person_1] has not finished reading the newspaper yet.",
+            "[person_1] will chop the green bell pepper because in one hand [person_1] holds a chili pepper and in the other [person_1] holds a knife.",
+            "[person_1] has eaten the apple in the hand.",
+            "[person_1] has food on hand.",
+            "[person_1] is leaning forward to take the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [cup_1] falls to the ground?",
+        "answer": [
+            "[cup_1] find a place for a shelter and wait for the result.",
+            "[cup_1] find a place for a shelter and wait for the result.",
+            "[cup_1] finds a place for a shelter and waits for the result.",
+            "[cup_1] is going to be broken into many pieces on the ground.",
+            "[cup_1] , [cup_1] , [cup_1] , [cup_1] would not start the match."
+        ],
+        "reason": [
+            "The [cup_1] flips the pan to flip the food in the pan over the [cup_1].",
+            "[cup_1] and [cup_1] don't have an umbrella.",
+            "Field hockey cannot be played without a hockey ball.",
+            "[cup_1] is outside and the wool would get wet.",
+            "[cup_1] is easily to be broken when falling to the floor."
+        ]
+    }
+}

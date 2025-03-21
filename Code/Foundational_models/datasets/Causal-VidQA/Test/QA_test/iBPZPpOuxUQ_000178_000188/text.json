@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [teddy bear_1] behind [person_1]?",
+        "answer": [
+            "[person_1] is playing guitar.",
+            "Yes , the [teddy bear_1] is.",
+            "[person_1] is smiling and playing piano.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing the guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] have to keep the gift box?",
+        "answer": [
+            "[person_3] is helping [person_3] to do lunges.",
+            "Because [person_1] is currently in a room without light.",
+            "[person_3] wants the box to be secure for [person_1] opens the box.",
+            "[person_1] , [person_1] and [person_3] are playing mahjong.",
+            "Because [person_1] is teaching [person_3] how to read book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to step on the squash.",
+            "Bake the dough batch after batch.",
+            "Maybe [person_1] is going to start open the present."
+        ],
+        "reason": [
+            "[person_1] wants to reach higher.",
+            "The present is being put in front of [person_1].",
+            "[person_1] wants to relax with this game.",
+            "[person_1] is in the beach.",
+            "Something is making [person_1] happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_3] do if [person_1] can't open the present?",
+        "answer": [
+            "Maybe [person_1] will hang them up.",
+            "[person_1] will hug the cat.",
+            "[person_1] will go to the bedroom.",
+            "[person_3] will help [person_1] to open it.",
+            "Maybe [person_1] will get injured."
+        ],
+        "reason": [
+            "Maybe [person_1] does it for fun.",
+            "The bagpipe is quite big and heavy.",
+            "Because [person_1] wants to eat honey.",
+            "Under the Christmas tree , there are a lot of gifts.",
+            "[person_1] is a mere baby."
+        ]
+    }
+}

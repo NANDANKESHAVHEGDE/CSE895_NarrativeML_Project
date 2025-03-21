@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is next to [chair_1].",
+            "[chair_1] is under [person_1].",
+            "It is on the right of [person_1].",
+            "The [chair_1] is on the left of the [person_1].",
+            "[chair_1] is on the left hand side of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have his legs tied with the rubber string?",
+        "answer": [
+            "[person_1] is showing how to squeeze oranges with a juicer.",
+            "[person_1] with long hair puts the bottle's bottom into the shoe and strikes the shoe against wall.",
+            "To introduce mountain - climbing exercises.",
+            "For fear of breaking the ground.",
+            "[person_1] does pull - ups with the help of the rubber string"
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to pull his body up.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to practice.",
+            "[person_1] may change another tool.",
+            "[person_1] will chop the green bell pepper."
+        ],
+        "reason": [
+            "[person_1] is ripping paper.",
+            "[person_1] is a hard - working person.",
+            "[person_1] is still tied with the string.",
+            "[person_1] is sitting on the snowmobile.",
+            "[person_1] is in the gymnastic."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops doing pull - ups ?",
+        "answer": [
+            "The chess pieces will fall.",
+            "[person_1] and [person_1] would get serious injuries.",
+            "[person_1] and [person_1] will go out and play in the snow.",
+            "The man will get off the truck and help [person_1].",
+            "[person_1] may feel inactive."
+        ],
+        "reason": [
+            "Because the decorative topping would be messed up.",
+            "Doing exercise makes people more active.",
+            "He will find someone to fix it",
+            "Paper can't be eaten.",
+            "[person_1] would try to get [person_1] away from him because being licked by him would be disgusting."
+        ]
+    }
+}

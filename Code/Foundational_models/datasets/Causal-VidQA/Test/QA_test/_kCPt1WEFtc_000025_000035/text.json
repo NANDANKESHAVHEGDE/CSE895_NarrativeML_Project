@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is a [bicycle_1]?",
+        "answer": [
+            "It is black.",
+            "Yes.",
+            "The [bicycle_1] is sporty.",
+            "No.",
+            "The [bicycle_1] is being held by the [bicycle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] keeping the posture?",
+        "answer": [
+            "[person_1] is too young to hold the inhaler by himself.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_1] goes out.",
+            "The [person_1] likes to play accordion in free time.",
+            "Maybe [person_1] is instructing someone on a gesture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] about to do?",
+        "answer": [
+            "[person_2] is bound to celebrate something.",
+            "[person_2] is going to join a baseball match.",
+            "[person_2] is likely to share about this topic.",
+            "[person_2] tends to play tug of war in the yard.",
+            "[person_2] is going to take a ride on a toy car."
+        ],
+        "reason": [
+            "Because iron needs to be struck while it is hot.",
+            "Because the [person_2] and the [person_2] seem to be making some kind of pastry.",
+            "[person_2] looks knowledgeable in this field.",
+            "Because the herd of the [person_2] is moving to eat grass.",
+            "[person_2] raises her foot and kicks at the object [person_2] is holding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is thirsty?",
+        "answer": [
+            "[person_2] will change the diaper.",
+            "[person_2] would not get the tone [person_2] wants.",
+            "[person_2] will wrap presents easier.",
+            "Perhaps [person_2] will drink water.",
+            "[person_2] will not put the ice."
+        ],
+        "reason": [
+            "[person_2] won't be able to play with maracas.",
+            "[person_2] is working so hard.",
+            "[person_2] will need to drink.",
+            "It is probable that [person_2] mother will have something important to tell him.",
+            "[person_2] can not sing."
+        ]
+    }
+}

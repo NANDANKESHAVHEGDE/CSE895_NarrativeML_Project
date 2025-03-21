@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cup_1]?",
+        "answer": [
+            "The hat is white.",
+            "[cup_1] is on the table.",
+            "It is brown.",
+            "[cup_1] is playing the drums.",
+            "The [cup_1] is on the [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is reading book.",
+            "[person_1] is reading the newspaper.",
+            "[person_1] is reading a book.",
+            "[person_1] is excited about stacking the cups.",
+            "Because [person_1] is spraying paint on the picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may hug others.",
+            "[person_1] will continue turning over.",
+            "[person_1] is going to have a meal.",
+            "[person_1] will bend back.",
+            "[person_1] may close the window."
+        ],
+        "reason": [
+            "[person_1] is lifting weights.",
+            "There is a [dining table_1] here.",
+            "[person_1] is ripping paper.",
+            "The message says he should come home for dinner.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] the cat jumps onto the cup?",
+        "answer": [
+            "The cup will fall.",
+            "The drill of [person_1] would not be effective.",
+            "The cup will break.",
+            "[person_1] will hug the cat.",
+            "The cup will be soft."
+        ],
+        "reason": [
+            "[person_1] does not wear any protective arms.",
+            "A cup is quite light.",
+            "The shape of the cake is very difficult to make with just one look.",
+            "A cup is quite tough.",
+            "[person_1] and [person_1] are sitting together."
+        ]
+    }
+}

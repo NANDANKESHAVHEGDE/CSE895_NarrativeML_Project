@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "The house is beside the path , among many trees.",
+            "[person_1] is skating on the stage.",
+            "[person_1] is in the garden.",
+            "[person_1] is in the room.",
+            "It is sunny and has snow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a helmet?",
+        "answer": [
+            "[person_1] is ripping paper.",
+            "[person_1] is using [person_1] to squeeze oranges.",
+            "Because [person_1] wants to be safe when skiing.",
+            "[person_1] is watering the plants.",
+            "[person_1] wants to master this action."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to playing guitar.",
+            "[person_1] intends to continue skiing.",
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to use the tip of his finger to gently push the contact lens out.",
+            "[person_1] intends to throw something."
+        ],
+        "reason": [
+            "Because [person_1] crouches down toward the pool table.",
+            "[person_1] is holding it.",
+            "[person_1] turns around to leave.",
+            "[person_1] is moving forward.",
+            "[person_1] may try to keep balance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the weather gets rainy?",
+        "answer": [
+            "[person_1] will stop skiing.",
+            "Maybe they will dance more.",
+            "It is probable that [person_1] will be happy.",
+            "[person_1] will stop playing checkers.",
+            "[person_1] will get wet."
+        ],
+        "reason": [
+            "If it rains , skiing is very dangerous.",
+            "[person_1] can't play checkers in the rain.",
+            "Because [person_1] is a man , he doesn't wear dress.",
+            "[person_1] will need to aim more accurately.",
+            "[person_1] will not notice."
+        ]
+    }
+}

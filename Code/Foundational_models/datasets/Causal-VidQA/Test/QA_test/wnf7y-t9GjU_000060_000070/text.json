@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of cloth of [person_1]?",
+        "answer": [
+            "The ladder is white.",
+            "It's dark blue.",
+            "Red.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the microscope changed?",
+        "answer": [
+            "Maybe the weather is cold.",
+            "The weather is sunny.",
+            "Because it's a electronic device.",
+            "[person_1] is practicing walking with crutches after illness.",
+            "[person_1] is plastering a high wall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to turn the knob on the microscope.",
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to continue skiing."
+        ],
+        "reason": [
+            "The baby fell.",
+            "Riding a mechanical bull is hot.",
+            "Adjusting a microscope requires adjusting both the objective and the focal length.",
+            "Maybe [person_1] is a earthen pot.",
+            "Maybe [person_1] likes [person_1] outfit."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sit on a chair to prepare the microscope?",
+        "answer": [
+            "The battery can be seen.",
+            "[person_1] will accept the offer.",
+            "It may fall out of the pan.",
+            "It will be easier and more comfortable for her.",
+            "[person_1] would find it difficult to raise his body up."
+        ],
+        "reason": [
+            "They could become the experts.",
+            "Because a piece of the burger is not easy to swallow.",
+            "[person_1] puts effort and time into making money being a street performer and would not want a thief to steal his money.",
+            "[person_1] perhaps want to practice.",
+            "The table is too high for her."
+        ]
+    }
+}

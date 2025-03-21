@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many columns are there in the video?",
+        "answer": [
+            "These people are standing in a park.",
+            "There is only one column in the video.",
+            "There are three people.",
+            "There are four people.",
+            "There are 6 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] play the clarinet in a short moment?",
+        "answer": [
+            "[person_1] is practicing stacking cups.",
+            "[person_1] , [person_1] and [person_1] are performing together.",
+            "[person_1] leans forward to press the toy in front of [person_1] down.",
+            "To make the hair less likely to fall out.",
+            "[person_1] is testing the present instruments."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to test other instrument.",
+            "[person_1] is going to step back and observe [person_1].",
+            "[person_1] is going to use his hand to tamp the soil.",
+            "[person_1] will add another liquor.",
+            "[person_1] will continue to turn off the faucet."
+        ],
+        "reason": [
+            "It can not be eat.",
+            "It's important for them to remember.",
+            "[person_1] is wearing tap dancing shoes.",
+            "From other's behavior we can know after practicing the people need to stand in a line.",
+            "There are variety of instruments in the room."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] drop the clarinet?",
+        "answer": [
+            "[person_1] has to pay for it.",
+            "The person will turn his head around to see.",
+            " [person_1] and [person_1]'s parents will come here.",
+            "The person on the right may ride away.",
+            "[person_1] will call the fitness coach."
+        ],
+        "reason": [
+            "The [person_1] is careful when playing soccer.",
+            "[person_1] is a tester not an owner.",
+            "[person_1] is the youngest person and has not yet developed complete motor skills.",
+            "The [person_1] eats the sausage bread roll once like other food.",
+            "Because the knife is very sharp."
+        ]
+    }
+}

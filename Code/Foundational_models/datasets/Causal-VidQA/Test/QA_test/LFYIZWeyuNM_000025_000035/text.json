@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the shelf?",
+        "answer": [
+            "the shirt of [book_1] is white.",
+            "A violin is placed behind and on the right side of [book_1].",
+            "The [book_1] is on the phone.",
+            "[book_1] is on the shelf.",
+            "the sharpener of [book_1] looks like an unicorn."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] rotate his wrist?",
+        "answer": [
+            "[person_1] is playing maracas and he wants to produce some sounds with the maracas.",
+            "[person_1] is opening her present.",
+            "[person_1] is training spinning poi.",
+            "[person_1] is singing and dancing at the same time.",
+            "[person_1] is reading the newspaper and playing the harmonica at the moment."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to practice some new skills.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to keep beating.",
+            "[person_1] is going to do some dance moves.",
+            "[person_1] is going to play baseball."
+        ],
+        "reason": [
+            "[person_1] is sitting near the [person_1].",
+            "[person_1] holding a water bottle.",
+            "Poi spinner often performs the appropriate dance moves.",
+            "[person_1] wants to explore about this book.",
+            "[person_1] seems to enjoy playing it very much."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] swings his arms too strong?",
+        "answer": [
+            "The light bulb may be broken.",
+            "It might run away from [person_1] before he could catch it again.",
+            "The driver of [person_1] may pay a fine and may take some punitive measures.",
+            "[person_1] will fall.",
+            "The [person_1] will try to wash the clothes again."
+        ],
+        "reason": [
+            "The force of inertia of the poi is large enough to break the light bulb.",
+            "[person_1] is still a baby.",
+            "The temperature of the oil is very high.",
+            "Because documents has been cut into pieces.",
+            "To buy a new one."
+        ]
+    }
+}

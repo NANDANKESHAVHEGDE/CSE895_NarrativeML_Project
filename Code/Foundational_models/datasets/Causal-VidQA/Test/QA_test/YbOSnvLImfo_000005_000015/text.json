@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are two people.",
+            "There are four people.",
+            "There are six people.",
+            "There are four.",
+            "There are three people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] needs to be outside to play basketball.",
+            "[person_1] is riding unicycle.",
+            "[person_1] is trying to slackline.",
+            "[person_1] is relaxing.",
+            "Maybe [person_1] is managing workers who are cutting wood."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is predicted that [person_1] will play the cello.",
+            "[person_1] will definitely pull the rope.",
+            "Maybe [person_1] will keep playing lute until sunset.",
+            "[person_1] will show many skills",
+            "[person_1] will keep shining shoes"
+        ],
+        "reason": [
+            "[person_1] can not stand up properly.",
+            "Because sitting on the tree is dangerous.",
+            "[person_1] is riding fast.",
+            "[person_1] will work very good.",
+            "[person_1] is hover boarding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] and [person_1] maybe stop working.",
+            "[person_1] and [person_1] will set up a tent.",
+            "[person_1] and everyone will stop working.",
+            "[person_1] will get wet.",
+            "[person_1] won't be able to continue his practice."
+        ],
+        "reason": [
+            "The cows will get wet.",
+            "[person_1] will stop riding.",
+            "Because rain will destroy the beehives.",
+            "There is no umbrella or shelter from the rain around [person_1].",
+            "The concrete gets wet."
+        ]
+    }
+}

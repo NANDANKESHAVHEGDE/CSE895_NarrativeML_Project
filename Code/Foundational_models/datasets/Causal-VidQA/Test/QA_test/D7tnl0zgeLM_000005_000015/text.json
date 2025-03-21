@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on stage.",
+            "[person_1] and [person_2] are in the garden.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "[person_1] and [person_2] are on the schoolyard.",
+            "[person_1] and [person_2] are in their house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing there?",
+        "answer": [
+            "[person_1] and [person_2] are playing darts.",
+            "Because [person_1] is playing the cello.",
+            "[person_1] and [person_2] are skipping rope.",
+            "[person_1] wants to teach this exercise to everyone.",
+            "[person_2] picks up the dropped ball to throw."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will take advantage of the chair to open.",
+            "[person_1] will continue to hug [person_1].",
+            "[person_1] will continue to play.",
+            "[person_1] will come down to have a rest."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "[person_1] looks very happy.",
+            "Because [person_1] divides the money into piles.",
+            "Maybe [person_1] is afraid of something.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the rope break?",
+        "answer": [
+            "The parrot would not fly out of [person_1]'s hand.",
+            "The [person_1] might take the shovel of the [person_2].",
+            "[person_1] and [person_2] would stop playing.",
+            "The kid who is wearing the pink clothes would be wet.",
+            "Maybe [person_1] can throw it in."
+        ],
+        "reason": [
+            "[person_1] , [person_2] and everyone would reconnect the rope.",
+            "The people stomping the grapes would have a hard time maintaining their balance.",
+            "The woman with the white shirt is stomping grapes.",
+            "Because the frisbee was blocked by a lot of sundries in the yard.",
+            "The [person_2] is on the margin of the sideboard."
+        ]
+    }
+}

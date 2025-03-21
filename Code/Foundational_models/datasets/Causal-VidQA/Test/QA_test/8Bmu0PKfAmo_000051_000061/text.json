@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is inside.",
+            "[person_1] is on the stage.",
+            "[person_1] is near the window.",
+            "[person_1] is on the basketball court.",
+            "[person_1] is in the room"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [sports ball_1]?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing guitar.",
+            "[person_1] is doing exercises.",
+            "[person_1] is recording a video.",
+            "[person_1] sits on a chair to play the drums better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to cross the street.",
+            "[person_1] is going to practice more.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] will get more cards"
+        ],
+        "reason": [
+            "[person_1] is a beginner.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] is going to feel tired.",
+            "[person_1] is not going to stop.",
+            "[person_1]'s shooting form is not good."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if another person comes to play with [person_1] ?",
+        "answer": [
+            "[person_1] and that person will play 1 vs 1.",
+            "The friend of [person_1] may drink alone.",
+            "The goat will go to [person_1].",
+            "[person_1] will go away.",
+            "Maybe [person_1] will be joyous."
+        ],
+        "reason": [
+            "[person_1] will want to test his level.",
+            "[person_1] is not strong enough to keep balance with the heavy weights.",
+            "Dinner has prepared by [person_1]'s parents.",
+            "[person_1] competing in the Olympics , and everything is perfect except the landing.",
+            "[person_1] will focus on playing."
+        ]
+    }
+}

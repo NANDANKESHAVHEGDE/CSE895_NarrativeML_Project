@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the door?",
+        "answer": [
+            "The door is behind [person_1].",
+            "The room is quite small.",
+            "The room is small.",
+            "It is untidy.",
+            "It is narrow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise [person_1]'s left hand?",
+        "answer": [
+            "[person_1] sits in order to play the drums more conveniently.",
+            "[person_1] closes her eyes to get pleasure from the music.",
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "[person_1] stands up to pick up the dice that is flown outside.",
+            "[person_1]'s left hand is raised to hold the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_1]'s right hand move next?",
+        "answer": [
+            "[person_1]'s right hand will probably hit the guitar body.",
+            "[person_1] will continue to practice skating.",
+            "[person_1]'s head will still hang down.",
+            "[person_1] will show the next step.",
+            "[person_1] will keep on dancing."
+        ],
+        "reason": [
+            "[person_1] has run towards the left road at the end of the video.",
+            "[person_1]'s right hand will probably hit the guitar body because [person_1] used to do that move to make sound.",
+            "[person_1] wants to show people how to do it.",
+            "[person_1] makes it do that.",
+            "[person_1] is showing how to use the tool."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] stood while playing the piano?",
+        "answer": [
+            "[person_1] could still play normally.",
+            "The crocodile may attack [person_1].",
+            "The hair will be damaged.",
+            "[person_1] could not even hold the strainer.",
+            "Others will be frightened."
+        ],
+        "reason": [
+            "[person_1] wants to thank the audience.",
+            "There is no gravity , so water drops will fly everywhere.",
+            "[person_1] could still play normally but it would not be as comfortable as sitting.",
+            "[person_1] does not know how to walk the dogs.",
+            "[person_1] will have to be redone."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a brown cowboy hat.",
+            "The [person_1] is wearing a white tank top and black shorts.",
+            "The [person_1] is playing throwing snowballs with others.",
+            "The [person_1] is doing exercise.",
+            "The [person_1] is riding a unicycle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] standing on a ladder?",
+        "answer": [
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] presses the handles and the cork is pulled out.",
+            "[person_1] is planing wood.",
+            "[person_1] blows the clarinet attentively.",
+            "The [person_1] is harvesting apples and the apple branches are high."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to wash the blue plate with water.",
+            "The [person_1] is going to continue to harvest apples.",
+            "The [person_1] may practice hitting the ball more than three times.",
+            "The [person_1] may shoot the [person_1].",
+            "The [person_1] is going to close the refrigerator door."
+        ],
+        "reason": [
+            "The [person_1] is walking toward the house.",
+            "The [person_1] has just taken an apple and the [person_1] is looking at the apple branch.",
+            "The [person_1] keeps the dog with [person_1] and comforts it.",
+            "The [person_1] begins skating and wishes to skate around.",
+            "The [person_1] moves a big step when the [person_1] tries to catch the banisters."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the ladder of the [person_1] fell?",
+        "answer": [
+            "The [person_1] would not fall.",
+            "[person_1] will be sad.",
+            "The [person_1] would be interrupted while playing game.",
+            "The [person_1] would get injured.",
+            "Maybe [person_1] and [person_1] will have to go get more."
+        ],
+        "reason": [
+            "Because [person_1] is doing the housework.",
+            "The [person_1] is standing on the ladder.",
+            "If the crocodile is attacked , the crocodile will attack [person_1] in turn.",
+            "The poles help [person_1] to balance on the ground.",
+            "[person_1] and [person_1] are in the way of the car."
+        ]
+    }
+}

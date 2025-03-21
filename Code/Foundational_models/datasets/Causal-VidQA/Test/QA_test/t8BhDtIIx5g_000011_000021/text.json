@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_2] is singing a song of her.",
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] is plastering in a careful way.",
+            "[person_1] is smashing something.",
+            "[person_1] is tickling [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_2] laughing?",
+        "answer": [
+            "[person_2] claps his hand to congratulate [person_1].",
+            "[person_1] has to listen to music to sync his drumbeats accurately.",
+            "Because a lot of people want to see their body after training.",
+            "[person_2] is playing with his phone.",
+            "[person_2] is not focusing on what [person_1] is doing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may try to get [person_2]'s attention by keep tickling him.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to keep dancing.",
+            "[person_1] will probably stop pirouetting.",
+            "[person_1] may go back home."
+        ],
+        "reason": [
+            "[person_1] drinks all the wine in the bottle.",
+            "[person_1] has eaten the apple in the hand.",
+            "[person_1] has towel in the hand.",
+            "[person_1] stops shaking the rope.",
+            "When [person_2] looks away and points to something , [person_1] keeps trying to get his attention."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] stands up?",
+        "answer": [
+            "[person_2] will continue talking.",
+            "[person_2] will wash hands by himself.",
+            "[person_2] may go to the other place.",
+            "[person_2] will greet with them.",
+            "[person_2] may get ill."
+        ],
+        "reason": [
+            "[person_1] and [person_2] haven't eaten any hamburger yet.",
+            "[person_1] will play alone.",
+            "When [person_2] stands by [person_1] , [person_2] will protect [person_1] from being injured.",
+            "Contact lenses make [person_1] have sparkling eyes.",
+            "When [person_2] sits on [person_1]'s laps , he keeps looking and pointing to something else."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many cups haven't been drunk which [person_1] will throw the ball into?",
+        "answer": [
+            "Treadmill jogging.",
+            "It is red.",
+            "It was 1987.",
+            "It's red.",
+            "Two cups haven't been drunk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the last 2 cups arranged into a single file line?",
+        "answer": [
+            "Maybe that person wanted to teach [person_2] the way to play the harmonica.",
+            "There is the grape stomp.",
+            "Perhaps playing the harmonica makes [person_1] happy.",
+            "Because they are having a visit together.",
+            "Perhaps arrange the last 2 cups into a single file line to make shooting easier for everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "To put the rest clothes in the washing machine.",
+            "[person_2] is going to cry.",
+            "[person_2] is going to stand up.",
+            "Perhaps [person_1] will throw the ball into a cup of the opposing team.",
+            "[person_2] is going to laugh."
+        ],
+        "reason": [
+            "[person_2] holds the ball and comes to [person_1].",
+            "[person_2] is walking towards the kids.",
+            "[person_1] went outside after throwing the ball into the cup.",
+            "[person_2] is raising fists of [person_2].",
+            "Because [person_2] loves dolphins."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits the same cup in beer pong?",
+        "answer": [
+            "The [person_1]'s team will be the losers.",
+            "[person_1] may have to repair the zipper.",
+            "The [person_1]'s team will be the winners.",
+            "[person_1] may stand up and climb on the [person_1] again.",
+            "The [person_1]'s team won't be the winners."
+        ],
+        "reason": [
+            "If [person_1] hits the same cup in beer pong , it is referred to as \u201c Death Cup \u201d . With this , the opposing team loses the game automatically.",
+            "[person_1] does not have to stop regularly to shovel the soil into the sieve because [person_1] can do the task.",
+            "If [person_1] hits the different cup in beer pong , it is referred to as \u201c Death Cup \u201d . With this , the opposing team loses the game automatically.",
+            "[person_1] wears a lot of clothes.",
+            "If [person_1] hits the same cup in beer pong , it is referred to as \u201c Death Cup \u201d . Without this , the opposing team loses the game automatically."
+        ]
+    }
+}

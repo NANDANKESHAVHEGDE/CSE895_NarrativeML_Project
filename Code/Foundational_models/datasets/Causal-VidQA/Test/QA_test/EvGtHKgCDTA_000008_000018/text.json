@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [refrigerator_1]?",
+        "answer": [
+            "[person_1] is in front of the garage.",
+            "[person_1] is parked on the runway behind [person_1].",
+            "[refrigerator_1] is in front of [person_1].",
+            "[refrigerator_1] is in front of the house.",
+            "[person_1] is in a garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a stick?",
+        "answer": [
+            "Because [person_1] wants to swim.",
+            "Because [person_1] is playing the gong in front of [person_1].",
+            "[person_1] is doing it for fun.",
+            "Because [person_1] is practicing sport.",
+            "Because [person_1] is the reflection of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is about to play the glass ball in his hand.",
+            "[person_1] is going to smash [refrigerator_1].",
+            "[person_1] is going to ride the horse.",
+            "Maybe [person_1] is going to stop to eat.",
+            "[person_1] maybe will give food to customers."
+        ],
+        "reason": [
+            "[person_1] is putting a towel on the [person_1] and talking about it.",
+            "[person_1] looks so excited when she plays hopscotch.",
+            "Because [person_1] is eating the donut.",
+            "Maybe [person_1] wants to express his anger.",
+            "[person_1] is going to try working faster."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] disappeared?",
+        "answer": [
+            "[person_1] wouldn't find another chair.",
+            "[person_1] will be happy.",
+            "[person_1] would find another chair.",
+            "[person_1] will take another cymbals to play.",
+            "[person_1] would find only one chair."
+        ],
+        "reason": [
+            "Because he can't fix it himself.",
+            "Because [person_1] wants to continue working.",
+            "Because the [person_1] wants to have some special experience.",
+            "Because [person_1] wants to stop working.",
+            "If [chair_1] suddenly falls down , [person_1] may not react and fall , and then the food in his hand will overturn."
+        ]
+    }
+}

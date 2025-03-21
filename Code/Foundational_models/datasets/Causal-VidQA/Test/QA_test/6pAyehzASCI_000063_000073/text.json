@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "The [couch_1] is behind [person_1].",
+            "[person_1] is behind [person_1].",
+            "The [person_1] is next to the [couch_1].",
+            "The [couch_1] is next to [person_1].",
+            "The [couch_1] is to the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the sweater?",
+        "answer": [
+            "[person_1] wants to wear the sweater.",
+            "Because [person_1] is playing the gong in front of [person_1].",
+            "Maybe [person_1] wants to take the wheelchair somewhere.",
+            "[person_1] takes care of [person_1].",
+            "Because [person_1] is helping [person_1] move."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep playing harmonica.",
+            "[person_1] is going to introduce about her book.",
+            "[person_1] is going to continue trying to put the sweater on one more time.",
+            "Maybe [person_1] is going to make a circle.",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "[person_1] is jumping very professionally.",
+            "[person_1] couldn't put on the sweater for the first time.",
+            "She is absorbed in dancing.",
+            "Because [person_1] looks very tired.",
+            "There are many trees in the garden."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_3] do if [person_1] can't wear the sweater?",
+        "answer": [
+            "The person will check the cause of the power failure.",
+            "[person_3] will not help [person_1] to wear.",
+            "[person_1] would not be allowed to join the practice by [person_1].",
+            "[person_3] will help [person_1] to wear.",
+            "Maybe [person_1] eats slower."
+        ],
+        "reason": [
+            "The [person_1] follows the rule because the [person_1] stands inside the ring.",
+            "Because [person_1] is just a little girl.",
+            "Because [person_1] was the person flipping the bottle and [person_1] didn't expect the bottle would hit the face of [person_1] . .",
+            "Because [person_1] is just a old girl.",
+            "Because [person_1] thinks [person_1] doesn't like [person_1]."
+        ]
+    }
+}

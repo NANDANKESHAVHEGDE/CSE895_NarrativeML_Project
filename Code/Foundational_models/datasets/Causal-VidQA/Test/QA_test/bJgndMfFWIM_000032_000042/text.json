@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the large ground.",
+            "[person_1] and [person_2] are in the living room.",
+            "[person_1] and [person_2] are outside.",
+            "[person_1] and [person_2] are in outside.",
+            "[person_1] and [person_2] are in the kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] play checkers?",
+        "answer": [
+            "[person_1] , [person_1] and [person_1] want to improve their physical health.",
+            "Because they are practicing roller - skating.",
+            "[person_1] plays chess by holding pieces and moving according to the rules.",
+            "Maybe [person_1] and [person_1] are practicing the army salute.",
+            "Maybe that person wanted to teach [person_1] the way to play the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to prepare for the next move.",
+            "[person_1] intends to fold another clothe.",
+            "[person_1] intends to keep dancing.",
+            "Maybe [person_1] intends to hug the baby.",
+            "[person_1] intends to keep cycling."
+        ],
+        "reason": [
+            "[person_1] puts your hand close to the chess piece.",
+            "[person_1] is reading the information in the newspaper very carefully.",
+            "[person_1] is playing very focused.",
+            "[person_1] is playing very well.",
+            "[person_1] is in a race."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [refrigerator_1] pours down?",
+        "answer": [
+            "[person_1] and [person_2] will stop the checkers.",
+            "[person_1] maybe will cry.",
+            "[person_1] will sleep on [person_2].",
+            "[person_1] will be happy.",
+            "The meat cannot be eaten by [person_1] any more."
+        ],
+        "reason": [
+            "[refrigerator_1] does not want to perform alone.",
+            "[refrigerator_1] will break the chessboard down.",
+            "Because she likes it.",
+            "Higher weights may be too heavy for [refrigerator_1] to lift.",
+            "The [refrigerator_1] will be drifting along the canal."
+        ]
+    }
+}

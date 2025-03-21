@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is white.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] is doing for fun.",
+            "[person_1] wants to keep healthy.",
+            "Because the water was flowing [person_1] ran out to water the plants.",
+            "[person_1] wants to keep fit.",
+            "There is no one except [person_1] is standing and playing bagpipes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to go home.",
+            "[person_1] want to exercise with the exercising ball.",
+            "[person_1] will start watering the pots.",
+            "[person_1] is going to bandage [person_1]."
+        ],
+        "reason": [
+            "[person_1] may go on reading.",
+            "[person_1] has many other bottles on the [person_1].",
+            "[person_1] is holding a watering tap.",
+            "There are many sand on his feet.",
+            "[person_1] has food on hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it doesn't rain?",
+        "answer": [
+            "Then [person_1] may look at [person_1].",
+            "It will be difficult for [person_1] to push the wheelchair into the car.",
+            "[person_1] will clean [person_1].",
+            "The [person_1] will know how to use and play accordion.",
+            "The plant will need regular watering."
+        ],
+        "reason": [
+            "Because the ground is dirty,",
+            "[person_1] stands not far away.",
+            "Plants that are too young will need careful care.",
+            "Shaking rope without warm up will hurt the body.",
+            "Because the glass of beer is small."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What tool does [person_1] use\uff1f",
+        "answer": [
+            "[person_1] is wearing a checkerboard shirt.",
+            "The [person_1] is on the shelf.",
+            "No , we can't.",
+            "It looks like his ring.",
+            "It's blue and yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] naked?",
+        "answer": [
+            "Because it's hot outside.",
+            "He is interested in the present.",
+            "[person_1] does not succeed in the game.",
+            "They are playing games.",
+            "Because he has won the paper , rock and scissors."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] will eat the apple on the table.",
+            "[person_1] will pick up the baby.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] is going to drink the liquid in [bottle_1]."
+        ],
+        "reason": [
+            "One of the purposes to open a bottle is to drink the liquid in it.",
+            "[person_1] is weaving fabric.",
+            "[person_1] is talking very seriously.",
+            "High kick is a movement exercise.",
+            "The baby fell."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [chair_1] is broken?",
+        "answer": [
+            "[person_1] will fall down.",
+            "[person_1] will find the cat.",
+            "[person_1] will throw it into trash can.",
+            "[person_1] would be healthier , stronger.",
+            "[person_1] should go to hospital."
+        ],
+        "reason": [
+            "[person_1] would get bad injured.",
+            "[chair_1] is interested in the dance and the music . [chair_1] is shaking his body with the tune.",
+            "[person_1] sit on the [chair_1].",
+            "[person_1] is jumping on one foot therefore she can not keep her balance well so if [chair_1] collapses will scare her.",
+            "Because [chair_1] and [chair_1]'s task is protect [person_1]'s safety."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are the curtains open or closed?",
+        "answer": [
+            "Enjoying the beautiful view.",
+            "It's white and red.",
+            "Ten cups are arranged into a triangle.",
+            "They are playing a guessing game.",
+            "Closed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there books here?",
+        "answer": [
+            "Children need to read books.",
+            "People are accustomed to different speed.",
+            "Because there are too tired to do mountain climbers.",
+            "Because it's dark inside.",
+            "This will improve the relationship with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do when he's tired?",
+        "answer": [
+            "The [person_2] will wash those clothes by herself.",
+            "He would cry and refuse to continue running.",
+            "[person_2] will give the snake to the adult.",
+            "[person_2] will keep eating but might not finish.",
+            "[person_2] will start to spread the sand."
+        ],
+        "reason": [
+            "Because that's the rule.",
+            "Because [person_2] does not hold the snake.",
+            "Children are not sensible.",
+            "[person_2] bents down and prepares for working with a shovel on his hands.",
+            "Because [person_2] eats the cake without her hands , her face must be dirty after eating the cake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_2] do if he is tired?",
+        "answer": [
+            "[person_2] will feel some pain.",
+            "[person_2] will get hurt.",
+            "[person_2] gives up making the snowman.",
+            "[person_2] will stop running.",
+            "[person_2] may get some rest."
+        ],
+        "reason": [
+            "[person_2] needs to take a short rest when getting tired.",
+            "There is a couch in the room.",
+            "Cold weather may make people move difficultly.",
+            "To have a rest first.",
+            "He will go to sleep."
+        ]
+    }
+}

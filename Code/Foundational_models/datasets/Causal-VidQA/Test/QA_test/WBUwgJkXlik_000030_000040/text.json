@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is in a restaurant.",
+            "The [person_1] stands in front of the [bed_1].",
+            "The [person_1] is standing near the base of the staircase.",
+            "The [person_1] is lying on the floor.",
+            "[person_1] is behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] hold a book?",
+        "answer": [
+            "The [person_1] prevents the [person_1] falling down on the street.",
+            "[person_1] is wearing make - up.",
+            "Maybe because the weather is cold.",
+            "Because [person_1] has to perform his talent with the violin.",
+            "The [person_1] reads something from the book."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may keep looking at the song notes.",
+            "The [person_1] may play some songs that are loved.",
+            "The [person_1] may throw a snowball toward the [person_1] or the [person_1].",
+            "The [person_1] may learn how to use an accordion.",
+            "The [person_1] may practice hitting the ball more than three times."
+        ],
+        "reason": [
+            "The [person_1] reads the information from the book then tries playing accordion.",
+            "The [person_1] is still stand on the stilts without falling.",
+            "The [person_1] is still controlling the machine on the mirror.",
+            "The [person_1] is raising the camera in front of the girl on the tree.",
+            "The [person_1] moves a big step when the [person_1] tries to catch the banisters."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] has that book?",
+        "answer": [
+            "[person_1] may not touch the belly of [person_1].",
+            "[person_1] and [person_1] may not keep playing.",
+            "The [person_1] will know how to play accordion.",
+            "[person_1] and [person_1] may blame [person_1].",
+            "The plate would fall to the floor and break."
+        ],
+        "reason": [
+            "The [person_1] prepares a guide book to learn.",
+            "The paper which [person_1] folded , is not intact.",
+            "[person_1] needs to fix it first before playing it.",
+            "The cup is made of glass.",
+            "Because [person_1] doesn't like the smell of the beer."
+        ]
+    }
+}

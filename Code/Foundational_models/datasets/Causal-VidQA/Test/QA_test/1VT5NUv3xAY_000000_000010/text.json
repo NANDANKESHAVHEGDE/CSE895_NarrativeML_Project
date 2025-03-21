@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is looking at her leg after waxing.",
+            "[person_1] is doing slow mountain climbers.",
+            "[person_1] is exercising in the gym now.",
+            "[person_1] is giving massage to [person_1].",
+            "[person_1] is tickling [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How is the room decorated?",
+        "answer": [
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[couch_1] is training his balance.",
+            "[couch_1] is holding the didgeridoo in his hands to play.",
+            "With [couch_1] , [couch_2] and some paintings.",
+            "Because [couch_1] screams out of excitement."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "To raise [person_1]'s speed.",
+            "[person_1] will weigh the bag.",
+            "[person_1] will have some rest.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] may get out of the pool."
+        ],
+        "reason": [
+            "Because [person_1] wants to do fast mountain climbers.",
+            "Maybe [person_1] is afraid of something.",
+            "Because [person_1] divides the money into piles.",
+            "Because [person_1] is picking up the cloth to the camera.",
+            "It seems that [person_1] opened the fruit successfully."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the paintings on the wall fell down suddenly?",
+        "answer": [
+            "[person_1] and [person_1] may fight.",
+            "[person_1] will go to find some tools.",
+            "Maybe [person_1] will fall.",
+            "[person_1] won't go to find some tools.",
+            "[person_1] and [person_1] will push the snowman over."
+        ],
+        "reason": [
+            "Children are very distracted and hyperactive.",
+            "To help put the paintings on the wall again.",
+            "To pick up the painting first.",
+            "To prevent put the paintings on the wall again.",
+            "Because the snake was very small and thus difficult to get caught again."
+        ]
+    }
+}

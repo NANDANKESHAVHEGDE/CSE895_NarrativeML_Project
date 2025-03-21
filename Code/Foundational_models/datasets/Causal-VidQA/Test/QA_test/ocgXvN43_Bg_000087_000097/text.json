@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the upper cloth of [person_1]?",
+        "answer": [
+            "It is white.",
+            "[person_1] is feeding paper into the paper cutter.",
+            "Blue.",
+            "[person_1] is instructing [person_1] to trim the shrub.",
+            "It's black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is microscope on the [dining table_1]?",
+        "answer": [
+            "Because it is high technology machine.",
+            "He's looking at the camera.",
+            "Because running can make people very hot.",
+            "Because everyone cares about the results.",
+            "Because it's easier to use the microscope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put a glass slide on the microscope.",
+            "[person_1] is going to keep seeing.",
+            "[person_1] is going to talk.",
+            "[person_1] is going to keep dancing.",
+            "[person_1] is going to follow the camera."
+        ],
+        "reason": [
+            "[person_1] is going to have a break.",
+            "To use a microscope , you must have something to look at.",
+            "[person_1] is exercising.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is trying to make it more beautiful."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the screw on the microscope comes loose ?",
+        "answer": [
+            "Maybe [person_1] will discontinue the game and take a rest.",
+            "[person_1] would spit it out onto the floor.",
+            "It is possible that the show will fail.",
+            "This can affect the results of the microscope.",
+            "[person_1] might give up taking pictures."
+        ],
+        "reason": [
+            "[person_1] will feel down and shocked , and can't play the music anymore.",
+            "It has enough room.",
+            "To help fix the bed.",
+            "It's not good for doing gymnastics.",
+            "The missing screws can cause parts of the microscope to misplace and become less accurate."
+        ]
+    }
+}

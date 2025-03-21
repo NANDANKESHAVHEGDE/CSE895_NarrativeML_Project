@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is [couch_1]?",
+        "answer": [
+            "It is black.",
+            "There is a wall cabinet.",
+            "It is round.",
+            "No.",
+            "[couch_1] is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [couch_1] put there?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is playing the gong for fun.",
+            "Because [person_1] wants to play the keyboard.",
+            "[person_1] wants to make sure that [couch_1] won't fall.",
+            "[couch_1] is put there for [person_1] to sit."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] may continue what he did.",
+            "[person_1] is going to stop smoking."
+        ],
+        "reason": [
+            "[person_1] is a coach.",
+            "[person_1] is still holding and moving hands on it.",
+            "[person_1] has many other bottles on the [person_1].",
+            "[person_1] may go on reading.",
+            "[person_1] has food on hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [couch_1] weren't there?",
+        "answer": [
+            "Her eyes would be hurt.",
+            "[person_1] would fell down.",
+            "The girl who wears a colorful dress would give [couch_1] a hand.",
+            "[person_1] could have an accident.",
+            "[person_1] would have to stand."
+        ],
+        "reason": [
+            "The impact from the heavy hammer is destructive.",
+            "No horse likes to be rinsed by a water gun.",
+            "The plates are made of porcelain.",
+            "Because there is no person around [couch_1].",
+            "There would be only [couch_1] for [person_1] to sit there."
+        ]
+    }
+}

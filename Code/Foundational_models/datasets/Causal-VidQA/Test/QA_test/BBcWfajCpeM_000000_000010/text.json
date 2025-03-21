@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] ?",
+        "answer": [
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_2] is practicing roller skating.",
+            "[person_1] and [person_2] are watching the gifts.",
+            "Because [person_2] needs a big room to play musical instruments with friends.",
+            "[person_2] and [person_2] to read the cards.",
+            "It will reduces the time of completing stomping grapes."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to continue the passing drill.",
+            "Maybe [person_1] and [person_2] are going to try to eat something new.",
+            "[person_1] and [person_2] finish the dance.",
+            "[person_1] and [person_2] are going to rest.",
+            "[person_1] is showing off her shirt to [person_2]."
+        ],
+        "reason": [
+            "[person_1] wants to show [person_2] gifts.",
+            "[person_1] and [person_2] bang hands on the table.",
+            "[person_1] and [person_2] feel pleasant to share about their love life.",
+            "[person_2] and [person_1] turned back and moved sideways.",
+            "[person_1] and [person_2] are dancing in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it's a shirt [person_2] likes?",
+        "answer": [
+            "[person_2] will be less happy and happy with the gift received.",
+            "[person_2] will make another one.",
+            "[person_2] will be very happy and happy with the gift received.",
+            "[person_2] will later prepare a better proposal.",
+            "[person_2] will be very happy and sad with the gift received."
+        ],
+        "reason": [
+            "Because that's the shirt [person_2] likes.",
+            "[person_2] is working on [person_2] now so can't draw another one.",
+            "Because that's not the shirt [person_2] likes.",
+            "The man needs the notebook to continue his talk.",
+            "Because that's the shirt [person_2] dislikes."
+        ]
+    }
+}

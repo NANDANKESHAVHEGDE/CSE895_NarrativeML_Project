@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the wall ?",
+        "answer": [
+            "It is red.",
+            "It is pretty dark.",
+            "The [person_1] is black.",
+            "It's next to the [person_1].",
+            "It is white and it is very clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a beard ?",
+        "answer": [
+            "The [person_1] is playing basketball here.",
+            "[person_1] is talking about something.",
+            "Because [person_1] doesn't shave it.",
+            "The gong in front of [person_1] is enormous.",
+            "[person_1] stood up to arrange things."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to talking.",
+            "[person_1] is going to stand still.",
+            "[person_1] is going to see the gift.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "She is going to play with her toys."
+        ],
+        "reason": [
+            "[person_1] holds the button in his hands.",
+            "Then [person_1] is highly likely to play with the flute.",
+            "Food burnt.",
+            "[person_1] is very satisfied with her research.",
+            "[person_1] has prepared shovel tool."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone calls [person_1] ?",
+        "answer": [
+            "[person_1] will continue talking.",
+            "[person_1] may cook.",
+            "[person_1] will start talking.",
+            "Maybe [person_1] will stop playing skateboard.",
+            "[person_1] will stop talking."
+        ],
+        "reason": [
+            "Because [person_1] is worried about that.",
+            "[person_1] will answer someone.",
+            "[person_1] has to have a dish.",
+            "[person_1] won't answer someone.",
+            "[person_1] will cook something to eat."
+        ]
+    }
+}

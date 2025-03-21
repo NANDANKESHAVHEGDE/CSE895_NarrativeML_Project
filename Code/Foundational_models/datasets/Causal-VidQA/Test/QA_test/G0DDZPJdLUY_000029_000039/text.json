@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is holding a stick.",
+            "[person_1] is holding a guitar.",
+            "[person_1] is holding a microphone.",
+            "[person_1] is holding two sticks."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_4] sitting on the floor?",
+        "answer": [
+            "[person_4] is reading book.",
+            "Maybe [person_4] is in the game.",
+            "Maybe [person_4] and [person_4] are taking a photo.",
+            "Because [person_4] has fun in playing games.",
+            "Because [person_4] is playing a xylophone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to step to the left and bend his knees slightly.",
+            "[person_3] is moving her feet quickly.",
+            "[person_3] is going to move forward to approach two other kids next to the wall.",
+            "[person_3] is going play the xylophone as well.",
+            "[person_3] is going to kick the board in the hands of the person on the right hand of the person wearing white baseball hat."
+        ],
+        "reason": [
+            "Because [person_3] also wants to make bubbles by herself.",
+            "[person_3] is standing with a group of people and dancing with them.",
+            "[person_3] wants to eat cake.",
+            "Because [person_3] is holding a stick and she is waiting for her turn.",
+            "[person_3] is taking some steps backwards."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the xylophone is broken?",
+        "answer": [
+            "People will tumble.",
+            "Some accidents may happen.",
+            "[person_1] may find another instrument for the kids to play.",
+            "[person_1] will go and pick her up and coax her.",
+            "[person_1] will get hurt."
+        ],
+        "reason": [
+            "Because [person_1] is the only adult in the room , he can do it.",
+            "As [person_1] is the only adult , she will go and pick up the baby.",
+            "The distance between the bookshelf and [person_1] is quite close.",
+            "[person_1] would be turned off due to the power outage.",
+            "Because [person_1] can't continue to bow down when he has cramps."
+        ]
+    }
+}

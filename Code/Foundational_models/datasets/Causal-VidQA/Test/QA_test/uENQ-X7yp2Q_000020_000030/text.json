@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [tv_1]?",
+        "answer": [
+            "The [tv_1] is on the wall.",
+            "The [tv_1] is next to the [chair_1].",
+            "[tv_1] is near the window.",
+            "[tv_1] is on the table.",
+            "The [tv_1] is above the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_4] sitting?",
+        "answer": [
+            "It is easier to handle the apple skin when the white bucket is placed on [person_4].",
+            "[person_1] is stacking the cups on the table.",
+            "The [person_4] is watching the skating of [person_1] and [person_2].",
+            "[person_1] is trying to keep the safety of [person_2].",
+            "[person_1] took a step towards the cameraman."
+        ]
+    },
+    "predictive": {
+        "question": "What are the [person_1] and [person_2] going to do?",
+        "answer": [
+            "The [person_1] and [person_2] may take the shovel to flatten the concrete.",
+            "[person_1] will be scared.",
+            "Perhaps [person_1] and [person_2] are street performers.",
+            "The [person_1] and [person_2] may skate across the floor.",
+            "He will tidy up the bed."
+        ],
+        "reason": [
+            "Because [person_2] is participating in the contest.",
+            "William wins the award.",
+            "The [person_1] and [person_2] are holding hands each other and skates.",
+            "Because the sky looks gray.",
+            "Because the sandwiches are in the plate just in front of him and it looks like his plate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] holds hand of [person_2] when moving?",
+        "answer": [
+            "The hand of [person_1] will be cut.",
+            "The [person_1] will pick the [person_2] up.",
+            "The [person_1] will not make [person_2] fall down on the floor.",
+            "Maybe [person_1]'s team will lose.",
+            "The [person_1] would get pain."
+        ],
+        "reason": [
+            "Since [person_1] is streaming how to peel an apple with a driller.",
+            "The [person_1] and [person_2] are holding hands to perform.",
+            "Because [person_1] is the one who install this carpet.",
+            "The [person_1] is fine and enjoys peeling.",
+            "because the chair is close to the [person_1] and shrugging too hard she won't be able to keep her balance."
+        ]
+    }
+}

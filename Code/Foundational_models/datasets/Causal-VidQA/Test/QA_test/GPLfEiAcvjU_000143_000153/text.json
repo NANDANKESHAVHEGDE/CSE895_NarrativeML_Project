@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is riding a horse.",
+            "[person_1] is breaking a concrete block.",
+            "[person_1] is shaking the cup.",
+            "[person_1] is moving the tire.",
+            "[person_1] is sitting on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] break the block into pieces?",
+        "answer": [
+            "The weather is not cold.",
+            "Small blocks are easier to deal with.",
+            "[person_1] is a goalkeeper.",
+            "[person_1] wants to show his talent.",
+            "Because [person_1] laughs."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] will do other works.",
+            "[person_1] will continue to jump long distances.",
+            "[person_1] may drink water.",
+            "[person_1] will continue singing and playing."
+        ],
+        "reason": [
+            "Because [person_1] has raised up his hands on the top of the pottery.",
+            "[person_1]'s hands is touching the string.",
+            "[person_1] has left the hammer aside.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] slammed the block with heavy force?",
+        "answer": [
+            "The block could be fixed soon.",
+            "[person_1] would not be chased down by [person_1].",
+            "The block couldn't be broken soon.",
+            "[person_1] may go to help [person_1] to stand up.",
+            "The block could be broken soon."
+        ],
+        "reason": [
+            "The effect of sledgehammer with light force to the block is great.",
+            "Something in the mouth may be dirty to [person_1].",
+            "The effect of sledgehammer with heavy force to the block is great.",
+            "Dancing for a long period wouldconsume a lot of her energy.",
+            "The effect of sledgehammer with heavy force to the block is little."
+        ]
+    }
+}

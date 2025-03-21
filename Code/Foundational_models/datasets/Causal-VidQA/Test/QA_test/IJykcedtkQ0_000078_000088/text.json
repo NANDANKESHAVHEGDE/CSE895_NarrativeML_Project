@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "[bottle_1] is circle.",
+            "It is circle.",
+            "It's a lighter.",
+            "The [bottle_1] is behind [person_1].",
+            "It is on the ground and next to [person_1] right foot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] plays the didgeridoo while playing the drums.",
+            "[person_1] is playing didgeridoo enthusiastically.",
+            "[person_1] is playing lute on the riverbank.",
+            "[person_1] is skiing.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to finish her performance.",
+            "[person_1] intends to continue playing didgeridoo while playing the drums.",
+            "[person_1] intends to play cello.",
+            "[person_1] intends to turn the camera to another direction.",
+            "[person_1] intends to wear lipstick."
+        ],
+        "reason": [
+            "[person_1] is following the balloon.",
+            "[person_1] is standing up.",
+            "[person_1] looks really excited while playing didgeridoo and drums.",
+            "[person_1] is practicing very enthusiastically.",
+            "[person_1] has not finished the performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] keeps playing didgeridoo and playing the drums?",
+        "answer": [
+            "[person_1] will fail to throw the ball.",
+            "[person_1] can not play American football anymore.",
+            "[person_1] will be very tired.",
+            "[person_1] will sit on the ground.",
+            "[person_1] cannot play the song correctly."
+        ],
+        "reason": [
+            "Because the noise is too loud.",
+            "To help relieve the pain and recover.",
+            "Because [person_1] is not as fast as the boy , so [person_1] didn't grab the ball.",
+            "[person_1] is very satisfied with the work.",
+            "Playing didgeridoo and playing the drums takes a lot of energy."
+        ]
+    }
+}

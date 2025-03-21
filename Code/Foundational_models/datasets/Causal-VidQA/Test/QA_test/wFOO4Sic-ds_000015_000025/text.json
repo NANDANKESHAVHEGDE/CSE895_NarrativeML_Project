@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is standing on the [person_2] and holding a pipe.",
+            "[person_1] is is throwing a stone so that it slides on the river surface.",
+            "[person_1] is playing beer pong.",
+            "[person_1] is scratching [person_2]'s head.",
+            "[person_1] is reading a book for [person_2] and [person_2] on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] scratch [person_2]'s head?",
+        "answer": [
+            "To relax [person_2]'s head.",
+            "[person_1] is trying to take a picture.",
+            "Because the weather was hot and he was thirsty.",
+            "The man who wears a gray t - shirt wants to move the chair to another place.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the massage?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "The racer are going to proceed with the race.",
+            "They may be at a park.",
+            "[person_1] is the referee.",
+            "He may try to get some money."
+        ],
+        "reason": [
+            "Because [person_1] will bark if there is a stranger.",
+            "Because [person_1] plays a game of rock , paper , scissors to see who serves.",
+            "The temperature is very high . They also wear protective clothes . They can't work in high temperature for too long.",
+            "It seems that [person_1] is strenuous when giving the massage.",
+            "They blow candles on [person_1] for celebrating the girl's birthday."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did that action extremely violently?",
+        "answer": [
+            "[person_2]'s mother would come.",
+            "The cheer - leading team might not be able to perform.",
+            "[person_2] won't read the information in the magazine.",
+            "[person_2] would not feel good.",
+            "[person_2] may not be able to finish his turn."
+        ],
+        "reason": [
+            "Because the air inside [person_2] may fly outside.",
+            "[person_2] is wearing glasses.",
+            "The skin around the eyes is very sensitive.",
+            "[person_2] is an old who cannot stand violent action.",
+            "[person_2] can't be as good as [person_2] now."
+        ]
+    }
+}

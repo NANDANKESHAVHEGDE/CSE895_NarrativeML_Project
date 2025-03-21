@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is on the floor.",
+            "[car_1] is on the road and next to the [car_2].",
+            "[car_1] is on the table.",
+            "It is on the table.",
+            "The hat is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the car?",
+        "answer": [
+            "Because [person_1] is playing a xylophone.",
+            "[person_1] is reading book.",
+            "[person_1] is moving many dirt with the wheelbarrow.",
+            "Because [person_1] has fun in playing games.",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will pick up the baby.",
+            "[person_1] is going to read book.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] will get up.",
+            "Maybe [person_1] is going to stop running."
+        ],
+        "reason": [
+            "[person_1] put down the weight lifting.",
+            "[person_1] is talking with his friend.",
+            "[person_1] finishes working.",
+            "[person_1] took the book in hand and read it.",
+            "There are many trees in the garden."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the car stops suddenly?",
+        "answer": [
+            "[person_1] will not continue reading book.",
+            "[person_1] will be filled with terror.",
+            "They would not dance here.",
+            "Perhaps [person_1] will stop playing.",
+            "The [person_1] will fall off the [person_1]."
+        ],
+        "reason": [
+            "To ask why the box is empty.",
+            "Because no one can predict the result of a game with absolute accuracy.",
+            "[person_1] is standing next to [person_1].",
+            "The music is off which means the dance is also over.",
+            "[person_1] is not wearing a seat belt and [person_1] will lose balance."
+        ]
+    }
+}

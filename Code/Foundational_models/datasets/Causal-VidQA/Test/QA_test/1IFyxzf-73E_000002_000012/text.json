@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is leaning on [person_1] back.",
+            "[person_1] is opening present.",
+            "[person_1] is smoking hookah.",
+            "[person_1] is skating.",
+            "[person_1] is introducing how to slam the tire."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_2] touching that present?",
+        "answer": [
+            "The [person_1] prevents the [person_2] falling down on the street.",
+            "Because the [person_1] wants to keep warm in the snow.",
+            "Because [person_1] is riding a unicycle so it is not safe enough to ride it on the road.",
+            "because [person_2] is pointing to [person_1].",
+            "The [person_1] is holding the items which are on the table."
+        ]
+    },
+    "predictive": {
+        "question": "what will [person_2] do next?",
+        "answer": [
+            "[person_2] will continue to train [person_1].",
+            "[person_2] will walk off the stage.",
+            "[person_2] will tell [person_1] to try the object.",
+            "[person_2] will continue spraying.",
+            "[person_2] will continue knitting."
+        ],
+        "reason": [
+            "because it looks like [person_2] gave it to [person_1].",
+            "It seems that the food leaves [person_2] panting for more from her face.",
+            "[person_2] is pushing the wheelbarrow on the middle of the field.",
+            "[person_2] call and chase something at the end of the video.",
+            "[person_2] go to the archery target board and bend down."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the person opening the box with [person_1] stole the box from [person_1]?",
+        "answer": [
+            "[person_1] would get that box back.",
+            "They would clean it up together.",
+            "The kid might not be feeling well.",
+            "[person_1] wouldn't be sitting on the floor.",
+            "[person_1] would have a chat with her."
+        ],
+        "reason": [
+            "It only needs two players and over to play.",
+            "A billiard stick is required to put the ball in the hole.",
+            "They enjoy dancing.",
+            "that box seems to belong to [person_1].",
+            "The dog interrupts [person_1]'s work."
+        ]
+    }
+}

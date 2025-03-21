@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the window.",
+            "[person_1] is in the pool.",
+            "[person_1] is on the stage.",
+            "[person_1] is inside.",
+            "Along the river."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the pool?",
+        "answer": [
+            "Because [person_1] wants to protect the head if [person_1] falls.",
+            "Because [person_1] is swimming.",
+            "Because [person_1] is playing with [person_1].",
+            "Because [person_1] wants [person_1] to poke her belly button.",
+            "Because [person_1] is watering the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to splash water.",
+            "[person_1] will color in the tail.",
+            "[person_1] is going to step forward.",
+            "[person_1] may go home."
+        ],
+        "reason": [
+            "[person_1] does it to move in the pool.",
+            "[person_1] needs to recover.",
+            "[person_1] feels hot.",
+            "It is very sunny to play.",
+            "[person_1] is going to talk with her friend."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen in the future if [person_1] doesn't use the float?",
+        "answer": [
+            "The girl in pink will buy new gum for herself and chew happily.",
+            "[person_1] will sink.",
+            "[person_1] will feel comfortable when [person_1] practices.",
+            "The [person_1] will get a nice yard.",
+            "[person_1] will not fall off the chair like [person_1] did before."
+        ],
+        "reason": [
+            "[person_1] seems very interested in reading the book and has not finished reading the book anymore.",
+            "because [person_1] may kick on the hand of [person_1].",
+            "[person_1] is young and [person_1] doesn't know how to swim yet.",
+            "Maybe [person_1] already knows how to swim.",
+            "The weights is very heavy ."
+        ]
+    }
+}

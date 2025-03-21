@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] a woman?",
+        "answer": [
+            "[person_1] is in the big yard.",
+            "[person_1] is on the big wall.",
+            "No.",
+            "Yes.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] speak so much?",
+        "answer": [
+            "Because [person_1] wants to explain a chessman.",
+            "[person_1] is competing with [person_1].",
+            "[person_1] wants to try the megaphone.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] wants the picture to be unique."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after showing the megaphone?",
+        "answer": [
+            "[person_1] will persuade people into buying the megaphone.",
+            "[person_1] will firstly clean the snow on the [person_1].",
+            "[person_1] will join the crowd.",
+            "[person_1] will continue to go forward.",
+            "When [person_1] finishes the exercise."
+        ],
+        "reason": [
+            "[person_1] wants more people can enjoy this.",
+            "To clean the snow on the left road.",
+            "[person_1] wants the photographer to stop shooting.",
+            "[person_1] is in a race.",
+            "It seems that [person_1] knows how to tie the balloon."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a dog bites him?",
+        "answer": [
+            "No one will catch it.",
+            "[person_1] would perform without sound.",
+            "[person_1] would probably do it again.",
+            "[person_1] would not succeed.",
+            "[person_1] will call for doctor."
+        ],
+        "reason": [
+            "Because cookies are raw now.",
+            "[person_1] tries to complete his performance.",
+            "It's dangerous.",
+            "Because the office is not a place for entertainment.",
+            "Because the woman doesn't need massage anymore."
+        ]
+    }
+}

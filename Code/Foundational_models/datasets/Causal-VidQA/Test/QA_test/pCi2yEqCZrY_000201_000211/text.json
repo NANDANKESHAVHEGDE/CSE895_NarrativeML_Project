@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is talking about accordion.",
+            "The [person_1] is wearing a sweater and pants.",
+            "[person_1] is wearing a black robe.",
+            "The [person_1] is wearing a white sleeveless and white shorts.",
+            "The [person_1] is leaving the skins on potatoes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_2] follow the [person_1]?",
+        "answer": [
+            "[person_2] is playing water slide.",
+            "[person_1] wants to improve riding skill.",
+            "The [person_2] protects the [person_1].",
+            "[person_1] is playing basketball with [person_2].",
+            "[person_1] is playing the accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may keep watching the TV.",
+            "The [person_1] may carry on shoveling.",
+            "Perhaps [person_1] wants to get out of the [person_1]?",
+            "The [person_1] may roll skate around the skateboard room.",
+            "The [person_1] may keep playing accordion with the person who is playing drum."
+        ],
+        "reason": [
+            "The [person_1] is lying on the pillow.",
+            "The [person_1] looks at the book to know how to play on the accordion.",
+            "The [person_1] roll skate step - by - step with the [person_2] before skating alone.",
+            "The [person_1] is not moving at all.",
+            "The [person_1] turns back and looks in front."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_2] gives his hand to keep balance?",
+        "answer": [
+            "Maybe [person_1] will be very angry.",
+            "Maybe [person_1] will get burned.",
+            "[person_1] would become an idol.",
+            "[person_1] and [person_2] will stop playing.",
+            "The [person_2] can prevent the [person_1] falling down."
+        ],
+        "reason": [
+            "The [person_2] is holding a very sharp paper knife.",
+            "The [person_2] gives his hand to keep [person_1] safely.",
+            "Because [person_1] needs to see the keyboard of the accordion to play.",
+            "When [person_2] falls down to [person_1] , he is close to the edge of [person_1].",
+            "Because there are many different machines [person_1] can choose and use freely in the gym."
+        ]
+    }
+}

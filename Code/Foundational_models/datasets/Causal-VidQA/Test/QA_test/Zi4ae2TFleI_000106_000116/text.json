@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in a studio.",
+            "[person_1] and [person_2] are at the backyard of a school.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are at the roller rink.",
+            "They are at home."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] stand face to face?",
+        "answer": [
+            "[person_1] wants to do tai chi easier.",
+            "They will roast the marshmallows with the fire.",
+            "[person_1] and [person_2] are practicing together.",
+            "To avoid the dust.",
+            "Because it saves room space."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] may continue training.",
+            "[person_1] and [person_2] will find a quilt.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] and [person_2] will look for the eggs.",
+            "Go to the [person_1]."
+        ],
+        "reason": [
+            "[person_1] and [person_2] have been busy carving.",
+            "Because they are happy that they will marry.",
+            "[person_1] and [person_2] are tired.",
+            "[person_1] and [person_2] seem to enjoy what they are doing.",
+            "[person_1] and [person_2] have not finished practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not bow down?",
+        "answer": [
+            "[person_2] will have to face the death if [person_2] falls in the water.",
+            "The [person_2] , the [person_2] and the [person_2] would not have pictures to illustrate.",
+            "[person_2] would cry so that [person_2] had to hold him.",
+            "[person_2] could not make the proper sound with the clarinet.",
+            "[person_2] will leave this room."
+        ],
+        "reason": [
+            "[person_2] is not distracted.",
+            "Leaving the price tag on a present is generally considered improper etiquette as the recipient doesn't need to know how much you spent.",
+            "[person_2] is out of breath.",
+            "The bag is closed at the beginning.",
+            "[person_2] will put the plate down."
+        ]
+    }
+}

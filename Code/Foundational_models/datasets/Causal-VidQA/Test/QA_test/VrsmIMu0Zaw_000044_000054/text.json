@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of shoes is [person_1] wearing?",
+        "answer": [
+            "Three.",
+            "An laboratory technician.",
+            "It is high heel.",
+            "[person_1] is in front of [person_1].",
+            "[person_1] is to the right of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a dress?",
+        "answer": [
+            "[person_1] is a woman.",
+            "[person_1] is sitting on the [person_1].",
+            "Because [person_1] and [person_1] are in the same team so [person_1] and [person_1] wear the same white T - shirts.",
+            "Because [person_1] shows the time to finish stacking the cups.",
+            "Because [person_1] is joining the competition."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] will continue to burn the piece of paper.",
+            "[person_1] tends to blend into the guitar.",
+            "[person_1] tends to keep playing the drums.",
+            "[person_1] will probably use the ice hockey stick to hit the puck .",
+            "[person_1] tends to keep raising her eyebrows."
+        ],
+        "reason": [
+            "[person_1] is still infatuated with the flute.",
+            "[person_1] is playing the guitar very passionately.",
+            "[person_1] is wearing baseball gloves.",
+            "[person_1] wants to make it perfect.",
+            "[person_1] is playing with a band."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will not stop kicking high.",
+            "[person_1] won't find the phone owner anymore.",
+            "[person_1] will stop kicking high.",
+            "[person_1] may stop opening.",
+            "The lights will not work."
+        ],
+        "reason": [
+            "The lights will not have electricity to glow.",
+            "The light will not work , too.",
+            "[person_1] and [person_1] will run out.",
+            "Because they are in a room without window.",
+            "Because television needs electricity to work."
+        ]
+    }
+}

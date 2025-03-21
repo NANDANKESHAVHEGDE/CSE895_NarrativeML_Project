@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "On the ceiling.",
+            "It is sunny.",
+            "The text is white.",
+            "[person_1] is following [person_1] while [person_1] throws the ball into his cup.",
+            "[person_1] is playing with the present box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hang [potted plant_2]?",
+        "answer": [
+            "Because [person_1] wants to hang it for convenience and this plant should hang.",
+            "Because [person_1] is going to have a massage.",
+            "[person_1] is using [person_1] to squeeze oranges.",
+            "[person_1] is helping [person_1] on practicing roller skating.",
+            "Because [person_1] wants to make bubbles."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to play with [person_1].",
+            "Maybe [person_1] will drink water.",
+            "[person_1] will continue watering plants in the garden.",
+            "[person_1] will read books."
+        ],
+        "reason": [
+            "[person_1] stepped forward continuously.",
+            "[person_1] is very interested in what he says.",
+            "[person_1] is stretching leg very hard.",
+            "To make it look more fresh.",
+            "[person_1] is watering."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "The [person_1] will stay here.",
+            "Maybe [person_1] will go to the hotel to rest.",
+            "The match may not continue.",
+            "Maybe [person_1] will stop skateboarding.",
+            "Perhaps [person_1] will stop watering the plants."
+        ],
+        "reason": [
+            "There is no shelter in the woods . [person_1] is outdoors and has to work in the rain.",
+            "[person_1] will save water if it rains.",
+            "[person_1] will go into the house.",
+            "Because [person_1] may not get ready to go home , the water can make his accordion wet and unable to use.",
+            "[person_1] needs to avoid raining."
+        ]
+    }
+}

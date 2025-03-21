@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [person_1] standing next to the table?",
+        "answer": [
+            "The bucket of the [person_1] is red.",
+            "No , the [person_1] is not . The [person_1] is sitting.",
+            "The bucket of the [person_1] is brown.",
+            "The two ends of the rope are tied on two tree trunks.",
+            "It is on the head of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] sit there?",
+        "answer": [
+            "The [person_1] is opening the gift.",
+            "Because the [person_1] put his hand inside the doll.",
+            "The microphone helps [person_1] flute to be transmitted further.",
+            "The [person_1] peels the potatoes.",
+            "Because [person_1] is practicing skiing."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may remove from the shot put circle.",
+            "The [person_1] may finish peeling.",
+            "The [person_1] may crawl under the [person_1].",
+            "The [person_1] is going to keep shoveling the snow with the left hand.",
+            "The [person_1] seems to pick up the food and put it in his mouth again."
+        ],
+        "reason": [
+            "The [person_1] is almost finished peeling.",
+            "[person_1] is running and looking at the ball.",
+            "The [person_1] throws the ball to the hoop , but the ball is not passed through the hoop.",
+            "The [person_1] was thrown and lying on the ground.",
+            "After doing some sit - ups , the [person_1] puts her hand on her stomach and relaxes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] uses potato peeler?",
+        "answer": [
+            "[person_1] would not have anything to look at.",
+            "The woman in front will take students to practice again and again.",
+            "[person_1] will not be here.",
+            "They will tear the pizza up by hand.",
+            "The [person_1] will save time when peeling by bare hands."
+        ],
+        "reason": [
+            "Dirty rag can not clean the window.",
+            "The [person_1] uses potato peeler to peel the potatoes faster.",
+            "There is little space for [person_1] on the white drawer.",
+            "[person_1] will have to find a place to hide from the rain.",
+            "[person_1] does not dare to touch the dog."
+        ]
+    }
+}

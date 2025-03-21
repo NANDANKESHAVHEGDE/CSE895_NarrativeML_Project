@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is in the house.",
+            "[car_1] is in the corner of the gym.",
+            "[car_1] is playing in front of his house.",
+            "[car_1] is in front of the house door.",
+            "The hat is blue and yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bend down?",
+        "answer": [
+            "[person_1] is lighting the firework on the ground.",
+            "[person_1] wants to make money for the life.",
+            "[person_1] is having a bath.",
+            "[person_1] and [person_1] are skipping rope.",
+            "[person_1] is preparing to perform."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] is going to stop and watch the firework.",
+            "[person_1] will eat the apple on the table.",
+            "[person_1] is about to eat.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent."
+        ],
+        "reason": [
+            "[person_1] just looked back.",
+            "[person_1] hasn't stopped yet.",
+            "[person_1] was blocked by the door.",
+            "[person_1] runs away far enough from the firework.",
+            "[person_1] is attacking [person_1] and [person_1] will win this match."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't run far enough?",
+        "answer": [
+            "[person_1] would lie on the table.",
+            "Maybe [person_1] is a friend of [person_1].",
+            "the legs of [person_1] would be hurt by the firework explosion.",
+            "[person_1] will go to the hospital.",
+            "The pancake would fall to the floor."
+        ],
+        "reason": [
+            "Because there wouldn't be anything covering the clothes of [person_1].",
+            "Maybe [person_1] is a workaholic.",
+            "Because [person_1] would still be in the range of the firework.",
+            "The doctor will examine and prescribe medication.",
+            "His leg would be broken."
+        ]
+    }
+}

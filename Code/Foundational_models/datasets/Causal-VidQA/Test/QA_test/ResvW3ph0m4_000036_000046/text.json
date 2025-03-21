@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cat_1]?",
+        "answer": [
+            "It is on the wooden box.",
+            "[cat_1] is behind the [cat_1].",
+            "On the main road.",
+            "The [cat_1] is in his own backyard.",
+            "It is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the lute?",
+        "answer": [
+            "Because [person_1] is playing the cello.",
+            "The [person_1] can not carry the big one on legs of [person_1].",
+            "Because [person_1] is a baby.",
+            "Maybe [person_1] is playing lute for the [cat_1].",
+            "Because [person_1] is weaving and wants the threads to be close together."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to playing better.",
+            "[person_1] may clean the boot one more time.",
+            "[person_1] is going to continue stretching herself .",
+            "[person_1] is going to continue trying to whistle.",
+            "[person_1] is going to warm up there."
+        ],
+        "reason": [
+            "From other's behavior we can know after practicing the people need to stand in a line.",
+            "It can not be eat.",
+            "[person_1]'s hand plays the lute so softly.",
+            "[person_1] is wearing tap dancing shoes.",
+            "[person_1] has finished the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will get off the horse.",
+            "[person_1] will feel uncomfortable.",
+            "Maybe [person_1] will become an artist.",
+            "[person_1] will put the lute on the table.",
+            "[person_1] will go away."
+        ],
+        "reason": [
+            "[cat_1] cries suddenly because [cat_1] feels uncomfortable.",
+            "Because [person_1]'s hand is on the juicer when [person_1] falls down.",
+            "[person_1] will lie down and sleep.",
+            "Maybe [person_1] will hug the [cat_1].",
+            "Then [person_1] will take a rest."
+        ]
+    }
+}

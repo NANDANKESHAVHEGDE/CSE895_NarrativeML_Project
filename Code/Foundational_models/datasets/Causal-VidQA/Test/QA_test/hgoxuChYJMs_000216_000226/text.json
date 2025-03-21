@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [vase_1]?",
+        "answer": [
+            "[person_1] is below the pictures.",
+            "[vase_1] is behind [person_1].",
+            "It is in the corner of the room.",
+            "It is well - decorated.",
+            "[vase_1] is next to the fireplace."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing next to the table?",
+        "answer": [
+            "[person_1] needs the table to stack his dice.",
+            "Maybe [person_1] is learning fire dance from [person_1].",
+            "[person_1] is watching [person_1] lift weights.",
+            "Because [person_1] is sitting chair.",
+            "Because [person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the table away.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to climb into bed."
+        ],
+        "reason": [
+            "[person_1] has run out of cards",
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is facing [person_1].",
+            "[person_1] has finished stacking this dice.",
+            "[person_1] is looking at the plate of food."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] had more than one dice?",
+        "answer": [
+            "The dog will run under the chairs.",
+            "Then the little girl might not jump.",
+            "[person_1] may not hug [person_1].",
+            "[person_1] would spend more time stacking the dices.",
+            "The match would be stopped."
+        ],
+        "reason": [
+            "Because it would be impossible for [person_1] to handle the snake of that size by himself.",
+            "[person_1] is interested in dancing and [person_1] is carefully watch the people dancing.",
+            "[person_1] was trying to push the cart further until she got stuck.",
+            "[person_1] will want to try stacking them in different ways.",
+            "He could be injured then."
+        ]
+    }
+}

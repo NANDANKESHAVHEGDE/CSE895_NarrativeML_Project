@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_2] do?",
+        "answer": [
+            "[person_2] is paying attention to the falling ball.",
+            "[person_2] is folding a shirt.",
+            "[person_2] is helping [person_2].",
+            "[person_2] is opening a coco.",
+            "[person_2] pushes one domino tile to trigger a chain reaction of tiles' falling."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] move to another position?",
+        "answer": [
+            "[person_1] is shaking the dices.",
+            "[person_1] wants to watch the whole process of dominoes falling.",
+            "Maybe [person_1] and [person_1] are having a short break and relaxing in the room.",
+            "[person_1] and [person_1] arranged 6 cups in a triangle on both sides of the table and the cups touched each other.",
+            "Because [person_1] wanted to use it as a weapon."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] and [person_2] after all of these dominoes have fallen?",
+        "answer": [
+            "[person_2] will pull the rope back.",
+            "The [person_1] and [person_2] will get off.",
+            "[person_1] will count the scores.",
+            "[person_1] and [person_2] will setup another dominoes chain reaction.",
+            "[person_2] may will change to left leg."
+        ],
+        "reason": [
+            "This is a fantastic method to open the coco.",
+            "Because they seem to have fun with it.",
+            "[person_1] has just finished dancing.",
+            "[person_2] is enjoying singing.",
+            "[person_1] is preparing for a long jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if one of these dominoes did not fall?",
+        "answer": [
+            "[person_2] would not be allowed to skateboard.",
+            "[person_1] and [person_2] might have to re - setup the chain reaction.",
+            "[person_1] will give his donut to [person_2] to eat.",
+            "[person_1] may need help to instruct him to plant trees.",
+            "The [person_1] can carry the big accordion to play."
+        ],
+        "reason": [
+            "When waxing the chest , you must fully remove the strip as fast as you can and do not pull it down or up or go slowly.",
+            "Because if they did not do it , the chain reaction would fail.",
+            "[person_2] will fall down then.",
+            "The picture frame is fragile.",
+            "Because fake lawn is cheaper than real lawn."
+        ]
+    }
+}

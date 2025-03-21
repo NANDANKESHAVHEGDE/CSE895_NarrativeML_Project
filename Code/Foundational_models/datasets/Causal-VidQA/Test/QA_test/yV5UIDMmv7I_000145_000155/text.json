@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "It's red.",
+            "It's brown.",
+            "[person_1] is wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] inside?",
+        "answer": [
+            "[person_2] is ripping paper to give her daughter.",
+            "[person_2] wants to play.",
+            "[person_2] is playing chess with his friend.",
+            "[person_2] is stacking cups.",
+            "[person_2] is raising eyebrows with [person_2] and [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "Maybe [person_2] is going to continue playing.",
+            "[person_2] is going to eat the cake.",
+            "[person_2] is going to keep eating the food.",
+            "[person_2] is going to say what [person_2] thinks about the wine.",
+            "[person_2] will take over [person_2] and press the dough."
+        ],
+        "reason": [
+            "[person_2] has not finished her action.",
+            "[person_2] still opens the mouth and shows happiness on the face.",
+            "[person_2] is going to have a new set of hair.",
+            "[person_2] is playing chess.",
+            "[person_2] has set up that goal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is loser?",
+        "answer": [
+            "[person_2] will be very happy.",
+            "[person_2] will be sad.",
+            "Trampoline will break.",
+            "[person_2] won't be able to wear it.",
+            "[person_2] will have to punch the air."
+        ],
+        "reason": [
+            "Because there are many programs on TV.",
+            "The clothes taken from home is in the car.",
+            "[person_2] seems don't know how to plait hair.",
+            "[person_2] should go to see the doctor.",
+            "[person_2] may keep playing."
+        ]
+    }
+}

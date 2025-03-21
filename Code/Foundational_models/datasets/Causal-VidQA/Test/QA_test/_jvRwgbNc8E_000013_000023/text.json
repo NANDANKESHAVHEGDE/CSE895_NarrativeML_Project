@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "It is in the room.",
+            "Along the river.",
+            "[person_1] is outside of the house.",
+            "[person_1] is outside.",
+            "[person_1] is in the outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the hand on the desk?",
+        "answer": [
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is having a party.",
+            "[person_1] wants to keep balance.",
+            "[person_1] is sitting and playing flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to kneel on the ground.",
+            "[person_1] is going to put the foot into [backpack_1].",
+            "[person_1] is going to lie on the ground.",
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "Maybe [person_1] is going to shoot a video."
+        ],
+        "reason": [
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet.",
+            "[person_1] is touching on [backpack_1].",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "[person_1] is going to small [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [backpack_1] weren't there?",
+        "answer": [
+            "The [person_1] will go to check.",
+            "[person_1] would not touch the foot on [backpack_1].",
+            "[person_1] would be startled.",
+            "[person_1] would fall over onto his bagpipes and get soaked from the water.",
+            "Possibly [person_1] will waste more time to change a new apple."
+        ],
+        "reason": [
+            "[backpack_1] is under the foot of [person_1].",
+            "[person_1] is a baby so he would be unable to hold the leash tightly if [backpack_1] tried to run away.",
+            "[person_1] is not paying attention to [person_1].",
+            "because [person_1] wants many people to study with [backpack_1].",
+            "[person_1] can remove the apple that was peeled in one second if he puts a bucket beside the table."
+        ]
+    }
+}

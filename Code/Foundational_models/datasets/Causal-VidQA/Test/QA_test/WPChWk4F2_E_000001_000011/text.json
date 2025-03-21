@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [chair_1]?",
+        "answer": [
+            "It is colorful.",
+            "[chair_1] is wearing a white outfit.",
+            "[chair_1] is wearing a black shirt.",
+            "White.",
+            "It is black hair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room?",
+        "answer": [
+            "To teach [person_1] how to make sushi.",
+            "[person_1] is using a shovel to shovel the plaster and throw it on the wall.",
+            "[person_1] is squeezing oranges for juice.",
+            "The view at the window is beautiful.",
+            "[person_1] is trying to play chess with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may turn on the light.",
+            "[person_1] may go other place.",
+            "[person_1] may go to finish his job.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] is going to play chess with [person_2]."
+        ],
+        "reason": [
+            "Out of manner , [person_1] didn't yell at [person_2] at first , but later , [person_1] finds that yelling at [person_2] is a more useful way to let [person_1]'s anger out.",
+            "It is very sunny to play.",
+            "[person_1] is playing chess with [person_2].",
+            "[person_1] is dancing in free style.",
+            "[person_1] likes sledding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "Maybe [person_1] will stop playing there.",
+            "[person_1] will leave the [chair_1].",
+            "Maybe [person_1] will stop working out.",
+            "It is possible that [chair_1] will not see the object under the table.",
+            "[person_1] will go to another place."
+        ],
+        "reason": [
+            "It will be too dark to see much.",
+            "The room will be dark.",
+            "The lights are off , too.",
+            "The television will be turned off.",
+            "The microphone and the music will be off."
+        ]
+    }
+}

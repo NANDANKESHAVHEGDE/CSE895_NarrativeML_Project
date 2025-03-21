@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks young.",
+            "[person_1] looks old and thin.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks small.",
+            "[person_1] looks pretty."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting next to the [dining table_1] ?",
+        "answer": [
+            "[person_1] and [person_1] are standing and playing game.",
+            "[person_1] is playing with her toy.",
+            "[person_1] is really into getting involved in an activity with another person.",
+            "Because [person_1] has to prevent the noise from smoothing machine.",
+            "She is doing massage for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to turn back and watch [tv_1]."
+        ],
+        "reason": [
+            "Because the blue is skying at night.",
+            "[person_1] is going to feel tired.",
+            "The [tv_1] is on.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] is turning the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the toy?",
+        "answer": [
+            "[person_1] will cry and want a new toy.",
+            "[person_1] may fall over.",
+            "[person_1] will not be playing the accordion.",
+            "[person_1] will have to clean up the floor.",
+            "[person_1] will pick up the book and focus on reading the book."
+        ],
+        "reason": [
+            "Children usually like that.",
+            "That's one of the uses of a pencil.",
+            "The book may hit [person_1] in foot.",
+            "The person showed off the paper after finishing.",
+            "Because only under a steady and long - term exercise can [person_1] make his muscles so strong."
+        ]
+    }
+}

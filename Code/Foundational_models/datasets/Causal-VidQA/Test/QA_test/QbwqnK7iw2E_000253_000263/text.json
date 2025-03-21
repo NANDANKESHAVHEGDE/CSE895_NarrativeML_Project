@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2]?",
+        "answer": [
+            "[person_1] is seated by [person_1].",
+            "It is on the floor.",
+            "[chair_2] is beneath [person_1].",
+            "It is on the right hand of [person_1].",
+            "It's next to [chair_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] moving his hands?",
+        "answer": [
+            "Maybe [person_2] is trying to tell everyone what he's doing.",
+            "Because [person_2] wants to touch her belly button.",
+            "[person_2] is blowing air into the hole in the flute.",
+            "The [person_2] touches the bass buttons to play accordion.",
+            "Because [person_2] is playing a xylophone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to continue observing.",
+            "[person_3] is going to go to [person_2].",
+            "[person_2] is going to check the result of [person_2]'s competition.",
+            "[person_3] is going to continue making faces.",
+            "[person_3] is going to tilt the head and lower the plate."
+        ],
+        "reason": [
+            "When [person_3] stops tickling , he looks at [person_2].",
+            "Because [person_3] will finish inflating the balloon.",
+            "Because [person_3] may be a teacher and he wants to see how [person_2] plays.",
+            "Because [person_3] is dancing Gangnam style.",
+            "[person_3] doesn't turn the head away from [person_2] and [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the piano is broken?",
+        "answer": [
+            "[person_1] will feel sad.",
+            "[person_1] will be very worried.",
+            "The [person_1] would help the [person_3] stand up.",
+            "[person_1] will go down stairs.",
+            "Both [person_1] and [person_3] will come to see [person_2]."
+        ],
+        "reason": [
+            "[person_1] would not able to control her speed and hit obstacles if the brake of the bicycle failed . So it would make her fall.",
+            "The screw couldn't be used anymore if the nail on it was broken.",
+            "[person_1] doesn't want others to see him naked.",
+            "Because of the man who wears a black t - shirt stood in front of the head of [person_1].",
+            "When the piano is broken , [person_1] has nothing to play so [person_3] has nothing to see . Therefore , they will go to [person_2]."
+        ]
+    }
+}

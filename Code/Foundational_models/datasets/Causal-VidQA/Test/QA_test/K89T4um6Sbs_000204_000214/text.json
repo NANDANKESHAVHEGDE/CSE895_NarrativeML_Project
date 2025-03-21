@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [dining table_1]?",
+        "answer": [
+            "The fire is in the middle of place.",
+            "The [dining table_1] is near [person_1].",
+            "[person_1] is in the bathroom.",
+            "[person_1] is white.",
+            "The cap is on [person_1] head."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in the room?",
+        "answer": [
+            "[person_1] is grabbing [person_1] to move them to a different spot.",
+            "[person_1] is instructing how to put the material.",
+            "[person_1] is playing with someone.",
+            "[person_1] and [person_1] are standing back to back together and slowly moving.",
+            "[person_1] is stacking the cups quickly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to arrange the cups at a fast speed.",
+            "[person_1] may cheer up.",
+            "[person_1] may change another tool.",
+            "[person_1] is going to go play somewhere else."
+        ],
+        "reason": [
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is paying attention to other things.",
+            "[person_1] is very small.",
+            "[person_1] is using a phone to measure speed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [cup_1] falls?",
+        "answer": [
+            "[person_1] may repair it.",
+            "[person_1] will take it easy.",
+            "[cup_1] may fall.",
+            "[person_1] will pick it up.",
+            "[cup_1] may not practice well."
+        ],
+        "reason": [
+            "The player can't play blackjack online without Internet.",
+            "[person_1] is paying attention to doing this action.",
+            "That player would not be able to play hurling.",
+            "[person_1] will see his new hair in the mirror.",
+            "[person_1] wants to play with [cup_1]."
+        ]
+    }
+}

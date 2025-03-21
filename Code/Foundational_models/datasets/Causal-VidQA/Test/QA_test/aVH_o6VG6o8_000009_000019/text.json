@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "A shovel.",
+            "The shoes are pink.",
+            "[person_2] is \u00a0 wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is having a party.",
+            "[person_2] is ripping paper.",
+            "[person_2] is opening her present.",
+            "[person_2] is skipping rope with other people.",
+            "[person_2] is playing lute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue tying the bow.",
+            "[person_1] may get out of the pool.",
+            "[person_1] will tattoo the right leg of [person_1].",
+            "[person_1] will stand aside there or leave.",
+            "[person_1] will continue skipping rope."
+        ],
+        "reason": [
+            "[person_1] is not likely to stop practicing.",
+            "[person_1] seems to perform on a stage.",
+            "[person_1] wears skates , holds a ice hockey stick and skates around the ice rink.",
+            "[person_1] seems to enjoy it a lot.",
+            "Because the bike got stuck."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] falls?",
+        "answer": [
+            "[person_3] will stand up.",
+            "The others might fall with him.",
+            "[person_3] will feel pain.",
+            "[person_3] may stop.",
+            "[person_3] will help [person_3] to stand up."
+        ],
+        "reason": [
+            "[person_3] will feel difficult to play harp.",
+            "[person_3] finger will be badly injured.",
+            "[person_3] jumped very quickly.",
+            "[person_3] gets hurt.",
+            "[person_3] assumes that he will not get a price in the competition."
+        ]
+    }
+}

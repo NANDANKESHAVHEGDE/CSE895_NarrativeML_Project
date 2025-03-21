@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is jumping on the couch.",
+            "[person_2] is lying on a pillow.",
+            "[person_2] is holding a gift box.",
+            "[person_2] is giving massage to [person_1]'s head.",
+            "[person_2] is opening a present for [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_1] opening the present?",
+        "answer": [
+            "[person_1] picked up the paper dropped on the floor.",
+            "[person_1] is lifting weights.",
+            "[person_1] is talking about whistling - a tradition of a certain nation.",
+            "[person_1] is too small to do it himself.",
+            "[person_1] wanted to check the grapes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to dance.",
+            "[person_2] is going to stroke the rock.",
+            "[person_2] will throw the paper away.",
+            "[person_2] is going to wave the flag.",
+            "[person_2] is going to start reading."
+        ],
+        "reason": [
+            "[person_2] wants to know the ideas of [person_2] about that wine.",
+            "When [person_2] opens the present , she crinkles the paper and prepares to throw it away.",
+            "Maybe [person_2] is going to start a new game.",
+            "[person_2] is raising fists of [person_2].",
+            "Waving flag is a signal for people to start."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] picks the gift up?",
+        "answer": [
+            "[person_1] might be injured.",
+            "[person_1] will lose.",
+            "[person_1] would feel embarrassed.",
+            "[person_1] may shake the gift box.",
+            "[person_1] will score."
+        ],
+        "reason": [
+            "[person_1] wants to make mom relaxed by a warm hug.",
+            "The injury needs to be stopped bleeding.",
+            "If there is a plate it will be better to help [person_1] and [person_1] to show their potato chips.",
+            "The [person_1] is being outperformed by the [person_1] now.",
+            "When the gift is opened , [person_1] reaches it with curiosity."
+        ]
+    }
+}

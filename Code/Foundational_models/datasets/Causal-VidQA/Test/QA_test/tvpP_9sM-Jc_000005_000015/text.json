@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1] ?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[person_1] is the reflect of [person_1] in the mirror.",
+            "It is behind [person_1].",
+            "[person_1] is on the right of [person_1].",
+            "The socket is rectangular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear sweater ?",
+        "answer": [
+            "[person_1] is playing luge sport.",
+            "Maybe the weather is cold.",
+            "Bears don't live here.",
+            "It is a training project.",
+            "[person_1] is training his skill."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] is going to keep practicing.",
+            "[person_1] is going to check the files in the box.",
+            "[person_1] will rotate the compass.",
+            "[person_1] is going to keep playing drums.",
+            "[person_1] is going to stop playing cymbals."
+        ],
+        "reason": [
+            "[person_1] was injured after falling.",
+            "[person_1] tries to hula hoop as long as possible.",
+            "[person_1] seems to still wave her body.",
+            "[person_1] is putting the cymbals down.",
+            "It is a part of crunches exercise."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't wear long sleeve ?",
+        "answer": [
+            "[person_1] won't catch the ball easily.",
+            "It is possible that [person_1]'s eyes will get infected.",
+            "[person_1] would have to spend more time to plane it by hand.",
+            "[person_1] will feel cold.",
+            "[person_1] may not drink."
+        ],
+        "reason": [
+            "Because it's late.",
+            "Because it seemed irritated by being held and might get angry at any time.",
+            "In the end of the competition , [person_1] is the second one.",
+            "Because it was very close to [person_1] and the other person around.",
+            "Because it is winter."
+        ]
+    }
+}

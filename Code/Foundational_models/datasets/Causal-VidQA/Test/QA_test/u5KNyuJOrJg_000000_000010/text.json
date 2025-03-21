@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [sink_1] ?",
+        "answer": [
+            "[sink_1] is near the boys.",
+            "It is white.",
+            "It is giant.",
+            "[sink_1] is on the right of [sink_1].",
+            "[sink_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] appear in the room ?",
+        "answer": [
+            "[person_1] and [person_2] are playing.",
+            "[person_1] , [person_2] and [person_2] are raising eyebrows.",
+            "[person_1] wants to listen to music through the headphone.",
+            "[person_1] needs to be comfortable to move.",
+            "Maybe [person_1] is participating in a competition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] is going to jump faster.",
+            "[person_1] is going to keep singing.",
+            "[person_1] may get the seeds out of pumpkin.",
+            "[person_1] is going to continue tying the knot.",
+            "[person_1] is going to rip paper."
+        ],
+        "reason": [
+            "Because [person_1] seems to have a lot work to do.",
+            "It seems that there are some cups on the table and [person_1] pays attention on it.",
+            "Because [person_1] still has cards in hands.",
+            "[person_1] is going to sit on the chair.",
+            "Because [person_1] wants the woman to be happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] and [person_2] will go out.",
+            "[person_1] will open the curtain.",
+            "[person_1] and [person_2] will be afraid.",
+            "[person_1] will stop ripping paper.",
+            "[person_1] will maybe afraid."
+        ],
+        "reason": [
+            "The lights will not have electricity to glow.",
+            "The light will not have electricity to run.",
+            "Because they are in a room without window.",
+            "[person_1] and [person_2] will run out.",
+            "The light needs electricity to work."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_3]?",
+        "answer": [
+            "[person_1] is holding a bagpipe.",
+            "[person_1] is holding [person_3].",
+            "[person_1] and [person_3] are in the barber shop.",
+            "[person_1] is holding an underwear.",
+            "[person_1] and [person_3] are sitting in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] have \u00a0 a trimmer in her hand?",
+        "answer": [
+            "Because [person_1] likes that.",
+            "Because the [person_1] does not have much experience.",
+            "[person_3] wants to help [person_1] shave.",
+            "The weather is cold.",
+            "To make the log cabin warmer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to go out of the stage.",
+            "[person_3] is going to start putting the balloon in [person_3].",
+            "[person_3] is going to style the beard of [person_1].",
+            "[person_3] may continue to weep her face.",
+            "Maybe [person_3] is going to start stomp the grapes."
+        ],
+        "reason": [
+            "[person_3] held the gift box carefully , looked forward and smiled.",
+            "[person_3] is having a lesson . He will take notes.",
+            "Because [person_3] has not finished weeping.",
+            "[person_1] looks very professional.",
+            "He goes back and flatten."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes shaving ? ?",
+        "answer": [
+            "[person_1] will be deducted from his salary.",
+            "[person_1] can leave first.",
+            "[person_1] has to do it again.",
+            "[person_1] will be more confident.",
+            "[person_1] would try to break it by hands again."
+        ],
+        "reason": [
+            "Shaving makes you look younger and more handsome.",
+            "Failure will damage the sculpt pattern.",
+            "[person_1] is shooting video there , it's embarrassing to fail.",
+            "[person_1] doesn't get the winner.",
+            "There are a lot of balls and [person_1] can kick many times."
+        ]
+    }
+}

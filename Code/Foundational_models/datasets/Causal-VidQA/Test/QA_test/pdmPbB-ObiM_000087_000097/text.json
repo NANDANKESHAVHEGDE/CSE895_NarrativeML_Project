@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the pool.",
+            "[person_1] and [person_2] are in the recording studio.",
+            "[person_1] and [person_2] are in the gym.",
+            "[person_1] and [person_2] are on the schoolyard.",
+            "[person_1] and [person_2] are on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a sword?",
+        "answer": [
+            "[person_1] wants to improve riding skill.",
+            "[person_1] is performing circus.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is swallowing sword.",
+            "Because [person_1] is using the trowel to plaster."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to approach [person_1].",
+            "[person_1] is going to swallow 1 more sword.",
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] is going to play with the gift."
+        ],
+        "reason": [
+            "Because other people is jumping.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is dancing in free style.",
+            "It is very sunny to play.",
+            "[person_1] can easily swallow a sword."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] swallows another sword?",
+        "answer": [
+            "[person_1] will record the song again.",
+            "The audience will be very excited.",
+            "[person_1] would get an injury.",
+            "[person_1] will be hurt.",
+            "[person_1] may hit his head."
+        ],
+        "reason": [
+            "[person_1] did the unbelievable thing.",
+            "[person_1] does not wear any protective arms.",
+            "It was very cold and there were a lot of icebergs on the water.",
+            "The knife is sharp.",
+            "They are fighting swords alternately to find the winner."
+        ]
+    }
+}

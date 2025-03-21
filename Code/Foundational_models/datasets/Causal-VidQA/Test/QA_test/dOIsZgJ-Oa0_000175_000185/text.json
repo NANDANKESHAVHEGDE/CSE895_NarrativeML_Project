@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_1]?",
+        "answer": [
+            "It is behind the [chair_1].",
+            "[chair_1] is brown.",
+            "[chair_1] and [chair_1] is at a musical event.",
+            "[chair_1] is white.",
+            "The color of [chair_1] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the organ have to be plugged in?",
+        "answer": [
+            "Maybe [person_1] fell.",
+            "They taste good.",
+            "Because electricity will make the organ work.",
+            "[chair_1] is avoiding falling.",
+            "The lamp used for lighting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to run through the golf courses and back to the batter box\u2019s.",
+            "[person_1] keeps moving with the snake around him.",
+            "[person_1] is going to continue playing the organ.",
+            "[person_1] is going to eat the donut on the plate in front him."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] has bent back.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1]'s hands are still on the keyboard.",
+            "[person_1] is going to put the shoe down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the table is broken?",
+        "answer": [
+            "[chair_1] won't be able to continue filming.",
+            "[chair_1] will use one more machine.",
+            "They will leave there together.",
+            "[person_1] will call her out.",
+            "The keyboard will be broken."
+        ],
+        "reason": [
+            "Without a string , the guitar will not be used.",
+            "If the tire leaks , it can not be used.",
+            "The keyboard can be damaged by impact with the floor.",
+            "[person_1] would be very embarrassed.",
+            "She is a humble person."
+        ]
+    }
+}

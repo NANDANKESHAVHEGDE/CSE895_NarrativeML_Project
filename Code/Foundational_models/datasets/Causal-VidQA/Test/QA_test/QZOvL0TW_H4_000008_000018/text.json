@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_2]?",
+        "answer": [
+            "It is on the table.",
+            "It is a big room.",
+            "There is only one column in the video.",
+            "[cup_2] is on [cup_2].",
+            "There is only person in this room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the cups?",
+        "answer": [
+            "[person_1] is raising eyebrows.",
+            "They are holding a party and really having fun.",
+            "[person_1] is stacking cups.",
+            "[person_1] is making a tutorial video.",
+            "[person_1] is playing something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to continue play.",
+            "[person_1] will keep dancing.",
+            "[person_1] may go home after a while.",
+            "[person_1] is going to continue tap dancing."
+        ],
+        "reason": [
+            "[person_1] is very interested in this game.",
+            "[person_1] loves [person_1].",
+            "[person_1] looks like happy.",
+            "Because everyone can dance.",
+            "[person_1] is playing stacking cups"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has only one set of cups?",
+        "answer": [
+            "[person_1] will be able to play.",
+            "[person_1] would not hug [person_1].",
+            "[person_1] won't be able to break.",
+            "[person_1] would have to stop his program.",
+            "[person_1] won't be able to play."
+        ],
+        "reason": [
+            "[person_1] would join [person_1] to play the game because it's more entertaining than watching.",
+            "There is one set of cups that is too big for [person_1] to play stacking cups.",
+            "The wind can blow in and will feel cool.",
+            "There is one set of cups that is too little for [person_1] to play stacking cups.",
+            "If [person_1] and [person_1] slide down at the same time , there's a good chance [person_1] and [person_1] will collide and [person_1] and [person_1] get hurt."
+        ]
+    }
+}

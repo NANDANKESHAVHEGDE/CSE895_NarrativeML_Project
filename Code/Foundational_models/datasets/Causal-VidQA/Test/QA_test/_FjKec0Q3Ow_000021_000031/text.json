@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the garden.",
+            "[person_1] is sitting at a table.",
+            "[person_1] is next to [surfboard_1].",
+            "[person_1] is in wood workshop.",
+            "[person_1] is at the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] touching on [surfboard_1]?",
+        "answer": [
+            "Maybe [person_1] play for passion.",
+            "It is convenient for [person_1] to put on.",
+            "Because it is [person_1]'s job.",
+            "[person_1] wants to stack the dices.",
+            "[person_1] is playing [surfboard_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[surfboard_1] intends to let [person_1] know about the newspaper.",
+            "[person_1] intends to keep playing [surfboard_1].",
+            "[person_1] intends to move the chess piece.",
+            "[person_1] intends to do boxing.",
+            "Maybe [person_1] intends to use onions to cook."
+        ],
+        "reason": [
+            "[person_1] doesn't stop holding and moving [surfboard_1].",
+            "[person_1] is still under the sea.",
+            "The paper is in [person_1]'s hands.",
+            "[person_1] is holding the harmonica.",
+            "Maybe [person_1] been playing the guitar for a long time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [surfboard_1] weren't there?",
+        "answer": [
+            "They will stop doing the head stand.",
+            "The plank will be moved easily.",
+            "[person_1] will call the seller.",
+            "[person_1] would not play [surfboard_1].",
+            "People will leave."
+        ],
+        "reason": [
+            "[person_1] must keep it to dance.",
+            "The fewer people , the quicker it is the other's turn.",
+            "[surfboard_1] is the coach of the cheer - leading team.",
+            "There would be only [surfboard_1] near [person_1] there.",
+            "The dog is too noisy."
+        ]
+    }
+}

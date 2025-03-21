@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "It is on the shelf.",
+            "It is on the table.",
+            "[cup_1] is on the table.",
+            "[cup_1] is on the ground.",
+            "[cup_1] is near [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] touch the strings?",
+        "answer": [
+            "[person_1] is playing lute.",
+            "[person_1] is playing the harp.",
+            "To keep mushrooms fresh.",
+            "[person_1] is playing the guitar bass and needs to touch the metal bass strings to create music.",
+            "Because the [person_1] wants to learn to play accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue play.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to sing."
+        ],
+        "reason": [
+            "[person_1] looks happy.",
+            "Maybe [person_1] is having fun.",
+            "Because [person_1] acts as a guide.",
+            "Because [person_1] looks very tired.",
+            "Because [person_1] is going to chop something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is a famous player?",
+        "answer": [
+            "He will not have class.",
+            "[person_1] may drink.",
+            "[person_1] will play on stage.",
+            "[person_1] will take a rest in a few minutes.",
+            "[person_1] won't practice anymore."
+        ],
+        "reason": [
+            "[person_1] will need to drink some water.",
+            "[person_1] will be treated in a different way.",
+            "[person_1] will feel more pain if headache.",
+            "Because the banana is soft , [person_1] can vomit it out.",
+            "[person_1] won't sit here."
+        ]
+    }
+}

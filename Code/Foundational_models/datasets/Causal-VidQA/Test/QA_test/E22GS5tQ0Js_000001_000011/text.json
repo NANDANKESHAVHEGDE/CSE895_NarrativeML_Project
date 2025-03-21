@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the right hand side of [person_1].",
+            "[person_1] is in the orange garden.",
+            "[person_1] is next to a conveyor belt.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is whistling.",
+            "[person_1] is trying to raise his eyebrows.",
+            "[person_1] is trying to do somersaults.",
+            "[person_1] just did somersaults.",
+            "[person_1] has his favorite present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to keep whistling.",
+            "[person_1] might stand up.",
+            "[person_1] will stop watering.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] may stop recording."
+        ],
+        "reason": [
+            "[person_1] is also eager to open presents.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is in the beach.",
+            "[person_1] is still working.",
+            "[person_1] is just whistling for fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] whistles well?",
+        "answer": [
+            "They will lose the game",
+            "[person_1] would climb down and sit down.",
+            "the [person_1] hold the [person_1].",
+            "The cup might have fallen.",
+            "[person_1] will use whistling to cheer himself up."
+        ],
+        "reason": [
+            "Whistling is an effective stress reliever.",
+            "The force of the kick is so strong that it can go through the target pad and hurt [person_1].",
+            "[person_1] did not know the balloon would explode.",
+            "Because the [person_1] is made of glass.",
+            "It is difficult to lift a child for a long time."
+        ]
+    }
+}

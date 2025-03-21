@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is at the house.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the house?",
+        "answer": [
+            "[person_1] is playing with paper.",
+            "[person_1] is playing with cups.",
+            "[person_1] just played maracas while sitting.",
+            "Because [person_1] is opening present.",
+            "[person_1] wants to exercise to change body."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] instructs [person_1] to do exercises.",
+            "[person_2] is going to keep watching [person_1].",
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] may keep learn to ride the scooter.",
+            "[person_2] is going to keep playing cello."
+        ],
+        "reason": [
+            "[person_1] doesn't know how to practice.",
+            "Maybe [person_1] hasn't finished the performance yet.",
+            "[person_2] is continuing cut nails carefully.",
+            "[person_2] disagreed with [person_1] and before [person_1] continued to talk , [person_2] looked at the board which seems that there are some opinions on it.",
+            "When [person_2] finishes his donut , he walks towards to the left side of the screen."
+        ]
+    },
+    "counterfactual": {
+        "question": "what if [person_2] doesn't guide [person_1] in episode?",
+        "answer": [
+            "The students won't hear [person_1] clearly.",
+            "[person_2] will stop laughing.",
+            "[person_1] will not know how to practice standing posture.",
+            "[person_2] will get hurt.",
+            "[person_1] will be tired."
+        ],
+        "reason": [
+            "The shape of the cake is very difficult to make with just one look.",
+            "[person_1] seems like a careful person.",
+            "Because fire dance is a difficult art , it takes a teacher to be able to do it.",
+            "because [person_1] doesn't know how to do those moves.",
+            "A cup is quite light."
+        ]
+    }
+}

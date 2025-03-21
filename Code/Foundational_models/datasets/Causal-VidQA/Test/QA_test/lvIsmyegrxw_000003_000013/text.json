@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there three people on the grass?",
+        "answer": [
+            "[person_1] is riding a mechanical bull.",
+            "White and black.",
+            "[horse_1] is blue.",
+            "[person_1] is behind the [person_1].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there two horses?",
+        "answer": [
+            "Keyboard is a part of the piano.",
+            "[person_1] maybe talking about cigarettes.",
+            "[person_1] does squats.",
+            "[person_1] lifts the sledgehammer with the head on the top and leans it slowly.",
+            "[person_1] owns two horses."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after walking?",
+        "answer": [
+            "[person_1] will take [horse_1] to home.",
+            "[person_1] is in the living room.",
+            "[person_1] will eat and get her bib dirty.",
+            "[person_1] will try to eat with the fork.",
+            "[person_1] is going to keep singing."
+        ],
+        "reason": [
+            "because that object seems pretty new to [person_1].",
+            "[person_1] wants t experience riding.",
+            "[person_1] has finished walking [horse_1].",
+            "[person_1] is keeping the balance to continue.",
+            "Because [person_1] needs to use the truck to clean the weed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a sudden flood?",
+        "answer": [
+            "Then [person_1] will go on dribbling.",
+            "Maybe [person_1] will be surprised.",
+            "[person_1] will ask [person_1] to go home.",
+            "[person_1] may not look at [person_1].",
+            "[person_1] will run away quickly."
+        ],
+        "reason": [
+            "Because broken badminton racket can not used to play anymore.",
+            "The bow is available . [person_1] just presses a sticker on the bottom of the bow against the present to secure it.",
+            "Safety is very important.",
+            "[person_1] can't use his hand so he needs to use his mouth to turn around the plate.",
+            "[horse_1] is too young to know the game rules."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting at a table.",
+            "[person_1] is in the garden.",
+            "[person_1] is in his room.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in a guitar shop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting at the table?",
+        "answer": [
+            "[person_1] is the skating contest judge.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is a baby.",
+            "[person_1] is stacking dices.",
+            "[person_1] is playing."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_2] next after the competition begins?",
+        "answer": [
+            "[person_2] will keep the same direction as now.",
+            "[person_2] will jump through all the chalk squares on the ground to get back to the start.",
+            "[person_2] will clean face with some tissue papers.",
+            "[person_2] will show the construction of the power drill.",
+            "[person_2] will continue performing."
+        ],
+        "reason": [
+            "[person_2] has not finished the performance.",
+            "[person_2] is not likely to stop chasing the goat.",
+            "[person_2] is still a child with little strength.",
+            "[person_2] is lifting the camera.",
+            "To scale the fish on the other side."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] was not used to skating?",
+        "answer": [
+            "[person_1] could not attend the skating contest.",
+            "It is possible that [person_2] won't test for [person_1].",
+            "[person_2] and [person_2] may not keep on waiting for the massage service.",
+            "[person_1] can take another chips to eat.",
+            "Maybe [person_1] will bandage again but at this time [person_1] will talk about the matters need attention during the bandaging while [person_1] is bandaging."
+        ],
+        "reason": [
+            "Because that's the law of the sport.",
+            "Maybe wearing a lens won't be able to test correctly.",
+            "Because she is hungry.",
+            "[person_1] is not qualified.",
+            "Because practice makes perfect."
+        ]
+    }
+}

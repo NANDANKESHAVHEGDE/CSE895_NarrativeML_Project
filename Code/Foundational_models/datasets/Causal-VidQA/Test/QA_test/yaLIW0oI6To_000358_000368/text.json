@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bowl_1]?",
+        "answer": [
+            "The color of [bowl_1] is white.",
+            "[bowl_1] is on the table.",
+            "It is brown.",
+            "[bowl_1] is on the floor , between the [bowl_1] and [bowl_1].",
+            "The [bowl_1] is wearing a white Cow - boy hat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading the newspaper.",
+            "Because [person_1] is doing her music homework.",
+            "[person_1] is putting utensils on [person_1].",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after sitting on [chair_2]?",
+        "answer": [
+            "[person_1] is going to read [book_1].",
+            "[person_1] looked to see if the courier had put the express in front of his door then would go get his express.",
+            "[person_1] will go for another side.",
+            "[person_1] will kick it.",
+            "[person_1] will put [person_1] on the table beside the former bottle."
+        ],
+        "reason": [
+            "[person_1] [chair_2] and [chair_2] are excited about it.",
+            "Because [person_1] put the former one there and it's convenient and nearby.",
+            "Because [person_1] just decided what to eat and is ready to eat now.",
+            "[person_1] is focusing on the book.",
+            "[person_1] has watched the game for a long time and learned how to play it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is hungry?",
+        "answer": [
+            "[person_1] will feel uncomfortable.",
+            "The [person_1] will not fly to the right hand of [person_1].",
+            "Maybe [person_1] will be happy.",
+            "[person_1] will eat a dish.",
+            "[person_1] will go out."
+        ],
+        "reason": [
+            "[person_1] plays the flute when [person_1]'s sore throat is gone.",
+            "[person_1] will cook a dish to enjoy.",
+            "[person_1] will need to enjoy a meal after working.",
+            "Because no one plays with [person_1].",
+            "There is a bowl next to [person_1]."
+        ]
+    }
+}

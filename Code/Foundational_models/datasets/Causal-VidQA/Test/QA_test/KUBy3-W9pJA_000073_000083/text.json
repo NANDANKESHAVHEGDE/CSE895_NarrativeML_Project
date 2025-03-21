@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's brown.",
+            "It's blue.",
+            "It is purple.",
+            "It is pink.",
+            "It's red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have maracas in her hands?",
+        "answer": [
+            "Because the [person_1] likes skateboarding.",
+            "Perhaps [person_1] does it for fun.",
+            "The [person_1] moves around by wearing the roller skate equipment.",
+            "[person_1] is performing on stage.",
+            "[person_1] wants to play maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to dance.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to play maracas.",
+            "[person_1] will hold that posture for a while."
+        ],
+        "reason": [
+            "[person_1] hands are shaking the maracas.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1]'s feet are numb.",
+            "Because there are steps next to [person_1].",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] swung her hands at the vase.",
+        "answer": [
+            "The vase would break.",
+            "The back of the girl nearby might bleed.",
+            "The vase would be kept whole.",
+            "[person_1] and [person_1] would not be allowed to join the practice.",
+            "The vase wouldn't break."
+        ],
+        "reason": [
+            "If there is no rejection , it means agree.",
+            "[person_1] played carefully.",
+            "The baby chair is suitable for babies.",
+            "[person_1] played carelessly.",
+            "[person_1] could get hurt and that would make [person_1] angry."
+        ]
+    }
+}

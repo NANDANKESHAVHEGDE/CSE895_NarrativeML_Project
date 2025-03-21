@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is taking mortar.",
+            "[person_1] is playing the harmonica.",
+            "[person_1] is standing behind the net to play badminton.",
+            "[person_1] is throwing the ball forward.",
+            "[person_1] is sitting and laughing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a diaper?",
+        "answer": [
+            "Because [person_1] is not tall enough.",
+            "[person_1] is swimming.",
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello.",
+            "[person_1] is horizontal.",
+            "[person_1] is a kid."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go downhill.",
+            "[person_1] will plant a tree on the ground.",
+            "[person_1] will continue playing the harmonica.",
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "[person_1] is concentrating on making the basket deftly.",
+            "It seems that [person_1] likes the harmonica.",
+            "[person_1] must keep track of her student's progress.",
+            "Because [person_1] climbs so high.",
+            "[person_1] is still a little kid and impatient."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't play the harmonica?",
+        "answer": [
+            "[person_1] would continue attacking [person_1].",
+            "[person_1] would play with the toy car.",
+            "[person_1] will not be able to finish in short time.",
+            "[person_1] will be angry.",
+            "[person_1] will not be able to complete the challenge."
+        ],
+        "reason": [
+            "The dough is not supple enough to make a cake.",
+            "[person_1] will know how to surf.",
+            "[person_1] will not be here.",
+            "The performance will not be even and beautiful.",
+            "The toy car is next to [person_1]."
+        ]
+    }
+}

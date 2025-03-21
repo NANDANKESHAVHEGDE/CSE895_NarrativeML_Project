@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there?",
+        "answer": [
+            "There are a lot of cars.",
+            "Only one.",
+            "There are two cars.",
+            "There are fourteen chairs in the room.",
+            "There are two chairs in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving the lips?",
+        "answer": [
+            "[person_1] is working out.",
+            "Maybe [person_1] is playing cup - stacking game.",
+            "[person_1] is playing the harmonica.",
+            "[person_1] is trying to explaining about picking up apples.",
+            "Pliers is a kind of tool expending less force but generate great effect."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to keep swimming with the sharks.",
+            "[person_1] intends to have an intention of playing the flute.",
+            "[person_1] intends to go on singing."
+        ],
+        "reason": [
+            "[person_1] arms are outstretched to welcome the baby.",
+            "[person_1] is still holding it.",
+            "It seems that [person_1] is passionate about the sound of the harmonica.",
+            "[person_1] is in a position about to lift weights.",
+            "[person_1] is still under the sea."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] fell over suddenly?",
+        "answer": [
+            "[person_1] would watch [person_1] easier.",
+            "[person_1] would not run so fast.",
+            "Then [person_1] and [person_1] may not receive the delivery that day.",
+            "[person_1] won't play it any longer.",
+            "[person_1] would be hurt."
+        ],
+        "reason": [
+            "The [person_1] is standing on the thick snow.",
+            "[person_1] will want to continue smoking.",
+            "Because if the injury is serious , he can't continue to work.",
+            "Because [person_1] is sitting on it.",
+            "[person_1] can't keep stretching legs while his hands are painful."
+        ]
+    }
+}

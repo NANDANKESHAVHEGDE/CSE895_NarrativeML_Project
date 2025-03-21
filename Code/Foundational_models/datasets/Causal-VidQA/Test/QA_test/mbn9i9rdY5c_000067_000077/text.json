@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is white.",
+            "The shirt [person_1] wearing is black.",
+            "The shirt is yellow.",
+            "It is \u00a0 black.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is play didgeridoo.",
+            "[person_1] is playing flute alone.",
+            "[person_1] is playing flute in the room.",
+            "Because [person_1] can somersault.",
+            "[person_1] is watching newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] is going to eat all the cakes on the [person_1].",
+            "[person_1] is going to share the beer with his friends.",
+            "[person_1] won't sit in [person_1] and still stands.",
+            "[person_1] is going to open the newspaper."
+        ],
+        "reason": [
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] is putting a towel on the [person_1] and talking about it.",
+            "[person_1]'s hands is shaking.",
+            "[person_1] looks so excited when she plays hopscotch.",
+            "[person_1] is wanting to see inside."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] tore the newspaper?",
+        "answer": [
+            "[person_1] will feel excited.",
+            "[person_1] will wipe her mouth.",
+            "[person_1] will sit in [person_1].",
+            "[person_1] may stop practicing.",
+            "the pillow will remain untouched by [person_1]."
+        ],
+        "reason": [
+            "Maybe [person_1] will continue to tear.",
+            "Because this machine is very safe.",
+            "[person_1] will stop riding.",
+            "[person_1] turned the chair quickly and strongly that made [person_1] fell off.",
+            "Because there is no coach so [person_1] can take a break when [person_1] wants to."
+        ]
+    }
+}

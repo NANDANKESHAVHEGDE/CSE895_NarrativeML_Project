@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is on [dining table_1].",
+            "[potted plant_1] is behind the [potted plant_1].",
+            "[potted plant_1] is on the right side [potted plant_1].",
+            "[potted plant_1] is on the left side of [potted plant_1].",
+            "They are black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] looks very happy while playing didgeridoo.",
+            "Because [person_2] is reading a book.",
+            "Maybe [person_2] is learning fire dance from [person_2].",
+            "[person_2] is watching [dining table_1] lift weights.",
+            "[person_2] is talking about something on [dining table_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will do an exercise with weights.",
+            "Maybe [person_1] is going to continue skiing",
+            "[person_1] is going to talk about [dining table_1].",
+            "[person_1] will store teddy bear.",
+            "[person_1] is going to use more dice."
+        ],
+        "reason": [
+            "The tap is still on.",
+            "It seems that this is a show . ",
+            "[person_1] looks like a couple.",
+            "[person_1] walks away.",
+            "It is late."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [cup_4] fell to the ground?",
+        "answer": [
+            "[cup_4] would be broken.",
+            "They might be a good couple.",
+            "[cup_4] may look for everything in the undersea.",
+            "[cup_4] would work hard.",
+            "[cup_4]'ll be in a hurry."
+        ],
+        "reason": [
+            "[cup_4] helps [cup_4] to move from inside to the ground.",
+            "Because there is no book , [cup_4] will not know the answer.",
+            "[cup_4] is made of porcelain.",
+            "[cup_4] will get on the swing and start playing.",
+            "It doesn't influence using the inhaler."
+        ]
+    }
+}

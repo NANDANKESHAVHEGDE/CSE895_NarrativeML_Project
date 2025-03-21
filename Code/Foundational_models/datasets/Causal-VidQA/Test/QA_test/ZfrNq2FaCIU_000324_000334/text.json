@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the bathroom.",
+            "[person_1] is \u00a0 in the swimming pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the mirror?",
+        "answer": [
+            "The table is discarded and the wood can be recycled.",
+            "Because the camel is the best way of transportation in the desert.",
+            "Because it's the instrument for playing the cello.",
+            "[person_1] is shaving.",
+            "[person_1] wants to exercise physical health."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may drive by the side of the road.",
+            "[person_1] may decide to change exercising style.",
+            "[person_1] is going to open her present.",
+            "[person_1] is going to shave off all his beard.",
+            "[person_1] may make the juicer start to work."
+        ],
+        "reason": [
+            "There is only one square on the course to put one foot in.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] put shaving cream all over his chin.",
+            "[person_1] just has started his work.",
+            "[person_1] is having his turn next."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beard is shaved?",
+        "answer": [
+            "[person_1] would not work.",
+            "[person_1] might shake hands with him.",
+            "The beard will look better.",
+            "[person_1] would keep going.",
+            "The cheer - leading team might not be able to perform."
+        ],
+        "reason": [
+            "[person_1] does not attend the performance.",
+            "Sometimes too long beard will make you uncomfortable.",
+            "[person_1] follows the rules when playing.",
+            "[person_1] does not attend the performance.",
+            "Because both hands hold the dishes stably."
+        ]
+    }
+}

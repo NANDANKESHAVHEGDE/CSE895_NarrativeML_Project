@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the light?",
+        "answer": [
+            "The plastic cup is green.",
+            "It is very bright.",
+            "No.",
+            "It is very dark.",
+            "A paper is in [person_1] hands."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] and [person_2] appear in the room?",
+        "answer": [
+            "Maybe [person_1] and [person_2] are taking a photo.",
+            "Because [person_1] is watching [person_2] weave fabric.",
+            "[person_1] is excited about making the [person_2].",
+            "[person_1] is doing lunges.",
+            "Maybe [person_1] and [person_2] are playing together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will continue playing with [person_1].",
+            "[person_2] will take the wine away.",
+            "[person_2] will continue watching what [person_1] is doing and learning.",
+            "Give one piece of [person_2] to [person_2].",
+            "[person_2] will start play the hula hoop."
+        ],
+        "reason": [
+            "[person_2] is practicing lunge.",
+            "They are next to each other and both are opening the gifts.",
+            "[person_2] is doing it enthusiastically.",
+            "[person_2] and [person_1] are having fun together.",
+            "Because if [person_1] jumps , it'll bounce [person_2] up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] scolds [person_2] ?",
+        "answer": [
+            "[person_1] may not say a word when [person_2] is kicking.",
+            "[person_2] will yell at [person_1].",
+            "[person_2] may not be strict with [person_1].",
+            "The others would pick [person_2] up.",
+            "[person_2] will cry."
+        ],
+        "reason": [
+            "There was nothing in front of [person_1] to take notice.",
+            "The last step is setting the banana apart from its peel , so [person_1] needs to finish.",
+            "[person_1] does not really hit and wave in the right way.",
+            "[person_2] is just a kid.",
+            "The [person_1] is small and the [person_1] would lose balance."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [clock_1]?",
+        "answer": [
+            "It is next to the wall.",
+            "It is on the wall.",
+            "It is behind [clock_1].",
+            "[clock_1] is kicking a ball.",
+            "[clock_1] on the cupboard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] move her legs so much?",
+        "answer": [
+            "[person_1] wants to take others' shoes.",
+            "[person_1] is stacking [person_1] and [person_1] very fast.",
+            "Perhaps [person_1] needed to raise her body.",
+            "[person_1] is reading book.",
+            "[person_1] is opening his gift."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] has an intention of swing her body.",
+            "[person_1] intends to keep playing the harp.",
+            "[person_1] intends to become a musician.",
+            "[person_1] is seemingly coming up with team's tactics.",
+            "[person_1] intends to learn about the harp."
+        ],
+        "reason": [
+            "[person_1] is reading the information in the newspaper very carefully.",
+            "[person_1] did pull - ups a lot.",
+            "[person_1]'s legs moved from the left front to the back.",
+            "[person_1] fingers are moving on the guitar.",
+            "[person_1] is playing cymbals very enthusiastically."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will feel embarrassed.",
+            "[person_1] will put the lute on the table.",
+            "[person_1] will rest on [person_1].",
+            "[person_1] will lie in bed.",
+            "Perhaps [person_1] will not try any more."
+        ],
+        "reason": [
+            "The library doesn't allow people to speak loud.",
+            "[person_1] seems to use a lot of energy to pull her up.",
+            "[person_1] may not keep squeezing the orange when she is tired.",
+            "Because it's easy for children to get tired.",
+            "There is a chair near [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [dining table_1]?",
+        "answer": [
+            "It's sunny.",
+            "The [dining table_1] is long and big.",
+            "[dining table_1] is rectangular.",
+            "The color of the T - shirt of the [dining table_1] is dark blue.",
+            "The [dining table_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] putting every dice on the table?",
+        "answer": [
+            "[person_1] is playing with water.",
+            "[person_1] is doing it for fun.",
+            "Because [person_1] has to pick up his slipper.",
+            "Because [person_1] and [person_1] are watering the plants?",
+            "[person_1] wants to use the dice to shake."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is bound to play the guitar.",
+            "[person_1] will read books.",
+            "[person_1] is going to keep shaking the dices.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to talk to [person_1]."
+        ],
+        "reason": [
+            "[person_1] still doesn't finish shaking.",
+            "The meat hasn't cooked yet.",
+            "The candle doesn't burn well.",
+            "It is too late.",
+            "[person_1] finishes carving the front."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't put every dice on the table?",
+        "answer": [
+            "[person_1] will feel a little surprised.",
+            "[person_1] would share with [person_1].",
+            "[person_1] would find it difficult to shake the dices.",
+            "Maybe the surface of the wood wouldn't absorb the oil.",
+            "[person_1] can't set bricks in perfectly straight rows."
+        ],
+        "reason": [
+            "There is much space on the stage , on the right side of [person_1] , [person_1] and [person_1].",
+            "Because others think [person_1] is a cold person.",
+            "Maybe [person_1] would drop some dices out of the cup when not putting the dices on the table.",
+            "Because the box of [person_1] wouldn't be affected by as much momentum and wouldn't slip out of his pocket.",
+            "The floor would already be extremely dirty with smeared cement."
+        ]
+    }
+}

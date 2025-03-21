@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2]?",
+        "answer": [
+            "[chair_2] is next to [frisbee_1].",
+            "[chair_2] is behind [frisbee_1].",
+            " [chair_2] is behind [chair_2].",
+            "[frisbee_1] is in the corner of the room.",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on a chair?",
+        "answer": [
+            "There some information that the [person_1] can read.",
+            "[person_1] is stacking dice.",
+            "[person_1] wants to be high to throw the ball into [frisbee_1].",
+            "[person_1] wants to throw it into the plastic sink.",
+            "May be [frisbee_1] is a teacher and [frisbee_1] is teaching [person_1] how to play the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to interpret what the live is saying.",
+            "[person_1] wants to check her belly.",
+            "[person_1] is going to show some hooping skills.",
+            "[person_1] may throw the ball into [frisbee_1].",
+            "[person_1] is going to probably have a rest."
+        ],
+        "reason": [
+            "[person_1] is still playing bagpipe at the end of the video.",
+            "It appears that [person_1] would like to build up the body through this way.",
+            "[person_1] is standing on a chair and leaning his body toward [frisbee_1].",
+            "[person_1] is bouncing the ball to throw it.",
+            "Because [person_1] hasn't changed her posture and left the machine."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is higher?",
+        "answer": [
+            "She will change a key.",
+            "[person_1] doesn't need to stand on a chair.",
+            "It is not allowed.",
+            "She may pick it up and try again next time.",
+            "The liquid in [person_1] will flow out."
+        ],
+        "reason": [
+            "[person_1] is short , so [person_1] needs to stand on a chair to reach the [frisbee_1].",
+            "[person_1] will go to the dentist.",
+            "Then [person_1] would ask [person_1] to write.",
+            "Because surrounding [person_1] is floor and wall , when [person_1] drops the baby bottle , the bottle is on the floor.",
+            "the [person_1] is lying next to the couch."
+        ]
+    }
+}

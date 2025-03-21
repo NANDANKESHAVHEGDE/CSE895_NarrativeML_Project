@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is sitting at the behind?",
+        "answer": [
+            "[person_3] is sitting at the behind.",
+            "It is white.",
+            "The background is white.",
+            "It is a violin.",
+            "The people are doing tai chi in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting between [person_1] and [person_4]?",
+        "answer": [
+            "Because [person_2] wants to know what's going on behind her.",
+            "[person_1] holds two gong sticks in hands and then knocks on gongs.",
+            "Because that's how [person_4] exercises.",
+            "[person_2] , [person_1] and [person_4] are practicing together.",
+            "It will reduces the time of completing stomping grapes."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_2] , [person_1] and [person_4] next?",
+        "answer": [
+            "[person_2] is going to fall on the floor.",
+            "[person_1] and [person_2] will have a rest and let others practice.",
+            "[person_1] is going to stand up.",
+            "[person_2] , [person_1] and [person_4] will continue to practice.",
+            "[person_1] will clean up the floor."
+        ],
+        "reason": [
+            "So the juicer can work.",
+            "[person_2] , [person_1] and [person_4] are not likely to stop performing.",
+            "[person_1] looks so professional.",
+            "Because he put down the cup and reached out the hand to something else.",
+            "The man in black holds [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not with [person_1] and [person_4]?",
+        "answer": [
+            "The concrete is poured in will not be flat.",
+            "[person_1] and [person_4] would not practice.",
+            "[person_1] needs to lift the accordion.",
+            "[person_1] may fall if [person_4] can not control his speed well.",
+            "[person_1] will not need to use the vacuum to suck up."
+        ],
+        "reason": [
+            "To help [person_1] move the snow blower together.",
+            "There must be a winner and no one wants to lose.",
+            "[person_1] will answer the phone.",
+            "[person_1] will get wet.",
+            "[person_1] and [person_4] need to practice with [person_2]."
+        ]
+    }
+}

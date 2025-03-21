@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is next to [chair_1].",
+            "[chair_1] is behind [person_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is doing exercise.",
+            "The table is discarded and the wood can be recycled.",
+            "[person_1] is exhibiting the picture to the public.",
+            "[person_1] wants to tell you how to position your head when use the microscope.",
+            "Because it can carry him to his destination."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to teach exercise by taking video.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] may go other place.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to keep performing."
+        ],
+        "reason": [
+            "Because he finished his work.",
+            "[person_1] seems to enjoy playing it very much.",
+            "[person_1] cuts off the flower's stem.",
+            "No one in the gym and she talked alone.",
+            "[person_1] and [person_1] are friends."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] will not continue teaching exercise.",
+            "Maybe [person_1] will go to the garden to play.",
+            "[person_1] will stop singing.",
+            "The birds will come close to [person_1].",
+            "[person_1] will stop playing flute and go out."
+        ],
+        "reason": [
+            "It will be too dark to see much.",
+            "The lights are off , too.",
+            "The television will be turned off.",
+            "The room will be dark.",
+            "The microphone and the music will be off."
+        ]
+    }
+}

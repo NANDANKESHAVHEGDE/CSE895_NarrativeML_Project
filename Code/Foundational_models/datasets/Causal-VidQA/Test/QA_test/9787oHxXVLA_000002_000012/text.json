@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_1]?",
+        "answer": [
+            "[person_1] is standing next to a snowman.",
+            "[person_1] is outside , standing in front of a large door.",
+            "[person_1] is the girl with long blonde hair.",
+            "[person_1] is in a room.",
+            "[person_1] is selling goods at the market."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_2] stagger?",
+        "answer": [
+            "Because [person_1] and [person_2] practice roller skating.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is celebrating his last winning.",
+            "Because [person_1] is currently in a room without light.",
+            "because [person_2] was snowballed by [person_1] continuously."
+        ]
+    },
+    "predictive": {
+        "question": "what are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_2] and [person_1] are going to continue playing dominoes.",
+            "[person_1] and [person_2] are going to continue throwing snowballs.",
+            "[person_1] is going to flatten the side of [person_1] to his left side.",
+            "[person_1] will keep on dancing . ",
+            "[person_1] will feel nothing change."
+        ],
+        "reason": [
+            "because [person_1] and [person_2] continued to collect snow.",
+            "When [person_1] brushes teeth , [person_1]'s feet keeps moving.",
+            "[person_1] is smiling to the camera.",
+            "[person_1] may have a better control over the truck after practicing.",
+            "Because that part of the [person_2] is not flattened yet and [person_1] is moving his hand toward there."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] and [person_2] play for a long time?",
+        "answer": [
+            "[person_2] will cry very loudly.",
+            "[person_1] and [person_2] will not get sick.",
+            "[person_2] should go to hospital.",
+            "[person_1] and [person_2] will get sick.",
+            "This glass ball will fall."
+        ],
+        "reason": [
+            "it is not snowing heavily.",
+            "Because there is a seat designed for kids in the cart.",
+            "it is snowing heavily.",
+            "Many people come to [person_1] to treat insomnia.",
+            "it is raining heavily."
+        ]
+    }
+}

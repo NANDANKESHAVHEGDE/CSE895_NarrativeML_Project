@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is in front of [couch_1].",
+            "[couch_1] is skating in a roller rink.",
+            "[person_1] is standing in front of the exit.",
+            "[person_1] is on an oven.",
+            "It is being sat by [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [couch_1]?",
+        "answer": [
+            "[person_1] doesn't want to get tired.",
+            "To do massaging neck.",
+            "[person_1] seems to be helping [couch_1] to pour milk.",
+            "It's dangerous.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to crawl.",
+            "[person_1] will add another liquor.",
+            "[person_1] is going to sell the orange juice.",
+            "[person_1] is going to blow more air into the balloon.",
+            "[person_1] is going to wear the sweater."
+        ],
+        "reason": [
+            "It seems that [person_1] has finished the dance.",
+            "[person_1] looks happy with this action.",
+            "[person_1] is going to start sleeping.",
+            "[person_1] is having a new sweater on her hands.",
+            "[person_1]'s left leg is off the fence."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] heard a strange sound?",
+        "answer": [
+            "[person_1] stood up suddenly.",
+            "The match will not take place.",
+            "[person_1] sit down suddenly.",
+            "[person_1] might perform much better.",
+            "[person_1] stood up slowly."
+        ],
+        "reason": [
+            "The [couch_1] is at right after [person_1] it and [person_1] can sit to relax.",
+            "[person_1] is putting it on [couch_1] and [person_1] silently listen to the sound.",
+            "Behind [person_1] is a screen , it can remind [person_1] what to say.",
+            "[person_1] is putting it under [couch_1] and [person_1] silently listen to the sound.",
+            "[person_1] is still trying now."
+        ]
+    }
+}

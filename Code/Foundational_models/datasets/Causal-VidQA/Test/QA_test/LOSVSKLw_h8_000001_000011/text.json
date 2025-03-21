@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [clock_1]?",
+        "answer": [
+            "It is on the wall.",
+            "It is next to the wall.",
+            "It is behind [clock_1].",
+            "[clock_1] is kicking a ball.",
+            "[clock_1] on the cupboard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing lunge?",
+        "answer": [
+            "Because [person_1] needs the chessman to complete the movement of [person_1].",
+            "[person_1] wants to keep fit and healthy.",
+            "[person_1] wants to express his feeling.",
+            "[person_1] finds stomping the grapes funnier than [person_1] does.",
+            "Because [person_1] is training."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to do a workout.",
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to stop doing lunge to take a rest."
+        ],
+        "reason": [
+            "[person_1] is in the gymnastic.",
+            "[person_1] is ripping paper.",
+            "[person_1] is putting the weights down on the floor.",
+            "The message says he should come home for dinner.",
+            "[person_1] is a hard - working person."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the weight fell on the foot of [person_1]?",
+        "answer": [
+            "[person_1] wouldn't have an injured foot.",
+            "[person_1] will get on [person_1].",
+            "[person_1] would have a healthy foot.",
+            "Other bikers would help the [person_1] stand up.",
+            "[person_1] would have an injured foot."
+        ],
+        "reason": [
+            "[person_1] will be take a long time.",
+            "The weights are very heavy and can hurt his feet.",
+            "These bricks seem to be very old ; therefore , they are very fragile.",
+            "The weights are very light and can hurt his feet.",
+            "[person_1] is just a starter and needs guidance."
+        ]
+    }
+}

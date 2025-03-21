@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of the cloth on [person_1]?",
+        "answer": [
+            "It is white and red.",
+            "The shirt is white.",
+            "Red.",
+            "It's dark blue.",
+            "It's yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] clap her hands?",
+        "answer": [
+            "They are here to tag the graffiti.",
+            "To get up from the chair.",
+            "Glasses make [person_2] look cooler.",
+            "Because [person_2] feels proud of [person_1] for he opens the cap by himself.",
+            "Because they are tagging them."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may carve the back.",
+            "[person_1] is going to find another drinks.",
+            "[person_1] may straighten his arms.",
+            "[person_1] will obviously stop stand on the hand.",
+            "Maybe [person_1] is going to continue watering."
+        ],
+        "reason": [
+            "[person_1] looks thirsty after doing exercise.",
+            "[person_1] is holding a exercise equipment.",
+            "Maybe [person_1] will clap his hands.",
+            "[person_1] feels dark.",
+            "It seems [person_1] wants to drink water in the bottle but there is no water in it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "[person_1] may fall.",
+            "[person_2] won't be able to do it.",
+            "[person_2] will come to comfort him.",
+            "[person_1] will be picked up to comfort.",
+            "Perhap [person_1] will be sick."
+        ],
+        "reason": [
+            "If [person_2] escapes marriage , the girl will break down.",
+            "Because this person pinches [person_1] and makes [person_1] cry.",
+            "It looks like that [person_2] is the mother of [person_1] and mothers are not willing to look their kids cry.",
+            "Because there is blood underground , very slippery.",
+            "Crying a lot is not good for children."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks like cute.",
+            "[person_1] looks like a professional skier.",
+            "[person_1] looks young.",
+            "[person_1] is so cute.",
+            "[person_1] looks so cute."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] do somersaults?",
+        "answer": [
+            "Maybe [person_1] and [person_1] are having a short break and relaxing in the room.",
+            "Because [person_1] wants to show off his skills.",
+            "Perhaps [person_1] feels pain in her hand.",
+            "Because [person_1] can't crush grapes with bare hands.",
+            "[person_1] wants to watch the whole process of dominoes falling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to hold the camera.",
+            "[person_1] is going to move the chess piece.",
+            "[person_1] is going to ski forward.",
+            "[person_1] may continue to air the shoe.",
+            "[person_1] is going to lift slowly."
+        ],
+        "reason": [
+            "[person_1] moves forward.",
+            "[person_1] feels cold.",
+            "[person_1] is a coach.",
+            "[person_1] still holds the broom.",
+            "[person_1] has eaten the apple in the hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't have the protective gear?",
+        "answer": [
+            "[person_1] would not be safe.",
+            "[person_1]'ll go back to the house and have a rest.",
+            "Barbecued meat will scorch and turn.",
+            "[person_1] would not know how to improve in blowing the clarinet.",
+            "[person_1] could not cut hair."
+        ],
+        "reason": [
+            "Skiing is dangerous , so [person_1] needs protective gear.",
+            "The piece of the carpet is placed tightly to the floor.",
+            "Not every can follow the music.",
+            "[person_1] was throwing the ball so hard.",
+            "Grinding stones sometimes requires little effort to perfect the details."
+        ]
+    }
+}

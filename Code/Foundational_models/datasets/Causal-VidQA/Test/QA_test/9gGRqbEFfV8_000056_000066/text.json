@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_2]?",
+        "answer": [
+            "It is in front of the building.",
+            "[book_2] is on the ground.",
+            "The [book_2] is quite big.",
+            "[book_2] is behind [book_2].",
+            "[book_2] is on the bookshelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the harp?",
+        "answer": [
+            "[person_1] is playing the harp.",
+            "[person_1] is playing the lute.",
+            "Because [person_1] wants to make a beer cask.",
+            "Because [person_1] is playing the flute.",
+            "[person_1] wants to teach this exercise to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to continue stretching."
+        ],
+        "reason": [
+            "[person_1] is still holding it.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is leaving.",
+            "[person_1] and [person_1] are friends.",
+            "[person_1] has lifted up the container."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [book_2] falls on [person_1]?",
+        "answer": [
+            "Maybe it's cool.",
+            "The [book_2] will not be tired of playing too much.",
+            "[person_1] may take part in a dance group and perform on a stage.",
+            "[person_1] may be surprised.",
+            "The place will be a mess."
+        ],
+        "reason": [
+            "Because they are next to the sea.",
+            "[person_1] has failed the contest.",
+            "[person_1] is focusing on playing the harp.",
+            "[person_1] and [person_1] are very friendly.",
+            "The trampoline is next to the pillar and [person_1] jumps too close to the pillar."
+        ]
+    }
+}

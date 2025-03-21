@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there only one person in the video?",
+        "answer": [
+            "It is dark with the spot light on the stage only.",
+            "No , there are two.",
+            "It is well - decorated.",
+            "It is quite tidy.",
+            "The room is quite dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit on the machine?",
+        "answer": [
+            "It seems that the [person_1] wants to pick something in the [person_1].",
+            "Because [person_1] can be more comfortable on the couch.",
+            "Because [person_1] has fun in playing games.",
+            "Because [person_1] wants to make it harder to open [person_1].",
+            "Because [person_1] wants to experience lawn mowing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will enjoy the liquid inside the bottle.",
+            "[person_1] will bake a cake.",
+            "[person_1] will try to put [person_1] in a paper box.",
+            "Maybe [person_1] put the lid on the table.",
+            "[person_1] will get off the machine."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "Because [person_1] does want to fall down.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference.",
+            "[person_1] feels bored.",
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope."
+        ]
+    },
+    "counterfactual": {
+        "question": "If [person_1] is given an ice - cream , what will happen?",
+        "answer": [
+            "[person_2] will stay on the machine with [person_1].",
+            "[person_2] may do housework all the time.",
+            "[person_1] will stay on the machine with [person_2].",
+            "[person_1] may make another snowman.",
+            "[person_1] will stay on the machine without [person_2]."
+        ],
+        "reason": [
+            "[person_1] isn't attracted by the ice - cream.",
+            "because no one teaches the [person_1] how to do.",
+            "[person_1] is attacked by the ice - cream.",
+            "It's dinner time , [person_1] must finish it in a short time.",
+            "[person_1] is attracted by the ice - cream."
+        ]
+    }
+}

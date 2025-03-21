@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on [person_1]'s hand?",
+        "answer": [
+            "The [person_1] is on [person_1]'s back.",
+            "The chair to [person_1]'s left is blue.",
+            "The [person_1] is black.",
+            "The hat is white.",
+            "[person_1] is holding a guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sometimes raise its head?",
+        "answer": [
+            "Because [person_1] wants to look at the camera.",
+            "Maybe [person_1] is playing the lute in front of many people.",
+            "Because [person_1] needs to hit the cap quickly so that he can open it.",
+            "Maybe [person_1] is recording about pipes and how to smoke.",
+            "The [person_1] wanted to eat the apple right then."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue playing.",
+            "[person_1] may drink water.",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] will uncork the bottle.",
+            "Maybe [person_1] will celebrate."
+        ],
+        "reason": [
+            "[person_1] will continue playing because [person_1] is still focusing on the guitar.",
+            "[person_1] is demonstrating while talking to the camera.",
+            "Because the grass has been very clean , [person_1] needs to clean the road instead.",
+            "[person_1] puts the picture on the knees.",
+            "[person_1] will feel tired after playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't play the guitar?",
+        "answer": [
+            "[person_1] may be very hot.",
+            "[person_1] would probably play the violin.",
+            "[person_1] will be broken into pieces.",
+            "[person_1] would probably play the piano.",
+            "[person_1] may be painful in her legs."
+        ],
+        "reason": [
+            "[person_1] can not read without electricity in the room.",
+            "[person_1] would probably play the piano because the violin is directly to his right.",
+            "The bad smell of flowers means that they are beginning to rot.",
+            "Because the riding speed is fast enough now.",
+            "[person_1] would probably play the piano because the piano is directly to his right."
+        ]
+    }
+}

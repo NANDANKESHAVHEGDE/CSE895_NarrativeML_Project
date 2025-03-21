@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "Along the river.",
+            "[person_1] is in the room",
+            "[person_1] is on the balcony.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paint can?",
+        "answer": [
+            "[person_1] is skipping the rope.",
+            "[person_1] is running around to play basketball.",
+            "[person_1] wants to open the box.",
+            "[person_1] is shaking the dices.",
+            "Because [person_1] is spraying paint on the picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will hold that posture for a while.",
+            "[person_1] will continue talking.",
+            "[person_1] will mix many colors.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to eat all the donuts in the box he is holding."
+        ],
+        "reason": [
+            "[person_1] is spraying a lot of colors.",
+            "[person_1] fell under the bed.",
+            "[person_1] finds hopscotch interesting.",
+            "Because the blue is skying at night.",
+            "[person_1] still holds the broom."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sprays the wrong color?",
+        "answer": [
+            "[person_1] won't be able to play roller skating.",
+            "[person_1] will probably be embarrassed.",
+            "It is possible that [person_1] will have to remove the picture.",
+            "[person_1] will be on fire.",
+            "[person_1] will feel tired."
+        ],
+        "reason": [
+            "The painting color will not be reasonable.",
+            "The flute of [person_1] was damaged.",
+            "[person_1] doesn't want the table to be dirty.",
+            "The [person_1] has some knives here.",
+            "It's embarrassing to make a mistake in front of students."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "[person_1] is behind the [person_1].",
+            "The [person_1] is on a ground which is covered with thick snows.",
+            "The [person_1] is in a park.",
+            "[person_1] is on the left side of [person_1].",
+            "The [person_1] is in a restaurant."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] holding the hand of the [person_2]?",
+        "answer": [
+            "[person_2] , [person_1] and [person_1] are performing together on a stage.",
+            "The [person_1] is helping the [person_2] keep balance on the stilts.",
+            "[person_1] is taking [person_2] and [person_1].",
+            "Because [person_1] is performing in front of a large audience and the image is projected up so the audience can see it better.",
+            "Because [person_2] is aiming to shoot marbles."
+        ]
+    },
+    "predictive": {
+        "question": "What are the [person_1] and the [person_3] going to do?",
+        "answer": [
+            "[person_2] intends to invite [person_1] to play.",
+            "The [person_1] and the [person_3] may keep helping the [person_2] walk on the stilts.",
+            "[person_2] intends to throw the ball which [person_2] picked up.",
+            "[person_2] intends to play with everyone.",
+            "[person_2] is starting to play."
+        ],
+        "reason": [
+            "The [person_1] and the [person_2] are stepping , leaving the living statue behind.",
+            "The [person_1] and the [person_2] are still holding the needles and there are still many balloons.",
+            "The [person_1] and the [person_3] are still holding the hands of the [person_2] and following the [person_2].",
+            "[person_2] is holding the paper.",
+            "The [person_1] and the [person_2] are still pushing the pillows toward each other."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] and the [person_3] did not hold the hands of the [person_2]?",
+        "answer": [
+            "The [person_2] would fall to the grass.",
+            "[person_1] might bring the chair over and then steps on the chair.",
+            "They may clap hands to cheer up for him.",
+            "He may pick it up at once.",
+            "[person_1] will cook the dish again."
+        ],
+        "reason": [
+            "The [person_2] is standing on a height above from the grass.",
+            "The apple has not been washed yet.",
+            "The [person_1] is losing balance.",
+            "Because there were no sign to notify [person_2] the place to stand.",
+            "Because there is a chair nearby for [person_1] to use."
+        ]
+    }
+}

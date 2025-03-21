@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is playing with the dolls.",
+            "The [person_1] is wearing a coat and a beanie.",
+            "The [person_1] is training the [person_1].",
+            "the [person_1] is wearing a pink shirt.",
+            "The [person_1] is introducing the [person_1] to the audience."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the dolls move?",
+        "answer": [
+            "Because the [person_1] put her hand inside the dolls.",
+            "[person_1] is practicing before the competition.",
+            "The [person_1] is sleeping on the [person_1].",
+            "Because the [person_1] manipulate the dolls with rope.",
+            "Maybe [person_1] wants to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will add detergent into the clothes.",
+            "The [person_1] will continue cutting the hair of the dog.",
+            "The [person_1] will continue to play the dolls.",
+            "The [person_1] will take the tools into the bag.",
+            "The [person_1] will talk to the dog."
+        ],
+        "reason": [
+            "Because the [person_1] thinks it's fun to play this way.",
+            "Because the dog seems to resist the [person_1] touching it.",
+            "The [person_1] finds that playing fire is funny.",
+            "Because the [person_1] doesn't seem to have more reactions with the dolls.",
+            "Because [person_1] wants to comfort the dog."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the doll that the [person_1] is playing fall over?",
+        "answer": [
+            "The [person_1] might fall with the bicycle.",
+            "The [person_1] will not make the [person_1] hurt.",
+            "The [person_1] might lose balance and fall.",
+            "The [person_1] will pick the doll up.",
+            "Perhaps [person_1] will stand still and bark to remind [person_1]."
+        ],
+        "reason": [
+            "[person_1] and others don't want to get wet.",
+            "Challenge make fun for the boy.",
+            "Because it will clutter the space if it is not picked up.",
+            "[person_1] didn't have to lift the hammer all the time while smashing.",
+            "Because baseball is very heavy."
+        ]
+    }
+}

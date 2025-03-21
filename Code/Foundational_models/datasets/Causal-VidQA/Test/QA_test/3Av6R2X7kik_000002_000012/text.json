@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is in the corner of the yard.",
+            "[cup_1] is sitting on the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_4] playing games?",
+        "answer": [
+            "This will improve the relationship with [person_6].",
+            "Because [person_4] lost the game.",
+            "[person_6] is working out.",
+            "Children need to read books.",
+            "To keep healthy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do after game finished?",
+        "answer": [
+            "[person_4] and [person_4] may go to a snack bar.",
+            "[person_4] and [person_4] are going to take a rest.",
+            "[person_4] may keep on throwing stones.",
+            "They are going to play a game.",
+            "[person_4] will go back to work."
+        ],
+        "reason": [
+            "[person_4] really has fun in this game.",
+            "[person_4] and [person_4] are singing for fun.",
+            "[person_4] can't play the game for too long time.",
+            "[person_4] is waiting for the ball to continue.",
+            "[person_4] and [person_4] can use the yoga ball to train the power of their core."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] stops them playing the game?",
+        "answer": [
+            "[person_2] probably will not fly kites anymore.",
+            "[person_2] would be blamed by the others.",
+            "It is probable that [person_2] and [person_2] would read books.",
+            "Maybe [person_2] will cry a lot.",
+            "[person_2] should go to hospital."
+        ],
+        "reason": [
+            "[person_2] ran and jumped very fast right then.",
+            "[person_2] needs to charge his phone.",
+            "Because audiences buy tickets to watch live performances instead of recordings . .",
+            "Others' playing the game is none of [person_2]'s business.",
+            "[person_2] can not see things clearly."
+        ]
+    }
+}

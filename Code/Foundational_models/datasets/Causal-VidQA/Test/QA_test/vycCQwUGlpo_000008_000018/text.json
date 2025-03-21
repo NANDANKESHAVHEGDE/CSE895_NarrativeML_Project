@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks so cute.",
+            "[person_1] looks old and thin.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks thin.",
+            "[person_1] looks like a professional skier."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is feeding [person_2].",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is playing with [person_2] and [person_1] .",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is excited about holding her gift."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to counterattack [person_2].",
+            "[person_2] is going to kiss [person_2].",
+            "[person_2] is going to continue trying to repair floor.",
+            "[person_2] is going to clap her hands.",
+            "[person_2] is going to eat."
+        ],
+        "reason": [
+            "To propose to [dining table_1].",
+            "To show how [person_2] will make bubbles.",
+            "Food is being placed on the [dining table_1].",
+            "Maybe [person_2] feels very funny.",
+            "Because [dining table_1] gave him another ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] finishes eating?",
+        "answer": [
+            "[person_1] will play with the carpet.",
+            "[person_2] will continue to eat the hamburger.",
+            "[person_1] will continue to practice.",
+            "[person_2] will attract the birds.",
+            "[person_1] will take the napkin off the neck of [person_2]."
+        ],
+        "reason": [
+            "The napkin did its job at that time.",
+            "[person_2] goes back and jumps again from the beginning.",
+            "The blood sugars of [person_2] will go down as her energy level soars while doing Zumba.",
+            "This is a very hard and tiring job.",
+            "[person_2] only has a small piece of burger left."
+        ]
+    }
+}

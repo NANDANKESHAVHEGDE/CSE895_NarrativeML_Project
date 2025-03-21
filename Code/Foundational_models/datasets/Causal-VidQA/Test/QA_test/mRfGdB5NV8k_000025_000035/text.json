@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a sleeveless shirt.",
+            "[person_1] is wearing a hat.",
+            "[person_1] is wearing a grey shirt and a pair of long trousers.",
+            "[person_1] is wearing a glasses.",
+            "[person_1] is wearing a red T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a hat?",
+        "answer": [
+            "Perhaps [person_1] likes it.",
+            "The [person_1] is looking after some kids who are playing in the floating home.",
+            "[person_1] is showing the viewers of the video how to properly hold the guitar.",
+            "Because [person_1] has to perform his talent with the violin.",
+            "[person_1] has to ride the wheel backward to let the unicycle goes backward."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to run to the ball.",
+            "[person_1] and [person_2] let the fish eat.",
+            "[person_1] and [person_2] are going to play hand clapping game.",
+            "[person_1] and [person_2] are going to show the tap dancing skills.",
+            "Perhaps [person_1] and [person_2] are going to go out."
+        ],
+        "reason": [
+            "[person_1] and [person_2] feel pleasant to share about their love life.",
+            "[person_1] and [person_2] used their hands to play.",
+            "[person_1] and [person_2] are friendly and at the same age.",
+            "[person_1] and [person_2] danced and [person_1] held the microphone.",
+            "[person_1] and [person_2] jogged in place , too."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slaps in [person_2]'s body?",
+        "answer": [
+            "[person_1] will be burned.",
+            "[person_1] will stop playing golf.",
+            "[person_1] will have to swim in the water and surf again.",
+            "[person_1] will apologize for [person_2].",
+            "Then [person_2] will go on kicking."
+        ],
+        "reason": [
+            "[person_1] didn't do it on purpose.",
+            "To let the wrists relax.",
+            "[person_2] could exchange gifts with [person_1].",
+            "Because [person_2] could exchange gifts with [person_1].",
+            "It will hurt her."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [suitcase_1]?",
+        "answer": [
+            "In [suitcase_1]'s hand.",
+            "The weather is sunny.",
+            "It is cool.",
+            "It is on the floor.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] is playing to see how the guitar sounds.",
+            "Because [person_1] is expressing love to [person_2].",
+            "Because [person_1] is planing woods.",
+            "Because [person_1] wants to help the baby somersault.",
+            "Because [person_1] is waiting for [person_2] to draw a picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to run.",
+            "[person_1] is about to chop wood.",
+            "[person_1] is going to hold the camera.",
+            "[person_1] will spray paint."
+        ],
+        "reason": [
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] is snowmobiling.",
+            "[person_1] is facing [person_1].",
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is painting for hire in the park."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sprays the wrong color?",
+        "answer": [
+            "[person_1] will have to remove the picture.",
+            "[person_1] will lose weight successfully.",
+            "[person_1] will not have to remove the picture.",
+            "[person_1] will make the picture more colorful.",
+            "[person_1] will have to throw away the picture."
+        ],
+        "reason": [
+            "The colors on the picture will not be messed up.",
+            "The food is delicious and [person_1] won't spit it out.",
+            "The colors on the picture will be messed up.",
+            "She will go to the infirmary.",
+            "The colors on the picture will be cleaned up."
+        ]
+    }
+}

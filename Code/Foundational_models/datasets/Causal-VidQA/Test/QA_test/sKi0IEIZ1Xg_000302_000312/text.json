@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a black long - sleeved T - shirt.",
+            "[person_1] is wearing a white T - shirt and black pants.",
+            "[person_1] is wearing a black T - shirt and white pans.",
+            "[person_1] is wearing a sport uniform which contains a white tank top and a black short leggings.",
+            "[person_1] is wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing tai chi?",
+        "answer": [
+            "[person_1] is dancing.",
+            "[person_1] and [person_1] are playing chess.",
+            "[person_1] wants to see a package.",
+            "[person_1] is playing the harp.",
+            "[person_1] is a student of tai chi and she is practicing tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop the ski.",
+            "[person_1] will continue to hug [person_1].",
+            "[person_1] is going to read another page.",
+            "It seems that [person_1] is going to stop her drill and another student will practice tai chi.",
+            "[person_1] may keep trying to play."
+        ],
+        "reason": [
+            "Many people , who may be students in the tai chi class , are sitting on the floor , watching [person_1] and waiting for their turns.",
+            "[person_1] keen on the activity.",
+            "[person_1] needs water to recover.",
+            "[person_1] wants to practice better.",
+            "Because the children are not all here yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was only [person_1] in the room?",
+        "answer": [
+            "[person_1] might fall off the wood.",
+            "Maybe [person_1] will fall , too.",
+            "[person_1] will clean for [person_1] . ",
+            "[person_1] will not gives [person_1] a reward.",
+            "[person_1] would keep doing tai chi."
+        ],
+        "reason": [
+            "[person_1] can use the room as long as she wants.",
+            "[person_1] would have to maintain his pose and his back straight while doing front raise.",
+            "There are no obstructions on the right.",
+            "The pancake may not fall if [person_1] doesn't change his hand.",
+            "[person_1]'s head is not hurt by the pen."
+        ]
+    }
+}

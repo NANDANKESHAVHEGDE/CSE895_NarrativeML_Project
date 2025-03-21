@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is on a public bus.",
+            "[person_1] is on the bed.",
+            "[person_1] is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] mouth working?",
+        "answer": [
+            "[person_1] succeeds in doing the technique.",
+            "[person_1] is singing.",
+            "The tire is so hard and the huge hammer is heavy.",
+            "[person_1] is trying to do somersaults.",
+            "[person_1] is raising eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] is highly likely to sing and combine with playing guitar.",
+            "The [person_1] will pop another balloon.",
+            "It is likely that [person_1] will stop playing the flute.",
+            "[person_1] will continue to play drums enthusiastically.",
+            "[person_1] intends to continue playing cymbals."
+        ],
+        "reason": [
+            "[person_1] is holding the harmonica.",
+            "[person_1] is holding a guitar.",
+            "[person_1] is still under the sea.",
+            "Maybe [person_1] can move on his own.",
+            "The paper is in [person_1]'s hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's rain?",
+        "answer": [
+            "[person_1] won't be affected.",
+            "[person_1] will continue to practice.",
+            "[person_1] will be affected.",
+            "[person_1] would feel more comfortable.",
+            "[person_1] won't be happy."
+        ],
+        "reason": [
+            "[person_1] will be out the bus.",
+            "The couch is right near [person_1].",
+            "[person_1] will be in the bus.",
+            "There are two chairs on which [person_1] can sit in the room.",
+            "[person_1] will be under the bus."
+        ]
+    }
+}

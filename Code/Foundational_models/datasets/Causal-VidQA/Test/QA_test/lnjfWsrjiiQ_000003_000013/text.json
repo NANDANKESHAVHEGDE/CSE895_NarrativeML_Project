@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is \u00a0 in the room.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is playing with big chess pieces.",
+            "[person_1] is snowboarding alone.",
+            "[person_1] is squeezing oranges with a juicer.",
+            "[person_1] is enjoying the melody of didgeridoo.",
+            "[person_1] is spraying a picture."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to eat.",
+            "[person_1] will continue working.",
+            "[person_1] is going to repair bicycles.",
+            "[person_1] will go to the white chess pieces.",
+            "[person_1] will pump gas into his car."
+        ],
+        "reason": [
+            "[person_1] is starting to follow.",
+            "[person_1] is talking and using hands to sign language.",
+            "[person_1] loves it.",
+            "[person_1] likes to play with white chess pieces.",
+            "[person_1] wants to practice lighting up candles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a photo here?",
+        "answer": [
+            "[person_1] will be angry.",
+            "[person_1] will be hurt.",
+            "[person_1] will be excited.",
+            "The beer in it will be split out.",
+            "[person_1] will be happy."
+        ],
+        "reason": [
+            "[person_1] is skating with a high speed.",
+            "[person_1] will keel there to take a photo.",
+            "[person_1] is spinning very strongly.",
+            "[person_1] will stand there to take a photo.",
+            "It is necessary for [person_1] to lean on something while enjoying massage."
+        ]
+    }
+}

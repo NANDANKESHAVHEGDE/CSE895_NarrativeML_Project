@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of the hair of [person_1]?",
+        "answer": [
+            "[person_1] is red.",
+            "[person_1] and [person_1] are in the big room.",
+            "[person_1] is wearing a pair of roller skates.",
+            "Three.",
+            "The hair of [person_1] is blond."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing next to the [dining table_1] ?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] playing lute.",
+            "[person_1] is showing the rest of the yoga class how to perform the yoga techniques.",
+            "[person_1] is squeezing oranges for juice.",
+            "[person_1] is taking about shaving."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to practice.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] may cheer up.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] is going to use offer the orange juice to her mom."
+        ],
+        "reason": [
+            "[person_1] put the tool in her hands.",
+            "[person_1] doesn't like to drink the orange juice herself.",
+            "[person_1] is a professional.",
+            "[person_1] is lifting weights.",
+            "[person_1] is putting hand down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "[person_1] will pour orange juice into [cup_1].",
+            "[person_1] may jump.",
+            "[person_1] may create beautiful shapes.",
+            "[person_1] may not keep eating.",
+            "The [person_1] will not meet difficulty in holding accordion balance rightly."
+        ],
+        "reason": [
+            "Because it is very effective to exercise arms of the [person_1] after a long time of training.",
+            "[cup_1] will be used for holding orange juice.",
+            "[person_1] won't be able to hold the orange.",
+            "[person_1] and [person_1] are alternately practicing on [cup_1].",
+            "There is no electricity in a bicycle."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "The [couch_1] is to the right of the [person_1].",
+            "[person_1] is on the sidewalk to [person_1]'s right.",
+            "[couch_1] is behind [person_1] and [person_2].",
+            "[person_2] is behind [person_1].",
+            "The [couch_1] is next to the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [tv_1] not working?",
+        "answer": [
+            "Because no one turns [tv_1] on.",
+            "[tv_1] can see things more clearly.",
+            "Because the gymers need to know the time when they practice.",
+            "[tv_1] has bad eyesights.",
+            "They just have free time and want to eat marshmallows."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to stand up.",
+            "[person_3] is going to open a present in the hands.",
+            "[person_3] is going to express his thoughts in the interview.",
+            "[person_3] is going to continue moving back and forth in combination with hands.",
+            "[person_3] will continue to dance and move the hands."
+        ],
+        "reason": [
+            "When [person_3] holds the gift , [person_3] will open the present.",
+            "Because [person_3] is a chef and [person_3] is learning to cook a pizza.",
+            "Because she is next to [person_3] , she will be the next one.",
+            "[person_3] is watching [person_3] and laughing.",
+            "Because [person_3] is leaving the cart and walking forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not give [person_3] the present?",
+        "answer": [
+            "[person_1] will hug the cat.",
+            "The dough could be mixed together.",
+            "[person_1] will stop raising her eyebrows.",
+            "[person_3] will not hold the present in the hands of [person_3].",
+            "[person_1] will get hurt by the bomb."
+        ],
+        "reason": [
+            "Humans can not lift their whole bodies in mid - air.",
+            "Grape stomping for a while may be tiring.",
+            "Because the present will be in the hands of [person_1].",
+            "[person_1] will focus on the road.",
+            "Maybe [person_1] really wants to hold it because it makes a sound when shaken."
+        ]
+    }
+}

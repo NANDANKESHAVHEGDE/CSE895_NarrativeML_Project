@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [dinning table_1]?",
+        "answer": [
+            "[dinning table_1] in the room.",
+            "The scene is wonderful.",
+            "[dinning table_1] is lying on the table.",
+            "The [dinning table_1] is red.",
+            "Two."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise the hand of [person_1] towards the chess piece?",
+        "answer": [
+            "Because [person_1] is lifting weights.",
+            "[person_1] is trying to play the harmonica.",
+            "[person_1] is nearsighted.",
+            "Because [person_1] wants to make the movement of [person_1].",
+            "Because [person_1] is playing the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to give feedback about the smart phone.",
+            "[person_1] is going to keep going.",
+            "[person_1] is going to kneel on the ground.",
+            "[person_1] is going to think the next movement of [person_1].",
+            "[person_1] is going to blow more air into the balloon."
+        ],
+        "reason": [
+            "[person_1]'s left leg is off the fence.",
+            "[person_1] may continue to high five with the [person_1].",
+            "[person_1] is going to start sleeping.",
+            "[person_1] will do a show after she said all words.",
+            "[person_1] looks at the chessboard attentively."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dinning table_1] is broken down?",
+        "answer": [
+            "[person_1] will continue walking the horse.",
+            "[person_1] will suggest [person_1] to take a rest.",
+            "[person_1] should go to hospital.",
+            "The feet of [person_1] will be hurt.",
+            "[person_1] can walk to the center."
+        ],
+        "reason": [
+            "Because [person_1] occupies this position , [dinning table_1] will not hit [person_1] when it falls down , so [person_1] can help [dinning table_1] up.",
+            "There are two donuts in the [person_1] , if the [person_1] is be knocked over , [person_1] can only eat the donut he is holding.",
+            "[person_1] will go to bed.",
+            "[dining table_1] , which is very heavy , will be on the feet of [person_1].",
+            "There would be nothing except for a blindfold to prevent the view of [person_1]."
+        ]
+    }
+}

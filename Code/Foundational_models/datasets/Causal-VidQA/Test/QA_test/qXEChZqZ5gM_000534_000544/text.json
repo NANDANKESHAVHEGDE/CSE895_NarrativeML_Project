@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [truck_1]?",
+        "answer": [
+            "They are in roller skating rink.",
+            "[truck_1] is parking next to the yard.",
+            "[truck_1] and [truck_1] are in the house.",
+            "[truck_1] is on the left hand side of [truck_1].",
+            "[truck_1] and [truck_1] are in a bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is here to play drums.",
+            "[person_1] is playing lute on the riverbank.",
+            "[person_1] is playing basketball.",
+            "[person_1] is skiing.",
+            "[person_1] is playing lute alone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will curve more details.",
+            "[person_1] is going to take some photos.",
+            "[person_1] will stop watering.",
+            "[person_1] wants to catch the ball.",
+            "[person_1] will stop kicking high."
+        ],
+        "reason": [
+            "[person_1] is holding a candy pack.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is chasing the ball rolling on the ground.",
+            "[person_1] is moving to the chair.",
+            "[person_1] is ripping paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can throw the ball into the basket?",
+        "answer": [
+            "[person_1] would be flipped.",
+            "[person_1] will not chase the ball.",
+            "The left hand of the [person_1] would be injured.",
+            "[person_1] wouldn't flip the cake.",
+            "[person_1] will stop working"
+        ],
+        "reason": [
+            "Because [person_1] wants to learn dance from the video.",
+            "Because [person_1] did not like it , so [person_1] gave it back to the person giving [person_1] that cup of beer.",
+            "Because if [person_1] didn't step the line , she wouldn't break the rules of the competition.",
+            "The ball hit the edge of the basket and fell into the ground , so [person_1] need to pick it up.",
+            "Because the device is rotating clockwise , the iron rod must also be twisted into a circle"
+        ]
+    }
+}

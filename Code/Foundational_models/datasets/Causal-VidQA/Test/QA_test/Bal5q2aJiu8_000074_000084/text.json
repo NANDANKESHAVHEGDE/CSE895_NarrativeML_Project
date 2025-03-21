@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] have curly hair?",
+        "answer": [
+            "It is small.",
+            "There.",
+            "It is quite small.",
+            "It is large.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stop?",
+        "answer": [
+            "[person_1] bent down to pick up the dropped ball.",
+            "[person_1] is holding the air for 10 seconds.",
+            "[person_1] is standing on hands.",
+            "[person_1] is satisfied with the performance.",
+            "To do massaging neck for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] after using the inhaler?",
+        "answer": [
+            "The [person_1] and [person_1] will hurry to go back.",
+            "[person_1] will let the students try to use the inhaler.",
+            "The [person_1] and [person_1] will continue to ride on the back of the [person_1].",
+            "[person_1] and [person_1] will get off.",
+            "The [person_1] and [person_1] will continue sitting on the back of the elephant."
+        ],
+        "reason": [
+            "Two hands of [person_1] are holding wheels.",
+            "[person_1] has almost finished using the inhaler.",
+            "[person_1] will continue to sit because [person_1] shows no sign of getting up.",
+            "[person_1] considers megaphone as interesting.",
+            "The way [person_1] glanced at is full of tall trees"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a naughty boy running into the room?",
+        "answer": [
+            "[person_1] will not be angry.",
+            "[person_1] would sit on one of the chairs behind him.",
+            "[person_1] will be happy.",
+            "The [person_1] will be trapped between the [person_1] and the door of the [person_1].",
+            "[person_1] will be angry."
+        ],
+        "reason": [
+            "The boy messed up her plans.",
+            "You can't put on a bandage if the cut is still bleeding , instead you should cover the cut until it stops bleeding.",
+            "The boy messed up his plans.",
+            "Because the stomachache would prevent him from playing properly.",
+            "The woman messed up her plans."
+        ]
+    }
+}

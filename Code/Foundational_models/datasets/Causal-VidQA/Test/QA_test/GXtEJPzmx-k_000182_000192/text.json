@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is blue.",
+            "It is black.",
+            "The shirt [person_1] wearing is white.",
+            "It is \u00a0 black.",
+            "The shirt [person_1] wearing is gray."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the fan hang in the room?",
+        "answer": [
+            "Because [person_1] is looking to saw a piece of wood.",
+            "Because the fan will cool the room.",
+            "[person_1] and [person_1] will use it to make bubbles.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is practicing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to continue playing the keyboard.",
+            "[person_1] is about to eat.",
+            "[person_1] will read another book.",
+            "[person_1] is going to use other bottles to add more colors into the shirt."
+        ],
+        "reason": [
+            "[person_1] is putting [person_1]'s hands on the keyboard.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] has finished [person_1]'s action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no electricity?",
+        "answer": [
+            "The class may go on.",
+            "[person_1] will pick it up.",
+            "The water in the bottle may pour out and [person_1] and [person_1] may have to clean it.",
+            "[person_1] will not carve.",
+            "[person_1] will stop playing the keyboard."
+        ],
+        "reason": [
+            "Because it will be too hot if it is sunny.",
+            "[person_1] can't play the keyboard without electricity.",
+            "[person_1] can not see anything.",
+            "Because bitten by a dog is dangerous.",
+            "[person_1] can not see anything if the light is broken."
+        ]
+    }
+}

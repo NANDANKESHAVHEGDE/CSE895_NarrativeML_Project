@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is blue.",
+            "The shirt color is yellow.",
+            "The shirt is black.",
+            "The shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Maybe [person_1] is \u00a0 learning the way to play lute.",
+            "[person_1] is excited about holding these cups.",
+            "Maybe [person_1] looks like a visitor coming to visit.",
+            "Because [person_1] is lifting weights.",
+            "[person_1] is reading [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will go on throwing the cards.",
+            "[person_1] will take out the tiles to fix the floor.",
+            "[person_1] may drive by the side of the road.",
+            "[person_1] is going to put down the weights.",
+            "[person_1] may continue to tickle [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] needs it to make juice.",
+            "The weights is very heavy.",
+            "[person_1] wants to score.",
+            "[person_1] is playing the guitar with zeal.",
+            "Because [person_1] steps aside it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "Maybe [person_1] will help [person_1] up.",
+            "[person_1] will be hurt.",
+            "[person_1] will go to catch [person_1] right away.",
+            "Perhaps [person_1] may keep playing and be more careful.",
+            "[person_1] will call adults."
+        ],
+        "reason": [
+            "The floor is very hard and it will hurt [person_1] .",
+            "[person_1] won't give up just because of one fall.",
+            "It is possible that [person_1]'s team might lose.",
+            "[person_1] will stop dancing.",
+            "[person_1] puts her hand on [person_1]."
+        ]
+    }
+}

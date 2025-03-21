@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [train_1]?",
+        "answer": [
+            "[person_2] is to the right of [train_1].",
+            "[train_1] is near the dining table.",
+            "[train_1] is behind [person_2].",
+            "[train_1] is in front of [person_2].",
+            "[train_1] is being seated by [train_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the gym?",
+        "answer": [
+            "To make the snowman more beautiful.",
+            "[person_1] and [person_2] are doing exercise.",
+            "Maybe [person_1] does the guitar for fun.",
+            "Because the [person_1] put his hand inside the doll.",
+            "Because it is a smoking device."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to take care of the child.",
+            "Maybe [person_2] is going to eat the food.",
+            "[person_2] is going to taste other wines.",
+            "[person_2] will play again.",
+            "[person_2] is going to teach [person_1] to do exercise."
+        ],
+        "reason": [
+            "[person_2] talked with [person_1].",
+            "[person_2] is a beginner.",
+            "The camera was still there.",
+            "Next , it is [person_2]'s turn.",
+            "Because [person_2] is shotting a video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] and [person_2] will not continue doing exercise.",
+            "The birds will come close to [person_1].",
+            "[person_1] and [person_2] will continue doing exercise.",
+            "The sports venue will be dark.",
+            "[person_1] and [person_2] will not stop doing exercise."
+        ],
+        "reason": [
+            "The room will be bright.",
+            "The television will be turned off.",
+            "The room will be dark.",
+            "The microphone and the music will be off.",
+            "The room won't be dark."
+        ]
+    }
+}

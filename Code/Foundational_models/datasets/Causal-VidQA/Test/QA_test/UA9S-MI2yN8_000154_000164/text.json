@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[person_1] is next to [chair_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "It is in front of the window.",
+            "[chair_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is reading the newspaper.",
+            "Because [person_1] is practicing with the weights in the room.",
+            "[person_1] is directing [person_1] to put the disk in the right place on the table.",
+            "[person_1] is reading book.",
+            "[person_1] is aligning tissues and forks to the correct positions on [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to open and point to the book.",
+            "[person_1] is going to tie a knot on [person_1]'s back.",
+            "[person_1] is going to raise both hands.",
+            "[person_1] will go on throwing the cards.",
+            "[person_1] is going to continue cutting wrapping paper with the ruler."
+        ],
+        "reason": [
+            "[person_1] opened and pointed to the book.",
+            "[person_1] stomped continuously.",
+            "To relax for several minutes.",
+            "Because he just drunk strong wine and he looks terrible and run away with hands covered his mouth.",
+            "[person_1] is wearing tap dancing shoes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] reads a lot?",
+        "answer": [
+            "[person_1] will save him.",
+            "[person_1] will get burned.",
+            "[person_1] will need a microphone in front.",
+            "[person_1] will be smarter.",
+            "[person_1] will take a break."
+        ],
+        "reason": [
+            "Reading a lot helps the brain develop.",
+            "The weights will fall on the feet of [person_1].",
+            "[person_1]'s smile is so beautiful.",
+            "[person_1]'s foot hurts when it hits [person_1]'s foot.",
+            "[person_1] and [person_1] want to practice for a better performance."
+        ]
+    }
+}

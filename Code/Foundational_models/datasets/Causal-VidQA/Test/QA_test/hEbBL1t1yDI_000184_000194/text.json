@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a white T - shirt and black pants.",
+            "[person_1] is wearing a black T - shirt and white pans.",
+            "[person_1] is wearing a black long - sleeved T - shirt.",
+            "[person_1] is wearing a sleeveless shirt.",
+            "[person_1] is wearing a sport uniform which contains a white tank top and a black short leggings."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a bass guitar?",
+        "answer": [
+            "[person_1] is sitting on a very high chair , so [person_1] has to stand to clean the shoes easily.",
+            "[person_1] is performing didgeridoo.",
+            "[person_1] is playing bass guitar.",
+            "[person_1] always keeps his head down to look at the guitar.",
+            "[person_1] has opened the coco easily with the tool."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is talking about his opinion.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] will be performing a bass guitar solo.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "[person_1] is stretching leg very hard.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is practicing the bass guitar hard.",
+            "[person_1] has picked the cake up.",
+            "[person_1] has bent back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes playing bass guitar?",
+        "answer": [
+            "[person_1] will not touch the fretboard of the bass guitar with his left hand.",
+            "[person_1] may cry.",
+            "The other people would go to check [person_1]'s safety.",
+            "[person_1] will take off the bass guitar and put it away.",
+            "The [person_1] can make carpet pieces together."
+        ],
+        "reason": [
+            "Because [person_1] needs to use the cell phone to shoot.",
+            "[person_1] will have no reason to sit in the room anymore.",
+            "The [person_1] identifies the direction and turns around to throw.",
+            "[person_1] will not notice.",
+            "[person_1] will not hold the bass guitar after [person_1] finishes playing it."
+        ]
+    }
+}

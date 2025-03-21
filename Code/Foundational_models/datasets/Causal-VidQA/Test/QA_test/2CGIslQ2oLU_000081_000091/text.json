@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is next to [chair_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "[chair_1] is behind [person_1].",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing games?",
+        "answer": [
+            "He just learned about this game.",
+            "[person_1] is in a party.",
+            "Because he wants to practice stacking dices.",
+            "[person_1] is stretching the whole body.",
+            "[person_1] repairs the shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after losing the game?",
+        "answer": [
+            "[person_1] will feel happy all the same.",
+            "[person_1] may go to work.",
+            "[person_1] will close the cover.",
+            "The [person_1] may continue to stare down the treble keyboard.",
+            "The [person_1] may keep illustrating the weather prediction."
+        ],
+        "reason": [
+            "They have finished the ceremony.",
+            "The [person_1] completes throwing the shot put and leaves the shot put circle to wait.",
+            "The [person_1] is still holding the hammer and the nail.",
+            "It's funny to play this game.",
+            "The [person_1] runs around to catch the ball and push the ball through the basket."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] wins the game?",
+        "answer": [
+            "[person_2] would not be surprised.",
+            "[person_2] would not look at [person_2].",
+            "[person_2] would be happy.",
+            "[person_2] can't jump.",
+            "[person_2] would be surprised."
+        ],
+        "reason": [
+            "[person_2] didn't expect the winning.",
+            "A coco is hard to get through.",
+            "[person_2] expect the winning.",
+            "Because the key does not match the door.",
+            "[person_2] didn't expect the losing."
+        ]
+    }
+}

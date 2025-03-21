@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is \u00a0 in the swimming pool.",
+            "[person_2] is the baby who is shorter.",
+            "[person_2] is at the basketball court.",
+            "[person_2] is sitting on [person_2].",
+            "[person_2] is standing between [person_2] and [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_3] on the basketball court?",
+        "answer": [
+            "[person_3] still is a baby.",
+            "Maybe [person_3] just finished assembling it.",
+            "[person_3] is in the competition.",
+            "[person_2] needs to finish other works.",
+            "Because [person_2] and [person_3] are playing basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will punch again.",
+            "[person_1] will put the pottery on the ground.",
+            "[person_1] will show off [person_1]'s headphones.",
+            "Maybe [person_1] will not stop hitting the ball.",
+            "[person_1] will get the ball from [person_2]."
+        ],
+        "reason": [
+            "They are fighting for the ball.",
+            "[person_1] will drop two plates because [person_1]'s done.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] put her hand on the cap and about to shut it down.",
+            "[person_1] is teaching in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will continue to kick high.",
+            "[person_1] will stop reading.",
+            "[person_1] will not stop high kicking.",
+            "[person_1] maybe stop playing.",
+            "[person_1] will stop laughing."
+        ],
+        "reason": [
+            "[person_3] can't see anything.",
+            "The room will be dark.",
+            "Hair drier needs power to work.",
+            "[person_1] is practicing very hard.",
+            "The keyboard will also turn off."
+        ]
+    }
+}

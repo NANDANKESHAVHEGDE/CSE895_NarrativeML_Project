@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is shooting basketball.",
+            "[person_1] is riding the bike with one leg.",
+            "[person_1] is stacking dice.",
+            "[person_1] is shaking the cup.",
+            "[person_1] is smashing a tire."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] strike the tire?",
+        "answer": [
+            "[person_1] like pit the paper.",
+            "[person_1] holds a hammer to slam at the tire hard.",
+            "[person_1] wants to keep the kitchen table clean.",
+            "[person_1] is curious about the thing inside the box.",
+            "That part is sharper."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will thank the audience.",
+            "[person_1] will take a break.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will show what she has done.",
+            "[person_1]'s going to ride more smoothly."
+        ],
+        "reason": [
+            "[person_1] must be tired after doing this strenuous exercise.",
+            "[person_1] is getting the bottle through the chair.",
+            "[person_1] has already put her arm on the right one.",
+            "The hair in cutting may get into her eyes.",
+            "[person_1] will continue to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did this on highway?",
+        "answer": [
+            "[person_1] will try again.",
+            "The [person_1] can lay the gravels together.",
+            "[person_1] would cause traffic accident.",
+            "Maybe the towel will break.",
+            "[person_1] will leave the field."
+        ],
+        "reason": [
+            "[person_1] would blocking the highway.",
+            "[person_1] would try to kick more.",
+            "[person_1] is explaining to the camera about the cutting.",
+            "Because there would be no one controlling the direction of [person_1].",
+            "Maybe [person_1] can become a sniper."
+        ]
+    }
+}

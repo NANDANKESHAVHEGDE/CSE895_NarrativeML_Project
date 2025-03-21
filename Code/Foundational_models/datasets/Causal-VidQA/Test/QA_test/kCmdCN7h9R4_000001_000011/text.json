@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there pillows on the bed?",
+        "answer": [
+            "Yes , there are.",
+            "There are six people.",
+            "There are 4 people.",
+            "There are 5 people.",
+            "There are seven people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do they wear short sleeves\uff1f",
+        "answer": [
+            "[person_1] is still a child.",
+            "[person_1] is a man.",
+            "[person_1] is a trainer.",
+            "Because they are at home.",
+            "Glasses make [person_1] look cooler."
+        ]
+    },
+    "predictive": {
+        "question": "What will the girl do after losing the game?",
+        "answer": [
+            "The car is going up the bridge.",
+            "The man who is holding a barbell is going to squat with the barbell.",
+            "The [person_1] may continue to take the dog.",
+            "The [person_1] will have to stop at the end of the hockey rink.",
+            "The girl will play another round with the boy."
+        ],
+        "reason": [
+            "[person_2] tilts his head up too high and laughs out loud so he can not keep his balance.",
+            "[person_1] is hopping through the course , skipping the marker's square and can not keep her balance.",
+            "The [person_1] is pushing the shovel toward the grass.",
+            "The [person_2] is standing and laughing.",
+            "Because the girl also wants to win."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do If [person_2] wins?",
+        "answer": [
+            "[person_2] will hug [person_1] and take [person_1] off.",
+            "[person_1] will encourage [person_2].",
+            "[person_1] will feel sad.",
+            "[person_2] will trip over [person_1]?",
+            "[person_1] might forgive [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] needs to continue practicing dribbling.",
+            "Because it is a normal reaction.",
+            "When [person_2] moves , [person_1] is holding both hands of [person_2] and stretch hands of [person_1].",
+            "Because [person_1] is trying to burp by drinking some sodas.",
+            "Because the baseball ball is not hit."
+        ]
+    }
+}

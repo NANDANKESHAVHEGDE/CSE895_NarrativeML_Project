@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_1]?",
+        "answer": [
+            "The [book_1] is on a wall plastering machine.",
+            "He is performing hip - hop.",
+            "Black.",
+            "The [book_1] is on the shelf next to the wall.",
+            "Orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] take the red T - shirt?",
+        "answer": [
+            "The [person_1] wanted to look at it.",
+            "Because [person_1] is trying to throw discus.",
+            "Because [person_1] is spraying paint on the iron frame.",
+            "Because [person_1] is taking pictures of memories.",
+            "The [person_1] is taking the dog out."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "The [person_1] may keep riding on the road.",
+            "The [person_1] may continue to ride in front of the house.",
+            "The [person_1] will unleash the [person_1].",
+            "The [person_1] may rip the wrapper of the box.",
+            "The [person_1] may carry on playing hopscotch."
+        ],
+        "reason": [
+            "The [person_1] pulls the [person_1] to the sand and touches his collar.",
+            "The [person_1] needs to make himself relaxed by moving body.",
+            "The [person_1] feels [person_2] is special when [person_2] moves.",
+            "The [person_1] is joyful while playing the game.",
+            "The [person_2] has given the [person_1] the box and the [person_1] is holding the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_2] did not take the red T - shirt to the other side?",
+        "answer": [
+            "The [person_1] would not carry on holding the red T - shirt.",
+            "The [person_1] might fall to the snow.",
+            "The [person_1] would carry on holding the white T - shirt.",
+            "The [person_1] might fall to the grass.",
+            "The [person_1] would carry on holding the red T - shirt."
+        ],
+        "reason": [
+            "There are something on the [person_2].",
+            "The [person_1] did not pay attention to the red T - shirt first.",
+            "The water bucket would have saved [person_1] from getting bad burns on his hand.",
+            "The [person_1] paid attention to the red T - shirt first.",
+            "In normal situation the number will change with the time unless the clock is broken or powers off."
+        ]
+    }
+}

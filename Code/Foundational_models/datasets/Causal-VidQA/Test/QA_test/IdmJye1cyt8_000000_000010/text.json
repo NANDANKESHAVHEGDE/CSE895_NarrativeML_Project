@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are the [person_1] and the [person_2]?",
+        "answer": [
+            "The [person_1] and the [person_2] are playing on the grass.",
+            "There is only one column in the video.",
+            "The room is colorful.",
+            "The room is clean.",
+            "The room is dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_3] walk backward?",
+        "answer": [
+            "Because [person_2] is one of two referees in the badminton match.",
+            "Because the [person_1] wants to pick up this skill.",
+            "[person_1] is performing circus and [person_2] is checking.",
+            "The [person_2] is tickled by the [person_1].",
+            "The [person_3] let the [person_1] and the [person_2] pillow fighting."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to pour the bottle to the glass.",
+            "The [person_1] is going to drive the [person_2].",
+            "The [person_1] is going to hit the [person_2] with the pillow of the [person_1].",
+            "The [person_1] may keep instructing the [person_2].",
+            "The [person_1] may open the faucet to wash the cup."
+        ],
+        "reason": [
+            "The [person_2] has already thrown a snowball toward the [person_1].",
+            "The [person_1] is jumping and raising the pillow toward the [person_2].",
+            "The [person_1] plays the song by using a piano accordion.",
+            "[person_1] is running and looking at the ball.",
+            "The [person_1] is still taking the shovel and bowing by the snow."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "The [person_1] would be taken home.",
+            "The [person_1] might take the child to the bank.",
+            "The pillows of the [person_1] and the [person_2] would be wet.",
+            "[person_1] and [person_2] would stop playing.",
+            "They would find a place to shelter the rain."
+        ],
+        "reason": [
+            "The team can not perform under the rain.",
+            "The background would be very slippery and [person_1] could fall.",
+            "The [person_1] and the horse are outside and the [person_1] would not let the horse be wet.",
+            "[person_2] is a child.",
+            "The [person_1] and the [person_2] are pillow fighting outside."
+        ]
+    }
+}

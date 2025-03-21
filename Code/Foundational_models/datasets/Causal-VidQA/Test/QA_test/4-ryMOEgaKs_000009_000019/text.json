@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [sheep_1]?",
+        "answer": [
+            "It is on the bookshelf.",
+            "The [sheep_1] is long and big.",
+            "It is lying on the ground.",
+            "Two.",
+            "It is near door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [sheep_1]?",
+        "answer": [
+            "because [person_1] has to do that or [person_1] will fall.",
+            "To lift the shirt in [person_1]'s hand to look at it.",
+            "Because the [person_1] needs to keep the [sheep_1] door open.",
+            "[person_1] is shearing [sheep_1].",
+            "Because [person_1] might fall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will check the result.",
+            "[person_1] is going to continue shearing other sheep.",
+            "[person_1] will stop skiing.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "[person_1] feels that the food is not good.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] was blocked by the door.",
+            "There are many sheep behind.",
+            "[person_1] is turning the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't shear [sheep_1]?",
+        "answer": [
+            "[person_1] may probably introduce the basic knowledge and body movements again.",
+            "[person_1] would hardly persuade customers to buy the tool.",
+            "[sheep_1] would be hard to move and eat.",
+            "[person_1]'s feet could hurt.",
+            "The jeans of [person_1] would get dirty."
+        ],
+        "reason": [
+            "If the water continues flowing , the room will be flooded.",
+            "The tightrope looks flimsy.",
+            "[person_1]'s standing there hinders mopping the floor.",
+            "[person_1] would fall to the ground heavily.",
+            "[sheep_1]'s wool would grow too long."
+        ]
+    }
+}

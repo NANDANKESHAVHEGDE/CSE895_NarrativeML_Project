@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is in the corner of the yard.",
+            "[cup_1] is sitting on the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit next to [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are practicing the clarinet.",
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "Because [person_1] wants to charge the circular saw.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "[person_1] is throwing it at [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will enjoy the moment.",
+            "They will ask more people to play with us.",
+            "[person_1] and [person_2] will continue to perform dances.",
+            "[person_1] and [person_2] will try the food they made.",
+            "[person_1] and [person_2] will continue practicing the clarinet."
+        ],
+        "reason": [
+            "[person_1] and [person_2] look very excited.",
+            "Two snowballs can make a snowman.",
+            "[person_2] looks very happy.",
+            "[person_1] and [person_2] have not finished practicing.",
+            "because that object seems pretty new to [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] and [person_2] had already known how to blow the clarinet?",
+        "answer": [
+            "The [person_1] will do shooting the ball through the basket more.",
+            "The [person_1] can control her dog's behavior.",
+            "[person_1] will be angry.",
+            "[person_1] can't see the toy box inside.",
+            "[person_1] and [person_2] did not have to look at [book_1]."
+        ],
+        "reason": [
+            "The birds are only attracted when someone has food.",
+            "[person_1]'s friend disturbs [person_1].",
+            "The lifts might crush her feet seriously.",
+            "[person_1] and [person_2] are looking at [book_1] while practicing.",
+            "The present was covered cautiously."
+        ]
+    }
+}

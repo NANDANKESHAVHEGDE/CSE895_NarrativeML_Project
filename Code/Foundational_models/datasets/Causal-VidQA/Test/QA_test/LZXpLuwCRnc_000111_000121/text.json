@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] wearing a beanie and yellow shoes.",
+            "[person_1] is wearing a glasses.",
+            "[person_1] is wearing a traditional uniform.",
+            "[person_1] is wearing a t - shirt.",
+            "[person_1] is a man wearing a back T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a traditional uniform?",
+        "answer": [
+            "[person_1] is playing didgeridoo by blowing air into it.",
+            "[person_1] is playing bagpipe - a traditional instrument.",
+            "[person_1] keeps going back and forth to find a gift [person_1] likes.",
+            "both [person_1] and [person_1] are creating supportive wall for each other to lean on.",
+            "[person_1] is doing what [person_1] likes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] may continue to pull the post with the rope.",
+            "[person_1] is going to keep pulling.",
+            "[person_1] is going to practice some difficult moves.",
+            "[person_1] going to take a break.",
+            "[person_1] will rotate the compass."
+        ],
+        "reason": [
+            "[person_1] is going to sleep.",
+            "It seems that [person_1] is very clumsy at juggling.",
+            "[person_1] got his mouth out of the pipe.",
+            "[person_1] is going to look at the book in front of him.",
+            "[person_1] seems to still pay attention on the paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not get hit his mouth of the bagpipe?",
+        "answer": [
+            "[person_1] would probably get hurt.",
+            "[person_1] would still be playing bagpipe.",
+            "[person_1] would be sad.",
+            "[person_1] wouldn't play bagpipe anymore.",
+            "The boy will call his parents."
+        ],
+        "reason": [
+            "His breath would continue going inyo the bagpipe if he still place his mouth upon it.",
+            "Because [person_1] is practicing.",
+            "His breath would stop going inyo the bagpipe if he doesn't place his mouth upon it.",
+            "Because [person_1] dances with the music.",
+            "His breath would stop going inyo the bagpipe if he still place his mouth upon it."
+        ]
+    }
+}

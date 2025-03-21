@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the room?",
+        "answer": [
+            "There are 4 trees.",
+            "There are three.",
+            "There is only person.",
+            "[person_3]'s shirt is black.",
+            "One."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] lying?",
+        "answer": [
+            "[person_1] is singing for fun.",
+            "[person_3] is raising eyebrows with [person_1] and [person_2].",
+            "[person_2] is doing [person_1] makeup.",
+            "[person_2] is ripping paper to give her daughter.",
+            "[person_1] is instructing the camera how to play the song he's about to play."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is perhaps going to lower his leg and turn round.",
+            "[person_3] is going to keep on pushing the wheelbarrow.",
+            "[person_3] is will likely to stop practicing.",
+            "[person_3] may keep talking with [person_1] and [person_2].",
+            "[person_3] is going to win the sword fight."
+        ],
+        "reason": [
+            "[person_3] is going to laugh.",
+            "Because [person_3] wants to score points.",
+            "[person_3] is holding the blacking brush.",
+            "[person_3] is close the [person_3] and ready to shoot it.",
+            "[person_3] is the commander."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] leaves?",
+        "answer": [
+            "[person_2] and [person_3] may keep jumping.",
+            "[person_2] will leave his position slowly.",
+            "[person_1] will serve orange juice.",
+            "[person_2] and [person_3] may also leave.",
+            "[person_2] will play alone."
+        ],
+        "reason": [
+            "[person_1] thinks it is dangerous.",
+            "[person_1] does not have the strength to play the keyboard.",
+            "[person_1] likes orange juice.",
+            "[person_1] will only whistle when someone whistles with her , that's more fun.",
+            "[person_1] may go to bed."
+        ]
+    }
+}

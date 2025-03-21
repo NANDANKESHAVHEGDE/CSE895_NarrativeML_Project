@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bed_1] in the room?",
+        "answer": [
+            "[person_1] is holding a bagpipe.",
+            "The curtain behind [person_1] is red.",
+            "[person_1] is holding a lizard.",
+            "[bed_1] is on the right hand of [person_1].",
+            "[person_1] is holding a shoe polish."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a headphone?",
+        "answer": [
+            "Because [person_1] helps him tie a necktie on [person_1]'s neck.",
+            "Because [person_1] is a kid.",
+            "[person_1] needs a surface smooth and hard to practice on as [person_1].",
+            "When [person_1] sits on a chair , [person_1] can hold the guitar.",
+            "[person_1] is listening to music through a headphone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will feel the music and play the bass guitar.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to keep performing.",
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to stand again."
+        ],
+        "reason": [
+            "Because [person_1] acts as a guide.",
+            "Because [person_1] is listening to music and holding the bass guitar.",
+            "[person_1] holds the hoop before hooping.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits the bass guitar forcefully?",
+        "answer": [
+            "[person_1] can't instruct everyone to dance.",
+            "[person_1] can not use the bass guitar to play.",
+            "The baby will cry.",
+            "That ball won't be counted.",
+            "Everyone will be surprised."
+        ],
+        "reason": [
+            "Because the baby is too young to see the people he knows , he will be afraid.",
+            "Because after falling , [person_1] may have injuries and he can't climb.",
+            "There are no protection thing around the trampoline.",
+            "Because the bass guitar will be broken when being hit.",
+            "A real statue never changes the pose."
+        ]
+    }
+}

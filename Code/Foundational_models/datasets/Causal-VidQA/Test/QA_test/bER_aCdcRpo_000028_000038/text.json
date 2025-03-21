@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the car behind the [person_1] and the camel?",
+        "answer": [
+            "White.",
+            "The floor is patterned.",
+            "It was 1987.",
+            "Several boards.",
+            "He is a boy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] hold the camel's back tightly?",
+        "answer": [
+            "[person_1] has nothing to do.",
+            "[person_1] needs to blow into that stick to play the instrument he's holding.",
+            "[person_1] is whistling.",
+            "[person_1] is surprising the dices that are double stacked.",
+            "Because the camel is very bumpy."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] see?",
+        "answer": [
+            "[person_1] is going to study.",
+            "The beautiful sunset.",
+            "The [person_1] will pour the milk in the bucket into a milk tank.",
+            "[person_1] will rest and go home.",
+            "[person_1] will put some chair blocks inside the building block."
+        ],
+        "reason": [
+            "Because the rules of the game are agreed in advance.",
+            "Dancing could be very tiring.",
+            "[person_1] will turn around and jump in the opposite direction.",
+            "Because it is in the afternoon.",
+            "[person_1] really wants to rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the [person_1] wants to get off?",
+        "answer": [
+            "The plate might fly into the body of the [person_1].",
+            "The person who holds the rope will not make the camel kneel down.",
+            "Then [person_1] may be in danger.",
+            "The person who holds the rope will make the camel kneel down.",
+            "Maybe [person_1] will get injured."
+        ],
+        "reason": [
+            "Because only the man who does not hold the rope knows how to control the camel.",
+            "Because [person_1] was interested in looking the reflection in the mirror.",
+            "Because only the man who holds the rope knows how to control the camel.",
+            "the person ripped the paper to distract [person_1].",
+            "Because only the man who holds the rope does not know how to control the camel."
+        ]
+    }
+}

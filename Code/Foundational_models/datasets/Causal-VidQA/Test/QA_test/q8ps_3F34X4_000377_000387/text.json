@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like ?",
+        "answer": [
+            "[person_1] has a long hair.",
+            "[person_1] is quite old.",
+            "[person_1] looks like a lute player.",
+            "[person_1] looks fat.",
+            "[person_1] has dark skin."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the cymbals ?",
+        "answer": [
+            "Because [person_1] is playing checkers with [person_1].",
+            "Maybe [person_1] is teaching someone playing cymbals.",
+            "perhaps [person_1] is playing the bagpipes for someone sitting at a table in front of him.",
+            "Because [person_1] gains momentum to somersault in the air.",
+            "[person_1] wants to give the ball to two people at the basketball court."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will shuffle the cards.",
+            "It is anticipated that [person_1] will form many baskets.",
+            "[person_1] will then check the boards.",
+            "[person_1] will go on teaching someone how to play cymbals.",
+            "[person_1] will protect [person_1] below."
+        ],
+        "reason": [
+            "[person_1] is playing very enthusiastically.",
+            "[person_1] is explaining how to play.",
+            "[person_1] is kicking with poor techniques.",
+            "[person_1] wants to see how far the weight can go.",
+            "[person_1] is collecting the cards after the game has ended."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the cymbals in hands of [person_1] is broken ?",
+        "answer": [
+            "He will be upset and buy another one.",
+            "[person_1] will take another cymbals to play.",
+            "[person_1] would fall while hopping.",
+            "[person_1] will take this cymbals to play.",
+            "[person_1] will go back to the beginning."
+        ],
+        "reason": [
+            "[person_1] did not show much interest on maracas.",
+            "There are no other cymbals behind [person_1].",
+            "Because the door of the [person_1] has a certain inertia will close on its own.",
+            "There are many cymbals behind [person_1].",
+            "[person_1] handlebars need control to go in the right direction."
+        ]
+    }
+}

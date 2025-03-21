@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the T - shirt of [person_1]?",
+        "answer": [
+            "The T - shirt of [person_1] is black.",
+            "[person_1] is on the road.",
+            "[person_1] is the thing [person_1] is sitting on.",
+            "It is white and golden.",
+            "[person_1] is wearing a red T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the wheelchair?",
+        "answer": [
+            "Because [person_2] can not walk.",
+            "[person_2] is helping [person_2] train.",
+            "[person_2] is helping [person_2] to trim shrubs.",
+            "Maybe [person_2] had an accident.",
+            "[person_2] smiles sweetly with another person."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to push wheelchair's [person_2].",
+            "Maybe [person_1] will drink water.",
+            "Bake the dough batch after batch.",
+            "[person_1] will read books.",
+            "[person_1] is going to turn left."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] is pushing the wheelchair to the middle of the road.",
+            "[person_1] controls the board very professionally.",
+            "[person_1] has bent back.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if it rains?",
+        "answer": [
+            "[person_1] will slowly push the wheelchair's [person_2] into the house.",
+            "[person_2] will cough and spit the water out of her mouth.",
+            "[person_1] will quickly push the wheelchair's [person_2] into the house.",
+            "[person_1] will wait for the rain to stop before he paints.",
+            "[person_1] will quickly push the wheelchair's [person_2] out the house."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] are inside.",
+            "[person_2] is closest to [person_1].",
+            "Because [person_1] and [person_2] are outside.",
+            "Because [person_1] is too short.",
+            "Because [person_1] and [person_2] are not outside."
+        ]
+    }
+}

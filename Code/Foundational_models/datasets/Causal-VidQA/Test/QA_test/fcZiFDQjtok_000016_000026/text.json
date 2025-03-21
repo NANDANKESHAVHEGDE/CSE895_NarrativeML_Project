@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the T - shirt of the [person_1]?",
+        "answer": [
+            "[person_1] is on the counter.",
+            "[person_1] is orange.",
+            "The T - shirt of the [person_1] is blue.",
+            "[person_1] is red.",
+            "It is on the windowsill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] sitting?",
+        "answer": [
+            "The [person_1] is picking an apple underneath.",
+            "[person_1] is performing martial arts.",
+            "[person_1] is here to instruct the rugby players how to tackle.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is a big fan of arranging cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may carry on picking apples.",
+            "the [person_1] is going to continue riding the [person_1].",
+            "The [person_1] may fall to the [person_1].",
+            "The [person_1] wants to check that the tire is still working.",
+            "The [person_1] may exit the shooting circle."
+        ],
+        "reason": [
+            "The [person_1] is drawing the rope of the [person_1].",
+            "Because the [person_1] is continue to step forward with one foot and other foot is on his knee.",
+            "The [person_1] is still sitting and pulling the apples.",
+            "The [person_1] keeps looking in front the throwing distance.",
+            "The [person_1] is hitting the [person_1] with the pillow and the [person_1] is throwing the pillow to the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [vase_1] were holed?",
+        "answer": [
+            "[vase_1] will remain in place.",
+            "The picked apples would drop to the ground.",
+            "It's won't good for [vase_1]'s eyes.",
+            "He will change his route to another place.",
+            "The room would become more empty."
+        ],
+        "reason": [
+            "The picked apples are in the [vase_1].",
+            "The [vase_1] is sitting on the [vase_1].",
+            "Because [vase_1] can't continue to bow down when he has cramps.",
+            "The sword of [vase_1] is near the neck of [vase_1] and it is sharp enough to cause deep cuts.",
+            "Maybe [vase_1] will throw the maracas away."
+        ]
+    }
+}

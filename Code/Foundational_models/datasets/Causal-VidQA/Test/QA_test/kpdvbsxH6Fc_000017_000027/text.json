@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many cars are there?",
+        "answer": [
+            "There are 7 people.",
+            "There is only person in this room.",
+            "There are two cars.",
+            "There are fourteen chairs in the room.",
+            "There are 3 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding unicycle?",
+        "answer": [
+            "Because the [person_1] wants to learn to play accordion.",
+            "Because the dog wants to find water outside.",
+            "[person_1] is learning how to ride unicycle.",
+            "[person_1] skates smoothly.",
+            "[person_1] contains water to keep the apples fresh."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may turn around.",
+            "[person_1] is going to practice.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may change another tool.",
+            "[person_1] may cheer up."
+        ],
+        "reason": [
+            "[person_1] is practicing.",
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] has not finished his talking.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] could ride unicycle well?",
+        "answer": [
+            "[person_1] will go out.",
+            "The [person_1] will fall down the floor.",
+            "[person_1] would be very happy.",
+            "Maybe [person_1] will blow again.",
+            "The [person_1] will not get accident."
+        ],
+        "reason": [
+            "[person_1] sets a record.",
+            "Winner will have an award.",
+            "It is a difficult sport.",
+            "[person_1] often has troubles when he chooses a place to dig and he can make a decision when he notices many cars or trucks.",
+            "The sun is burning."
+        ]
+    }
+}

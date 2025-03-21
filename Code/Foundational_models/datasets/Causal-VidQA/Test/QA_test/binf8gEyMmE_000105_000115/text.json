@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is yellow.",
+            "It is \u00a0 black.",
+            "The shirt [person_1] wearing is white.",
+            "It is black.",
+            "The shirt [person_1] wearing is gray."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the weight lifting?",
+        "answer": [
+            "Because the [person_1] has just bought this machine.",
+            "Because [person_1] can't snatch weight lifting without the weight lifting.",
+            "Because [person_1] wants to see where the bubble will be.",
+            "[person_1] wants to stack the dice.",
+            "It's cold and snowy outside."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to practice snatching weights.",
+            "[person_1] is going to introduce about her book.",
+            "[person_1] will stop watering.",
+            "[person_1] intends to spend his time playing.",
+            "[person_1] might put her glasses down somewhere."
+        ],
+        "reason": [
+            "[person_1] is crawling on the floor.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] is bending down to lift the weight lifting.",
+            "[person_1] is holding the bottle.",
+            "[person_1] jumped into the lake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off?",
+        "answer": [
+            "[person_1] can't read any of the books.",
+            "[person_1] may trip on something and fall.",
+            "[person_1] will stop practicing.",
+            "[person_1] will try to get more.",
+            "[person_1] will have to find the reason why the light is off."
+        ],
+        "reason": [
+            "The meeting may be stopped.",
+            "[person_1] can't practice in the dark.",
+            "Because [person_1] has no other cutting tools , it must be restarted.",
+            "Because it is too dark to do anything.",
+            "Because the [person_1] wants a new one."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the table?",
+        "answer": [
+            "It is quite beautiful.",
+            "It is black.",
+            "The chairs are behind [person_1].",
+            "It is white.",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sharpen the pencil?",
+        "answer": [
+            "[person_1] is feeling in love.",
+            "Because the pencil is blunt.",
+            "[person_1] is teaching how to shoot the ball.",
+            "Maybe [person_1] wants to get grape juice.",
+            "[person_1] and [person_1] swung the rope for [person_1] to jump."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] might stand up.",
+            "[person_1] may go to finish his job.",
+            "[person_1] may turn on the light.",
+            "[person_1] is going to continue sharpening the pencil.",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] has bent back.",
+            "[person_1] tricked the opponent by attacking a specific target.",
+            "[person_1] is still holding the pencil.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light turns off?",
+        "answer": [
+            "[person_1] may stop playing and go outside.",
+            "[person_1] will pick it up.",
+            "[person_1] will stop sharpening the pencil.",
+            "[person_1] might fall over.",
+            "[person_1] will stop making faces and try to figure out what is actually happening."
+        ],
+        "reason": [
+            "Because [person_1] need to go out of the room to seek help.",
+            "Because if [person_1] does not leave , [person_1] may be stuck in dark room for long time , which is so scaring.",
+            "[person_1] can't do anything in the dark.",
+            "Because there is water in the bottle [person_1] and [person_1] are flipping.",
+            "[person_1] is a little boy so he may likes candies."
+        ]
+    }
+}

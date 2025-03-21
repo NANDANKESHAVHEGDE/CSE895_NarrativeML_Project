@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in a small library.",
+            "[person_1] is in bathroom.",
+            "[person_1] is in the garden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 wooden slats?",
+        "answer": [
+            "[person_1] wants to play drums.",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "[person_1] is playing with [person_1] and [person_1] .",
+            "[person_1] is concerned about making crafts.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put all of the wood into the planer.",
+            "[person_1] will read books.",
+            "Maybe [person_1] is going to continue skiing",
+            "[person_1] will dance with [person_1].",
+            "[person_1] is certain to spray a painting."
+        ],
+        "reason": [
+            "Maybe [person_1] started weaving fabric.",
+            "That's what [person_1] needs to do.",
+            "[person_1] looks so excited.",
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1] is [person_1]'s partner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the sawmill of [person_1] suddenly loses power?",
+        "answer": [
+            "[person_1] will have to stop shaving for a while.",
+            "[person_1] will get a lot of information.",
+            "Maybe people in the room will not participate in the game.",
+            "They can not stay where they are.",
+            "The sawmill of [person_1] will have to stop working for a while."
+        ],
+        "reason": [
+            "[person_1] won't be able to work while the power is off.",
+            "It will be too dark to see much.",
+            "[person_1] can see nothing here.",
+            "Because [person_1] indulges himself in making faces , so an alarm will catch his attention.",
+            "Because bitten by a dog is dangerous."
+        ]
+    }
+}

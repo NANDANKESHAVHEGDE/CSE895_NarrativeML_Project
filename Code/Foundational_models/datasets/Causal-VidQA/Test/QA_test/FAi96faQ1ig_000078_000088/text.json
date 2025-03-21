@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "It is black.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cup_1]?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book.",
+            "Because it is convenient to open and close the door of the [person_1].",
+            "[person_1] is stacking dice.",
+            "Because [person_1]'s balance is so good."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat corns.",
+            "[person_1] will stand here.",
+            "[person_1] is going to use more dice.",
+            "[person_1] is going to ride the horse.",
+            "[person_1] is turning around to get the comb."
+        ],
+        "reason": [
+            "He seems like this kind of jump.",
+            "[person_1] , [person_1] , [person_1] and [person_1] jumped up and shook their hips together.",
+            "[person_1] only used 1 dice.",
+            "[person_1] has just been covered by a little whipped cream.",
+            "[person_1] picks up plaster on the hawk board to plaster the wall."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] trains hard?",
+        "answer": [
+            "They would be badly injured.",
+            "The [person_1] will refuse.",
+            "[person_1] won't let.",
+            "[person_1] will be able to use more dice.",
+            "[person_1] may not fall to the sand."
+        ],
+        "reason": [
+            "The old wrapping paper is not enough to wrap.",
+            "Hard work will bring good results.",
+            "[person_1]'s technique will get better.",
+            "Because the pole helps him to stay there still.",
+            "[person_1] will lose."
+        ]
+    }
+}

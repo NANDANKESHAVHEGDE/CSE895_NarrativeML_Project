@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "It is black.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shaking maracas?",
+        "answer": [
+            "Because [person_1] and [person_1] are competing.",
+            "Because he wants to watch [person_1] tap [person_1]'s pen on the table.",
+            "Because [person_1] likes the sound of maracas.",
+            "Because [person_1] is dropping a marble into a plastic pipe.",
+            "Because [person_1] is old and does not see clearly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will shoot another cue ball.",
+            "Maybe [person_1] will keep playing lute until sunset.",
+            "[person_1] will keep on shaking the bottle.",
+            "It is possible that [person_1] will continues to shake the maracas.",
+            "[person_1] will keep shaving [person_1]'s left leg."
+        ],
+        "reason": [
+            "[person_1] wants to join the game.",
+            "[person_1] is taking in front of camera . The hand of [person_1] is on the headphones.",
+            "There are many wine bottles on the table.",
+            "Maybe [person_1] likes this sound.",
+            "[person_1] is explaining how to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the maracas don't have the stones?",
+        "answer": [
+            "It is possible that someone will help them.",
+            "[person_1] will shake the maracas.",
+            "[person_1] and [person_1] would not be allowed to join the practice by the woman.",
+            "[person_1] won't shake the maracas.",
+            "The boy's head will bleed."
+        ],
+        "reason": [
+            "The maracas will make sound.",
+            "It is impossible to remove the cork with a laundry rack.",
+            "The maracas will not be quiet.",
+            "There must be a winner and no one wants to lose.",
+            "The maracas will not make sound."
+        ]
+    }
+}

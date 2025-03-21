@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is purple.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing still?",
+        "answer": [
+            "Because [person_1] is playing maracas.",
+            "[person_1] is looking at the book and playing flute.",
+            "[person_1] is looking down to see [person_1]'s hand.",
+            "[person_1] is observing [person_4] and [person_12] performing with ropes.",
+            "[person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] is going to spin the ropes faster?",
+            "[person_4] is going to keep jumping.",
+            "[person_4] may sing a song in front of these people.",
+            "[person_4] is going to dance the next move.",
+            "[person_4] is going to take a video for [person_4] and [person_4]."
+        ],
+        "reason": [
+            "It is likely that [person_4] and [person_12] in a contest.",
+            "All the other persons are looking at [person_4].",
+            "[person_4] uses the same dancing movement as [person_12].",
+            "[person_4] has a football.",
+            "[person_4] is looking at them non - stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_12] is stuck between two ropes?",
+        "answer": [
+            "[person_12] will stop spinning ropes.",
+            "[person_12] will stop playing.",
+            "[person_4] will stop cutting ropes.",
+            "[person_12] does not know how to play soil.",
+            "[person_4] will stop spinning ropes."
+        ],
+        "reason": [
+            "[person_12] will jump in this situation.",
+            "[person_12] is not practical enough to skate by his own and he is very young.",
+            "[person_4] won't jump in this situation.",
+            "Because they can not see anything.",
+            "[person_12] won't jump in this situation."
+        ]
+    }
+}

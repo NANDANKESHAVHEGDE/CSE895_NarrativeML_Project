@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [car_1]?",
+        "answer": [
+            "The [person_1] is sitting on the right side.",
+            "[car_1] is on the floor.",
+            "[person_1] is a toddler.",
+            "It is on the side of the road.",
+            "[car_1] is on the [person_1]'s left side."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is spraying a painting.",
+            "[person_1] just did somersaults.",
+            "[person_1] is playing roller skating.",
+            "Because [person_1] is asking someone taller than him for help.",
+            "Because [person_1] is having fun with [person_1] , and [person_1] is having a good time."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to greet and thank the audience.",
+            "[person_1] is going to continue skating.",
+            "[person_1] is going to proceed to spray all the ceiling.",
+            "[person_1] is going to see the gift.",
+            "[person_1] is going to swim his best to the other side of the pool."
+        ],
+        "reason": [
+            "Because [person_1] steps aside it.",
+            "[person_1] opens the [person_1] to put the [person_1] in.",
+            "[person_1] looks so surprised.",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "Playing roller skating is easy with [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slips?",
+        "answer": [
+            "Maybe somebody can't understand what [person_1] is doing.",
+            "[person_1] will be seriously injured.",
+            "[person_1] would drop the gun onto the ground.",
+            "The [person_1] will go home.",
+            "Maybe [person_1] will hurt."
+        ],
+        "reason": [
+            "The [person_1] needs power to work.",
+            "It's sunny outside.",
+            "He doesn't want to appear on the public.",
+            "[person_1] looks dangerous with this action.",
+            "[person_1] needs to be careful."
+        ]
+    }
+}

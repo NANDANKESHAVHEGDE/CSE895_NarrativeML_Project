@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s pen?",
+        "answer": [
+            "The shirt [person_1] is wearing is white.",
+            "It is black.",
+            "Two snowballs.",
+            "The socks are white.",
+            "The shirt [person_1] wearing is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use a pan lid to cover his painting?",
+        "answer": [
+            "Because [person_1] is looking at the music book.",
+            "Because [person_1] wants to keep the color of that painting's area untouched.",
+            "Because [person_1] is waiting for the command from higher order.",
+            "The [person_1] holds a ball to play basketball.",
+            "Because [person_1] with the pink shirt have to grab the edge of the ring."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] would put the money in the box.",
+            "[person_1] will keep coloring the painting.",
+            "[person_1] will make noodles.",
+            "[person_1] will keep on dancing.",
+            "[person_1] is going to enjoy the trip."
+        ],
+        "reason": [
+            "Because [person_1] seems to be absolutely intent on the painting.",
+            "[person_1] is touching the shoe.",
+            "Because [person_1] has already finished the training and it is [person_1]'s turn.",
+            "Maybe [person_1] finished the song.",
+            "Because [person_1] has gone to the helm."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color on his painting?",
+        "answer": [
+            "[person_1] would have to re - color it from the beginning or , in the worst case , redraw it.",
+            "It could explode.",
+            "[person_1] would have to re - color it from the endding or , in the worst case , redraw it.",
+            "The man will save [person_1].",
+            "[person_1] would have to re - color it from the beginning or , in the worst case , break it."
+        ],
+        "reason": [
+            "Because his product would be wet.",
+            "They are good friends and have the plan of shopping.",
+            "Because his product would be beautiful.",
+            "The card can not be degraded.",
+            "Because his product would be ruined."
+        ]
+    }
+}

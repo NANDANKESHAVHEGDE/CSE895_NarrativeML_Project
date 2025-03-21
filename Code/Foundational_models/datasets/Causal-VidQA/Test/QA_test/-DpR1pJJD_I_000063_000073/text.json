@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is clean and beautiful.",
+            "There are two guitarists.",
+            "The room is quite dark.",
+            "The room is colorful.",
+            "It is small and tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the [bed_1]?",
+        "answer": [
+            "[person_2] is brushing [person_2].",
+            "[person_2] puts his hands on the floor and stretches the resistance band",
+            "[person_2] is stretching her arms.",
+            "[person_2] and [person_2] are playing beer pong in the swimming pool.",
+            "[bed_1] pour plaster on the [bed_1] to take the plaster easily."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put in contact lenses.",
+            "[person_1] would step back and let others come up and perform.",
+            "[person_1] will push a wheelchair to help [person_1] enter the house to shelter from the rain.",
+            "[person_1] will dip in more paint.",
+            "[person_1] will continue treatment."
+        ],
+        "reason": [
+            "[person_1] has prepared a hole on the ground.",
+            "They clap for [person_1].",
+            "[person_1] is lifting the arm of [person_2] gently.",
+            "[person_1] is still a little kid and impatient.",
+            "[person_1] is concentrating on making the basket deftly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the hand of [person_2] hurts a lot?",
+        "answer": [
+            "It is possible that [person_2] will stop practicing.",
+            "[person_2] will stand in front of the television to wait for that character.",
+            "[person_2] can't raise her hand.",
+            "[person_2] will not practice anymore.",
+            "[person_2] will stop exercising right now."
+        ],
+        "reason": [
+            "[person_2] may fight with [person_1].",
+            "[person_1] will need to rest.",
+            "[person_1] will have a rest.",
+            "[person_1] will be treated in a different way.",
+            "The [person_2] needs electricity to turn on."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_1]?",
+        "answer": [
+            "[book_1] is lying on the floor.",
+            "[person_1] is placed on the table behind [person_1].",
+            "The [book_1] is on the hand of [person_1].",
+            "[book_1] is is on the shelf behind [person_1].",
+            "The bed [book_1] is lying on is dark blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] turning the pages?",
+        "answer": [
+            "Maybe [person_1] likes to play in the garden.",
+            "Because [person_1] is reading the [book_1] to [person_2].",
+            "Because [person_1] plans to propose at the stage.",
+            "[person_2] asks [person_1] to play with her.",
+            "[person_2] wants [person_1] to play with her."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to sleep.",
+            "[person_2] is going to wait for [person_2].",
+            "[person_2] may take off the sunglasses.",
+            "[person_2] will ask [person_2] for help.",
+            "[person_2] may wash the front part of her dog."
+        ],
+        "reason": [
+            "Because [person_2] is lying down , having a blanket on and listening to the story before bedtime.",
+            "[person_2] stood up and held the gift box to the [person_2].",
+            "Because [person_2] just nodded , she should like [person_2]'s dance very much.",
+            "[person_2] wants to score because his team just lost 1 point.",
+            "[person_2] is holding a baseball bat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did sleep?",
+        "answer": [
+            "[person_1] would be so sad.",
+            "[person_1] will answer the phone first.",
+            "[person_1] will turn off the television.",
+            "[person_1] may not read the book to [person_2].",
+            "Perhaps [person_1] will not eat anymore."
+        ],
+        "reason": [
+            "[person_2] will sleep in the pram.",
+            "[person_2] may sink if [person_2] does not board [person_2] in time.",
+            "[person_2] really wants to drink with [person_2].",
+            "[person_2] will kick the ball very hard.",
+            "Because [person_2] already slept."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the bag?",
+        "answer": [
+            "the [person_1] is wearing a pink shirt.",
+            "Between [person_1] and [person_2].",
+            "The [person_1] is wearing a black cap.",
+            "On a meadow.",
+            "The [person_1] is wearing a coat and a beanie."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hit [person_2]?",
+        "answer": [
+            "[person_1] is recording a video.",
+            "Because [person_1] is not tall enough.",
+            "[person_1] is using the piano.",
+            "[person_2] can't stand to play the piano.",
+            "Because he wins the game."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do?",
+        "answer": [
+            "He will probably dance for the girls.",
+            "[person_2] may jump more times.",
+            "He might ask for another round.",
+            "[person_2] may help the girl with a ponytail.",
+            "[person_2] will carry on playing drums until the end of his performance."
+        ],
+        "reason": [
+            "[person_2] seems to enjoy it.",
+            "[person_2] seems to be a journalist.",
+            "[person_2] is going to speak.",
+            "He lost the game.",
+            "[person_2] is demonstrating how to play with glass balls , and his mouth is emphasizing something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if their parents came?",
+        "answer": [
+            "They might start the game.",
+            "The table will be broken.",
+            "They might not stop the game.",
+            "Everyone would smile.",
+            "They might stop the game."
+        ],
+        "reason": [
+            "That seems more interesting.",
+            "Parents will allow them to hit each other.",
+            "There are no other lights on the stage.",
+            "Parents won't allow them to hit each other.",
+            "To find the ring first."
+        ]
+    }
+}

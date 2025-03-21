@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "It is in the parking lot.",
+            "The [car_1] is parked on the road.",
+            "It is on the [car_1].",
+            "[car_1] is using the slipper.",
+            "[car_1] is on the [car_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing at the tree trunk?",
+        "answer": [
+            "[person_1] is playing spinning poi.",
+            "[person_1] wants to make a cup of orange juice.",
+            "[person_1] is adjusting the amount of water to water the plants.",
+            "Because that day is him birthday.",
+            "Maybe [person_1] wants to practice to strengthen the hand."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will hold the posture for a second.",
+            "[person_1] will full the cup again.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] may put down the salt.",
+            "[person_1] will continue to turn off the faucet."
+        ],
+        "reason": [
+            "Maybe [person_1] is tired.",
+            "Maybe [person_1] looks thirsty and tired.",
+            "Maybe [person_1] finds it strange.",
+            "Because [person_1] is very happy.",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] watered a lot?",
+        "answer": [
+            "[person_1] will take off the bottle cap.",
+            "The tree would die.",
+            "Perhaps [person_1] will be the winner.",
+            "The tree would be alive.",
+            "The elephant won't move."
+        ],
+        "reason": [
+            "Plants need the right amount of water.",
+            "The [person_1] controls the bellows to make sounds.",
+            "Plants need no water.",
+            "Because there is a chair in front of [person_1] , [person_1] may hit [person_1] while crawling if [person_1] does not pay attention to it.",
+            "Plants need too much water."
+        ]
+    }
+}

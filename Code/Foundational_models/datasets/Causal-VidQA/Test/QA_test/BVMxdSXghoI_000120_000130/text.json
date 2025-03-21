@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] ?",
+        "answer": [
+            "[person_1] and [person_2] are in the pool.",
+            "[person_1] and [person_2] are in a show.",
+            "[person_1] and [person_2] are in the recording studio.",
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are in the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the show ?",
+        "answer": [
+            "Maybe [person_1] is having a party in the room.",
+            "[person_1] is sitting on the chair.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is performing for the girl.",
+            "[person_1] needs a surface smooth and hard to practice on as [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may have a rest.",
+            "[person_1] will have a rest next.",
+            "[person_1]'ll pull the bike out of the snow.",
+            "[person_1] will go on performing to the end of the performance.",
+            "[person_1]'ll count the money."
+        ],
+        "reason": [
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "Then maybe [person_1] will put the flute down.",
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference.",
+            "Because [person_1] divides the money into piles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the girl wants to play flute ?",
+        "answer": [
+            "[person_1] will stop eating.",
+            "[person_1] and [person_1] will be hurt.",
+            "She will ask [person_1] to instruct her to play.",
+            "If [person_1] started to choke on the hotdog , [person_1] would quickly attempt to save [person_1].",
+            "[person_1] and [person_1] would get serious injury on their chests."
+        ],
+        "reason": [
+            "The [person_1] trains her dog with many activities.",
+            "The [person_1] has a small ball to play.",
+            "Because [person_1] is on [person_1]'s left.",
+            "Then [person_1] will help her.",
+            "The cup is not in the hands of [person_1]."
+        ]
+    }
+}

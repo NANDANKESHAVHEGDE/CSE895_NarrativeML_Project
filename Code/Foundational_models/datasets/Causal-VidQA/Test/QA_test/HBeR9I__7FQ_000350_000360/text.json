@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall behind the old man ?",
+        "answer": [
+            "It's yellow.",
+            "The wall is white.",
+            "They are 2 , 0 and 3.",
+            "It's a watch.",
+            "On his back."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in this room ?",
+        "answer": [
+            "[person_1] is taking clothes out of the box.",
+            "[person_1] is picking the poi that he dropped.",
+            "[person_1] is stacking many cups on the table.",
+            "[person_1] is clapping his hand with someone.",
+            "[person_1] is playing the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do ?",
+        "answer": [
+            "[person_1] will continue stacking cups.",
+            "[person_1] will continue raising the lifts.",
+            "[person_1] will probably continue sailing.",
+            "[person_1] will aid his teammates.",
+            "[person_1] will dribble the two sports balls to the other side."
+        ],
+        "reason": [
+            "They are in the middle of a hurling match.",
+            "[person_1] is going to reach the end of the garage.",
+            "Juggle the poi is one of the skills in spinning poi.",
+            "[person_1] is holding cups in hands.",
+            "[person_1] is currently performing along with [person_1] and [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is suddenly off ?",
+        "answer": [
+            "[person_1] maybe afraid.",
+            "The lamp on the wall will be off.",
+            "[person_1] will stop kicking high.",
+            "Maybe [person_1] will cry.",
+            "[person_1] will stop playing the game."
+        ],
+        "reason": [
+            "The light will not work.",
+            "[person_1] can't see anything.",
+            "The room will be dark.",
+            "The room will be too dark.",
+            "The lamp needs electricity to work."
+        ]
+    }
+}

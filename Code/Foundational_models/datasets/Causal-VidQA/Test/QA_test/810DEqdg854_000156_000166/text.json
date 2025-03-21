@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "It was a net and a basketball.",
+            "The [person_1] is drinking water.",
+            "[person_1] is wearing a black shirt.",
+            "It's white.",
+            "The shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] speaking to the camera?",
+        "answer": [
+            "He just learned about this game.",
+            "[person_1] is in a party.",
+            "Because she is given by [person_1].",
+            "[person_1] is the coach of this basketball team.",
+            "[person_1] was bored before."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do next?",
+        "answer": [
+            "[person_3] will jump in.",
+            "[person_3] will take a rest.",
+            "[person_3] will put his hand down.",
+            "Maybe [person_3] gives her opinion.",
+            "[person_3] will do more practices."
+        ],
+        "reason": [
+            "Because it is not convenient to be interviewed by [person_3] while lying down.",
+            "Maybe [person_3] likes sari.",
+            "[person_3] turned the horse direction.",
+            "[person_3]'s team loses.",
+            "[person_3] is still moving around and does not intend to stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the students work hard in their training?",
+        "answer": [
+            "[person_1] may walk faster.",
+            "[person_1] will not do exercise .",
+            "[person_1]'s students will get better very quickly.",
+            "[person_1] will feel regret.",
+            "[person_1] may express his impatience and annoyance."
+        ],
+        "reason": [
+            "Because [person_1] is a professional basketball coach.",
+            "Because if you eat too fast , you won't have time to chew.",
+            "[person_1] will not get reflex training.",
+            "Because one person looks stupid.",
+            "[person_1] is old and needs glasses to see better."
+        ]
+    }
+}

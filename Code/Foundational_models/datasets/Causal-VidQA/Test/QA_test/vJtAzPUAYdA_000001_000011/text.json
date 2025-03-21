@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the room.",
+            "[person_1] is standing between [person_1] and [person_1].",
+            "[person_1] is at the house.",
+            "[person_1] is in the gym room.",
+            "[person_1] is on board."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the bow?",
+        "answer": [
+            "[person_1] wants to try riding the mechanical bull.",
+            "Because [person_1] is going to smoke.",
+            "[person_1] shows that point is where to break through.",
+            "[person_1] is playing the harp there.",
+            "[person_1] needs glasses to improve her vision."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will continue to play the harp.",
+            "[person_1] will tattoo the right leg of [person_1].",
+            "[person_1] may get out of the pool.",
+            "[person_1] will pick up new parts to assemble."
+        ],
+        "reason": [
+            "[person_1] is getting the bottle through the chair.",
+            "[person_1] is on the farm.",
+            "Because these performers need to finish the show in turn.",
+            "[person_1] is concentrating on playing.",
+            "The hair in cutting may get into her eyes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the boat moves fast?",
+        "answer": [
+            "[person_1] will be knocked into the river.",
+            "[person_1] will find a phone.",
+            "[person_1] cannot play the harp.",
+            "[person_1] may not practice well.",
+            "[person_1] will be hit by the bookshelves."
+        ],
+        "reason": [
+            "Because the machine has no sink.",
+            "The crossbar didn't fall to the ground.",
+            "The boat will be shaken.",
+            "[person_1] didn't grab the railing.",
+            "There is a guitar in the room."
+        ]
+    }
+}

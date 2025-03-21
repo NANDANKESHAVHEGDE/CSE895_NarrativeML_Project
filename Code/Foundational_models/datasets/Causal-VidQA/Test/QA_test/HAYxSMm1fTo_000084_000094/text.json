@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the keyboard?",
+        "answer": [
+            "[person_1] is wearing a black shirt.",
+            "It's next to [person_1].",
+            "The keyboard is white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The [person_1]'s socks are white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put [person_1]'s hands on the keyboard?",
+        "answer": [
+            "Because [person_1] needs to use [person_1]'s hands to play the keyboard.",
+            "Because the [person_1] seems to be a host who is talk to the doll for fun.",
+            "The [person_1] wants to show the [person_1] to the camera.",
+            "[person_1] is looking at [person_1].",
+            "The [person_1] has only the mini one here."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to somersault again.",
+            "It is possible that [person_1] will continue to play didgeridoo.",
+            "[person_1] intends to take out contact lenses.",
+            "[person_1] intends to pull the rope.",
+            "[person_1] intends to rest."
+        ],
+        "reason": [
+            "[person_1] stopped playing the keyboard.",
+            "[person_1] removed the paper and wrapped it again.",
+            "[person_1] stops playing the harmonica.",
+            "[person_1] is in the middle of the road.",
+            "[person_1] holds the lipstick in her hand and applies it to her lips."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off?",
+        "answer": [
+            "[person_1] will stop playing the keyboard.",
+            "It won't be sunny.",
+            "[person_1] will continue playing the keyboard.",
+            "Maybe he will find a new one.",
+            "[person_1] will start hitting the keyboard."
+        ],
+        "reason": [
+            "[person_1] can't playing keyboard without the keyboard.",
+            "The dancers can't see anything around them if the light is off.",
+            "[person_1] can playing keyboard without the keyboard.",
+            "[person_1] can't see the chess pieces without the light.",
+            "[person_1] can't playing keyboard with the keyboard."
+        ]
+    }
+}

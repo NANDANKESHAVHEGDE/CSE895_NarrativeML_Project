@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are at a massage room.",
+            "[person_1] and [person_2] are in a bathroom.",
+            "[person_1] and [person_2] are in the kitchen.",
+            "[person_1] and [person_2] are at the leisure center.",
+            "[person_1] and [person_2] are in his office."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the kitchen?",
+        "answer": [
+            "[person_1] is holding the harmonica.",
+            "The [person_1] seems to be looking for something in the refrigerator.",
+            "Because if [person_1] sits while playing the gong , it will be difficult to have the force to swing the gong.",
+            "[person_1] and [person_2] are squeezing oranges.",
+            "Because [person_1] is playing guitar and whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do ?",
+        "answer": [
+            "[person_1] and [person_2] are going to squeeze all the oranges.",
+            "[person_1] and [person_2] are going to continue snapping their fingers.",
+            "[person_1] and [person_2] are going to practice as long as possible at the baseball practice room.",
+            "[person_1] and [person_2] are going to continue their work.",
+            "[person_1] and [person_2] are going to attack each other."
+        ],
+        "reason": [
+            "[person_1] and [person_2] think that it is dangerous to stand on top of the car.",
+            "[person_1] and [person_2] are still holding hands and moving with each other.",
+            "[person_1] and [person_2] are family members and are squeezing oranges to drink.",
+            "[person_1] and [person_2] are stacking a layer of bread on top of each other at once.",
+            "Their eyes are bulging."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] finish squeezing oranges?",
+        "answer": [
+            "[person_1] and [person_2] will drink orange juice.",
+            "The [person_1] will pick it up.",
+            "[person_1] and [person_2] will eat orange.",
+            "[person_1] will go home.",
+            "[person_1] and [person_2] will spill out orange juice."
+        ],
+        "reason": [
+            "[person_1] and [person_2] like oranges and buy no oranges.",
+            "[person_1] will not be in a wheelchair.",
+            "[person_1] and [person_2] like oranges and buy a lot of bad oranges.",
+            "It looks like that [person_2] is hanging out with [person_1] and she is waiting for [person_1] to finish the call.",
+            "[person_1] and [person_2] like oranges and buy a lot of oranges."
+        ]
+    }
+}

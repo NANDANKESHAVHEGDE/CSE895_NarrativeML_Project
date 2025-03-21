@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is peeling a coco.",
+            "[person_1] is opening a carton box.",
+            "[person_1] is pushing the wheelbarrow.",
+            "[person_1] is doing slow mountain climbers.",
+            "[person_1] is opening the box of a gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing the wheelbarrow?",
+        "answer": [
+            "Because [person_1] is weaving fabric",
+            "Maybe [person_1] wants to move something that can't be moved manually.",
+            "Because [person_1] wants [person_1] to poke her belly button.",
+            "Because [person_1] wants to protect the head if [person_1] falls.",
+            "Because [person_1] is practicing standing on hands."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] might spray paint back and forth.",
+            "[person_1] will push the wheelbarrow through the door.",
+            "[person_1] is likely to pluck the strings.",
+            "[person_1]'ll wipe the top of his work to make it flat.",
+            "[person_1] will not keep on playing the game."
+        ],
+        "reason": [
+            "Because [person_1] is looking at the things on the ground . [person_1] wants to pick them up.",
+            "To finish [person_1]'s work.",
+            "To show how [person_1] performs.",
+            "Because [person_1] is moving and in front of [person_1] is the door.",
+            "Because [person_1]'s work is to count money."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was no door there?",
+        "answer": [
+            "[person_1] would have to go another way.",
+            "The child would get bored.",
+            "[person_1] would not pull it out so smoothly.",
+            "[person_1] may stop eating.",
+            "[person_1] might attract a lot of attention."
+        ],
+        "reason": [
+            "Compared to the ground the sofa is a good choice to sleep on.",
+            "Because the woman in red is dancing , if she accidentally steps on the water , she will easily slip.",
+            "[person_1] can't go through walls.",
+            "The floor is hard and the [person_1] was hit unexpectedly.",
+            "Because it is more difficult for [person_1] to clean if the plaster is dry."
+        ]
+    }
+}

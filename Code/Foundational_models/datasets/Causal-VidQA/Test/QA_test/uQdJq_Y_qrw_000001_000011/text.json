@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there any cars in the video?",
+        "answer": [
+            "There are three chairs in the room.",
+            "It's red.",
+            "Only one.",
+            "Yes , there are.",
+            "There are two certificates hanging on the wall near the door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a pair of boot?",
+        "answer": [
+            "Because [person_1] wants to play the gong.",
+            "Because [person_1] wants to store the wheelchair.",
+            "[person_1] wants to use the dice to shake.",
+            "[person_1] is playing with water.",
+            "Maybe [person_1] wants to take the wheelchair somewhere."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take a bus.",
+            "[person_1] is going to play in the puddle.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] will get the job done.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "[person_1] jumped into the puddle.",
+            "[person_1] is going close [person_1].",
+            "Maybe [person_1] started weaving fabric.",
+            "Maybe [person_1] finds it strange.",
+            "Maybe [person_1] is practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "[person_1] may cry.",
+            "[person_1] may get wet.",
+            "[person_1] will go to the side to rest.",
+            "[person_1]'s head may be injured by hitting the floor",
+            "[person_1] will break his leg."
+        ],
+        "reason": [
+            "Because [person_1] is stand next to [person_1].",
+            "The [person_1] is performing on the stage.",
+            "Because [person_1] is standing right next to [person_1].",
+            "[person_1] is standing on a puddle.",
+            "Because [person_1] looked fluently player so perhaps [person_1] knows how to swim."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is jumping on the couch.",
+            "[person_2] is wearing a headphone.",
+            "[person_2] is opening a present for [person_2].",
+            "[person_2] is taking photos.",
+            "[person_2] is holding a gift box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look carefully at the gift on the [person_2]'s hand?",
+        "answer": [
+            "[person_1] reads the message in the card.",
+            "[person_1] with long hair puts the bottle's bottom into the shoe and strikes the shoe against wall.",
+            "[person_1] blows the clarinet attentively.",
+            "[person_1] waits for [person_2] to open the gift.",
+            "[person_1] wants the chair to have a better color."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue doing the knee kick exercise.",
+            "[person_2] is going to try on a long sleeve shirt.",
+            "[person_2] is going to turn around to see the result.",
+            "[person_2] is going to wipe his mouth.",
+            "[person_2] is going to open the gift box."
+        ],
+        "reason": [
+            "[person_2] found a peek where there was a hole.",
+            "[person_2] is having a rest but his bucket is full of dirt.",
+            "[person_2] just lifts up the barbell and haven't finished the complete action.",
+            "[person_2] is going to talk with [person_2].",
+            "[person_2] disagreed with [person_2] and before [person_2] continued to talk , [person_2] looked at the board which seems that there are some opinions on it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] open the gift box?",
+        "answer": [
+            "[person_1] may fall if [person_1] can not control his speed well.",
+            "[person_1] needs to lift the accordion.",
+            "[person_1] may feel unhappy and cry.",
+            "[person_1] will look at [person_3].",
+            "[person_1] will not need to use the vacuum to suck up."
+        ],
+        "reason": [
+            "Because the toes are not flexible as fingers.",
+            "Because the boy cannot keep balance and easy to fall out.",
+            "Judging by their height , we could tell that [person_1] and [person_3] are still a bunch of kids . Most kids at [person_1] and [person_3]'s age don't how to deal with that situation . So , [person_1] and [person_3] will just stand there and do nothing.",
+            "[person_1] has waited to see the gift inside.",
+            "It is the result of practice."
+        ]
+    }
+}

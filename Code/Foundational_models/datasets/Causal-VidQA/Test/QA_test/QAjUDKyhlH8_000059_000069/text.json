@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is sitting next to the [person_2].",
+            "[person_2] is standing outside the door.",
+            "[person_2] is inside.",
+            "[person_2] is in the yard.",
+            "[person_2] is on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "Because [person_2] is practicing for the next performance of her.",
+            "[person_2] is excited about her book.",
+            "[person_2] is doing arm training by pulling weights.",
+            "[person_2] and [person_2] are whistling.",
+            "[person_2] is trying to unbox the present."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to?",
+        "answer": [
+            "[person_1] tends to go out for relaxing with his friends after music class.",
+            "[person_1] tends to sway to the sound of the guitar.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] will probably celebrate with his teammates.",
+            "[person_1] intends to push the wheelchair around the field and kick the ball."
+        ],
+        "reason": [
+            "It seems that they are at the field.",
+            "[person_1] is singing along to the lyrics.",
+            "It's necessary to remove the makeup before sleeping.",
+            "[person_1] feels tired after playing for a long time.",
+            "We can infer from what it did before."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] practices many times?",
+        "answer": [
+            "[person_1] may put the bass guitar away and leave the room.",
+            "An accident may happen.",
+            "[person_1] will celebrate with his class.",
+            "[person_1] will replace [person_1].",
+            "The tile will be broken."
+        ],
+        "reason": [
+            "The [person_1] is standing next to the [person_1] , near the table.",
+            "Because [person_1] doesn't know how to drive and so some bad things may happen.",
+            "Because [person_1] gets good results with his effort.",
+            "When [person_1] screams and cries , which will attract someone's attention to come close to coax.",
+            "Since [person_1] doesn't know how to play the organ , [person_1] just plays with it."
+        ]
+    }
+}

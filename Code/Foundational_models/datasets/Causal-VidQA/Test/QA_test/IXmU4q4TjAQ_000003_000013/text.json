@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a white T - shirt and black pants.",
+            "[person_1] is wearing a hat and a red shirt.",
+            "[person_1] is wearing a sleeveless shirt.",
+            "[person_1] is wearing a red T - shirt.",
+            "[person_1] is wearing a glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bend his body forward?",
+        "answer": [
+            "[person_1] wants to find a stone.",
+            "Because [person_1] wants to make it harder to open [person_1].",
+            "[person_1] is playing water slide.",
+            "Because [person_1] wanted to take the newspaper inside.",
+            "Because [person_1] is focusing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to kneel on the ground.",
+            "[person_1] is going to hit the ball.",
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "Maybe [person_1] is going to shoot a video.",
+            "[person_1] is going to grab a stone and throw it."
+        ],
+        "reason": [
+            "Children are very dependent on their parents.",
+            "[person_1] is about to do that.",
+            "The frisbee is far away from [person_1].",
+            "This can help [person_1] remember the action.",
+            "[person_1] is talking to someone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] tripped and fell?",
+        "answer": [
+            "[person_2] might stop to help [person_2].",
+            "Maybe [person_2] won't be here too.",
+            "Maybe [person_2] couldn't continue the competition.",
+            "[person_2] would get wet from head to toes.",
+            "[person_2] will stop playing."
+        ],
+        "reason": [
+            "The wind on the beach is very strong , which will affect the frisbee.",
+            "Because the water seems to be deep.",
+            "It's still daytime and there's a lot of time to continue practicing.",
+            "The drums are very loud.",
+            "[person_2]'s head will nod if [person_2] falls asleep , [person_2] can not do the job well."
+        ]
+    }
+}

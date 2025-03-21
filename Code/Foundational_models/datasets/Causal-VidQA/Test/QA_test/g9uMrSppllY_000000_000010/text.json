@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the bed.",
+            "[person_1] is in the bar.",
+            "[person_1] is next to the pool.",
+            "[person_1] is in the office.",
+            "[person_1] is on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is opening the presents.",
+            "[person_1] is painting the [person_1] on the table.",
+            "[person_1] is instructing [person_1] about the book.",
+            "[person_1] is reaching a hand to the right to get the bottle cap of the milk bottle.",
+            "[person_1] is reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue to read.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to put the donut in his mouth.",
+            "[person_1] is going to move his knife from the left whetstone bar to the right whetstone bar."
+        ],
+        "reason": [
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "[person_1] is reading carefully.",
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "[person_1] was walking towards [person_1] and the right hand of [person_1] touched the leg of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone walks in?",
+        "answer": [
+            "[person_1] would still be dancing.",
+            "[person_1] may hit [person_1].",
+            "[person_1] will stop reading.",
+            "There will be more people in the building.",
+            "[person_1] will be injured."
+        ],
+        "reason": [
+            "[person_1] will cover the square on the ground.",
+            "[person_1] will serve the guests.",
+            "If there is a stone in front of [person_1] , [person_1] will fall if [person_1] somersaults here.",
+            "Bandage is the useful treatment to the woman's wound.",
+            "[person_1] will go home."
+        ]
+    }
+}

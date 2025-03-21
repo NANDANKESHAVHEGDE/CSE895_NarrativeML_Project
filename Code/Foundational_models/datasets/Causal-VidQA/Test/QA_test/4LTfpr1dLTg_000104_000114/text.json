@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is standing behind the flower pot.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in his house.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn the water bottle upside down?",
+        "answer": [
+            "Because [person_1] wants to make circles on the picture.",
+            "Because [person_1] wants the plants to be watered all the time.",
+            "[person_1] is holding a piece of the orange.",
+            "[person_1] is blowing air into the hole in the flute.",
+            "It is possible that [person_1] is learning to play the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will continue to guide the care of the tree.",
+            "[person_1] will check the result.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to play there."
+        ],
+        "reason": [
+            "[person_1] has a creative idea to water the plants.",
+            "When [person_1] holds the comb , he is raising his hand to comb his hair.",
+            "[person_1] is paying attention to other things.",
+            "[person_1] is enjoying playing flute.",
+            "The egg is not cooked yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't water the plants?",
+        "answer": [
+            "Perhaps the tree will not die.",
+            "The goats may be hungry.",
+            "Perhaps the tree will be alive.",
+            "[person_1] may have to wash his eyes immediately if he doesn't want to be blind.",
+            "Perhaps the tree will die."
+        ],
+        "reason": [
+            "Plants won't die without water.",
+            "The broken motorbike can not be control.",
+            "Plants will die without water.",
+            "[person_1] would stop stirring and tend to their hand because [person_1] would not focus while in pain.",
+            "Plants will die with water."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is behind [person_1].",
+            "It is black.",
+            "[book_1] is in front of [person_1] . [person_1] is holding [book_1] in hand.",
+            "[book_1] is on the hands of [person_1].",
+            "[person_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] feel?",
+        "answer": [
+            "The weather is sunny.",
+            "[person_1] feels excited.",
+            "For horses to drink water.",
+            "[person_1] is sitting on the floor.",
+            "There is no one except [person_1] is standing and playing bagpipes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to shake the maracas up.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to smile.",
+            "[person_1] may keep trying to hoop better.",
+            "[person_1] is going to keep jumping."
+        ],
+        "reason": [
+            "[person_1] pays attention to her book.",
+            "[person_1] is removing her glasses.",
+            "[person_1] jumped into the lake.",
+            "[person_1] has a camera.",
+            "[person_1] is very keen on the maracas."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1]'s mother took the maracas away?",
+        "answer": [
+            "[person_1] will go to the hospital immediately.",
+            "the [person_1] will keep flipping it.",
+            "[person_1] would cry.",
+            "The [person_1] might stop shoveling and avoid the [person_1].",
+            "The [person_1] would lick the hand of the man."
+        ],
+        "reason": [
+            "[person_1] is enjoying playing with the maracas.",
+            "[person_1] was afraid of the dog.",
+            "The [person_1] is shoveling the snow in front of the house.",
+            "Because [person_1] may drink from the smaller container for the first time and from [person_1] for the second time.",
+            "Because [person_1] only wanted to know how the liquid tastes."
+        ]
+    }
+}

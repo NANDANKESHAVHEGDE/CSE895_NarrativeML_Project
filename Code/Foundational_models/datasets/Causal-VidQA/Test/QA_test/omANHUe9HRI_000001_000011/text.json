@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the floor.",
+            "[person_1] and [person_2] are on the bed.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] and [person_2] are in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting in the bath?",
+        "answer": [
+            "[person_1] is outside and it is hot.",
+            "[person_1] is playing didgeridoo.",
+            "Because [person_1] is playing an accordion.",
+            "[person_1] and [person_2] are bathing together.",
+            "[person_1] is tuning the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will continue to play with [person_1].",
+            "[person_2] is going to splash water on [person_1].",
+            "[person_2] is going to continue practicing walking.",
+            "[person_2] is going to continue teach [person_1].",
+            "[person_2] is going to continue watching [person_1] riding the mechanical bull."
+        ],
+        "reason": [
+            "Maybe [person_1] will teach another move.",
+            "[person_2] wants to tease [person_1].",
+            "[person_2] turned to the shot and may let us see the broken boards [person_1] just broke.",
+            "Maybe [person_2] really likes [person_1].",
+            "[person_1] has helped [person_2] to bandage [person_2]'s hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if parents of [person_1] and [person_2] let them bathe for too long?",
+        "answer": [
+            "The [person_1]'s hands will be off - balance.",
+            "[person_1] , [person_1] and other people will save him.",
+            "Maybe [person_1] will tie a knot on the dummy's head directly.",
+            "The coach of [person_2] would let another player to join the game.",
+            "[person_1] and [person_2] might catch a cold."
+        ],
+        "reason": [
+            "The coco is small and the foot covers large area of it . The striking might hurt the foot.",
+            "[person_1] and [person_2] shouldn't take a bath for too long.",
+            "The \" crowd surfer \" is passed above everyone's heads , with everyone's hands supporting the person's weight . Therefore , they have to pay attention.",
+            "[person_1] and [person_2] are performing on stage now . If one of them makes a mistake , the performance will be incomplete.",
+            "It's dangerous to fall into the river."
+        ]
+    }
+}

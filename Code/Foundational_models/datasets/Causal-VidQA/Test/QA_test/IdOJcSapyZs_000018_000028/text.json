@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_2]?",
+        "answer": [
+            "There is only person in this room.",
+            "[cup_2] is on [dining table_1].",
+            "The room is spacious.",
+            "The room is very big.",
+            "It is a big room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_5] moving together?",
+        "answer": [
+            "Because [person_1] wants to sharpen the pencil.",
+            "Because [person_1] is a carpenter.",
+            "Because [person_1] is arranging the cups.",
+            "[person_1] turns around to go to the mirror.",
+            "[person_1] and [person_5] want to practice roller skating."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_5] going to do?",
+        "answer": [
+            "The [person_1] will continue to talk with the dolls.",
+            "[person_1] and [person_5] are going to record videos with phone.",
+            "The [person_1] will continue to introduce the way of making the doll.",
+            "[person_1] and [person_5] are going to start skating.",
+            "The [person_1] will take a photo."
+        ],
+        "reason": [
+            "[person_1] and [person_5] stepped into the rink.",
+            "For the [person_1] has opened the refrigerator and seemed to be looking for something.",
+            "Because [person_1] has finished the work.",
+            "Because the [person_1] will explain the benefits and how the light comes on when the [person_1] door is opened and how it works.",
+            "Because [person_1] wants to keep the dog calm."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_5] fell down?",
+        "answer": [
+            "[person_1] will fall down to the floor and get injured.",
+            "[person_1] would help [person_5] to stand up.",
+            "The video may not be interesting anymore.",
+            "[person_1] may fall on the ground.",
+            "[person_5] will continue to make mistakes."
+        ],
+        "reason": [
+            "It means that [person_1] doesn't like it.",
+            "[person_1] is close to [person_5].",
+            "Because this is competition and the time is limited.",
+            "Because one hand can't make the sound that two hands make at the same time.",
+            "It's not so embarrassing to have friends around."
+        ]
+    }
+}

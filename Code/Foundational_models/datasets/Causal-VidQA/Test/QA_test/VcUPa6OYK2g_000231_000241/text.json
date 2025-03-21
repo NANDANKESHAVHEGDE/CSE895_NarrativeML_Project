@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[chair_1] is next to [chair_1].",
+            "The [chair_1] is next to the wall.",
+            "The [chair_1] is behind [person_1].",
+            "[person_1] is sitting on the sofa."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in front of the table?",
+        "answer": [
+            "[person_1] is smoking.",
+            "[person_1] is playing with cups on the dining table.",
+            "[person_1] is really into getting involved in an activity with another person.",
+            "[person_1] is performing his performance.",
+            "The view at the window is beautiful."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to show the presents.",
+            "[person_1] has an intention of practicing the flute.",
+            "[person_1] tends to stop.",
+            "[person_1] tends to look at the place to throw the ball.",
+            "[person_1] intends to turn off the camera."
+        ],
+        "reason": [
+            "[person_1] has not finished the performance.",
+            "[person_1] is in the middle of that jumping rope type.",
+            "[person_1] would like to win the game.",
+            "[person_1] is very interested in playing it.",
+            "[person_1] is still infatuated with the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if all the cups fall?",
+        "answer": [
+            "The people next to [person_1] will come and help [person_1] escape the danger.",
+            "Maybe [person_1] will pick them up.",
+            "The [person_1] will move and run as fast as possible.",
+            "[person_1] and [person_1] would get wet.",
+            "The [person_1] will stop what she is doing and treat the wound."
+        ],
+        "reason": [
+            "[person_1] is a player of this game.",
+            "There is noise when the ball falls on the ground and the floor may not be soundproof.",
+            "Because it will clutter the space if it is not picked up.",
+            "These action could easily hurt the knees.",
+            "The cup was full of beer when it was poured twice."
+        ]
+    }
+}

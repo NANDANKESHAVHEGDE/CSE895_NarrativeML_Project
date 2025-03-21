@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "[person_1] is skating on the floor.",
+            "The [person_1] is on the cupboard.",
+            "[person_1] is placed at the corner.",
+            "[person_1] is in the corner of the gym.",
+            "The type of clothes [person_1] is wearing is a performance outfit."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people standing outside?",
+        "answer": [
+            "Because [person_1] wants to ski safely.",
+            "Because [person_1] and [person_1] are friends.",
+            "They watch [person_1] skate.",
+            "[person_1] is nearsighted.",
+            "Perhaps [person_1] and [person_1] are saluting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to thank the audience at the end of the performance.",
+            "[person_1] may spray water on the flowers.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] may stand on the [person_1].",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "[person_1] wants to play for entertainment.",
+            "[person_1] is excited about it.",
+            "[person_1] is smiling.",
+            "[person_1] expressed gratitude to the audience.",
+            "[person_1] is going to rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if everyone cheer and clap?",
+        "answer": [
+            "[person_1]'s tongue will hurt.",
+            "[person_1] would push the dog aside.",
+            "Then people standing here will run far away.",
+            "[person_1] will get excited.",
+            "All of them will run to the safe place."
+        ],
+        "reason": [
+            "Because excess is bad for people's health.",
+            "It will make [person_1]'s legs feel better.",
+            "The mouse is usually beside the computer.",
+            "[person_1] won't stop until succeed.",
+            "[person_1] is cheered."
+        ]
+    }
+}

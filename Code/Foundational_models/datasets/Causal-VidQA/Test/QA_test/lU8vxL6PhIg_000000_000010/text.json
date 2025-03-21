@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] wearing?",
+        "answer": [
+            "[person_2] is wearing a long sleeve striped shirt.",
+            "It is in a rugby training field.",
+            "They were in a large classroom.",
+            "They were in a classroom.",
+            "It is in a training room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on [chair_1]?",
+        "answer": [
+            "[person_2] is sitting with his friend and smoking.",
+            "[chair_1] is playing piano.",
+            "May be [person_2] is a teacher and [person_2] is teaching [person_2] how to play the cello.",
+            "[person_2] is doing tai chi in the room with some of his friends.",
+            "[person_2] is sitting on [chair_1] to use the computer in front of him."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next after finishing reading?",
+        "answer": [
+            "The [person_1] and [person_1] may skate across the floor.",
+            "[person_1] is going to put down the newspaper to do something else.",
+            "The [person_1] and [person_1] may take the shovel to flatten the concrete.",
+            "[person_1] will rest.",
+            "[person_1] will rest."
+        ],
+        "reason": [
+            "To congratulate on the proposal.",
+            "Because here is a dancing classroom.",
+            "[person_1] looks uninterested in the newspaper he's holding.",
+            "[person_1] may be killed.",
+            "[person_1] and [person_1] are performing fencing on the street."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the computer turned off while [person_2] was working?",
+        "answer": [
+            "[person_2] would stand up from [chair_1] and try to turn the computer back on.",
+            "[person_2] and [person_2] would sit on the chairs.",
+            "The [chair_1] would get an accident.",
+            "The [chair_1] can play and enjoy music from piano accordion.",
+            "Then [chair_1] can't jump on another ball."
+        ],
+        "reason": [
+            "There would be nothing else that could help [person_2] open hard shells.",
+            "Because there would be no instructions spoke out loud for the audience.",
+            "[person_2] seems to be typing out an important document so he will certainly attempt to turn the computer back on.",
+            "The suitcase is behind [person_2].",
+            "[person_2] is a young and new horse rider."
+        ]
+    }
+}

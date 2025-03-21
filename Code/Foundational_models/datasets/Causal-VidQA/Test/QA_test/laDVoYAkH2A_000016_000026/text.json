@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the big room.",
+            "They are standing on a snowy mountain.",
+            "It's blue.",
+            "[person_1] and [person_2] are sitting on the stairs.",
+            "[person_1] and [person_2] are in their house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] so excited?",
+        "answer": [
+            "Because [person_2] feels it's easy to open a bottle.",
+            "[person_1] \u200b is having fun.",
+            "Because [person_1] gives the ring to [person_2].",
+            "Because [person_1] is an infant.",
+            "Because [person_1] knows the person giving the gift that [person_1] is opening teases him."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will kiss [person_1].",
+            "Make another snowman himself.",
+            "It is probable that [person_2] will continue to practice lunge.",
+            "[person_2] will definitely pick up the ball.",
+            "[person_2] will continue to wear sari for [person_1]."
+        ],
+        "reason": [
+            "[person_2] is probably an adult and [person_1] is a child",
+            "Because [person_2] feels the love from [person_1].",
+            "Another ball came from the opponent of [person_2] and [person_2] just caught the ball . [person_2] is ready to throw the ball to his opponent.",
+            "To put the quilt on the bed.",
+            "Because [person_2] can't shoot billiards into the hole."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] fell down on the snow?",
+        "answer": [
+            "[person_1] will stretch [person_1]'s hands before [person_2] falls.",
+            "Maybe [person_2] will not go there.",
+            "The [person_1] will teach her again.",
+            "[person_2] will cook an omelet instead of a scrambled egg.",
+            "People won't know how [person_1] folds the paper."
+        ],
+        "reason": [
+            "It is easier to walk without the hoop.",
+            "To protect [person_2].",
+            "Words need to be accompanied by actions to express them.",
+            "It's easy to catch a cold if you don't dry your hair.",
+            "It is not beautiful with it on hands."
+        ]
+    }
+}

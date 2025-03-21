@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting in [chair_1].",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in his house.",
+            "[person_1] is on the bed.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [chair_1] put there?",
+        "answer": [
+            "[chair_1] is put there for [person_1] to sit on.",
+            "[person_1] will exercise with them.",
+            "[chair_1] is performing circus.",
+            "[person_1] and [person_1] are playing luge sport.",
+            "[chair_1] is swallowing sword."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to bow to the audiences.",
+            "[person_2] is going to flip the sword.",
+            "[person_2] is going to continue testifying.",
+            "[person_2] is going to keep playing the harp.",
+            "[person_2] is going to dance."
+        ],
+        "reason": [
+            "[person_2] holds a spade and stand beside the bucket , waiting for the dirt being digged.",
+            "[person_2] is still moving hands on it.",
+            "To show how [person_2] will make bubbles.",
+            "[person_2] also helps other people besides him.",
+            "When [person_2] takes the last piece of paper out the box , [person_2] grabs it right away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] weren't there?",
+        "answer": [
+            "[chair_1] would get tired.",
+            "[person_2] would not have to stand.",
+            "[person_2] would buy orange juice instead of making it.",
+            "[person_2] would have to stand.",
+            "[chair_1] would not sit on [chair_1]."
+        ],
+        "reason": [
+            "There would be only [chair_3] for [person_2] to stand on.",
+            "There would be no chair for [chair_1] to use.",
+            "There would be only [chair_3] for [person_2] to sit on.",
+            "[chair_3] can't say something [chair_3] doesn't know.",
+            "There would be only [chair_1] for [person_2] to sit on."
+        ]
+    }
+}

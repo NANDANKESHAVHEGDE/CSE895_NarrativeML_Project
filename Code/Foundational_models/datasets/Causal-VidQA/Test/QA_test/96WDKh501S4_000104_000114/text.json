@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is fighting with his enemy.",
+            "[person_1] is listening to a man sitting in front of her.",
+            "[person_1] is plastering in a careful way.",
+            "[person_1] is planing wood.",
+            "[person_1] is sitting and carrying the bass guitar in the hands."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] listen to a man?",
+        "answer": [
+            "[person_1] is making a tutorial video.",
+            "[person_1] is sharing about his feeling.",
+            "[person_1] wanted it to be more beautiful.",
+            "It can help the medicine better being taken in.",
+            "The man may say something helpful so [person_1] listens to him."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will obviously stop stand on the hand.",
+            "[person_1] is going to measure.",
+            "[person_1] may straighten his arms.",
+            "[person_1] may keep listening to what the man say.",
+            "[person_1] is going to stack the dice again."
+        ],
+        "reason": [
+            "Maybe have run out of water.",
+            "The man still says and takes note in a notebook.",
+            "[person_1] put down the weight lifting.",
+            "[person_1] is going to enjoy the melody.",
+            "[person_1] is going to change the position."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the man drops the notebook when talking in front of [person_1] , [person_2] and others?",
+        "answer": [
+            "The man will not pick up the notebook and continue to talk.",
+            "It is possible that [person_2] will catch a cold.",
+            "The man will pick up the notebook and continue to talk.",
+            "The birds will fly away.",
+            "The man will pick up the notebook and stop to talk."
+        ],
+        "reason": [
+            "The present will be far from [person_1] when [person_2] throws the gift away.",
+            "The man needs the notebook to continue his talk.",
+            "[person_1] can bring good flute sound to everyone.",
+            "The man doesn't need the notebook to continue his talk.",
+            "Because bees will fly out and sting [person_1]."
+        ]
+    }
+}

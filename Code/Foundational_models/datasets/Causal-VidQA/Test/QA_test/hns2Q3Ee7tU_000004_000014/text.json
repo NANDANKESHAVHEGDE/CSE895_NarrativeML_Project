@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is the long sleeve shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] is wearing is white.",
+            "The [person_1] is wearing checked pants.",
+            "No.",
+            "Two snowballs.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the harp?",
+        "answer": [
+            "[person_1] is playing the lute.",
+            "[person_1] is playing the harp.",
+            "Because [person_1] wants to make a beer cask.",
+            "Because [person_1] is playing the flute.",
+            "[person_1] wants to teach this exercise to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to continue stretching."
+        ],
+        "reason": [
+            "They are looking at each other.",
+            "Because the machine is on.",
+            "[person_1] is still holding and moving on it.",
+            "[person_1] has towel in the hand.",
+            "[person_1] cuts off the flower's stem."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "[person_1] may fall.",
+            "There would be no one playing the harp.",
+            "[person_1] has to fold another paper airplane if [person_1] wants to play.",
+            "[person_1] will feel cold.",
+            "[person_1] won't know what to do."
+        ],
+        "reason": [
+            "There would be only [person_1] playing the harp.",
+            "Others would perhaps take [person_1]'s position.",
+            "[person_1] is standing quite near the camera so his face looks so big.",
+            "[person_1]'s head is not protected.",
+            "Whether the performance is good or not depends on its score."
+        ]
+    }
+}

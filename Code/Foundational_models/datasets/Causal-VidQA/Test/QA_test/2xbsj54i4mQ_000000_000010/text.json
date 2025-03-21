@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing winter clothes.",
+            "Yes , the [person_1] and [person_1] are sitting.",
+            "[person_1] is wearing a sunglasses.",
+            "[person_1] is wearing polo shirt.",
+            "[person_1] is wearing a hat on the head of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep looking down?",
+        "answer": [
+            "Because [person_1] is reading newspaper.",
+            "[person_1] wants to keep balance.",
+            "Because [person_1] who has practiced is already familiar with the exercise.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] is making breath to play the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to step forward.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to keep reading."
+        ],
+        "reason": [
+            "Maybe [person_1] will continue playing.",
+            "[person_1] is holding a glass of water.",
+            "Maybe [person_1] is having fun.",
+            "Because [person_1] has no sign of stopping to read.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [chair_2] had no back?",
+        "answer": [
+            "Then the camera won't fall.",
+            "The birds will still be there.",
+            "They may be sad.",
+            "It's won't good for [person_1]'s eyes.",
+            "[person_1] may have to sit up straight."
+        ],
+        "reason": [
+            "because if [person_1] continues to practice , her bones will be fractured.",
+            "Because [person_1] fell to the ground with snow.",
+            "Because [person_1] could not lean the back of [person_1] in the chair.",
+            "[person_1] wants to catch the ball , so [person_1] will walk to follow it.",
+            "The [person_1] can not keep her balance when she leans to the right lower."
+        ]
+    }
+}

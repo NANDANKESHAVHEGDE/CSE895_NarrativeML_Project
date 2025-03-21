@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [car_1]?",
+        "answer": [
+            "The [car_1] is under the roof.",
+            "It is black.",
+            "It is day.",
+            "[car_1] is sitting on the ground.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the garden?",
+        "answer": [
+            "[person_1] is taking a bath.",
+            "[person_1] is showing that the fruit is so hard.",
+            "Because [person_1] is watering the plants.",
+            "Because [person_1] sees another person looking exactly like him in it.",
+            "Maybe [person_1] likes to play in the garden."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the barbell.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] will stop playing the flute.",
+            "[person_1] probably will ride the bike straight to the house.",
+            "[person_1] is going to water the plants."
+        ],
+        "reason": [
+            "[person_1] is going to try working faster.",
+            "[person_1] just shrugs to gain strength to raise the weights.",
+            "[person_1] has put the feet on the tree.",
+            "[person_1] is placing his finger on each button on the flute.",
+            "[person_1] is watering the plants."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will take off [person_1] from the workbench.",
+            "Dog would have to run on the road.",
+            "[person_1] will stop playing in the garden",
+            "[person_1] can not throw it into basket.",
+            "[person_1] will wake up."
+        ],
+        "reason": [
+            "Because [person_1] is outside and does not have any umbrella.",
+            "The road is very slippery so [person_1] can't skateboard.",
+            "[person_1] can't play baseball because of the rain.",
+            "[person_1] will get wet if it rains.",
+            "[person_1] will need to stay away from raining."
+        ]
+    }
+}

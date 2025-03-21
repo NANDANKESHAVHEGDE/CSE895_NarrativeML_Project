@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_1]?",
+        "answer": [
+            "It is behind the [chair_1].",
+            "[chair_1] is brown.",
+            "[chair_1] is white.",
+            "[chair_1] is on the ground.",
+            "[chair_1] and [chair_1] is at a musical event."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit between [person_2] and [person_3]?",
+        "answer": [
+            "[person_1] is trying to play the harmonica.",
+            "Because [person_2] is watering the plants.",
+            "The [person_1] expands the bellows to make the sound loudlier or softer.",
+            "[person_1] , [person_2] and [person_3] are performing with the trumpets.",
+            "Because [person_1] wants to look at the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do next?",
+        "answer": [
+            "[person_2] and [person_3] will continue to practicing the hula hoop.",
+            "[person_1] , [person_2] and [person_3] may dance for a while.",
+            "[person_1] and [person_2] will lie on [person_1] for a while.",
+            "[person_2] and [person_1] will hug each other longer.",
+            "[person_1] , [person_2] and [person_3] will continue blowing the trumpets."
+        ],
+        "reason": [
+            "[person_1] , [person_2] and [person_3] have not finished the performance yet.",
+            "[person_1] and [person_2] kept talking about the way to hoop better.",
+            "They are learning to bow now.",
+            "[person_2] and [person_3] are attracting people to watch.",
+            "[person_3] and [person_1] have been taught before."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not there?",
+        "answer": [
+            "[person_1] would stop video.",
+            "[person_1] would have to make another cake.",
+            "[person_2] may fall to the earth.",
+            "[person_2] and [person_3] would still perform.",
+            "[person_1] could not dance and quit the class."
+        ],
+        "reason": [
+            "[person_1] can stand on its own.",
+            "[person_1] put an apple that she picked up into the bag.",
+            "[person_1] has anything to stick the bricks.",
+            "[person_1] is a little girl.",
+            "[person_2] and [person_3] are enough for the performance."
+        ]
+    }
+}

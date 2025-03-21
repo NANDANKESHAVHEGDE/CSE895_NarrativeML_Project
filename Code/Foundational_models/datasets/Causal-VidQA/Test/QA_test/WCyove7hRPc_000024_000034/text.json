@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [suitcase_1]?",
+        "answer": [
+            "It is on the floor.",
+            "Yes , they are.",
+            "[suitcase_1] is in the corner of the room.",
+            "[suitcase_1] is sitting on it.",
+            "In [suitcase_1]'s hand."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the room bright?",
+        "answer": [
+            "[person_1] is playing music with the people around.",
+            "They are holding a party and really having fun.",
+            "[suitcase_1] lets the drill speedily rotate the apple while he is holding a peeler on the skin.",
+            "The room is illuminated by the outside light.",
+            "The [person_1] knows which treble keyboard needed to touch."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will deal with other cocos on the table in the same way.",
+            "[person_1] is likely to play the guitar to relax.",
+            "[person_1] will think about the next move.",
+            "[person_1] will use the printer to create other duplicates.",
+            "[person_1] is likely to stop playing the keyboard."
+        ],
+        "reason": [
+            "[person_1] is catching the toy in the green box.",
+            "[person_1] is sitting by the window.",
+            "Because [person_1]'s going to calculate today's payoff.",
+            "It is obvious that [person_1] is doing an TV program.",
+            "[person_1] is touching the shoe."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the window opens?",
+        "answer": [
+            "[person_1] will fall onto the ground.",
+            "Maybe the wind will blow through the window.",
+            "[person_1] will buy another piece of carpet.",
+            "He will feel happy.",
+            "[person_1] may not applaud."
+        ],
+        "reason": [
+            "The weather outside will probably be very nice.",
+            "[suitcase_1] will fall on the carpet where [suitcase_1] is cleaning.",
+            "The baby can be hungry after a while of playing.",
+            "To help lift the barrow.",
+            "There will be good cartoons on TV."
+        ]
+    }
+}

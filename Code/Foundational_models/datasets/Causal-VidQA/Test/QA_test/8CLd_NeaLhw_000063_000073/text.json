@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_1]?",
+        "answer": [
+            "[book_1] is placed on the table behind [book_1].",
+            "The [book_1] is on the hand of [book_1].",
+            "The shirt which [book_1] is given is pink.",
+            "[book_1] is in the back [book_1].",
+            "[book_1] is lying on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] unwrapping the present?",
+        "answer": [
+            "[person_1] and [person_2] are spinning the rope for [person_1].",
+            "Because the [person_1] wants to open the present.",
+            "Maybe [person_2] is working.",
+            "Because [person_1] wants to help [person_2].",
+            "[person_1] is trying something like clothes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep put the piece of plastic in his mouth.",
+            "[person_2] is going to push [person_2] into his chair.",
+            "[person_2] may walk toward [person_2].",
+            "[person_2] is going to to take [person_2] to the pile of flooring tiles.",
+            "[person_2] may open the rest of the box by herself."
+        ],
+        "reason": [
+            "[person_2] is curious why [person_1] is smiling.",
+            "[person_2] is hugging [person_1] tight.",
+            "When [person_1] takes the last piece of paper out the box , [person_2] grabs it right away.",
+            "[person_2] turns back and lifts his foot to walk.",
+            "The [person_2] looks in the direction where the [person_1] is going."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not open the gift for [person_2]?",
+        "answer": [
+            "[person_2] may do it herself.",
+            "[person_1] may have a toothache.",
+            "[person_1]'s health will not be good.",
+            "[person_2] will feel anxious.",
+            "the goats will eat from both people."
+        ],
+        "reason": [
+            "[person_1] and [person_2] have no reason to stay there.",
+            "[person_2] seems to enjoy watching [person_1] and [person_2] play.",
+            "When [person_1] tears the box , [person_2] also does it.",
+            "The fan is running above the [person_2].",
+            "Because [person_1] will be all wet and [person_1] could be sick."
+        ]
+    }
+}

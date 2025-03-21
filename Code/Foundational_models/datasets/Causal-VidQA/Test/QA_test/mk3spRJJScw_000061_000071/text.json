@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [motorcycle_1]?",
+        "answer": [
+            "[motorcycle_1] is next to [motorcycle_1].",
+            "The socket is rectangular.",
+            "[motorcycle_1] is behind [person_1].",
+            "[person_1] is sitting on [motorcycle_1].",
+            "It is on the right of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is opening present.",
+            "[person_1] is having a party.",
+            "Because [person_1] is reading a book.",
+            "Because [person_1] wants to play the violin in a quiet room.",
+            "[person_1] is doing the exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "He is going to enjoy the beer.",
+            "[person_1] may continue to tickle [person_1].",
+            "[person_1] is going to stand still.",
+            "[person_1] is going to continue trying to whistle.",
+            "[person_1] is going to do workout."
+        ],
+        "reason": [
+            "[person_1] is stills a baby so [person_1] loves gifts.",
+            "[person_1] holds the button in his hands.",
+            "Maybe [person_1] likes to play it.",
+            "Because [person_1] is reaching out the hand.",
+            "[person_1] looks so tall and professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels tired?",
+        "answer": [
+            "[person_1] will play better.",
+            "[person_1] may taste a bit.",
+            "[person_1] will get drunk.",
+            "[person_1] will drive [person_1].",
+            "[person_1] may stop practicing."
+        ],
+        "reason": [
+            "[person_1] will be very painful when burned.",
+            "[person_1] will feel better and keep playing.",
+            "[person_1] will stop playing harp.",
+            "[person_1] will drop two dumbbells on the ground.",
+            "[person_1] will need a quick nap."
+        ]
+    }
+}

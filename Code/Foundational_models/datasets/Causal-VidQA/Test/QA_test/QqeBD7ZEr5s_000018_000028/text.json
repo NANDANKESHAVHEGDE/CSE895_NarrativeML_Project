@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] ?",
+        "answer": [
+            "[book_1] is outside behind [book_1].",
+            "[book_1] is on the bed.",
+            "[book_1] is behind the [book_1].",
+            "[book_1] is on the bookshelf.",
+            "The couple put their diamonds in it."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear shoes ?",
+        "answer": [
+            "It is a part of his outfit.",
+            "[person_1] is sitting on a very high chair , so [person_1] has to stand to clean the shoes easily.",
+            "He is a baby.",
+            "[person_1] wears shoes to run faster.",
+            "With a hat and some branches."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1]'s going to repair the tire with other tools.",
+            "[person_1] will use the printer to create other duplicates.",
+            "[person_1] will probably go on strumming.",
+            "[person_1] will have a rest.",
+            "[person_1] will let the maracas down."
+        ],
+        "reason": [
+            "[person_1] may stop for a minute.",
+            "[person_1] is riding fast.",
+            "[person_1] is playing harp.",
+            "[person_1] has just finished the game.",
+            "[person_1] will feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [book_1] falls ?",
+        "answer": [
+            "The audience could not listen the sound of the harmonica.",
+            "[book_1] may stop eating.",
+            "[book_1] won't be able to guide people forward.",
+            "[book_1] would get a low score.",
+            "[book_1] will make a noise."
+        ],
+        "reason": [
+            "Because if [book_1] is broken , [person_1] can't ride [book_1].",
+            "[person_1] will be startled.",
+            "[person_1] needs to fix [person_1].",
+            "Because the printer runs on electricity.",
+            "[book_1] stands very close to [book_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [vase_1]?",
+        "answer": [
+            "[vase_1] is on the floor , between the [vase_1] and [vase_1].",
+            "[vase_1] is black.",
+            "[vase_1] is opposite to the picture.",
+            "[vase_1] is on the table behind [vase_1].",
+            "The [vase_1] is in the right of the [vase_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting in the dining room?",
+        "answer": [
+            "[person_1] is playing with his flute.",
+            "[person_1] and [person_2] are waiting for a meal.",
+            "[person_1] is smoking.",
+            "[person_1] is really into getting involved in an activity with another person.",
+            "[person_1] is opening her Christmas presents."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is reading the book for [person_2].",
+            "[person_1] is going to stand up straight.",
+            "[person_1] will keep working until it finishes."
+        ],
+        "reason": [
+            "[person_1] fell under the bed.",
+            "[person_1] has not turned down the water.",
+            "[person_1] is leaning forward to take the camera.",
+            "[person_1] is a coach.",
+            "[person_1] is pointing in the book's pictures."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone brings the meal to?",
+        "answer": [
+            "[person_1] and [person_2] may not go to find a new bandage to bind up again.",
+            "They may leave.",
+            "[person_1] and [person_2] will enjoy it.",
+            "Maybe they will shout.",
+            "It will be tasted bad."
+        ],
+        "reason": [
+            "Because they could not tell if [person_1] is using the correct sign language or not.",
+            "[person_1] and [person_2] are in the dining room.",
+            " \b Because if the light is off , the room will be dark and [person_1] and [person_2] can't sword fighting.",
+            "[person_1] and [person_2] are just practicing how to bandage . [person_2] didn't get injured.",
+            "The [person_1] put the hand into the mouth of the [person_2]."
+        ]
+    }
+}

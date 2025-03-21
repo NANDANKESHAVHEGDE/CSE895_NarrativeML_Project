@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] standing on?",
+        "answer": [
+            "The fire is in the middle of place.",
+            "[person_1] is standing on a Taekwondo mat.",
+            "the [person_1] is ridden by the [person_1].",
+            "[person_1] is in the bathroom.",
+            "The bookshelf is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] jumping?",
+        "answer": [
+            "[person_1] is playing with [person_1].",
+            "[person_1] wants to make the basket beautifully.",
+            "[person_1] is short sighted.",
+            "[person_1] is performing martial arts.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] may rest on the rocking chair next to [person_1] for a while.",
+            "[person_1] will continue celebrating with friends.",
+            "[person_1] will continue practicing martial arts.",
+            "[person_1] will continue jumping."
+        ],
+        "reason": [
+            "After [person_2] instructs [person_1] to play the piano , [person_1] touches the keyboard.",
+            "Because [person_2] and other person is still seeing what [person_1] is doing.",
+            "Because there's a car next to [person_1] and the bucket is in the car.",
+            "Because [person_1] hasn't finished yet , and [person_1] shakes his head to show that it's delicious.",
+            "[person_1] looks very happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] slipped?",
+        "answer": [
+            "[person_1] would feel very sad.",
+            "[person_1] will jump off the horse.",
+            "[person_1] will hold on and stop the machine.",
+            "The [person_1] will provide people how to play accordion properly.",
+            "[person_1] would stop reading and turn around to pick up [person_1] to return it to its shelves."
+        ],
+        "reason": [
+            "Because there are several buckets there.",
+            "Pianos play important role in a regular band.",
+            "[person_1] performed in front of a lot of people.",
+            "[person_1] is not wearing protective gear , and not every kick he can dodge.",
+            "[person_1] would have to do all the works manually."
+        ]
+    }
+}

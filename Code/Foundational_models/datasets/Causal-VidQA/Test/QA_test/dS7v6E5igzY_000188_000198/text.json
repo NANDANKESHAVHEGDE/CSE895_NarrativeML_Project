@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] ?",
+        "answer": [
+            "[chair_1] is behind the boy.",
+            "[chair_1] is next to the wall.",
+            "[chair_1] is near the woman.",
+            "It is in front of the wall.",
+            "It is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "How is the room ?",
+        "answer": [
+            "[chair_1] got a gift.",
+            "[person_1] does not succeed in the game.",
+            "[person_2] is tickling him.",
+            "They are playing games.",
+            "The room is very clean."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will pick up the hoop.",
+            "[person_1] will continue sitting on the floor.",
+            "[person_1] will activate the printer.",
+            "[person_1] will put a ring on [person_1].",
+            "[person_1] will cut the hair on the back of [person_1]'s head."
+        ],
+        "reason": [
+            "Because [person_1] has reached out [person_1]'s hands.",
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "Because when the dish is cooked , it needs to be put on a plate.",
+            "[person_1] is a service , who cannot join in the customers.",
+            "[person_1] is sitting and reading book."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] go out ?",
+        "answer": [
+            "[person_1] will go out.",
+            "[person_1] may taste beer straight from the [person_2].",
+            "It is possible that [person_1] will experience dizziness.",
+            "[person_1] can participate in cricket competitions.",
+            "[person_1] will be afraid."
+        ],
+        "reason": [
+            "because [person_2] , [person_2] and [person_2] need [person_1] to finish the historical reenactment.",
+            "Because of [person_1]'s short stature , [person_1] can't easily control the balance and weight of barbells.",
+            "[person_1] will play alone.",
+            "[person_2] looks confident.",
+            "Two people jump in together is easy to fall and step foot on the rope especially when jumping with 2 ropes."
+        ]
+    }
+}

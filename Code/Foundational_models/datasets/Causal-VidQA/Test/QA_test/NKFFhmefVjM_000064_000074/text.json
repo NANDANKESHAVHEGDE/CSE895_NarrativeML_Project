@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is looking at her leg after waxing.",
+            "[person_1] is slamming a tire.",
+            "[person_1] is opening a carton box.",
+            "[person_1] is stripping an apple.",
+            "[person_1] is opening the box of a gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a groove on the tire?",
+        "answer": [
+            "[person_1] is holding a stick to be balanced.",
+            "[person_1] is squeezing grape juice.",
+            "The tire has been struck by the sledgehammer for long time at that groove.",
+            "To make the snowman more beautiful.",
+            "The hand of [person_1] is supporting the back of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the tire is destroyed?",
+        "answer": [
+            "Maybe the man opposite [person_1] is a doctor.",
+            "[person_1] will go to the toilet.",
+            "[person_1] will look for another tire.",
+            "The man in gray may go somewhere else.",
+            "The child on the right will pick up the ball."
+        ],
+        "reason": [
+            "Giving gifts is a birthday tradition.",
+            "The broken tire cannot be used anymore.",
+            "[person_1] will be sick.",
+            "They want to perform for the people outside.",
+            "Because it is its usage."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the tire was huge and thick?",
+        "answer": [
+            "They may just pick it up immediately.",
+            "It would not be so hard to leave a groove on it.",
+            "[person_1] would quickly try to catch his falling glasses before they hit the floor and break , causing him to get distracted.",
+            "It would not be so easy to leave a groove on it.",
+            "Then maybe the hand of [person_1] won't be hurt."
+        ],
+        "reason": [
+            "Huge and thick tire is stout and firm.",
+            "The ball might hit that person.",
+            "Huge and thick tire is feeble and firm.",
+            "Because it is dangerous to ride without light.",
+            "[person_1] jumped over the crossbar."
+        ]
+    }
+}

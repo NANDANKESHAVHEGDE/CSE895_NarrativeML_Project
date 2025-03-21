@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cat_1]?",
+        "answer": [
+            "The [person_1] is between the bed and the door.",
+            "[person_2] is directly in front of [person_1].",
+            "[person_1] is on the table.",
+            "The [person_1] is in a blueberry farm.",
+            "[cat_1] is between [person_1] and [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "Because there are people watching.",
+            "[person_1] is happy.",
+            "[person_1] is stacking the cups on the table.",
+            "Maybe the weather is so hot.",
+            "[person_1] is training his skill."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_2] intends to keep shaking the glass bottle.",
+            "[person_2] intends to play piano in the next meeting at church.",
+            "[person_2] intends to rip the paper.",
+            "[person_2] intends to wear the shoes.",
+            "[person_2] intends to continue polishing shoes."
+        ],
+        "reason": [
+            "[person_2] is staring at [person_2].",
+            "Maybe [person_2] has finished using it.",
+            "[person_2] looks very interested and wants to try folding clothes . [person_2] doesn't fold clothes.",
+            "Maybe [person_2] is practicing ballet moves.",
+            "[person_2] is holding the paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "Maybe [person_1] will stop watering.",
+            "[person_1] will be scared.",
+            "[person_1] maybe stop working.",
+            "[person_1] maybe stop painting.",
+            "[person_1] maybe stop playing."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The room will be dark.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

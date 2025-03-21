@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "The [person_1] is rolling around.",
+            "The [person_1] is drinking water.",
+            "[person_1] is wearing a black shirt.",
+            "The shirt is white.",
+            "The t - shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the trimmer?",
+        "answer": [
+            "[person_1] is helping [person_1] swing on it.",
+            "[person_1] wants to keep balance.",
+            "[person_1] is shaving.",
+            "[person_1] is playing electric bass guitar.",
+            "[person_1] is playing music with the people around."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read another page.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to sleep."
+        ],
+        "reason": [
+            "[person_1] has not finished his talking.",
+            "[person_1] is keeping still.",
+            "[person_1] is preparing to turn another somersault.",
+            "[person_1] can climb into [bed_1] and sleep after shaving.",
+            "[person_1] has turned away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the trimmer are dropped to the ground ? ?",
+        "answer": [
+            "The trimmer will be damaged.",
+            "The carpet might be cleaned manually.",
+            "That player might be severely injured.",
+            "[bed_1] might have a fall.",
+            "The objective lens will not be wiped clean."
+        ],
+        "reason": [
+            "If players cannot keep balanced when hover boarding , they cannot stand on the skateboard.",
+            "Because [person_1] and [person_1] need to shelter from the rain.",
+            "Because [person_1] is showing how to peel a banana.",
+            "Fresh coco is hard and difficult to open.",
+            "Things like it are fragile if [person_1] drop it."
+        ]
+    }
+}

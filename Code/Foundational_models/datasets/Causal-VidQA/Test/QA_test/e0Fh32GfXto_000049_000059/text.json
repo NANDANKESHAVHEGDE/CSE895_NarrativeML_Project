@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s hair?",
+        "answer": [
+            "It is black.",
+            "No.",
+            "The [person_1] is on the [person_1].",
+            "It is a hat.",
+            "[person_1] is using the left hand to hold the cigarette."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] on the street?",
+        "answer": [
+            "[person_1] is old.",
+            "[person_1] is performing in public.",
+            "Glasses are [person_1] inseparables.",
+            "[person_1] is going to train to change body.",
+            "Because he never rides it before."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will ask for help.",
+            "[person_1] will then take out a camera.",
+            "[person_1] will keep on playing until the end of his performance.",
+            "[person_1] will continue to stand on a chair to plaster the wall.",
+            "She will continue to follow the teacher's steps."
+        ],
+        "reason": [
+            "[person_1] stops shaking.",
+            "[person_1] is running towards one of his teammates.",
+            "To see if any of the walls haven't been painted.",
+            "[person_1] is in the middle of his performance.",
+            "[person_1] has gone in the opposite direction."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] played the drums too bad?",
+        "answer": [
+            "The [person_1] would lose balance.",
+            "[person_1] would not attract any listener.",
+            "The vegetable will fall over the place.",
+            "[person_1] would attract any listener.",
+            "The [person_1] will not meet difficulty in carrying accordion."
+        ],
+        "reason": [
+            "No one wants to enjoy bland and dull music.",
+            "[person_1] can't see anything and can't record video.",
+            "Everyone wants to enjoy bland and dull music.",
+            "Because she can't believe that would happen.",
+            "No one wants to hate bland and dull music."
+        ]
+    }
+}

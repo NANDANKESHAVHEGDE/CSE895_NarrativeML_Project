@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the hat which [person_1] is wearing?",
+        "answer": [
+            "It is on the plastic basket.",
+            "[person_1] is on the right corner of the table.",
+            "It's next to the [person_1].",
+            "It is brown.",
+            "The hat is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing behind the gong?",
+        "answer": [
+            "Because [person_1] is ready to play the gong.",
+            "Because [person_1] is taking a bath.",
+            "[person_1] wanna show the results after waxing the legs of [person_1].",
+            "[person_1] is explaining how to tie a necktie properly.",
+            "[person_1] prepares to do something with the spray."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to start playing the gong.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] plays again.",
+            "[person_1] will get more cards",
+            "[person_1] is going to put the plate away."
+        ],
+        "reason": [
+            "[person_1] is a professional.",
+            "According to the rules of baseball , [person_1] will score a run - home after hitting the ball outs of the field , so he can freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is standing in front of the gong.",
+            "[person_1] is lifting weights.",
+            "[person_1] put the tool in her hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if there is no a gong stick?",
+        "answer": [
+            "The mirror would break.",
+            "It is possible that [person_1] will fall and cry.",
+            "[person_1] will drink.",
+            "[person_1] will have to get one.",
+            "The accordion of [person_1] will produce sound."
+        ],
+        "reason": [
+            "She needs a break to recover her energy.",
+            "[person_1] can't play the gong with bare hands.",
+            "Because the part of the mixing tool that comes into contact with the hand can produce bacteria.",
+            "[person_1] won't squeeze a dirty orange.",
+            "[person_1] seems to be struggling cutting cauliflower so she could end up cutting [person_1] on accident."
+        ]
+    }
+}

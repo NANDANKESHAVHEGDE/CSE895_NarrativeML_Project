@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is in the outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is doing exercises to improve his health.",
+            "[person_1] has to listen to music to sync his drumbeats accurately.",
+            "[person_1] is looking a beautiful space.",
+            "[person_1] is stacking cups.",
+            "[person_1] is spraying a painting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to proceed to spray all the ceiling.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to lean his body.",
+            "[person_1] is going to land on the sand pit.",
+            "[person_1] is going to record a video about herself."
+        ],
+        "reason": [
+            "There is only one square on the course to put one foot in.",
+            "[person_1] is having his turn next.",
+            "[person_1] just has started his work.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] keeps doing exercises."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is exhausted?",
+        "answer": [
+            "[person_1] will saw wood difficultly.",
+            "[person_1] won't be able to wear it.",
+            "It is possible that [person_1] will stop practicing.",
+            "[person_1] may close the lights.",
+            "[person_1] may put the sports equipment on the floor."
+        ],
+        "reason": [
+            "The darts is sharp.",
+            "Because of [person_1]'s short stature , [person_1] can't easily control the balance and weight of barbells.",
+            "[person_1] makes a lot of effort to do workout.",
+            "To have a break.",
+            "There is a glass of water next to the plate of noodle."
+        ]
+    }
+}

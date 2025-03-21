@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [person_2]?",
+        "answer": [
+            "Because [person_1] is going to have a massage.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is playing the gong for fun.",
+            "[person_1] wants to make sure that [person_2] won't fall.",
+            "[person_1] is excited about playing in the playground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cross the street.",
+            "[person_1] will read another book.",
+            "[person_1] will leave.",
+            "[person_1] is going to keep watching what [person_2] is doing?",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is looking non - stop at [person_2].",
+            "[person_1] is holding the chess piece.",
+            "[person_1] has turned away.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "[person_1] would not be able to use the drums.",
+            "[person_1] would not use drums to play.",
+            "[person_1] would not be able to play drums.",
+            "[person_1] would not perform.",
+            "[person_2] would not play drums."
+        ],
+        "reason": [
+            "There would only be [person_1] and [person_1] in the room.",
+            "Because [person_1] is short - sighted . ",
+            "There would be some people in the room to stick the wallpaper.",
+            "[person_1] would not be able to sit without holding the body.",
+            "There would be fewer things to see in the room."
+        ]
+    }
+}

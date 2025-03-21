@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_3] is round ball.",
+            "[car_1] is directly in front of [car_3].",
+            "[car_3] is on the table which behind [car_3].",
+            "The [car_3] is in the [car_3]'s hand.",
+            "The [car_1] is in front of the [car_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [car_1] stop?",
+        "answer": [
+            "Because [car_1] wants to open the present easily.",
+            "Because there are many cars passing in front of [car_1].",
+            "[car_1] is playing the accordion.",
+            "Maybe [car_1] likes to smoke.",
+            "Because [car_1] wants to use the friction between them to open the cap."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] also grinds the stone next.",
+            "[person_1] is going to continue to shovel plaster to the machine until it is enough.",
+            "[person_1] is going to meet friends.",
+            "[person_1] will open the box.",
+            "[person_1] is going to have to stop."
+        ],
+        "reason": [
+            "Because [car_1] stops.",
+            "[person_1] needs to practice many times.",
+            "[person_1] is performing.",
+            "[person_1] wants to score.",
+            "The machine needs enough plaster to run."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't stop?",
+        "answer": [
+            "The [person_1] will fall on [person_1]'s head.",
+            "[person_1] will go to the stores which sell foods.",
+            "[person_1] will not play snow kitting.",
+            "[person_1] will open the [car_1] on.",
+            "[car_3] will come into collision with [car_1]."
+        ],
+        "reason": [
+            "[person_1] aims to lose weight.",
+            "[person_1] would master this type of dancing.",
+            "[person_1] doesn't work , so the [car_1] can't be published.",
+            "Because [car_1] is in front of [car_3].",
+            "Without a desirable place to rest , [person_1] is likely to get injured again."
+        ]
+    }
+}

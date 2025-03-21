@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening a champagne bottle.",
+            "[person_1] is practicing with the accordion.",
+            "[person_1] is having an interview.",
+            "[person_1] is playing a drum.",
+            "[person_1] is reading newspaper on the sofa."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a stick?",
+        "answer": [
+            "He wants to ride better.",
+            "That stick is an essential field hockey equipment.",
+            "He want to play better.",
+            "[person_1] is focusing on the work.",
+            "To finish her exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after the interview?",
+        "answer": [
+            "[person_1] would play field hockey.",
+            "[person_1] will continue playing the game.",
+            "[person_1] tends to keep shaking the fist.",
+            "[person_1] will be taken home.",
+            "[person_1] may have a rest."
+        ],
+        "reason": [
+            "Because [person_1] is still going to walk towards [person_1] and reaches for her hand.",
+            "[person_1] is currently in a hockey field.",
+            "[person_1] plays so hard and very tired.",
+            "The vehicle is running to that direction.",
+            "[person_1] doesn't stop moving the fist."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the weather got colder?",
+        "answer": [
+            "They have to suspend the dance.",
+            "[person_1] will stop combing [person_1].",
+            "The [person_1] might fall to the snow.",
+            "Then they may be drunk.",
+            "They might have to wear warm clothes to keep on playing."
+        ],
+        "reason": [
+            "Because the turntable will stop working when the power goes out.",
+            "The printer runs with the power.",
+            "There is a lock on the door of the fence so that all the children are kept inside.",
+            "Because it's too dark at night without electricity.",
+            "The cold would prevent them from playing at their full potential."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where's the baby carriage?",
+        "answer": [
+            "[person_1] is hung on the wall.",
+            "It is hanging on the wall.",
+            "It's on the side of the road.",
+            "The [person_1] is beside the tree , between [person_1] and [person_1].",
+            "[person_2] is holding a clarinet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why there's a bottle of bubble water on the ground?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "Because [person_1] is looking to saw a piece of wood.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] wants to ski safely.",
+            "[person_1] and [person_2] will use it to make bubbles."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may not eat the egg.",
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] may keep working.",
+            "[person_1] is going to make some bubbles.",
+            "[person_1] may walk out."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is paying attention to other things.",
+            "Because [person_1] sees that [person_2] has succeeded in making bubbles.",
+            "The egg is not cooked yet.",
+            "[person_1] is enjoying playing flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] knocked the bottle on the ground over?",
+        "answer": [
+            "[person_2] will not cry.",
+            "The birds will not come to [person_1].",
+            "[person_2] will laugh.",
+            "[person_2] might continue brushing his teeth.",
+            "[person_2] will cry."
+        ],
+        "reason": [
+            "[person_1] wants to his ironing to be more challenging.",
+            "Because there is bubble water left.",
+            "Grape juice will come out.",
+            "Because there is no bubble water left.",
+            "Because the machine's usage is cutting."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] singing?",
+        "answer": [
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is doing [person_1] makeup.",
+            "[person_1] is singing for fun.",
+            "[person_1] takes the lighter to light the smoking pipe first.",
+            "[person_1] is waxing back in a salon."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play the guitar.",
+            "[person_1] won't sit in [person_1] and still stands.",
+            "[person_1] is about to play the glass ball in his hand.",
+            "[person_1] is going to collect all the cardboard and throw into the [person_1].",
+            "Maybe [person_1] is going to stop to eat."
+        ],
+        "reason": [
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "There are three guitars on the cabinet.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] used the tape on the table.",
+            "[person_1] of face is very satisfied."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] play the guitar?",
+        "answer": [
+            "[person_1] will play very well.",
+            "[person_1] will use the hair dryer to make her hair looks curly again.",
+            "[person_1] will play very bad.",
+            "[person_1] will pick the camera up.",
+            "[person_1] won't play very well."
+        ],
+        "reason": [
+            "Maybe [person_1] won't sing a song.",
+            "Maybe [person_1] is nearsighted.",
+            "Maybe [person_1] will sing a song.",
+            "When [person_1] plays with [person_1] , he smiles happily.",
+            "Maybe [person_1] will play a dance."
+        ]
+    }
+}

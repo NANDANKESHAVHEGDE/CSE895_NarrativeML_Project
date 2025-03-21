@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the chair?",
+        "answer": [
+            "[person_1] is outside , on the right of [person_1].",
+            "The chair is red.",
+            "The ladder is white.",
+            "It's white.",
+            "The house is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "The jazz drum set is used to play drums in the studio.",
+            "[person_1] and [person_2] are just starting to play chess.",
+            "[person_1] is filming a kind of video.",
+            "[person_2] also wants to play the keyboard.",
+            "[person_2] prepares to discover the gifts."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will start playing chess.",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] will continue celebrating with friends.",
+            "[person_1] will begin to dance.",
+            "[person_1] will put her arms on the [person_1]'s left thigh."
+        ],
+        "reason": [
+            "There are many wine bottles on the table.",
+            "Because the paint on the paint roller dries out.",
+            "[person_1] pushed the wheelbarrow and then stopped.",
+            "[person_1] must practice more and more.",
+            "[person_1] must feel sore of his waist."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not want to play with [person_2]?",
+        "answer": [
+            "[person_2] would accelerate his movement.",
+            "[person_1] would not smile.",
+            "[person_2] will be sad.",
+            "[person_1] may be a little upset.",
+            "[person_1] will be painful."
+        ],
+        "reason": [
+            "[person_1] is tied with [person_2].",
+            "Maybe [person_1] go out.",
+            "Because the soles of shoes of people would become dirty.",
+            "Because [person_2] just hit hard so the strength of hard hitting will make [person_1] feel pain.",
+            "Because [person_1] has already given [person_2] a biscuit , [person_2] will cry if [person_1] gives [person_2] this too."
+        ]
+    }
+}

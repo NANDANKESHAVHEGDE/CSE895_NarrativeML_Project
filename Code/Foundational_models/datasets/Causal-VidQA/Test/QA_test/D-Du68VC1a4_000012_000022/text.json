@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is the T - shirt [person_1] wearing?",
+        "answer": [
+            "It is red.",
+            "It is green.",
+            "It is very big with many strings.",
+            "It is blue.",
+            "It's next to the tree."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the shoe?",
+        "answer": [
+            "Maybe [person_1] got that gift from [person_1].",
+            "[person_1] is practicing the riding unicycle outside.",
+            "[person_1] is wearing the shoe.",
+            "[person_1] is doing it for fun.",
+            "Because [person_1] is playing an accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to come back home.",
+            "[person_1] is going to go out.",
+            "[person_1] is going to toast coffee."
+        ],
+        "reason": [
+            "[person_1] is leaning to the left.",
+            "[person_1] stands and goes far from the chair.",
+            "[person_1] is landing on the street.",
+            "[person_1] likes sledding.",
+            "[person_1] has not finished her pumpkin."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "The room would be noise.",
+            "The camera could film his nose.",
+            "The room would be quiet.",
+            "[person_1] might be ill.",
+            "The room would not be quiet."
+        ],
+        "reason": [
+            "There would only be [person_1] moving away?",
+            "The paper airplane does not work anymore so [person_1] needs to fold again.",
+            "There would be many person other than [person_1] moving there?",
+            "[person_1] can't eat the banana with its skin.",
+            "There would only be [person_1] moving there?"
+        ]
+    }
+}

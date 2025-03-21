@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It is cold and snowy.",
+            "It is beautiful sunny day.",
+            "[person_1] is next to [person_1].",
+            "[person_2] is standing under an umbrella.",
+            "It is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] outside?",
+        "answer": [
+            "Because [person_1] sees the bubbles.",
+            "Maybe [person_1] and [person_2] are practicing the army salute.",
+            "Because [person_1] is looking to saw a piece of wood.",
+            "[person_2] is teaching [person_1] to play chess.",
+            "They want to make grape wine."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to post this video on social media.",
+            "[person_2] is going to buy foods.",
+            "[person_2] is going to keep teaching.",
+            "[person_2] is going to lead the cows to graze.",
+            "[person_2] is going to teach her son how to play chess."
+        ],
+        "reason": [
+            "[person_2] has not finished her action.",
+            "[person_2] thinks dancing is funny.",
+            "[person_2] is going to have a new set of hair.",
+            "[person_2] keeps his head down and bends forward.",
+            "[person_2] is very enthusiastic."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "[person_1] will hold [person_1].",
+            "[person_1] will not hurt.",
+            "[person_1] will cry.",
+            "[person_1] will hold [person_1].",
+            "[person_1] will help [person_1] to get up."
+        ],
+        "reason": [
+            "Because [person_1] is next to [person_1].",
+            "Because [person_1] is stand next to [person_1].",
+            "[person_1] and [person_1] dance together.",
+            "Because [person_1] is sliding really fast.",
+            "Perhap [person_1] stop playing."
+        ]
+    }
+}

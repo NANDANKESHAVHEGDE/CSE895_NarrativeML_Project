@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is [person_1]?",
+        "answer": [
+            "She is in school.",
+            "[person_1] is a surveyor.",
+            "[person_1] is in the martial arts studio.",
+            "[person_1] is the man who is wearing a floral T - shirt .",
+            "[person_1] is at the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1] getting out of the room?",
+        "answer": [
+            "[person_1] is moving through the crowd by roller skates.",
+            "[person_1] is recording the video.",
+            "[person_1] is wearing makeup.",
+            "She dropped the food and stick in the fire.",
+            "[person_1] is eating."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to give orders to the others.",
+            "[person_3] is going to close the mouth.",
+            "[person_3] is going to see the girl walking through.",
+            "[person_3] is going to watch the snake attentively.",
+            "[person_3] is going to leave."
+        ],
+        "reason": [
+            "[person_3] jumped over the crossbar.",
+            "Maybe [person_3] is teaching the students.",
+            "[person_3] moves from the area having canopy ahead to the other side that does not have any canopy.",
+            "[person_3] is going to dance like [person_3].",
+            "Because [person_3] seems so happy and enjoying the dance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is turned off while [person_1] is skating?",
+        "answer": [
+            "[person_1] will stop playing lute.",
+            "Also braid.",
+            "[person_1] will call back later.",
+            "[person_1] could not perform well.",
+            "There may be an accident between [person_1] and [person_3]."
+        ],
+        "reason": [
+            "[person_1] is right besides [person_1] when [person_1] is dancing at the right.",
+            "Because [person_1] would detest the idea of tying a bow tie on his neck.",
+            "[person_1] stepped ahead to decrease the length from [person_1] to the archery target board.",
+            "Because this is a talk show that can not be interrupted , [person_1] and [person_3] must lend a hand.",
+            "[person_1] is in front of [person_3] . When it is dark , [person_3] may not see anything and hit [person_1]."
+        ]
+    }
+}

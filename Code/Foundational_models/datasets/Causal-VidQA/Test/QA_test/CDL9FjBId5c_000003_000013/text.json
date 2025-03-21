@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there only one person?",
+        "answer": [
+            "It is made of glass.",
+            "No.",
+            "The bookshelf is behind [person_1].",
+            "Yes.",
+            "A bag."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] change gesture?",
+        "answer": [
+            "For better exercise.",
+            "[person_1] is scared of the firework explosion.",
+            "Because the whether is very hot.",
+            "[person_1] has to take care of [person_1].",
+            "Maybe because [person_1] is talking about the rules in playing badminton."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after this set of exercise?",
+        "answer": [
+            "Turn left or right.",
+            "[person_1] will run as fast as possible.",
+            "[person_1] will visit the forest slowly on the mule.",
+            "[person_1] will have a rest.",
+            "[person_1] will participate in the training session."
+        ],
+        "reason": [
+            "[person_1] seems to be on a competition.",
+            "[person_1] will be tired.",
+            "Because there are many cabinet installation materials on the ground.",
+            "It is good for his smell.",
+            "No one will lie on the ground for a long time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop stomping.",
+            "[person_1] maybe afraid",
+            "[person_1] will be stop talking.",
+            "[person_1] will do other exercise by herself.",
+            "[person_1] won't be happy."
+        ],
+        "reason": [
+            "The room has no light and people will not be able to see.",
+            "[person_1] wants to keep fit.",
+            "[person_1] will be following the sound of the flute.",
+            "[person_1] can not cook without power.",
+            "[person_1] can not see clear , it is dark without light."
+        ]
+    }
+}

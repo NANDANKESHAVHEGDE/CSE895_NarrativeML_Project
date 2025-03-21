@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in wood workshop.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in his bedroom.",
+            "[person_1] is in a small library.",
+            "[person_1] is near the lake."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [bed_1] ?",
+        "answer": [
+            "[person_1] is excited about his action.",
+            "They are holding a party and really having fun.",
+            "[person_1] is playing with his caretaker.",
+            "[person_1] is making a tutorial video.",
+            "The [person_1] knows which treble keyboard needed to touch."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to find his toys.",
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to stand again."
+        ],
+        "reason": [
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] still hasn't got any toys in his hands.",
+            "[person_1] is going to feel tired.",
+            "[person_1] gave a loud , silly laugh.",
+            "Because the blue is skying at night."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels sleepy?",
+        "answer": [
+            "[person_1] will not use the cup to play and drink water.",
+            "[person_1] will go to the market.",
+            "[person_1] will be startled.",
+            "[person_1] will sleep.",
+            "[person_1] will go to the toilet."
+        ],
+        "reason": [
+            "Because if [person_1] does not use the [person_1] , the paints can splash on the [person_1].",
+            "Because [bed_1] is on [person_1]'s left.",
+            "[person_1] cannot absorb the next dish.",
+            "The cup is not in the hands of [person_1].",
+            "[person_1] is already in [bed_1]."
+        ]
+    }
+}

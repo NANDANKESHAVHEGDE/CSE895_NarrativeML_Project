@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [sports ball_1]?",
+        "answer": [
+            "[sports ball_1] is using the slipper.",
+            "the [sports ball_1] is on the mattress.",
+            "[sports ball_1] is behind the [sports ball_1].",
+            "[sports ball_1] is round ball.",
+            "[sports ball_1] is on the table which behind [sports ball_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "Maybe [person_1] is a mother and [person_1] is playing ball with [person_2] is her son.",
+            "Because [person_2] is playing maracas.",
+            "Because the [person_1] wants to get off.",
+            "Because [person_1] wants to remove the apple core out of the handheld peeler.",
+            "Because [person_1] wants to find something on the ground."
+        ]
+    },
+    "predictive": {
+        "question": "What do [person_1] and [person_2] intend to do?",
+        "answer": [
+            "The cup might fall on the ground.",
+            "The [person_2] is going to continue to carry the [person_1].",
+            "The [person_1] will teach the [person_2] how to wash the clothes.",
+            "[person_1] and [person_2] are likely to playing ball together.",
+            "[person_1] will stay quiet and be touched by [person_1]'s master."
+        ],
+        "reason": [
+            "[person_1] kicked the ball towards [person_2] and [person_2] ran.",
+            "It can be seen from the video that the [person_2] enjoys the owner's touch and likes the owner very much.",
+            "The cameraman turns the camera to the right and slowly downwards.",
+            "[person_1] jumps according to the plots drawn on the ground.",
+            "[person_1] is the referee."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] play outside for too long?",
+        "answer": [
+            "[person_1] will scream for help.",
+            "The goat may run away from [person_1].",
+            "It may last for a while.",
+            "Perhaps the performance will be stopped.",
+            "It is probable that [person_1] and [person_2] will have a headache."
+        ],
+        "reason": [
+            "It's very sunny.",
+            "It was very cold and there were thin layers of ice on the water.",
+            "[person_1] very light and not dangerous.",
+            "It was very cold and snowy.",
+            "[person_2] was reporting."
+        ]
+    }
+}

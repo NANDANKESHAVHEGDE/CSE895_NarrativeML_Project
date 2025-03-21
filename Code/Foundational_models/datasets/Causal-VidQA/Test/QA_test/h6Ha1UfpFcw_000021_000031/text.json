@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is [person_1] with?",
+        "answer": [
+            "[person_1] is sitting on a chair.",
+            "[person_1] is with [person_2].",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is a cute boy.",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the faucet in her hand?",
+        "answer": [
+            "[person_1] raises the feet to jump with both hands.",
+            "[person_1] is playing guitar.",
+            "[person_1] strikes the two cocos against each other violently.",
+            "[person_1] is splashing water at [person_2].",
+            "Because [person_2] wants to make his performance impressive and attractive."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to find a place to sit down.",
+            "[person_2] is going to take the faucet from [person_1].",
+            "[person_2] may stand up and clap his hand.",
+            "Add things on [person_2] to [person_2].",
+            "[person_2] is going to stop the rehearsal."
+        ],
+        "reason": [
+            "[person_2] is seeing the performances o \u200a f two girls and going to clap her hand to cheer for those two.",
+            "[person_2] lowered his hand and  touched the faucet",
+            "[person_2] is standing in the start position , picking up the marker , waiting for [person_2] to finish his jump.",
+            "[person_2] turns her face to the other side.",
+            "[person_2] is talking with his friends."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the faucet ran out of water?",
+        "answer": [
+            "[person_2] would be soaked.",
+            "[person_2] and [person_2] will stand at the point of departure.",
+            "[person_2] would not be soaked.",
+            "[person_2] can't set bricks in perfectly straight rows.",
+            "[person_2] would not be dry."
+        ],
+        "reason": [
+            "[person_2]'s shirt was soaked because of water splash.",
+            "Those hand gestures could be obscured by the [person_2]'s body.",
+            "[person_2]'s coat was soaked because of water splash.",
+            "Because excess is bad for people's health.",
+            "[person_2]'s shirt was dry because of water splash."
+        ]
+    }
+}

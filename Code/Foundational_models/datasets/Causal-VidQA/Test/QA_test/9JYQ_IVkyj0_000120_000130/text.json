@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the environment in the video?",
+        "answer": [
+            "It is daytime.",
+            "It is blue.",
+            "A bag.",
+            "A woman.",
+            "The grass."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_3] playing games?",
+        "answer": [
+            "[person_3] and [person_3] are wrestling.",
+            "[person_2] wants to practice her movement.",
+            "[person_2] is saluting.",
+            "It's funny to run together with [person_2].",
+            "They may want to decide who is eating."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] and [person_3] do?",
+        "answer": [
+            "[person_2] will close the book and put it back on the shelf.",
+            "[person_3] and [person_2] will take a sip of their beers.",
+            "She may join them.",
+            "Put one snowball on the other.",
+            "[person_3] will go home."
+        ],
+        "reason": [
+            "It's getting late now.",
+            "They are here for skating.",
+            "[person_2] finished playing Amazing Grace on his bagpipe and stopped recording himself.",
+            "She wants to eat , too.",
+            "It's night."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it suddenly rains?",
+        "answer": [
+            "There will be no fairness.",
+            "They might take shelter from the rain.",
+            "They might stop the party.",
+            "Police will drive him away.",
+            "The tool would be useless."
+        ],
+        "reason": [
+            "[person_3] will change the rope.",
+            "[person_3] is a child , so a heavy hoop will make [person_3] difficult to hoop.",
+            "They may not have brought an umbrella.",
+            "Because if [person_2] do somersaults on a hard surface , [person_2] will get hurt.",
+            "[person_3] cannot see anything and play music in the dark."
+        ]
+    }
+}

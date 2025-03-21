@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[person_1] is sitting in the room.",
+            "[person_1] and [person_1] are outside.",
+            "[person_1] is a wood cutting board.",
+            "[chair_1] is behind [person_1].",
+            "[person_1] is \u00a0 standing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look down?",
+        "answer": [
+            "Because [person_1] wants to see the gift [person_1] receives.",
+            "Because [person_1] wanted to know what he gets at Christmas.",
+            "Maybe [person_1] sees something interesting behind him.",
+            "[person_1] is painting the [person_1].",
+            "[person_1] is opening presents."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to sit.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to continue skiing",
+            "[person_1] is going to look at the present in the hands of [person_1].",
+            "Maybe [person_1] is going to stop running."
+        ],
+        "reason": [
+            "[person_1] is holding the bottle.",
+            "Maybe [person_1] will continue playing.",
+            "[person_1] is holding a glass of water.",
+            "Because [person_1] completed opening the gift and is holding the gift.",
+            "Because [person_1] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sits on [chair_1]?",
+        "answer": [
+            "[chair_1] will not be vacant.",
+            "[person_1] will be win.",
+            "The [person_1] should not do that.",
+            "[person_1] will go out.",
+            "The knife would fall on the feet of [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] may get hurt.",
+            "Because [person_1] should be polite to the guests.",
+            "Because [chair_1] is occupied by [person_1].",
+            "Because [person_1] can protect [person_1]'s health.",
+            "[chair_1] seems more stable than [chair_1]."
+        ]
+    }
+}

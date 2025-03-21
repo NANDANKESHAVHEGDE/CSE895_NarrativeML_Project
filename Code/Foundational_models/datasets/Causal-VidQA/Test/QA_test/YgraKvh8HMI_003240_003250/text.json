@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the garden.",
+            "[person_2] is in the yard.",
+            "[person_2] is standing on the grass.",
+            "[person_2] is on the street.",
+            "[person_2] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people in the room?",
+        "answer": [
+            "People are playing musical instruments together.",
+            "Because this is a match which has two people in each team.",
+            "Because the camels are having a rest.",
+            "Everyone can see [person_1] and [person_1] on tv.",
+            "[person_1] is trying to press juice from oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop saluting.",
+            "[person_1] is going to try practicing.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] is going to keep playing musical instruments.",
+            "[person_1] may continue what he did."
+        ],
+        "reason": [
+            "[person_1] just looked back.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1]'s hand is still moving.",
+            "[person_1] feels that the food is not good.",
+            "Because the blue is skying at night."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was no light in the room?",
+        "answer": [
+            "Snowmobiles will not be able to travel on concrete roads.",
+            "People wouldn't be able to play musical instruments anymore.",
+            "[person_2] would play the piano the hard way.",
+            "The [person_1] could move easily.",
+            "[person_2] could fall down."
+        ],
+        "reason": [
+            "To save the woman.",
+            "Because the other camel is empty now.",
+            "Because the room is dark , people can't see anything.",
+            "The shell of the fruit is very hard.",
+            "The fewer people , the quicker it is the other's turn."
+        ]
+    }
+}

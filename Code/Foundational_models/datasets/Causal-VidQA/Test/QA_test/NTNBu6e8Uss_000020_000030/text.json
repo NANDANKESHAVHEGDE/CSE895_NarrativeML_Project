@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks old and thin.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks thin.",
+            "[person_1] looks cute.",
+            "[person_1] looks like a professional skier."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the [vase_1]?",
+        "answer": [
+            "[person_1] is helping [person_1] on practicing roller skating.",
+            "[person_1] needs to place the accordion on his lap.",
+            "[person_1] looks at the exam results.",
+            "[person_1] is bathing in [vase_1].",
+            "Because [person_1] is asked to close the door."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue what he did.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to splash water.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to keep eating."
+        ],
+        "reason": [
+            "[person_1] has finished checking the computer.",
+            "[person_1]'s feet are numb.",
+            "[person_1] is paying attention to other things.",
+            "[person_1] is moving his feet continuously.",
+            "The egg is not cooked yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [vase_1] runs out of water?",
+        "answer": [
+            "[person_1] will find a towel.",
+            "[person_1] will wipe the arm of [vase_1] again.",
+            "[person_1] and [vase_1] will be winners.",
+            "The parents of [person_1] will pour more water into [vase_1].",
+            "[person_1] will have diarrhea."
+        ],
+        "reason": [
+            "[vase_1] is in the room , too.",
+            "[person_1] will need enough water to bathe.",
+            "[vase_1] is holding a replica weapon much larger than themselves , which may drop it.",
+            "[person_1] can also use hands to massage.",
+            "The bad smell of flowers means that they are beginning to rot."
+        ]
+    }
+}

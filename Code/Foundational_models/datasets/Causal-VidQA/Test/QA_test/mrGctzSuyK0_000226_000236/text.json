@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are at the backyard of a school.",
+            "[person_1] and [person_2] are in a studio.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are at the roller rink.",
+            "[person_1] and [person_2] are in the recording studio."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_5] jumping over the head of [person_2]?",
+        "answer": [
+            "[person_5] is squeezing oranges for juice.",
+            "[person_2] is showing the rest of the yoga class how to perform the yoga techniques.",
+            "[person_2] wants to sync the drumbeats with the music.",
+            "[person_5] wants to show off his skills.",
+            "[person_2] is playing cymbals."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_5] do next?",
+        "answer": [
+            "[person_5] will continue to skipping rope.",
+            "[person_5] will start jumping high.",
+            "[person_5] may fall down.",
+            "[person_5] will be able to stand after landing on the ground.",
+            "[person_5] will burst into laughters."
+        ],
+        "reason": [
+            "[person_5] is showing off his skills professionally.",
+            "[person_5] is enjoying the crowd attention very much.",
+            "[person_5] is talking to the camera telling them how to play effectively.",
+            "[person_5] and [person_5] are still very focused on their performance.",
+            "[person_5] is a participant in the tug of war."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stop spinning the rope?",
+        "answer": [
+            "[person_5] won't be able to skipping rope anymore.",
+            "[person_1] may re - sharpen the knife.",
+            "[person_1] will shout as happiness and continue kicking another one.",
+            "[person_1] may cough.",
+            "He will have a rest on the [person_5]."
+        ],
+        "reason": [
+            "There needed to be someone spinning the rope on both ends.",
+            "[person_1] would be have muscle contractions.",
+            "It's very sunny.",
+            "Because kicking ball can make the ball go away.",
+            "[person_1] and [person_1] are waiting for their turn."
+        ]
+    }
+}

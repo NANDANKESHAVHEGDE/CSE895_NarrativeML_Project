@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is singing.",
+            "[person_1] is opening a bottle.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is breaking an air brick.",
+            "[person_1] is giving [person_1] a white box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] walk away from the bottle?",
+        "answer": [
+            "Because [person_2] is putting a ring on his finger.",
+            "Because [person_2] is too short.",
+            "For fear that the liquid splashes out as soon as being opened.",
+            "Because it is a yoga move.",
+            "[person_2] is playing a bass guitar solo."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do?",
+        "answer": [
+            "[person_2] will then kneel on the ground and take out the ring.",
+            "[person_2] will probably keep on dancing.",
+            "[person_2] will exercise more.",
+            "[person_2] will take off the cover of the bottle.",
+            "[person_2] will be back to inspect the situation."
+        ],
+        "reason": [
+            "Because he needs to send the milk to be processed.",
+            "[person_2] has just shot.",
+            "Because she seems care about the girl a lot.",
+            "[person_2] wants to sleep and [person_2] wants him to feel comfortable.",
+            "[person_2] must care about the result."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't put the bottle further?",
+        "answer": [
+            "She will close the window.",
+            "The fishes may not swim near [person_1].",
+            "[person_1] would give [person_1] the low score.",
+            "The adult will make a new cake.",
+            "The liquid might be splashed to [person_1] as soon as the bottle was opened."
+        ],
+        "reason": [
+            "The air pressure inside might be too high.",
+            "Cutting leather requires accuracy.",
+            "That's the rules of baseball.",
+            "A tool is better than hands only.",
+            "It is a mandatory ritual."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is in the pool.",
+            "[person_1] is on the basketball court.",
+            "[person_1] is in the office.",
+            "[person_1] is outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] on the stage?",
+        "answer": [
+            "Because the whether is very hot.",
+            "[person_1] picked up the paper dropped on the floor.",
+            "[person_1] is a woman.",
+            "The [person_1] pointed at the furniture.",
+            "[person_1] is performing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sing.",
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] is going to jump over a chair."
+        ],
+        "reason": [
+            "[person_1] is feeling.",
+            "[person_1] moved the ball to the right.",
+            "[person_1] is eating potato chips while showing the potato chips to the camera.",
+            "[person_1] has lied down and hold the barbell.",
+            "[person_1] is trying pressing some keys."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] a normal person?",
+        "answer": [
+            "[person_1] will answer the questions.",
+            "[person_1] may feel so sad.",
+            "[person_1] will feel cold.",
+            "[person_1] may wash her hands immediately.",
+            "[person_1] won't be on stage."
+        ],
+        "reason": [
+            "Because here is a beginner's class.",
+            "Because the [person_1] is near the ground so [person_1] may be not painful so much and he still can stand up.",
+            "Because the [person_1] is too young to deal with the problem.",
+            "[person_1] won't play the lute.",
+            "No trace of modification is allowed."
+        ]
+    }
+}

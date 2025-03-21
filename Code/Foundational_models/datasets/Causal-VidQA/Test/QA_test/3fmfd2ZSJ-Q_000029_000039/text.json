@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is holding the [cup_1] of beer and a beer bottle.",
+            "The [person_1] is reading the newspaper.",
+            "the [person_1] is wearing a pink shirt.",
+            "Riding the scooter.",
+            "The [person_1] seems to waiting for someone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] have to pour the [cup_1] twice?",
+        "answer": [
+            "The [person_1] wants to show the [cup_1] to the camera.",
+            "Because [person_1] needs to use [person_1]'s hands to play the keyboard.",
+            "Because [person_1] wants to help the baby somersault.",
+            "[person_1] is fascinated to play with [person_1].",
+            "Because the [person_1] seems to be a host who is talk to the doll for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "The [person_1] will laugh.",
+            "The [person_1] may look at the mirror.",
+            "The [person_1] will drink the [cup_1].",
+            "The [person_1] will ride the [cup_1].",
+            "The [person_1] may carry on reading the [cup_1]."
+        ],
+        "reason": [
+            "The [person_1] blows up the balloon and gets another one.",
+            "The [person_1] is focusing on reading the [cup_1].",
+            "The [person_1] is taking and looking at a sheet of paper.",
+            "The [person_1] poured a lot of beer into his mouth and has not swallowed yet.",
+            "The [person_1] fills the [cup_1] with beer , puts the beer bottle on the table , and then drinks the [cup_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] pours the [cup_1] third times?",
+        "answer": [
+            "The beer in the [cup_1] will not fall out of the cup.",
+            "Maybe [person_1] will pick up the phone.",
+            "The beer in the [cup_1] will fall out of the cup.",
+            "The [person_1] will go to find a chair.",
+            "The beer in the [cup_1] will stay in the cup."
+        ],
+        "reason": [
+            "The cup was not full of beer when it was poured twice.",
+            "[person_1] falls from the height which is comparatively high.",
+            "The cup was full of beer when it was poured twice.",
+            "[person_1] is next to the river , the ball easily rolls over when it falls.",
+            "The cup was full of beer when it was not poured twice."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "It is on the floor.",
+            "It's [cup_1].",
+            "White.",
+            "Snow.",
+            "It's square."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is using his harp.",
+            "[person_1] is doing the challenge.",
+            "[person_1] stomped grapes.",
+            "[person_1] is playing throwing marbles into [cup_1].",
+            "[person_1] is looking down because he looks at his fingers while playing guitar , so he doesn't make a mistake."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will weigh the bag.",
+            "[person_1] will thank the audience.",
+            "[person_1] is highly likely to throw the marble into the [cup_1].",
+            "[person_1] will have some rest.",
+            "[person_1]'s going to ride more smoothly."
+        ],
+        "reason": [
+            "To show others how to take out the paint roller.",
+            "[person_1] is getting the bottle through the chair.",
+            "[person_1] is introducing the headphone . The headphone is in [person_1]'s head.",
+            "Because it seems that [person_1] stops tagging.",
+            "[person_1] is trying to throw."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will stop throwing.",
+            "[person_1] maybe stop guiding.",
+            "[person_1] will stop singing.",
+            "[person_1] will may be stop reading.",
+            "[person_1] will stop eating."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "The light will not work . , too.",
+            "The fan will be off , too.",
+            "The piano will not work.",
+            "The machine can not be used without power."
+        ]
+    }
+}

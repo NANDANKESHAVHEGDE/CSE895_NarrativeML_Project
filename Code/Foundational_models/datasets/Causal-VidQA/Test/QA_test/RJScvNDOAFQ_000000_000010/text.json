@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [truck_1]?",
+        "answer": [
+            "The room is painted in yellow.",
+            "It is black hair.",
+            "The wall is blue.",
+            "Red.",
+            "It's on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use a circular saw?",
+        "answer": [
+            "Because there are not many people on the road and it is very suitable for practice.",
+            "To help do mountain climbers.",
+            "[person_1] is introducing the harmonica.",
+            "By massaging at [person_1]'s neck.",
+            "To cut the plank."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will pick up another piece of plank.",
+            "[person_1] will pull the bundle of woods to the ground.",
+            "[person_1] will install another piece of door.",
+            "[person_1] will seal another bags.",
+            "[person_1] will go on cutting the board."
+        ],
+        "reason": [
+            "[person_1] is sitting on the boat.",
+            "Because [person_1] has already been collecting the fish line.",
+            "Obviously , [person_1] hasn't finished yet , so [person_1] will continue to eat.",
+            "To finish [person_1]'s work.",
+            "Because [person_1] is too tired now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the boards are cut askew?",
+        "answer": [
+            "[person_1] will continue to cut the board.",
+            "[person_1] will take him to the clinic.",
+            "[person_1] will blow out the candle.",
+            "Maybe the head of [person_1] will hit the door.",
+            "[person_1] will not become softer and [person_1] will taste bad."
+        ],
+        "reason": [
+            "The drill will sink underwater.",
+            "Because [person_1] is obviously more advanced.",
+            "To make it smooth.",
+            "Because there was no chance to score.",
+            "that's [person_1] good strategy."
+        ]
+    }
+}

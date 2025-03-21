@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is outside the house.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a pipe in his hand?",
+        "answer": [
+            "Because [person_1] enjoys playing with a mini accordion.",
+            "[person_1] is practicing his skating skills.",
+            "[person_1] wants to play with others.",
+            "[person_1] wants to play chess.",
+            "[person_1] is smoking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep on playing his toy.",
+            "[person_1] is going to fall off the chair.",
+            "[person_1] is going to keep diving.",
+            "[person_1] is going to continue to smoke.",
+            "[person_1] is going to continue stretching."
+        ],
+        "reason": [
+            "[person_1] is still working.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] was high on drugs.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is going to put the shoe down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes too much?",
+        "answer": [
+            "[person_1] will die of illness.",
+            "Nothing will happen.",
+            "[person_1] would become a laughter stock.",
+            "Maybe [person_1] won't having lunch.",
+            "[person_1] would stop running."
+        ],
+        "reason": [
+            "Because the floor is hard.",
+            "There is no one else.",
+            "Smoking is not good for health.",
+            "It's the traffic law.",
+            "His leg would be broken."
+        ]
+    }
+}

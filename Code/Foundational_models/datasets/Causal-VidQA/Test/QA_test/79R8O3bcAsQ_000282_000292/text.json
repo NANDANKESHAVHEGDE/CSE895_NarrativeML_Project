@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] , [person_2] and [person_3] ?",
+        "answer": [
+            "[person_1] , [person_2] , and [person_1] are sitting on the sofa.",
+            "[person_3] is on the right of [person_2].",
+            "[person_1] , [person_2] , [person_3] and [person_2] are at music festival.",
+            "[person_1] , [person_2] and [person_3] are in the room.",
+            "The curtain behind [person_1] is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] look so happy?",
+        "answer": [
+            "[person_3] received a gift.",
+            "The accordion is so big , so [person_3] can't play it.",
+            "[person_3] is losing weight . It is a fitness room.",
+            "[person_3] will feel hot and sweat a lot.",
+            "[person_3] is familiar with this place."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to open his gift.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to stand again."
+        ],
+        "reason": [
+            "[person_1] also has a gift.",
+            "[person_1] still holds the broom.",
+            "[person_1] may go on reading.",
+            "[person_1] fell under the bed.",
+            "[person_1] is a coach."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't have a gift ?",
+        "answer": [
+            "[person_1] will be very sad.",
+            "Maybe [person_1] will go to the study table.",
+            "The [person_1] will fall.",
+            "[person_1] will come here the next time.",
+            "[person_1] may let off the hand of [person_1]."
+        ],
+        "reason": [
+            "[person_3] has a gift , but [person_1] doesn't.",
+            "The picture has a lot of details to remember.",
+            "The people in the room are friends and they are having a get - together.",
+            "There are a lot of clothes on the shelf which is next to [person_1] so [person_1] can choose various clothing.",
+            "[person_1] looked at [person_1] because [person_1] shake her head so vigorously."
+        ]
+    }
+}

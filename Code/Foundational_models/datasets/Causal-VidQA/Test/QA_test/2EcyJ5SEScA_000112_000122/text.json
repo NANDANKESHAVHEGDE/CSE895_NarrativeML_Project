@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is next to the [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is looking down to see [person_1]'s hand.",
+            "[person_1] is sitting open presents.",
+            "Maybe [person_1] is listening to music.",
+            "Because [person_1] is playing maracas.",
+            "[person_1] is looking at the book and playing flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue shaping the [person_1].",
+            "[person_1] will dip in more paint.",
+            "[person_1] will drink the champagne.",
+            "[person_1] is highly likely to stop playing maracas.",
+            "[person_1] will finish counting money."
+        ],
+        "reason": [
+            "[person_1] pushed the wheelbarrow and then stopped.",
+            "There are many wine bottles on the table.",
+            "Maybe [person_1] doesn't like maracas.",
+            "[person_1] must feel sore of his waist.",
+            "The television is showing programs."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't like to play maracas?",
+        "answer": [
+            "Maybe [person_1] will practice more after rest.",
+            "[person_1] needs to fix the machine.",
+            "[person_1] would be in the risk of falling down.",
+            "[person_1] will play another toy.",
+            "[person_1] would be punished."
+        ],
+        "reason": [
+            "Without drinking , [person_1] didn't know the taste of wine.",
+            "Since [person_1] is showing the best approach to strip an apple.",
+            "Because [person_1] believe that he will win this match.",
+            "Maybe [person_1] will throw the maracas away.",
+            "[person_1] is a baby and small."
+        ]
+    }
+}

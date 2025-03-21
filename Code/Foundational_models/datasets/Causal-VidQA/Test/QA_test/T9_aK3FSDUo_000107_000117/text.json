@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_2]?",
+        "answer": [
+            "It is on the table.",
+            "[bottle_2] is on the floor.",
+            "[bottle_2] is on the [bottle_2].",
+            "It is a blue room.",
+            "[bottle_2] is near [bottle_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is spraying paint on the picture.",
+            "Because [person_1] is practicing with the weights in the room.",
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is putting utensils on [person_1].",
+            "[person_1] is reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to toast coffee.",
+            "[person_1] will probably finish the picture.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "[person_1] has already picked one piece up.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "Maybe [person_1] finished painting.",
+            "[person_1] is jumping very professionally.",
+            "It is very sunny."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "[person_1] maybe stop painting.",
+            "[person_1] may not keep fighting.",
+            "[person_1] won't be able to reading.",
+            "[person_1] will stop drinking.",
+            "[person_1] will be scared."
+        ],
+        "reason": [
+            "[person_1] still hasn't reached his goal.",
+            "Because they can't play then.",
+            "To fix the equipment.",
+            "[bottle_2] was pushed because [bottle_2] teased [bottle_2].",
+            "The room will be dark."
+        ]
+    }
+}

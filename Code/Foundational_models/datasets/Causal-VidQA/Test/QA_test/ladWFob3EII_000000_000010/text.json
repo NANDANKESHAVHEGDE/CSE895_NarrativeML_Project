@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the snow field.",
+            "[person_1] is in the room.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is in the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is playing in the snow field.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is practicing baseball in the stadium.",
+            "[person_1] is slacklining alone.",
+            "Perhaps [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will exam the honey's situation.",
+            "[person_1] may cheer up.",
+            "Maybe [person_1] is going to continue to go skiing.",
+            "[person_1] may hug others.",
+            "[person_1] will bend back."
+        ],
+        "reason": [
+            "[person_1] is holding the chess piece.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is facing [person_1].",
+            "The milk needs to be put in the fridge.",
+            "[person_1] is playing with others."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't know how to ski?",
+        "answer": [
+            "[person_1] might enjoy the moment there.",
+            "[person_1] would stay in the rope jump area.",
+            "[person_1] might not enjoy the moment there.",
+            "[person_1] will remake the pattern.",
+            "[person_1] might forget the moment there."
+        ],
+        "reason": [
+            "[person_1] seemed to be unfamiliar with the place.",
+            "Because the pattern on the surface of [person_1] will be broken.",
+            "[person_1] seemed to be familiar with the place.",
+            "This is a horse racing competition and the fastest horse will win.",
+            "[person_1] seemed to be familiar with the persons."
+        ]
+    }
+}

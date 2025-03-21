@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is sitting on the bed.",
+            "[chair_1] is sitting on the floor.",
+            "[chair_1] is near the [person_2].",
+            "[chair_1] is sitting against the white wall.",
+            "The [chair_1] is near the window and close to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] roasting marshmallows?",
+        "answer": [
+            "[person_1] is playing flute in the room.",
+            "[person_1] is looking at the book and playing flute.",
+            "[person_1] is playing music with the bass guitar that [person_1] is holding.",
+            "[person_1] is hungry and wants to eat something.",
+            "[person_1] is holding a flute and playing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next as his marshmallow has been on fire?",
+        "answer": [
+            "[person_1] will get more food.",
+            "[person_1] and [person_1] will keep playing.",
+            "The [person_1] and [person_1] will continue sitting on the back of the elephant.",
+            "The two people will taste the food.",
+            "[person_1] will change another one."
+        ],
+        "reason": [
+            "[person_1] has the chance to win a point for his team.",
+            "It seems that [person_1] is raising her hands and preparing for beginning.",
+            "The marshmallows is burnt and [person_1] can't eat it any more.",
+            "This is a fantastic method to open the coco.",
+            "Because they need to taste and then they can know how to introduce the food better."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen after [person_1] gives the marshmallows to [person_3]?",
+        "answer": [
+            "[person_3] wouldn't refuse that.",
+            "[person_1] would be weak.",
+            "[person_3] would refuse that.",
+            "[person_1] will use the tools on the table to re - polish the grain and seam on the panel.",
+            "[person_3] would accept that."
+        ],
+        "reason": [
+            "The marshmallows were not cooked well.",
+            "They find repeating a single dance very boring.",
+            "The marshmallows were cooked well.",
+            "The objective of the game \" Playing beer pong \" is to get drunk.",
+            "The marshmallows were not cooked badly."
+        ]
+    }
+}

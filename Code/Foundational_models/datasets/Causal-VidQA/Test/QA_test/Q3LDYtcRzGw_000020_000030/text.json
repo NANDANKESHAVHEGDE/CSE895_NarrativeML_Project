@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near [person_1].",
+            "[person_1] is inside.",
+            "[person_1] is outside.",
+            "Along the river.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile?",
+        "answer": [
+            "the [person_1] falls because the mechanical bull moves too strong.",
+            "Maybe [person_1] feels dark.",
+            "Because [person_1] is doing a concert.",
+            "Because [person_1] wants [person_1] to open it.",
+            "Because [person_1] feels excited."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep looking to the right.",
+            "[person_1] is going to laugh.",
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to break.",
+            "[person_1] is going to rip paper."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] started weaving fabric.",
+            "[person_1] finishes singing.",
+            "[person_1] looks so excited.",
+            "Because the head of [person_1] is still facing to the right."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] somersaults towards the toy cars?",
+        "answer": [
+            "A car.",
+            "[person_1] may hit [person_1].",
+            "The toy cars will break.",
+            "[person_1] would attack again.",
+            "Then [person_1] won't turn around here."
+        ],
+        "reason": [
+            "The tiger can walk out and do harm to people.",
+            "To help cure the wound.",
+            "Toy cars are made of plastic.",
+            "[person_1] likes to play Lego.",
+            "[person_1] can not record the music when [person_1] is hungry."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite dark.",
+            "The room is bright.",
+            "It is dark with the spot light on the stage only.",
+            "There are two vases.",
+            "It is well - decorated."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside the room?",
+        "answer": [
+            "[person_1] is working out in the gym.",
+            "[person_1] is trying to raising eyebrows.",
+            "[person_1] is opening her gift.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is lifting ."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may swim towards [person_1].",
+            "Perhaps [person_1] will continue to fold the napkin.",
+            "[person_1] will continue climbing till her gets to the peak.",
+            "[person_1] will dip in more paint.",
+            "[person_1] will continue trying to raise eyebrows."
+        ],
+        "reason": [
+            "The debris splashes everywhere.",
+            "The hair in cutting may get into her eyes.",
+            "[person_1] seems to be afraid of being tattooed.",
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] looks so pretty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room is dark?",
+        "answer": [
+            "[person_1] would not put the pineapple on the ground outside.",
+            "[person_1] may see everything.",
+            "[person_1] won't be able to play.",
+            "[person_1] may not see anything.",
+            "[person_1] will not play guitar anymore."
+        ],
+        "reason": [
+            "[person_1] will turn off the light.",
+            "[person_1] eyes will be bad.",
+            "[person_1] will turn on the light.",
+            "[person_1] will not be able to try it.",
+            "[person_1] won't turn on the light."
+        ]
+    }
+}

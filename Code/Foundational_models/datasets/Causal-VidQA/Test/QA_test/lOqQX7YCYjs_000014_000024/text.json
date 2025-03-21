@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a long sleeve shirt.",
+            "[person_1] is wearing a white dress.",
+            "[person_1] is wearing a helmet.",
+            "[person_1] is a man wearing a back T - shirt.",
+            "[person_1] wearing a beanie and yellow shoes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wrapping [cup_1]?",
+        "answer": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] wants to wrap presents.",
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] was working out.",
+            "Because [person_1] is playing checkers."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will continue to sharpen the knife on the whetstone.",
+            "He will try to finish the puzzle.",
+            "[person_1] will stand to make his speech.",
+            "[person_1] will leave the sand pit.",
+            "[person_1] will clean up the wrapping paper."
+        ],
+        "reason": [
+            "[person_1] just tore the wrapping paper.",
+            "[person_1] is too young to finish it alone.",
+            "[person_1] just landed on the mattress.",
+            "[person_1] doesn't look tired.",
+            "[person_1] does not seem to stop anytime soon."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] cries?",
+        "answer": [
+            "The hands of the [person_1] would not be stuck with the washing liquid.",
+            "Maybe [person_1] will go to the hospital.",
+            "Maybe [person_1] will be going to the hospital.",
+            "[person_1] would not able to open the bottle.",
+            "[person_1] will appease of the baby."
+        ],
+        "reason": [
+            "[person_1] looks like this baby's dad.",
+            "The [person_1] has just wiped the plate with the washing liquid.",
+            "The [person_1] is on the sand near the waves.",
+            "The [person_1] painted the [person_2] and the [person_1] is touching the [person_2].",
+            "Only those who do it successfully get to the next round."
+        ]
+    }
+}

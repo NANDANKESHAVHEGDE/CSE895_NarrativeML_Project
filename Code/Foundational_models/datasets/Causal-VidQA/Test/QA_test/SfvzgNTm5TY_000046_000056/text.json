@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "On the main road.",
+            "[person_1] is in the corner.",
+            "The [person_1] is parked on the road.",
+            "The [person_1] is rectangular.",
+            "The [person_1] is playing basketball in front of garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [car_1] here?",
+        "answer": [
+            "The [car_1] can see everything clearer.",
+            "Because [car_1] is a child.",
+            "Because [car_1] needs the weight lifting to practice snatching weight lifting.",
+            "Because the [car_1] is now parked in the garage.",
+            "The [car_1] did not want the [car_1] to read that card."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may go in front to the basket.",
+            "The [person_1] may go around the skateboard room.",
+            "The [person_1] is going to carry on polishing the mirror.",
+            "The [person_1] is going to continue to clean the snow on the roof.",
+            "The [person_1] may turn back and walk more."
+        ],
+        "reason": [
+            "The [person_1] has just been threatened by the horse and the [person_1] has just fallen.",
+            "The [person_1] has just taken an apple and the [person_1] is looking at the apple branch.",
+            "The [person_1] catches the ball and wants to shoot once more time.",
+            "The [person_1] moves very quickly when the [person_1] starts.",
+            "The [person_1] begins skating and wishes to skate around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] does not get hurt on hands?",
+        "answer": [
+            "She goes to the manager.",
+            "The tourists would know that the [person_1] is not a girl.",
+            "[person_1] will pull the curtain down.",
+            "The [person_1] would not know how to wash his hair.",
+            "The [person_1] will play basketball."
+        ],
+        "reason": [
+            "The hands of [person_1] are fine when playing basketball.",
+            "Because the tile was right above the left feet of [person_1].",
+            "[person_1] is sitting on the [person_1].",
+            "The dog is the pet.",
+            "The [person_1] is a baby boy and doesn't know how to wash his hair."
+        ]
+    }
+}

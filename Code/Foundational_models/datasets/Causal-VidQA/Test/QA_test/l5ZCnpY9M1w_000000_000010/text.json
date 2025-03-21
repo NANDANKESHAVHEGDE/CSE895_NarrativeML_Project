@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1] ?",
+        "answer": [
+            "[couch_1] is behind [couch_1]'s back.",
+            "[couch_1] is behind the [couch_1].",
+            "[couch_1] is next to the wall.",
+            "[couch_1] is behind the girl.",
+            "[couch_1] is located to the right of the back of [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting ?",
+        "answer": [
+            "[person_1] is holding flute and playing it.",
+            "[person_1] is lying on [person_1] to get a massage.",
+            "The [person_1] has just beaten and fallen.",
+            "[person_1] is practicing to play didgeridoo better.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] intends to play the flute."
+        ],
+        "reason": [
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] has finished [person_1]'s action.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] is going to put his fingers on the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't like playing flute ?",
+        "answer": [
+            "[person_1] will fall down.",
+            "[person_1] will practicing playing flute.",
+            "[person_1] will not look more like a ghost.",
+            "[person_1] will not practicing playing flute.",
+            "[person_1] will be very happy."
+        ],
+        "reason": [
+            "[person_1] won't play another instrument.",
+            "[person_1] can show us how to do exercise with the ball alone.",
+            "[person_1] will give up every instrument.",
+            "Laughing too much will make [person_1] and [person_1] lose a lot of energy.",
+            "[person_1] will play another instrument."
+        ]
+    }
+}

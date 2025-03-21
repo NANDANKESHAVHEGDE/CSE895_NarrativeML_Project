@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is in the left of the refrigerator.",
+            "The [chair_1] is next to the [dining table_1].",
+            "[dining table_1] is sitting on the [chair_1].",
+            "The [chair_1] is placed on the left of [chair_1].",
+            "The [chair_1] is next to the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] sitting next to the table?",
+        "answer": [
+            "Because the [person_1] wants to keep warm in the snow.",
+            "The [person_1] is holding the items which are on the table.",
+            "because someone is taking pictures for [person_1].",
+            "because [person_1] is pointing to [person_1].",
+            "[person_1] is practicing a clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "[person_1] will turn it off and rest.",
+            "The [person_1] will carry on traveling by bicycle.",
+            "The [person_1] will wash them until they are clean.",
+            "[person_1] will go to process the milk.",
+            "The [person_1] may try wearing the clothes."
+        ],
+        "reason": [
+            "The [person_1] feels [person_1] needs water.",
+            "The [person_1] is running to have a momentum.",
+            "The [person_1] is holding the clothes after ripping the wrapper.",
+            "The [person_1] needs to make himself relaxed by moving body.",
+            "[person_1] wants to do the move successfully."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the clothes fell on the floor?",
+        "answer": [
+            "The older man would see what the [person_1] had done.",
+            "[person_1] would be startled.",
+            "[person_1] would invite the person who is on [person_1] to join the class.",
+            "[person_1] would look for a bigger knife to peel firstly.",
+            "The [person_1] would bow to take the clothes."
+        ],
+        "reason": [
+            "Because those cans are not biodegradable and environmental policies do not allow people to litter.",
+            "The [person_1] is paying attention to the clothes.",
+            "There would be no light for [person_1] to see the drums.",
+            "It is the appropriate etiquette of a performer . ",
+            "It is impossible that [person_1] is a referee."
+        ]
+    }
+}

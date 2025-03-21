@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a jacket?",
+        "answer": [
+            "There are ingredients.",
+            "The [person_1] is being held by the [person_1].",
+            "[person_1] is near the corner.",
+            "Yes.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] thrust out her fingers?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] holds two gong sticks in hands and then knocks on gongs.",
+            "[person_1] is slowly moving his legs and hands.",
+            "[person_1] is playing with his friends.",
+            "[person_1] is counting 10 seconds."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after breathing in?",
+        "answer": [
+            "[person_1] might brush the toy , too.",
+            "[person_1] will count until reach 10 seconds.",
+            "[person_1] will get off excitedly.",
+            "[person_1] will go back to the game.",
+            "[person_1] will choose to dance again."
+        ],
+        "reason": [
+            "[person_1] is following step 8.",
+            "This kind of action is physically consuming.",
+            "[person_1] has counted for less than 10 seconds.",
+            "It seems that [person_1] is interested in [person_1].",
+            "[person_1] hasn't finished the steps totally."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't suppress the breath?",
+        "answer": [
+            "[person_1] would not be able to join the game with others.",
+            "[person_1] will stop the step again.",
+            "[person_1] will know how to do the exercise correctly.",
+            "[person_1] will start the step again.",
+            "Maybe somebody can't understand what [person_1] is doing."
+        ],
+        "reason": [
+            "[person_1] cannot obey the instruction.",
+            "People like to hit all the bowling pins.",
+            "[person_1] shouldn't obey the instruction.",
+            "Too much or too little is not delicious.",
+            "[person_1] should obey the instruction."
+        ]
+    }
+}

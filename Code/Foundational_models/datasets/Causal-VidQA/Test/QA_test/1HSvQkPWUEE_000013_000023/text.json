@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "The [chair_1] is on the sand and behind the [person_1].",
+            "It is in front of the wall.",
+            "It is \u00a0 next to [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is close to the wall behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wave his hands?",
+        "answer": [
+            "[person_1] can't push the machine.",
+            "Because it's interesting in winter.",
+            "[person_1] doesn't want the cat run away.",
+            "[person_1] is playing lute in the room.",
+            "[person_1] tear the paper into pieces to get paper used for decoration."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is foreseen that [person_1] will weave all the baskets in the yard.",
+            "[person_1] will try to put [person_1] in a paper box.",
+            "Maybe [person_1] will sing along to the tune.",
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "[person_1] is continuously rolling the glass ball from the right arm to the left arm."
+        ],
+        "reason": [
+            "[person_1] must keep track of her student's progress.",
+            "[person_1] is concentrating on making the basket deftly.",
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] is very serious.",
+            "[person_1] is going to turn the iron that poked the lock."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The microphone will not work.",
+            "[person_1] may not keep somersaulting.",
+            "The room will be no light.",
+            "The performance will not continue.",
+            "The competition may stop."
+        ],
+        "reason": [
+            "[person_1] may not keep eating.",
+            "[person_1] will stop jumping.",
+            "[person_1] will wait until the electricity comes on.",
+            "[person_1] may cry.",
+            "[person_1] may not keep playing lute."
+        ]
+    }
+}

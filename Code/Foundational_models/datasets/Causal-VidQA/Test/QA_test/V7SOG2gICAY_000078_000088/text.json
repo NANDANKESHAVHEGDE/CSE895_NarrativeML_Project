@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it at night?",
+        "answer": [
+            "[person_1] is in the big yard.",
+            "No.",
+            "[person_1] is on the big wall.",
+            "Yes.",
+            "[person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] close the curtain?",
+        "answer": [
+            "[person_1] stood up to arrange things.",
+            "[person_1] thinks it is amazing.",
+            "It can help the medicine better being taken in.",
+            "It's too shinny outside.",
+            "Because he wants to have this special experience."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "[person_1] may not finish all of them.",
+            "[person_1] will hold breath as long as she can.",
+            "[person_1] will do another set.",
+            "[person_1] will put the things away.",
+            "[person_1] will stop the engine."
+        ],
+        "reason": [
+            "[person_1] and [person_1] feel hot , so they decide to have a rest.",
+            "[person_1] has got tired of it.",
+            "This can make the most of the medicine.",
+            "[person_1] will probably shrug [person_1]'s leg because [person_1]'s leg is slightly bent.",
+            "If [person_1] , [person_1] and [person_1] finish their performance they must leave the stage for others."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a bomb in this room?",
+        "answer": [
+            "[person_1] will stop exercising and sit down on [person_1] immediately.",
+            "[person_1] will run out of the room.",
+            "[person_1] and [person_1] will go back home.",
+            "The [person_1] would fall to the ground.",
+            "[person_1] will change a microphone."
+        ],
+        "reason": [
+            "The children are excited.",
+            "The song is out of tune.",
+            "It's too dangerous.",
+            "Because they would eat all the cake.",
+            "To check the condition of the body."
+        ]
+    }
+}

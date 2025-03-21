@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the sand?",
+        "answer": [
+            "[bottle_1] is on the floor.",
+            "The bicycle machine is on the floor.",
+            "[bottle_1] is on the sand.",
+            "[bottle_1] is on the floor.",
+            "The [bottle_1] is on the desk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside?",
+        "answer": [
+            "[person_1] has won the game.",
+            "They want to have fun during the trip.",
+            "Because the juice isn't as good as using a stomp.",
+            "[person_1] is training his skill.",
+            "Because there's nowhere to sit."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn left.",
+            "[person_1] is going to not continue.",
+            "[person_1] will show the bees to [person_1].",
+            "[person_1] is going to use the gas can.",
+            "[person_1] will call the rescue team."
+        ],
+        "reason": [
+            "Maybe the weights are too heavy.",
+            "The poi seems like out of fire.",
+            "The tap is still on.",
+            "[person_1] looks like a couple.",
+            "It is too dark."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] slipped his hand?",
+        "answer": [
+            "[person_1] would get burned.",
+            "[person_1] would not dance in a couple.",
+            "They may have a break together.",
+            "The grass may catch fire.",
+            "[person_1] would read a book."
+        ],
+        "reason": [
+            "Maybe the pigeons would fly away from him because [person_1] scares them.",
+            "That is the poi with fire at the top.",
+            "[person_1] needs to stand and move to play basketball.",
+            "Because more pottery clay will make [person_1] bigger.",
+            "[person_1] and [person_1] smiling happily together."
+        ]
+    }
+}

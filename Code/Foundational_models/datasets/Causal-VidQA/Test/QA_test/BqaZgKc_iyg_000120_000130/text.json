@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_10]?",
+        "answer": [
+            "[car_10] is parking on the road.",
+            "[car_10] is beside the railway line.",
+            "It's a poster.",
+            "It is lying on the floor.",
+            "[car_10] is on the road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the bull?",
+        "answer": [
+            "[person_1] is holding the newspaper to read.",
+            "Because [person_1] wants to water the plants around the garden.",
+            "The [person_1] is walking on the stilts.",
+            "Because [person_1] is a baby.",
+            "[person_1] is trying to ride a mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to climb into bed.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] may change another tool.",
+            "[person_1] may continue to riding the bull."
+        ],
+        "reason": [
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [person_1].",
+            "When the bull moves , [person_1] sits still on it.",
+            "[person_1] is jumping very hard.",
+            "[person_1] has walked outside.",
+            "[person_1] has waxed part of [person_1] back before."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bull stops working?",
+        "answer": [
+            "[person_1] will fall in a very painful way.",
+            "[person_1] may not get down the bull.",
+            "[person_1] will stop talking.",
+            "[person_1] may get down the bull.",
+            "[person_1] will be taken to the hospital."
+        ],
+        "reason": [
+            "When the bull shakes , [person_1] won't hold slightly on its back.",
+            "So [person_1] will not get wet.",
+            "When the bull still , [person_1] holds slightly on its back.",
+            "[person_1] would be left if [person_1] did not move because the herd was going.",
+            "When the bull shakes , [person_1] holds slightly on its back."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] stands in front of the [person_1].",
+            "The [person_1] is standing behind the fence.",
+            "The [person_1] is sitting outside.",
+            "The [person_1] is next to the curtain.",
+            "The [person_1] is in a restaurant."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the girl wearing a card hold a pillow?",
+        "answer": [
+            "[person_1] is practicing standing on his hands.",
+            "[person_1] is being silly playing the bagpipes in his house.",
+            "Because they're watching the man in the middle perform.",
+            "The girl beat the man in front with the pillow.",
+            "They are the audiences and the judges."
+        ]
+    },
+    "predictive": {
+        "question": "What is the girl wearing a card going to do?",
+        "answer": [
+            "Ask [person_1] to cut [person_1].",
+            "The owner will shear the cat.",
+            "[person_1] is going to play hurling.",
+            "[person_1] might sing the birthday song.",
+            "That girl may stop pillow fighting."
+        ],
+        "reason": [
+            "The girl is in a restaurant and there are many people there.",
+            "The action is too exhausting.",
+            "Judging from the surrounding furnishings , they should be at home.",
+            "Because [person_1] hasn't cleaned the road yet.",
+            "Because the audience like them so much and strongly ask them for another dance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the girl threw the pillow to the table in front?",
+        "answer": [
+            "She'll take the baby to the hospital.",
+            "[person_1] would have nothing to drop money in.",
+            "[person_1] wouldn't be sitting on the floor.",
+            "The cup may break.",
+            "[person_1] would stop what she was doing."
+        ],
+        "reason": [
+            "The cup is on the table.",
+            "[person_1] would be attracted by the TV show.",
+            "She's the baby's mother.",
+            "The dog chases the cows.",
+            "Because [person_1] did not need to jump up to get over obstacles."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is blue.",
+            "The shirt is gray.",
+            "The shirt is pink.",
+            "The shirt is \u00a0 black.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a micro ?",
+        "answer": [
+            "[person_1] is \u00a0 preparing to somersault.",
+            "[person_1] is singing.",
+            "[person_1] is reading news on the computer.",
+            "[person_1] is playing in the [person_1].",
+            "[person_1] is trying moon walking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] probably will get more food.",
+            "[person_1] may plan to push [person_1] ahead.",
+            "[person_1] going to have a date with someone?",
+            "[person_1] is going to whistle.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] wants his song to be more special.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "[person_1] has just fell off the small chair and waited for a person to help him stand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sings well?",
+        "answer": [
+            "[person_1] 's performance will become bad.",
+            "[person_1] doesn't need to jump.",
+            "[person_1] will get a round of applause.",
+            "[person_1] 's performance will be interrupted.",
+            "The rescue team is willing to assist and protect [person_1]."
+        ],
+        "reason": [
+            "Everyone will love that song.",
+            "[person_1] likes presents.",
+            "Nobody will love that song.",
+            "[person_1] can't offer [person_1] the professional treatment at home.",
+            "Everyone will not love that song."
+        ]
+    }
+}

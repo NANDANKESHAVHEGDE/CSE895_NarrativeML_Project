@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "It is black.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise his hands in a ritualistic salute?",
+        "answer": [
+            "The [person_1] has a conversation with a girl.",
+            "Because [person_1] wants the gas to come out of the bottle.",
+            "The [person_1] is learned how to skate by the [person_1] and [person_1].",
+            "Maybe [person_1] is a soldier.",
+            "Maybe [person_1] is performing [person_1]'s performance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to continue trying to stomp the grapes.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] will chop the green bell pepper."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is stomping grapes.",
+            "[person_1]'s feet are numb.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stomps the grapes quickly?",
+        "answer": [
+            "[person_1] will give the first piece to [person_1].",
+            "[person_1] will be sent to hospital.",
+            "[person_1] will get wet.",
+            "[person_1] will be the winner.",
+            "[person_1] may use the [person_1] on the [person_1] to pour beer into it."
+        ],
+        "reason": [
+            "Grape juice won't come out much",
+            "[person_1] would feel the good taste of wine.",
+            "[person_1] may have to go to the hospital.",
+            "[person_1] will have plenty of grape juice.",
+            "because it looks like a competition , the winner is the one who can flip the bottle successfully."
+        ]
+    }
+}

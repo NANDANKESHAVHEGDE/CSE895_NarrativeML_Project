@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bench_1]?",
+        "answer": [
+            "It is bright sky.",
+            "[bench_1] is behind [person_2].",
+            "[person_2] is standing on the grass.",
+            "It is next to the tree.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] need help for roasting?",
+        "answer": [
+            "[person_1] is waiting for his turn.",
+            "Because [person_1] is playing a song with multiple beats.",
+            "[person_1] is a child and does not know too much about roasting.",
+            "[person_1] needs to limit the range of motion of the discus.",
+            "Because [person_1] must do so in order to maintain balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after roasting marshmallows\uff1f",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] will spit water out of his mouth.",
+            "[person_1] can cut the tape with a knife.",
+            "[person_1] will have a rest.",
+            "[person_1] will give marshmallows to others."
+        ],
+        "reason": [
+            "[person_1] wants to share marshmallows with others.",
+            "[person_1] wants to check if the marshmallow is delicious.",
+            "The car was parked on the road causing a traffic jam.",
+            "[person_1] picks up the iron bar and moves it toward the hole.",
+            "[person_1] who was riding on a road fell of from pulling a trick."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] shares roast marshmallows?",
+        "answer": [
+            "[person_3] and [person_2] will have to wait.",
+            "[person_2] will get the bonus.",
+            "[person_2] would be praised by [person_3].",
+            "[person_2] may need help to instruct him to plant trees.",
+            "[person_2] will help [person_3] clip eyelashes."
+        ],
+        "reason": [
+            "[person_2] is a good girl to share them with others.",
+            "[person_2] will need help.",
+            "It looks like that [person_2] is a two - year old kid who may get frightened if he is left alone in the room.",
+            "[person_2]'s team takes a lot of pleasure from winning.",
+            "[person_2] would crash into a person and get injured."
+        ]
+    }
+}

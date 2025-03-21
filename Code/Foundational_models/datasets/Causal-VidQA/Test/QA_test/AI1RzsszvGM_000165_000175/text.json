@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "Along the river.",
+            "[person_1] sits by the curtains.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is on the balcony.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] watch the gong so intently?",
+        "answer": [
+            "Because [person_1] wants to tell us that she opened the [person_1] successfully.",
+            "Because [person_1] is lifting weights.",
+            "Because [person_1] is playing the violin with his friends in the room.",
+            "[person_1] is excited about holding these cups.",
+            "Perhaps [person_1] wants to check the quality of the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to start taking photo.",
+            "Maybe [person_1] is going to keep checking the gong.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] will pick up the baby.",
+            "[person_1] may put the flowers in [person_1]."
+        ],
+        "reason": [
+            "[person_1] wants to increase the difficulty.",
+            "[person_1] jumped into the lake.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] and [person_1] are friends.",
+            "[person_1] is still staring at the gong."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] accidentally lets the gong fall over the balcony?",
+        "answer": [
+            "The gong will not be distorted.",
+            "[person_1] won't get the cutting board.",
+            "The gong will be kept.",
+            "[person_1] and [person_1] will click glasses.",
+            "The gong will be distorted."
+        ],
+        "reason": [
+            "It's the effect of heat.",
+            "That's the rule of this game.",
+            "It's the effect of gravity.",
+            "To have a rest.",
+            "It's not the effect of gravity."
+        ]
+    }
+}

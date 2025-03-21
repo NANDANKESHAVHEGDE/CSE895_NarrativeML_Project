@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3]?",
+        "answer": [
+            "[person_3] is in the garden.",
+            "[person_3] is in the yard.",
+            "[person_3] is in the room.",
+            "[person_3] is behind [person_3].",
+            "[person_3] is standing on the grass."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] in the room?",
+        "answer": [
+            "[person_3] is planing wood.",
+            "[person_3] is squeezing oranges for juice.",
+            "[person_3] and [person_3] are whistling.",
+            "Because [person_3] is practicing for the next performance of her.",
+            "[person_3] is talking with his parents about playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] may give some money to the singer.",
+            "[person_3] may go on punching [person_3].",
+            "[person_3] is going to continue sitting down.",
+            "[person_3] is going to start playing with [person_2].",
+            "[person_3] is going to glide to the left side next."
+        ],
+        "reason": [
+            "[person_3] walked away.",
+            "Because [person_3] will continue skating.",
+            "[person_3] is going to eat the cake and his hands are dirty after touching [person_3].",
+            "Maybe [person_3] has arrived.",
+            "[person_3] will be taught by [person_2] how to play chess."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] plays well?",
+        "answer": [
+            "[person_3] may play with [person_2] in a professional way.",
+            "[person_2] will place it in the chair or floor.",
+            "[person_3] will bump into some bikes on the left.",
+            "[person_2] will keep practicing.",
+            "[person_3] will be deducted from his salary."
+        ],
+        "reason": [
+            "[person_1] will stand on the car.",
+            "Maybe [person_1] will be happy.",
+            "Because [person_1] is following the order of [person_3].",
+            "The [person_1] keeps eyes on the [person_3] to take care of the [person_3].",
+            "Maybe [person_1] is busy playing."
+        ]
+    }
+}

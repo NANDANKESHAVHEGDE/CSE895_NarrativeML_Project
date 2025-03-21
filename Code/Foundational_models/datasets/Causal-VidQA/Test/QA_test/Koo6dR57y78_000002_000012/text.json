@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is riding a small bike.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is standing under a tree.",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] put the bubble machine near [person_2]'s mouth?",
+        "answer": [
+            "In order to make bubbles.",
+            "[person_3] is practicing the guitar.",
+            "[person_3]'s leg has something wrong.",
+            "It's more convenient.",
+            "To relax."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Bake the dough batch after batch.",
+            "Join [person_2] and [person_3].",
+            "Maybe [person_1] will drink water.",
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] will dance with [person_2]."
+        ],
+        "reason": [
+            "Maybe [person_1] likes [person_1] outfit.",
+            "Because [person_1] finds making bubbles interesting.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] looks so excited.",
+            "Because [person_1] has finished measuring the gap."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] falls down the bike?",
+        "answer": [
+            "[person_1] will fall down on the grass.",
+            "[person_3] won't go to find some ointment.",
+            "[person_1] would stop [person_3] from doing this.",
+            "[person_3] will go to find some ointment.",
+            "[person_1] will have to sit and perform music without strap."
+        ],
+        "reason": [
+            "Carpets are made by plush material so they are very hard to be marked on.",
+            "To help relieve the pain.",
+            "To buy a new paint roller.",
+            "To help enhance the pain.",
+            "There are still many unpolished shoes on the floor."
+        ]
+    }
+}

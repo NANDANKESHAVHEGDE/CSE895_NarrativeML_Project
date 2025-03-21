@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is on the table.",
+            "[cup_1] is sitting on the floor.",
+            "It is on the shelf.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] in the room?",
+        "answer": [
+            "Maybe [person_1] , [person_2] and [person_3] are recording on a show about make - up.",
+            "Maybe [person_1] , [person_2] , [person_3] and [person_2] are participating in a push wheelchair contest.",
+            "[person_1] , [person_2] and [person_3] are raising eyebrows.",
+            "[person_1] is stacking dice.",
+            "[person_1] and [person_2] are opening a present together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will cook the food and then compete to see whose tastes better.",
+            "[person_2] and [person_1] will hug each other longer.",
+            "[person_1] and [person_2] will continue watching the cheer - leading team.",
+            "[person_1] and [person_2] will return to competitions.",
+            "[person_2] will apply foundation for [person_3] and [person_1] will talk."
+        ],
+        "reason": [
+            "They think the game is interesting.",
+            "[person_1] and [person_2] are still holding hands at the end of the video.",
+            "[person_2] used a brush to apply powder on [person_3]'s face and [person_1] looked into the camera and talked.",
+            "Because this action is too difficult for [person_1] , [person_1] can\u2019t complete the action alone.",
+            "It is clear that they enjoy the game a lot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room has no light bulb?",
+        "answer": [
+            "It is predicted that [person_1] , [person_2] and [person_3] won't continue recording.",
+            "The [person_1] will move and run as fast as possible.",
+            "[person_1] will not eat the food in the bowl.",
+            "The [person_1] will determine which the keyboard needs to touch.",
+            "They would see what's going on."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "[person_3] would get injured.",
+            "Because they're curious.",
+            "There will be no room for shredded paper any more.",
+            "[person_3] is a kid."
+        ]
+    }
+}

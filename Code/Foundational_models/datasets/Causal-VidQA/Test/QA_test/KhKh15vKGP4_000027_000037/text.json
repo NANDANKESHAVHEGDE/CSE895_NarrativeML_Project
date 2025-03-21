@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [car_1]?",
+        "answer": [
+            "The [car_1] is in the yard and next to the gate of the house.",
+            "The [person_1] is standing next to an apple tree.",
+            "[car_1] is behind [person_1].",
+            "[car_1] is in the house.",
+            "The [car_1] is running in front of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does the [person_1] keep balance?",
+        "answer": [
+            "Perhaps [person_1] is teaching the way to play the harmonica.",
+            "The [person_1] reduces any chance of injury.",
+            "By holding the rein tightly.",
+            "The [person_1] stretches the arms to the right and the left.",
+            "[person_1] wants to stack the dice."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "The [person_1] will swallow the beer in his mouth.",
+            "The [person_1] may keep riding on the road.",
+            "[person_1] will go home.",
+            "The [person_1] may rip the wrapper of the box.",
+            "[person_1] will spread the red carpet on the floor."
+        ],
+        "reason": [
+            "The [person_1] was dozing and was startled when he fell forward so he would sit backward.",
+            "The [person_1] feels excited with the cameramen's jokes.",
+            "The [person_1] could manage to keep balance when riding and the [person_1] do not fall.",
+            "The [person_1] is putting his foot on the pedal of the [person_1].",
+            "The [person_1] poured a lot of beer into his mouth and has not swallowed yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not stretch the arms of the [person_1]?",
+        "answer": [
+            "The [person_1] will not have to clean all skin of potatoes up.",
+            "The [person_1] might lose balance and fall.",
+            "The [person_1] will go to chase the camel.",
+            "Then [person_1] will stop the [person_1].",
+            "It is possible that the girl who is sitting in a wheelchair will not continue playing ball."
+        ],
+        "reason": [
+            "Stretching the arms to the left and the right helps the [person_1] keep balance.",
+            "There will be two bass guitar players and one drum player.",
+            "The [person_1] is wearing a cap while pushing.",
+            "There is a vehicle nearby that can transfer [person_1] and the bike back.",
+            "[person_1] would do this with only one arm bearing the weight."
+        ]
+    }
+}

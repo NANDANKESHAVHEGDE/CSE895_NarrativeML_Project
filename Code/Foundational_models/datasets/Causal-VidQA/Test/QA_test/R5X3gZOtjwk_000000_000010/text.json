@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many beer bottles are hold by [person_1]?",
+        "answer": [
+            "Two.",
+            "One.",
+            "The scene is wonderful.",
+            "Six.",
+            "Four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit on [chair_1]?",
+        "answer": [
+            "Because they are in a pillow fight.",
+            "[person_1] is reading newspaper.",
+            "[person_1] doesn't want to get tired.",
+            "Because he wants to have a relax.",
+            "To do massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "He is going to pass one of the beer bottles to his friends.",
+            "[person_1] is going to need a break.",
+            "[person_1] is going to sit there.",
+            "[person_1] is going to take a break.",
+            "[person_1] is going to keep seeing."
+        ],
+        "reason": [
+            "[person_1] is trying to make it more beautiful.",
+            "There are two bottles of beer on the hand of [person_1].",
+            "[person_1] has drunk too much water.",
+            "[person_1] is huddling with the team.",
+            "[person_1] is smiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beer bottle in left hand of [person_1] is broken?",
+        "answer": [
+            "[person_1] might got hurt.",
+            "His pants will get wet.",
+            "[person_1] will pull the sheet off.",
+            "[person_1] would be lose.",
+            "They might be lying in the ground."
+        ],
+        "reason": [
+            "[person_1] clipped the bottle in his pants , and the liquid will spill out if the bottle is broken.",
+            "[person_1] raised his hand with an effort to wait for a bird to land in his hand.",
+            "The sun is dazzling.",
+            "[person_1] doesn't want the table to be dirty.",
+            "[person_1] wants to see what happened."
+        ]
+    }
+}

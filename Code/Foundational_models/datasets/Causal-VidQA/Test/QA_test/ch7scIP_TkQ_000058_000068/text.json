@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "[person_1] is lying on the floor.",
+            "Yes , only one.",
+            "The weather is sunny.",
+            "No , there isn't.",
+            "There are two wheelchairs."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_4] play beer pong?",
+        "answer": [
+            "Maybe the weather is cold.",
+            "Because it is spacious enough for [person_4] to play violin.",
+            "[person_4] wants to learn to riding skillfully.",
+            "Because [person_4] finds the game interesting.",
+            "Bears don't live here."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] will continue to play.",
+            "[person_4] will pick up the ball on the ground.",
+            "[person_4] will ask [person_4] to teach him.",
+            "[person_4] is going to watch and follow people who are practicing on the stage.",
+            "Maybe [person_4] is going to lie on the ground."
+        ],
+        "reason": [
+            "[person_4] is young.",
+            "[person_4] is opening presents.",
+            "[person_4] is playing beer pong.",
+            "[person_4] just finished his turn of the competition.",
+            "[person_4] doesn't move around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "It is possible that [person_1] will stop watering the plants.",
+            "[person_1] maybe stop playing.",
+            "[person_1] will continue to stomp the grapes.",
+            "The people can stop walk and come in the house.",
+            "[person_1] and [person_1] will go inside."
+        ],
+        "reason": [
+            "Because [person_1] is outside and does not have any umbrella.",
+            "The road is very slippery so [person_1] can't skateboard.",
+            "[person_1] can't play baseball because of the rain.",
+            "[person_1] will need to stay away from raining.",
+            "[person_1] will get wet if it rains."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [refrigerator_1] big?",
+        "answer": [
+            "[refrigerator_1] is sitting on the ground.",
+            "Just one.",
+            "The text is white.",
+            "[refrigerator_1] is near some trees.",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] laughing?",
+        "answer": [
+            "[person_1] stacked the dice to do it for fun.",
+            "Maybe [person_1] and [person_1] are playing together.",
+            "[person_1] is excited about something.",
+            "[person_1] is doing lunges.",
+            "[person_1] wants to know exactly what [person_1] is doing."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_2] next?",
+        "answer": [
+            "[person_1] will eventually finish sheering the sheep and then get off of the sheep to let it go so he can collect the fur.",
+            "[person_2] might perform one more throwing knife.",
+            "[person_1] may play another tune.",
+            "[person_2] will keep playing with [person_1].",
+            "The road will be very clean without so much snow on it."
+        ],
+        "reason": [
+            "[person_2] only sanded a little piece of the wood ; he will sand a large portion of the wood to show what it can do.",
+            "[person_2] may feel tired after walking around.",
+            "[person_2] feels pretty joyful and enjoys it a lot . ",
+            "[person_2] is having fun playing this song on his guitar , so he won't want to stop until he is done.",
+            "[person_2] has done one set of squats."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is thirsty?",
+        "answer": [
+            "[person_2] will open the curtain.",
+            "Maybe [person_2] will stop shaking his head.",
+            "His mother would comfort him.",
+            "Perhaps the mother of [person_2] will cook the next dish for him.",
+            "He will get hurt."
+        ],
+        "reason": [
+            "[person_2] will drink water.",
+            "[person_2] and [person_2] are playing outside.",
+            "[person_2] and [person_2] are outside.",
+            "[person_2] will get hurt if he does not wear trainers.",
+            "Because one hand can't make the sound that two hands make at the same time."
+        ]
+    }
+}

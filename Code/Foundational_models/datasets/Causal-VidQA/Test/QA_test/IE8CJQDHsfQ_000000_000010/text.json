@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "[person_1] is sitting on the [person_1].",
+            "It is in front of the yellow curtain.",
+            "It is behind [person_1].",
+            "It is on the bookshelf.",
+            "[person_1] is wearing a blue shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing maracas?",
+        "answer": [
+            "Because [person_1] likes the sound of maracas.",
+            "[person_1] is avoiding being tickled.",
+            "Maybe [person_1] is being treated for insomnia.",
+            "Maybe [person_1] is playing maracas for fun.",
+            "Because [person_1] is going to have a boxing match."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue shaking maracas.",
+            "[person_1] is going to keep smoking.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to continue skateboarding.",
+            "[person_1] is going to continue riding."
+        ],
+        "reason": [
+            "Maybe [person_1] started weaving fabric.",
+            "[person_1] likes playing with maracas.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] likes [person_1] outfit.",
+            "[person_1] looks so excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if someone put the maracas away from [person_1]?",
+        "answer": [
+            "the alarm for [person_1] might scare [person_1] , and she would cover her ears because the noise would be too loud.",
+            "[person_1] would cry.",
+            "The [person_1] would stop talking about the hat.",
+            "The opponent of [person_1] would get the control of the ball.",
+            "The [person_1] might get a car accident."
+        ],
+        "reason": [
+            "[person_1] is near the ball and he is running to the ball.",
+            "Otherwise he will get hurt.",
+            "The opponent of [person_1] also wants to control the ball so that he may score a goal.",
+            "[person_1] is just a kid ; therefore , [person_1] can get frightened easily.",
+            "[person_1] wants the maracas."
+        ]
+    }
+}

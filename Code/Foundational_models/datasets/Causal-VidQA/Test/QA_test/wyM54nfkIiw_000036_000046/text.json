@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite tidy.",
+            "The room is cramped.",
+            "The room is quite dark.",
+            "It is small and tidy.",
+            "It is warm and tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_1] and [person_2] are playing laser tag.",
+            "Maybe [person_1] and [person_2] are taking a photo.",
+            "Because [person_2] is watching [person_1].",
+            "[person_2] is helping [person_1] open the lid of the box.",
+            "[person_2] is [person_1]'s friend."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to pull balloon out of the pump.",
+            "[person_1] and [person_2] are going to hover - boarding together.",
+            "[person_1] and [person_2] are going to flip every cakes in the pan.",
+            "[person_1] and [person_2] are going to shoot.",
+            "[person_1] and [person_2] are going to stand up."
+        ],
+        "reason": [
+            "Then maybe [person_1] and [person_2] are going to rest.",
+            "[person_1] and [person_2] hold laser guns in hands.",
+            "Because [person_1] and [person_2] are very happy.",
+            "Because [person_1] and [person_2] want to find out the winner.",
+            "There are many different types of cattle that are not following the herd , so [person_1] and [person_2] are going to bring each type of cattle to the correct barn."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets hit by a laser gun?",
+        "answer": [
+            "[person_1] will lose the game.",
+            "[person_1] may not feel cold.",
+            "[person_1] will be practice better.",
+            "[person_1] would get drunk.",
+            "[person_1] will scream loudly."
+        ],
+        "reason": [
+            "[person_1] will run every meeting.",
+            "They will fix the door.",
+            "It's not normal to find a gun in a dumpster so he may need the police to check if there is criminal thing happened.",
+            "This game is quite difficult.",
+            "[person_1]'s jacket is too heavy."
+        ]
+    }
+}

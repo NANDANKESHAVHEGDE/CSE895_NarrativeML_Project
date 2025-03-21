@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many cups are there in the [dining table_1]?",
+        "answer": [
+            "[dining table_1] is on the shelf.",
+            "[dining table_1] is white.",
+            "There are 11 cups in the [dining table_1].",
+            "It is behind the [dining table_1].",
+            "The [dining table_1] is on the left side of the road."
+        ]
+    },
+    "explanatory": {
+        "question": "How did [person_1] and [person_2] play beer pong?",
+        "answer": [
+            "The [person_1] prepares to slide down a snowy hill.",
+            "[person_1] and [person_2] are performing together.",
+            "[person_1] is doing a gymnastics move.",
+            "Because [person_2] is not interested in making bubbles.",
+            "[person_1] and [person_2] didn't throw the ball into any cups of the opposing team."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will stop practicing.",
+            "[person_1] will be the loser.",
+            "[person_1] will continue writing.",
+            "[person_1] will keep dancing.",
+            "[person_1] is going to continue learning to spin plates."
+        ],
+        "reason": [
+            "the face of [person_1] is covered in cream.",
+            "Because [person_1] seems to have a lot work to do.",
+            "[person_1] is going to go where the ball was placed before.",
+            "The [person_1] team only has one cup left on the [dining table_1] while the opposing team still keeps 10 cups.",
+            "Presumably [person_1] has not used the bathroom yet so [person_1] will keep walking them until they are done."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [dining table_1] isn't broken?",
+        "answer": [
+            "[person_1] will bend forward to pick the faucet up.",
+            "[person_1] will stand for a few seconds and fall.",
+            "[person_1] would not able to finish her work.",
+            "They will cook it again.",
+            "[person_1] , [person_2] , and the opposing team will continue playing beer pong."
+        ],
+        "reason": [
+            "The [dining table_1] tries to practice throwing shot put properly.",
+            "Both teams have the cups remaining on the [dining table_1].",
+            "Bed is necessary for massage.",
+            "A microscope is a very fine instrument.",
+            "The cake is on the bed and behind [dining table_1] and [dining table_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [tv_1]?",
+        "answer": [
+            "[tv_1]'s shirt is red.",
+            "[tv_1]'s shirt is red.",
+            "The painting is on the wall.",
+            "[tv_1] is next to a [bottle_1].",
+            "It is a wire cage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] laughing?",
+        "answer": [
+            "[person_1] wants [person_2] to be nearer.",
+            "Because [person_1] is using the trowel to plaster.",
+            "Since [person_1] is performing to bring in cash.",
+            "because [person_1] has to do that or [person_1] will fall.",
+            "[person_2] is seeing something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "Maybe [person_2] is going to continue punching [person_1].",
+            "[person_2] is going to talk with [person_1].",
+            "[person_1] is going to give the paper for [person_1].",
+            "[person_2] is going to stop looking at [person_1].",
+            "Maybe [person_2] is going to turn around his head."
+        ],
+        "reason": [
+            "[person_2] is watching [tv_1].",
+            "Hand fists of [person_2] are raising.",
+            "Because [person_2] is cutting too slowly.",
+            "Because [person_2] buttresses the wall and goes forward.",
+            "[person_2] wants to play with the ball more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "[person_2] may hold the [person_1].",
+            "There must be someone to comfort [person_1].",
+            "[person_2] may drop the [person_1].",
+            "The mother will comfort [person_1] .",
+            "[person_1] may hold the [person_2]."
+        ],
+        "reason": [
+            "[person_2] is out of the room.",
+            "When you practice something a lot , you will get good at it.",
+            "[person_2] is in the room.",
+            "Because lifting weights is very difficult and dangerous if [person_1] does not practice properly.",
+            "[person_1] is in the room."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bed_1]?",
+        "answer": [
+            "[bed_1] is behind [person_1].",
+            "[bed_1] is behind [person_1]'s back.",
+            "The [bed_1] is in the middle of the room , the [person_1] is sitting on it.",
+            "The [bed_1] is behind [person_1].",
+            "[bed_1] is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the person rip the paper?",
+        "answer": [
+            "Because [person_1] is inviting [person_1] to his house.",
+            "Because the [person_1] seems to be a host who is talk to the doll for fun.",
+            "Maybe [person_1] is in a guitar shop.",
+            "Because the [person_1] seems to pick something from the bookshelves.",
+            "The person rips the paper to have the [person_1]'s attention."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] will jump into the mud again.",
+            "[person_1] will pass the paper to some else.",
+            "[person_1] will paint the tree with green.",
+            "[person_1] may set the fish he caught into a fishing net.",
+            "The [person_1] is going to continue to polish a section."
+        ],
+        "reason": [
+            "The [person_1] isn't changing the emotion while performing as a living statue.",
+            "The [person_1] uses foot to hit the ball again and again.",
+            "[person_1] is attracted to someone , he holds the paper up and gives it to them.",
+            "The [person_1] is looking at the weather map.",
+            "The tide is rising."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [bed_1] broke?",
+        "answer": [
+            "The people would feel shocked.",
+            "[person_1] would fall.",
+            "The raisins will be sprinkled after the egg tart is baked.",
+            "The audience might be disappointed.",
+            "[person_1] would perform without sound."
+        ],
+        "reason": [
+            "If there is one ingredient missing , the food will not taste good , so [person_1] can't make it.",
+            "[person_1] is sitting on the [bed_1].",
+            "The dog is the pet of [person_1].",
+            "[person_1] wants to wait the dog.",
+            "When [bed_1] picks something up from the ground , she puts it between the two cups."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there?",
+        "answer": [
+            "There are two in the room.",
+            "There are a lot of cars.",
+            "Yes , there are.",
+            "There are three chairs in the room.",
+            "Only one."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a hat?",
+        "answer": [
+            "[person_1] is too tired.",
+            "[person_1] used his hand to stop the video.",
+            "[person_1] and [person_1] have reached the end of the lawn.",
+            "[person_1] needs a jacket to keep himself warm.",
+            "The hat goes with the clothes [person_1] is wearing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drink orange juice.",
+            "[person_1] is going to continue playing the bagpipes.",
+            "[person_1] is going to stop play the harmonica.",
+            "[person_1] is going to pick up the ball.",
+            "[person_1] is going to put the dressing on the cake."
+        ],
+        "reason": [
+            "[person_1] is putting the harmonica down.",
+            "[person_1] is instructing about riding [person_1].",
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] is showing the hands up and shaking the body.",
+            "[person_1]'s left leg is off the fence."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't know the way to play the harmonica?",
+        "answer": [
+            "[person_1] would practice more.",
+            "They will catch a cold.",
+            "[person_1] will throw it.",
+            "[person_1] would mess up her song as she gets bumped into by a stranger and she would then be upset by his rudeness.",
+            "The fried chicken legs will stick together."
+        ],
+        "reason": [
+            "[person_1] put the harmonica down after playing the harmonica.",
+            "These kids are too young to go out , so they need adults to protect them.",
+            "There is a lot to play with.",
+            "Because it's his responsibility.",
+            "Because playing games requires discretion."
+        ]
+    }
+}

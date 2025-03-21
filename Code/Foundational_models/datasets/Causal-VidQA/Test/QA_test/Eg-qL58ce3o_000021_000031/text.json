@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there cows?",
+        "answer": [
+            "The dog is behind [person_1].",
+            "No.",
+            "[person_1] is sit on [person_1].",
+            "Yes.",
+            "[person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] dress like this?",
+        "answer": [
+            "[person_1] is very happy.",
+            "To practice [person_1]'s riding skill.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is skating backward.",
+            "[person_1] is helping [person_1] train."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the horse turns?",
+        "answer": [
+            "[person_1] may celebrate for the performance.",
+            "[person_1] will continue juggling till [person_1] gets tired of juggling.",
+            "[person_1] will stretch the muscles.",
+            "[person_1] seems a little bored.",
+            "[person_1] will ask the horse to run."
+        ],
+        "reason": [
+            "[person_1] is holding a flute.",
+            "[person_1] has little time.",
+            "[person_1] thinks toy cars are more interesting than lawn mowing.",
+            "Because they use the same kind of scooter.",
+            "[person_1] wants everyone to hear his music."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the horse doesn't want to move forward?",
+        "answer": [
+            "[person_1] will give the horse some food.",
+            "The parents of [person_1] will give [person_1] another toy.",
+            "[person_1] will give the horse no food.",
+            "[person_1] will sing while playing the piano.",
+            "[person_1] won't give the horse some food."
+        ],
+        "reason": [
+            "The horse is hungry.",
+            "Because they need it to work.",
+            "The horse is dying.",
+            "Here are more exercising balls in the room.",
+            "The horse is full."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the basketball court.",
+            "[person_1] is inside.",
+            "[person_1] is on the stage.",
+            "[person_1] is near the window.",
+            "[person_1] is in the room"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a basketball ?",
+        "answer": [
+            "[person_1] is shooting basketball.",
+            "[person_1] wants to listen to music through the headphone.",
+            "[person_1] is playing basketball with his son.",
+            "[person_1] does not want to fall.",
+            "[person_1] wants to improve his physical strength."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] is going to pick up the ball and shoot it again.",
+            "Maybe [person_1] is going to draw a moon.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] may not eat the egg."
+        ],
+        "reason": [
+            "[person_1] is holding the chess piece.",
+            "[person_1] is practicing shooting from a distance.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is preparing to turn another somersault.",
+            "The milk needs to be put in the fridge."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the basketball court suddenly loses power?",
+        "answer": [
+            "[person_1] will instruct other people who want to learn this skill.",
+            "They will stop to dance.",
+            "[person_1] won't be able to continue practicing.",
+            "[person_1] will ask [person_1] to go home.",
+            "The [person_1] will be picked up by [person_1]."
+        ],
+        "reason": [
+            "[person_1] needs electricity to have lights and see the basket.",
+            "It is embarrassed to fail before people.",
+            "[person_1] does not like doing exercise in the darkness.",
+            "It was difficult to remove paint from clothes.",
+            "Because [person_1] will have no one to play with him."
+        ]
+    }
+}

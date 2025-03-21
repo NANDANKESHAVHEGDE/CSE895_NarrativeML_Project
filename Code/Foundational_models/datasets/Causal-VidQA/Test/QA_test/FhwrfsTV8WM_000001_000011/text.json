@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is blue.",
+            "The shirt is red.",
+            "The shirt is black.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_2] prepares to discover the gifts.",
+            "[person_2] also wants to play the keyboard.",
+            "[person_1] is opening present.",
+            "[person_1] needs to place the accordion on his lap.",
+            "[person_1] is helping [person_2] to do physical therapy exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to push wheelchair for [person_2] to practice physical therapy exercises.",
+            "[person_1] is going to continue skateboarding.",
+            "[person_1] is going to keep smoking.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to roll the ruler back."
+        ],
+        "reason": [
+            "[person_1] is sliding downhill.",
+            "[person_1] likes sledding.",
+            "[person_1] has finished the body color.",
+            "[person_1] just started.",
+            "[person_2] is disabled."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't push wheelchair for [person_2]?",
+        "answer": [
+            "It is probable that [person_2] will not continue practice physical therapy exercises.",
+            "[person_2] will block that kick.",
+            "It isn't probable that [person_2] will not continue practice physical therapy exercises.",
+            "[person_1] would stop playing to change a new bat.",
+            "It is probable that [person_2] will continue practice physical therapy exercises."
+        ],
+        "reason": [
+            "The others haven't caught any fish yet.",
+            "[person_2]'s legs are very strong and can't stand up.",
+            "Because too much water will make the clay get sticky.",
+            "[person_2]'s legs are very weak and can't stand up.",
+            "The hoop is heavy enough to hurt [person_1]'s feet."
+        ]
+    }
+}

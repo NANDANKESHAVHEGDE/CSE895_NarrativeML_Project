@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "The [person_1] is in the living room and in front of the TV.",
+            "[person_1] is sitting on the sofa.",
+            "The [person_1] is next to the wall.",
+            "The [person_1] is behind the gong."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stick out [person_1]'s tongue?",
+        "answer": [
+            "The [person_1] wants to show the internal structure of the [person_2].",
+            "To help [person_1] keep his balance.",
+            "The [person_1] is looking for something in the [person_1].",
+            "Because [person_1] is imitating [person_2].",
+            "Because [person_1] is playing maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] probably do?",
+        "answer": [
+            "Put the lid of the pumpkin into [person_1].",
+            "[person_1] may have to put things in his bag.",
+            "[person_1] will continue to eat the food on the table.",
+            "[person_1] will continue to mimic what [person_2] does.",
+            "[person_1] wants the food in front of her."
+        ],
+        "reason": [
+            "[person_1] will continue to mimic what [person_2] does because [person_1] is still looking at [person_2].",
+            "The food has been prepared well and looks good.",
+            "It's just an accident and [person_1] is not on purpose.",
+            "[person_1] is moving his hand with beer to his mouth.",
+            "Roasted marshmallows are delicious to eat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] didn't turn [person_1]'s head to look at [person_2]?",
+        "answer": [
+            "[person_1] would fall down the [person_2].",
+            "[person_1] wouldn't imitate [person_2].",
+            "[person_1] might chase [person_2].",
+            "[person_2] wouldn't imitate [person_1].",
+            "[person_1] wouldn't be able to play the organ."
+        ],
+        "reason": [
+            "[person_2] wouldn't imitate [person_1] because [person_2] couldn't see what [person_1] is doing.",
+            "If [person_1] doesn't clear the marks on [person_2] , it will affect the beauty of [person_2] and the words on [person_2] can't be seen clearly",
+            "[person_1] would imitate [person_2] because [person_1] couldn't see what [person_2] is doing.",
+            "When [person_1] let [person_1] go , [person_1] may get lost from the herd.",
+            "[person_1] wouldn't imitate [person_2] because [person_1] couldn't see what [person_2] is doing."
+        ]
+    }
+}

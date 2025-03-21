@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is the vest [person_1] wearing?",
+        "answer": [
+            "Between [person_1] and [person_1].",
+            "It is black.",
+            "The [person_1] is on the shelve behind [person_1].",
+            "The [person_1] is on the ground.",
+            "The [person_1] is wearing a black cap."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the harp?",
+        "answer": [
+            "[person_1] is playing the harp.",
+            "[person_1] is playing the lute.",
+            "Because [person_1] wants to make a beer cask.",
+            "Because [person_1] is playing the flute.",
+            "[person_1] wants to teach this exercise to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to continue stretching."
+        ],
+        "reason": [
+            "[person_1] wants to relax with this game.",
+            "[person_1] is still moving hands on the the harp.",
+            "[person_1] is finishing the product.",
+            "[person_1] showed the snake and kept stepping forward.",
+            "[person_1] is going to rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_2] weren't there?",
+        "answer": [
+            "[person_1] would not be able to sit on it.",
+            "[chair_2] would not be able to sit on [chair_2].",
+            "[chair_2] would not be able to sit on.",
+            "The bodyguard behind [person_1] will immediately step forward to stop the behavior.",
+            "[person_1] will be worried."
+        ],
+        "reason": [
+            "Because it's very steep.",
+            "There would be only [chair_2] near [person_1].",
+            "Knocking on the cup also makes sounds.",
+            "[chair_2] is the coach of the cheer - leading team.",
+            "Sandstorm is very dangerous."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "It is a grey shirt.",
+            "It is white and red.",
+            "The shirt is black.",
+            "The shirt is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in front of the keyboard?",
+        "answer": [
+            "[person_1] is practicing the keyboard.",
+            "Because she is a singer.",
+            "Because there is little grass where [person_1] changes the direction.",
+            "[person_1] is a singer.",
+            "The hands of [person_1] are cold from the snow because [person_1] does not wear gloves."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to?",
+        "answer": [
+            "[person_1] tends to look at the book and play the keyboard.",
+            "[person_1] intends to fold over the other side of the paper and tape it down.",
+            "[person_1] tends to perform his talent in front of many people.",
+            "[person_1] will stop the engine.",
+            "[person_1] and [person_1] are likely to playing ball together."
+        ],
+        "reason": [
+            "[person_1] is taking breath to blow.",
+            "[person_1] needs a ball to keep on practicing.",
+            "After cutting the apple , the knife becomes dirty.",
+            "There are some plants nearby.",
+            "The book is in front of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets tired?",
+        "answer": [
+            "[person_1] can not flip back.",
+            "Maybe [person_1] will need a break.",
+            "Maybe [person_1] will drink water.",
+            "Maybe [person_1] will leave first.",
+            "[person_1] will cry and shout."
+        ],
+        "reason": [
+            "[person_1] does not have the strength to play the keyboard.",
+            "They can not form a cycle.",
+            "[person_1] may be taking part in the competition.",
+            "[person_1] has to leave midway , but the interview is not easy to stop , so the best way is to speed up the interview.",
+            "[person_1] will stop jumping."
+        ]
+    }
+}

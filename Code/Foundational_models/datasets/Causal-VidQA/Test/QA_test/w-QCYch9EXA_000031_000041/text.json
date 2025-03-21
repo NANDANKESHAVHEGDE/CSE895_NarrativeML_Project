@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_2]'s trousers.",
+        "answer": [
+            "The room is pink.",
+            "Black.",
+            "The [person_2] is on a window sill.",
+            "The [person_2] is on a wall plastering machine.",
+            "The room is blue and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] kneel on one knee.",
+        "answer": [
+            "Because the door is tight.",
+            "[person_1] is looking at the book on the table to play the flute.",
+            "To propose to [person_2].",
+            "Because it's easy to get over there.",
+            "Because there is only one visitor."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to kiss the woman.",
+            "[person_2] is going to flip the sword.",
+            "[person_2] is going to stretch her hand.",
+            "[person_2] is going to continue testifying.",
+            "[person_2] is going to bow to the audiences."
+        ],
+        "reason": [
+            "[person_2] take a rest.",
+            "Because [person_2]'s movements are not very skilled.",
+            "[person_2] runs very fast and professional.",
+            "Trainers need encouragement.",
+            "To receive the ring."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] refused the proposal and ran away?",
+        "answer": [
+            "[person_1] will run after [person_2].",
+            "[person_2] will come and save [person_1].",
+            "The [person_1] will use this concrete materials to lay.",
+            "[person_1] will be scolded or fined.",
+            "[person_1] may fall."
+        ],
+        "reason": [
+            "To ask the reason and beg for [person_2]'s agreement.",
+            "It was cold and it took a lot of strength to climb.",
+            "The weights will fall on the feet of [person_2].",
+            "Or [person_2]'s mother will criticize him.",
+            "To beg [person_2] to change her mind."
+        ]
+    }
+}

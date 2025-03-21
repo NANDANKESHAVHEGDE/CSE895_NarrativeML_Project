@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is going out with his family.",
+            "[person_1] is talking about chess.",
+            "[person_1] is smoking.",
+            "[person_1] is learning to play chess.",
+            "[person_1] is stacking the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to play chess.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "[person_1] is very focused.",
+            "[person_1] has already picked one piece up.",
+            "It is very sunny.",
+            "[person_1] only used 1 dice.",
+            "Because [person_1] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays alone?",
+        "answer": [
+            "Then [person_1] will stopped his dancing movement.",
+            "[person_1] will be sad.",
+            "[person_1] will go away.",
+            "Maybe [person_1] will have eyestrain.",
+            "Maybe [person_1] will sit on the ground."
+        ],
+        "reason": [
+            "Heavy lifting could not be done without the lifts.",
+            "[person_1] will focus on playing.",
+            "[person_1] competing in the Olympics , and everything is perfect except the landing.",
+            "[person_1]'s arm hurts.",
+            "[person_1] will stop playing."
+        ]
+    }
+}

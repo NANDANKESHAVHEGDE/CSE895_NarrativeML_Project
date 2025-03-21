@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [chair_2]?",
+        "answer": [
+            "It is black.",
+            "Yes , it is.",
+            "It is in front of the wall.",
+            "It is on the right hand side of [person_2].",
+            "The [chair_2] is near [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] laughing?",
+        "answer": [
+            "[person_1] is do it for fun.",
+            "[person_1] is excited about playing with [person_3].",
+            "[person_1] stacked the dice to do it for fun.",
+            "[person_1] is doing lunges.",
+            "[person_1] wants to play with the child."
+        ]
+    },
+    "predictive": {
+        "question": "What is going to happen with [person_3] next?",
+        "answer": [
+            "[person_3] will probably apologize to [person_1].",
+            "[person_1] ( who is wearing jeans ) is going to gather her hand with everyone else.",
+            "Maybe it was taken by the person opposite.",
+            "She may clean the dog.",
+            "[person_3] is going to keep playing with [person_1] . "
+        ],
+        "reason": [
+            "[person_3] is wearing a uniform and gloves to not dirty the food ; she seems to be a professional and teaches [person_3].",
+            "It seems that [person_3] quite enjoys it a lot.",
+            "[person_3] is trying to improve the skills.",
+            "Because the person opposite is holding a cell phone.",
+            "[person_3] is putting soap on a sponge to wash the dishes in the sink."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone rings?",
+        "answer": [
+            "[person_3] will go to the restaurant.",
+            "[person_3] will need a doctor.",
+            "[person_3] will stop reading.",
+            "Maybe [person_3] will pick up the phone.",
+            "[person_3] will stop playing."
+        ],
+        "reason": [
+            "The room became very noisy.",
+            "[person_3] is the only adult in the room.",
+            "the light from [person_3] will affect the camera's dynamic range.",
+            "There are many kinds of equipment in his room.",
+            "The [person_3] does not put on any glasses to throw the shot effectively."
+        ]
+    }
+}

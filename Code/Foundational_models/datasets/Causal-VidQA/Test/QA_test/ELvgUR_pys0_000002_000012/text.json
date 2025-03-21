@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the floor?",
+        "answer": [
+            "A scooter.",
+            "The carpet is blue.",
+            "It is blue.",
+            "It is orange.",
+            "The carpet is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] shaking their heads?",
+        "answer": [
+            "Because [person_1] and [person_2] are friends.",
+            "Perhaps [person_1] and [person_1] are saluting.",
+            "[person_1] and [person_2] are feeling very happy.",
+            "Because [person_1] is exercising.",
+            "[person_2] is standing there to give [person_1] the knifes."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will stop recording the dance.",
+            "[person_1] and [person_2] will kiss each other.",
+            "[person_1] and [person_2] will play another game.",
+            "[person_2] and [person_1] will keep playing.",
+            "[person_1] and [person_2] will change dancing actions."
+        ],
+        "reason": [
+            "[person_2] and [person_1] have not finished the performance yet.",
+            "[person_1] and [person_2]'s movements did not stop.",
+            "[person_1] and [person_2] are working together.",
+            "Because they hasn't decided a winner.",
+            "It is clear that they enjoy the game a lot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electricity is turned off?",
+        "answer": [
+            "It will hit [person_1].",
+            "Maybe [person_1] and [person_2] will start playing in the room.",
+            "They will stop making cookies.",
+            "Maybe [person_1] and [person_2] will stop playing in the room.",
+            "They will use generators."
+        ],
+        "reason": [
+            "The room will be too dark to play in.",
+            "Rain doesn't affect [person_2] to work.",
+            "The room will be too bright to play in.",
+            "The actors on the stage will not see anything.",
+            "The room will be too small to play in."
+        ]
+    }
+}

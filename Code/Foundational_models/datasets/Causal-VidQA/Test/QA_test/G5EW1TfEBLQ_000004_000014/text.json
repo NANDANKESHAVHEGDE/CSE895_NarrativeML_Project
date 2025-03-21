@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is white.",
+            "It's pink.",
+            "It's black.",
+            "The shirt is yellow.",
+            "[person_1] is wearing the white shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] have \u00a0 a razor \u00a0 in her hand?",
+        "answer": [
+            "Because [person_1] is rubbing the gong.",
+            "[person_2] wants to help [person_1] shave.",
+            "[person_2] lean forward to see what [person_1] is doing.",
+            "[person_1] uses her mouth to make it easier to balance breathing during exercise.",
+            "[person_1] wants to use it as a guidance tool."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue hugging.",
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to let [person_2] shave him.",
+            "[person_1] is going to continue stomping grapes.",
+            "[person_1] is going to turn the next page and read it."
+        ],
+        "reason": [
+            "Maybe [person_2] does it because she likes to shave.",
+            "[person_1] does not finish carving.",
+            "[person_1] is bringing the towel from the toe to the sole of the boot.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "[person_1] is talking to someone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] finishes shaving?",
+        "answer": [
+            "The concrete is poured in will not be flat.",
+            "[person_2] and [person_2] would not practice.",
+            "[person_2] will be satisfied.",
+            "There will be less effect.",
+            "[person_2] may succeed on flipping the bottle."
+        ],
+        "reason": [
+            "That's why [person_1] needs to shave her beard.",
+            "[person_1] has a lot of toys.",
+            "By the movement [person_1] can explain better.",
+            "[person_1] will look more handsome.",
+            "The [person_1] is standing on the thick snow."
+        ]
+    }
+}

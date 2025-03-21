@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_1]?",
+        "answer": [
+            "[person_1] is in a small room.",
+            "[person_1] is sitting on the back of the mechanical bull.",
+            "[person_1] is in his living room.",
+            "[person_1] is skating in a stage.",
+            "[person_1] is sitting next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] put his hands on the shoulder of the mechanical bull?",
+        "answer": [
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is trying to play.",
+            "[person_1] wants to keep himself not to fall.",
+            "Maybe [person_1] is happy because [person_1] can stomp a lot of grape juice",
+            "[person_1] wants to greet everyone."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put his head down.",
+            "[person_1] is going to call someone help him.",
+            "[person_1] is going to practice.",
+            "[person_1] is going to cling to the mechanical bull's back even tighter.",
+            "[person_1] will take a rest."
+        ],
+        "reason": [
+            "[person_1] puts both of his hands on the shoulder of the mechanical bull to hold it tighter.",
+            "[person_1] keeps holding the ball in front of his chest , twists his body , lies down to the chair.",
+            "[person_1] is enjoying looking at herself after she puts the bobby pin on her head.",
+            "the carpet is surrounding [person_1].",
+            "[person_1] set up the cake in the pan and was about to flip it again."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the [umbrella_1] collapsed?",
+        "answer": [
+            "[person_1] will face danger that can lead to the death.",
+            "if the [umbrella_1] collapsed , the [person_1] would be hurt.",
+            "[person_1] will twist forward to get the fixture.",
+            "There may be a rematch.",
+            "[person_1] will keep practicing how to use [umbrella_1]."
+        ],
+        "reason": [
+            "Because [person_1] did not need to look at the camera and talk.",
+            "[person_1] will have to go fix [person_1].",
+            "The keyboard is strong enough to survive a fall.",
+            "Because [person_1] needs to answer the phone with his clean hands.",
+            "[person_1] is under the [umbrella_1]."
+        ]
+    }
+}

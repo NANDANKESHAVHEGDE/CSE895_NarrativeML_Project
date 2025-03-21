@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the hair of [person_1]?",
+        "answer": [
+            "The shirt [person_1] wearing is black.",
+            "Yes.",
+            "It is black.",
+            "The hair is yellow.",
+            "It is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [person_2]?",
+        "answer": [
+            "[person_2] is a conductor and [person_2] is leading the band.",
+            "The [person_2] is reading a book which is on the table.",
+            "Because [person_2] is still a baby and he can't walk yet.",
+            "Because [person_1] helps [person_2] open the book.",
+            "Because [person_1] has fun in playing games."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_2] intends to play the cymbal.",
+            "[person_1] intends to continue play the cello.",
+            "[person_1] has an intention of playing with the flute.",
+            "[person_1] intends to have an intention of playing the flute.",
+            "[person_1] is going to play guitar."
+        ],
+        "reason": [
+            "Maybe [person_1] talk to attract more viewers.",
+            "[person_1] didn't want to put the harmonica down.",
+            "[person_1] placed the stuffed animals in the middle of the paper",
+            "[person_2] feels very interesting.",
+            "[person_1] wants to rest a few minutes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries?",
+        "answer": [
+            "[person_2] won't be able to hold.",
+            "The snow blower won't work.",
+            "[person_2] can not swim.",
+            "[person_1] will take [person_2] to play another instrument.",
+            "[person_2] would have to stop his measurement work."
+        ],
+        "reason": [
+            "[person_2] is laughing.",
+            "[person_2] felt anxious and afraid [person_2] was angry.",
+            "[person_2] , [person_2] and [person_2] are a family.",
+            "Because there will be no support for them.",
+            "[person_2] don't like cymbal."
+        ]
+    }
+}

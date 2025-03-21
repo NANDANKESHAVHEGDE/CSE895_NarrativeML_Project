@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] doing?",
+        "answer": [
+            "It is a restaurant.",
+            "It lies on the street.",
+            "Yes , only one.",
+            "[person_3] is lying on the floor.",
+            "There are seven."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] laughing?",
+        "answer": [
+            "Because [person_1] helps [person_2] open the book.",
+            "[person_1] is doing lunges.",
+            "[person_2] is tickling [person_1] and [person_3].",
+            "[person_3] is a conductor and [person_3] is leading the band.",
+            "[person_1] wants to play with the child."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to play with the dog.",
+            "[person_2] is instructing how to dance.",
+            "[person_2] is going to increase the strength.",
+            "[person_2] come and feed the fish.",
+            "[person_2] may continue to play with [person_1] and [person_3]."
+        ],
+        "reason": [
+            "When [person_2] finishes tickling [person_1] and [person_3] , she raises her hands and prepares to do the next joke.",
+            "[person_2] is curious why [person_1] is smiling.",
+            "[person_2] is hugging [person_1] tight.",
+            "[person_2] turns back and lifts his foot to walk.",
+            "[person_2] does not want to help [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] does not tickle [person_1] and [person_3]?",
+        "answer": [
+            "[person_3] may fall down.",
+            "[person_1] will not fall off and still sit on his chair.",
+            "[person_1] will scratch her back with her hand.",
+            "[person_2] and [person_1] will clap their hands.",
+            "[person_2] may do another joke."
+        ],
+        "reason": [
+            "Because [person_1] doesn't want to interrupt the work of repairing.",
+            "When [person_2] plays with [person_1] and [person_3] , they look happy.",
+            "Hand is easier than using a tool at the time.",
+            "[person_1] moves the knife up and down to sharpen it.",
+            "[person_3] is right in front of [person_1] and if [person_3] stands up , [person_1] cannot see the performance anymore."
+        ]
+    }
+}

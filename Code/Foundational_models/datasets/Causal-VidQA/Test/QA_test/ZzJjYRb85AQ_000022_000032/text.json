@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there only one person?",
+        "answer": [
+            "No.",
+            "A trash can.",
+            "It is made of glass.",
+            "The bookshelf is behind [person_1].",
+            "The [person_1] is in front of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the megaphone?",
+        "answer": [
+            "Because it's Christmas time.",
+            "[person_1] is placed on the ground to contain the money.",
+            "[person_1] wants to be heard by more people.",
+            "[person_1] is scared of the firework explosion.",
+            "[person_1] is celebrating because he threw the ball in the basket."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will open it carefully.",
+            "[person_1] will stand to make his speech.",
+            "[person_1] maybe will check his somersault.",
+            "[person_1] will move his trowel to spread the plaster.",
+            "[person_1] will take off his gloves."
+        ],
+        "reason": [
+            "The boy wants to learn it.",
+            "There are many athletes.",
+            "[person_1] hasn't reach the amount of exercise planned for today.",
+            "This work is not finished yet.",
+            "There has been many people there to listen to his speech."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone is murdered among the crowd?",
+        "answer": [
+            "Maybe something will fall.",
+            "Maybe [person_1] will break.",
+            "People will scream.",
+            "[person_1] would continue to practice high kicking alone.",
+            "The [person_1] will hug the dog."
+        ],
+        "reason": [
+            "Long time heating might cause deterioration.",
+            "People feel scared.",
+            "[person_1] is still a baby and needs looking after by adults.",
+            "He is sure to play but the object is not sure.",
+            "The things on the table will fall onto the ground and in a mess."
+        ]
+    }
+}

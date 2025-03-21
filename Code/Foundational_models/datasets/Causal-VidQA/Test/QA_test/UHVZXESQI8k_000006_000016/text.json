@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is tearing the fruit with his teeth.",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is opening [person_1].",
+            "[person_1] is smashing a rubber tire.",
+            "[person_1] is sitting on a chair near the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the apples into the machine?",
+        "answer": [
+            "Because the automatic machine will peel the apples.",
+            "[person_1] picks up the dropped ball to throw.",
+            "Because [person_1] wants to know which present [person_1] will receive.",
+            "[person_1] is excited about this action.",
+            "Because [person_1] wants to relieve stress."
+        ]
+    },
+    "predictive": {
+        "question": "What is the person who wears a kitchen apron going to do?",
+        "answer": [
+            "[person_1] will wash his hands.",
+            "The person who wears a kitchen apron is going to collect the apples that were peeled.",
+            "The [person_1] will throw the woods away.",
+            "In his hand.",
+            "The swimmer may rest after swimming."
+        ],
+        "reason": [
+            "The person who wears a kitchen apron stands at the end of the production line and reaches the hand to the apple.",
+            "[person_1] is walking toward the ball.",
+            "[person_1] is thirsty.",
+            "They're in the way.",
+            "He is pressing [person_1]'s head to see its back clearly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] doesn't put the apple into the machine?",
+        "answer": [
+            "The gaps between slate tiles wouldn't be filled.",
+            "The balloon would be popped.",
+            "The dice would be fallen.",
+            "Maybe she won't eat then.",
+            "The apples will not be peeled."
+        ],
+        "reason": [
+            "It's the regulation of the game.",
+            "The machine needs somebody who supports the apple for it.",
+            "Because she doesn't seems to be very interested in it.",
+            "Because no one wants to play with [person_1].",
+            "[person_1] might score."
+        ]
+    }
+}

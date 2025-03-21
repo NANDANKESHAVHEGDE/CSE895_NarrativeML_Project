@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a room.",
+            "[person_1] is in his music room.",
+            "[person_1] is next to [person_2].",
+            "[person_1] is performing on stage.",
+            "[person_1] is in his room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] next to [person_2]?",
+        "answer": [
+            "[person_1] will feel hot and sweat a lot.",
+            "[person_1] is performing in a contest.",
+            "The accordion is so big , so [person_1] can't play it.",
+            "[person_2] is satisfied with the performance.",
+            "[person_1] is skiing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may change the action.",
+            "[person_1] is going to keep mopping the microscope.",
+            "[person_1] wants to perform skiing for the audience.",
+            "[person_1] is going to put the cans down.",
+            "[person_1] may be going to take a rest."
+        ],
+        "reason": [
+            "Because [person_1] is about to do it.",
+            "When [person_1] opens the box , [person_1] takes out a beautiful pink shirt.",
+            "Because [person_1] cannot believe in the eyes of [person_1].",
+            "[person_1] could not hit the ball and must try again.",
+            "May be [person_1] is the professional player."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen [person_1] fell down?",
+        "answer": [
+            "[person_1] won't be able to pull.",
+            "[person_1] may feel very shy.",
+            "[person_1] would lose his balance.",
+            "[person_1] would not fall.",
+            "[person_1] would get hurt from this action."
+        ],
+        "reason": [
+            "[person_1] wants to have a rest.",
+            "Perhaps [person_1] will get up and keep performing.",
+            "Because [person_1] is concentrating his attention on putting the money in the box.",
+            "Because when [person_1] gets the phone and see the information , it will affect brushing teeth.",
+            "If [person_1] suddenly falls down , [person_1] may not react and fall , and then the food in his hand will overturn."
+        ]
+    }
+}

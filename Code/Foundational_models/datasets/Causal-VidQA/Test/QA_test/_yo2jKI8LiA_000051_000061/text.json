@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite small.",
+            "The room is quite big.",
+            "The room is quite large.",
+            "It is in a training field.",
+            "It is nicely decorated."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the harmonica?",
+        "answer": [
+            "Because seeing a proposal in the office can add fun to a boring job.",
+            "[person_1] is swallowing sword.",
+            "Perhaps [person_1] loves playing musical instrument.",
+            "Because [person_1] is stomping grapes in a vat.",
+            "[person_1] is playing the maracas in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably put pieces of paper in the printer.",
+            "[person_1] will carry the bed into the warehouse.",
+            "[person_1] will continue to eat.",
+            "[person_1] will go back home.",
+            "[person_1] will be keep playing the harmonica."
+        ],
+        "reason": [
+            "[person_1] is riding horses and throwing ropes very professionally.",
+            "[person_1] switched the hammer into another hand.",
+            "[person_1] was playing the harmonica in a professional way.",
+            "[person_1] wants to put his hand in his mouth.",
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't stand?",
+        "answer": [
+            "[person_1] cannot dance while [person_1] plays the harmonica.",
+            "Body of [person_1] couldn't be as fit as [person_1] is now.",
+            "It may take longer for [person_1] to come home.",
+            "It is hard for [person_1] to practice.",
+            "[person_1] will be unemployed."
+        ],
+        "reason": [
+            "There would be no one for [person_1] and [person_1] to follow and mimic.",
+            "[person_1] wouldn't blown the balloon and he can play with it.",
+            "The duck can't go as fast as [person_1].",
+            "[person_1] cannot balance without leaning.",
+            "[person_1] is standing and dancing gait."
+        ]
+    }
+}

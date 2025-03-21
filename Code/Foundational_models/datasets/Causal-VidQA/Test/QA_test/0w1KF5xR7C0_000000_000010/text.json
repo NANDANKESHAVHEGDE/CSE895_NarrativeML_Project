@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [chair_1]?",
+        "answer": [
+            "[chair_1] is on the table.",
+            "The shirt is red.",
+            "It is brown.",
+            "[chair_1] is wearing a white shirt and tie.",
+            "[chair_1] is on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising eyebrows?",
+        "answer": [
+            "Maybe [person_1] is practicing playing flute.",
+            "Maybe [person_1] is doing exercise.",
+            "Maybe [person_1] wants to practice to strengthen the hand.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep trying to raise eyebrows.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to bed.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "[person_1] is still working.",
+            "[person_1] may laugh out loud.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is going to put the shoe down.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops raising her eyebrows?",
+        "answer": [
+            "[person_1] will stop swimming.",
+            "[person_1] will be smile.",
+            "[person_1] will try to catch the birds.",
+            "[person_1] will cry very loudly.",
+            "[person_1] and [person_1] would help [person_1]."
+        ],
+        "reason": [
+            "[person_1] may go out.",
+            "[person_1] needs to get her hair wet to comb it.",
+            "[person_1] doesn't wear any protective arms.",
+            "[person_1] was suddenly slapped by the other person.",
+            "[person_1] is running very fast."
+        ]
+    }
+}

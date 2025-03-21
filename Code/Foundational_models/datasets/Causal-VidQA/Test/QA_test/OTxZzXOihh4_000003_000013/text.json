@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room ?",
+        "answer": [
+            "It is large.",
+            "It is quite small.",
+            "It is very clean and neat.",
+            "It is small.",
+            "It is narrow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "Because [person_1] wants to have two glasses of beer for two people.",
+            "[person_1] is excited about riding a unicycle.",
+            "Because [person_1] wants to help the baby somersault.",
+            "Because [person_1] supports [person_2] and [person_3].",
+            "Because [person_1] is waiting for [person_2] to draw a picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to try to make sandwich.",
+            "[person_3] is going to thank everyone for their wishes.",
+            "[person_3] is just having a walk around the place.",
+            "[person_3] is going to continue using a tool to wax for him.",
+            "[person_3] may go on trying stand on one leg."
+        ],
+        "reason": [
+            "People did alternating fast and slow rhythms.",
+            "[person_3] guided and asked [person_3] to lower the plate.",
+            "[person_3] jumped over the tie.",
+            "[person_3] stands nearby and doesn't do anything special.",
+            "Maybe [person_3] practicing"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] doesn't stand ?",
+        "answer": [
+            "[person_3] will be fall.",
+            "[person_3] will be unemployed.",
+            "[person_3] will be happy.",
+            "Body of [person_3] couldn't be as fit as [person_3] is now.",
+            "[person_3] will be sad."
+        ],
+        "reason": [
+            "[person_3] will move the [person_3]'s feet around a lot when dancing zumba.",
+            "Maybe [person_3] is dizzy.",
+            "Every soldier needs a gun.",
+            "Maybe [person_1] is dizzy.",
+            "The body of [person_1] will be overloaded."
+        ]
+    }
+}

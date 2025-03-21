@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a blue shirt.",
+            "[person_1] is wearing casual clothes.",
+            "Four.",
+            "A teacher.",
+            "[person_1] is wearing a dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding harmonica in her hand?",
+        "answer": [
+            "[person_1] is the skating contest judge.",
+            "[person_1] is looking down at both of his hands while he plays so he doesn't mess up.",
+            "[person_1] is reading newspaper.",
+            "To pressure the gas inside the beer bottle to open it better.",
+            "[person_1] is performing a song by harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop playing the electric guitar.",
+            "[person_1] is going to meet friends.",
+            "[person_1] is going to introduce her research.",
+            "[person_1] also grinds the stone next.",
+            "[person_1] is going to take some photos."
+        ],
+        "reason": [
+            "[person_1] does not finish carving.",
+            "[person_1] is posing.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "[person_1] is bringing the towel from the toe to the sole of the boot.",
+            "Because this is a vlog."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] dropped the harmonica?",
+        "answer": [
+            "[person_1] will scream for help.",
+            "[person_1] would pick the harmonica up an go on playing.",
+            "[person_1] will be exhausted.",
+            "[person_1] will lose some cows.",
+            "[person_1]'s bullet would not go to the right spot."
+        ],
+        "reason": [
+            "It may be impossible to wear the shoe when it is far.",
+            "The harmonica is high from the floor.",
+            "[person_1] has not finished the performance.",
+            "Because the training can effectively exercise the muscles of [person_1] through the pulling and make his muscles more powerful.",
+            "Because [person_1] has the time and chances to try more times."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is holding a shoe polish.",
+            "[person_1] is holding two dumbbells.",
+            "[person_1] is staring at the burning marshmallow.",
+            "[person_1] is holding [hand pack_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the [hand pack_1]?",
+        "answer": [
+            "because [person_1] is reading [hand pack_1] for [hand pack_1].",
+            "[person_1] wants to play with the child.",
+            "[person_1] is do it for fun.",
+            "Because [person_1] is watching [person_1] weave fabric.",
+            "[person_1] is talking to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the barbell.",
+            "[person_1] will stop playing the flute.",
+            "[person_1] is going to start playing harmonica.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] will stand here."
+        ],
+        "reason": [
+            "[person_1]'s hands is shaking.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] is going to laugh out loud.",
+            "Because [person_1] is warming up her body and standing next to [person_1] on the running track.",
+            "[person_1] has just fell off the small chair and waited for a person to help him stand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The machine will stop working.",
+            "[hand pack_1] will stop instructing.",
+            "The room will be dark then.",
+            "The competition may stop.",
+            "[hand pack_1] may not keep raising eyebrows."
+        ],
+        "reason": [
+            "[person_1] will feel scared.",
+            "[person_1] will put the lute on the table.",
+            "Maybe [person_1] will go out.",
+            "[person_1] will stand still.",
+            "[person_1] may have a break."
+        ]
+    }
+}

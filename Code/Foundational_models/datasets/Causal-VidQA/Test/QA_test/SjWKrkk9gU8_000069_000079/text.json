@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "It is on the wooden box.",
+            "The [car_1] is parked on the road.",
+            "The [car_1] is parked in front of the brown building.",
+            "[car_1] is to the right of [person_1].",
+            "It is in the parking lot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Maybe [person_1] is guiding her how to ride unicycle.",
+            "[person_1] enjoys playing maracas and dancing happily.",
+            "Because [person_1] is waiting for [person_1] to draw a picture.",
+            "Maybe [person_1] wants to be there.",
+            "Maybe [person_1] is playing with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will kiss [person_1].",
+            "It is anticipated that [person_1] will stop playing maracas.",
+            "[person_1] will finish drawing the butterfly.",
+            "[person_1] will throw the weight.",
+            "[person_1] will use two arms to pull the rope."
+        ],
+        "reason": [
+            "[person_1] just shines one shoe.",
+            "[person_1] is paying attention to this a lot.",
+            "[person_1] practices stacking cups on top of each other.",
+            "[person_1] needs a lot of energy to dance while playing maracas.",
+            "[person_1] is taking over the coco."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a car comes to the parking lot where [person_1] is standing?",
+        "answer": [
+            "[person_1] will have to leave.",
+            "[person_1] won't be able to win.",
+            "[person_1] would not try to catch the hands.",
+            "[person_1] will continue to practice.",
+            "[person_1] will remain in its position."
+        ],
+        "reason": [
+            "Because [person_1] just hit hard so the strength of hard hitting will make [person_1] feel pain.",
+            "[person_1] needs to move somewhere else so [person_1] can play maracas.",
+            "Because the [person_1] has to make the camel move.",
+            "Because [person_1] is kind.",
+            "Now the difficulty coefficient is very large . If [person_1] reduces the difficulty of sports , [person_1] won't have such a large amount of sports."
+        ]
+    }
+}

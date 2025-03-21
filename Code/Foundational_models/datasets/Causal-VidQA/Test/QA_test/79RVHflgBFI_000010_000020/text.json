@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [teddy bear_1]?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "Korean national flag is on the wall.",
+            "It is to the left of [person_1].",
+            "The room is large.",
+            "The room is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] walking around the two boxes?",
+        "answer": [
+            "Because [person_1] is practicing snatching weight lifting.",
+            "Because [person_1] is unwrapping them.",
+            "Perhaps [person_1] is demonstrating how to shine shoes.",
+            "[person_1] he is shaving [person_1].",
+            "Because [person_1] needs the weight lifting to practice snatching."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may carve the back.",
+            "[person_1] is going to flip up the bigger box to unwrap it.",
+            "[person_1] may thanks [person_1].",
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] is holding the guitar.",
+            "[person_1] is holding a candy pack.",
+            "When [person_1] bends his body , his hand reaches the bottom of the box.",
+            "[person_1] wants to see the pig."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cannot move the box?",
+        "answer": [
+            "He may not ask for help.",
+            "[person_1] may not drink.",
+            "He may reject all help.",
+            "The [person_1] will not make the tree broken and died.",
+            "He may ask for help."
+        ],
+        "reason": [
+            "Because the cart is currently in a different location , not in the room.",
+            "When [person_1] unwraps the box , the box is too big for him to open.",
+            "[person_1] smiles when he see the general appearance of his new tattoo.",
+            "When [person_1] unwraps the box , the box is too small for him to open.",
+            "[person_1] can not practice lifting weights without the weights."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is standing next to [person_2].",
+            "[person_1] is in a small library.",
+            "[person_1] is in a guitar shop.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is at a grocery store."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] skating?",
+        "answer": [
+            "[person_3] will feel hot and sweat a lot.",
+            "[person_3] is performing in a contest.",
+            "[person_3] is skiing.",
+            "The accordion is so big , so [person_3] can't play it.",
+            "Because they're having a good time."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_3] next after the show begins?",
+        "answer": [
+            "[person_3] is a dancer.",
+            "[person_3] will watch the video to see if it was good.",
+            "That car will follow the gesture of [person_3].",
+            "[person_3] is going to take a break.",
+            "[person_3] will continue performing."
+        ],
+        "reason": [
+            "[person_3] doesn't change a sitting posture.",
+            "Because of the cotton - padded clothes [person_3] , [person_3] and [person_3] were wearing.",
+            "[person_3] seems to have not finished performing.",
+            "In the video , [person_3] is combing the [person_3]'s hair and smiling , which shows that [person_3] likes the [person_3] very much , just because [person_3] likes [person_3] , [person_3] won't feel tired.",
+            "If [person_3] didn't take away the bottle the machine will continue pour."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] was not focused?",
+        "answer": [
+            "[person_3] would get annoyed.",
+            "[person_3] would be injured.",
+            "[person_3] may walk faster.",
+            "[person_3] and others wouldn't be happy.",
+            "[person_3] will be happy."
+        ],
+        "reason": [
+            "The body will heat up when dancing.",
+            "[person_3] can fall during the performance.",
+            "[person_3] is the mom of [person_3] and [person_3] may feel unsafe if [person_3] is not staying with him.",
+            "[person_3] has done something wrong.",
+            "[person_3] handlebars need control to go in the right direction."
+        ]
+    }
+}

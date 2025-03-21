@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is outside.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in his living room.",
+            "[person_1] is in a classroom."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] play the violin?",
+        "answer": [
+            "A big metal bucket is placed on the ground to contain the apples.",
+            "[person_1] is sitting on the [bench_1].",
+            "Because [person_1] is playing the gong in this room.",
+            "Because [person_1] and [person_1] are in the same team so [person_1] and [person_1] wear the same white T - shirts.",
+            "Maybe [person_1] wants to play kickball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to smash [person_1].",
+            "Maybe [person_1] will enter the house.",
+            "[person_1] will practice with [person_1]'s violin for a long time.",
+            "[person_1] is going to talk to [person_1].",
+            "Perhaps [person_1] is going to come home."
+        ],
+        "reason": [
+            "[person_1] feels tired feet.",
+            "[person_1] is measuring .",
+            "[person_1] is doing it for fun.",
+            "Perhaps [person_1] loves playing his violin.",
+            "Maybe [person_1] is tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels hungry?",
+        "answer": [
+            "[person_1] will stop playing and take [person_1]'s violin home in order to have a meal.",
+            "[person_1] will stop playing piano.",
+            "[person_1] will sit on a chair and continue to clean the shoes.",
+            "[person_1] can let someone else hold the boards.",
+            "[person_1] will master the somersault."
+        ],
+        "reason": [
+            "There is a couch in the room.",
+            "Cold weather may make people move difficultly.",
+            "[person_1] won't be able to dance tap.",
+            "[person_1] may sit in a chair to have a rest.",
+            "Because [person_1] can't concentrate on playing when [person_1] is hungry."
+        ]
+    }
+}

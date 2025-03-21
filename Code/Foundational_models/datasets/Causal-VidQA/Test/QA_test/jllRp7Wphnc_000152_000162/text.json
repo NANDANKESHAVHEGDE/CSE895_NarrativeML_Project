@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the door?",
+        "answer": [
+            "It is tidy.",
+            "It is behind [person_2].",
+            "The room is colorful.",
+            "The room is dark.",
+            "The room is cramped."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting here?",
+        "answer": [
+            "Because [person_1] is practicing snatching weight lifting.",
+            "[person_1] is taking a bath.",
+            "[person_2] is reading a book for [person_1].",
+            "The [person_2] gave the [person_1] some paper.",
+            "Because [person_1] does not in time to hit the badminton ball."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next after seeing [book_1] ? ",
+        "answer": [
+            "[person_1] will pull the concrete chute of [book_1] to the left.",
+            "[person_1] will be taken to wash face.",
+            "[book_1] will play another round with [person_1].",
+            "When [person_1] is told that all is done.",
+            "[person_1] will start to read [book_1] . "
+        ],
+        "reason": [
+            "It seems that [person_1] concentrates on it and flips [book_1].",
+            "[person_1] needs the help of the diver.",
+            "Because [person_1] is attracted by other voices.",
+            "because [person_1] seems to be focusing on the act of laying stones.",
+            "Because [person_1] can't run so fast all the time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "[person_2] will coax [person_1] into smiling.",
+            "[person_1] will reject the call.",
+            "[person_2] will coax [person_1] into crying.",
+            "[person_1] will go to find where are the cries.",
+            "[person_2] will hit [person_1] into smiling."
+        ],
+        "reason": [
+            "[person_1] will help [person_2] keep the baby.",
+            "[person_2] loves [person_1] so much.",
+            "[person_2] will read book for [person_2].",
+            "[person_2] hates [person_1] so much.",
+            "[person_2] approached [person_1] and coaxed [person_1] to stop crying."
+        ]
+    }
+}

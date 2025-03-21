@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the house.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the outside.",
+            "[person_1] is sitting on bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting on the floor ?",
+        "answer": [
+            "[person_2] and [person_2] are preparing to wrestle.",
+            "[person_1] and [person_2] are doing yoga.",
+            "[person_2] is shaving for [person_1] .",
+            "The [person_1] sits here to peel the potato.",
+            "Because reading helps [person_1] relax more."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to practice with [person_2].",
+            "[person_1] may keep feeding the goat with [person_2].",
+            "[person_1] is going to tap dancing.",
+            "[person_1] is going to get more food for the goats.",
+            "[person_1] is going to play the flute right after that."
+        ],
+        "reason": [
+            "Maybe [person_1] is helping [person_2] do yoga.",
+            "When [person_1] jumps off the pool , he floats and prepares to swim.",
+            "[person_1] is holding the flute and is about to play.",
+            "Maybe [person_1] likes to play it.",
+            "Maybe [person_1] is going to practice more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] stared yoga ?",
+        "answer": [
+            "[person_2] would eat other food instead.",
+            "[person_2] will then sit down on [person_2].",
+            "[person_2] wouldn't give [person_2] advices.",
+            "[person_2] would be experience muscle tension and pain.",
+            "The discus would not have space to fly."
+        ],
+        "reason": [
+            "She needs [person_2] to cut the pumpkin.",
+            "The stick can mix the wine too.",
+            "[person_2] has not remember the rhyme yet.",
+            "[person_2] has never practiced yoga.",
+            "[person_2] will teach to others."
+        ]
+    }
+}

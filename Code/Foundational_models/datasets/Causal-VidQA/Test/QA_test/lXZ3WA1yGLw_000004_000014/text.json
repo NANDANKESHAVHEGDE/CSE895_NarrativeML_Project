@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] holding?",
+        "answer": [
+            "[person_2] is jogging.",
+            "It is black.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is holding [sports ball_1].",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1] moving the sports ball?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] is snatching weight - lifting.",
+            "[person_1] is raising the sports ball up and down in front of his chest.",
+            "[person_1] is skipping the rope.",
+            "Because the [person_1] does not want the camel to run away."
+        ]
+    },
+    "predictive": {
+        "question": "What is the relationship between [person_1] and other people in the room?",
+        "answer": [
+            "It is probable that [person_1] is one member of a tai chi team.",
+            "Maybe [person_1] will lose.",
+            "Maybe [person_1] will be the first place.",
+            "The [person_1] will ride to somewhere else.",
+            "The [person_1] will keep looking around."
+        ],
+        "reason": [
+            "[person_1] will stand up to jump into the next two cells.",
+            "[person_1] is helping the girl and looks very professional.",
+            "[person_1] is practicing tai chi moves with the other people in the room.",
+            "[person_1] is watching [person_1]'s performance all the time , and with paper on her lap , she looks like a referee.",
+            "Because [person_1]'s movements look professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no lights in the room.",
+        "answer": [
+            "They had to get another ball.",
+            "[person_1] might open the window for some sunshine.",
+            "They were probably get a traffic accident.",
+            "[person_1] might pay more attention to her homework.",
+            "There will be traffic problems."
+        ],
+        "reason": [
+            "There is a window behind [person_3].",
+            "Everyone is watching her flip the pancake.",
+            "They are headbanging , ignoring the road.",
+            "It doesn't take much effort to lie on the sofa.",
+            "To wash the dirt away."
+        ]
+    }
+}

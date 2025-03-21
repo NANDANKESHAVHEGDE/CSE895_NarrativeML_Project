@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's pink.",
+            "It's green.",
+            "The shirt [person_1] wearing is red.",
+            "It is brown.",
+            "The shirt is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the mirror hung on the wall of the gym?",
+        "answer": [
+            "Running is good for your health.",
+            "Because they are playing the guessing game.",
+            "Because a lot of people want to see their body after training.",
+            "[person_1] is shaking the maracas.",
+            "[person_1] is holding the stick for safety and moving faster."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lifting the weight.",
+            "Perhaps [person_1] is going to jump next.",
+            "Maybe [person_1] is going to jump.",
+            "[person_1] will play with the cat.",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "[person_1] is huddling with the team.",
+            "[person_1] is bowing down and try to lift the weight.",
+            "[person_1] is smiling.",
+            "[person_1] is trying to make it more beautiful.",
+            "[person_1] is going to have a break."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the floor is collapsed?",
+        "answer": [
+            "[person_1] will not play the game.",
+            "[person_1] will be injured.",
+            "[person_1] would keep balanced and sucessully skateboarding.",
+            "[person_1] would find it easier to rotate the hoop.",
+            "[person_1] will feel regret."
+        ],
+        "reason": [
+            "[person_1] kept looking at the goat and the food so maybe [person_1] would reach out to touch the goat.",
+            "It will need to be charged.",
+            "To protect [person_1]'s hands.",
+            "The weight lifting is very heavy . When the floor collapses , the weight lifting may override [person_1].",
+            "Maybe [person_1] also wants to play clapping."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is purple.",
+            "It is pink.",
+            "The socks are white.",
+            "It is black.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they here?",
+        "answer": [
+            "Because the man is guiding [person_1].",
+            "They are here to practice rugby.",
+            "They are here attending birthday party.",
+            "They are here to practice tackling.",
+            "Because this is the baby's bed."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use more dice.",
+            "Maybe [person_1] is going to continue skiing",
+            "[person_1] is going to keep on tackling.",
+            "Maybe [person_1] is going to sit.",
+            "[person_1] is going to not continue."
+        ],
+        "reason": [
+            "Because he is training with his partner.",
+            "Maybe [person_1] is a earthen pot.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] finishes showing and thanks the audience.",
+            "[person_1] has finished making other hair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "The fire would be off.",
+            "Their training might be halted.",
+            "They would go inside.",
+            "The match might continue.",
+            "They would come back the tent."
+        ],
+        "reason": [
+            "The street would be wet.",
+            "The ground would be very slippery.",
+            "Because the rain would make their training less effective.",
+            "[person_1] would have to find a shelter.",
+            "[person_1] would not want to be wet and sick."
+        ]
+    }
+}

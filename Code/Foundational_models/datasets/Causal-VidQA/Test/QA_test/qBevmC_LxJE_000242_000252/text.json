@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the room.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paint can?",
+        "answer": [
+            "The [person_1] wanted to eat the apple right then.",
+            "[person_1] wants to open the box.",
+            "[person_1] is running around to play basketball.",
+            "Because [person_1] is spraying paint on the iron frame.",
+            "Because [person_1] is taking pictures of memories."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "[person_1] is going to drink water.",
+            "[person_1] will collect honey.",
+            "Maybe [person_1] is going to continue spray paint.",
+            "[person_1] is going to hit the ball."
+        ],
+        "reason": [
+            "Children are very dependent on their parents.",
+            "[person_1] is finishing the product.",
+            "Because this is a vlog.",
+            "This can help [person_1] remember the action.",
+            "[person_1] will not stop batting the ball until he perfects his batting skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't spray paint ?",
+        "answer": [
+            "The organ will make shrill sounds.",
+            "[person_1] will be fall when practicing.",
+            "[person_1] will feel it lacks vitality.",
+            "[person_1] can not play bagpipes.",
+            "[person_1] will drive [person_1]."
+        ],
+        "reason": [
+            "It will be fresher.",
+            "Lying on the ground is the quickest way.",
+            "Onion water is very spicy and causes eye irritation.",
+            "[person_1] will need to be careful.",
+            "Because his speed is too quick."
+        ]
+    }
+}

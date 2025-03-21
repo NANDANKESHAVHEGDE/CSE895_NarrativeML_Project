@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_2] hold in the hand?",
+        "answer": [
+            "The [person_2] is walking on the sidewalk.",
+            "The [person_2] and [person_2] are playing roller skating.",
+            "The shirt [person_2] is wearing is black.",
+            "A bunch of flowers.",
+            "The [person_2] is struggling to try to open the [person_2] door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] hug [person_1] at last?",
+        "answer": [
+            "Because [person_1] is showing how to play it.",
+            "[person_1] wants to protect the head.",
+            "Maybe [person_1] is in the game.",
+            "[person_2] is watching [person_1] very closely.",
+            "Because [person_2] accepts the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What will the people behind [person_1] and [person_2] do?",
+        "answer": [
+            "They will continue to play rock - paper - scissors.",
+            "The cameraman will film the Christmas tree.",
+            "They'll make way for [person_1].",
+            "They will take out the camera.",
+            "Maybe it was taken by the person opposite."
+        ],
+        "reason": [
+            "To record the happy moment.",
+            "Because it's a part of the exercise.",
+            "Because the race is not over.",
+            "It's the general process.",
+            "Because the person opposite is holding a cell phone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if there is a power failure suddenly?",
+        "answer": [
+            "The balloon won't explode.",
+            "[person_1] will refuse [person_1]'s sandwich politely.",
+            "They will suspend the ceremony.",
+            "The people behind will take out the flashlights.",
+            "[person_2] may go to some other places."
+        ],
+        "reason": [
+            "The window has glasses.",
+            "The floor is very hard.",
+            "To provide light for the proposal.",
+            "[person_2] will succeed if she works hard.",
+            "It's hard to play games without electricity."
+        ]
+    }
+}

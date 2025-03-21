@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bench_1]?",
+        "answer": [
+            "The [bench_1] is on the grass , in front of the blue house.",
+            "It's on the side of the road.",
+            "The [bench_1] is beside the tree , between [bench_2] and [dining table_1].",
+            "It's orange.",
+            "[dining table_1] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] ride the wheel backward?",
+        "answer": [
+            "Because [person_1] is riding a unicycle so it is not safe enough to ride it on the road.",
+            "[person_1] is holding a piece of the orange.",
+            "[person_1] and [person_1] feel very happy.",
+            "because someone is taking pictures for [person_1].",
+            "[person_1] has to ride the wheel backward to let the unicycle goes backward."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to continue practicing.",
+            "[person_1] may put down the salt.",
+            "[person_1] will ride the unicycle for another round.",
+            "[person_1] will hold the posture for a second."
+        ],
+        "reason": [
+            "[person_1] is playing with someone.",
+            "[person_1] is holding a harp.",
+            "After riding back to the start position , [person_1] changes his hand direction to ride another round.",
+            "[person_1]'s arms are still extended.",
+            "[person_1] is a professional skater."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell off?",
+        "answer": [
+            "[person_1]'s feet would be crashed.",
+            "[person_1] would fall into the pool.",
+            "[person_1] would hit the power poles.",
+            "[person_1] will catch a cold.",
+            "[person_1] will not play piano."
+        ],
+        "reason": [
+            "[person_1] would scare the child if [person_1] fired the gun because the child would not expect it.",
+            "Then when [person_1] goes to the finish line , he will answer phone.",
+            "They are afraid that [person_1] may die.",
+            "[person_1] is riding a unicycle right next to the pool.",
+            "[person_1] needs to go to the hospital."
+        ]
+    }
+}

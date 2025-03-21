@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] and [person_2] are on the bed.",
+            "[person_1] and [person_2] are in their bedroom.",
+            "[person_1] and [person_2] are in the big room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the big room?",
+        "answer": [
+            "Because [person_1] wants to cut the board.",
+            "[person_1] and [person_2] are playing chess.",
+            "Because [person_1] wants to hold the accordion tightly.",
+            "[person_1] is describing how [person_1] trim shrubs.",
+            "Because [person_1] is playing an accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intend to attacks.",
+            "[person_1] has an intention of being a outstanding music student.",
+            "[person_1] intends to kick the ball back to a friend on the opposite side.",
+            "[person_1] intends to continue playing the organ.",
+            "[person_1] intends to play the harp."
+        ],
+        "reason": [
+            "It is likely that [person_1]'s fingers will be tired.",
+            "[person_1] is interested in this game.",
+            "[person_1] stops somersaulting.",
+            "Because [person_1] dreams of showing off her talent.",
+            "[person_1] is looking for loopholes of [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] draws [person_2]?",
+        "answer": [
+            "[person_1] would strike on [person_2]'s head.",
+            "[person_1] will shake hands with [person_2].",
+            "[person_1] would be slightly hurt.",
+            "[person_2] will stop the game.",
+            "[person_2] will be angry."
+        ],
+        "reason": [
+            "To check what's wrong with the box.",
+            "It hurts to be beaten all the time.",
+            "Flexing the legs helps the [person_1] have a greater momentum to throw the snow.",
+            "[person_1] and [person_2] are equally talented.",
+            "Since you are not good at bandaging , as a student , you should catch up with lots of practices."
+        ]
+    }
+}

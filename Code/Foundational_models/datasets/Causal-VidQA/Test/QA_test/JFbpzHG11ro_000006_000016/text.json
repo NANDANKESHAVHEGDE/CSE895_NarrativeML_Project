@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing ?",
+        "answer": [
+            "[person_1] is playing field hockey.",
+            "[person_1] is standing near the beach and playing skipping stone.",
+            "[person_1] is playing her new violin.",
+            "[person_1] is throwing the ball at the goal.",
+            "[person_1] is decorating the snowman."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [tennis racket_1]?",
+        "answer": [
+            "[person_1] needs a wide space to throw discus.",
+            "Because the [person_1] needs to keep the [tennis racket_1] door open.",
+            "[tennis racket_1] is required to play field hockey.",
+            "[person_1] stables the driller on the table to utilize it easier.",
+            "[tennis racket_1] and [tennis racket_1] are preparing to open the presents."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may drive by the side of the road.",
+            "[person_1] may decide to change exercising style.",
+            "[person_1] may continue cleaning.",
+            "[person_1] is going to keep on playing.",
+            "[person_1] is going to tie a knot on [person_1]'s back."
+        ],
+        "reason": [
+            "The frisbee is far away from [person_1].",
+            "[person_1] wears gloves to tamp the soil around a tree.",
+            "[person_1] will not stop batting the ball until he perfects his batting skill.",
+            "[person_1] seems to have fun with this sport.",
+            "This can help [person_1] remember the action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] lost [sports ball_1]?",
+        "answer": [
+            "[person_1] would sit on [person_1] immediately.",
+            "[person_1] would be surprised.",
+            "It is probable that [person_1] would be crying.",
+            "[person_1] might have to get another one or stop playing.",
+            "[person_1] would spend money buying a new door."
+        ],
+        "reason": [
+            "[person_1] felt that [person_1] was aimed at him.",
+            "Because [sports ball_1] is a sandbag for martial arts training.",
+            "When the [sports ball_1] shoots the ball , she looks at the ball and expects the success.",
+            "Dogs are very aggressive when held tight.",
+            "[person_1] would not have any ball to play field hockey."
+        ]
+    }
+}

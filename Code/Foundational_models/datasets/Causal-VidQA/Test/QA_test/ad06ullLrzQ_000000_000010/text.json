@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is standing behind a camera.",
+            "[couch_1] is standing on a footbridge.",
+            "[couch_1] is standing next to a wooden desk.",
+            "[couch_1] is below the pictures.",
+            "It is in the corner of the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is trying to stand by his hands.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is excited about holding her gift.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is doing a plunge."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "He may do the kind of jump again.",
+            "[person_1] may be going to take a rest.",
+            "To find more snow.",
+            "[person_1] may go to get a stick.",
+            "[person_1] may keep trying to stand by hands."
+        ],
+        "reason": [
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "Because [person_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "Because [person_1] made a small mark with it and the carpet is big.",
+            "[person_1] looks so excited.",
+            "It is dirty after taking shower for [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if if the power is out?",
+        "answer": [
+            "They can not float.",
+            "[person_1] may keep standing by his hands.",
+            "The competition might be postponed.",
+            "[person_1] may not keep standing by his hands.",
+            "The birds will fly away."
+        ],
+        "reason": [
+            "Because [couch_1] is more powerful.",
+            "The light will be on.",
+            "The room would be full of darkness.",
+            "The light will be off.",
+            "It is probable that [couch_1] legs are so tired that she can't stand anymore."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a pink dress.",
+            "The [person_1] is wearing a coat and a beanie.",
+            "The [person_1] is playing with the dolls.",
+            "The [person_1] is wearing a sweater and pants.",
+            "The [person_1] is wearing a checked blouse."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] hold a discus?",
+        "answer": [
+            "Maybe [person_1] is in the game.",
+            "[person_1] is interested in hitting the cups on the [person_1].",
+            "Because the [person_1] is taking part in a discus.",
+            "[person_1] is aligning tissues and forks to the correct positions on [person_1].",
+            "Because [person_1] is doing stretching exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] will push the [person_1] from behind.",
+            "The [person_1] may flatten concrete on the truck's left side.",
+            "The [person_1] may move from the discus circle.",
+            "The [person_1] may crawl under the [person_1].",
+            "The [person_1] is going to keep shoveling the snow with the left hand."
+        ],
+        "reason": [
+            "The [person_1] was thrown and lying on the ground.",
+            "The [person_1] has just finished the performance.",
+            "The [person_1] is riding faster.",
+            "[person_1] is running and looking at the ball.",
+            "The [person_1] shoots the ball through the hoop twice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would have happened if the [person_1] had not turned?",
+        "answer": [
+            "[person_1] wouldn't stop to turn to [person_1].",
+            "The [person_1] might fail to perform a living statue.",
+            "The liquid in [person_1] will flow out.",
+            "Maybe [person_1] took home the left over.",
+            "The [person_1] would not have thrown the plate far."
+        ],
+        "reason": [
+            "[person_1] is a beginner.",
+            "Because a person's reflection looks like that person is a normal thing.",
+            "The rock is hard.",
+            "Because of the shape the cube can't bounce easily.",
+            "The [person_1] could not gain a great momentum."
+        ]
+    }
+}

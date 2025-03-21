@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is white.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a stick?",
+        "answer": [
+            "Because [person_1] wants to look at the camera.",
+            "The [person_1] is taking the dog out.",
+            "Because [person_1] is at the pool.",
+            "Because [person_1] and [person_1] are opening [person_1] together.",
+            "Maybe [person_1] is smashing something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after holding the axe?",
+        "answer": [
+            "[person_1] is going to use it to chop the tree.",
+            "The [person_1] may measure distance of throwing shot put.",
+            "[person_1] will pumpkins",
+            "The [person_1] may stop wrestling the [person_1].",
+            "The [person_1] may stop petting the [person_1]."
+        ],
+        "reason": [
+            "It seems that [person_1] is walking toward the tree.",
+            "The [person_1] has just picked the apple and the [person_1] is saying.",
+            "The [person_1] holds and tears the paper.",
+            "The [person_1] shifts body slightly when the sound of accordion is on.",
+            "The [person_1] is performing as a statue next to the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] smashed into [car_1]?",
+        "answer": [
+            "The white pen might be broken.",
+            "[person_1] will stop running.",
+            "[person_1] would regret.",
+            "[person_1] will sit down nearby.",
+            "[person_1] will not pick up the slipper."
+        ],
+        "reason": [
+            "The [person_1] would bump into [person_1] while running , so [person_1] would probably get hurt.",
+            "Because [person_1] is stronger than [car_1] , [person_1] can control [car_1].",
+            "[car_1] would be broken and [person_1] would buy a new one.",
+            "If [car_1] is out of control , [car_1]'s life will be in danger , so naturally [car_1] will not keep calm.",
+            "[person_1] is close to [person_1] and on the verge of the table."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a large room.",
+            "[person_1] is in the garden.",
+            "[person_1] is sitting at a table.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in wood workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting in [bicycle_1]?",
+        "answer": [
+            "To mash the tea leaves.",
+            "Because [bicycle_1] is [bicycle_1]'s transport.",
+            "Maybe [bicycle_1] likes to smoke.",
+            "Because [person_2] is rich.",
+            "[bicycle_1] is describing how [bicycle_1] trim shrubs."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] will stop playing the cello.",
+            "[person_1] intends to master the use of wheelchair.",
+            "Maybe [person_1] intends to use onions to cook.",
+            "Maybe [person_1] intends to hug the baby.",
+            "[person_1] intends to keep dancing."
+        ],
+        "reason": [
+            "There is a bottle of wine on the table.",
+            "[person_1] has turned off the keyboard.",
+            "Because it is [person_1]'s desire.",
+            "[person_1] is putting [person_1]'s hands on the keyboard.",
+            "Because onions are used for cooking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] didn't need wheelchair to move?",
+        "answer": [
+            "Maybe [person_2] will protect [person_2]'s legs carefully.",
+            "[person_2] will strip all the power drills.",
+            "[person_2] will join to help pushing the cow.",
+            "The [person_2] will need to dry it again.",
+            "[person_2] and [person_2] would sit on the chairs."
+        ],
+        "reason": [
+            "Because [person_2] couldn't move naturally without legs.",
+            "Because [person_2] is comfortable for sleeping.",
+            "No one likes to be in the rain.",
+            "Because the cat will contaminate the meat.",
+            "[person_2] can't control the horse."
+        ]
+    }
+}

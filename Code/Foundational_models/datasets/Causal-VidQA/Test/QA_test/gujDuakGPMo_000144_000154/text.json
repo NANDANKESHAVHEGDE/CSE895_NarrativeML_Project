@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_2] look like?",
+        "answer": [
+            "[person_2] is quite tall and fat.",
+            "[person_2] is cleaning the shoes for [person_2].",
+            "[person_2] looks so cute.",
+            "The [person_2] is wearing a white coat.",
+            "The [person_2] is wearing a dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] wearing a hat?",
+        "answer": [
+            "[person_2] and [person_2] is playing a duet.",
+            "[person_2]'s voice could be heard far away.",
+            "Because it is very sunny outside.",
+            "To attract others' attention.",
+            "[person_2] and [person_2] have reached the end of the lawn."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_1] and [person_2] feel after completing their measurement?",
+        "answer": [
+            "[person_1] will clean the leaking fluid from the machine and try to reinstall the knob back into it.",
+            "[person_1] will sit on the chair.",
+            "[person_1] and [person_2] will feel very tired and may even get heatstroke.",
+            "[person_1] will wash her hands.",
+            "[person_1] will open the bottle."
+        ],
+        "reason": [
+            "[person_1] and [person_2] have to do odometer work for many hours in the sun so they may feel very tired.",
+            "[person_1] and [person_2] are smiling.",
+            "The boy in black fell while skateboarding.",
+            "[person_1] is cheering with [person_2].",
+            "[person_2] will be very happy when [person_2] finishes the performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if their technical machine broke?",
+        "answer": [
+            "[person_1] and [person_2] would have to start their survey work.",
+            "[person_2] won't be able to hold.",
+            "[person_1] and [person_2] wouldn't have to stop their survey work.",
+            "[person_1] will have to squeeze the oranges by hand.",
+            "[person_1] and [person_2] would have to stop their survey work."
+        ],
+        "reason": [
+            "The machine shows exactly what metrics they don't need to measure , so [person_1] and [person_2] would have to stop their survey work if the technical machine broke.",
+            "When the bull shakes , [person_1] holds slightly on its back.",
+            "The machine shows exactly what metrics they need to measure , so [person_1] and [person_2] would have to stop their survey work if the technical machine broke.",
+            "Because [person_1] is using force to jump on the rope.",
+            "The machine shows exactly what metrics they need to measure , so [person_1] and [person_2] would have to start their survey work if the technical machine broke."
+        ]
+    }
+}

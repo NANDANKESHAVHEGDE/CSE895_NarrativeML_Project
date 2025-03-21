@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [dining table_1]?",
+        "answer": [
+            "[dining table_1] is white.",
+            "Blanket.",
+            "[dining table_1] on the side of the badminton court.",
+            "There are 11 cups in the [dining table_1].",
+            "[dining table_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] and [person_2] look so happy?",
+        "answer": [
+            "The [person_2] is keen on the game.",
+            "Because [person_2] is teaching the children how to exercise.",
+            "Because [person_2] is recording video.",
+            "Because [person_1] and [person_2] have gifts.",
+            "Because [person_1] is a music star."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to touch the hand of [person_2].",
+            "[person_2] come and feed the fish.",
+            "[person_2] is going to increase the strength.",
+            "[person_2] going to open all the gifts near the pine tree.",
+            "[person_2] is instructing how to dance."
+        ],
+        "reason": [
+            "There is some food left in the bowl of [person_2].",
+            "Because [person_2] also raises his hand.",
+            "[person_2] is eating spaghetti.",
+            "There is a pine tree next to [person_2] and the gifts.",
+            "To wash all the clothes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it snows outside?",
+        "answer": [
+            "[person_1] will dismantle the power drill.",
+            "[person_1] would appear to be shameful.",
+            "No bowling pin will be hit down.",
+            "[person_1] will run forward [person_2] and help [person_2] stand up.",
+            "[person_1] and [person_2] will go out and play in the snow."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] are children so [person_1] and [person_2] love playing in the snow.",
+            "To pick the [person_2] up.",
+            "[person_1] still does not fold the T - shirt so it should be continued to fold.",
+            "The ground is not stable and [person_1] rode at high speed.",
+            "It is natural that if you are thirsty , you will go to find the water."
+        ]
+    }
+}

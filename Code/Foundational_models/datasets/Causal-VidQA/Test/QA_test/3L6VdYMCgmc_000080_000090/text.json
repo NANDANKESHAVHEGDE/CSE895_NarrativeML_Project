@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is behind [person_1]?",
+        "answer": [
+            "[person_1] is in the cup - stacking game room.",
+            "It's a poster.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is the man who is working out.",
+            "[person_1] is in the church."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] shake his arm at first?",
+        "answer": [
+            "[person_1] is ice skating.",
+            "It's dangerous.",
+            "It's cold outside.",
+            "Because he was bitten by [person_2].",
+            "Because it's very hot."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the first round?",
+        "answer": [
+            "[person_1] will ask [person_2] to play another around of the game.",
+            "[person_1] is trying to tell the person in front of him what he is doing.",
+            "[person_1] may toss the pillow up in the air.",
+            "The [person_1] will keep holding the rope to control the camel.",
+            "[person_1] is going to take a rest."
+        ],
+        "reason": [
+            "because [person_1] is heading forward.",
+            "Because [person_1] lost to [person_2] last time , he was very unwilling.",
+            "because [person_1] is in the middle of performing and [person_1] has to go back to where [person_1] has started.",
+            "Judging from [person_1]'s happy expression , [person_1] should be taking photos.",
+            "when [person_2] shows the seeds , [person_1] is reaching for his hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen to them if they were too noisy?",
+        "answer": [
+            "Maybe [person_2] will blow the whistle to end the game.",
+            "[person_1] will stop flying kite.",
+            "They would be reprimanded by their mom.",
+            "The [person_1] might get a car accident.",
+            "[person_2] will turn it back on again."
+        ],
+        "reason": [
+            "[person_2] needs to protect the health.",
+            "Because the noise generated when playing games , it can make people feel irritated.",
+            "Only two people can play this game.",
+            "Because it is [person_1]'s birthday and [person_1] should blow out the candle.",
+            "To help relieve [person_1]'s pain."
+        ]
+    }
+}

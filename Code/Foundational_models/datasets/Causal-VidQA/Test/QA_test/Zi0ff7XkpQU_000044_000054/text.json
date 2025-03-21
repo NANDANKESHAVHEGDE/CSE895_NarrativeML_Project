@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a white dress.",
+            "[person_1] is wearing a long sleeve shirt.",
+            "[person_1] is wearing bright color t - shirt.",
+            "[person_1] is wearing a plaid sweatshirt.",
+            "[person_1] is wearing a helmet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] wearing seat belts?",
+        "answer": [
+            "the mechanical bull turns around and around to make the [person_1] dizzy.",
+            "Because [person_1] wants to ski safely.",
+            "Because [person_1] and [person_2] want to build a snowman.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] and [person_2] are wearing seat belts for safety when riding roller coaster."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to play the Ukulele for [person_1] to sing.",
+            "[person_1] and [person_2] are going to dance Gang Nam style.",
+            "[person_1] and [person_2] are going to have a meal.",
+            "[person_1] and [person_2] are going to restart some attacks.",
+            "[person_1] and [person_2] are going to shout loudly."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are just pushing the wheelbarrow to the middle of the road.",
+            "There are many sheep need to be sheared.",
+            "Because it is next move of Gang Nam style dance.",
+            "[person_1] and [person_2] are going out of the strip.",
+            "The roller coaster accelerates and starts swaying."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] and [person_2] didn't wear seat belts?",
+        "answer": [
+            "[person_1] would fall off the roller coaster cart.",
+            "[person_1] and [person_2] would fall down on the floor.",
+            "the [person_1] couldn't smile like that.",
+            "[person_1] may interrupt the introduction of this [person_1].",
+            "[person_1] and [person_2] will pack all equipment into the duffle bag next to the wall."
+        ],
+        "reason": [
+            "Because [person_2] may trip over the hockey stick as [person_2] was skating fast.",
+            "Because [person_2] wants [person_1] to have her own interests.",
+            "Because there would be nothing holding [person_1] and [person_2] when the roller coaster cart swayed.",
+            "Because [person_2] would obstruct the moving path of [person_2].",
+            "Because [person_1] is the instructor for the next move."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the floor in a bedroom.",
+            "[person_1] is in a small library.",
+            "[person_1] is standing on the side of a busy road.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is at a grocery store."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a wood planer?",
+        "answer": [
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[person_1] is planing wood.",
+            "[person_1] is the singer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep diving.",
+            "[person_1] will keep on playing his toy.",
+            "[person_1] may taste one piece of the fruit.",
+            "[person_1] is going to get more wood.",
+            "[person_1] is going to rip paper."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] is upset.",
+            "The wood in front of him is planed.",
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] may be startled."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the wood planer is broken?",
+        "answer": [
+            "[person_1] will not hit the plank.",
+            "[person_1] will fall into the water.",
+            "[person_1] will not be able to continue planing.",
+            "[person_1] will hug the dog.",
+            "[person_1] needs to stop using the musical instrument."
+        ],
+        "reason": [
+            "If they eat , they will be sick.",
+            "[person_1] will need to fix it.",
+            "The prop is heavy and the prop will fall into [person_1].",
+            "[person_1] will have to go get a new one.",
+            "Because if they don't , they'll be trapped inside."
+        ]
+    }
+}

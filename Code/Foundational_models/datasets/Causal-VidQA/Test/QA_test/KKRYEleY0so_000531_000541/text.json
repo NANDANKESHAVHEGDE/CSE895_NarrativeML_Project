@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons are there in the room?",
+        "answer": [
+            "One.",
+            "Two.",
+            "There are 3 people.",
+            "There are 7 people.",
+            "There are 6 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] wear a pair of trainers?",
+        "answer": [
+            "By controlling the rope.",
+            "It's more comfortable.",
+            "With the help of several mats.",
+            "To play a trick on [person_1].",
+            "Maybe it's because of coincidence."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will have lunch .",
+            "[person_1] will rest.",
+            "[person_1] will mow the lawn regularly.",
+            "[person_1] tends to keep training.",
+            "[person_1] is likely to do more somersaults."
+        ],
+        "reason": [
+            "[person_1] is putting his hand out.",
+            "[person_1] ha run for half an hour.",
+            "[person_1] doesn't look tired.",
+            "[person_1] does not seem to stop anytime soon.",
+            "[person_1] just landed on the mattress."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "The juicer can not be used.",
+            "[person_1] will continue running.",
+            "[person_1] will afraid.",
+            "[person_1] will stop running.",
+            "Maybe [person_1] will stop watering."
+        ],
+        "reason": [
+            "Without the power the laptop can't work any more.",
+            "[person_1] can see everything.",
+            "The microphone can not be used.",
+            "[person_1] can't see anything.",
+            "Hair drier needs power to work."
+        ]
+    }
+}

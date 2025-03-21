@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] sit on the car.",
+            "[person_1] is outdoors.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in the practice room",
+            "[person_1] is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "The boy couldn't move the guitar out.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is doing a handstand.",
+            "[person_1] is doing weightlifting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift heavier weights.",
+            "[person_1] is going to keep dancing.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to keep practicing."
+        ],
+        "reason": [
+            "[person_1] has food on hand.",
+            "There are many sand on his feet.",
+            "[person_1] is very small.",
+            "[person_1] is lifting light weights.",
+            "[person_1] may go on reading."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] still tries to lift heavy weights?",
+        "answer": [
+            "[person_1] will be injured.",
+            "[person_1] will get angry.",
+            "Maybe [person_1] will take a break.",
+            "[person_1] may have to start from the starting line.",
+            "[person_1] will not be allowed to participate in doing Zumba."
+        ],
+        "reason": [
+            "It is not too heavy for [person_1].",
+            "Because there are two person around [person_1] who will catch [person_1].",
+            "[person_1] opened the next pages and read so quickly.",
+            "[person_1]'s violin almost touches [person_1].",
+            "It's too heavy for [person_1] ."
+        ]
+    }
+}

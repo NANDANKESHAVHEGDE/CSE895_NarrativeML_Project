@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there in this room ?",
+        "answer": [
+            "There is only one.",
+            "There are seven people.",
+            "There are two in the room.",
+            "There are six people.",
+            "There are five people."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] use resistance bands?",
+        "answer": [
+            "[person_1] uses it to practice hands.",
+            "[person_1] is a man.",
+            "Because [person_1] is not tall enough.",
+            "Because he wins the game.",
+            "[person_1] is counting 10 seconds."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to teach her son how to play chess.",
+            "[person_2] will continue to practice hands.",
+            "[person_2] is going ton flip his bottle.",
+            "[person_2] is going to keep sitting outside.",
+            "[person_2] is going to eat."
+        ],
+        "reason": [
+            "[person_2] is a cowherd.",
+            "[person_2] does not pick the paper up.",
+            "[person_2] ride a motorcycle through the stagnant water.",
+            "Maybe this exercise helps a lot for [people_2].",
+            "[person_2] missed the ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the resistance band breaks?",
+        "answer": [
+            "[person_2] will stop practicing.",
+            "[person_2] may continue to drink it.",
+            "[person_2] wouldn't be in this competition.",
+            "[person_2] may stop and check the car.",
+            "[person_2] would get serious injury on his head."
+        ],
+        "reason": [
+            "Everyone is happy if they can eat their favorite food.",
+            "It is [people_2]'s toy.",
+            "[people_2] is worried about the horse.",
+            "Because people will put Christmas tree in the room around Christmas Day.",
+            "Resistance band will be dangerous for [people_2]."
+        ]
+    }
+}

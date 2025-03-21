@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] have in her mouth?",
+        "answer": [
+            "[person_1] has [baseball bat_1]",
+            "A small shovel.",
+            "The speaker is black.",
+            "No.",
+            "[person_1] is decorating the snowman."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] putting her mouth on [baseball bat_1]?",
+        "answer": [
+            "[person_1] is being splashed with water.",
+            "Maybe [person_1] and [baseball bat_1] are taking a photo.",
+            "[person_1] is putting her mouth on [baseball bat_1] to blow into it so she can play her bagpipes.",
+            "Maybe [person_1] is in the game.",
+            "[baseball bat_1] is a conductor and [baseball bat_1] is leading the band."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue to sand the rest of the piece of wood he sanded.",
+            "[person_1] will try to take the lollipop [person_1] is eating.",
+            "[person_1] will jump in the car which is pushed.",
+            "[person_1] will continue to play her bagpipes for the person recording her while she plays on the streets.",
+            "The [person_1] will untie her left hair tie."
+        ],
+        "reason": [
+            "[person_1] is being filmed by an experienced cameraman , so she must want her performance to be recorded professionally.",
+            "Because it seems that [person_1] does not finish the painting.",
+            "[person_1] will finish eating it because he opened the lollipop , so now he will have to finish it.",
+            "It seems that [person_1] does not arrive at the destination.",
+            "[person_1] is skillfully playing a difficult song , so he will not want to stop playing it until he is done with the whole piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if someone bumped into [person_1] while she plays her bagpipes?",
+        "answer": [
+            "[person_1] will try her best to clean it and takes a lot of time.",
+            "[person_1] would practice more.",
+            "[person_1] would mess up her song as she gets bumped into by a stranger and she would then be upset by his rudeness.",
+            "[person_1] can't do her work.",
+            "The teacher will make him stand up."
+        ],
+        "reason": [
+            "There would be no space to dance . Or they would be stopped by the teachers.",
+            "Because finding emergency exits in a dark room is impossible.",
+            "She is a humble person.",
+            "[person_1] would be upset because she would have to restart her performance for the camera because of a stranger's rudeness.",
+            "[person_1] wants to do high - five with the players."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1] shirt?",
+        "answer": [
+            "It's a beer.",
+            "[person_1] shirt is white.",
+            "It's green.",
+            "The [person_1] is in the room.",
+            "[person_1] and [person_1] are at the workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the room bright?",
+        "answer": [
+            "Because it's daytime.",
+            "[person_1] is watching [person_1] and [person_1] playing badminton.",
+            "The [person_1] is placed there to enjoy outdoor shady areas.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "Perhaps [person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is bound to stop playing the flute and go out.",
+            "[person_1] will stop skiing.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to play there."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is facing [person_1].",
+            "[person_1] is putting down the flute.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it\u2019s rain?",
+        "answer": [
+            "[person_1] will find a shelter.",
+            "[person_1]'s head may reflect light.",
+            "[person_1] would tear up some clothes into strips and use that as the bandage.",
+            "[person_1] will not be affected.",
+            "The exhibition will hold inside a room."
+        ],
+        "reason": [
+            "[person_1] will be in the bus.",
+            "[person_1] is in the house.",
+            "Because [person_1] would be able to move more freely and [person_1] wouldn't be able to run while wearing dress.",
+            "[person_1] and [person_1] are focused on playing baseball.",
+            "[person_1] will catch a cold when it rains."
+        ]
+    }
+}

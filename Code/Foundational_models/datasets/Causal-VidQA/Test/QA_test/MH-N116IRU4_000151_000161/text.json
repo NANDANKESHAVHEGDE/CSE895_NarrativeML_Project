@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a checkered jacket.",
+            "[person_1] is wearing a plaid shirt.",
+            "[person_1] is wearing a long sleeve shirt.",
+            "The mechanical bull is on the stage.",
+            "[person_1] is wearing a glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear the jacket?",
+        "answer": [
+            "[person_1] is playing the harmonica.",
+            "[person_1] feels cold.",
+            "Because it helps improving his vision.",
+            "[person_1] ride the unicycle quite well.",
+            "Because [person_1] feels like watching water come out."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will fix the gongs.",
+            "[person_1] may swim towards [person_1].",
+            "Perhaps [person_1] will continue to fold the napkin.",
+            "[person_1] will stop snowboarding.",
+            "[person_1] will be keep playing the harmonica."
+        ],
+        "reason": [
+            "[person_1] hasn't finished lifting the dumbbell yet.",
+            "The hair in cutting may get into her eyes.",
+            "[person_1] will continue to play.",
+            "[person_1] seems to lose his balance.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it [person_1] didn't lose the balance?",
+        "answer": [
+            "[person_1] and [person_1] may not keep playing.",
+            "[person_1] would keep skiing.",
+            "[person_1] will not run anymore.",
+            "[person_1] will then take [person_1] to the shop.",
+            "[person_1] will be happy."
+        ],
+        "reason": [
+            "Because the failure is temporary.",
+            "[person_1] needs to keep balance to ski.",
+            "[person_1] will be lose.",
+            "[person_1] can not ride unicycle.",
+            "Chemicals in the sprayer will cause irritation to the eyes."
+        ]
+    }
+}

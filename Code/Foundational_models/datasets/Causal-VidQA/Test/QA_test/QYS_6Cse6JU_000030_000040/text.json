@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_2]?",
+        "answer": [
+            "[book_2] is on the left.",
+            "It is in front of the building.",
+            "[book_2] is on the ground.",
+            "It is \u00a0 on the bookshelf.",
+            "It's next to the door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] inside?",
+        "answer": [
+            "May be [person_2] is teaching [person_1] the way to play chess better.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is playing with a scooter.",
+            "The [person_2] was hit by the [person_1].",
+            "[person_1] is playing with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play the cello.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to ask [person_2] about the chess.",
+            "[person_1] is going to start eating.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "[person_1] is learning very hard.",
+            "[person_1] wants to increase the difficulty.",
+            "[person_1] and [person_1] are friends.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] jumped into the lake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays better?",
+        "answer": [
+            "Maybe [person_1] will put the flute down.",
+            "The [person_1] would fall down and get wet.",
+            "Maybe [person_1] will feel grateful [person_2].",
+            "Maybe they would threaten people or shoot.",
+            "Maybe [person_1] will take other cups to play the game."
+        ],
+        "reason": [
+            "[person_1] may practice harder.",
+            "Because as [person_1] and [person_1] were interpreting the same content , it would be very confusing to see they used different sign language.",
+            "The wound needs dealing with in time.",
+            "There's nothing on the clapperboard , which means [person_1] , [person_1] , and [person_1] just started . So , [person_1] , [person_1] , and [person_1] will continue filming.",
+            "[person_1] kicks very high."
+        ]
+    }
+}

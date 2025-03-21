@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt is [person_1] wearing?",
+        "answer": [
+            "It lies on the street.",
+            "[person_1]'s shirt is yellow.",
+            "[person_1] is wearing a black shirt.",
+            "No , it isn't.",
+            "It is at a construction site."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] spread [person_1]'s arms to the sides?",
+        "answer": [
+            "[person_1] , [person_1] , [person_1] , and [person_1] are practicing together as a band.",
+            "Because [person_1] is [person_1] in the mirror.",
+            "Because [person_1] is making him laugh by tickling him.",
+            "[person_1] spreads [person_1]'s arms to the sides to keep balance and not fall.",
+            "[person_1] , [person_1] and [person_1] are a band and [person_1] , [person_1] and [person_1] are playing music."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go all the way to the end of the rope.",
+            "[person_1] will go on throwing the cards.",
+            "[person_1] is going to put down the weights.",
+            "[person_1] may continue writing.",
+            "[person_1] is going to pick up the ball."
+        ],
+        "reason": [
+            "[person_1] stands outside and watches.",
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] walks very firmly.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] shaved off the bottom part of his beard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] can't walk all the way through the rope?",
+        "answer": [
+            "[person_1] would bite the wrapping paper.",
+            "[person_1] will go back to the beginning.",
+            "[person_1] will move two times.",
+            "[person_1] would be scared.",
+            "[person_1] will take another cymbals to play."
+        ],
+        "reason": [
+            "To help cure the wound.",
+            "[person_1] is a girl and girls like to buy.",
+            "[person_1] will do it if [person_1] wants to try.",
+            "Because the [person_1] needs to stop for relaxation.",
+            "Because [person_1] is practicing [person_1]'s skill."
+        ]
+    }
+}

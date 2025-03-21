@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_2]?",
+        "answer": [
+            "[chair_2] is on the ground.",
+            "There is only one column in the video.",
+            "Four.",
+            "One.",
+            "[chair_2] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1]'s mouth moving?",
+        "answer": [
+            "[person_1] is trying to play.",
+            "[person_1] is reading the newspaper and playing the harmonica at the moment.",
+            "[person_1] is roller skating.",
+            "Because [person_1] likes the gift.",
+            "[person_1]'s mouth is moving to instruct others about the exercise."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_1]'s hand move next?",
+        "answer": [
+            "[person_1]'s left foot will rotate backwards.",
+            "[person_1] is going to go out of the room.",
+            "[person_1] will rest and drink water.",
+            "[person_1]'s hand will still hold weights.",
+            "[person_1] will invite [person_1] join him."
+        ],
+        "reason": [
+            "[person_1] is still playing the accordion so she can not move.",
+            "We can see that the children are all sitting together.",
+            "[person_1] is showing people how to put a bandage on.",
+            "Because the first mule has a bad temper.",
+            "[person_1]'s hand will still hold weights and closes to his body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] slipped?",
+        "answer": [
+            "The left hand of the [person_1] would be hurt.",
+            "She goes to the manager.",
+            "[person_1] would drop the dumbbell.",
+            "The [person_1] will play basketball.",
+            "[person_1] may let him sit on the [person_1]."
+        ],
+        "reason": [
+            "The audience wants to see a good live performance without mistake.",
+            "Because there are several buckets there.",
+            "[person_1] would drop the dumbbell because [person_1] would fall.",
+            "Pianos play important role in a regular band.",
+            "[person_1] is not wearing protective gear , and not every kick he can dodge."
+        ]
+    }
+}

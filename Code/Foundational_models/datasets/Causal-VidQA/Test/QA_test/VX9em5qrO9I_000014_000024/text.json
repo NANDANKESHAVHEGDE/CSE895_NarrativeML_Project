@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [dining table_1] small?",
+        "answer": [
+            "[dining table_1] and [dining table_1] are in the garden.",
+            "The balls are red and blue.",
+            "No , it isn't.",
+            "[dining table_1] and [dining table_1] are in the yard.",
+            "The color of [dining table_1] is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] wants to play drums.",
+            "[person_1] is spending time doing an enjoyable activity.",
+            "[person_1] is reading newspaper.",
+            "The boy couldn't move the guitar out.",
+            "[person_1] is doing arm stretching exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to arrange the cups on the [dining table_1].",
+            "[person_1] is going to keep jumping."
+        ],
+        "reason": [
+            "[person_1] is keeping still.",
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "[person_1] has turned away.",
+            "[person_1] is snowmobiling.",
+            "[person_1] looks excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if all the cups fall?",
+        "answer": [
+            "The people next to [person_1] will come and help [person_1] escape the danger.",
+            "The [person_1] will move and run as fast as possible.",
+            "[person_1] and [person_1] would get wet.",
+            "Maybe [person_1] will pick them up.",
+            "The [person_1] will stop what she is doing and treat the wound."
+        ],
+        "reason": [
+            "[person_1] and [person_1] will need to find a shelter.",
+            "Because [person_1] is deaf.",
+            "Wrong content cannot be used.",
+            "[person_1] enjoys playing with these cups.",
+            "Because plates can also hold food."
+        ]
+    }
+}

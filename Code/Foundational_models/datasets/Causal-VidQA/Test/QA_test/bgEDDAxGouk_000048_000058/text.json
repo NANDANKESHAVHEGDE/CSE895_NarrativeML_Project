@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite small.",
+            "It is very clean and neat.",
+            "It is large.",
+            "It is small.",
+            "It is narrow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the newspaper?",
+        "answer": [
+            "Because the [person_1] plays a song.",
+            "[person_1] and [person_1] are looking for a way to knock the opponent down.",
+            "[person_1] wants to polish the shoe.",
+            "[person_1] is joining in the roller skating competition.",
+            "[person_1] is reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go to bed.",
+            "[person_1] will light up a candle.",
+            "It is foreseen that [person_1] will continue punching [person_2].",
+            "[person_1] will see where the ball falls down.",
+            "Maybe [person_1] will read the newspaper to [person_2]."
+        ],
+        "reason": [
+            "[person_1] has a lot of newspapers on the table.",
+            "[person_1] is pushing the wheelbarrow to the middle of the yard.",
+            "[person_1] has been playing the lute for a while.",
+            "[person_1] wants to put his hand in his mouth.",
+            "[person_1] will feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the newspaper torn?",
+        "answer": [
+            "[person_1] will be happy.",
+            "[person_1] will be able to read.",
+            "[person_1] will fail in this panning.",
+            "[person_1] won't be able to read.",
+            "The [person_1] will go to find another bowl."
+        ],
+        "reason": [
+            "[person_1] will read that newspapers.",
+            "The coco would fall into the bowl and make a big splash.",
+            "[person_1] will throw away the newspapers.",
+            "Many parents give broken household devices to their children to play.",
+            "[person_1] will read other newspapers."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [bowl_1] small?",
+        "answer": [
+            "No , it isn't.",
+            "The [bowl_1] is in the room.",
+            "It is behind [bowl_1].",
+            "[bowl_1] is rectangular.",
+            "It's used to hit people over the head."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] shaking his head?",
+        "answer": [
+            "[person_2] is trying to pick it up.",
+            "[person_2] is opening her present.",
+            "Because [person_2] is putting a ring on his finger.",
+            "[person_2] doesn't want to eat the dish.",
+            "For fear that the liquid splashes out as soon as being opened."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will come to [person_2].",
+            "[person_2] will eat the whole cake up.",
+            "Perhaps [person_2] will continue walking.",
+            "[person_2] will continue making a mouth.",
+            "[person_2] will go all out to be the winner."
+        ],
+        "reason": [
+            "[person_2] is falling on the yard.",
+            "[person_2] wants to build a high tower.",
+            "[person_2] is holding the string tied to the sword.",
+            "[person_2] seems to enjoy it and feels happy.",
+            "[person_2] is walking to the pieces."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] eats this dish?",
+        "answer": [
+            "The others may continue to play the game.",
+            "[person_1] will saw wood difficultly.",
+            "[person_1] will lose points.",
+            "[person_1] would be exhausted.",
+            "[person_1] will be glad."
+        ],
+        "reason": [
+            "[person_1] wants [person_2] growing.",
+            "Because [person_2] failed his jump.",
+            "It's too hot.",
+            "Grape juice won't come out much.",
+            "The audience are all very happy and attracted by the music."
+        ]
+    }
+}

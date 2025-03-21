@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [car_2]?",
+        "answer": [
+            "It is behind [person_1].",
+            "The [car_2] is standing behind the fence.",
+            "The [person_1] is next to [person_1].",
+            "The [person_1] is in front of the [car_2].",
+            "[car_2] is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] front of the cars?",
+        "answer": [
+            "[person_1] is showing how to play maracas.",
+            "[person_1] is doing parkour.",
+            "To relax themselves by massaging feet.",
+            "The two girls are students of [person_1].",
+            "He is taking photos."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after the preparation?",
+        "answer": [
+            "[person_1] will take off the box.",
+            "[person_1] will begin to ride the bicycle.",
+            "[person_1] will play with the snow.",
+            "[person_1] will make a sandwich and give it to [person_1].",
+            "[person_1] will use the orange juice to make some cake."
+        ],
+        "reason": [
+            "It seems that [person_1] is quite interested in it.",
+            "Because the bubbles will break sooner or later.",
+            "It seems that [person_1] is moving forward.",
+            "[person_1] is a kid.",
+            "The power went out and the treadmill didn't work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it is scorcher?",
+        "answer": [
+            "They get scolded.",
+            "All of them will run to the safe place.",
+            "[person_1] won't practice.",
+            "[person_1] will fall , too.",
+            "[person_1] will be kicked out of the golf cart."
+        ],
+        "reason": [
+            "He can be ill if he still practices.",
+            "This serves the match.",
+            "Fire is too dangerous.",
+            "Because this behavior is very dangerous.",
+            "They will not continue the work with the eyebrow and the life is more important."
+        ]
+    }
+}

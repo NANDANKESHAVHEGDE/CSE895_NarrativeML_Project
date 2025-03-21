@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the big room.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are in the children's play area.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] and [person_2] are at the roller rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] massaging the chin of [person_1] ?",
+        "answer": [
+            "[person_1] , [person_2] and [person_1] do it for fun.",
+            "[person_1] is performing a sad song for the person recording him.",
+            "[person_1] reads the sheet music when playing.",
+            "[person_2] is putting shaving cream on the chin of [person_1].",
+            "[person_1] is clapping his hand with someone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do ?",
+        "answer": [
+            "[person_2] is going to clean the face of [person_1].",
+            "[person_2] is going to stand on the grass.",
+            "[person_2] will throw the paper away.",
+            "[person_2] is going to kiss [person_1].",
+            "[person_2] is going to stick the wax strip on the leg of [person_1]."
+        ],
+        "reason": [
+            "[person_2] has finished one pumpkin.",
+            "[person_1] needs to wash his face after shaving.",
+            "[person_2] wants to be good at baseball.",
+            "[person_2] just did the action with hands together so [person_2] may do other actions with hands apart later.",
+            "[person_2] is keen on the activity."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] shaves off his beard ? ?",
+        "answer": [
+            "[person_1] will not be here.",
+            "[person_1] will be more confident.",
+            "[person_1] could be injured.",
+            "[person_1] would drop the ball.",
+            "[person_1] will call for others' help."
+        ],
+        "reason": [
+            "[person_1] have to use legs to do this exercise.",
+            "[person_1] could change the high of [person_1]'s microphone.",
+            "[person_1] would not know how to start the machine.",
+            "Raising the lifts can improve [person_1]'s muscle strength.",
+            "Shaving makes [person_1] look more handsome."
+        ]
+    }
+}

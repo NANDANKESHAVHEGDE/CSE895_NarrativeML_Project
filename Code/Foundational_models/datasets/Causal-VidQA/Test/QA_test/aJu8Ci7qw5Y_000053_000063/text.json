@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a ball?",
+        "answer": [
+            "It is quite dark.",
+            "It is quite small.",
+            "It is narrow.",
+            "It is large.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] train the horse?",
+        "answer": [
+            "[person_1] is in the competition.",
+            "[person_1] opened it by using another bottle.",
+            "[person_1] wants to polish the shoe.",
+            "[person_1] is afraid.",
+            "With many tools."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after touching [horse_1]?",
+        "answer": [
+            "[person_1] will keep on skating.",
+            "The [person_1] will add the water in the [person_1] into the bowls.",
+            "[person_1] will get off after [person_1] gets off.",
+            "[person_1] will carry the ball.",
+            "Probably [person_1] will put some sauce on the chicken."
+        ],
+        "reason": [
+            "[person_1] is trained to follow [person_1].",
+            "Because plants need fertilizer to grow and [person_1] has watered the flowers.",
+            "[person_1] can train the horse better with the ball.",
+            "Because she needs to wash the clothes in the bowls.",
+            "[horse_1] needs a doctor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there are too many tourists?",
+        "answer": [
+            "The room will be darker.",
+            "[person_1] may water it.",
+            "[horse_1] would find a place to shelter.",
+            "[horse_1] would fall on the ground.",
+            "The horse will stop."
+        ],
+        "reason": [
+            "The horse is scared.",
+            "Because there is an umbrella all over the boat.",
+            "Because they could not practice tying knots in the rain.",
+            "[person_1] was looking forward to that gift.",
+            "The patient's life is very important."
+        ]
+    }
+}

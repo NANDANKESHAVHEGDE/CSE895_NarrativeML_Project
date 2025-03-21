@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1] placed?",
+        "answer": [
+            "[cup_1] is placed on the kitchen table.",
+            "[cup_1] is placed in the cabinet.",
+            "[cup_1] is next to the TV.",
+            "[cup_1] pushes one domino tile to trigger a chain reaction of tiles' falling.",
+            "The [cup_1] is next to [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] squatting here?",
+        "answer": [
+            "[person_1] holds the [person_1] in one hand and the spoon in his other hand , and uses the spoon to peel [person_1].",
+            "[person_1] is gathering air into his chest.",
+            "[person_1] is introducing how to do massaging neck.",
+            "[person_1] is unwrapping toy gift.",
+            "[person_1] is expressing his opposition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to open the box.",
+            "[person_1] is going to go home.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to bandage [person_1]."
+        ],
+        "reason": [
+            "[person_1] just looked back.",
+            "[person_1] tore the gifting - wrapping that covers the box.",
+            "[person_1] was blocked by the door.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] hasn't stopped yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't tear the cover?",
+        "answer": [
+            "[person_1] can't see the toy box inside.",
+            "[person_1] would call someone else for help or get a pair of scissors to open it.",
+            "[person_1] can see the toy box inside.",
+            "[person_1] will not raise his thumb.",
+            "[person_1] can't see the toy box outside."
+        ],
+        "reason": [
+            "Because [person_1] was waiting.",
+            "The present was covered tight.",
+            "The water inside the ball on [person_1]'s hands will make them wet.",
+            "The present was not covered tight.",
+            "[person_1] still stops when [person_1] stops."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is outside the room and it is in front of [person_1]?",
+            "[car_1] is in [person_1]'s hand.",
+            "[car_1] is parked on the runway behind [person_1].",
+            "[person_1] is playing now.",
+            "[car_1] is in a garage."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1] doing tai chi?",
+        "answer": [
+            "[person_1] is slowly move backwards.",
+            "[person_1] is celebrating his last winning.",
+            "[person_1] asks [person_1] to play it.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] wants to play with these big dices."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to walk two steps backwards.",
+            "[person_1] is trying to touch [person_1].",
+            "[person_1] is going to talk to [person_1].",
+            "[person_1] will hug [person_1].",
+            "[person_1] is going to use more dice."
+        ],
+        "reason": [
+            "The candle doesn't burn well.",
+            "The meat hasn't cooked yet.",
+            "[person_1] did well.",
+            "It is too late.",
+            "There is some space behind [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] finished her drill?",
+        "answer": [
+            "The plate would drop.",
+            "Maybe [person_1]'s team would celebrate their victory.",
+            "[person_1] would be a little nervous.",
+            "The baby could fall into the water.",
+            "The man behind her might stand up and start his drill."
+        ],
+        "reason": [
+            "It is probable that the man is also a tai chi performer who is waiting for his turn.",
+            "[person_1] is juggling [person_1].",
+            "[person_1] is trying to print or copy something by the machine.",
+            "It is too cold with the dress on , [person_1] will change some clothes warm.",
+            "[person_1] is on the bed."
+        ]
+    }
+}

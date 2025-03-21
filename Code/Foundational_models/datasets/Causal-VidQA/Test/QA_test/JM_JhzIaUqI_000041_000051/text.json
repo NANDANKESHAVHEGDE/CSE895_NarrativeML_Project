@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] stack the cups?",
+        "answer": [
+            "[person_1] stacks cups very quickly.",
+            "[person_1] outstretched his arms to keep balance.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is shaving.",
+            "[person_1] likes it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to slowly opening his arms.",
+            "[person_1] is going to play stacking cups.",
+            "[person_1] is going to whistle.",
+            "Take the fruit out of pumpkin and throw it away.",
+            "[person_1] is going to eat the next slice of potato chips."
+        ],
+        "reason": [
+            "[person_1] picks up plaster on the hawk board to plaster the wall.",
+            "He seems like this kind of jump.",
+            "[person_1] is playing stacking cups",
+            "[person_1] , [person_1] , [person_1] and [person_1] jumped up and shook their hips together.",
+            "It is dirty after taking shower for [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will have to be reset.",
+            "[person_1] will hurt [person_1]'s legs.",
+            "[person_1] will be very sad.",
+            "[person_1] will bark and escape from [person_1].",
+            "[person_1] cries and shouts."
+        ],
+        "reason": [
+            "[person_1] needs to eat something.",
+            "The secret will be revealed.",
+            "Because [person_1] will probably lose.",
+            "[person_1] needs [person_1] to be able to surf.",
+            "Because [person_1] may like it so wearing it."
+        ]
+    }
+}

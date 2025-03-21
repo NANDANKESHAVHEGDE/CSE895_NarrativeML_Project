@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is smashing a tire.",
+            "[person_1] is holding a card.",
+            "[person_1] is stacking the dices.",
+            "[person_1] is running.",
+            "[person_1] is shaking the cup."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "They want to have fun with each other",
+            "Because it is not rain today.",
+            "Because [person_1] is practicing roller - skating.",
+            "[person_1] is playing basketball with [person_2].",
+            "Because [person_1] uses it to play marbles."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_2] next?",
+        "answer": [
+            "[person_2] is going to show his skills.",
+            "[person_2] will continue playing the harmonica.",
+            "[person_2] will hit the ball to the ground.",
+            "[person_2] will continue using the painting gas.",
+            "[person_2] will continue showing what he is doing."
+        ],
+        "reason": [
+            "[person_2] is having fun playing this song on his guitar , so he won't want to stop until he is done.",
+            "[person_2] is holding the ball and crouching.",
+            "It seems that [person_2] has very good knife technique and is recording a video.",
+            "[person_2] will want to practice till he gets tired to improve his skill at playing guitar.",
+            "[person_2] is still swinging her hair at the end of the video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] jumps and tries to throw the ball into the basket?",
+        "answer": [
+            "[person_1] will be the winner.",
+            "[person_1] will raise his hands to throw the ball.",
+            "[person_1] will fix the pole lower.",
+            "[person_1] will raise his hands to block the ball.",
+            "[person_1] would step on [person_2]'s foot."
+        ],
+        "reason": [
+            "[person_1] is trying to move the ball to enter the basket.",
+            "To check what's wrong with it.",
+            "[person_1] is trying to start the ball from entering the basket.",
+            "The boy messed up her plans.",
+            "[person_1] is trying to stop the ball from entering the basket."
+        ]
+    }
+}

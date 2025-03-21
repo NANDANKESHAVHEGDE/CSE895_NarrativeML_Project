@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [potted plant_1]?",
+        "answer": [
+            "The [potted plant_1] is in front of the house.",
+            "The [potted plant_1] is beside the [potted plant_1].",
+            "[potted plant_1] is on the table.",
+            "The [potted plant_1] is on the sideboard behind the [potted plant_1].",
+            "It is next to the window and close to the mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] holding a pillow?",
+        "answer": [
+            "Because [person_1] wants to show off his skills.",
+            "Because there is a person who guides [person_1] how to play basketball.",
+            "Because [person_1] shows the time to finish stacking the cups.",
+            "The [person_1] is beating the boy sitting on the [couch_1] with the pillow.",
+            "[person_1] , [person_1] and [person_1] are performing together on a stage."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to throw the white pillow on the [couch_1].",
+            "The [person_1] is going to back to the land.",
+            "The [person_1] is going to hit the boy on the [couch_1] with the pillow.",
+            "The [person_1] may complete the song which [person_1] is now performing.",
+            "The [person_1] may keep taking the [couch_1] and the [couch_1]."
+        ],
+        "reason": [
+            "The [person_1] is standing on the [couch_1] and aiming at the boy.",
+            "The [person_1] is still holding the hand of the man and stepping ahead.",
+            "The [person_1] turns back and wishes to return.",
+            "The [person_1] catches the ball and shoots the ball more than three times.",
+            "The [person_1] is wearing the gloves and holding a bottle of washing oil."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the boy on the [couch_1] did not bow?",
+        "answer": [
+            "The face of the boy wouldn't be hit.",
+            "the bottle of shout stain remover would spill out onto the floor and [couch_1] would stop to clean the mess on the floor.",
+            "The face of the boy would be touched.",
+            "Maybe [couch_1] will take other cups to play the game.",
+            "The face of the boy would be hit."
+        ],
+        "reason": [
+            "The [person_1] is trying to hit the boy with the pillow.",
+            "Because there is no person around [person_1].",
+            "The [person_1] is trying to hit the boy with the fist.",
+            "Maybe [person_1] will be happier.",
+            "The [person_1] is trying to kill the boy with the pillow."
+        ]
+    }
+}

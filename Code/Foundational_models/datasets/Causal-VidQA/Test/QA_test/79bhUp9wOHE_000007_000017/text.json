@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a black long - sleeved T - shirt.",
+            "[person_1] is wearing a red T - shirt.",
+            "[person_1] is wearing a black T - shirt and white pans.",
+            "[person_1] is wearing a white T - shirt and black pants.",
+            "[person_1] is wearing a hat and a red shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a trowel?",
+        "answer": [
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "[person_1] is playing the accordion.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "[person_1] is learning to ride [person_1].",
+            "Because [person_1] is using the trowel to plaster."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to laugh.",
+            "Plastering the wall is what [person_1] is going to do.",
+            "[person_1] is going to run.",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to kiss [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] is holding a trowel.",
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is snowmobiling.",
+            "Because [person_1] is wearing a baby bib.",
+            "Because [person_1] is lifting the beehive."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the trowel?",
+        "answer": [
+            "[person_1] will pick up the trowel.",
+            "The [person_1] will refuse.",
+            "[person_1] will replace [person_1].",
+            "[person_1] would have to pick up the pen.",
+            "[person_1]'ll be happy."
+        ],
+        "reason": [
+            "[person_1] maybe doesn't notice the [person_1].",
+            "[person_1] is teaching the audience how to make delicious food but [person_1] fails.",
+            "Because [person_1] needs the trowel to work.",
+            "The [person_1] is now sitting on the [person_1] to observe [person_1].",
+            "Because [person_1]'s been training for a long time."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [suitcase_1] used for?",
+        "answer": [
+            "The [suitcase_1] is in the room.",
+            "It is on the bookshelf.",
+            "It is lying on the ground.",
+            "[suitcase_1] is in the table.",
+            "It's used to hit people over the head."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] hit [person_2]?",
+        "answer": [
+            "Because she thinks the game is interesting.",
+            "[person_1] is moving his arms to the left and to then to the right.",
+            "[person_1] is taking about shaving.",
+            "Because he wins the game.",
+            "To teach [person_1] how to make sushi."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "To make bubbles by himself.",
+            "[person_2] may twist to the right.",
+            "[person_2] will go on interpreting.",
+            "He might hit him with a bucket.",
+            "[person_2] will keep taking care of [person_2]."
+        ],
+        "reason": [
+            "[person_2] somersaults on the ground.",
+            "[person_2] has twisted to the left , so next she may twist to the right.",
+            "[person_2] is practicing very hard.",
+            "He wins the game.",
+            "After a while of pumping , the amount of fuel inside the car will be full."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if they play a hundred games?",
+        "answer": [
+            "The lamp will not work.",
+            "Their heads would be hurt.",
+            "The box will break.",
+            "[person_2] would perform without sound.",
+            "People won't see each other."
+        ],
+        "reason": [
+            "[person_1] could not see anything and lose direction without light.",
+            "Both of them probably get hit a lot.",
+            "The cello that [person_1] is playing is the only bass source in the present band.",
+            "The swing speed of [person_2] is quite fast so he would fall suddenly if the swing chains broke.",
+            "[person_1] tries to complete his performance."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] doing?",
+        "answer": [
+            "[person_1] and [person_2] are watering plants.",
+            "[person_1] and [person_2] are doing measurement work.",
+            "[person_1] and [person_2] are playing badminton back and forth.",
+            "They are making sushi.",
+            "[person_1] and [person_2] are trying to help [person_3] skipping rope."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] waiting?",
+        "answer": [
+            "[person_2] is joining the game that [person_2] likes.",
+            "[person_2] and [person_1] need to spin the rope first.",
+            "[person_1] is helping [person_2] practicing martial arts.",
+            "The foot of [person_1] is hurt.",
+            "[person_2] and [person_3] are watching [person_1] paint a picture."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do next?",
+        "answer": [
+            "[person_3] will try to skip rope.",
+            "Maybe [person_3] will talk with [person_3].",
+            "[person_3] will stop swimming with the dolphins.",
+            "[person_3] will give [person_3] some advices.",
+            "[person_3] will cut [person_3]."
+        ],
+        "reason": [
+            "Because [person_3] has already picked up the ball.",
+            "Because [person_3] still wants to jump.",
+            "[person_3] looks very happy.",
+            "[person_3] is opening the door to the room.",
+            "[person_3] jumped up without getting caught with the rope."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] moves closer to the wall?",
+        "answer": [
+            "[person_1] is going not to fall to the ground in a sudden way.",
+            "[person_1] and [person_2] won't be able to spin the rope.",
+            "[person_2] will stop flying the kite and help [person_1] stand up.",
+            "Perhaps [person_1] will be out from the game.",
+            "[person_1] would stop playing and try to tune his guitar."
+        ],
+        "reason": [
+            "Because [person_2]'s attention is on the cake.",
+            "The rope will hit the wall.",
+            "The headphone made of plastic . The wall is hard.",
+            "[person_1] wouldn't want to play with an out - of - tune guitar , so he would stop playing to fix it.",
+            "The carbon dioxide in a Coke bottle exerts a powerful impact in a confined space . So after the coke bottle is opened , it will hit people around it."
+        ]
+    }
+}

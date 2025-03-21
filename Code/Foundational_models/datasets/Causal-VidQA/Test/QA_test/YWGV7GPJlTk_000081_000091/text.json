@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting here?",
+        "answer": [
+            "[person_1] is learning to play chess.",
+            "[person_1] is going out with his family.",
+            "[person_1] is talking about chess.",
+            "[person_1] is lighting a pipe.",
+            "[person_1] is smoking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to smoke.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] may be going to have a taste.",
+            "[person_1] is going to continue stomping grapes."
+        ],
+        "reason": [
+            "Maybe [person_1] smoked for a long time.",
+            "[person_1] does not finish carving.",
+            "[person_1] is bringing the towel from the toe to the sole of the boot.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "Because this is a vlog."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes more?",
+        "answer": [
+            "[person_1] will have lung disease.",
+            "[person_1] will get off the horse in a hurry.",
+            "[person_1] may spit the food in the mouth right away.",
+            "[person_1] may borrow a pair from her friend.",
+            "[person_1] will attract the birds."
+        ],
+        "reason": [
+            "Smoking is not good for health of [person_1].",
+            "Because men are stronger than women so it is much more difficult for a girl to move a car.",
+            "The owner thinks [person_1] wants to steal it.",
+            "The microphone will make big noise when falling on the ground.",
+            "[person_1] will get hurt because of excessive muscle tension."
+        ]
+    }
+}

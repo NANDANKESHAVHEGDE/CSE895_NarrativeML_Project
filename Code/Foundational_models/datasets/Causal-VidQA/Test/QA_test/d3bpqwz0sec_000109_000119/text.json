@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bicycle_1]?",
+        "answer": [
+            "The [car_1] is on the [bicycle_1].",
+            "[car_1] is wearing a sweatshirt and a sweatpants.",
+            "[bicycle_1] is wearing a helmet.",
+            "It is in front of the [car_1].",
+            "No , she isn't . She is in a sporting event hall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the people play the roller skating?",
+        "answer": [
+            "The [bicycle_1] is singing along to the sound that [bicycle_1] is playing.",
+            "Because the [bicycle_1] feels frightened.",
+            "Because [bicycle_1] wants to spend much time with his violin in a quiet place.",
+            "The want to become the good players.",
+            "Because the [person_1] needs to keep balance."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after getting on the roller skating?",
+        "answer": [
+            "[person_1] would like to find more gifts from the tree.",
+            "[person_1] will keep playing it.",
+            "[person_1] is going to stop and have a rest.",
+            "[person_1] will follow the instructions.",
+            "[person_1] may tell others how well the boy just did."
+        ],
+        "reason": [
+            "It seems that [person_1] is waving his body rapidly.",
+            "It seems that [person_1] enjoys it a lot.",
+            "It seems that [person_1] is performing for others.",
+            "[person_1] pays attention on the present and is curious about it.",
+            "[person_1] is taking care of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will stop measuring the long jump.",
+            "The ceremony will take place as usual.",
+            "[person_1] maybe stop stomping.",
+            "[person_1] may not keep running.",
+            "[person_1] can't continue practice."
+        ],
+        "reason": [
+            "[person_1] will go inside.",
+            "The people are outside , so if it rains they will get wet.",
+            "[person_1] may fall.",
+            "[bicycle_1] will not keep standing outside.",
+            "[car_1] will go inside."
+        ]
+    }
+}

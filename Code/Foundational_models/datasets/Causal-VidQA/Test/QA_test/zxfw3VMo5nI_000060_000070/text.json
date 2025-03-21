@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is recording the video.",
+            "[person_1] is wearing makeup.",
+            "[person_1] is introducing about the lute.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is raising her eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may swim towards [person_1].",
+            "[person_1] intends to win this game.",
+            "[person_1] will put in contact lenses.",
+            "[person_1] will continue to read.",
+            "[person_1] will continue climbing till her gets to the peak."
+        ],
+        "reason": [
+            "[person_1] used the control panel of the photocopy machine.",
+            "[person_1] is looking for information in a newspapers.",
+            "[person_1] is combing the hair of this part.",
+            "Because the paint on the paint roller dries out.",
+            "The hair in cutting may get into her eyes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] will stop raising his eyebrows.",
+            "[person_1] won't be able to read.",
+            "[person_1] will stop hooping.",
+            "[person_1] will stop raising her eyebrows.",
+            "[person_1] and [person_1] may not keep dancing because there is no music."
+        ],
+        "reason": [
+            "[person_1] may cry.",
+            "[person_1] will stop.",
+            "[person_1] will wait until the electricity comes on.",
+            "[person_1] may not keep playing lute.",
+            "[person_1] will stop jumping."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the floor?",
+        "answer": [
+            "There are 2 children.",
+            "It is on the hand of [teddy bear_1].",
+            "The window is near [teddy bear_1].",
+            "[teddy bear_1] is on the floor.",
+            "The man is on the [teddy bear_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [teddy bear_1] on the floor?",
+        "answer": [
+            "Because the [person_1] put his hand inside the doll.",
+            "[person_1] is very happy.",
+            "Because the pencil is blunt.",
+            "Because [person_1] is practicing skiing.",
+            "[person_1] and [person_3] is playing."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_1] intends to weld the chemical elements.",
+            "[person_2] intends to spin the hoop.",
+            "[person_1] intends to take his billiard shot.",
+            "[person_1] intends to touch in the harp.",
+            "[person_2] intends to lift [person_1] up."
+        ],
+        "reason": [
+            "[person_2] stops dancing and sits down.",
+            "[person_2] needs a ball to keep on practicing.",
+            "[person_2] is moving in a wheelchair.",
+            "[person_2] doesn't want the kids to get hurt.",
+            "[person_2] turns around to leave."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] didn't lift [person_1] up?",
+        "answer": [
+            "[person_2] wouldn't stand up.",
+            "[person_1] might hit the door.",
+            "[person_2] wouldn't play anymore.",
+            "[person_1] might hit the wall.",
+            "[person_2] would jump again."
+        ],
+        "reason": [
+            "[person_1] is doing somersaults too far to the wall.",
+            "[person_1] had decorations in hand , which might be hanging on the Christmas tree.",
+            "[person_1] is doing somersaults too close to the wall.",
+            "The food is bigger than [person_2]'s mouth so it's hard to eat if the food isn't crushed.",
+            "[person_1] is doing somersaults too close to the roof."
+        ]
+    }
+}

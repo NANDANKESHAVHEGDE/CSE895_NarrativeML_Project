@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding 4 apples.",
+            "[person_1] is holding a piece of pulp from the coco he cuts.",
+            "She is holding a cup.",
+            "[person_1] is standing on the grass.",
+            "[person_1] and [person_1] are sitting in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a glasses?",
+        "answer": [
+            "[person_1] 's vision probably has problems.",
+            "They go there to skate.",
+            "To show polite.",
+            "They are playing games.",
+            "They are here to practice rugby."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to stop picking up apples.",
+            "[person_1] will play again.",
+            "[person_1] will shuffle the cards.",
+            "[person_1] will move the knight.",
+            "It is anticipated that [person_1] will form many baskets."
+        ],
+        "reason": [
+            "[person_1] catch the ball and bounce it to the floor.",
+            "[person_1] did a stupid action.",
+            "[person_1] is playing very enthusiastically.",
+            "[person_1] turned away from the tree and did not carry any bag.",
+            "[person_1] is shaking the maracas to the music."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] had a basket or a bag to carry the apple?",
+        "answer": [
+            "[person_1] would be able to pick up more apples.",
+            "[person_1] would take part in a talent's class.",
+            "[person_1] would not be able to harvest any apples.",
+            "The teacher will give him the wrong number.",
+            "Cross out the wrong words."
+        ],
+        "reason": [
+            "Because [person_1] has to take the broom to sweep the floor.",
+            "Because [person_1] is happy to eat the [person_1].",
+            "There are big snows around the [person_1].",
+            "[person_1] would not have to hold the apples by hands",
+            "[person_1] looks too young and has not enough strength to open."
+        ]
+    }
+}

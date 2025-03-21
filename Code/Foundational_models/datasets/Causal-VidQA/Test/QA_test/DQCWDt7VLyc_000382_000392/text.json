@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the room.",
+            "[person_2] is in the garden.",
+            "[person_2] is in the yard.",
+            "[person_2] is standing on the grass.",
+            "[person_2] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] playing gongs ?",
+        "answer": [
+            "[person_2] is holding a piece of the orange.",
+            "Because [person_2] wants to help [person_2].",
+            "Maybe [person_2] is working.",
+            "The [person_2] is holding the items which are on the table.",
+            "He wants to play better."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to move on and leave the sandpit.",
+            "[person_1] intends to continue playing that instrument.",
+            "[person_1] intends to defend.",
+            "[person_1] has an intention of pulling ups so many times.",
+            "[person_1] intends to step forward."
+        ],
+        "reason": [
+            "It looks like [person_1] will be going around the gongs.",
+            "[person_1] is still holding it.",
+            "[person_1] arms are outstretched to welcome the baby.",
+            "[person_1] is in a position about to lift weights.",
+            "However , [person_1] is just a baby."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the gong hanging rope is broken?",
+        "answer": [
+            "The gong will fall down.",
+            "That player would have to leave the game.",
+            "All bottles will be smashed.",
+            "The [person_1] would not have to clear the court.",
+            "The people might stand nearer each other."
+        ],
+        "reason": [
+            "Because the ground is hard.",
+            "[person_2] has had two kicks only.",
+            "It's the effect of gravity.",
+            "Because here is no third person here.",
+            "[person_1] is not assisting [person_1]."
+        ]
+    }
+}

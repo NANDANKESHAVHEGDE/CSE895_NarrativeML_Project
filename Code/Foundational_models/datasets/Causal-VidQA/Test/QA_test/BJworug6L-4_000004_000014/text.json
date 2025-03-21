@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is on the floor.",
+            "It is on the table.",
+            "It is on the side of the road.",
+            "It is on the [car_1].",
+            "The hat is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is \u00a0 somersaulting.",
+            "[person_1] wants to have a spacious space.",
+            "[person_1] is spraying a picture.",
+            "[person_1] is roller skating.",
+            "[person_1] is enjoying the melody of didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] might watch the video he just recorded.",
+            "[person_1] is going to raise the weights over his head.",
+            "[person_1] is going to share the beer with his friends.",
+            "Maybe [person_1] is going to start taking photo."
+        ],
+        "reason": [
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] has just fell off the small chair and waited for a person to help him stand.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] is in the beach.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] may leave.",
+            "[person_1] may get wet.",
+            "[person_1] and [person_1] will not be able to continue the competition.",
+            "[person_1] and [person_1]'s teammates will come back home.",
+            "[person_1] will stop running."
+        ],
+        "reason": [
+            "Because it's dangerous to play outside on rainy days.",
+            "[person_1] may keep walking.",
+            "[person_1] doesn't have the umbrella.",
+            "The historical reenactment will not be performed in the rain.",
+            "Because they all don't have umbrellas."
+        ]
+    }
+}

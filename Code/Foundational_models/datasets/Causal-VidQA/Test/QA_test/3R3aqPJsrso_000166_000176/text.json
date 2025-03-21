@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in this room ?",
+        "answer": [
+            "There are three people.",
+            "There are two vases.",
+            "The room is colorful.",
+            "Leaves.",
+            "There are 4 trees."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [people_1] putting the hands on the ground ?",
+        "answer": [
+            "[person_1] uses a knife to strike the bottleneck.",
+            "[person_1] is standing on hands.",
+            "[person_1] is giving massage to [people_1] on his head.",
+            "[person_1] is moving through the crowd by roller skates.",
+            "[person_1] is standing up to play his guitar in front of the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will count money.",
+            "[person_1] will continue saying.",
+            "[person_1] will stand up.",
+            "[person_1] will throw the box away.",
+            "It is foreseen that [person_1] will stop playing clap."
+        ],
+        "reason": [
+            "[person_1] is putting the pump nozzle into the car fuel tank.",
+            "[person_1] is touching the shoe.",
+            "Maybe [person_1] finished the song.",
+            "It seems [person_1] arrived just now.",
+            "[person_1] is saying in front of the phone screen."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lamp is off ?",
+        "answer": [
+            "Perhaps the lamp will not light.",
+            "The room will be bright.",
+            "The grinder will stop working.",
+            "The room will be dark.",
+            "The foot may step on his foot."
+        ],
+        "reason": [
+            "The foot can't see anything.",
+            "Because this room doesn't have window.",
+            "Because you have difficulties , you have to find your mother at the first time.",
+            "Because this room have window.",
+            "His mother will appease him."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_1]?",
+        "answer": [
+            "It is on the wooden box.",
+            "They are black.",
+            "[person_1] is in front of [person_1].",
+            "It is in the parking lot.",
+            "[person_1] is behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is doing weightlifting.",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "It's quieter in the room than outside.",
+            "[person_1] is doing a handstand.",
+            "[person_1] is reading newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to a workout.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to start eating.",
+            "[person_1] is going to share something about the newspaper."
+        ],
+        "reason": [
+            "There are a lot of sticky notes on the wall.",
+            "[person_1] put down the weight lifting.",
+            "[person_1] is removing her glasses.",
+            "[person_1] finishes working.",
+            "The tap is still on."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't find the information she needed?",
+        "answer": [
+            "[person_1] may keep looking for.",
+            "[person_1] will not be able to perform difficult movements.",
+            "If [person_1] doesn't wear a uniform or an apron , her cloths will be dirty.",
+            "There will be traces left on the console.",
+            "Maybe the surface of the wood wouldn't absorb the oil."
+        ],
+        "reason": [
+            "The cutting board is used to protect the console.",
+            "[person_1] can stop reading.",
+            "To check the condition of the car.",
+            "The weights , which [person_1] is lifting , are very heavy.",
+            "[person_1] will turn the newspaper many times."
+        ]
+    }
+}

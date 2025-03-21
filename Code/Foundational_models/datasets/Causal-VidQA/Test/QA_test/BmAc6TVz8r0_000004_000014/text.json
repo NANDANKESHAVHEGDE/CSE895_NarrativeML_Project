@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the plastic cup?",
+        "answer": [
+            "It is very dark.",
+            "The plastic cup is green.",
+            "The treadmill is black.",
+            "[person_1] is behind the [person_1].",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a cup?",
+        "answer": [
+            "To wait for the bubbles around [person_1].",
+            "[person_1] is shaking the dice.",
+            "[person_1] is stacking dice.",
+            "Because [person_1] is stacking the dice with a cup.",
+            "[person_1] is a woman."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may say his creative inspiration.",
+            "[person_1] is going to continue to train.",
+            "[person_1] will obviously talk on the cell phone.",
+            "[person_1] is going to remove the dice from the table and shake them again.",
+            "[person_1] is going to turn left."
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "[person_1] is looking at [person_1].",
+            "[person_1] is watering the plants.",
+            "[person_1] is talking passionately.",
+            "Maybe [person_1] wants to practice this particular skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1]'s green cup is missing?",
+        "answer": [
+            "[person_1] would be able to perform this trick.",
+            "[person_1] would bleed.",
+            "[person_1] would not be able to perform this trick.",
+            "[person_1] will lose the bets.",
+            "[person_1] would not be able to fix this trick."
+        ],
+        "reason": [
+            "Because [person_1] would have no one to play with.",
+            "[person_1] needs this special green cup to do the trick.",
+            "[person_1]'s team will become the winner.",
+            "[person_1] doesn't need this special green cup to do the trick.",
+            "Because [person_1] likes flowers , when he holds the flower he will happy and this will make him more handsome."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tv_1]?",
+        "answer": [
+            "It is \u00a0 behind the [person_2].",
+            "It is on the table.",
+            "[person_2] is placed next to [person_2].",
+            "[tv_1] is on the chair.",
+            "[tv_1] is wearing it in front of her."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room with [person_1]?",
+        "answer": [
+            "[person_1] is opening present.",
+            "[person_2] teaching [person_1] and [person_3] how to playing chess.",
+            "Because [person_1] is waiting for the mother.",
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] and [person_2] are playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue testifying.",
+            "[person_2] is going to play chess.",
+            "[person_2] is going to express [person_2]'s opinions.",
+            "[person_2] is going to keep drinking.",
+            "[person_2] will continue his talk."
+        ],
+        "reason": [
+            "Because [person_2] wants to reply the hug of [person_2].",
+            "[person_2] is playing chess.",
+            "Because a girl just handled [person_2] a microphone.",
+            "[person_2] has very good technique.",
+            "[person_2] wants it to be perfect."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] can not deal with her hair.",
+            "[person_1] will stop playing chess.",
+            "[person_1] will stop practicing spinning.",
+            "[person_1] maybe stop stomping.",
+            "[person_1] won't be happy."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The fan will be off , too.",
+            "The piano will not work.",
+            "The machine can not be used without power.",
+            "The room will be dark."
+        ]
+    }
+}

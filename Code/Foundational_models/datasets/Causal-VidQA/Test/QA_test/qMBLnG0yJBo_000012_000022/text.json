@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "It's black.",
+            "The [person_1] is on the right side of [person_1].",
+            "The socks are white.",
+            "The shirt [person_1] wearing is white.",
+            "[person_1] is trying to put a ring on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the mirror?",
+        "answer": [
+            "[person_1] is introducing the harmonica.",
+            "Glasses are [person_1] inseparables.",
+            "[person_1] is trimming and shaving himself.",
+            "[person_1] is fixing her earring.",
+            "[person_1] is a little nervous."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to cross the street.",
+            "[person_1] is going to style his beard a bit.",
+            "[person_1] will leave.",
+            "[person_1] is going to put the plate away."
+        ],
+        "reason": [
+            "Because [person_1] is excellent in dancing.",
+            "It is dirty after cooking.",
+            "[person_1] feels cold.",
+            "[person_1] has finished the outside.",
+            "[person_1] doesn't want to shave all his beard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beard is shaved?",
+        "answer": [
+            "[person_1] would not work.",
+            "The beard will look better.",
+            "[person_1] might shake hands with him.",
+            "[person_1] would keep going.",
+            "The cheer - leading team might not be able to perform."
+        ],
+        "reason": [
+            "Because there is just only one pack of potato chips for [person_1] to eat.",
+            "[person_1] will have a nice beard.",
+            "[person_1] can not see anything.",
+            "The beard of [person_1] is too long.",
+            "[person_1] follows the rules when playing."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs in the room?",
+        "answer": [
+            "The stack of chairs is orange.",
+            "It's mainly black and has some white color.",
+            "He is a boy.",
+            "No , he didn't.",
+            "There are three chairs."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is standing on the [person_1] by hands.",
+            "Maybe [person_1] is taking part in a competition on playing the lute.",
+            "[person_1] is excited about holding these cups.",
+            "[person_1] is reading [person_1].",
+            "Maybe [person_1] looks like a visitor coming to visit."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play the cello.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to a workout.",
+            "[person_1] is going to continue riding.",
+            "[person_1] is going to end his performance."
+        ],
+        "reason": [
+            "[person_1] looks like a manager.",
+            "[person_1] cleaned the wood very carefully.",
+            "[person_1] is excited about this book.",
+            "[person_1] is very professional.",
+            "The tap is still on."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] becomes the winner of a talent contest?",
+        "answer": [
+            "[person_1] won't be famous.",
+            "Then the car driving from behind may hit him.",
+            "[person_1] will be famous.",
+            "[person_1] will have to jump again.",
+            "[person_1] will be sad."
+        ],
+        "reason": [
+            "[person_1] will earn money from it.",
+            "[person_1] will be a football enthusiast.",
+            "[person_1] will loss money from it.",
+            "[person_1] head will be swollen.",
+            "[person_1] will pay money to it."
+        ]
+    }
+}

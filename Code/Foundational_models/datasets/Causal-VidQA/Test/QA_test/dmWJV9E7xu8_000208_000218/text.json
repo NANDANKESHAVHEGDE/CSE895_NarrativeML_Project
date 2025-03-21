@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the orange garden.",
+            "[person_1] is next to a conveyor belt.",
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the mirror?",
+        "answer": [
+            "[person_1] is getting ready to go somewhere.",
+            "Maybe the weather is hot.",
+            "Maybe it is hot.",
+            "[person_1] is practicing the guitar.",
+            "[person_1] is lifting weights."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may take off the clip.",
+            "[person_1] will play basic chords.",
+            "[person_1] does a workout.",
+            "[person_1] going to shave.",
+            "[person_1] will check the honey."
+        ],
+        "reason": [
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] is holding the trimmer.",
+            "Because [person_1] is going to chop something.",
+            "[person_1] is sitting on the floor.",
+            "Because [person_1] is getting the bee box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes shaving?",
+        "answer": [
+            "[person_1] feels more comfortable.",
+            "[person_1] would not be as happy as he is now.",
+            "The child will call his parents.",
+            "[person_1] will be more confident.",
+            "[person_1] and [person_1] will clap their hands."
+        ],
+        "reason": [
+            "[person_1] and [person_1] just give high - five to congratulate the job well done.",
+            "Because the [person_1] cannot going on introducing the way of making the doll without it.",
+            "Shaving makes [person_1] look younger and more handsome.",
+            "That's why [person_1] wants to shave his head.",
+            "The hair color can be changed by different hair color cream."
+        ]
+    }
+}

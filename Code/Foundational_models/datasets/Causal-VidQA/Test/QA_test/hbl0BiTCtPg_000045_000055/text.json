@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dining table_1]?",
+        "answer": [
+            "On the wall.",
+            "It's next to the door.",
+            "It is on the in the bookcase.",
+            "It is in front of the building.",
+            "[dining table_1] is on the left."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] laughing?",
+        "answer": [
+            "[person_1] uses his both hands and tries his best to lift the weights up.",
+            "Because they're having a good time.",
+            "[person_2] and [person_1] may be in a competition.",
+            "[person_1] is frustrated about stacking cups.",
+            "[person_1] will feel hot and sweat a lot."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do?",
+        "answer": [
+            "They might dance together.",
+            "They might sleep.",
+            "[person_2] and [person_2] will comfort [person_1].",
+            "The [person_1] will get off the elephant.",
+            "They may continue to play this game."
+        ],
+        "reason": [
+            "It's night.",
+            "They have a good time.",
+            "That's what the performers always do.",
+            "To congratulate on the proposal.",
+            "[person_1] wants to practice more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the power goes out?",
+        "answer": [
+            "[person_2] will be happier.",
+            "They won't light the candles and play games.",
+            "[person_2] could not play the game.",
+            "They may light the candles and play games.",
+            "[person_2] might walk into the river to pull."
+        ],
+        "reason": [
+            "They are very excited now.",
+            "[person_2] is a baby.",
+            "They are very bored now.",
+            "That car is pulling [person_2] at high speed.",
+            "They are very sad now."
+        ]
+    }
+}

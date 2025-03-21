@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_2]'s T - shirt?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "The scene is wonderful.",
+            "There are three people on the stage.",
+            "[person_2] is wearing a black T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "How do [person_1] and [person_2] make the bubbles?",
+        "answer": [
+            "[person_2] wanna show the results after waxing the legs of [person_1].",
+            "To put the two snowballs together and then make it a snowman.",
+            "[person_1] is not good at roller skating.",
+            "[person_1] is making faces for the video of [person_1].",
+            "With the soap in [person_1] and [person_2]'s hands."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] may continue training.",
+            "[person_1] and [person_2] will celebrate.",
+            "They will keep on laying those bricks on each other.",
+            "[person_1] and [person_2] will find a quilt.",
+            "Go to the [sink_1]."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are really enjoying playing together.",
+            "To wash their dirty hands.",
+            "Because there are still a lot of leaves that have not been cleaned along the track of the truck.",
+            "[person_1] and [person_2] both cook at the same time and are very busy.",
+            "It is clear that they enjoy the game a lot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] accidentally swallowed a little bubble water?",
+        "answer": [
+            "The string will fall on the ground.",
+            "[person_1] will not go to the [sink_1].",
+            "[person_1] may hug the dolphin.",
+            "[person_1] will go to the [sink_1].",
+            "The man on the canoe may help him."
+        ],
+        "reason": [
+            "Because the house is full of dust but no one cleans it , [person_1] will inhale too much dust and get coughing.",
+            "To gargle with some dirty water.",
+            "Because [person_1] can't see anything and will lose balance and feel scared.",
+            "To gargle with some clean water.",
+            "Because [person_1] just succeed in tossing a coin."
+        ]
+    }
+}

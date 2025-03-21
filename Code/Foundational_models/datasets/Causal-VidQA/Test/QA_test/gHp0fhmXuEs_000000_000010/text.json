@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is \u00a0 white.",
+            "It is pink.",
+            "It is black.",
+            "it is black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the floor?",
+        "answer": [
+            "Because [person_1] is not tall enough.",
+            "[person_1] is reading newspaper.",
+            "cleaning the shoe with shoe polish is cleaner than cleaning with hands.",
+            "[person_1] is greeting her audience.",
+            "[person_1] is \u00a0 trying to somersault."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to proceed to spray all the ceiling.",
+            "[person_1] is going to keep trying to somersault.",
+            "[person_1] is going to greet and thank the audience.",
+            "[person_1] is going to see the gift.",
+            "[person_1] is going to swim his best to the other side of the pool."
+        ],
+        "reason": [
+            "[person_1] opens the [person_1] to put the [person_1] in.",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "[person_1] is holding the flute and is about to play.",
+            "[person_1] looks so excited.",
+            "Because [person_1] steps aside it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The machine will be off.",
+            "[person_1] may not keep jumping.",
+            "The machine will stop working.",
+            "The light will be off.",
+            "[person_1] won't be able to play."
+        ],
+        "reason": [
+            "[person_1] may not keep presenting.",
+            "Maybe [person_1] will find candles to light.",
+            "[person_1] will stop performing the lute.",
+            "[person_1] will hug the man.",
+            "[person_1] will stop somersaulting."
+        ]
+    }
+}

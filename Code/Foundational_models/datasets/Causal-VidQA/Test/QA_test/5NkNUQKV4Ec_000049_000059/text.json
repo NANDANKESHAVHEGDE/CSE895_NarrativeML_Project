@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is blue.",
+            "[person_1] is wearing a white T - shirt.",
+            "It is red.",
+            "It is brown.",
+            "It's brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a watering can?",
+        "answer": [
+            "[person_1] is reading [person_1].",
+            "Because [person_1] is watering the flower pots.",
+            "Because [person_1] is playing the violin with his friends in the room.",
+            "Because [person_1] is pushing the wheelbarrow.",
+            "Maybe [person_1] likes to water plants."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do a workout.",
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to continue watering.",
+            "[person_1] may put the milk in the fridge.",
+            "[person_1] may close the window."
+        ],
+        "reason": [
+            "[person_1] is ripping paper.",
+            "The message says he should come home for dinner.",
+            "[person_1] is sitting on the snowmobile.",
+            "Maybe [person_1] likes watering.",
+            "[person_1] is in the gymnastic."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no water in the watering can?",
+        "answer": [
+            "[person_1] and [person_1] will use the cart behind [person_1] to hold it.",
+            "[person_1] will take more water to irrigate.",
+            "The [person_1] will flatten the concrete fast.",
+            "[person_1] will not take more water to irrigate.",
+            "The [person_1] will change the tool."
+        ],
+        "reason": [
+            "Maybe [person_1] will be interested in watering the plants.",
+            "Because [person_1] still holds the first cap.",
+            "Maybe [person_1] will be boring in watering the plants.",
+            "The [person_1] is sitting on the [person_1] and the [person_1] is little.",
+            "Maybe [person_1] will not be interested in watering the plants."
+        ]
+    }
+}

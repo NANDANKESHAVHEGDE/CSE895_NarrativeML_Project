@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is outside the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the harp?",
+        "answer": [
+            "[person_1] is playing the lute.",
+            "Because [person_1] wants to make a beer cask.",
+            "Because [person_1] is playing the flute.",
+            "[person_1] wants to teach this exercise to everyone.",
+            "[person_1] is playing the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to continue stretching."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] is going to chop something.",
+            "[person_1] is still holding the harp.",
+            "Because [person_1] looks very tired.",
+            "Because [person_1] will be tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [couch_1] weren't there?",
+        "answer": [
+            "[couch_1] would be safe.",
+            "[couch_1] would be have anyone to study.",
+            "[couch_1] would stand up by herself.",
+            "The horse will stop.",
+            "The room would be more spacious."
+        ],
+        "reason": [
+            "There would be no one else except for [couch_1] to dance with.",
+            "[couch_1] would not take the place in the room.",
+            "[couch_1] doesn't feel so excited.",
+            "There would be only [couch_1] and his partner dancing there.",
+            "If the dryer does not shut down , there will be more hair being rolled into the hair."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs in the room?",
+        "answer": [
+            "No.",
+            "There are 2 chairs.",
+            "[person_2] is standing between [person_2] and [person_2].",
+            "The [person_1] is black.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] siting on the stage?",
+        "answer": [
+            "[person_1] is trying roller - skating.",
+            "[person_1] wants to shave hair on [person_2]'s leg.",
+            "[person_1] and [person_2] are performing a song.",
+            "[person_1]'s body is bouncing because the [person_2] is bouncing.",
+            "Maybe [person_1] is learning how to play the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will rest next.",
+            "[person_1] and [person_2] will keep performing.",
+            "[person_1] and [person_2] will stop recording the dance.",
+            "[person_1] and [person_2] will sit down and rest.",
+            "[person_1] and [person_2] will stop practicing."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are still holding hands at the end of the video.",
+            "It is clear that they enjoy the game a lot.",
+            "They have a good time.",
+            "[person_1] and [person_2] have not finished the performance.",
+            "Because [person_1] and [person_2] are absorbed in the duet and do not feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the light suddenly went off?",
+        "answer": [
+            "[person_1] would not be injured.",
+            "[person_2] will feel uncomfortable.",
+            "[person_1] may get hurt in his toes.",
+            "The chain reaction could be put to a sudden halt.",
+            "[person_1] and [person_2] would continued the show."
+        ],
+        "reason": [
+            "[person_1] and [person_2] is very focused on the show.",
+            "There is a door behind the [person_1].",
+            "[person_1] , [person_2] and [person_1] are competing.",
+            "The carpet is spread out on the ground.",
+            "The [person_1] would be interrupted and turn to look at the door."
+        ]
+    }
+}

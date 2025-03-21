@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a white shirt and tie.",
+            "[person_1] is behind the girl.",
+            "[person_1] is wearing a beret.",
+            "It is brown.",
+            "[person_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] holding a lighter upside down.",
+        "answer": [
+            "[person_1] is stacking the cups.",
+            "[person_1] is learning to play chess.",
+            "[person_1] is talking about chess.",
+            "[person_1] is lighting a pipe.",
+            "[person_1] is going out with his family."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] might ask for help.",
+            "[person_1] may go for the water bottle.",
+            "[person_1] may flip the bottle again.",
+            "[person_1] is going to put the pipe down.",
+            "[person_1] is going to use the computer."
+        ],
+        "reason": [
+            "The [person_1] will repeat the movement . The [person_1] holds the ball in front of her chest and is about to lie down.",
+            "because [person_1] is in the middle of performing and [person_1] has to go back to where [person_1] has started.",
+            "[person_1] is moving the pipe down with his hand.",
+            "because the flames are so intense , they may endanger the life of [person_1].",
+            "[person_1] is reaching toward the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if the light to the left of [person_1] go out?",
+        "answer": [
+            "[person_1] will look back.",
+            "[person_1] will be able to see everything.",
+            "[person_1] will pick it up and replace it for the right position.",
+            "[person_1] will not be able to see anything.",
+            "[person_1] will be broken on the floor."
+        ],
+        "reason": [
+            "the light isn't providing light for [person_1] to see.",
+            "[person_1] is drinking soda , so the can of soda is not empty . If that can of soda falls on the ground , it will be spilled.",
+            "the light is providing light for [person_1] to see.",
+            "It is a lot of juice which took time and effort to make.",
+            "The [person_1] is giving treat for [person_1]."
+        ]
+    }
+}

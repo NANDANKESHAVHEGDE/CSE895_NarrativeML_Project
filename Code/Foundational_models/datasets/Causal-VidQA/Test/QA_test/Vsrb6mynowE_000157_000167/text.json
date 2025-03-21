@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there ?",
+        "answer": [
+            "There are two chairs.",
+            "There are two chair.",
+            "There are two vases.",
+            "The room is clean.",
+            "There are three people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing outside ?",
+        "answer": [
+            "Because [person_1] and [person_2] are friends.",
+            "Because [person_1] is looking at the music book to play.",
+            "[person_2] is standing there to give [person_1] the knifes.",
+            "Maybe [person_1] and [person_2] are saluting someone.",
+            "There is the grape stomp."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] may turn on the water pipe.",
+            "[person_1] will stop saluting.",
+            "Give up mopping the floor.",
+            "[person_1] will explain to us the composition of the bicycle body.",
+            "[person_1] may be off the roof."
+        ],
+        "reason": [
+            "To see how to assemble it.",
+            "[person_1] will be more tired when it is winter.",
+            "[person_1] is putting hand down.",
+            "To clean the snow on the right.",
+            "It seems that striking to rock is a useless method."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains ?",
+        "answer": [
+            "[person_1] will get wet.",
+            "[person_1] and [person_1] may go home.",
+            "Maybe [person_1] will stop making the basket temporarily.",
+            "[person_1] will not ride the bicycle fast.",
+            "Maybe [person_1] will stop painting temporarily."
+        ],
+        "reason": [
+            "[person_1] doesn't have raincoat.",
+            "The road is very slippery when it rains.",
+            "They are swording fighting outside.",
+            "[person_1] gets wet.",
+            "[person_1] is outside."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is wearing a beanie.",
+            "The [dining table_1] is next to [person_1].",
+            "[person_1] is in a room.",
+            "[person_1] is in the living room.",
+            "[person_1] is in the textile factory."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pause for a bit before sitting on a chair?",
+        "answer": [
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] is planing wood.",
+            "[person_1] wants to say something or instruct how to play the accordion.",
+            "[person_1] has to ensure that the chair is on the right position.",
+            "[person_1] is introducing the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will keep his eyes on the guitar.",
+            "[person_1] will continue to ride the hoverboard for a little while longer.",
+            "[person_1] may take another jump.",
+            "[person_1] will play the drums for a while.",
+            "[person_1] will continue to support [person_1] in stomping the grapes."
+        ],
+        "reason": [
+            "[person_1] has just started playing.",
+            "[person_1] failed on this try , and he is competing in the Olympics.",
+            "Because [person_1] is not balanced.",
+            "Looks like [person_1] is doing much of lunges.",
+            "Because there is still too much snow on the road."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the drumsticks [person_1] holding were broken?",
+        "answer": [
+            "[person_1] could continue to play drums.",
+            "The bottle will break.",
+            "[person_1] could not continue to play drums.",
+            "The mahjong machine will not be able to work.",
+            "[person_1] could not continue to break drums."
+        ],
+        "reason": [
+            "Drumsticks are essential for playing drums ; without them , [person_1] cannot play drums.",
+            "Because the shelf may fall down on [person_1]'s back.",
+            "Drumsticks are not important for playing drums ; without them , [person_1] cannot play drums.",
+            "The old lifts seem to be too heavy for him.",
+            "Drumsticks are essential for playing drums ; with them , [person_1] cannot play drums."
+        ]
+    }
+}

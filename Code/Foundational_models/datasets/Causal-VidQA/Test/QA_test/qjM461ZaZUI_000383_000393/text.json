@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is standing next to [person_1] on the court to play badminton.",
+            "[person_1] is opening present.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is using [bicycle_4] to move.",
+            "[person_1] is doing some tai chi moves."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use [bicycle_4] to move?",
+        "answer": [
+            "To ensure a clean laboratory environment.",
+            "Because [person_1] likes that.",
+            "[person_1] is showing how to operate the circular saw.",
+            "Make a snowball first.",
+            "Small blocks are easier to deal with."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably clean [bicycle_4] after a long day.",
+            "[person_1] will probably continue trying to shine the other shoe.",
+            "[person_1] will stop exercise to do some other things.",
+            "[person_1] will ride harder.",
+            "[person_1] will practice leading the ball."
+        ],
+        "reason": [
+            "[person_1] wants to build a wall.",
+            "Because [person_1] is neat.",
+            "[person_1] wants to play with [person_1].",
+            "Because [person_1] is tearing down the tire.",
+            "This increases the friction."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't clean [bicycle_4] after a long day?",
+        "answer": [
+            "[person_1] will swim.",
+            "Maybe [person_1] will look more beautiful.",
+            "[person_1] will feel uncomfortable.",
+            "The [person_1] will fall down the floor.",
+            "If [person_1] does not help [person_1] hold the barbell , [person_1] will be injured."
+        ],
+        "reason": [
+            "Because cleaning [bicycle_4] is a [person_1]'s routine.",
+            "The [person_1] stands to play accordion.",
+            "Cookies are not delicious.",
+            "To fix the snow blower.",
+            "[bicycle_4] will apologize for his mistake."
+        ]
+    }
+}

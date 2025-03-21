@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bench_1]?",
+        "answer": [
+            "[bench_1] is behind a [person_1].",
+            "The couch is behind [bench_1].",
+            "[bench_1] is lying on the floor.",
+            "Punching.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside the yard?",
+        "answer": [
+            "[person_1] is standing and stacking cups.",
+            "[person_1] is stacking cups.",
+            "Because near the window there is a lot of natural light.",
+            "[person_1] is doing exercise.",
+            "[person_1] is opening his gift."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will warm up.",
+            "[person_1] will let the maracas down.",
+            "[person_1] is going to pull the fish up.",
+            "[person_1] will share his work with the camera.",
+            "[person_1] will have a rest."
+        ],
+        "reason": [
+            "[person_1] needs to use the machine to copy something.",
+            "Hands of [person_1] are raising.",
+            "[person_1] is carrying the bed with another man coming to the warehouse.",
+            "Because [person_1] is knitting and feels tired.",
+            "Outdoor exercise makes [person_1] comfortable."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't exercise?",
+        "answer": [
+            "[person_1] will try to find other types of pillows.",
+            "[person_1] may be hurt.",
+            "[person_1] will be fat.",
+            "[person_1] will go down to have a rest and let someone else train.",
+            "[person_1] will be hungry."
+        ],
+        "reason": [
+            "[person_1] is serving the customer.",
+            "They are a team.",
+            "[person_1] is happy.",
+            "[person_1] practiced hard.",
+            "The painting color will not be reasonable."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Which position is [person_1] in?",
+        "answer": [
+            "[person_1] is wearing a white shirt.",
+            "[person_1] is wearing a red T - shirt.",
+            "[person_1] is wearing a black T - shirt.",
+            "[person_1] is in a sitting position.",
+            "[person_1] is wearing a white stripes shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit?",
+        "answer": [
+            "Because [person_1] wants to charge the circular saw.",
+            "[person_1] is throwing it at [person_1].",
+            "It will be easier for [person_1] to tie the knot.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "Because [person_1] wants to open the present easily."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] may continue what he did.",
+            "[person_1] is going to collect gifts inside the bag."
+        ],
+        "reason": [
+            "[person_1] is keeping still.",
+            "[person_1] is snowmobiling.",
+            "[person_1] has turned away.",
+            "Because [person_1] is opening a present.",
+            "[person_1] has not finished his talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not in the room?",
+        "answer": [
+            "[person_1] would win.",
+            "The bag of the present will not be opened by [person_1].",
+            "[person_1] would cry.",
+            "[person_1] would be happier.",
+            "His leg would be broken."
+        ],
+        "reason": [
+            "When the ball hits the glass , the glass will break.",
+            "No one catches [person_1] when [person_1] jumps down.",
+            "There is one set of cups that is too little for [person_1] to play stacking cups.",
+            "[person_1] is too young to stay alone.",
+            "Because [person_1] does not hold the bag of the present."
+        ]
+    }
+}

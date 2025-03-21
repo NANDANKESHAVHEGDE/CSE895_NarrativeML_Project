@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the [chair_1]?",
+        "answer": [
+            "[chair_1] is skating on the stage.",
+            "[chair_1] is in the garden.",
+            "[chair_1] is on stage.",
+            "The [chair_1] is quite big.",
+            "[chair_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing the [baseball glove_1]?",
+        "answer": [
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_1] wants to keep himself against the damage.",
+            "It is probable that [baseball glove_1] is performing a live show with [person_1].",
+            "[person_1] may not know how to tie a bow for himself.",
+            "Because [person_1] finished in short time."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will pet the dog.",
+            "It is anticipated that [person_2] will teach [person_1] how to hit the ball properly.",
+            "Maybe [person_2] will sit in the wheelbarrow one more time.",
+            "[person_2] will give the bubble machine to [person_1].",
+            "[person_2] will cut [person_2]."
+        ],
+        "reason": [
+            "Because [person_1] fails to blow out the candles.",
+            "[person_2] looks like a head coach of [person_1].",
+            "[person_2] looks very happy.",
+            "[person_2] is going ahead to touch the ball.",
+            "Because [person_1] obviously can't break the wooden board by himself , [person_2] will try to help ."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] didn't come to this stadium?",
+        "answer": [
+            "[person_1] will stop stretching.",
+            "Then the water spray will not be so big.",
+            "It won't have been smeared on cookies.",
+            "[person_1] would try to practice according to his ability.",
+            "[person_1] would find it difficult to raise his body up."
+        ],
+        "reason": [
+            "The players can't see the card.",
+            "Because [person_1] and [person_2] are annoyed when meeting together so they don't want to see each other.",
+            "We can't taste the food so we can only tell the how is the food like from their gesture.",
+            "[person_1] would not have the guidance of [person_2].",
+            "The squat movements put a lot of pressure on the practitioner\u2019s knees , so [person_1] would have to stop squatting until she could recover from the knee injury."
+        ]
+    }
+}

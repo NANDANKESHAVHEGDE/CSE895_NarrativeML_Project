@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is stacking the dice on the [person_1].",
+            "[person_1] is shaking the cup.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is ripping paper."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the orange juicer?",
+        "answer": [
+            "[person_1] and [person_1] are spinning the rope for [person_1].",
+            "The orange juicer helps [person_1] to squeeze orange easier.",
+            "He wants to play better.",
+            "Because the [person_1] does not want to walk.",
+            "To increase the air pressure inner , making it easier to open it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to straight her legs vertically.",
+            "[person_1] is going to comb his hair.",
+            "[person_1] is going to take out a ring.",
+            "[person_1] will continue play with water.",
+            "[person_1] is going to pour orange juice into a cup , add sugar and enjoy."
+        ],
+        "reason": [
+            "The oranges seem quite sour , so [person_1] is going to add sugar to make it taste better.",
+            "At the last of the video , [person_1] is slowing down , so [person_1] may not want to go on skating.",
+            "Because [person_1] has not been finished plastering the wall yet.",
+            "Because [person_1] wants to change a tool , [person_1] must want to finish the repairing work.",
+            "[person_1] tore the gifting - wrapping that covers the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the orange juicer broke?",
+        "answer": [
+            "[person_1] would squeeze the oranges by hand.",
+            "[person_1] won't be able to print.",
+            "[person_1] wouldn't squeeze the oranges by hand.",
+            "[person_1] will fix it.",
+            "[person_1] would squeeze the oranges by head."
+        ],
+        "reason": [
+            "Because the room is using light from outside.",
+            "Oranges are hard to squeeze out by hand . So she might still squeeze oranges by hand if the orange juicer broke.",
+            "[person_1] cannot play [person_1] anymore.",
+            "Oranges are easy to squeeze out by hand . So she might still squeeze oranges by hand if the orange juicer broke.",
+            "[person_1] is indoors."
+        ]
+    }
+}

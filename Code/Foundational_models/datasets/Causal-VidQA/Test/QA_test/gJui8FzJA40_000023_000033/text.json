@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "[person_2] in the room.",
+            "[person_2] is behind [person_2].",
+            "The weather is very nice.",
+            "[person_2] is on the basketball yard.",
+            "It's very cold outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_1] is shredding paper.",
+            "[person_2] hit the same cup in beer pong.",
+            "Maybe Everyday and every time [person_1] wants.",
+            "[person_1] and [person_2] are playing chess on the street.",
+            "[person_2] received a gift."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to compare who blows the biggest ball.",
+            "[person_1] and [person_2] will leave the room.",
+            "[person_1] and [person_2] are going to dance and look at each other.",
+            "[person_1] and [person_2] are going to keep playing.",
+            "[person_1] and [person_2] are going to kiss again."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are in the room and they seem to get an agreement for hanging out.",
+            "[person_1] looks ready.",
+            "They are a couple.",
+            "There are many wine bottles on the table.",
+            "The match is going very intense."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will stop jumping.",
+            "[person_1] will stop jumping high.",
+            "[person_1] won't continue skating.",
+            "[person_1] maybe stop jumping long.",
+            "[person_1] will stop playing chess."
+        ],
+        "reason": [
+            "[person_1] does not have an umbrella.",
+            "[person_1] will get wet if it rains.",
+            "[person_1] couldn't find a rain shelter.",
+            "Because [person_1] can't practice at rainy days.",
+            "There is no shelter outside , [person_1] and [person_1] will enter the house."
+        ]
+    }
+}

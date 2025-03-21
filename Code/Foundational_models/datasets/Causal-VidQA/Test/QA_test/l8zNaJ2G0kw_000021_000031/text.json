@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] ?",
+        "answer": [
+            "[person_1] is a street artist.",
+            "[person_1] is standing next to a snowman.",
+            "[person_1] is in a room.",
+            "[person_1] is gray.",
+            "[person_1] is next to some trees."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] work?",
+        "answer": [
+            "To fill up his lungs.",
+            "Because [person_1] can't afford to go to the gym.",
+            "Because [person_1] is a beginner.",
+            "[person_1] is very hard - working.",
+            "Because [person_1] is a child."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may cheer up.",
+            "[person_1] is going to practice.",
+            "[person_1] is going to work all day.",
+            "[person_1] is going to keep practicing."
+        ],
+        "reason": [
+            "[person_1] is cutting a wood.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] is paying attention to other things.",
+            "[person_1] is still dancing with fire."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there did not the light?",
+        "answer": [
+            "[person_1] would continue to work.",
+            "[person_1] will have eye pain.",
+            "[person_1] would not continue to work.",
+            "[person_1] may have a fall.",
+            "[person_1] would not continue to play."
+        ],
+        "reason": [
+            "[person_1] couldn't see anything to keep going the game.",
+            "[person_1] may be injured.",
+            "[person_1] could see everything to keep going the work.",
+            "Maybe no one can contact [person_1].",
+            "[person_1] couldn't see anything to keep going the work."
+        ]
+    }
+}

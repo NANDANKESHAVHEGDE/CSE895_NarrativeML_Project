@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside , standing in front of a large door.",
+            "[person_1] is in a room.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is selling goods at the market.",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear sunglasses?",
+        "answer": [
+            "[person_1] wants to look stylish.",
+            "[person_1] wants to greet everyone.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] blows air into the mouthpiece and presses the keys at the same time.",
+            "[person_1] is making a funny video."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue playing the clarinet.",
+            "[person_1] will keep dancing.",
+            "[person_1] will continue playing in the room.",
+            "[person_1] will ask her parents for help.",
+            "[person_1] will share his work with the camera."
+        ],
+        "reason": [
+            "[person_1] wants to keep blowing the clarinet.",
+            "To finish the building of the shed.",
+            "[person_1] may keep snowboarding.",
+            "[person_1] is smiling to the camera.",
+            "[person_1] unsuccessfully lifts the dumbbell and [person_1] needs to improve that."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were outside?",
+        "answer": [
+            "[person_1] would have a better background for the recording.",
+            "The band would lost its tempo.",
+            "[person_1] wouldn't have a better background for the recording.",
+            "[person_1] still would not win [person_1].",
+            "[person_1] would have a worse background for the recording."
+        ],
+        "reason": [
+            "[person_1] is standing in front of a clean wall.",
+            "because there is no one playing with [person_1].",
+            "[person_1] is standing in the front of a messy wall.",
+            "because there was no one preventing [person_1] from attacking [person_1].",
+            "[person_1] is standing in front of a messy wall."
+        ]
+    }
+}

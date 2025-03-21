@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is television big?",
+        "answer": [
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is on the wall.",
+            "[person_1] is on the basketball yard.",
+            "[person_1] is the baby who is shorter.",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in front of the TV?",
+        "answer": [
+            "The floor is very flat and easier to stack dice.",
+            "[person_1] explains the approximate posture to throw the ball.",
+            "[person_1] is looking at the book to play the flute.",
+            "She is reading books.",
+            "[person_1] is playing guitar there."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will play basic chords.",
+            "[person_1] is going to play guitar solo.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] may go to somewhere else.",
+            "[person_1] will continue to play the cello."
+        ],
+        "reason": [
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is very proficient at playing the guitar.",
+            "It is late.",
+            "[person_1] walks away.",
+            "[person_1] is trying to do the job fast."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is out of tune?",
+        "answer": [
+            "[person_1] will break the cup.",
+            "The [person_1] will not try his best to perform.",
+            "The [person_1] will be unhappy.",
+            "Maybe [person_1] will be back.",
+            "Perhaps [person_1] will stop."
+        ],
+        "reason": [
+            "[person_1] is practicing playing the guitar.",
+            "Because they want to use the natural water that's clean.",
+            "[person_1] made a lot of effort.",
+            "To clean up the floor.",
+            "Because the fish is afraid of human."
+        ]
+    }
+}

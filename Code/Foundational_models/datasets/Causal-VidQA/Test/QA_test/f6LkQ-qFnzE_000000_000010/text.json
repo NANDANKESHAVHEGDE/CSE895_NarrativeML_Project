@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a checked blouse.",
+            "The [person_1] is playing with the dolls.",
+            "The [person_1] is wearing a sweater and pants.",
+            "The [person_1] is wearing a coat and a beanie.",
+            "The [person_1] is wearing a pink dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_2] crawl down?",
+        "answer": [
+            "The [person_2] has to overcome the challenge.",
+            "[person_2] is playing bagpipes.",
+            "[person_2] is stomping grapes.",
+            "Because she is very happy for she successfully opens the beer by her hand.",
+            "The [person_2] and the [person_2] skate around like a challenge."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may practice hitting the ball more than three times.",
+            "The [person_1] may take another snowball to throw toward the [person_1].",
+            "The [person_1] is going to keep riding on the route.",
+            "The [person_1] may figure out how far the [person_1] throws.",
+            "The [person_1] may crawl under the [baseball bat_1]."
+        ],
+        "reason": [
+            "[person_1] is flying smoothly and opens the parachute.",
+            "The [person_1] is shaking the bottle and the glass is still empty.",
+            "[person_1] is running and looking at the ball.",
+            "The [person_1] touches the bass buttons and controls them.",
+            "When the [person_2] passes the [baseball bat_1] , the [person_1] is crawling to perform the same thing as the [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_3] keeps the [baseball bat_1]?",
+        "answer": [
+            "The [person_3] may reject the [person_2] and others.",
+            "The [person_2] could not stick the balloons.",
+            "The [person_3] may support the [person_2] and others.",
+            "The [person_2] may not lose the [baseball bat_1].",
+            "The [person_3] may dislike the [person_2] and others."
+        ],
+        "reason": [
+            "The [baseball bat_1] is riding with other bikers.",
+            "The [person_3] is stopping at the [baseball bat_1] and gripping it firmly.",
+            "Because there is no ink.",
+            "The [person_3] is staring at the [baseball bat_1] and gripping it firmly.",
+            "The [person_3] is sitting near the [baseball bat_1] and the [baseball bat_1] is big."
+        ]
+    }
+}

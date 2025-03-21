@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a toy box.",
+            "[person_1] is holding a bass guitar.",
+            "[person_1] is holding a shoe polish box.",
+            "[person_1] is sitting on a chair.",
+            "[person_1] is holding a badminton racket."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a badminton racket?",
+        "answer": [
+            "[person_1] is helping [person_1] train.",
+            "[person_1] smiles sweetly with another person.",
+            "[person_1] is helping [person_1] to trim shrubs.",
+            "[person_1] and [person_1] are watching [person_1] paint a picture.",
+            "[person_1] holds a badminton racket to play badminton with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "According to the current situation , [person_1] is going to continue playing badminton.",
+            "[person_1] is going to break.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to continue to train.",
+            "[person_1] will keep cleaning the dog."
+        ],
+        "reason": [
+            "[person_1] will continue playing badminton because the match has not ended yet.",
+            "[person_1] is talking very seriously.",
+            "High kick is a movement exercise.",
+            "The baby fell.",
+            "Riding a mechanical bull is hot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] and [person_1] may move to another position.",
+            "[person_1] and friends can not play badminton under rainy weather.",
+            "Maybe [person_1] will stop making the basket temporarily.",
+            "[person_1] will not ride the bicycle fast.",
+            "[person_1] and [person_1] will not practice high jump."
+        ],
+        "reason": [
+            "Because [person_1] and friends will get wet.",
+            "[person_1] and [person_1] will not keep hugging.",
+            "[person_1] needs to find a shelter.",
+            "[person_1] will come back home.",
+            "They will find a place to avoid the rain."
+        ]
+    }
+}

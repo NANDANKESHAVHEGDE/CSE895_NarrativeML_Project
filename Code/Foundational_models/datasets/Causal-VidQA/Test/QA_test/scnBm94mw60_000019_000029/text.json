@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [car_1]?",
+        "answer": [
+            "[car_1] is behind [person_1].",
+            "It is behind [person_1] .",
+            "The [car_1] is next to [person_1].",
+            "[car_1] is red.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is excited about doing a handstand on the [bench_1].",
+            "[person_1] is sitting on the floor.",
+            "[person_1] wants to play in the garden.",
+            "[person_1] is walking on the street."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is talking about his opinion.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to start eating.",
+            "[person_1] is going to keep this movement.",
+            "[person_1] is going to toast coffee."
+        ],
+        "reason": [
+            "[person_1] would like to enhance the health of [person_1].",
+            "[person_1] is in the beach.",
+            "[person_1] is sliding downhill.",
+            "[person_1] is breathing deeply and needs a break",
+            "Something is making [person_1] happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] keeps doing exercises regularly?",
+        "answer": [
+            "Maybe [person_1] will be good at this action.",
+            "Perhaps [person_1] will not face - plant on the puddle.",
+            "[person_1] will tap [person_1]'s shoulder.",
+            "Maybe [person_1] will stop long jumping.",
+            "[person_1] will leave."
+        ],
+        "reason": [
+            "[person_1] is sick.",
+            "[person_1] is wearing headphones to listen to music.",
+            "[person_1] will make this action better.",
+            "[person_1] is in the pit , if stones fall down , his head will be hit.",
+            "It was hard but [person_1] did it."
+        ]
+    }
+}

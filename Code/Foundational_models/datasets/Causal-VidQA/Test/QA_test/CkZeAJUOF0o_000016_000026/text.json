@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in his office.",
+            "[person_1] and [person_2] are in the kitchen.",
+            "[person_1] and [person_2] are in a log cabin.",
+            "[person_1] and [person_2] are at the leisure center.",
+            "[person_1] and [person_2] are sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] make a fire?",
+        "answer": [
+            "To make the log cabin warmer.",
+            "Because the [person_1] has just received it.",
+            "[person_1] wants to polish the shoe.",
+            "Because the [person_1] use it to carry him in the office.",
+            "[person_1] is in the competition."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_2] do next?",
+        "answer": [
+            "The [person_2] will continue to take what she has in hand.",
+            "[person_2] will laugh . ",
+            "[person_2] will begin to ride the bicycle.",
+            "[person_2] will go wherever the [person_2] goes.",
+            "[person_2] will fall asleep soon."
+        ],
+        "reason": [
+            "Only by following the step , can [person_2] use the inhaler properly.",
+            "The coconut water will drop into the bottle from the coco.",
+            "[person_2] seems to be very tired and [person_2] feels comfortable with the massage.",
+            "[person_2] turns her skateboard.",
+            "[person_2] needs to repair his laptop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the fire goes out\uff1f",
+        "answer": [
+            "[person_1] will not find more woods.",
+            "Maybe [person_1] will laugh.",
+            "[person_1] will find more woods.",
+            "Then maybe [person_1] will cry.",
+            "[person_1] will find less woods."
+        ],
+        "reason": [
+            "Paint will be a bad example for the students.",
+            "To stop a fire again.",
+            "There are various paint brushes on the table.",
+            "To make a fire again.",
+            "[person_1] lost."
+        ]
+    }
+}

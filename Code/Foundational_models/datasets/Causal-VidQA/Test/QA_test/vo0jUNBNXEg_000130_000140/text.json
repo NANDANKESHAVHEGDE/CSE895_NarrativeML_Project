@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is sitting on a brown couch.",
+            "The [person_1] is standing near the base of the staircase.",
+            "The [person_1] is between the bed and the door.",
+            "The [person_1] is in a blueberry farm.",
+            "The [person_1] is in a restaurant."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] holding the white pillow?",
+        "answer": [
+            "[person_1] is spinning the umbrellars.",
+            "Because [person_1] is arranging the cups.",
+            "Since the [person_1] is playing pillow fighting.",
+            "Because [person_1] is adjusting the slides.",
+            "[person_1] , [person_1] and [person_1] are doing tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to take the teddy bear.",
+            "The [person_1] may keep beating another boy with the pillow.",
+            "The [person_1] is going to leave.",
+            "The [person_1] will tuck his legs down.",
+            "The [person_1] may exit the shooting circle."
+        ],
+        "reason": [
+            "The teddy bear of the [person_1] has just been dropped and the [person_1] uses the teddy bear as a weapon.",
+            "The [person_1] is able to keep balance on the stilts and the [person_1] is moving.",
+            "Because the [person_1] closes the refrigerator door as if he is going somewhere.",
+            "The [person_1] throws shot put then raises two hands and wants to leave.",
+            "The [person_1] is still holding the pillow and raising hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the pillow were torn?",
+        "answer": [
+            "[person_1] will ask the manager for a new sports ball.",
+            "[person_1] would be able to know what [person_1] were eating.",
+            "It is possible that [person_1] will stop playing cello.",
+            "The feathers would shed into the floor.",
+            "[person_1] will stop and leave."
+        ],
+        "reason": [
+            "Doctors can cure diseases.",
+            "To help fix the bed.",
+            "The woman needs a break.",
+            "The [person_1] is beating with the pillow.",
+            "The cutting board is used to protect the console."
+        ]
+    }
+}

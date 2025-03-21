@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is pointing the champagne to the photographer.",
+            "[person_1] is holding a newspaper.",
+            "[person_1] is opening a champagne bottle.",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is holding the harmonica."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn on the light?",
+        "answer": [
+            "The weather is cool.",
+            "Perhaps [person_1] is playing the harmonica.",
+            "[person_1] is the singer.",
+            "The room is dark.",
+            "Because wearing shorts makes [person_1] be easy to move around."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will show what she has done.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will have some rest.",
+            "[person_1] will show what he has done.",
+            "[person_1] will thank the audience."
+        ],
+        "reason": [
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "[person_1] is swimming back.",
+            "To put some better components in the power drill.",
+            "[person_1] is showing the bottle to the camera.",
+            "Because [person_1] has already assembled a few , [person_1] wants more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't press the cork with hands?",
+        "answer": [
+            "[person_1] would get hurt.",
+            "The cork would not fly.",
+            "It will be washed.",
+            "The cork would fly.",
+            "The lights will be off."
+        ],
+        "reason": [
+            "Because it's dangerous if the fire spared.",
+            "The high pressure would push the cork out.",
+            "It's more convenient to use car by manual work.",
+            "The high pressure would not push the cork out.",
+            "The show won't be good."
+        ]
+    }
+}

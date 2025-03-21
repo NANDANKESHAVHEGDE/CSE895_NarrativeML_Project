@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s shirt?",
+        "answer": [
+            "It is green with many trees.",
+            "It is black.",
+            "Five people are doing tai chi.",
+            "There are six cups.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] is splashing water at [person_1].",
+            "[person_1] is trying to open a gift.",
+            "[person_1] is here to play drums.",
+            "[person_1] is talking about how to tie a bow.",
+            "[person_1] is showing how to press juice out of orange with a juicer."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] will keep on playing until [person_1] is exhausted.",
+            "[person_1] intends to keep cycling.",
+            "[person_1] intends to fold another clothe.",
+            "[person_1] will stop playing the cello.",
+            "[person_1] intends to take his billiard shot."
+        ],
+        "reason": [
+            "[person_1] is showing the hand up and shaking the body.",
+            "[person_1] is showing hands up and down and shaking the body.",
+            "[person_1] is hover boarding.",
+            "[person_1] didn't want to put the harmonica down.",
+            "[person_1] cannot play for too long."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the drumsticks [person_1] holding were broken ?",
+        "answer": [
+            "The glass can not be shaped.",
+            "[person_1] would not stop playing drums.",
+            "The shelf may fall into [person_1].",
+            "[person_1] would have to stop playing drums.",
+            "[person_1] may replace it by one of many whetstone bars on the table."
+        ],
+        "reason": [
+            "[person_1] could play drums without drumsticks.",
+            "Because [person_1] wants to eat chips.",
+            "[person_1] could not play drums with drumsticks.",
+            "[person_1] may feel happy.",
+            "[person_1] could not play drums without drumsticks."
+        ]
+    }
+}

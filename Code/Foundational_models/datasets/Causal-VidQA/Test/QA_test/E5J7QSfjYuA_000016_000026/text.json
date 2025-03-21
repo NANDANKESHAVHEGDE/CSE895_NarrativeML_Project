@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is performing on stage.",
+            "[person_1] is in the study room.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in his house.",
+            "[person_1] is in the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is trying to play the harmonica.",
+            "[person_1] wants to explain how to play the clarinet.",
+            "[person_1] has nearsightedness.",
+            "Because [person_1] is lifting weights.",
+            "when [person_1] looking at the mirror , the reflection looks like someone else."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to continue trying to whistle.",
+            "He is going to enjoy the beer.",
+            "[person_1] is going to lift heavier weights.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] may decide to change exercising style."
+        ],
+        "reason": [
+            "[person_1] is rubbing the shoe over and over again.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] is lifting light weights.",
+            "[person_1] is in the middle of his performance.",
+            "[person_1] raised his hand with a knife."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen in the future if the gym loses power?",
+        "answer": [
+            "[person_1] would be experience muscle tension and pain.",
+            "[person_1] won't be able to continue practicing",
+            "[person_1] will not be able to eat the potato chip.",
+            "[person_1] will use a new ball.",
+            "[person_1] will fall into the floor."
+        ],
+        "reason": [
+            "That's the rules of baseball.",
+            "[person_1] needs light to practice.",
+            "[person_1] might not be hurt by the collision with the mirror.",
+            "[person_1] broke up their friendship because he didn't share.",
+            "[person_1] wants to watch TV first."
+        ]
+    }
+}

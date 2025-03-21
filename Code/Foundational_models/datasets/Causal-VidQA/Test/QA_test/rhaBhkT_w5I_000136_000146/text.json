@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [clock_1]?",
+        "answer": [
+            "The [clock_1] is behind [clock_1].",
+            "No.",
+            "[clock_1] is circle.",
+            "It is round.",
+            "[clock_1] is the man who is holding a musical instrument."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising her legs up?",
+        "answer": [
+            "[person_1] wants to show something.",
+            "The sound spot of [person_1]'s clarinet is placed too low.",
+            "[person_1] is kicking the sandbag.",
+            "The room is the hall.",
+            "[person_1] is standing on her head."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to perform in a competition.",
+            "[person_1] tends to do introducing how to use the headphone.",
+            "[person_1] tends to participate in a game.",
+            "Maybe [person_1] will skateboard.",
+            "[person_1] tends to greet everyone."
+        ],
+        "reason": [
+            "The car needs gas to run.",
+            "[person_1] is waving.",
+            "[person_1] is playing cello very well.",
+            "[person_1] is holding a chessman.",
+            "[person_1] is running towards a man."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] won't find the phone owner anymore.",
+            "[person_1] maybe afraid.",
+            "[clock_1] will stop kicking high.",
+            "The television on the wall will be off.",
+            "The room will be dark."
+        ],
+        "reason": [
+            "The light will not work , too.",
+            "There is no light in the room.",
+            "[clock_1] is using a hair clipper.",
+            "Because television needs electricity to work.",
+            "[person_1] and [person_1] will run out."
+        ]
+    }
+}

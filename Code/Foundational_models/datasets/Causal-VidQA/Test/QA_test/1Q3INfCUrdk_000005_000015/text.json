@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [tv_1]?",
+        "answer": [
+            "It is on the table.",
+            "[tv_1] is on the table.",
+            "[tv_1] is on the cabinet.",
+            "[tv_1] is on the chair.",
+            "[tv_1] is on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] sit on a mechanical bull?",
+        "answer": [
+            "The [person_1] is harvesting the blueberries.",
+            "[person_1] wants to use the inhaler.",
+            "Because the [person_1] is using the scooter.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] wants to ride the mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] will go out of the mechanical bull area.",
+            "[person_1] is going to turn off the camera.",
+            "[person_1] is going to throw the ball to [person_1].",
+            "[person_1] is going to fold a paper airplane.",
+            "[person_1] is going to keep riding the mechanical bull."
+        ],
+        "reason": [
+            "[person_1] waved goodbye at the camera.",
+            "[person_1] is moving the lizard down with his left hand.",
+            "after [person_1] completed her pancake flip challenge , she walked over to the camera and picked it up.",
+            "[person_1] gets off the mechanical bull , turns around , and goes out.",
+            "because [person_1] still has a few pages left."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [tv_2] fell?",
+        "answer": [
+            "The pumpkin will fall apart.",
+            "The bottle would explode.",
+            "The song would miss the bass layer.",
+            "The interview will stop.",
+            "[tv_2] could be broken."
+        ],
+        "reason": [
+            "Maybe [tv_2] will take it in for repair.",
+            "[tv_2] cannot play [tv_2] anymore.",
+            "[tv_2] falls from a high distance.",
+            "[tv_2] is immersed in his speech.",
+            "Because the fence is made of wood."
+        ]
+    }
+}

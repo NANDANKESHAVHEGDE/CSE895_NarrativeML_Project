@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3]?",
+        "answer": [
+            "[person_3] is playing in the playground which is covered by a thick layer of snow.",
+            "[person_3] is sitting next to the [person_3].",
+            "[person_3] is in a room.",
+            "[person_3] is in a massage room.",
+            "[person_3] is in his room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] wearing a hat?",
+        "answer": [
+            "[person_2] is wearing a hat to ensure that her head is snug and cozy.",
+            "because [person_2] is pointing to [person_2].",
+            "The [person_2] prevents the [person_2] falling down on the street.",
+            "[person_2] reminded and held the [person_2]'s hand.",
+            "It is possible that [person_2] is learning to play the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to start holding [person_3]'s hand.",
+            "[person_3] is going to continue floating in space.",
+            "[person_3] is going to start snowball fights with friends.",
+            "[person_3] will not go on stage.",
+            "[person_3] is going to enjoy dancing with other people."
+        ],
+        "reason": [
+            "[person_3] just gets out form the water.",
+            "[person_3] intends to slow down and gradually lower the body.",
+            "[person_3] is standing with a group of people and dancing with them.",
+            "[person_3] packs snow into a ball and throws it.",
+            "[person_3] needs to get up to continue playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a severe snowstorm?",
+        "answer": [
+            "People there may be attacked by the tiger.",
+            "[person_1] will put his hands down and open his eyes.",
+            "[person_1] and friends may come back home.",
+            "The person will pick it up.",
+            "The adult sitting on the couch will take the child to the hospital."
+        ],
+        "reason": [
+            "Because snowstorm may come with weak winds and blow up trees , the trees can hit people who are standing around it.",
+            "The snowstorm reduced the visibility of [person_1].",
+            "Because snowstorm may come with strong winds and blow up trees , the trees can hit people who are standing around it.",
+            "The monkeys may inadvertently hurt [person_1] in the near distance.",
+            "Because snowstorm may come with strong winds and blow up trees , the trees cannot hit people who are standing around it."
+        ]
+    }
+}

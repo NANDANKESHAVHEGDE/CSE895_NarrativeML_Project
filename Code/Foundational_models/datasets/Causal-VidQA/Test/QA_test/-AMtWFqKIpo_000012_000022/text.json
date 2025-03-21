@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_2]?",
+        "answer": [
+            "[book_2] is on the bookshelf.",
+            "It is in front of the building.",
+            "[book_2] is on the ground.",
+            "The [book_2] is quite big.",
+            "[book_2] is behind [book_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] there?",
+        "answer": [
+            "[person_1] is playing lute on the riverbank.",
+            "[person_1] is playing basketball.",
+            "[person_1] loves to play the lute.",
+            "[person_1] is skiing.",
+            "[person_1] is playing lute alone."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue pushing [person_1].",
+            "[person_1] will definitely push the wheelchair.",
+            "Maybe [person_1] wants to continue playing the lute.",
+            "[person_1] intends to take his billiard shot.",
+            "[person_1] intends to touch in the harp."
+        ],
+        "reason": [
+            "[person_1] is putting her fingers on the keyboard.",
+            "[person_1] is holding a lipstick in her hand.",
+            "[person_1] continuously goes forward and the hand moves continuously.",
+            "[person_1] plays the lute very well and attentively.",
+            "The the hand of [person_1] is facing the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hat covers [person_1] view completely?",
+        "answer": [
+            "[person_1] will stop dancing.",
+            "[person_1] can play the lute.",
+            "[person_1] will fall to the back and got his head hit.",
+            "[person_1] cannot play the lute.",
+            "[person_1] will let [person_1] do it."
+        ],
+        "reason": [
+            "The [person_1] using [person_1] makes fire cause more power.",
+            "[person_1] needs to pull the hat down [person_1] eyes to see the lute . ",
+            "Because [person_1] will probably lose.",
+            "[person_1] needs to raise the hat above [person_1] eyes to see the lute . ",
+            "[person_1] wants to finish project and needs to do arrangement before [person_1] arrives."
+        ]
+    }
+}

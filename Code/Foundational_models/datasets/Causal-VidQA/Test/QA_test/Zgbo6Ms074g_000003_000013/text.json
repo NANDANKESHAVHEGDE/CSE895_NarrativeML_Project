@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_3]?",
+        "answer": [
+            "[couch_3] is behind [couch_3].",
+            "[couch_3] is sitting on [chair_1].",
+            "[chair_1] is on the sofa.",
+            "[chair_1] is in a bathtub.",
+            "[couch_3] is behind [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] smiling so happily?",
+        "answer": [
+            "[person_2] needs an object to be able to land.",
+            "Because [person_2] enjoys hearing the sound of ripping paper.",
+            "Because the [person_2] is the owner of the camels.",
+            "Because [person_2] is playing maracas.",
+            "The [person_2] touches treble keyboard to talk about the usage of treble keyboard."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] may go other place.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] will continue to tear the paper."
+        ],
+        "reason": [
+            "[person_1] has lifted up the container.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is tearing the paper.",
+            "To cut [person_1] into small pieces.",
+            "Because [person_1] is going to chop something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "The sport hall will be dark.",
+            "[person_2] maybe afraid.",
+            "Espresso will be stop working.",
+            "The room will be dark.",
+            "The room will be bright."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "The light will not work . , too.",
+            "The ceiling fan is not working.",
+            "The fan will be off , too.",
+            "The piano will not work."
+        ]
+    }
+}

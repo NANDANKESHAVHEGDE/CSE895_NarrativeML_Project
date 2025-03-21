@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [clock_1]?",
+        "answer": [
+            "The person holding the badminton racket is taking part in a competition.",
+            "[person_1] and [clock_1] are in the barber shop.",
+            "It is on the right of [person_1].",
+            "The [clock_1] is behind [person_1].",
+            "[person_1] and [person_1] are in the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is \u00a0 somersaulting with the sports ball.",
+            "[person_1] is recording a video with [person_1].",
+            "[person_1] is doing a plunge.",
+            "[person_1] is instructing someone how to stack cups.",
+            "[person_1] is playing roller skating."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after stacking [cup_2] ? ",
+        "answer": [
+            "[person_1] will continue stacking other cups.",
+            "[person_1] will continue to close his eyes.",
+            "[person_1] will fire his gun.",
+            "[person_1] will definitely play the gong.",
+            "[person_1] will begin to color the painting."
+        ],
+        "reason": [
+            "Because [person_1] put the toy on his shoulder when brushing , it shows that he likes his toy.",
+            "[cup_2] just threw a blue one so he may like the blue color.",
+            "It seems that [person_1] often does it and enjoys the game.",
+            "It seems that there are some cups in front of [person_1].",
+            "It seems that [person_1] does not finish it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] will finish her performance.",
+            "[person_1] will continue to dance.",
+            "Maybe the show will stop temporarily.",
+            "[person_1] will not keep on arranging cups.",
+            "[person_1] may stop singing karaoke."
+        ],
+        "reason": [
+            "Exposure to chemicals in the paint may harm the respiratory system.",
+            "The mat is on a stadium without a roof.",
+            "[clock_1] and [clock_1] won't be able to see anything.",
+            "There is no light in the room.",
+            "The room will be quite dark."
+        ]
+    }
+}

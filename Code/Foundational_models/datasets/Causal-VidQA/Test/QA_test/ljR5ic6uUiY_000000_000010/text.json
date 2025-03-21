@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [dining table_1]?",
+        "answer": [
+            "The [dining table_1] is next to [person_1].",
+            "[person_1] is on the desk behind [person_1]?",
+            "The bookshelf is behind [person_1].",
+            "Fire is under the wood.",
+            "It is made of glass."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing with cups.",
+            "Because [person_1] is practicing standing on hands.",
+            "Because [person_1] is opening present.",
+            "Because [person_1] is sitting chair.",
+            "[person_1] is playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the barbell.",
+            "[person_1] will stand here.",
+            "[person_1] maybe will give food to customers.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is turning around to get the comb."
+        ],
+        "reason": [
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is fond of doing it.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "Maybe [person_1] will stop stacking the cups.",
+            "Maybe [person_1] and his child will stop jogging.",
+            "Maybe [person_1] will stop playing the game.",
+            "It is possible that [person_1] will not see the object under the table.",
+            "Perhaps [person_1] will go out to play."
+        ],
+        "reason": [
+            "The internet will be off , too.",
+            "The fan will turn off.",
+            "The room will be dark then.",
+            "It will be too dark to see much.",
+            "The lights are off , too."
+        ]
+    }
+}

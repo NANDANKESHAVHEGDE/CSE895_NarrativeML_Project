@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_2] using?",
+        "answer": [
+            "[person_2] is using a spoon.",
+            "[person_2] is using a electric saw.",
+            "[person_2] uses an electric drill and a hammer.",
+            "[person_2] uses a metal claw.",
+            "It is in the corner of the room."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] get the juice?",
+        "answer": [
+            "[person_1] uses [person_1] to make roasted marshmallows.",
+            "The [person_1] jumps on the unicycle.",
+            "To show that [person_1] has opened the bottle smoothly.",
+            "[person_1] uses several bottles to catch the juice.",
+            "[person_1] lets the drill speedily rotate the apple while he is holding a peeler on the skin."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will keep eating the food.",
+            "[person_2] will lie on the bed.",
+            "[person_2] will put the coco down.",
+            "[person_2] will get the coco and drink.",
+            "[person_2] will definitely continue to play maracas."
+        ],
+        "reason": [
+            "Because he will finish pouring the juice.",
+            "[person_2] has opened the bottle successfully.",
+            "[person_2] doesn't eat the whole food yet and is holding it.",
+            "Because [person_2] still has many things which he can't understand.",
+            "Because [person_2] laughed so intensely that he couldn't sit up ."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't carry the coco tightly?",
+        "answer": [
+            "The pen would probably break.",
+            "Maybe [person_1] wouldn't sing anymore.",
+            "The bottle would be struck down.",
+            "[person_1] will strip the power drill.",
+            "The party would be stop."
+        ],
+        "reason": [
+            "[person_1] spits the champagne because she drinks too fast.",
+            "[person_1] wants to earn money from the horse.",
+            "The coco would fall down to the bottle.",
+            "The [person_1] is standing close to the tree.",
+            "Because the [person_1] still needs to wash the clothes."
+        ]
+    }
+}

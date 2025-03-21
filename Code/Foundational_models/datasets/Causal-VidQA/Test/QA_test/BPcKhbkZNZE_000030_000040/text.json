@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing mahjong.",
+            "[person_1] is playing the harp.",
+            "[person_1] is teaching yoga.",
+            "[person_1] is doing tai chi moves.",
+            "[person_1] is skating."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting while playing the harp?",
+        "answer": [
+            "[person_1] is trying to pick it up.",
+            "With the help of a chair in front of [person_1].",
+            "Because it's interesting in winter.",
+            "[person_1] roasts marshmallows with other's help.",
+            "Because sitting makes it easier to play the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will throw the frisbee.",
+            "[person_1] may go other place.",
+            "[person_1] is going to a workout.",
+            "[person_1] is going to bed.",
+            "[person_1] will play the entire song."
+        ],
+        "reason": [
+            "[person_1] is still working.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is playing the harp very well.",
+            "[person_1] is going to put the shoe down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits the wrong string?",
+        "answer": [
+            "[person_1] will be criticized by the coach.",
+            "[person_1] would get surprised.",
+            "[person_1] will probably play again.",
+            "[person_1] may scream in joy.",
+            "[person_1] could not persist for long time without the earphone."
+        ],
+        "reason": [
+            "[person_1] can not ride unicycle.",
+            "[person_1] is practicing.",
+            "The swords are very sharp and dangerous.",
+            "Because [person_1] stands parallel to the position of the onion.",
+            "The [person_1] is paying attention to the objects in front."
+        ]
+    }
+}

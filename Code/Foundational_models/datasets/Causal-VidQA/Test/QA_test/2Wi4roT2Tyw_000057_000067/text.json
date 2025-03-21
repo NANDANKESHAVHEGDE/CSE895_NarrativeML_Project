@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the upper cloth of [person_1]?",
+        "answer": [
+            "It's black.",
+            "[person_1] is making faces.",
+            "[person_1] is talking.",
+            "[person_1] is feeding paper into the paper cutter.",
+            "White and black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] biting his tongue?",
+        "answer": [
+            "Because [person_1] thinks it would make his hands less painful.",
+            "[person_1] wants to water the plants.",
+            "because [person_1] is play the keys.",
+            "Because [person_1] does the rules of the game.",
+            "Because [person_1] finds the game interesting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may put the bottle down.",
+            "[person_1] is going to open present.",
+            "[person_1] will exert more force.",
+            "[person_1] may hug others.",
+            "[person_1] is going to continue opening the gift."
+        ],
+        "reason": [
+            "Current strength of [person_1] is not strong enough to open the beer bottle.",
+            "[person_1] is holding a exercise equipment.",
+            "The cat is sitting next to [person_1].",
+            "Maybe [person_1] was feeling dizzy.",
+            "[person_1] is talking with partner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't tilt the bottle upwards?",
+        "answer": [
+            "The second cap is still under the sink.",
+            "The bottle cap would pop him in the face",
+            "Maybe [person_1] will be in high spirits.",
+            "The bottle cap would not pop him in the face",
+            "[person_1] will do it very easy."
+        ],
+        "reason": [
+            "Because his face is right above the cap . The gas in the beer will give the cap a big boost.",
+            "Because the [person_1] tidies up the pieces himself easy to cut his hands.",
+            "Because his face is right below the cap . The gas in the beer will give the cap a big boost.",
+            "Because there is a narrow gap in the middle.",
+            "Because his face is right above the cap . The gas in the beer will not give the cap a big boost."
+        ]
+    }
+}

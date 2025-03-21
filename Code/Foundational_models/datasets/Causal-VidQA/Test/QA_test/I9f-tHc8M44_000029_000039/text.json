@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt is [person_1] wearing?",
+        "answer": [
+            "[person_1]'s shirt is yellow.",
+            "Camels.",
+            "It is at a construction site.",
+            "It is a party held for proposal.",
+            "Sushi."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in front of the table?",
+        "answer": [
+            "[person_1] is sitting in front of the table to tap the pen easier on the table.",
+            "[person_1] is playing cymbals in the room.",
+            "Because they're watching the man in the middle perform.",
+            "[person_1] is practicing standing on his hands.",
+            "They are the audiences and the judges."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_1]'s right hand move next?",
+        "answer": [
+            "[person_1]'s right hand will tap the pen down.",
+            "[person_1] will put the inhaler into the mouth.",
+            "[person_1] will definitely play the gong.",
+            "[person_1] is a referee.",
+            "[person_1] will play the guitar."
+        ],
+        "reason": [
+            "[person_1]'s head will bow down because now [person_1] is looking up and [person_1] has been repeatedly looking up and down.",
+            "The squat exercises mainly work for the thighs so he will feel very tired on the buttocks and thighs after doing squat.",
+            "The squat exercises mainly work for the thighs so he will feel very tired in the buttocks and thighs after doing squat.",
+            "[person_1]'s right hand will tap the pen down because now [person_1] is raising his right hand.",
+            "The squat exercises mainly work for the thighs so she will feel very tired in the buttocks and thighs after doing squat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if someone entered the room?",
+        "answer": [
+            "[person_1] would keep hooping.",
+            "[person_1] will be startled.",
+            "[person_1] and [person_1] might have to dance outside.",
+            "[person_1] would stop tapping.",
+            "[person_1] would stop and reply."
+        ],
+        "reason": [
+            "[person_1] is a little kid and [person_1] is not good at keeping balance.",
+            "[person_1] would stop tapping because [person_1] has turned his head to the door to see if anyone is there before [person_1] starts tapping.",
+            "If the playing cards fell to the ground , [person_1] has no playing cards in his hands , so he will bend down and pick them up.",
+            "Because [person_1] would collide head - on with the car going in the opposite direction.",
+            "After seeing what [person_1] did , the man turned to tell [person_1] the right way to exercise."
+        ]
+    }
+}

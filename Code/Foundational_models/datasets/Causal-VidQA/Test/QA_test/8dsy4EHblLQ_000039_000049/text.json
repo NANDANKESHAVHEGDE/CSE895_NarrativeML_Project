@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [truck_3]?",
+        "answer": [
+            "It is pink.",
+            "The puffer.",
+            "It is white.",
+            "It is black.",
+            "It is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do both [person_1] and [person_2] hold the rope?",
+        "answer": [
+            "[person_1] rides it quite amateurishly.",
+            "The table is discarded and the wood can be recycled.",
+            "[person_2] is teaching [person_1] how to tie a knot.",
+            "[person_1] uses two fingers to remove the apple that was peeled to the red bucket.",
+            "[person_1] is exhibiting the picture to the public."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing what [person_2] does?",
+        "answer": [
+            "[person_1] will pour the champagne into [person_1].",
+            "[person_1] will eat the food . ",
+            "[person_1] will roast another one.",
+            "[person_1] will try to practice it.",
+            "The mom of [person_2]."
+        ],
+        "reason": [
+            "[person_1] enjoys skating very much.",
+            "It's a waste to drink just for fun and drool and since she bought this two drink it's possible that she likes them so she may drink the rest.",
+            "[person_1] is turning towards [person_2].",
+            "The one - legged squat mainly works for the knees and thighs so he will feel very tired on the knees and thighs after doing squat.",
+            "Judging from her action , it seems that [person_1] has yet to be familiar with tying the knots."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it suddenly rained?",
+        "answer": [
+            "Then the upper building may fall down.",
+            "[person_1] and [person_2] had to go inside or find a shelter.",
+            "They might try a different game.",
+            "[person_1] and [person_2] had not to go inside or find a shelter.",
+            "The man may stop shooting."
+        ],
+        "reason": [
+            "Because they could practice tying knots in the rain.",
+            "The horse is scared.",
+            "Because they could not practice tying knots in the rain.",
+            "They can not be balance on a slippery floor.",
+            "Because they could not practice tying knots after the rain."
+        ]
+    }
+}

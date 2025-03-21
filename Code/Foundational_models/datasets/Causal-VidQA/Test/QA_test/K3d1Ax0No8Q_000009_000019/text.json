@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the car.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the room"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "Because [person_1] is stacking cups.",
+            "Because [person_1] is thinking about the next movement of [person_1].",
+            "[person_1] is dropping marbles from [person_1].",
+            "[person_1] is making the lizard smoke the cigarette.",
+            "Because [person_1] is playing the game."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is predicted that [person_1] will hit the gong again.",
+            "[person_1] will certainly fold the shirt.",
+            "It is probable that [person_1] will join his team and the team is taking a break.",
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] is highly likely to pluck the strings of a guitar."
+        ],
+        "reason": [
+            "[person_1] is good at plane.",
+            "To clean the snow on the right.",
+            "It seems that striking to rock is a useless method.",
+            "To see how to assemble it.",
+            "[person_1] loves to play because [person_1] is very professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will stop dancing.",
+            "[person_1] will fall.",
+            "[person_1] will be very happy.",
+            "[person_1] wouldn't left.",
+            "[person_1] will start playing faster."
+        ],
+        "reason": [
+            "Maybe [person_1] will be win.",
+            "[person_1] is sitting right on [person_1].",
+            "[person_1] maybe unhappy.",
+            "Losing the game makes [person_1] angry.",
+            "[person_1] wants to finish project and needs to do arrangement before [person_1] arrives."
+        ]
+    }
+}

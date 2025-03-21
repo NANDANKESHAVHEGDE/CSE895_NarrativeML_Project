@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is next to [chair_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "It is in front of the window.",
+            "[chair_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is lifting weights.",
+            "Maybe it is hot.",
+            "Because [person_1] is interviewed.",
+            "The weather is hot.",
+            "[person_1] must to train to change its body."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may cheer up.",
+            "[person_1] will perform a squat exercise . .",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may turn around.",
+            "[person_1] is going to keep practicing."
+        ],
+        "reason": [
+            "That [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "Because [person_1] is wearing a baby bib.",
+            "Because [person_1] acts as a guide.",
+            "[person_1] is touching three cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "what if [person_1] switches to the exercise machine?",
+        "answer": [
+            "[person_1]'s reflection will also touch the mirror.",
+            "Exercise with the exercise machine will affect the muscles more.",
+            "The [person_1] will ask others to help her get off.",
+            "[person_1] will lose his sight.",
+            "[person_1] will dance alone."
+        ],
+        "reason": [
+            "They are jumping the rope in a group . 2 people in the group can't always hold the rope and don't jump.",
+            "There are only [person_1] and [person_1] in the room.",
+            "Maybe another person can complete the challenge easily.",
+            "Because the machine has a lot of heavy weights.",
+            "The machine cannot be opened because the wheels are broken , so in order to ensure the normal operation of the machine , the wheels need to be replaced."
+        ]
+    }
+}

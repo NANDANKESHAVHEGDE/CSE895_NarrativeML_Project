@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [vase_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[vase_1] is on the shelf behind [person_1].",
+            "[vase_1] is sitting on [vase_1].",
+            "[vase_1] is on the right of [person_1].",
+            "[person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a clock on the shelf?",
+        "answer": [
+            "Because it is very sunny outside.",
+            "It's put there by the parents.",
+            "[person_1] has his favorite present.",
+            "[person_1] and [person_1] are playing chess on the street.",
+            "[person_1] can check the time at any time."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to keep playing the organ.",
+            "[person_1] intends to playing guitar.",
+            "[person_1] intends to use the tip of his finger to gently push the contact lens out.",
+            "[person_1] intends to keep playing piano.",
+            "[person_1] intends to keep playing the flute."
+        ],
+        "reason": [
+            "[person_1] continuously goes forward and the hand moves continuously.",
+            "[person_1] is immersed in the music.",
+            "[person_1] put the harmonica down then raised the harmonica up , moved it to the mouth.",
+            "[person_1] still holds the harmonica.",
+            "[person_1] is showing his strength to friends."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "Maybe [person_1] will sit still.",
+            "[person_1] will have to stop playing the flute.",
+            "[person_1] maybe stop reading.",
+            "[person_1] will have to start playing the flute.",
+            "[person_1] maybe stop smiling."
+        ],
+        "reason": [
+            "The laptop will be turn off then.",
+            "The room will be too dark.",
+            "Without the power the laptop can't work any more.",
+            "The room will be too bright.",
+            "It is electric."
+        ]
+    }
+}

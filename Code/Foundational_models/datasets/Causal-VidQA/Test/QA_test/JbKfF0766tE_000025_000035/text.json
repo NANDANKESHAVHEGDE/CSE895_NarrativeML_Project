@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is purple.",
+            "It is pink.",
+            "It is black.",
+            "The socks are white.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they here?",
+        "answer": [
+            "Because the man is guiding [person_1].",
+            "Because this is the baby's bed.",
+            "Because the man is proposing to [person_2].",
+            "They are here to practice self - defense.",
+            "[person_1] is helping [person_1] practicing side - kicking."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the several attacks?",
+        "answer": [
+            "[person_1] will continue to drink.",
+            "[person_1] will stop at the end of the road.",
+            "[person_1] will continue practicing.",
+            "[person_1] will take a shower.",
+            "[person_1] will run forward with a rapid speed."
+        ],
+        "reason": [
+            "Because the [person_1] needs to go to the destination by camel.",
+            "[person_1] has arrived home.",
+            "[person_1] is coughing and [person_1] needs water to moisturize his throat.",
+            "Because the [person_1] is standing on the scooter now.",
+            "Because [person_1] seems to want to achieve a good performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] successfully kicked [person_2]?",
+        "answer": [
+            "[person_1] will check other gongs.",
+            "[person_1] will hold [person_2].",
+            "[person_2] might be badly hurt.",
+            "Perhaps [person_1]'s feet will be colored as grapes.",
+            "She might remove it with nail remover."
+        ],
+        "reason": [
+            "It may be hurtful if [person_1] attacks [person_2] without a baseball glove.",
+            "[person_1] is a child ; if they make a mistake and jump on [person_1] , they would hurt their foot.",
+            "[person_1] is in a competition , and almost every contest have some prizes.",
+            "Because [person_1]'s kick can deliver such a blow to injure [person_2] seriously.",
+            "[person_1]'s headache indicates that the bandage was pressed too much pressure , so the bandage should be bound up again."
+        ]
+    }
+}

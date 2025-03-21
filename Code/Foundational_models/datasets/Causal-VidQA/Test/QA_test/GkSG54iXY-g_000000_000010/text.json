@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are these people?",
+        "answer": [
+            "No , [person_2] isn't.",
+            "They are in front of a restaurant.",
+            "No , he didn't.",
+            "The [person_1] is rectangular.",
+            "There are three boys here."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] leaving?",
+        "answer": [
+            "Because he wants to practice stacking dices.",
+            "Because it is convenient to open and close the door of the [person_2].",
+            "Because his mother asks him to go home.",
+            "[person_2] is performing on the stage.",
+            "[person_2] is doing a street challenge."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop watering.",
+            "[person_1] will drive home.",
+            "[person_1] may clean the table.",
+            "[person_1] may stop recording.",
+            "She is going to go to bed."
+        ],
+        "reason": [
+            "Because [person_1] is asked to go home right now.",
+            "Because [person_1] will be tired.",
+            "Maybe [person_1] is having fun.",
+            "Because [person_1] acts as a guide.",
+            "Because [person_1] is going to chop something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen is [person_1] has drunk some beer?",
+        "answer": [
+            "[person_1] may step on [person_1].",
+            "He will be able to drive.",
+            "They will make a new one.",
+            "He will be unable to drive.",
+            "[person_1] has to record songs again next time."
+        ],
+        "reason": [
+            "Because sliding during jumping may make [person_1] lose balance.",
+            "Drunk driving is allowed.",
+            "Because it was very close to [person_1] concurrently.",
+            "Drunk driving is not allowed.",
+            "To borrow a set of golf clubs."
+        ]
+    }
+}

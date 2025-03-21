@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is in [person_1]'s hand?",
+        "answer": [
+            "It is black and white.",
+            "A key.",
+            "It is a ring box.",
+            "They are black.",
+            "It is a hat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] taking a key?",
+        "answer": [
+            "Because she wants to lock the door.",
+            "[person_1] waxed his legs successfully by himself.",
+            "[person_1] is smoothening the wall to make it more beautiful.",
+            "[person_1] is doing a massage for [person_1].",
+            "The [person_1] is parked here."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may swim in the pool.",
+            "[person_1] will certainly skiing.",
+            "[person_1] may turn off the fire.",
+            "[person_1] may brush stains on the shoe.",
+            "She may go to a party."
+        ],
+        "reason": [
+            "[person_1] grabs one side of the donuts box and wants to lift it up.",
+            "[person_1] is in the middle of his performance.",
+            "Because she is leaving the house and locking the door.",
+            "Maybe [person_1] likes skiing.",
+            "[person_1] is passing a beer bottle to the man in front of him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] fails to lock the door?",
+        "answer": [
+            "The [person_1] will meet the demand of shot put.",
+            "She will change a key.",
+            "[person_1] may request [person_1] to pick the picture.",
+            "[person_1] may miss the kick.",
+            "[person_1] would be lose."
+        ],
+        "reason": [
+            "It's hard to get in.",
+            "Because the key does not match the door.",
+            "The rock is hard.",
+            "To check her injury.",
+            "It's hard to to hit a moving target , even if [person_1] is a martial arts master."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is is throwing a stone so that it slides on the river surface.",
+            "[person_1] is playing badminton with [person_2] in a room which has the wall painted green.",
+            "[person_1] is playing his new violin alone.",
+            "[person_1] is stripping [person_1].",
+            "[person_1] is reading a book for [person_2] and [person_3] on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_2] and [person_3] focus on what [person_1] reads?",
+        "answer": [
+            "Because [person_1] needs a lot of power to lift the weights.",
+            "[person_2] is helping [person_1] open the lid of the box.",
+            "[person_2] and [person_3] can not read the book so they have to listen to [person_1].",
+            "Because [person_2] wants to play the drums in the room.",
+            "[person_1] and [person_2] are singing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] is going to jump next.",
+            "[person_1] will obviously stop stand on the hand.",
+            "[person_1] may straighten his arms.",
+            "[person_1] will keep reading the book for [person_2] and [person_3] on the bed before they go to bed.",
+            "Maybe [person_1] is going to jump."
+        ],
+        "reason": [
+            "[person_1] is resting.",
+            "Maybe [person_1] will clap his hands.",
+            "[person_2] and [person_3] are interested in listening to [person_1] when [person_1] reads the book.",
+            "The cat is sitting next to [person_1].",
+            "[person_1] is moving to the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [teddy bear_1] falls to the bed?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] may not pay attention to [teddy bear_1].",
+            "[person_2] may continue to drink it.",
+            "[person_2] can't raise her hand.",
+            "The vegetable will fall over the place.",
+            "[person_1] will not play the accordion."
+        ],
+        "reason": [
+            "There are still many balloons on the [person_3].",
+            "The [person_1] and [person_2] keep spreading the concrete so that the [person_1] and [person_2] have a a level surface of the yard.",
+            "Because [person_1] is just a boy so [person_1] may cry when feels hurt.",
+            "There was water under the lawn , and [person_1] could have hurt himself in a fall.",
+            "[person_1] , [person_2] and [person_3] are following the story attentively."
+        ]
+    }
+}

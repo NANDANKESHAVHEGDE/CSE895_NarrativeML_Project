@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [remote_1]?",
+        "answer": [
+            "[remote_1] is in the living room.",
+            "The glasses are on [remote_1] eyes.",
+            "[remote_1] is parked on the runway behind [person_3].",
+            "[remote_1] is in [person_3]'s hand.",
+            "[remote_1] is parking near [remote_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they playing games?",
+        "answer": [
+            "They feel bored.",
+            "His action is gentle and soft.",
+            "Because it is a yoga move.",
+            "Small blocks are easier to deal with.",
+            "With the help of the machine."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] will agree with [person_3].",
+            "[person_3] is going to grab something",
+            "[person_3] is going to walk away.",
+            "[person_3] is going to watch TV.",
+            "Perhaps [person_3] is going to record the result of [person_3] 's competition."
+        ],
+        "reason": [
+            "Because it is a sequential game.",
+            "[person_3] and friends have not finished folding colorful paper yet.",
+            "TV is more interesting than games.",
+            "There are other people calculating [person_3]'s throw.",
+            "Because the trainer let him go."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] goes to watch TV?",
+        "answer": [
+            "The [person_3] is not about to fall.",
+            "The rescue team is willing to assist and protect [person_1].",
+            "[person_1] and [person_2] would continue the game.",
+            "[person_1] will get off.",
+            "The person behind the camera would get startled and yell at [person_1] to move before the dresser fell on him."
+        ],
+        "reason": [
+            "Because the sofa can't bounce.",
+            "Boiling potato is the easiest way to peel their skin.",
+            "[person_3] spends a lot of time on reading books.",
+            "The bass guitar has to be strummed by both hands of [person_3].",
+            "They don't like watching TV."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [clock_1]?",
+        "answer": [
+            "[clock_1] is on the wall.",
+            "[clock_1] is on the left of [clock_1].",
+            "It is behind the [clock_1].",
+            "The person holding the badminton racket is taking part in a competition.",
+            "The [clock_1] is next to the [book_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is instructing [person_1] about the book.",
+            "[person_1] is reading a newspaper.",
+            "[person_1] is making the lizard smoke the cigarette.",
+            "[person_1] is painting the [book_1] on the table.",
+            "[person_1] is opening presents."
+        ]
+    },
+    "predictive": {
+        "question": "What is going to happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue to put the decorations on the ground on the Christmas tree.",
+            "[person_1] will not eat by herself anymore.",
+            "Maybe [person_1] put some decorations on the Christmas tree.",
+            "He will shake the rope after the person in front finishes.",
+            "[person_1] will go on coloring the painting."
+        ],
+        "reason": [
+            "It looks like that [person_1] and [person_1] are at home and [person_1] are asking [person_1] to concentrate on the book.",
+            "The people sitting behind her will feed her food.",
+            "All the people around [person_1] have their plates , so they will start to eat together once the food is ready.",
+            "[person_1] seems to quite enjoy it.",
+            "[person_1] seems to pay all his attention on the painting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone rings?",
+        "answer": [
+            "Maybe [person_1] will go to the [person_1].",
+            "The [person_1] will go home.",
+            "Maybe [person_1] will stop spraying the [book_1] temporarily.",
+            "[person_1] will eat a dish.",
+            "[person_1] will answer it."
+        ],
+        "reason": [
+            "Because [person_1] is outside.",
+            "[person_1] and [person_1] are in the room.",
+            "[person_1] is the only chair in the room.",
+            "Maybe [person_1] will answer the phone.",
+            "[person_1] will pick up the phone."
+        ]
+    }
+}

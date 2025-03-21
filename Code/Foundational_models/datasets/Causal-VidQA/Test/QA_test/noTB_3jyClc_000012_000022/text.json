@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the bed.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is waiting for someone.",
+            "The rope was dropped.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] wants to have a spacious space.",
+            "[person_1] is playing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will come up the stairs.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is holding [baseball glove_1].",
+            "[person_1] will eat the apple on the table."
+        ],
+        "reason": [
+            "[person_1] is turning the page.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] is very excited.",
+            "[person_1] is going to smash it.",
+            "Because the blue is skying at night."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] kicked [baseball glove_1] on the door?",
+        "answer": [
+            "[person_1] may be painful and stop instructing.",
+            "[person_1] would remain at the spot.",
+            "[person_1] would put back the little rubber band and make another pigtail again.",
+            "[person_1] will be scolded by the house owner.",
+            "[person_1] would spend money buying a new door."
+        ],
+        "reason": [
+            "Because [person_1] only goes out of the car to get close to [baseball glove_1].",
+            "The white pen is high from the floor.",
+            "Because [person_1] made a big trouble.",
+            "Because the door would be broken and couldn't be used.",
+            "The [baseball glove_1] which is on the bedside table is made of porcelain."
+        ]
+    }
+}

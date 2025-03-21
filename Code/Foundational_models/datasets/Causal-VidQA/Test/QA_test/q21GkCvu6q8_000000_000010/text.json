@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his room.",
+            "[person_1] is at the gym.",
+            "[person_1] is in front of the wall.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is sitting at a table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "[person_1] wants to train to change its body.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] is playing spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may turn around.",
+            "[person_1] is going to do a calorie - burning exercise.",
+            "[person_1] will return to the starting position.",
+            "[person_1] may change another tool.",
+            "[person_1] will keep working until it finishes."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is touching three cups.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "The [person_1] will be spilled.",
+            "[person_1] and [person_1] will have to enter the house.",
+            "[person_1] still continues to do calorie - burning exercises.",
+            "[person_1] will stop spinning the poi.",
+            "[person_1] will stop to have a rest."
+        ],
+        "reason": [
+            "Oranges are easy to squeeze out by hand . So she might still squeeze oranges by hand if the orange juicer broke.",
+            "Because people tip him.",
+            "[person_1] cannot play [person_1] anymore.",
+            "Because the room is using light from outside.",
+            "Because the scooter can not be used in a crowded place."
+        ]
+    }
+}

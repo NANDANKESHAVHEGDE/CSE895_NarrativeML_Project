@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is black.",
+            "It is purple.",
+            "It is pink.",
+            "The socks are white.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] here?",
+        "answer": [
+            "They are here to play together.",
+            "[person_2] picked up the paper dropped on the floor.",
+            "[person_2] is helping [person_1] practicing side - kicking.",
+            "They are practicing rugby.",
+            "They are practicing side - kicking to keep fit."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do next after stopping the practice?",
+        "answer": [
+            "The person on the right may ride his bicycle.",
+            "[person_2] will keep on dancing.",
+            "[person_2] will close the cover.",
+            "[person_2] is going to take a break.",
+            "The man in yellow may somersault."
+        ],
+        "reason": [
+            "Because he rides the camel when traveling.",
+            "She looks at the magic carefully.",
+            "Because [person_2] seems have finished drinking and is going to put it back.",
+            "Because [person_2] is stepping back to the corner and the camera cannot see.",
+            "Because [person_2] wants to blow it again."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] kicked [person_2]?",
+        "answer": [
+            "[person_1] would become panic.",
+            "The fastest skating person would trip on the hockey stick of [person_1].",
+            "[person_1] would hoop better.",
+            "The [person_1] would not have to clear the court.",
+            "[person_2] might be badly hurt."
+        ],
+        "reason": [
+            "Because the fallen [person_2] clutters the house.",
+            "Because [person_1]'s kick can deliver such a blow to injure [person_2] seriously.",
+            "It looks like that [person_1] has nearly finished his drill and it's time to go home.",
+            "[person_1] is standing and playing the harmonica.",
+            "[person_1] would not be expecting the heavyweight to fall off so he would be caught off guard and drop the heavy weight."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "It is black.",
+            "The shirt [person_1] wearing is gray.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is feeling happy.",
+            "[person_1] wants to throw the ball into the basket.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is excited about telling something.",
+            "[person_1] is stacking dice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will check the result.",
+            "[person_1] will stop skiing.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to put all the dice on his mouth.",
+            "[person_1] is going to drive snowmobile."
+        ],
+        "reason": [
+            "[person_1] is going to go back home.",
+            "[person_1] is putting the dice one by one.",
+            "Because the blue is skying at night.",
+            "[person_1] is very excited.",
+            "Because [person_1] is hungry."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] accidentally slips his hand?",
+        "answer": [
+            "[person_1] would be really sad.",
+            "It is possible that [person_1] will be more beautiful.",
+            "[person_1] will have to start over.",
+            "[person_1] will have to arrange the table by herself.",
+            "It is possible that [person_1] will feel scared."
+        ],
+        "reason": [
+            "To relax.",
+            "Because the ground is uneven.",
+            "[person_1] often has a rest when he does not take exercise.",
+            "The dice will fall.",
+            "There is nobody in the room."
+        ]
+    }
+}

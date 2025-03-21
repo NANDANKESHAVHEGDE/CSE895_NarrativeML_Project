@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is holding a stick.",
+            "[person_1] is holding a guitar.",
+            "[person_1] is holding a microphone.",
+            "[person_1] is holding two sticks."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a microphone?",
+        "answer": [
+            "[person_1] wants to catch the ball from [person_1].",
+            "Because [person_1] wants to create sound.",
+            "[person_1] is having an interview.",
+            "[person_1] is excited about this activity.",
+            "[person_1] wants to experience when sitting in this luge."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep carving.",
+            "[person_1] is going to share one of the bottles to his friends.",
+            "[person_1] may thanks [person_1].",
+            "[person_1] may interview [person_2].",
+            "[person_1] will collect honey."
+        ],
+        "reason": [
+            "[person_1] holds the button in his hands.",
+            "Maybe [person_1] likes to play it.",
+            "[person_1] is going to give the microphone to [person_2].",
+            "Because [person_1] is reaching out the hand.",
+            "Food burnt."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] and [person_2] will not see anything.",
+            "[person_1] will stop raising her eyebrows.",
+            "[person_1] will stop shucking oysters.",
+            "[person_1] and [person_2] may not keep talking.",
+            "[person_1] will stop raising his eyebrows."
+        ],
+        "reason": [
+            "The restaurant will be dark.",
+            "[person_1] may not keep speaking.",
+            "The house will be dark then.",
+            "[person_2] won't be able to see the strings clearly.",
+            "The stage will be dark then."
+        ]
+    }
+}

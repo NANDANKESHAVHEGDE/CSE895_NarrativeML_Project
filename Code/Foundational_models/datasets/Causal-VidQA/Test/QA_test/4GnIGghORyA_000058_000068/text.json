@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dining table_1]?",
+        "answer": [
+            "The [person_1] is behind [person_1].",
+            "[dining table_1] is on the left of [person_1].",
+            "[dining table_1] is in a roller skating floor.",
+            "It is on the right of [person_1].",
+            "[dining table_1] is under [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] sit down?",
+        "answer": [
+            "[person_1] is teaching how to do a pull - up.",
+            "[person_1] explains the approximate posture to throw the ball.",
+            "[person_1] is a kid and [person_1] is trying to open the gift box.",
+            "[person_1] was given a toy.",
+            "[person_1] is playing guitar there."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will change the component of the power drill.",
+            "[person_1] will weigh the bag.",
+            "Maybe [person_1] will spread his arms like [person_1].",
+            "[person_1] will cut the hair on the back of [person_1]'s head.",
+            "It is likely that [person_1] will play with the toy."
+        ],
+        "reason": [
+            "[person_1] hasn't finished lifting the dumbbell yet.",
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] will continue to play.",
+            "[person_1] sat down and looked at the toy closely.",
+            "The hair in cutting may get into her eyes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't given the toy?",
+        "answer": [
+            "[person_1] may not drink beer.",
+            "[person_1] does not keep exercise all the time.",
+            "[person_1] would keep standing.",
+            "[person_1] may not film this video.",
+            "[person_1] may not drink."
+        ],
+        "reason": [
+            "Because the ball may hit [person_1]'s face severely.",
+            "In the same job , there are more people and less time , so work efficiency is improved.",
+            "[person_1] is small and is very active.",
+            "[person_1] could be fired.",
+            "The glue stick , school glue or stickers are also used instead of the tape to wrap presents."
+        ]
+    }
+}

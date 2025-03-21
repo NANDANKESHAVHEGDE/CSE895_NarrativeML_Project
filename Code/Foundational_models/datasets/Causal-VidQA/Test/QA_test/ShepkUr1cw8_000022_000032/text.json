@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] sitting?",
+        "answer": [
+            "[person_1] and [person_2] are sitting in the bathroom.",
+            "[person_1] and [person_1] are in the barber shop.",
+            "[person_1] and [person_2] are sitting on a bed.",
+            "[person_1] is holding 4 apples.",
+            "[person_1] is sitting on a chair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing games?",
+        "answer": [
+            "Because [person_1] is a barber.",
+            "Because [person_1] is doing lunges.",
+            "The [person_1] be placed on top of the [person_2] is in order to save space.",
+            "[person_2] asks [person_1] to play with her.",
+            "Maybe [person_1] is playing an instrument."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after [person_1] gets tired?",
+        "answer": [
+            "[person_1] may try to push the [person_1] with his hands.",
+            "[person_1] will follow [person_1] and leave.",
+            "[person_1] will feel painful on his back.",
+            "[person_1] may be punished.",
+            "[person_1] will stop playing."
+        ],
+        "reason": [
+            "[person_1] cannot continue to play when tired.",
+            "As the supervisor of [person_1] , [person_1] has to follow him.",
+            "Because the cleaned hair will breed bacteria if it is not cleaned.",
+            "Because it is good for the washing.",
+            "[person_1] carried away a bowl of food."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] goes to sleep?",
+        "answer": [
+            "The machine will not move.",
+            "[person_1] can put a guitar there.",
+            "[person_2] will lose.",
+            "[person_1] still would not win [person_2].",
+            "[person_1] would leave."
+        ],
+        "reason": [
+            "[person_2] and [person_1] are skiing together.",
+            "[person_1] needs to stop and thinks about it.",
+            "[person_1] is dancing with a lot of people.",
+            "[person_1] should leave the bed for [person_2] to sleep in.",
+            "The other people are afraid that [person_1] may be seriously ill."
+        ]
+    }
+}

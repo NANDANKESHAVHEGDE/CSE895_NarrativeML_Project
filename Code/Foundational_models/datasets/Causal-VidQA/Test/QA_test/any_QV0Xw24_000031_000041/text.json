@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_1]?",
+        "answer": [
+            "[person_1] looks cute.",
+            "[person_1] looks young.",
+            "[person_1] is so cute.",
+            "[person_1] and [person_1] is in the kitchen.",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] play his saxophone?",
+        "answer": [
+            "[person_2] is shaving for [person_2].",
+            "Because the [person_2] wants to know which treble keyboard needs to touch.",
+            "[person_2] holds a sledgehammer to slam at the tire hard.",
+            "[person_2] blows air into the mouthpiece and presses the keys at the same time.",
+            "[person_2] needs to be safe."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to play the flute.",
+            "[person_1] and [person_2] are going to play paragliding together.",
+            "[person_1] and [person_2] are going to have a meal.",
+            "[person_1] and [person_2] are going to perform a music composition.",
+            "[person_1] and [person_2] are going to continue to build bricks by row."
+        ],
+        "reason": [
+            "Because the room resembles a baseball practice room.",
+            "The roller coaster accelerates and starts swaying.",
+            "[person_2] is full of water and [person_1] and [person_2] are putting their hands in [person_2].",
+            "[person_1] and [person_2] are playing music together",
+            "[person_1] and [person_2] are going to different directions."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s mother comes into the kitchen?",
+        "answer": [
+            "The card will pollute the environment.",
+            "[person_1] and [person_2] have to change places to play musical instruments.",
+            "[person_1] will leave the gym and go out to buy something to eat.",
+            "[person_1] will go to the stores which sell foods.",
+            "[person_1] will change the shirt."
+        ],
+        "reason": [
+            "[person_1] wants her parents to try the marshmallows roasted by her.",
+            "Because no one gathers rubbish on the [person_1].",
+            "Maybe no one can contact [person_1].",
+            "Because [person_1]'s mother will ask [person_1] and [person_2] leave her kitchen.",
+            "The sun is dazzling."
+        ]
+    }
+}

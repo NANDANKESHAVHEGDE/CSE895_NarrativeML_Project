@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tv_2] ?",
+        "answer": [
+            "No , it isn't.",
+            "No , [tv_2] isn't.",
+            "[tv_2] is lying on the table.",
+            "No , it isn't . It's bright.",
+            "They are in a backstage door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the chair ?",
+        "answer": [
+            "Because [person_1] likes it very much.",
+            "Because [person_1] is watering the plants in the garden.",
+            "[person_1] is excited about this action.",
+            "Because they're playing rock - paper - scissors.",
+            "[person_1] is turning the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do ?",
+        "answer": [
+            "[person_1] intends to play the gong in front of him.",
+            "[person_1] intends to move on and leave the sandpit.",
+            "[person_1] intends to continue smiling.",
+            "[person_1] intends to play the harp.",
+            "[person_1] intends to have an intention of playing the flute."
+        ],
+        "reason": [
+            "[person_1] moves slow chess pieces on the table.",
+            "[person_1] prepared to play the harp.",
+            "[person_1] is hover boarding.",
+            "[person_1] is continue crawling forward.",
+            "[person_1] didn't want to put the harmonica down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the harp is out of tune ?",
+        "answer": [
+            "[person_1] will bring it back to the store.",
+            "[person_1] may stop feeding the birds.",
+            "[person_1] won't be able to play the harp normally.",
+            "All the books on it would fall down too.",
+            "She will be hurt."
+        ],
+        "reason": [
+            "It is too heavy for [person_1] to hold two.",
+            "Because it seems that they are brother and sister.",
+            "Because it is not perfect.",
+            "Because it will clutter the space if it is not picked up.",
+            "[person_1] will have to tune the strings."
+        ]
+    }
+}

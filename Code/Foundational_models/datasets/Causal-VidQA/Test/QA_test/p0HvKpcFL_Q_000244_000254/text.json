@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the clothes [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is white and black.",
+            "It is black.",
+            "[person_1] is parked next the walking road.",
+            "They are black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear roller skates?",
+        "answer": [
+            "[person_1] wants to use the inhaler.",
+            "[person_1] is watering each plant in turn.",
+            "[person_1] is teaching how to play the flute.",
+            "[person_1] is skating.",
+            "Because [person_1] is playing the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bring the cup in his hand to his mouth and drink beer.",
+            "To find more snow.",
+            "[person_1] may be going to take a rest.",
+            "[person_1] is going to do many air tricks.",
+            "[person_1] may change the action."
+        ],
+        "reason": [
+            "Because [person_1] is eating the donut.",
+            "[person_1] is putting a towel on the [person_1] and talking about it.",
+            "[person_1] has put the feet on the tree.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "[person_1] is a professional skater."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "Maybe [person_1] will help [person_1] up.",
+            "[person_1] will get healthy.",
+            "The children will laugh.",
+            "[person_1] will get hurt.",
+            "Other people will call the ambulance."
+        ],
+        "reason": [
+            "Practice makes perfect.",
+            "The ground is hard.",
+            "[person_1] may not run.",
+            "The ground is soft.",
+            "There is only [person_1] himself here."
+        ]
+    }
+}

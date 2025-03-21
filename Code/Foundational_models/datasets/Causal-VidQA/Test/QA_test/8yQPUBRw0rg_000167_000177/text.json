@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is sitting on the sofa.",
+            "[person_1] is sitting on [person_1].",
+            "The [person_1] is in the living room and in front of the TV.",
+            "The [person_1] is next to the wall.",
+            "The [person_1] is behind the gong."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] start smoking?",
+        "answer": [
+            "[person_1] is excited about his action.",
+            "[person_1] takes the lighter to light the smoking pipe first.",
+            "They are holding a party and really having fun.",
+            "[person_1] want to use [person_1] so well.",
+            "[person_1] is playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will definitely continue to burn wood.",
+            "[person_1] is going to continue trying to spray paint.",
+            "[person_1] is going to start smoking.",
+            "[person_1] will continue to do lunges.",
+            "[person_1] is going to ride a unicycle forward."
+        ],
+        "reason": [
+            "It seems that [person_1] has finished the dance.",
+            "[person_1] looks happy with this action.",
+            "[person_1] is instructing about riding [person_1].",
+            "[person_1] retracts his hand.",
+            "[person_1] held the smoking pipe in the left hand and took the lighter to light."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't use the lighter?",
+        "answer": [
+            "[person_1] would eat bread.",
+            "[person_1] would have been jumping successfully.",
+            "[person_1] may turn about too.",
+            "Maybe [person_1] will use another tool to light the smoking pipe.",
+            "[person_1] and [person_1] would still be fighting."
+        ],
+        "reason": [
+            "[person_1] can use the match or hemp wick to light the smoking pipe.",
+            "There is a seat next to [person_1].",
+            "It's completely dark inside the hospital and you can see nothing.",
+            "Because there are so many people around to take pictures of [person_1].",
+            "[person_1] won't stop until succeed."
+        ]
+    }
+}

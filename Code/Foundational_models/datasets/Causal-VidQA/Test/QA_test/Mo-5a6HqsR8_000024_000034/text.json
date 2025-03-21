@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the boy who is wearing a grey shirt holding?",
+        "answer": [
+            "That boy is holding a gift.",
+            "Korean national flag is on the wall.",
+            "[person_1] is placed in front of the wall.",
+            "It is to the left of [person_2].",
+            "The mirror is on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] indoors?",
+        "answer": [
+            "[person_2] is playing with his toys.",
+            "[person_2] is opening the present.",
+            "[person_2] is playing stacking cups.",
+            "[person_2] is relaxing himself in an informal occasion.",
+            "[person_2] is performing with a guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will turn on the TV.",
+            "[person_2] will share the presents to [person_1].",
+            "[person_2] will keep making the shape from these materials.",
+            "[person_2] may throw the ball that [person_2] just picked up to the opposite side.",
+            "[person_2] will then teach [person_1] to blow out the candles."
+        ],
+        "reason": [
+            "Because if [person_2] jumps , it'll bounce [person_2] up.",
+            "[person_2] runs very fast and shows no sign of stopping immediately.",
+            "[person_2] is doing it enthusiastically.",
+            "They are next to each other and both are opening the gifts.",
+            "[person_2] is practicing balance on [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the gift is a empty box?",
+        "answer": [
+            "The kids will be very disappointed.",
+            "[person_2] may be in trouble.",
+            "The kids will be less disappointed.",
+            "[person_2] would stop playing outside.",
+            "The kids will be very happy."
+        ],
+        "reason": [
+            "Some people may sit inside.",
+            "It's nervous with the camera around.",
+            "The kids seem to be looking backward to this gift.",
+            "[person_2] would be wet.",
+            "The kids seem to be looking forward to this gift."
+        ]
+    }
+}

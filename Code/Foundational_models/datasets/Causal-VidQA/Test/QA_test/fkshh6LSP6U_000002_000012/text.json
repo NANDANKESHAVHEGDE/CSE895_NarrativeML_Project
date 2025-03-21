@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [bowl_2]?",
+        "answer": [
+            "There is a wall cabinet.",
+            "No.",
+            "[bowl_2] is in a garage.",
+            "It is circle.",
+            "[bowl_2] is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting next to a set of drums?",
+        "answer": [
+            "[person_1] wants to keep his balance on the mechanical bull.",
+            "The [person_1] likes to play accordion in free time.",
+            "[person_1] feels sore of his hand which has held the hammer.",
+            "[person_1] is playing drums.",
+            "Because he loses the game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to keep playing drums.",
+            "[person_1] is going to show some hooping skills.",
+            "[person_1] is going to take a short break.",
+            "[person_1] is going to keep pulling.",
+            "[person_1] is going to keep dancing."
+        ],
+        "reason": [
+            "The bush that [person_1] walking into is blueberries trees.",
+            "It seems that [person_1] does not finish the work.",
+            "[person_1] ran towards the recorder after dropping the hoop.",
+            "[person_1] is repeating the movements in crunches exercise.",
+            "[person_1] still holds drumsticks and moves hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws drumsticks?",
+        "answer": [
+            "[person_1] may want to hold drumsticks anymore.",
+            "[person_1]'s finger will bleed.",
+            "[person_1] may not want to throw drumsticks anymore.",
+            "[person_1] will be famous.",
+            "[person_1] may not want to hold drumsticks anymore."
+        ],
+        "reason": [
+            "[person_1] may feel interested while playing.",
+            "[person_1] will jump right after that.",
+            "[person_1] may feel bored while not playing.",
+            "Without a desirable place to rest , [person_1] is likely to get injured again.",
+            "[person_1] may feel bored while playing."
+        ]
+    }
+}

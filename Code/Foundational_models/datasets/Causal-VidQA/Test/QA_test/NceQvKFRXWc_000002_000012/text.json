@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in his house.",
+            "[person_1] is in the study room.",
+            "[person_1] is on the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_3] and [person_4] standing in place?",
+        "answer": [
+            "Because [person_3] uses a driller to peel an apple.",
+            "[person_3] and [person_4] are daring to skate.",
+            "Because [person_4] is helping [person_4].",
+            "Maybe [person_3] wants to take the wheelchair somewhere.",
+            "[person_3] is reading newspaper with [person_3]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] is going to keep watching.",
+            "[person_4] is going to slide by [person_2].",
+            "Perhaps [person_4] is going to start tapping dancing.",
+            "Maybe [person_4] will pass by some challenges.",
+            "[person_4] is going to celebrate the goal."
+        ],
+        "reason": [
+            "[person_4] is moving.",
+            "They look familiar.",
+            "It is likely that [person_4] and [person_4] in a contest.",
+            "[person_4] is the only one who hasn't talked yet.",
+            "The team of [person_4] just scored."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] and [person_4] skate well?",
+        "answer": [
+            "Maybe [person_3] and [person_4] will skate more confidently.",
+            "[person_4] will be very strong.",
+            "[person_4] will just sing some words to pass.",
+            "[person_4] will not dance and go home.",
+            "[person_3] will no longer high five with others."
+        ],
+        "reason": [
+            "[person_3] and [person_4] skate faster.",
+            "[person_4] is walking by [person_3].",
+            "[person_3] is making a video to teach spinning the plate.",
+            "Water is necessary for a human being.",
+            "Goal means it is closer to win."
+        ]
+    }
+}

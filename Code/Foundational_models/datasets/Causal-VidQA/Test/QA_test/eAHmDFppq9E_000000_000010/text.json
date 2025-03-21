@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is behind [person_2].",
+            "It is in front of the window.",
+            "[person_2] is next to [chair_1].",
+            "It is next to the wall.",
+            "It's next to [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the game?",
+        "answer": [
+            "The saber is sharp and hard.",
+            "Maybe [person_1] is a teacher.",
+            "Because the machine is more convenient.",
+            "Maybe [person_1] is having a party in the room.",
+            "[person_1] is bored during class."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after [person_2] stops playing?",
+        "answer": [
+            "[person_1] will stop playing as well.",
+            "[person_1] will play with [person_2].",
+            "[person_1] will continue staring at the video.",
+            "[person_1] will return home.",
+            "[person_1] may not want others to see."
+        ],
+        "reason": [
+            "[person_1] finds an acquaintance.",
+            "Because [person_1] will continue to play the bricks.",
+            "This game requires two people to play together.",
+            "Because the camel can be easily controlled by the rope.",
+            "Because they eat cake for the birthday."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] loses?",
+        "answer": [
+            "[person_2] won't be medal.",
+            "[person_2] would get surprised.",
+            "[person_2] would be unhappy.",
+            "[person_2] has to do it again.",
+            "[person_2] can leave first."
+        ],
+        "reason": [
+            "Losing a game makes people sad.",
+            "To cover up the failure.",
+            "[person_2] will need more practice.",
+            "[person_2] is on the right of [person_2].",
+            "The [person_2] puts accordion in the [person_2]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is breaking an air brick.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is tapping a pen.",
+            "[person_1] is introducing the corkscrew.",
+            "[person_1] is tearing the wrapping paper down."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] stop and look at [person_1]?",
+        "answer": [
+            "[person_1] uses a tool to make the bubble.",
+            "[person_2] contains water to keep the apples fresh.",
+            "[person_1] is learning how to ride unicycle.",
+            "[person_2] picks up the dropped ball to throw.",
+            "Because [person_2] is modeling for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to drill the gray rock in his left hand.",
+            "[person_2] is going to kiss [person_2].",
+            "[person_2] is going to teach [person_2] how to screed cement.",
+            "[person_2] is going to tap a pen on [dinning table_1] again.",
+            "[person_2] is going to keep playing."
+        ],
+        "reason": [
+            "Maybe he is a professional trainer.",
+            "Because [person_2] has to show [person_1] how to do it properly.",
+            "Because another car came , [person_2] faced the car and [person_2] was ready to direct the car.",
+            "[person_2]'s body curled back.",
+            "When [person_2] finishes his donut , he walks towards to the left side of the screen."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] dropped the pen?",
+        "answer": [
+            "[person_1] wouldn't have to pick up the pen.",
+            "[person_1] would stop practice the clarinet.",
+            "[person_1] would have to kick away the pen.",
+            "The bottle cap would pop him in the face",
+            "[person_1] would have to pick up the pen."
+        ],
+        "reason": [
+            "There will be two bass guitar players and one drum player.",
+            "[person_1] is practicing pen tapping.",
+            "Because that [person_1] falls to the ground will cause attention.",
+            "[person_1] is throwing pen tapping.",
+            "There are still many unfolded clothes on the bed."
+        ]
+    }
+}

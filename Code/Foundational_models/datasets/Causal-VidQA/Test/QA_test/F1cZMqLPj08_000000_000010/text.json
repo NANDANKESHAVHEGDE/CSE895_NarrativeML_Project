@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in his house.",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise [person_1]'s head?",
+        "answer": [
+            "[person_1] wants to read [person_1].",
+            "Because [person_1] wants to capture the moment [person_1] look at itself in the mirror.",
+            "The [person_1] seems to have finished showing the interior of the [person_1].",
+            "Because [person_1] is watching [person_1] weave fabric.",
+            "[person_1] raises [person_1]'s head to look directly at the camera."
+        ]
+    },
+    "predictive": {
+        "question": "Where will [person_1] go next?",
+        "answer": [
+            "The [person_1] will press the button of the remote.",
+            "Also the car.",
+            "[person_1] will be standing still.",
+            "The [person_1] will check what's wrong with the ATM.",
+            "Share the cake."
+        ],
+        "reason": [
+            "Because the [person_1] wants to make sure the hair of the dog has been blown dry.",
+            "For the [person_1] has opened the refrigerator and seemed to be looking for something.",
+            "Because [sink_2] is just the shadow of [person_1].",
+            "[person_1] is hugging the dog.",
+            "[person_1] will be standing still because [person_1] is still tapping [person_1]'s pen in the [sink_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the faucet in the [sink_2] were open?",
+        "answer": [
+            "The car won't be able to run.",
+            "[person_1] would have been able to continue tapping there.",
+            "[person_1] would be excited.",
+            "[person_1] wouldn't have been able to continue tapping there.",
+            "[sink_2] might get hurt."
+        ],
+        "reason": [
+            "Because [person_1] is in a blind spot and cannot avoid in time.",
+            "[person_1] wouldn't have been able to continue tapping there , otherwise [person_1] would have gotten wet.",
+            "The plate is so big and full of noodle while [person_1] is a small kid.",
+            "[person_1] would have been able to continue tapping there , otherwise [person_1] would have gotten wet.",
+            "The way [person_1] speaks annoys [person_1] . If [person_1] says something different , it will catch [person_1]'s attention."
+        ]
+    }
+}

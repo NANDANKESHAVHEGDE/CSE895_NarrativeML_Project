@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_1] at?",
+        "answer": [
+            "[person_1] is in a kitchen.",
+            "[person_1] is standing on the grasses.",
+            "[person_1] is in a music room.",
+            "The chessman is black and red.",
+            "[person_1] is standing on the grass."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] blowing into a stick in his mouth?",
+        "answer": [
+            "Because they're teasing the children.",
+            "[person_1] has nothing to do.",
+            "They are here to perform music.",
+            "[person_1] needs to blow into that stick to play the instrument he's holding.",
+            "Because the person lying on the bed feels comfortable."
+        ]
+    },
+    "predictive": {
+        "question": "what will [person_1] do next?",
+        "answer": [
+            "[person_1] will give the soccer ball to the person recording and then try to juggle the soccer ball.",
+            "[person_1] will stop.",
+            "[person_1] will imitate her father and turn the dough.",
+            "[person_1] will hold the rope for [person_1] to climb up.",
+            "[person_1] will play the bagpipes poorly for the camera."
+        ],
+        "reason": [
+            "Because there's a wall in front.",
+            "[person_1] is an adult , [person_1] is a child and the way they play together is very comfortable.",
+            "[person_1] will continue to stare at the plate and twirling the stick.",
+            "[person_1] is a child , and he is still learning how to play the bagpipes.",
+            "[person_1] will knock the pen on the table with his right hand at a fast tempo because [person_1] is lowering his hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] kept blowing really hard into his bagpipes?",
+        "answer": [
+            "[person_1] would faint while playing his bagpipes , and he would fall onto the floor.",
+            "[person_1] may be sad.",
+            "Hospital.",
+            "[person_1] would be mad at [person_1].",
+            "The man who wears a red t - shirt will have to give chase the ball."
+        ],
+        "reason": [
+            "[person_1] will be exhausted.",
+            "[person_1] is waiting for the machine to finish its work.",
+            "[person_1] is still a child ; he doesn't have a large lung capacity to blow into the bagpipe correctly.",
+            "There are so many people there.",
+            "[person_1] can not see without glasses."
+        ]
+    }
+}

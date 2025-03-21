@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is near the corner?",
+        "answer": [
+            "[chair_1] is helping [chair_1].",
+            "[chair_1] is near the corner.",
+            "The [chair_1] is being held by the [chair_1].",
+            "[chair_1] is opening a coco.",
+            "[chair_1] is touching [chair_1]'s hair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the sandbag swinging?",
+        "answer": [
+            "[person_1] is kicking the sandbag.",
+            "The room is the hall.",
+            "[person_1] would like to hit the ball.",
+            "Because the competition doesn't start.",
+            "[person_1] may hit [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will separate the two legs.",
+            "[person_1] would turn around and dance.",
+            "[person_1] will keep practicing.",
+            "[person_1] will calcine [person_1].",
+            "It is possible that [person_1] will go on polishing the shoes."
+        ],
+        "reason": [
+            "[person_1] is explaining how to play.",
+            "[person_1] steps back and gains momentum.",
+            "[person_1] is playing stacking cups.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] is kicking with poor techniques."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't hold the sandbag?",
+        "answer": [
+            "The sandbag might hit [person_1].",
+            "[person_1] would not be used if [person_1] didn't tie a rope to it.",
+            "The ball would fall to the floor.",
+            "[person_1] would run out and chase [person_1].",
+            "[person_1] might weigh a few pounds."
+        ],
+        "reason": [
+            "[person_1] is driving very fast . It is dangerous.",
+            "The sandbag is swinging back to [person_1].",
+            "That's his car.",
+            "His arm or his leg would get hurt.",
+            "There's nothing on the clapperboard , which means [person_1] , [person_1] , and [person_1] just started . So , [person_1] , [person_1] , and [person_1] will continue filming."
+        ]
+    }
+}

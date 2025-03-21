@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there any grass?",
+        "answer": [
+            "[person_1] and [person_1] are in the big room.",
+            "[person_1] and [person_1] are in the swimming pool.",
+            "The [person_1] is sitting on the chair that is next to piano.",
+            "Yes.",
+            "[person_1] and [person_1] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] ride the horse?",
+        "answer": [
+            "[person_1] enjoys riding horse.",
+            "To keep warm.",
+            "Because wearing shorts makes [person_1] be easy to move around.",
+            "[person_1] is performing his techniques.",
+            "[person_1] is having a practice match."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after riding for a while?",
+        "answer": [
+            "The [person_1] will get off the elephant.",
+            "Maybe [person_1] sits on [person_1] to have a rest.",
+            "[person_1] will get off the horse.",
+            "[person_1] will let the students try to use the inhaler.",
+            "[person_1] will firstly clean the snow on the [person_1]."
+        ],
+        "reason": [
+            "Cleaning the brush so that [person_1] can brush the cat next time.",
+            "[person_1] and [person_1] are having a race.",
+            "Because [person_1] is standing on the [person_1] to do exercise so when [person_1] finishes the exercise [person_1] will have no reason to stand on the [person_1].",
+            "Because [person_1] feels cold.",
+            "[person_1] wants to walk with the horse."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will get hurt.",
+            "[person_1] will put the lute on the table.",
+            "[person_1] will feel uncomfortable.",
+            "[person_1] will get off the horse.",
+            "Perhaps , [person_1] will look out of place and feel a bit uncomfortable."
+        ],
+        "reason": [
+            "[person_1] and others are practicing.",
+            "[person_1] will have a rest.",
+            "[person_1] will go inside.",
+            "[person_1] practices very hard.",
+            "[person_1] may go sightseeing."
+        ]
+    }
+}

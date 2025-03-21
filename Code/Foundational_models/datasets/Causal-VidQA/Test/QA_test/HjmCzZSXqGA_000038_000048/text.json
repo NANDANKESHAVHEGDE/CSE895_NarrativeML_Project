@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt does [person_1] wear?",
+        "answer": [
+            "Train.",
+            "The shirt is black.",
+            "[person_1] hair is braided on both sides.",
+            "White.",
+            "[person_1] is outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold on to the sheep?",
+        "answer": [
+            "[person_1] is holding the target for the kick of [person_1].",
+            "[person_1] is playing with it.",
+            "[person_1] wants to ride the mechanical bull.",
+            "Because [person_1] wants to shave the sheep.",
+            "Because [person_1] wants to water the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What isn't [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep interpreting.",
+            "[person_2] is an actor.",
+            "There must be much hair on the floor.",
+            "The [person_2] is going to keep trying to get out of the mud.",
+            "[person_2] isn't going to shave the sheep."
+        ],
+        "reason": [
+            "The final screen of the video changes?",
+            "The person wearing the number 12 wants to pass the ball to his teammates.",
+            "The wheel of the [person_2]'s board falls out and [person_2] cannot move on.",
+            "[person_2] just hugs the dog and watch the sheep.",
+            "[person_2] seems to still hold the phone and says something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were not [person_1]?",
+        "answer": [
+            "[person_2] will bend down to pick it up.",
+            "It is probable that [person_1] will fight with that person.",
+            "The snake might escape from [person_1]'s neck and bite him.",
+            "[person_2] would attack [person_1] easily.",
+            "[person_2] would not shave the sheep."
+        ],
+        "reason": [
+            "[person_1] had to fence himself when [person_1] attack in lower direction.",
+            "There are a lot of people watching him.",
+            "[person_1] would feel boring.",
+            "There is only [person_1] knowing how to shave.",
+            "The strength must be not enough."
+        ]
+    }
+}

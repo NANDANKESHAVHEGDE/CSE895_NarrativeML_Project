@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dining table_3]?",
+        "answer": [
+            "[dining table_3] is standing opposite [person_1] on the court.",
+            "[dining table_3] is next to [person_1].",
+            "[person_1] is jogging.",
+            "[person_1] is holding [person_1].",
+            "The [person_1] is besides the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] moving his hands?",
+        "answer": [
+            "Maybe [person_2] is trying to tell everyone what he's doing.",
+            "Because [person_2] wants to touch her belly button.",
+            "[person_2] is blowing air into the hole in the flute.",
+            "Because [person_2] is playing a xylophone.",
+            "The [person_2] touches the bass buttons to play accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] is going to do?",
+        "answer": [
+            "[person_1] is going to come over to see [person_2].",
+            "The [person_1] will teach him to cut paper.",
+            "The [person_1] will continue to grab the legs of the dog with her hand.",
+            "The [person_1] will look to continue counting the money.",
+            "The [person_1] will rub the clothes."
+        ],
+        "reason": [
+            "[person_1] may be a teacher and [person_2] maybe a student . Therefore , [person_1] may want to go and check what [person_2] is doing.",
+            "Because the [person_1] has not yet finished cutting the hair.",
+            "Because the [person_1] seems to be done with introductions.",
+            "[person_1] is raising her hand and making the V - sign.",
+            "[person_1] is holding a camera on his hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is alone in the room?",
+        "answer": [
+            "[person_2] may find other toys to play with.",
+            "The [person_2] will divide the cheese into small portions and pack them herself.",
+            "[person_2] may not play the xylophone.",
+            "[person_2] would take a rest for a while.",
+            "[person_2] will remind [person_2] and [person_2] to be quite."
+        ],
+        "reason": [
+            "Because the dancers didn't dance quite the same anyway.",
+            "The doctor will examine and prescribe medication.",
+            "That's the rule of this game.",
+            "Because [person_2] is an adult.",
+            "Because there is no one to see how he play and he can do whatever he wants instead."
+        ]
+    }
+}

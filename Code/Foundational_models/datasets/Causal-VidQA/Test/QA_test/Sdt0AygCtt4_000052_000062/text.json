@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "[chair_1] is brown.",
+            "The [chair_1] is in the backyard.",
+            "The [chair_1] is next to the curtain.",
+            "The [chair_1] is black.",
+            "[chair_1] is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing music with the bass guitar that [person_1] is holding.",
+            "Riding a mechanical bull very easy to play with [person_1].",
+            "[person_1] is opening present.",
+            "Because [person_1] can somersault.",
+            "Because [person_1] remembers what [person_1] needs to speak."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will see the gift.",
+            "[person_1] will keep standing.",
+            "[person_1] will display his good work of the opening.",
+            "[person_1] will keep on standing there.",
+            "[person_1] will continue to play."
+        ],
+        "reason": [
+            "[person_1] is also eager to open presents.",
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] will continue to play.",
+            "[person_1] will take a short rest.",
+            "[person_1] seems to be afraid of being tattooed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "Maybe [person_1] will persuade [person_1] to stop crying.",
+            "Maybe [person_1]'s parents will coax into smiling.",
+            "Maybe [person_2] may hold the [person_1].",
+            "[person_1] will be very sad.",
+            "Maybe [person_1] will not ride."
+        ],
+        "reason": [
+            "[person_1] feels sad.",
+            "The mother loves [person_1].",
+            "The blanket is covered on [person_1]'s face.",
+            "[person_2] or [person_1] may get distracted and not watch [person_1] carefully.",
+            "[person_2] loves [person_1]."
+        ]
+    }
+}

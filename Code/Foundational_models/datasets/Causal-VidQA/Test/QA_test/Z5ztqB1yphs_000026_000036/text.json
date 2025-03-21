@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the large ground.",
+            "[person_1] and [person_2] are outside.",
+            "[person_1] and [person_2] are in outside.",
+            "[person_1] and [person_2] are in the kitchen.",
+            "[person_1] and [person_2] are in the living room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking at the chessboard?",
+        "answer": [
+            "Because [person_1] is snatching weight lifting.",
+            "Because [person_1] is snatching weight - lifting.",
+            "Because [person_1] is suffering from eye disease.",
+            "[person_2] is watching [person_1] playing cymbals.",
+            "Because [person_1] is playing checkers with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to rip paper.",
+            "[person_1] may say his creative inspiration.",
+            "[person_1] is going to continue playing checkers.",
+            "[person_1] is going to break."
+        ],
+        "reason": [
+            "[person_1] looks at the chessboard and thinks about the movement of [person_1].",
+            "[person_1] is holding a glass of water.",
+            "Maybe [person_1] will continue playing.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] knocks down the pieces outside the chessboard?",
+        "answer": [
+            "[person_1] would not know what's exactly inside the bag.",
+            "[person_1] would feel uncomfortable.",
+            "[person_1] will stop playing checkers.",
+            "[person_1] would continue riding.",
+            "It is possible that [person_1] will feel scared."
+        ],
+        "reason": [
+            "Spoons can also be used to dig.",
+            "The chessboard will be messed up by the pieces that have been eaten.",
+            "[person_1] is a child if she doesn't like the gift , she could get sad because she expected it would be something else.",
+            "There are so many people here who can help [person_1].",
+            "They gathered here because of dancing."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing now?",
+        "answer": [
+            "[person_1] is blue with white pattern.",
+            "[person_1] is on the road.",
+            "It is in the garden.",
+            "[person_1] is doing mountain climbers.",
+            "[person_1] is placed at the corner."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] keep talking to [person_1]?",
+        "answer": [
+            "[person_1] is advising on how to play guitar better.",
+            "[person_2] feels amused.",
+            "[person_1] finds stomping the grapes funnier than [person_2] does.",
+            "[person_2] is teaching [person_1].",
+            "Because the [person_1] is going to ride the scooter."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may keep on dancing with the dolphin.",
+            "[person_2] will make the glass herself.",
+            "[person_2] will keep talking.",
+            "[person_2] is going to watch the grape stomp , too.",
+            "[person_2] will do some mountain climbers too."
+        ],
+        "reason": [
+            "Because [person_2] forgets about the next action.",
+            "[person_2] loves dolphin very much.",
+            "To exercise with [person_1] together.",
+            "Because [person_2] could pet [person_2] more if it is eating.",
+            "[person_2] is curious why [person_1] is smiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets too tired?",
+        "answer": [
+            "[person_2] will not ask [person_1] to stop.",
+            "[person_1] will be very happy.",
+            "[person_2] will ask [person_1] to stop.",
+            "[person_1] will eat candies.",
+            "[person_2] will ask [person_1] to start."
+        ],
+        "reason": [
+            "[person_1] can't eat much.",
+            "To keep work.",
+            "There are so many balloons around him . It is easy to blow up if anyone impacts strongly.",
+            "To have a break.",
+            "[person_1] is outside in the snow."
+        ]
+    }
+}

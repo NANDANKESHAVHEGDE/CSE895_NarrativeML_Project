@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1] ?",
+        "answer": [
+            "[couch_1] is sitting on the [couch_1].",
+            "It is in front of the yellow curtain.",
+            "Four.",
+            "It is on the bookshelf.",
+            "[couch_1] is next to the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the couch ?",
+        "answer": [
+            "[person_2] wants to play basketball with [person_2].",
+            "Because the [person_2] needs to keep the [person_2] door open.",
+            "[person_2] is helping [person_2] not to fall.",
+            "Because [person_2] is asked to close the door.",
+            "[person_2] is keeping the boy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after holding [book_1] ? ",
+        "answer": [
+            "[person_1] will sing a song.",
+            "[person_1] looked to see if the courier had put the express in front of his door then would go get his express.",
+            "[person_1] is going to read [book_1] . ",
+            "[person_1] will go for another side.",
+            "[person_1] will kick it."
+        ],
+        "reason": [
+            "Because [person_1] is holding the camera.",
+            "[person_1] is going to drop the watch because [person_1] is finished showing.",
+            "[person_1] wants to experience high speed.",
+            "After tasting [person_1] by licking , [person_1] is going to eat it.",
+            "It seems that [person_1] is paying attention on [book_1] and flipping it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries ?",
+        "answer": [
+            "[person_2] will stop playing.",
+            "Perhap [person_1] will be sick.",
+            "[person_2]  will appease [person_1].",
+            "[person_1] may fall.",
+            "[person_2] feels worried."
+        ],
+        "reason": [
+            "[person_1] wants to play with [person_2].",
+            "[person_2] will read book for [person_2].",
+            "The mother of [person_1] always loves [person_1].",
+            "Maybe [person_1] needs a hug to comfort at that time.",
+            "[person_2] loves [person_1] so much."
+        ]
+    }
+}

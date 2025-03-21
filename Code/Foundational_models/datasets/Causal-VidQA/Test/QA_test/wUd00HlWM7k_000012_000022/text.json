@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a white stripes shirt.",
+            "[person_1] is standing behind [person_1].",
+            "Two.",
+            "[person_1] is wearing a black T - shirt.",
+            "[person_1] is in a sitting position."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look like [person_1] is holding the breath?",
+        "answer": [
+            "[person_1] is playing the guitar.",
+            "[person_1] is playing drums.",
+            "[person_1] is playing bass guitar.",
+            "[person_1] , [person_1] and [person_1] are moving their arms to the left and to the right in front of their chests.",
+            "[person_1] is playing the clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go downhill.",
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will plant a tree on the ground.",
+            "[person_1] will probably continue to lift the dumbbell."
+        ],
+        "reason": [
+            "[person_1] has not don blowing the clarinet.",
+            "[person_1] has prepared a hole on the ground.",
+            "[person_1] was playing the harmonica in a professional way.",
+            "Because these performers need to finish the show in turn.",
+            "[person_1] is bored . [person_1] didn't play for a moment."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] stopped blowing the clarinet?",
+        "answer": [
+            "The [person_1] will meet the demand of shot put.",
+            "The [person_1] will park the scooter home first.",
+            "[person_1] will be cheerful.",
+            "The [person_1] will have accordion to play.",
+            "[person_1] would put the clarinet down."
+        ],
+        "reason": [
+            "[person_1] needs to move a part of the accordion away to create melody.",
+            "[person_1] is holding the clarinet in the mouth.",
+            "Because he needs to go home to change the vehicle.",
+            "[person_1] and [person_1] are interested in [person_1]'s performance.",
+            "[person_1] is trying to learn how to ride [person_1] and have all the safety garments on."
+        ]
+    }
+}

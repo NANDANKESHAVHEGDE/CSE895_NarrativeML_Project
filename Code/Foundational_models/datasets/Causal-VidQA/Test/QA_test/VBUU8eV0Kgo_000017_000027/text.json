@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] is riding a mechanical bull.",
+            "A bottle opener.",
+            "It is a local tool specific for coco cutting.",
+            "It's a lighter.",
+            "A handful of mushrooms."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pull the handle?",
+        "answer": [
+            "Since the [person_1] is playing pillow fighting.",
+            "The [person_1] is playing pillow fight with the boy.",
+            "To lift the coco up.",
+            "He looks very joyful.",
+            "Because [person_1] is painting picture."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to pull the fish up.",
+            "[person_1] will share his work with the camera.",
+            "[person_2] will further deal with the coco.",
+            "[person_1] will continue dancing.",
+            "[person_1] will continue playing in the room."
+        ],
+        "reason": [
+            "[person_1] is riding horses and throwing ropes very professionally.",
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica.",
+            "The fruit is only peeled and cannot be eaten.",
+            "[person_1] will feel tired.",
+            "[person_1] wants to put his hand in his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the tool was not fixed in the earth?",
+        "answer": [
+            "They would stop playing the gaming.",
+            "[person_2] might not get any help from them.",
+            "[person_1]'s feet might get hurt badly.",
+            "The tool would be useless.",
+            "[person_2] might get hurt."
+        ],
+        "reason": [
+            "The stick can mix the wine too.",
+            "It is [person_1]'s fault.",
+            "The tool utilizes the pushing force of the ground.",
+            "The cows need to eat grass to grow.",
+            "Because the [person_1] owes the camel."
+        ]
+    }
+}

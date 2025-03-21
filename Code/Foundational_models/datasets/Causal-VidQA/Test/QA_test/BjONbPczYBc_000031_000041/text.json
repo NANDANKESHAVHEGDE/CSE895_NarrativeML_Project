@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_2] gender?",
+        "answer": [
+            "[person_2] is a female.",
+            "[person_2] is behind [person_2]'s back.",
+            "[person_2] is wearing a vest.",
+            "[person_2] is on the table.",
+            "[person_2] is wearing a beanie."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] holding a pencil?",
+        "answer": [
+            "[person_1] is playing the flute.",
+            "[person_1] is stacking many cups on the table.",
+            "[person_1] is drawing a picture.",
+            "[person_1] is taking clothes out of the box.",
+            "because [person_1] needs to sharpen it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may say his creative inspiration.",
+            "[person_1] is going to put the pencil inside the sharpener again.",
+            "[person_1] is going to rip paper.",
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to continue to train."
+        ],
+        "reason": [
+            "[person_1] is a baby lying on the floor.",
+            "because [person_1] saw that the pencil was not sharp enough after looking at it.",
+            "[person_1] wants to increase the difficulty.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the pencil sharpener was broken?",
+        "answer": [
+            "[person_1] will find other tools.",
+            "Watermelons won't roll to the ground.",
+            "The camera may not record the legs of [person_1].",
+            "All the people will turn on the flashlights.",
+            "[person_1] would not be able to sharpen all the pencils."
+        ],
+        "reason": [
+            "The [person_1] is standing next to the tail of the car.",
+            "[person_1] can not ride.",
+            "[person_1] would have to do all the works manually.",
+            "[person_1] would not be able to sharpen the pencils as fast.",
+            "There are many objects around [person_1]."
+        ]
+    }
+}

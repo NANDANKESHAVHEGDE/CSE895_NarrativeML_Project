@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] holding?",
+        "answer": [
+            "The [person_1] is lying on the floor.",
+            "The [person_1] is holding a ski pole.",
+            "The [person_1] is yellow.",
+            "The [person_1] is holding a musical instrument.",
+            "The [person_1] is in a park."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] holding a ski pole?",
+        "answer": [
+            "Because [person_1] is playing the gong in front of [person_1].",
+            "Maybe [person_1] is dancing.",
+            "Because [person_1] is the reflection of [person_1].",
+            "The [person_1] is walking on snow.",
+            "Because [person_1] uses a driller to peel an apple."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may go home.",
+            "The [person_1] may stop clearing the snow.",
+            "The [person_1] is going to wash bowls and plates in the sink.",
+            "[person_1] may hit the ball with a bat.",
+            "The [person_1] may keep going ahead."
+        ],
+        "reason": [
+            "The [person_1] is still stepping ahead without turning around.",
+            "Because the [person_1] doesn't seem to have any intention of stopping.",
+            "because the [person_1] lifted his whole body and raised his other arm to a higher level.",
+            "The [person_1] pauses playing accordion and laughs.",
+            "There are several cars in front of the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] fell?",
+        "answer": [
+            "The [person_1] may support the [person_1] and others.",
+            "The [person_1] will go out.",
+            "The [person_1] would be injured.",
+            "The clothing of the [person_1] would stick snow.",
+            "The [person_1] will wash the [person_1] first."
+        ],
+        "reason": [
+            "[person_1] can dance properly now.",
+            "[person_1] will hit the dog and [person_1] may feel scared.",
+            "The [person_1] is walking on a thick snow.",
+            "Because [person_1] has to take the broom to sweep the floor.",
+            "The musical instrument that [person_1] is carrying needs electricity to work."
+        ]
+    }
+}

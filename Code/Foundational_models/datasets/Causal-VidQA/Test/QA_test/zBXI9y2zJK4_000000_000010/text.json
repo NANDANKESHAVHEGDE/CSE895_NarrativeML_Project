@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] is using a saber.",
+            "It's a lighter.",
+            "[person_1] is using a hammer.",
+            "It is a bottle opener.",
+            "A bottle opener."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] stand there?",
+        "answer": [
+            "Because [person_1] is relaxing.",
+            "To increase the air pressure inner , making it easier to open it.",
+            "Because [person_1] is stomping grapes in the tank.",
+            "[person_1] introduces by words and pose.",
+            "[person_2] is attracted by what [person_1] is doing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue skiing.",
+            "[person_1] will continue with the pulling.",
+            "[person_1] will remove the iron rod from the device.",
+            "[person_1] will pick up the large piece of wood in front of it and cut it.",
+            "[person_1] will knock the coco with his hammer."
+        ],
+        "reason": [
+            "Because the paint on the paint roller dries out.",
+            "The coco has been fixed already.",
+            "There are many wine bottles on the table.",
+            "Because [person_1] prepared to eat the food with a fork.",
+            "[person_1] pushed the wheelbarrow and then stopped."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] opened the coco successfully?",
+        "answer": [
+            "[person_1] has to buy another one to practice.",
+            "Perhaps [person_1] will be very happy.",
+            "Maybe they will continue to chat with each other.",
+            "[person_1] would share it with [person_2].",
+            "The basketball will never hit the basket."
+        ],
+        "reason": [
+            "Because there is still milk in the cup when [person_1] is drinking.",
+            "[person_1] will need a new hair clipper.",
+            "[person_1] has no food for them.",
+            "The cap is still on the head of [person_1].",
+            "[person_2] is [person_1]'s daughter and [person_2] is very curious."
+        ]
+    }
+}

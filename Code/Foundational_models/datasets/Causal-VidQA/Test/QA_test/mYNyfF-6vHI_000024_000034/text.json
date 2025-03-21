@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] doing?",
+        "answer": [
+            "[person_3] is jogging.",
+            "[person_3] is holding the guitar bass.",
+            "[person_3] is holding [person_3].",
+            "[person_3] is kissing [person_3].",
+            "[person_3] is standing opposite [person_3] on the court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_3] go jogging?",
+        "answer": [
+            "Because [person_3] is wearing makeup.",
+            "[person_3] and [person_3] are cutting a big wood.",
+            "Because that's how [person_3] exercises.",
+            "Because the plants in [person_3] need watering.",
+            "[person_3] is performing a yoga position and showing it to [person_3] and [person_3]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] maybe will give food to customers.",
+            "[person_1] will watch out the motion of [person_2].",
+            "[person_1] is going to ride after [person_2].",
+            "[person_1] is going to eat corns.",
+            "[person_1] will stand here."
+        ],
+        "reason": [
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "[person_1] was walking towards [person_2] and the right hand of [person_1] touched the leg of [person_2].",
+            "Because [person_1] is chasing [person_2].",
+            "[person_1] was holding the tool in the hands and [person_1] was talking.",
+            "Because [person_1] is eating potato chips."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] loses balance?",
+        "answer": [
+            "[person_1] will fall freely to the ground.",
+            "[person_1] will pay for it.",
+            "[person_1] may take the bass guitar off and walk away.",
+            "Maybe [person_1] doesn't need the help of [person_1].",
+            "[person_1] will fall down."
+        ],
+        "reason": [
+            "Because damaged hair is not a beautiful hair for [person_1].",
+            "[person_1] will fall down and the ground is too hard for [person_1] to fall down.",
+            "Because [person_1] is riding [bicycle_1].",
+            "[person_1] needs to buy for his mistake.",
+            "Because [person_1] may get hurt."
+        ]
+    }
+}

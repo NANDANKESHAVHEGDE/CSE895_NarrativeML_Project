@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [sports ball_1]?",
+        "answer": [
+            "[person_1] is on the [sports ball_1].",
+            "Behind [person_1] is a bookshelf.",
+            "[person_1] is behind [person_1].",
+            "[person_1] is on the right hand of [sports ball_1].",
+            "[sports ball_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing flute . Maybe [person_1] does it for fun.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is excited about reading books.",
+            "[person_1] is opening her gift.",
+            "[person_1] is doing exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] will continue standing on the hand.",
+            "[person_1] will spray paint.",
+            "Maybe [person_1] is going to bow again.",
+            "[person_1] is going to do exercise."
+        ],
+        "reason": [
+            "Because there are many circles in the picture.",
+            "[person_1] is so serious.",
+            "[person_1] is upset.",
+            "Because this can express respect.",
+            "[person_1] is warming up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does exercise too long?",
+        "answer": [
+            "[person_1] will not continue doing exercise.",
+            "The opposing team will be the winner.",
+            "[person_1] will continue doing exercise.",
+            "[person_1] will take a broom.",
+            "[person_1] will not continue doing exercise too short."
+        ],
+        "reason": [
+            "The round will not be fell.",
+            "[person_1] will be excited.",
+            "The team that has no cups loses and the other team has won.",
+            "[person_1] will be tired.",
+            "If he is tired , he may put down the guitar , sit on the [person_1] to have a rest."
+        ]
+    }
+}

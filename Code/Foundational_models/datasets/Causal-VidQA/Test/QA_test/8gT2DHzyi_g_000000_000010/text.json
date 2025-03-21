@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "They are in the yard.",
+            "[person_1] and [person_2] are in their house.",
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] holding darts?",
+        "answer": [
+            "The [person_1] is used to cut the potatoes.",
+            "[person_1] and [person_2] are playing darts.",
+            "[person_1] needs to strip the apple speedier.",
+            "Maybe [person_1] is introducing the plate.",
+            "Because [person_1] needs to move the chessman to play checkers."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to play slowly.",
+            "[person_1] and [person_2] are going to hover - boarding together.",
+            "[person_1] and [person_2] are going to make burger.",
+            "[person_1] and [person_2] are going to flip every cakes in the pan.",
+            "[person_1] and [person_2] are going to restart the game."
+        ],
+        "reason": [
+            "[person_1] and [person_2] will not stop learning skateboarding until they can ride it.",
+            "[person_1] and [person_2] don't look professional.",
+            "[person_1] and [person_2] turned around and stood up.",
+            "[person_1] and [person_2] seem enjoy the travel.",
+            "[person_1] and [person_2] jogged in place , too."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits the target with the dart?",
+        "answer": [
+            "The lamp might break.",
+            "The pizza might fall out from the box.",
+            "[person_1] will score.",
+            "The salad will spill over the table.",
+            "The shoe will be ready for selling."
+        ],
+        "reason": [
+            "On the off chance that [person_1] can't throw the ball to the basket , the ball will be thrown out.",
+            "The pizza is in the box.",
+            "[person_1] gets points if the dart hits the target.",
+            "[person_1] is too small , it can have danger when he touch the laptop.",
+            "Because [person_1] makes a video on [person_1] , the banana can't tumble on the ground."
+        ]
+    }
+}

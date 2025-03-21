@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_2]?",
+        "answer": [
+            "[car_2] is behind [person_1].",
+            "It is cloudy.",
+            "Dancing.",
+            "Three.",
+            "[car_2] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing behind the car?",
+        "answer": [
+            "[person_1] is putting the wheelchair in the car.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "Because [person_1] needs to be comfortable to swing his arms.",
+            "[person_1] is smoking hookah.",
+            "Because [person_1] is smoking with his best friend."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will call the rescue team.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to continue practicing.",
+            "[person_1] is going to push the wheelchair.",
+            "Bake the dough batch after batch."
+        ],
+        "reason": [
+            "[person_1] is upset.",
+            "[person_1]'s arms were intertwined.",
+            "One time only can bake some doughs.",
+            "[person_1] pushed the wheelchair into the car with a [skateboard_1].",
+            "[person_1] is practicing very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't have a [skateboard_1]?",
+        "answer": [
+            "[person_1] and [skateboard_1] won't be able to skipping rope.",
+            "The [person_1] will become brighter.",
+            "It will be difficult for [person_1] to push the wheelchair into the car.",
+            "The [person_1] will be broken.",
+            "Perhaps [person_1] would have a some chat with [person_1]."
+        ],
+        "reason": [
+            "To disinfect the hand.",
+            "The road will not be frozen.",
+            "[person_1] can't see anything and can't record video.",
+            "The wheelchair is quite big and heavy.",
+            "[person_1] is serving the customer."
+        ]
+    }
+}

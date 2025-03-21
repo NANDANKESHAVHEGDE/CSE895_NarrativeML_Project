@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the kid?",
+        "answer": [
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "The white bucket is placed on [person_2].",
+            "The kid is kneeling in the snow now.",
+            "The shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the person standing near a tree laugh?",
+        "answer": [
+            "[person_4]'s voice could be heard far away.",
+            "[person_4] and [person_4] is playing a duet.",
+            "The man in front of the person stumbled.",
+            "Perhaps [person_4] is playing the harmonica.",
+            "To avoid being exposed to the sun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "He may try to leave the room.",
+            "Take [person_2] away.",
+            "[person_4] is going to eat the food from [person_4].",
+            "Continue their party.",
+            "[person_4] is going to go on running forward."
+        ],
+        "reason": [
+            "In case [person_2] gets cold.",
+            "Because [person_4] was holding a bucket.",
+            "[person_4] is follow the person next to [person_4].",
+            "[person_4] is a new dancer , so [person_4] is going to teach him how to dance",
+            "[person_4] looks towards the pool table and stands up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] feels cold and uncomfortable?",
+        "answer": [
+            "[person_2] will hurt.",
+            "The [person_2] will wash the clothes for the [person_4].",
+            "[person_4] will have to go back to the gyro.",
+            "[person_2] will go back home.",
+            "[person_4] will take [person_2] away home."
+        ],
+        "reason": [
+            "Keep [person_2] warm and safe.",
+            "the pencil is easy to be broken.",
+            "It will make noise.",
+            "The gyroscope will be stopped.",
+            "It's time for dinner."
+        ]
+    }
+}

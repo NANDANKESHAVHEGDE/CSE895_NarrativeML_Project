@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bottle_1]?",
+        "answer": [
+            "No.",
+            "[bottle_1] is next to [person_1].",
+            "It is on the ground and next to [person_1] right foot.",
+            "The chessman is black and red.",
+            "The [bottle_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing the lute.",
+            "[person_1] is having a party.",
+            "[person_1] is riding a unicycle.",
+            "That is the concert of [person_1].",
+            "[person_1] is practicing cello."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to ride a unicycle forward.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to watch [person_1] open all the presents.",
+            "[person_1] is going to dismantle the power drill.",
+            "[person_1] may mix the ingredients in [person_1] many times."
+        ],
+        "reason": [
+            "[person_1] doesn't finish sticking the wallpaper.",
+            "Because [person_1] needs it to make juice.",
+            "[person_1] wants to score.",
+            "[person_1] is trying to practice.",
+            "[person_1] looks so surprised."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will stand up.",
+            "[person_1] will be afraid.",
+            "[person_1] will get dirty clothes.",
+            "[person_1] will need help to stand up.",
+            "Maybe [person_1] will get hurt."
+        ],
+        "reason": [
+            "[person_1] gets hurt.",
+            "Maybe the team of [person_1] will lose.",
+            "[person_1] wants to be more perfect.",
+            "[person_1] will sit on the floor to rest.",
+            "[person_1] will be hurt."
+        ]
+    }
+}

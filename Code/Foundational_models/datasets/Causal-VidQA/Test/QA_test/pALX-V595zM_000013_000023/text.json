@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [train_1]?",
+        "answer": [
+            "[train_1] is on the left side of [train_1].",
+            "[train_1] is behind the boy.",
+            "[train_1] is behind the people.",
+            "It is in front of the wall.",
+            "[train_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the people play roller skating?",
+        "answer": [
+            "[person_4] lines up the dice to stack easier.",
+            "[person_4] is practicing dynamic plate spinning skill.",
+            "When [person_4] is thirsty , [person_4] can drink.",
+            "They want to become the good players.",
+            "Because this is the rule of the game."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_4] do next?",
+        "answer": [
+            "[person_4] will keep on climbing.",
+            "[person_4] will continue to jump rope.",
+            "[person_4] may tell others how well the boy just did.",
+            "[person_4] will stand up.",
+            "[person_4] will keep practicing to improve the skill."
+        ],
+        "reason": [
+            "[person_4] is holding a balloon.",
+            " [person_4] seems that he cannot control the roller skating.",
+            "[person_4] looks delighted.",
+            "Because both [person_4] and [person_4] are tired and exhausted.",
+            "Because [person_4] looks ready to move."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it becomes dark?",
+        "answer": [
+            "The team would lack [train_1].",
+            "[person_4] would not be able to throw the discus that far.",
+            "The pig will be dirty.",
+            "[person_4] can't play.",
+            "The people can stop practice."
+        ],
+        "reason": [
+            "Everyone is happy if they can eat their favorite food.",
+            "[person_4] is too young to stay alone.",
+            "Because they have lights around the stadium.",
+            "The people will come back home and rest.",
+            "The people go to bath then."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the gym.",
+            "[person_1] and [person_2] are in an ice cream shop.",
+            "[person_1] and [person_2] are on their room.",
+            "[person_1] and [person_2] are in a show.",
+            "[person_1] and [person_2] are in the pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing the lute with [person_2] and [person_2] like a band.",
+            "[person_1] is directing [person_2] to put the disk in the right place on the table.",
+            "Because [person_1] is teaching [person_2] how to lift.",
+            "Because [person_1] is doing stretching exercises.",
+            "Because [person_1] is playing the violin with his friends in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will sit there and curve.",
+            "[person_1] is going to continue to teach.",
+            "[person_1] will check the result.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to play there."
+        ],
+        "reason": [
+            "[person_2] is learning.",
+            "[person_1] is going to continue feeding fish.",
+            "Maybe [person_2] is a earthen pot.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] has finished making other hair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops teaching ?",
+        "answer": [
+            "[person_1] would work alone.",
+            "[person_2] will rest.",
+            "The hoop would fall to the ground.",
+            "[person_1] won't eat all the [person_1].",
+            "[person_1] will drop the hot dog."
+        ],
+        "reason": [
+            "because [person_2] hit [person_1].",
+            "[person_1] will have to take the chair to be repaired.",
+            "The clapping game must require two players.",
+            "It will break.",
+            "Because [person_1] teaches [person_2]."
+        ]
+    }
+}

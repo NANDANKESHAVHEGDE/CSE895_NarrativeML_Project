@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_1]?",
+        "answer": [
+            "[person_1] is watching [person_2] lift weights.",
+            "Because [person_2] is holding a sleeping baby.",
+            "Because [person_2] is making him laugh by tickling him.",
+            "Because the [person_1] wants to test how well the [person_2] door is sealed.",
+            "Because [person_1] is instructing the arm stretch."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to grade [person_2].",
+            "[person_1] will come up the stairs.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] is about to eat.",
+            "[person_1] will eat the apple on the table."
+        ],
+        "reason": [
+            "[person_1] is very small.",
+            "There are many sand on his feet.",
+            "[person_1] is a judge.",
+            "[person_1] has many other bottles on the [person_1].",
+            "[person_1] may go on reading."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the points of [person_1] is too low ?",
+        "answer": [
+            "[person_1] will be disqualified.",
+            "The woman will cook something else.",
+            "[person_1] won't be disqualified.",
+            "The person should learn about the techniques again.",
+            "[person_1] will be qualified."
+        ],
+        "reason": [
+            "This isn't a contest.",
+            "[person_1] has made it.",
+            "This is a bug.",
+            "It floats in the air.",
+            "This is a contest."
+        ]
+    }
+}

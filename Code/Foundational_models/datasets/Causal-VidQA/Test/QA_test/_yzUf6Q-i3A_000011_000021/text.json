@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [car_1]?",
+        "answer": [
+            "It is pink.",
+            "There is a large - sized black speaker behind [car_1].",
+            "It is black.",
+            "Brown.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there some boards piled up there?",
+        "answer": [
+            "Maybe [person_1] is in a guitar shop.",
+            "Because the [person_1] is performing to every one.",
+            "Because [person_1] is playing the gong in this room.",
+            "Because [person_1] is going to cut them.",
+            "Because the [person_1] wants to protect his head."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will wait for the machine working.",
+            "[person_1] will cut the last board.",
+            "[person_1] will finish drawing the butterfly.",
+            "[person_1] will kick the ball.",
+            "Maybe [person_1] will sing."
+        ],
+        "reason": [
+            "Maybe [person_1] is playing an interesting song.",
+            "[person_1] is holding the harmonica.",
+            "Because [person_1]'s backpack was a traveling bag.",
+            "[person_1] is holding a guitar.",
+            "To finish [person_1]'s work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hurt [person_1]'s hand incautiously?",
+        "answer": [
+            "[person_1] may win.",
+            "[person_1] will find some bandages.",
+            "[person_1] would try other way.",
+            "[person_1] could not teach others.",
+            "[person_1] does not know how to play soil."
+        ],
+        "reason": [
+            "To protect [person_1]'s hands.",
+            "Because the water in the bucket will spill out.",
+            "To wash [person_1]'s eyes.",
+            "The [person_1] is walking on the floor.",
+            "There are so many trees near targets , so if [person_1] misses the target , [person_1]'s arrow will probably hit a tree."
+        ]
+    }
+}

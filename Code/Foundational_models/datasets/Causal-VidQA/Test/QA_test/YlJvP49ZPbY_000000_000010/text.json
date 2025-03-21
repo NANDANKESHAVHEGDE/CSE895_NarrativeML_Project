@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite large.",
+            "It is nicely decorated.",
+            "It is spacious.",
+            "It is narrow.",
+            "It is dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] nodding?",
+        "answer": [
+            "To get massaging neck.",
+            "[person_1] is playing basketball with [person_1].",
+            "Pliers is a kind of tool expending less force but generate great effect.",
+            "Because [person_1] does not in time to hit the badminton ball.",
+            "[person_1] is playing the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will plant a tree on the ground.",
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will continue playing the harmonica.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "It seems that [person_1] likes the harmonica.",
+            "[person_1] is concentrating on making the basket deftly.",
+            "[person_1] must keep track of her student's progress.",
+            "[person_1] is still a little kid and impatient.",
+            "Because there are spare tires in the trunk."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] leaves?",
+        "answer": [
+            "Maybe [person_1] will leave first.",
+            "[person_2] will bring [person_1] with him.",
+            "[person_1] will go home.",
+            "Maybe [person_2] will drink water.",
+            "[person_1] will come out of the toilet with someone."
+        ],
+        "reason": [
+            "[person_2] is just a kid , and [person_2] need the mother's help.",
+            "[person_1] will only whistle when someone whistles with her , that's more fun.",
+            "[person_1] is just a kid.",
+            "Because the baby is too small , the baby may not want to be left alone.",
+            "[person_1] and [person_2] are together and all have the responsibility to complete the task."
+        ]
+    }
+}

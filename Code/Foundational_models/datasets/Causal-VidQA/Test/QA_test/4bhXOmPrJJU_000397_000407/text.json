@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on bed.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the gym room.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "How [person_1] can move forward without stopping skipping rope?",
+        "answer": [
+            "[person_1] is trying to stand by his hands.",
+            "[person_1] is excited about holding her gift.",
+            "[person_1] continue spinning the rope while moving forward.",
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is trying to unbox the present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to make vases.",
+            "[person_1] may keep trying to play the gong.",
+            "[person_1] will stop skipping rope.",
+            "[person_1] may not ride the toy car which [person_1] sits on anymore.",
+            "Perhaps [person_1] will continue listening music."
+        ],
+        "reason": [
+            "[person_1] is sitting down to prepare.",
+            "[person_1] is playing stacking cups.",
+            "There is not enough space in front to skip rope.",
+            "Because the food has been put on the table , the next step is to eat it.",
+            "[person_1] is with his team."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] looks at the right?",
+        "answer": [
+            "[person_1] may be angry with the little boy.",
+            "Maybe [person_1] can't play didgeridoo.",
+            "[person_1] will see her reflection.",
+            "[person_1] will get in the car.",
+            "Then [person_1] may be in trouble."
+        ],
+        "reason": [
+            "[person_1] and [person_1] have no one to guide.",
+            "Next to the left hand of [person_1] is a wall and [person_1] is standing close to it.",
+            "[person_1] will do anything with wood to pamper customers.",
+            "[person_1] is too young to do this.",
+            "There is a mirror on the right of [person_1]."
+        ]
+    }
+}

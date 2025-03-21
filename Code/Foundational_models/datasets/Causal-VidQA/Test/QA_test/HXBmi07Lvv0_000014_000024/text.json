@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "The sofa is behind [person_1].",
+            "A bag.",
+            "It is cloudy.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Maybe [person_1] is playing with [person_1].",
+            "Because [person_1] is smoking.",
+            "Maybe [person_1] is managing workers who are cutting wood.",
+            "[person_1] needs to be outside to play basketball.",
+            "Because [person_1] is waiting for [person_1] to draw a picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to bed.",
+            "[person_1] is going to keep seeing.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "[person_1] is jumping very professionally.",
+            "Because [person_1] looks very tired.",
+            "Frisbee is flying to him",
+            "[person_1] may checking the results.",
+            "[person_1] only used 1 dice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will stop making the basket temporarily.",
+            "[person_1] will get wet.",
+            "[person_1] will not practice there.",
+            "[person_1] will get dry.",
+            "The rain has little effect on them."
+        ],
+        "reason": [
+            "The machine will be kept.",
+            "[person_1] is in a competition",
+            "The machine won't be damaged.",
+            "The fabric will get wet.",
+            "The machine will be damaged."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a gym.",
+            "[person_1] is in front of the wall.",
+            "[person_1] is at the gym.",
+            "[person_1] is in his room.",
+            "[person_1] is sitting at a table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a scissors ?",
+        "answer": [
+            "To cut the plank.",
+            "[person_1] is trimming his beard.",
+            "[person_1] is introducing the harmonica.",
+            "[person_1] wants to record his clarinet performance.",
+            "[person_1] is a little nervous."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] going to style his beard.",
+            "[person_1] is going to practice.",
+            "[person_1] may put the milk in the fridge."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "The egg is not cooked yet.",
+            "[person_1] is paying attention to other things.",
+            "[person_1] is enjoying playing flute.",
+            "[person_1] wants a special beard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] shaves off all his beard?",
+        "answer": [
+            "[person_1] may hurt his feet.",
+            "[person_1] will be more handsome.",
+            "[person_1] may be prohibited by others.",
+            "[person_1] may record it again.",
+            "[person_1] may stop tickling him."
+        ],
+        "reason": [
+            "[person_1] practices so hard.",
+            "The beard of [person_1] is too long.",
+            "[person_1] is dancing with a group of people.",
+            "[person_1] may go to work.",
+            "When sliding on barefoot in a long time , [person_1]'s feet may bleed."
+        ]
+    }
+}

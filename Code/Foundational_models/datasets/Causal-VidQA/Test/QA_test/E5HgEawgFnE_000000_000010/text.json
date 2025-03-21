@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is on the sofa.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use this megaphone?",
+        "answer": [
+            "[person_1] wants to make the voice louder.",
+            "[person_1] is still a boy and this is Christmas holiday.",
+            "Because the parking lot is too big to measure with a tape measure.",
+            "[person_1] is playing the clarinet.",
+            "[person_1] is applying make up."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_1] when [person_1] shouts for the whole night?",
+        "answer": [
+            "The woman is going to continue performing insomnia treatment for [person_1].",
+            "[person_1]'s sister is going to continue pushing the cart.",
+            "He will continue counting money.",
+            "[person_1]'s neighbor will come to make a complaint.",
+            "They will be in the market."
+        ],
+        "reason": [
+            "The pancake fell down the floor and she has to repair the pan to make another pancake.",
+            "Because the golf will be hit by someone heavily.",
+            "[person_1] is tired.",
+            "The treadmill broke down and he couldn't run.",
+            "[person_1] is too noisy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a sudden fire?",
+        "answer": [
+            "[person_1]'ll say it again.",
+            "[person_1] will run out.",
+            "Student cannot see video or picture.",
+            "[person_1] will smile.",
+            "[person_1] wouldn't continue commenting on the match."
+        ],
+        "reason": [
+            "The light will be off.",
+            "The fire is too dangerous.",
+            "The room would be full of darkness.",
+            "[person_1] didn't expect that happening.",
+            "Because [person_1] is more powerful."
+        ]
+    }
+}

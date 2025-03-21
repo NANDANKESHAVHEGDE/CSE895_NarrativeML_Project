@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a sweater and pants.",
+            "The [person_1] is wearing pants.",
+            "Riding a scooter.",
+            "[person_1] is wearing a black robe.",
+            "Riding the scooter."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing?",
+        "answer": [
+            "[person_1] is playing the harp.",
+            "[person_1] wants to play with these big dices.",
+            "[person_2] is shaving the beard of [person_1].",
+            "They are practicing roller - skating.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand still.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "She is going to play with her toys.",
+            "[person_1] is going to see the gift.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "Maybe [person_2] is being teased by [person_3].",
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] ground the stone into a shape.",
+            "[person_1] is rubbing the shoe over and over again.",
+            "Because it's a better way to show [person_1]'s strength."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beard of [person_1] is shaved?",
+        "answer": [
+            "The [person_1] will not take time of other to perform.",
+            "[person_1] will not ride there.",
+            "The [person_1] can change the tone of accordion.",
+            "The beard of [person_1] will look nice.",
+            "The [person_1] will get off the back of the [person_1]."
+        ],
+        "reason": [
+            "[person_1] will have a rest.",
+            "The beard of [person_1] is too long.",
+            "[person_1] will appreciate this gift.",
+            "If the [person_1] pours the wine too fast , the wine will splash on her T - shirt.",
+            "[person_1] and [person_1] can snap their fingers without music."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the yard.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is on train."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the door next to [person_1] suddenly open?",
+        "answer": [
+            "[person_1] performs.",
+            "To exercise better.",
+            "Because someone walked in.",
+            "Mushrooms live in the dark environment.",
+            "[person_1] is scared of the firework explosion."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will ask her parents for help.",
+            "[person_1] will continue playing in the room.",
+            "[person_1] will continue lift the dumbbell.",
+            "[person_1] continues to play the harp.",
+            "[person_1] will share his work with the camera."
+        ],
+        "reason": [
+            "Everyone on the train feels good.",
+            "Because the empty box is useless.",
+            "[person_1] is talking and using hands to sign language.",
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1] is starting to follow."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the train stops at?",
+        "answer": [
+            "[person_1] would be very comfortable.",
+            "[person_1] will throw the egg.",
+            "[person_1] will stop playing.",
+            "[person_1] will be hungry.",
+            "[person_1] will then buy a marriage ring."
+        ],
+        "reason": [
+            "There is a crossroad ahead.",
+            "It's not easy to shoot 2 balls in a row like [person_1] .",
+            "[person_1] gets off the train.",
+            "[person_1] knows how to play but maybe he will need other professional person to fix it for him.",
+            "With the help of [person_1] , the traffic will be smoother."
+        ]
+    }
+}

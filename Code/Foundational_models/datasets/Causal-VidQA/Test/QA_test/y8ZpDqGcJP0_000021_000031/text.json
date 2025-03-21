@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a cat?",
+        "answer": [
+            "Yes.",
+            "No.",
+            "It is cloudy.",
+            "[cat_1] is behind [cat_1].",
+            "They are looking at the domino tiles on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the cat run?",
+        "answer": [
+            "[cat_1] is watching [cat_1] and [cat_1] playing badminton.",
+            "[cat_1] wants to grind them.",
+            "The cat is fat and needs exercise.",
+            "Because [cat_1] finished in short time.",
+            "[cat_1] has a short rope."
+        ]
+    },
+    "predictive": {
+        "question": "What will [cat_1] do after running for a while?",
+        "answer": [
+            "Maybe [cat_1] sits on [cat_1] to have a rest.",
+            "[cat_1] will let the students try to use the inhaler.",
+            "The [cat_1] will run away.",
+            "[cat_1] will wash his face and hands",
+            "[cat_1] may lay down on a bed or a couch for a while."
+        ],
+        "reason": [
+            "[cat_1] enjoys riding.",
+            "The cat is tired.",
+            "They had such a wonderful performance.",
+            "[cat_1] adjusts his bagpipe so that when he plays his song , it will sound perfect.",
+            "[cat_1] and [cat_1] have been taught before."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cat is tired?",
+        "answer": [
+            "The eight people might stand nearer to each other.",
+            "[cat_1] wouldn't see anything.",
+            "[cat_1] would get hurt.",
+            "Someone would come to repair it.",
+            "The cat will run away."
+        ],
+        "reason": [
+            "The judges can not see the acting.",
+            "In case of slipping down.",
+            "[cat_1] need to know if the moves are correct or not.",
+            "The cat doesn't want to run.",
+            "Because [cat_1] made a big mistake."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": " \b Where is [book_1] ?",
+        "answer": [
+            "[book_1] is on the bed.",
+            "[book_1] is behind the [book_1].",
+            "They are on the grass land.",
+            "It is on the loom.",
+            "[book_1] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting next to the table ?",
+        "answer": [
+            "[person_1] is playing with his toys.",
+            "[person_1] is using the flute.",
+            "[person_1] wants to catch the spinning poi.",
+            "[person_1] wants to play chess.",
+            "Maybe [person_1] is playing chess with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to sleep.",
+            "[person_1] is going to stop talking.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to climb into bed."
+        ],
+        "reason": [
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] is attacking [person_1] and [person_1] will win this match.",
+            "[person_1] is going to continue playing flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the book on the table falls ?",
+        "answer": [
+            "[person_1] will bring the instrument to be repaired.",
+            "He could not hold the smaller egg with both two hands.",
+            "It will make a noise.",
+            "It is probable that [person_1] listen to someone reading a book for him.",
+            "[book_1] will take it off."
+        ],
+        "reason": [
+            "Because those missing tiles would make the domino string incomplete.",
+            "Fortunately , there are several microwaves and ovens , [person_1] can use the others that can work.",
+            "[person_1] will pick the book up and put in on the table.",
+            "Kids are very so active that they can not still stand for about 10 minutes.",
+            "[person_1] doesn't want to be distracted."
+        ]
+    }
+}

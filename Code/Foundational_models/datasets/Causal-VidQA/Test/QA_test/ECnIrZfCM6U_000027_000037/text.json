@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "[person_1] is kicking a ball.",
+            "[person_1] is in the large room.",
+            "It is cool.",
+            "The weather is sunny.",
+            "[person_1] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the snow?",
+        "answer": [
+            "Because [person_1] wants to use the cola to open the beer.",
+            "[person_1] wants to talk and covey the saying to others in front of [person_1].",
+            "Because it is a smoking device.",
+            "Because [person_1] is practicing skiing.",
+            "Because [person_1] is playing the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to bandage [person_1].",
+            "[person_1] is going to continue trying to ski.",
+            "[person_1] is going to continue laughing."
+        ],
+        "reason": [
+            "[person_1] fell under the bed.",
+            "[person_1] is going to feel tired.",
+            "[person_1] is moving forward.",
+            "Because the blue is skying at night.",
+            "[person_1] finds hopscotch interesting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't have the helmet?",
+        "answer": [
+            "The machine will be off.",
+            "[person_1] may be injured.",
+            "[person_1] would get mad.",
+            "[person_1] won't be injured.",
+            "[person_1] won't play it anymore."
+        ],
+        "reason": [
+            "Because skiing is very safe if there is no protective gear.",
+            "It is very dangerous if people do some fencing without helmets.",
+            "Because skiing is very dangerous if there is protective gear.",
+            "[person_1] will put the lute on the table.",
+            "Because skiing is very dangerous if there is no protective gear."
+        ]
+    }
+}

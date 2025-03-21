@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] holding?",
+        "answer": [
+            "The [person_1] is standing next to a rock.",
+            "The [person_1] is holding a cloth and a bottle.",
+            "On the sidewalk.",
+            "The [person_1] is near the grass.",
+            "The [person_1] is holding a potato and a ceramic potato peeler."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] sit down here?",
+        "answer": [
+            "there is no chair in the dining room.",
+            "Make a snowball first.",
+            "The [person_1] takes the peels on of potatoes.",
+            "The [person_1] is avoiding the plate of the [person_1].",
+            "[person_1] put the paper in the cutter for paper recycling."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to take the teddy bear.",
+            "The [person_1] will tuck his legs down.",
+            "[person_1] is going to stand up right away after [person_1] fell down.",
+            "The [person_1] may keep tickling the [person_1].",
+            "The [person_1] may peel all the skin off the potatoes soon."
+        ],
+        "reason": [
+            "The [person_1] tries to peel the potatoes hard.",
+            "The [person_1] is laying tiles one by one.",
+            "After the failure of [person_1] , [person_1] reached out and took the pan in [person_1]'s hand.",
+            "The [person_1] passes the [person_1] and catches [person_1] when [person_1] is returned.",
+            "[person_1] is not sleep yet , [person_1] needs to watch [person_1] until [person_1] falls asleep."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] peels the potatoes?",
+        "answer": [
+            "The [person_1] will not get stomach ache.",
+            "There are a lot of torn papers on the floor.",
+            "[person_1] and [person_1] would get hurt.",
+            "The playhouse will be flat.",
+            "It would take forever to render the cement and the road would not be as flat."
+        ],
+        "reason": [
+            "The [person_1] is wearing a Santa's hat.",
+            "The [person_1] uses a potato peeler to peel the potatoes.",
+            "[person_1] will fall on the cushions.",
+            "Because [person_1] cannot start the oven.",
+            "The piece of meat is dirty."
+        ]
+    }
+}

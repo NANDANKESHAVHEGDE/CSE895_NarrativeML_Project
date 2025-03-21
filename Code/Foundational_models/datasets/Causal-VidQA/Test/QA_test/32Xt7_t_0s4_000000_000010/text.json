@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is standing next to the [person_1].",
+            "[person_1] is beside the grass.",
+            "[person_1] is in the yard.",
+            "Along the river.",
+            "[person_1] is in the room"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the bed?",
+        "answer": [
+            "[person_1] is shaving himself.",
+            "[person_2] is ripping paper.",
+            "[person_2] is playing the game.",
+            "Because [person_2] of hand has a problem , maybe [person_2] of hand is paralyzed and needs [person_1] help.",
+            "[person_1] wants to exercise to change body."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue lying and being cut the nails.",
+            "[person_2] is going to keep playing on the swing.",
+            "To put the rest clothes in the washing machine.",
+            "[person_2] is going to attack.",
+            "[person_2] is going to continue trying to practice."
+        ],
+        "reason": [
+            "[person_2] is preparing to lift weights.",
+            "[person_2] is very surprise.",
+            "[person_2] is watching [person_2]'s performance.",
+            "[person_2] wants the fish come to the surface.",
+            "[person_2] is trying very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not help ?",
+        "answer": [
+            "[person_1] may be in danger.",
+            "[person_1] might keep eating.",
+            "[person_1] could move to other places.",
+            "[person_2] wouldn't be able to move his arms.",
+            "[person_1] would be fine."
+        ],
+        "reason": [
+            "[person_2] needs to have more practicing.",
+            "[person_1] can not breathe underwater without air.",
+            "[person_2] has hand pain.",
+            "Hair cream is also useful to deal with hair on legs.",
+            "[person_1] is playing publicly so everyone can listen to [person_1]."
+        ]
+    }
+}

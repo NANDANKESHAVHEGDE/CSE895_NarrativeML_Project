@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing a wheelchair?",
+        "answer": [
+            "[person_3] is lying on [person_1] to get a massage.",
+            "[person_3] is taking part in a game.",
+            "[person_3] and [person_1] are daring to skate.",
+            "Because [person_1] is helping [person_3] move.",
+            "[person_1] wants to wear the sweater."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_2] intends to wear the shoes.",
+            "[person_2] intends to go on playing harmonica.",
+            "[person_2] intends to continue using the piano.",
+            "[person_2] intends to move the wheelchair on their own.",
+            "[person_2] intends to rip the paper."
+        ],
+        "reason": [
+            "[person_2] doesn't want the kids to get hurt.",
+            "[person_2] stops dancing and sits down.",
+            "[person_2] turns around to leave.",
+            "[person_2] is moving in a wheelchair.",
+            "[person_2] looks very focused while playing didgeridoo."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] does not have a wheelchair?",
+        "answer": [
+            "[person_2] may feel uncomfortable.",
+            "[person_2] will not be able to move.",
+            "[person_2] would laugh harder.",
+            "[person_2] may complain or leave the room.",
+            "[person_2] will have something to eat."
+        ],
+        "reason": [
+            "Maybe [person_1] would study another skill.",
+            "The [person_2] is at right after [person_1] it and [person_1] can sit to relax.",
+            "Maybe [person_1] is nearsighted . [person_1] wears glasses to see and read easier.",
+            "Maybe [person_1] will sit in one place.",
+            "Because [person_2] is a baby , [person_2] may be afraid of being alone."
+        ]
+    }
+}

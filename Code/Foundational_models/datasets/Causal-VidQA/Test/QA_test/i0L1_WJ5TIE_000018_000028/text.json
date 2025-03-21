@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] in the video?",
+        "answer": [
+            "[person_1] and [person_1] is in the kitchen.",
+            "[person_1] is on the right hand of [person_2].",
+            "[person_1] looks handsome.",
+            "[person_1] looks young.",
+            "[person_1] is in a kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile happily?",
+        "answer": [
+            "[person_1] is walking very slowly.",
+            "Because [person_1] wants to get a thing from the other end of the table.",
+            "Because [person_1] is in figure skating class.",
+            "Because [person_1] is teaching how to play the guitar.",
+            "Because [person_1] feels funny and happy when touching the place of the belly of [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may open the light.",
+            "[person_1] may carve the back.",
+            "[person_1] may straighten his arms.",
+            "[person_1] is going to poke the hand into the belly button of [person_2].",
+            "[person_1] will obviously stop stand on the hand."
+        ],
+        "reason": [
+            "[person_1] is running in a certain direction.",
+            "[person_1] is exercising.",
+            "Because [person_1] is touching the belly button of [person_2].",
+            "[person_1] is going to have a break.",
+            "[person_1] is riding to some place."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] wears a T - shirt?",
+        "answer": [
+            "The [person_1] will know how to play accordion.",
+            "They will feel depressed.",
+            "[person_1] will walk on the road.",
+            "[person_1] may not touch the belly of [person_2].",
+            "The cup will be easily broken on the ground."
+        ],
+        "reason": [
+            "On the highway , there is traffic that causes an accident.",
+            "[person_1]'s teacher teaches all this.",
+            "[person_1] needs to go on foot to push the cart.",
+            "[person_1] would not find keeping balance difficult as much as he does now.",
+            "In this case , a T - shirt will hide the belly and belly button of [person_2] , [person_1] can not see."
+        ]
+    }
+}

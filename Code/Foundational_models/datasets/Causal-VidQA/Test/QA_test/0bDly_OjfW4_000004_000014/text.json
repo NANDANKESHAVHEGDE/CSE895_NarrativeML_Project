@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does the child have long or short hair?",
+        "answer": [
+            "Short hair.",
+            "Piggy bank is in a corner on the table.",
+            "[person_2] and [person_2] are in the street.",
+            "It's gray.",
+            "[person_1] is rectangular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the adult behind her?",
+        "answer": [
+            "Because she is given the presents.",
+            "The boy is wanting to be held by [person_2].",
+            "To increase the air pressure inner , making it easier to open it.",
+            "To prevent children from falling.",
+            "Because he is given on his birthday."
+        ]
+    },
+    "predictive": {
+        "question": "What would the [person_1] do if [person_2] cried?",
+        "answer": [
+            "[person_1] will sit on [person_2] slowly.",
+            "[person_1] would stop letting [person_2] run.",
+            "[person_1] will take out her phone.",
+            "[person_1] will leave the hall too.",
+            "[person_1] will greet with [person_2]."
+        ],
+        "reason": [
+            "Because [person_2] wants to know the feeling before her climbing up.",
+            "[person_2] seems to be a trainer and looks professional.",
+            "[person_1] has finished watching for the road.",
+            "[person_2] is not happy.",
+            "[person_1] and [person_2] are jumping up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] is tired?",
+        "answer": [
+            "[person_1] will run.",
+            "[person_1] wouldn't flip the cake.",
+            "[person_1] will continue running.",
+            "[person_1] would regret.",
+            "[person_1] will stop running."
+        ],
+        "reason": [
+            "[person_1] won't sleep.",
+            "[person_1] needs to stand and move to play basketball.",
+            "[person_1] is tired.",
+            "If [person_1] stayed on [person_1] , [person_1] might be hurt.",
+            "[person_1] will sleep."
+        ]
+    }
+}

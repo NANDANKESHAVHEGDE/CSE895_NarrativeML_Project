@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [handbag_1]?",
+        "answer": [
+            "The color of [person_1] is green.",
+            "[handbag_1] is on the table.",
+            "It is on the table.",
+            "[handbag_1] is on the cabinet.",
+            "[handbag_1] is hanging up on the wall behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a microphone?",
+        "answer": [
+            "[person_1] is doing yoga.",
+            "[person_1] needs to wear a formal suit.",
+            "[person_1] is singing.",
+            "[person_1] is working out at the gym.",
+            "[person_1] is doing a skate movement."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may clean the inside.",
+            "[person_1] is going to stack three more cups.",
+            "[person_1] may keep shaking ropes.",
+            "[person_1] is going to breath in.",
+            "[person_1] may keep sweeping."
+        ],
+        "reason": [
+            "[person_1] is a beginner.",
+            "[person_1] is bowing.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] is jumping very high.",
+            "[person_1] stops after a long shout."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell over behind [person_1]?",
+        "answer": [
+            "[person_1] may hit his head to the wall.",
+            "[person_1] would look in the direction of [person_1].",
+            "Nothing changes to the fruit.",
+            "[person_1] wouldn't be able to play the organ.",
+            "[person_1] would wave hand to say goodbye to [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] was standing close the the wall behind [person_1].",
+            "If [person_1] doesn't clear the marks on [person_1] , it will affect the beauty of [person_1] and the words on [person_1] can't be seen clearly",
+            "Because [person_1] is looking to the left side.",
+            "If [person_1] does not pick [person_1] up , [person_1] will be dirty.",
+            "Because children always like to hold toys around."
+        ]
+    }
+}

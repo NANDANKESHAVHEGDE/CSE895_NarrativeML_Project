@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall?",
+        "answer": [
+            "It's white.",
+            "The wall is blue.",
+            "The wall is white.",
+            "It is black hair.",
+            "The shirt is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] standing in the room?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] are a band and [person_1] , [person_2] and [person_3] are playing music.",
+            "[person_3] is unwrapping the presents.",
+            "Maybe [person_3] is the bride and [person_1] , [person_2] are putting on make - up for [person_3].",
+            "[person_1] is a small baby and [person_1] wants to look around.",
+            "[person_1] and [person_2] are bathing together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will continue to read the book.",
+            "[person_2] will continue to make jokes with [person_3] and [person_3].",
+            "[person_2] will continue to watch the movement of [person_2].",
+            "[person_2] will put on lipstick for [person_3].",
+            "[person_2] will probably continue opening present ."
+        ],
+        "reason": [
+            "[person_2] is taking exercise and [person_2]'s body is moving.",
+            "[person_2] has not finished practicing yet.",
+            "[person_2] used a lipstick to apply on [person_3]'s lips.",
+            "[person_2] is aiming to shoot.",
+            "[person_2] pushed his wheelchair forward and threw the ball to his teammates."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] doesn't put on lipstick?",
+        "answer": [
+            "[person_3] don't have to do anything.",
+            "Perhaps [person_3] will not look beautiful.",
+            "[person_3] will need a bath.",
+            "[person_3] and [person_3] would hurt the sheep while shearing.",
+            "Parents off [person_3] will buy more for him."
+        ],
+        "reason": [
+            "[person_3] need to go to the class.",
+            "[person_3] would be on his own.",
+            "Apply mascara will make your eyelashes curl more and your eyes become more beautiful.",
+            "It's difficult for her to paint herself , but [person_3] is too young.",
+            "Putting on lipstick can make [person_3] a beautiful bride."
+        ]
+    }
+}

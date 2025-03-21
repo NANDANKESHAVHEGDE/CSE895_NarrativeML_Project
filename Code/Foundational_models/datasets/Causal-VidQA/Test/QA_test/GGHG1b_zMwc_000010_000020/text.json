@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [car_1]?",
+        "answer": [
+            "[car_1] is in the corner of the gym.",
+            "The [car_1] is in the garden and behind the [car_1].",
+            "[car_1] is placed at the corner.",
+            "The [car_1] is standing next to an apple tree.",
+            "It\u2019s white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] walk on the rope?",
+        "answer": [
+            "[person_1] is playing and singing.",
+            "[person_1] is preparing for the competition.",
+            "[person_1] is playing music with the people around.",
+            "[person_1] is picking up fruit.",
+            "[person_1] is talking about his work."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to take out the paint roller.",
+            "It is foreseen that [person_1] will spin on the farm.",
+            "[person_1] will continue jumping.",
+            "[person_1] will keep practicing harder.",
+            "[person_1] will back up."
+        ],
+        "reason": [
+            "Because they take turns.",
+            "[person_1] is very professional.",
+            "Because the paint on the paint roller dries out.",
+            "[person_1] hasn't finished lifting the dumbbell yet.",
+            "The debris splashes everywhere."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] can't continue practice.",
+            "[person_1]'s feet will break.",
+            "[person_1] will rest.",
+            "[person_1] may be pushed away.",
+            "[person_1] will stop standing outside."
+        ],
+        "reason": [
+            "[person_1] puts her hand on [person_1].",
+            "Laughing is good for health.",
+            "[person_1] will go inside.",
+            "There is a boat near [person_1] and his partner is on the shore.",
+            "[person_1] will take a rest."
+        ]
+    }
+}

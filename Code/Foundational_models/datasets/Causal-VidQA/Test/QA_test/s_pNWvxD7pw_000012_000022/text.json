@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "The [bottle_1] is next to the shelf.",
+            "[bottle_1] is placed on the drawer.",
+            "[bottle_1] is holding a black guitar.",
+            "[bottle_1] is in a bag which is on the floor.",
+            "The [bottle_1] is to the right of the [bottle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] raising his hands up?",
+        "answer": [
+            "Because the [person_2] does not want to walk.",
+            "Because [person_2] is relaxing.",
+            "[person_2] is attracted by what [person_2] is doing.",
+            "Because [person_2] wants to take the orange objects in the bag.",
+            "To increase the air pressure inner , making it easier to open it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read the letter.",
+            "[person_1] is likely to hug [person_1].",
+            "[person_1] is going to stop playing cong.",
+            "It is possible that [person_1] will fall down the bed.",
+            "[person_1] is going to sit down."
+        ],
+        "reason": [
+            "There is a letter on [person_1]'s hands and [person_1] is opening the letter.",
+            "Maybe [person_1] and [person_1] are having a good time.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "[person_1] is lying on [person_1].",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] takes the letter on [person_1]'s hands?",
+        "answer": [
+            "The letter may be torn.",
+            "The ball will tumble to the ground.",
+            "The balloon won't explode.",
+            "[person_1] would find it easily to exercise.",
+            "Other people will help teach her the movements."
+        ],
+        "reason": [
+            "When the hand of [person_1] cramps , [person_1] feels very hurt and the hand of [person_1] can't hold the chessman.",
+            "Because [person_2] is an active baby , [person_2] may be tear the letter into pieces.",
+            "Because [person_1] will not rival [person_2] with someone else.",
+            "Because [person_2] is a boy who is willing to obey his teacher.",
+            "[person_2] is holding a plate."
+        ]
+    }
+}

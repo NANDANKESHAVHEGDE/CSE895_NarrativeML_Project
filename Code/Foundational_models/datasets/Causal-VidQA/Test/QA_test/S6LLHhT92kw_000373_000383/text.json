@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many vases are there in this video?",
+        "answer": [
+            "There is only person.",
+            "There are two vases.",
+            "It is warm and tidy.",
+            "The room is cramped.",
+            "There are three."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] and [person_2] stop to look about?",
+        "answer": [
+            "[person_1] and [person_2] are playing laser tag.",
+            "[person_1] is squeezing oranges.",
+            "[person_2] is [person_1]'s friend.",
+            "[person_1] and [person_2] listen to another person.",
+            "[person_1] and [person_2] are singing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "Perhaps [person_2] is going to throw basketball.",
+            "[person_2] will stop shadowboxing.",
+            "[person_2] may walk toward [person_2].",
+            "[person_2] will look about for something that was described by [person_1].",
+            "[person_2] may be going to struggle to lift the barbell . \u3001"
+        ],
+        "reason": [
+            "At [person_1]'s first bandage , she didn't use the binding clips to bind up the bandage , so at [person_1]'s second bandage , [person_1] will do the same thing.",
+            "The bandage has been fully wrapped up on [person_1]'s arm.",
+            "[person_2] aimed at the target for a long time , so [person_2] could be aiming at the bull's eye.",
+            "[person_2] is about to take the image and stick it into the papers under [person_1]'s hands.",
+            "[person_2] listened to [person_1] who describes what she want to find."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_2] doesn't put the white box down?",
+        "answer": [
+            "[person_2] would get hurt.",
+            "[person_1] will try again.",
+            "[person_2] can't help [person_1] efficiently.",
+            "They would be sad.",
+            "The [person_1] may try parasailing later."
+        ],
+        "reason": [
+            "Having a lot of boxes on the floor , it is so difficult to find something.",
+            "Because when he jumped , only the toes of the person stood on the cliff , so it was very dangerous.",
+            "Because [person_2]'s teammates is badly influenced by him.",
+            "After a long time of exercise , [person_2] must sweat a lot and needs to get a shower , which is good for his health.",
+            "On the off chance that [person_2] can't throw the ball to the basket , the ball will be thrown out."
+        ]
+    }
+}

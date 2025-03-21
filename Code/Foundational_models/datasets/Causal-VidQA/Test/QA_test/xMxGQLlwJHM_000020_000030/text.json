@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is next to the wall.",
+            "[chair_1] is perched on [chair_1].",
+            "The [chair_1] is behind the gong.",
+            "[chair_1] is behind the [chair_1].",
+            "[chair_1] is sitting on [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] sitting?",
+        "answer": [
+            "The knees and hips straighten out , then [person_1] raises himself into the air for power.",
+            "Because [person_1] is snatching weight lifting.",
+            "Because the [person_1] is helping the [person_2] open the gift.",
+            "To help cut the board smoothly.",
+            "[person_1] and [person_2] are in a room."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_2] going to do?",
+        "answer": [
+            "The [person_2] is going to hit the [person_2] with a pillow on the bed.",
+            "The [person_2] may pour the snow into the toy.",
+            "The [person_2] is going to take another gift from the box.",
+            "The [person_2] may drink the [person_2].",
+            "The [person_2] is going to keep taking the [person_2]."
+        ],
+        "reason": [
+            "The [person_2] is putting the right foot on the platform of the stilts.",
+            "The [person_2] is still holding the string of the dog and stepping ahead.",
+            "The [person_2] is trying to put the leg out of the mud.",
+            "The [person_2] has just put the bottle down on the table.",
+            "The [person_2] is putting the hands in the box and looking at the bottom of the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_2] could not open the box?",
+        "answer": [
+            "The [person_1] will not damage accordion of [person_1].",
+            "[person_1] will feel scared.",
+            "[person_1] will give up.",
+            "The [person_1] would open the box for the [person_1].",
+            "[person_1] will be sad."
+        ],
+        "reason": [
+            "Because he did it too fast and [person_1] spilled the cup.",
+            "The [person_1] throws the ball by hands of [person_1].",
+            "The [person_1] is next to the [person_2] and the [person_1] can open the box.",
+            "The poles help [person_1] to balance on the ground.",
+            "The broken part of the stick is sharp and [person_1] will be injured."
+        ]
+    }
+}

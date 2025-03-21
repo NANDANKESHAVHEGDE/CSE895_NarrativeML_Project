@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [tv_1]?",
+        "answer": [
+            "[tv_1] is a next to [tv_1].",
+            "It is black.",
+            "It is square.",
+            "The [tv_1] is near the [tv_1].",
+            "[tv_1] is placed on the drawer."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [chair_1] put in the room?",
+        "answer": [
+            "[person_1] is playing the lute.",
+            "[person_1] is doing the exercise.",
+            "[person_1] is riding a unicycle.",
+            "That is the concert of [person_1].",
+            "[chair_1] is put for [person_1] to sit on."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to continue stretching."
+        ],
+        "reason": [
+            "[person_1] is focusing on and touching the harp.",
+            "[person_1] has not finished her pumpkin.",
+            "[person_1] wants to relax with this game.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is in the beach."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "The room would be quiet.",
+            "[person_1] would not dance.",
+            "The room would be noisy.",
+            "[person_1] might be ill.",
+            "The room would be break."
+        ],
+        "reason": [
+            "There would be nothing making noise except for [person_1].",
+            "[person_1] is standing quite near the camera so his face looks so big.",
+            "There would be everything making noise except for [person_1].",
+            "[person_1]'s head is not protected.",
+            "There would be nothing making noise include [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like currently?",
+        "answer": [
+            "[person_1] is sawing wood.",
+            "It's next to [person_1].",
+            "It's sunny.",
+            "It is in the room.",
+            "[person_1] is using a towel."
+        ]
+    },
+    "explanatory": {
+        "question": "How did [person_1] throw the stone?",
+        "answer": [
+            "[person_1] threw it in a flat trajectory so that the stone could bounce.",
+            "Because [person_1] is showing how to play it.",
+            "Because [person_1] was still young and could not stand still.",
+            "Because [person_1] was working out.",
+            "Because [person_1] accepts the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue throwing the stones.",
+            "[person_1] will put down the snorkel.",
+            "[person_1] is going to continue opening the gift.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] is going to have a meal."
+        ],
+        "reason": [
+            "[person_1] looks like [person_1] is having fun.",
+            "[person_1] is opening present.",
+            "[person_1] feels tired feet.",
+            "[person_1] is measuring .",
+            "[person_1] is playing with cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "[person_1] would come back home.",
+            "Their journey might be put to a halt.",
+            "[person_1] would go inside.",
+            "They would evacuate and take shelter in tents.",
+            "[person_1] could not teach [person_1] to ride skateboard."
+        ],
+        "reason": [
+            "Because they are in an open - air ground and there are nothing above them to protect them from getting wet by the rain.",
+            "The cage of the animals does not have a roof.",
+            "There are many tents that have been set up outside.",
+            "They could not travel under the rain without raincoat ; furthermore , they does not seem to be in a hurry.",
+            "There are many tents that have been set up around."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [microwave_1]?",
+        "answer": [
+            "The sweater is white.",
+            "The [microwave_1] is behind [microwave_1].",
+            "The [microwave_1] is behind the [microwave_1].",
+            "The [microwave_1] is on the shelve behind [microwave_1].",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] is squeezing oranges with a juicer.",
+            "[person_1] is exercising.",
+            "[person_1] is singing and dancing at the same time.",
+            "[person_1] may just take up skating.",
+            "[person_1] is introducing how to do massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after squeezing the orange?",
+        "answer": [
+            "[person_1] will pass here after the person in front of him.",
+            "[person_1] will keep the fire in the cup.",
+            "[person_1] will complete laying stone.",
+            "[person_1] is going to drink the juice.",
+            "The [person_1] may have another pose."
+        ],
+        "reason": [
+            "It seems that [person_1] wants to taste it.",
+            "Because [person_1] and [person_1] are both excited.",
+            "The person next to [person_1] could be a customer.",
+            "The [person_1] has taken the red box and the [person_1] is looking at the red box.",
+            "The [person_1] has just taken another snowball and has run."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] eat all oranges?",
+        "answer": [
+            "[person_1] will step on the big hoop.",
+            "[person_1] who wears a hat would have a nasty tumble.",
+            "[person_1] will fall down to the floor and get injured.",
+            "[person_1] could not make orange juice.",
+            "[person_1] finds a place for a shelter."
+        ],
+        "reason": [
+            "There are a lot of athletes at the pool.",
+            "[person_1] may choose to drink juice after he feels upset.",
+            "The tissue paper is very thin and soft . Cylinder objects should be wrapped in tissue paper instead of wrapping paper.",
+            "The curtains blocked out the sun.",
+            "There would be no oranges left for [person_1] to squeeze."
+        ]
+    }
+}

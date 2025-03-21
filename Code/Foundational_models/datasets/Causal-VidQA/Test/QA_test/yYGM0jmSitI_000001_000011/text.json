@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding [bottle_1].",
+            "[person_1] is holding an underwear.",
+            "[person_1] and [person_1] are in the barber shop.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold [cup_1]?",
+        "answer": [
+            "[person_1] is opening a present.",
+            "[person_1] holds [cup_1] to pour beer into it.",
+            "[person_1] and [person_1] are just starting to play chess.",
+            "[person_1] is helping [person_1] to do physical therapy exercises.",
+            "[person_1] and [person_1] are performing circus."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "[person_1] is going to drink water.",
+            "[person_1] is going to drink beer in the [cup_1].",
+            "[person_1] will collect honey.",
+            "[person_1] is going to hit the ball."
+        ],
+        "reason": [
+            "[person_1] is holding the flute and is about to play.",
+            "Because [person_1] has just poured beer into [cup_1].",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "Because [person_1] steps aside it.",
+            "When [person_1] jumps off the pool , he floats and prepares to swim."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the [bottle_1]?",
+        "answer": [
+            "The hat will be dirty.",
+            "[person_1] will continue to practice.",
+            "She may stop dancing and try on other fitness equipment.",
+            "[person_1] will dance alone.",
+            "[bottle_1] will be broken."
+        ],
+        "reason": [
+            "They are jumping the rope in a group . 2 people in the group can't always hold the rope and don't jump.",
+            "[person_1] wears shorts and it seems he is good at swimming.",
+            "Tight bandage will make people feel uncomfortable . So , people will adjust it till they feel comfortable.",
+            "Or else the clothes may open and that's not appropriate.",
+            "Because [bottle_1] is made of glass."
+        ]
+    }
+}

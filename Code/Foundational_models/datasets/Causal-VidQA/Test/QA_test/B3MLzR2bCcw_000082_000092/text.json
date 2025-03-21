@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] is tall and fat.",
+            "[person_1] looks a bit fat.",
+            "[person_1] is holding a gong and a gong stick.",
+            "[person_1] is a pretty girl.",
+            "[person_1] looks very tall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding the microphone?",
+        "answer": [
+            "Because the [person_1] put his hand inside the doll.",
+            "Because [person_2] proposes successfully.",
+            "Because the [person_1] does not want to walk.",
+            "The [person_2] wants to sit down.",
+            "Because [person_2] is holding the microphone for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to not eat.",
+            "[person_1] want to exercise with the exercising ball.",
+            "[person_1] will continue snowmobiling.",
+            "[person_1] is going to play the flute.",
+            "[person_1] is going to continue eating."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is holding the flute and playing it.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is facing [person_1].",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't hold the microphone?",
+        "answer": [
+            "[person_2] will teach [person_1] to clap.",
+            "[person_1] will fall into the water.",
+            "[person_1] will need a microphone in front.",
+            "He will starts to eat some strawberries first.",
+            "[person_1] and [person_2] would sleep together."
+        ],
+        "reason": [
+            "The man needs the notebook to continue his talk.",
+            "The [person_1] is observing the [person_2] does.",
+            "[person_1] can bring good flute sound to everyone.",
+            "Because behind [person_1] is a cliff.",
+            "Because [person_1] will not see anything in the darkness."
+        ]
+    }
+}

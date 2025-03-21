@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on the [dining table_1].",
+            "[dining table_1] is on the left of [dining table_1].",
+            "[cup_1] is on the table and behind [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stacking cups?",
+        "answer": [
+            "Because she is very happy for she successfully opens the beer by her hand.",
+            "The [person_1] is picking an apple underneath.",
+            "[person_1] is watching the band.",
+            "[person_1] is jumping to throw balls.",
+            "Perhaps [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to jump high.",
+            "[person_2] is going to clean the car window.",
+            "[person_2] is going to continue playing the guitar.",
+            "[person_2] is going to spit out watermelon seeds.",
+            "[person_2] is going to start stack cups."
+        ],
+        "reason": [
+            "[person_2] is waiting for [person_1] to finish playing.",
+            "[person_2] has not finished her song yet.",
+            "[person_2] is using [person_2] to stir over and over.",
+            "[person_2] has a camera in his hand.",
+            "[person_2] stood at the starting point and prepared to jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will win.",
+            "It is a problem for [person_1] to do exercise when he has no way but to choose things of [person_1].",
+            "[person_1] will be lose.",
+            "[person_1] will bump into [person_1].",
+            "[person_1] will use the bricks as a gun."
+        ],
+        "reason": [
+            "Because [person_1] is a boy and the basketball is heavy.",
+            "[person_1] maybe unhappy.",
+            "Because the winning standard is fast.",
+            "Because [person_1] can pretend it to be real.",
+            "[person_1] will be lose"
+        ]
+    }
+}

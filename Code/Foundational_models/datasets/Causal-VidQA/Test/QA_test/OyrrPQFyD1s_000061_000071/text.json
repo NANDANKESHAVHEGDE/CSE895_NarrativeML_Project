@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Did [person_1] cry?",
+        "answer": [
+            "[person_1] is on the basketball yard.",
+            "It is opposite the [person_1] in the room.",
+            "Yes , [person_1] is very depressed.",
+            "It is \u00a0 behind the [person_1].",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_1] allowed to play?",
+        "answer": [
+            "Because [person_1] wants to spend much time with his violin in a quiet place.",
+            "Because [person_1] does not want to be tackled and falls to the ground.",
+            "The [person_1] wanted to hit other players.",
+            "Because this is a two - person game.",
+            "Because [person_1] needs his arms to comfortable."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do if losing the game?",
+        "answer": [
+            "[person_2] may leave.",
+            "[person_1] will be invited.",
+            "[person_2] may stop dancing.",
+            "[person_1] will turn the page.",
+            "They will talk to each other."
+        ],
+        "reason": [
+            "[person_2] looks interested in their performance.",
+            "Because [person_2] just showed him how to dance.",
+            "Because they won't keep him waiting too long.",
+            "Because they keep each other company during this journey.",
+            "[person_2] feels dizzy after turning around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] strongly commands to join the game?",
+        "answer": [
+            "[person_1] can't jump.",
+            "[person_1] will be more interested.",
+            "[person_1] would feel too bad.",
+            "The game will end.",
+            "[person_1] would be injured."
+        ],
+        "reason": [
+            "The lifts might crush her feet seriously.",
+            "The fragments of the wall will get him hurt.",
+            "It's not their turn yet.",
+            "[person_1]'s friend disturbs [person_1].",
+            "Because other two are annoyed with his command."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is white.",
+            "It is purple.",
+            "It is pink.",
+            "It is black and white.",
+            "They are black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there many people around?",
+        "answer": [
+            "[person_1] is spraying a cupboard.",
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is doing a plunge.",
+            "They are here to watch the skating performance.",
+            "[person_1] feels comfortable while exercising."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the competition begins?",
+        "answer": [
+            "[person_1] will have some other activities.",
+            "[person_1] will show the next step.",
+            "[person_1] might eat [person_1] on the table.",
+            "[person_1] will continue the training.",
+            "[person_1] will skate forward with a rapid speed."
+        ],
+        "reason": [
+            "After [person_1] got the ball , he made a move to hit the opposite person.",
+            "[person_1] will hold [person_1]'s right leg next because [person_1] keeps switching legs and now [person_1] is holding her left leg.",
+            "It is obvious that there are some cups on the table and [person_1] prepares for taking them.",
+            "Because [person_1] seems to be a professional actor and it is her work.",
+            "Because [person_1] has to finish the show."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] tripped and fell?",
+        "answer": [
+            "The iron might be broken.",
+            "Then he may not kick the dick of [person_1].",
+            "Maybe [person_1] will stop spending time playing baseball.",
+            "[person_1] won't be able to continue practicing.",
+            "The performance would be ruined."
+        ],
+        "reason": [
+            "The room is dark and dangerous.",
+            "[person_1] will relax.",
+            "[person_1]'s legs are soft.",
+            "Because it was a cooperative performance between a lot of roller - skaters in public.",
+            "[person_1] turned away."
+        ]
+    }
+}

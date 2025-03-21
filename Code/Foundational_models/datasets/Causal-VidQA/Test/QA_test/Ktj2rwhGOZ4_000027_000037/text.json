@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside , standing in front of a large door.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is selling goods at the market.",
+            "[person_1] is in a room.",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is unwrapping a doll.",
+            "[person_2] is playing roller skating.",
+            "[person_2] is \u00a0 somersaulting with the sports ball.",
+            "[person_2] is practicing roller skating.",
+            "Because [person_2] needs a big room to play musical instruments with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to dance up and down.",
+            "[person_2] is going to start reading.",
+            "[person_2] is going to keep playing the harp.",
+            "[person_2] is going to have fun with the gift.",
+            "[person_2] is going home."
+        ],
+        "reason": [
+            "[person_2] looks joyous.",
+            "[person_2] brought his shirt forward while jumping.",
+            "[person_2] wants to show her love for the baby.",
+            "[person_2] is holding the chess piece.",
+            "[person_2] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the doll is beautiful?",
+        "answer": [
+            "[person_2] will like it so much.",
+            "He can not sing if there is no music.",
+            "[person_2] will hate it so much.",
+            "[person_2] would get injured.",
+            "[person_2] will like it so little."
+        ],
+        "reason": [
+            "Because they can learn from their teacher.",
+            "[person_2] will hate this gift.",
+            "[person_2] doesn't seem to know how to play the keyboard.",
+            "[person_2] will appreciate this gift.",
+            "They do not protect him well"
+        ]
+    }
+}

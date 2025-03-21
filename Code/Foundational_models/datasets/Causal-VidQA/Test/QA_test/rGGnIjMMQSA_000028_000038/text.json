@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the accordion.",
+            "[person_1] is doing some tai chi moves.",
+            "[person_1] is opening the gift.",
+            "[person_1] is doing tai chi moves.",
+            "[person_1] is proposing to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_5] moving?",
+        "answer": [
+            "[person_5] wants to get the gift.",
+            "[person_5] is showing how to press juice out of orange with a juicer.",
+            "[person_5] wants to do sports.",
+            "[person_5] is here to play drums.",
+            "[person_5] is talking about how to tie a bow."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep the present on a side.",
+            "[person_1] is going to have a meal.",
+            "[person_1] is going to keep beating.",
+            "[person_1] is going to play baseball.",
+            "[person_1] may go back home."
+        ],
+        "reason": [
+            "[person_1] is dancing very enthusiastically.",
+            "[person_1] holding a water bottle.",
+            "[person_1] feels cold sitting on the floor.",
+            "When [person_2] finishes unwrapping the gift , [person_1] takes it on one side.",
+            "[person_1] almost dropped the plate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cannot open the box?",
+        "answer": [
+            "the pants of [person_1] will get dirty because of the shoe.",
+            "[person_1] will eat something instead burger.",
+            "[person_1] will open it for [person_2].",
+            "[person_1] will feel sad.",
+            "[person_1] will get hurt."
+        ],
+        "reason": [
+            "The baby is so happy because someone hug him.",
+            "When [person_2] open the box , [person_1] sits aside and helps her.",
+            "[person_1] and [person_2] will lean forward.",
+            "There are 2 people in the video so [person_1] can ask [person_2] to help her open the bottle.",
+            "The right hand of [person_1] have to pluck the strings to make them vibrate."
+        ]
+    }
+}

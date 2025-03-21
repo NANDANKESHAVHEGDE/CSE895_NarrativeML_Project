@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting outside with his friend.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is standing on the side of a busy road.",
+            "[person_1] is sitting on the floor in a bedroom.",
+            "[person_1] is in a small library."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is riding a unicycle.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing flute . May be [person_1] is doing it for fun.",
+            "[person_1] is playing with water.",
+            "[person_1] is weaving a basket."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to pull the fish up.",
+            "[person_1] will ask her parents for help.",
+            "[person_1] is going to continue playing.",
+            "[person_1] will share his work with the camera.",
+            "[person_1] will let the maracas down."
+        ],
+        "reason": [
+            "[person_1] will practice harder.",
+            "They have not started yet . They are standing there.",
+            "[person_1] needs to use the machine to copy something.",
+            "Because if you lose , you will be punished . This is the rule.",
+            "[person_1] is very focused."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] may not keep playing didgeridoo.",
+            "People at the scene may get wet.",
+            "[person_1] will stop jumping long.",
+            "[person_1] will stop measuring the long jump.",
+            "[person_1] will go inside."
+        ],
+        "reason": [
+            "[person_1] will come back home.",
+            "There are few places to hide from the rain nearby.",
+            "[person_1] will get wet.",
+            "[person_1] and [person_1] need a shelter.",
+            "[person_1] will stay away from the rain."
+        ]
+    }
+}

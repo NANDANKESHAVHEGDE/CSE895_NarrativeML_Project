@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is on the floor.",
+            "[chair_1] is beneath [person_1].",
+            "[chair_1] is seated by [person_1].",
+            "It is on the right hand of [person_1].",
+            "[chair_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a didgeridoo in hand?",
+        "answer": [
+            "[person_1] is playing didgeridoo by blowing air into it.",
+            "both [person_1] and [person_1] are creating supportive wall for each other to lean on.",
+            "[person_1] keeps going back and forth to find a gift [person_1] likes.",
+            "[person_1] is exercising.",
+            "[person_1] is playing bagpipe - a traditional instrument."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may have a rest.",
+            "[person_1]'ll pull the bike out of the snow.",
+            "[person_1] will have a rest next.",
+            "[person_1] will have a rest.",
+            "[person_1] will continue to play didgeridoo."
+        ],
+        "reason": [
+            "[person_1] is not likely to stop practicing.",
+            "It is heavy rainy.",
+            "[person_1] wears skates , holds a ice hockey stick and skates around the ice rink.",
+            "Because the bike got stuck.",
+            "It seems [person_1] is very enthusiastic about playing didgeridoo."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [baseball bat_1] breaks?",
+        "answer": [
+            "[person_1] will probably stop practicing.",
+            "[person_1] and [person_1] will try [person_1] and [person_1]'s best to control the dog and then take that person to the hospital.",
+            "[person_1] will be very sad.",
+            "They would continue to play the game.",
+            "[person_1] will have to go to the practice house."
+        ],
+        "reason": [
+            "[person_1] cannot play [baseball bat_1] anymore.",
+            "Because the fence is made of wood.",
+            "[baseball bat_1] falls from a high distance.",
+            "Oranges are easy to squeeze out by hand . So she might still squeeze oranges by hand if the orange juicer broke.",
+            "Because the scooter can not be used in a crowded place."
+        ]
+    }
+}

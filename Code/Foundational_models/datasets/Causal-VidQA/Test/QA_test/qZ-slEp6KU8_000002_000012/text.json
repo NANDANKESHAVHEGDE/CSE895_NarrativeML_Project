@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "It is \u00a0 white.",
+            "It is purple.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "Maybe [person_1] is listening to music.",
+            "Because [person_1] is playing the big gong.",
+            "[person_1] is playing flute alone.",
+            "Because [person_1] is playing the toy organ.",
+            "[person_1] is washing his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may cheer up.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] may hug others.",
+            "[person_1] may put the milk in the fridge.",
+            "[person_1] is going to keep playing the toy organ on the floor."
+        ],
+        "reason": [
+            "[person_1] is a coach.",
+            "[person_1] fell under the bed.",
+            "[person_1] still holds the broom.",
+            "[person_1] still touching the keyboard.",
+            "[person_1] has many other bottles on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the toy organ was broken?",
+        "answer": [
+            "[person_1] may go to work.",
+            "[person_1] may not have time to show his skills.",
+            "[person_1] will find a phone.",
+            "Maybe they can't put something.",
+            "[person_1] would not be able to play the toy organ."
+        ],
+        "reason": [
+            "The person on the right side seems to be responsible for sieving the soil.",
+            "[person_1] wouldn't be injured.",
+            "Because it's dark outside at night and you can't see things clearly.",
+            "Those woods are too big to plane by hand.",
+            "Because the toy organ would not work."
+        ]
+    }
+}

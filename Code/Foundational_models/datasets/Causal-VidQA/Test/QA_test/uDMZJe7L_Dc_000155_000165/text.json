@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is perched on [chair_1].",
+            "The [chair_1] is on the left side of the road.",
+            "The [chair_1] is next to the window.",
+            "The [chair_1] is next to the [chair_1].",
+            "[chair_1] is sitting on the [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] look at the bottom of the box?",
+        "answer": [
+            "Because [person_1] is doing stretching exercises.",
+            "The [person_1] wanted to check if there's any toy remaining in the box.",
+            "Because [person_1] is playing the violin with his friends in the room.",
+            "Maybe [person_1] is taking part in a competition on playing the lute.",
+            "Because [person_1] is lifting weights."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may keep playing accordion with the person who is playing drum.",
+            "The [person_1] may stop playing accordion.",
+            "The [person_1] is going to take another gift to open.",
+            "The [person_1] may keep running.",
+            "The [person_1] may turn and wash up."
+        ],
+        "reason": [
+            "The [person_1] is still holding the paper and standing next to the screen.",
+            "The [person_1] has already thrown a snowball toward the [person_1].",
+            "The [person_1] is turning behind and putting the left hand to the position of the gifts.",
+            "The [person_1] plays the song by using a piano accordion.",
+            "The [person_1] catches the ball and shoots the ball more than three times."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] didn't look at the bottom of the box?",
+        "answer": [
+            "The [person_1] would miss out some thing in the box.",
+            "The fried chicken legs will stick together.",
+            "[person_1] will go back.",
+            "It would be easier for him to finish his work.",
+            "Maybe [person_1] would hit her body on the floor."
+        ],
+        "reason": [
+            "It's illegal to sell fake medicine.",
+            "[person_1] can't see the eyebrows clearly.",
+            "There are toys in the box.",
+            "[person_1] can't see the eyebrows clearly.",
+            "The lights will be off."
+        ]
+    }
+}

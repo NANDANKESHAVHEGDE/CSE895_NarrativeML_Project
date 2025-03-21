@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is singing a song of her.",
+            "[person_1] is doing an exercise.",
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] is stuffing paper into the machine.",
+            "[person_1] intends to open the bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] step next to [person_1]?",
+        "answer": [
+            "[person_2] uses the stick to poke the cork.",
+            "Because [person_1] is chasing [person_2].",
+            "[person_2] is guiding [person_1] to do an exercise right way",
+            "[person_1] is learning how to ride unicycle.",
+            "Because [person_1] wants to propose loudly."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to print something.",
+            "[person_1] may press the fold against the paper.",
+            "[person_1] will keep riding the mechanical bull.",
+            "[person_1] will hold the mechanical bull tighter.",
+            "[person_1] may still keep doing her exercise."
+        ],
+        "reason": [
+            "[person_1] will pull her leg back and slide it again.",
+            "[person_1] does not breath out all the smoke when inhaling.",
+            "[person_1] is skating while moving with other people in the center.",
+            "[person_1] is smoking a pipe.",
+            "[person_1] is folding the paper into the shape of an airplane."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't guide [person_1]?",
+        "answer": [
+            "[person_1] will score points for his team.",
+            "[person_1] might have an injury during her exercise.",
+            "[person_1] will be knocked down by the skater.",
+            "[person_1] might have an injury before her exercise.",
+            "[person_2] would get injured."
+        ],
+        "reason": [
+            "When [person_1] focuses on the fire , [person_1] can not control [person_2].",
+            "If [person_2] doesn't guide [person_1] , [person_1] will not know what to do and does it wrong.",
+            "If [person_1]'s treat is useful , [person_1] will promote him , so more and more people will know [person_1].",
+            "If [person_2] guide [person_1] , [person_1] will not know what to do and does it wrong.",
+            "[person_1] can't show the good effect of the hair conditioner to the audience , once [person_1] can't open it . So [person_1] will ask someone for help or change a new one."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is moving the tire.",
+            "[person_1] is sitting on the ground.",
+            "[person_1] is roller blading.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is stacking the dice on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] move the tire?",
+        "answer": [
+            "[person_1] wants to practice moving with the ball in field hockey.",
+            "To propose to [person_1].",
+            "It is moved to a space it should stay at.",
+            "It makes [person_1] smash easily.",
+            "The glass piece is sharp . It can deal with the foil."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will place the tire at some corner in this room.",
+            "[person_1] may keep on skateboarding.",
+            "[person_1] will continue pulling the weights.",
+            "[person_1] will activate the printer.",
+            "[person_1] will stop."
+        ],
+        "reason": [
+            "To put some better components in the power drill.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "[person_1] is swimming back.",
+            "[person_1] is moving the tire.",
+            "Because [person_1] does not finish."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] was too tired?",
+        "answer": [
+            "[person_1] can't play basketball.",
+            "[person_1] would take a break firstly.",
+            "[person_1] would have to re - enact the scene.",
+            "[person_1] would take a break never.",
+            "There might be an accident."
+        ],
+        "reason": [
+            "The tire is very heavy but he has spent none of his energy before.",
+            "Because the lights are illuminating a part of the room.",
+            "The tire is not heavy but he has spent all his energy before.",
+            "Because the food is fresh out of the pan and still hot.",
+            "The tire is very heavy but he has spent all his energy before."
+        ]
+    }
+}

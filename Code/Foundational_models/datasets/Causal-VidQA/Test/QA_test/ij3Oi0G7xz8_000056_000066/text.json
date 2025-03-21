@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is gray.",
+            "It is white.",
+            "It is black.",
+            "Blue.",
+            "It is a hat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on stage?",
+        "answer": [
+            "[person_2] feels happy watch [person_2] bringing the gift.",
+            "The [person_2] is going for walk.",
+            "Perhaps [person_2] loves it.",
+            "Maybe [person_2] is performing.",
+            "Because [person_2] is doing a concert."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will start singing.",
+            "[person_2] is highly likely to play cello.",
+            "[person_2] will help adjust [person_2]'s position.",
+            "[person_2] will continue to hug [person_2].",
+            "[person_2] will continue installing."
+        ],
+        "reason": [
+            "Because [person_2] wants to do well.",
+            "Maybe [person_2] is about to finish the performance.",
+            "Because [person_2] seems to be [person_2]'s trainer.",
+            "Maybe [person_2] is happy.",
+            "[person_2] is pointing at the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] and [person_2] will stop eating.",
+            "[person_1] and [person_2] will continue performing.",
+            "[person_2] maybe afraid.",
+            "[person_1] and [person_2] will stop performing.",
+            "[person_1] maybe stop eating."
+        ],
+        "reason": [
+            "The show will succeed.",
+            "The room will be dark.",
+            "The show will fail.",
+            "It's daytime outside.",
+            "The show won't fail."
+        ]
+    }
+}

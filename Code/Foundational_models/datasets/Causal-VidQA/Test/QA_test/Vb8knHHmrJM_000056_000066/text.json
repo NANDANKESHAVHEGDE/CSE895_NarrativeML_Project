@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is behind [person_1]?",
+        "answer": [
+            "That is a bed.",
+            "[person_1] is at the beach.",
+            "[person_1] is on the basketball court.",
+            "[person_1] is in the competition.",
+            "[person_1] is on the balcony."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a cup?",
+        "answer": [
+            "[person_1] uses the cup to take the dice.",
+            "Because [person_1] wants to tear the paper apart.",
+            "The [person_1] is harvesting apples and the apple branches are high.",
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] is playing the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will pick up the baby.",
+            "[person_1] is going to move the dices to the table.",
+            "Maybe [person_1] is going to start taking photo.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] may put the flowers in [person_1]."
+        ],
+        "reason": [
+            "[person_1] puts the cup on a stack of the dice.",
+            "[person_1] is holding the bottle.",
+            "[person_1] is [person_1]'s partner.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is holding a glass of water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] can't hold the dices any longer?",
+        "answer": [
+            "[person_1] would practice once more time.",
+            "[person_1] would get hurt.",
+            "[person_1] will fall immediately.",
+            "He will shout for help.",
+            "A stack of the dice will tumble on the table."
+        ],
+        "reason": [
+            "Because there is a lot of ingredients remain in [person_1].",
+            "It is so difficult to hold a stack of the dice.",
+            "As he interrupts others , he may apologize to the owner and find another place to play music.",
+            "Because the cramps make [person_1] can't continue to plaster the wall.",
+            "There are a lot of cars around."
+        ]
+    }
+}

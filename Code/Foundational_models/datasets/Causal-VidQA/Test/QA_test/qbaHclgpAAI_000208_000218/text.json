@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [person_1] standing now?",
+        "answer": [
+            "[person_1] is wearing glasses.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is on the left of [person_1].",
+            "No , the [person_1] is not . The [person_1] is sitting down on the chair.",
+            "[person_1] is wearing a bow tie."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] touch the bass buttons?",
+        "answer": [
+            "The [person_1] touches the bass buttons to play accordion.",
+            "Maybe [person_1] thinks it's food.",
+            "The [person_1] is looking for something in the refrigerator.",
+            "Because [person_1] wants to touch her belly button.",
+            "Because [person_1] is playing guitar and whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may play the song that [person_1] enjoys.",
+            "The [person_1] may keep taking the [person_1] and the [person_1].",
+            "The [person_1] may go around and look for the shot put ball.",
+            "[person_1] will stretch the body.",
+            "The [person_1] may take another snowball to throw toward the [person_1]."
+        ],
+        "reason": [
+            "The [person_1] follows the music notes song when touches the bass buttons.",
+            "The [person_1] plays the song by using a piano accordion.",
+            "The [person_1] is still taking the shovel and bowing by the snow.",
+            "The [person_1] has already thrown a snowball toward the [person_1].",
+            "[person_1] is running and looking at the ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] does not use elbow of [person_1] to play accordion?",
+        "answer": [
+            "[person_1] may let off the hand of [person_1].",
+            "[person_1] will be attacked.",
+            "[person_1] might cry.",
+            "The [person_1] can play accordion and hold it balance.",
+            "[person_1] will get another suitable tire."
+        ],
+        "reason": [
+            "The fire will burn [person_1]'s fingers.",
+            "The [person_1] uses bass fingers of [person_1] properly.",
+            "Because [person_1] is trying the hard eat.",
+            "Because [person_1] is too big for a small person like [person_1].",
+            "The liquid is in the pipe so when the pipe is on [person_1] the liquid will be in [person_1]."
+        ]
+    }
+}

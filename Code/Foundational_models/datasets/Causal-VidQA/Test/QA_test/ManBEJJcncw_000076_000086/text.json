@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [cup_1]?",
+        "answer": [
+            "[person_1] is on the [cup_1].",
+            "Yes.",
+            "[cup_1] is behind [person_1].",
+            "It is in a training room.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "why did the person rip paper?",
+        "answer": [
+            "The Santa Claus give for him.",
+            "the person ripped paper to make [person_1] laugh.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is playing water slide.",
+            "The [person_1] enjoys the sound from accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing what the person does?",
+        "answer": [
+            "[person_1] may quit the game.",
+            "[person_1] will stomp his right foot back.",
+            "[person_1] will take a rest at sofa . ",
+            "[person_1] will stand up quickly.",
+            "[person_1] will burst into laughter . "
+        ],
+        "reason": [
+            "[person_1] feels so sad.",
+            "The [person_1] made the bar fall while jumping.",
+            "It seems that [person_1] is quite happy with a smile on his face.",
+            "It is obvious that [person_1] feels happy to own a toy car.",
+            "[person_1]'s right hand will hold the blue pen and hit the table because [person_1]'s right hand is going down."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] didn't get distracted?",
+        "answer": [
+            "[person_1] will feel it is not suitable for the present.",
+            "the person would have to find another way to get attention of [person_1].",
+            "Maybe [person_1] is going to play with the toy on the table.",
+            "[person_1] is would very sad.",
+            "Maybe [person_1]'s team will win."
+        ],
+        "reason": [
+            "the person ripped the paper to distract [person_1].",
+            "Because [person_1] may fall when walking with the supervisor.",
+            "Because [person_1] may fall from the stair when no one were there to help.",
+            "[person_1] needs [person_1] to help her.",
+            "because [person_1] could not dance without her partner."
+        ]
+    }
+}

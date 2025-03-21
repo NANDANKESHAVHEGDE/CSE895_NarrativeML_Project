@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [chair_1] big?",
+        "answer": [
+            "[chair_1] is behind the [chair_1].",
+            "It is behind the [chair_1].",
+            "[chair_1] is placed on the ground.",
+            "[chair_1] is on the wall.",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is seeing a drawing.",
+            "[person_1] is going out with his family.",
+            "[person_1] is talking about chess.",
+            "[person_1] is stacking the cups.",
+            "[person_1] is seeing [person_2]'s gifts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to go picking up the ball.",
+            "[person_2] is going to read the book aloud.",
+            "[person_2] is going to eat the rest of the donut hanging in front of her.",
+            "[person_2] is going to take something on the right.",
+            "[person_2] is going to receive other gifts."
+        ],
+        "reason": [
+            "Because [person_2] wants to reply the hug of [person_2].",
+            "[person_2] is very confident.",
+            "Because a girl just handled [person_2] a microphone.",
+            "[person_2] has very good technique.",
+            "A person is holding a gift next to [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] receives a lot of best wishes?",
+        "answer": [
+            "Maybe [person_1] will feel fretful.",
+            "[person_1] will feel lucky.",
+            "They might be lying in the ground.",
+            "Perhaps [person_1] will come back home immediately.",
+            "[person_1] will get hurt by the bomb."
+        ],
+        "reason": [
+            "The baby is interesting in reading books.",
+            "The weights is too heavy.",
+            "They seem too young to standing.",
+            "Everyone needs good wishes on special days.",
+            "[person_1] stands behind the machine."
+        ]
+    }
+}

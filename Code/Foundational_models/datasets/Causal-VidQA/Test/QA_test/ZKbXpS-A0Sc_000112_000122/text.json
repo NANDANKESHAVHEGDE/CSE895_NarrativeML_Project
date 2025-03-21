@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] wear?",
+        "answer": [
+            "It is white and it is very clean.",
+            "It is white.",
+            "No , the [person_1] is not . The [person_1] is wearing a hat.",
+            "[person_1] wears a shirt.",
+            "It is tall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing a wheelchair?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] and [person_1] are daring to skate.",
+            "[person_1] wants to wear the sweater.",
+            "[person_1] and [person_1] are performing circus.",
+            "Maybe [person_1] wants to take the wheelchair somewhere."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is probable that [person_1] will join his team and the team is taking a break.",
+            "[person_1] may take off [person_1]'s gloves.",
+            "It is anticipated that [person_1] will take the wheelchair somewhere.",
+            "[person_1] may send the crocodile to another person.",
+            "[person_1] may stop exercising and sit down on the ground for a while."
+        ],
+        "reason": [
+            "Because [person_1] has tried hard to do rope climbing which will let [person_1] be tired.",
+            "Because [person_1] has brought out the plates , [person_1] doesn't need gloves anymore.",
+            "To get massage at [person_1]'s waist.",
+            "[person_1] hand is touching the strings.",
+            "[person_1] is pushing the cart very fast."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] and [person_1] may go home.",
+            "[person_1] and [person_1] will be wet.",
+            "[person_1] and [person_1] may not keep playing.",
+            "[person_1] will push the cart quickly into the building.",
+            "[person_1] will get wet."
+        ],
+        "reason": [
+            "[person_1] does not have an umbrella.",
+            "[person_1] couldn't find a rain shelter.",
+            "[person_1] will get wet if it rains.",
+            "Because [person_1] can't practice at rainy days.",
+            "There is no shelter outside , [person_1] and [person_1] will enter the house."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is showing the inhaler.",
+            "[person_1] is sitting on the [chair_2].",
+            "[person_1] is covering his head.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is knocking the fruit by palm."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_2]?",
+        "answer": [
+            "[person_1] and [chair_2] are singing.",
+            "[person_1] and [chair_2] are playing laser tag.",
+            "[person_1] is sitting on the [chair_2] to arrange the dice and stack.",
+            "Because [person_1] is making him laugh by tickling him.",
+            "Because [person_1] is holding a sleeping baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will close the door.",
+            "Perhaps [person_1] is going to sleep.",
+            "[person_1] is going to feed the [person_1].",
+            "[person_1] is going to kneel on the ground.",
+            "[person_1] is going to start stacking the dice on the table."
+        ],
+        "reason": [
+            "[person_1] is wearing a uniform and is squeezing oranges.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] is holding the filter with something white inside.",
+            "[person_1] has hit the ball away.",
+            "[person_1] lined up the dice carefully and started swinging the cup to pick them up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the dice weren't line up carefully?",
+        "answer": [
+            "The [person_1] will change another one.",
+            "[person_1] will ride the horse.",
+            "[person_1] would bend down to pick the plate up.",
+            "Maybe [person_1] couldn't stack the dice successfully.",
+            "[person_1] will continue to work."
+        ],
+        "reason": [
+            "Because the flowerpot can only be colored after it has been calcined and been hard.",
+            "Because he needs to let other things to carry him.",
+            "There will be less , even no people here and he can not get so much money.",
+            "The work would take longer to complete because it is only one person's effort.",
+            "It is easy to stack if the dice are lined up."
+        ]
+    }
+}

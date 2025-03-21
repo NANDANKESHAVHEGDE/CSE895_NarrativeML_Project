@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [cup_1] made of?",
+        "answer": [
+            "The bookshelf is behind [cup_1].",
+            "Yes.",
+            "[cup_1] near [cup_1].",
+            "It is made of glass.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] squeezing orange?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] wants to make sure that [person_1] won't fall.",
+            "[person_1] wants to have a cup of orange juice.",
+            "[person_1] is using [person_1] to squeeze oranges.",
+            "[person_1] and [person_1] are playing together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after squeezing the orange?",
+        "answer": [
+            "[person_1] will speed up.",
+            "[person_1] may shave the cube a few more times.",
+            "[person_1] will open it at once.",
+            "[person_1] will take the thing out of the machine.",
+            "[person_1] will drink the orange juice."
+        ],
+        "reason": [
+            "It seems that [person_1] wants to taste it as soon as possible.",
+            "[person_1] can't open their gift completely because she's a baby.",
+            "[person_1] loves cake that has orange flavor.",
+            "[person_1] will not have to wear it.",
+            "[person_1] has driven the machine back to the depot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't have any cups?",
+        "answer": [
+            "[person_1] would have kept snowboarding.",
+            "[person_1] will collect the chessman.",
+            "[person_1] would find priest to ask for one.",
+            "[person_1] would use a bowl to contain juice.",
+            "[person_1] would not give the food to [person_1]."
+        ],
+        "reason": [
+            "[person_1] needs something to contain juice while squeezing.",
+            "There would be only [person_1] and [person_1] there.",
+            "The bubble spouts out to far place.",
+            "There would be only [person_1] sitting on [person_1] at the beginning.",
+            "[person_1] moves for [person_1] to follow moving."
+        ]
+    }
+}

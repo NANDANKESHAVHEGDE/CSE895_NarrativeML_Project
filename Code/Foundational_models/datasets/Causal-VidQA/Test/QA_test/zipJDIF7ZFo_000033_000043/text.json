@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is next to [cup_1].",
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is at the near sea.",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "[person_1] is very happy.",
+            "Because [person_1] is playing with the sand.",
+            "To practice [person_1]'s riding skill.",
+            "Because [person_1] maybe loves to pick apples.",
+            "[person_1] bows to cut the gift below [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to fill the bucket with sand.",
+            "Maybe [person_1] will enter the house.",
+            "[person_1] is going to smash [person_1].",
+            "Maybe [person_1] is going to jump.",
+            "Maybe [person_1] is going to continue watering."
+        ],
+        "reason": [
+            "[person_1] is spinning the hammer.",
+            "There is a bucket and [person_1] can use the tools nearby to fill it.",
+            "[person_1] is doing an overall washing.",
+            "[person_1] wants to be a good batter.",
+            "Because [person_1] is practicing skiing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the sand is wet?",
+        "answer": [
+            "[person_1] will fried dumplings.",
+            "The person shooting this video will ride much faster.",
+            "[person_1] will play at somewhere else.",
+            "The audience will applaud.",
+            "[person_1] may get a new one."
+        ],
+        "reason": [
+            "Because wet sand is hard to catch and play , [person_1] may be not interested in playing it.",
+            "Because the engine can't start without the fuel.",
+            "Because it is easy to be seen by an unwanted person and it may be awkward for her.",
+            "[person_1] wants to give up his seat to the president .",
+            "To record the head stand again."
+        ]
+    }
+}

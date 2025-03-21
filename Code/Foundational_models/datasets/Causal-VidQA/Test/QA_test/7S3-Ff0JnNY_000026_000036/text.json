@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the T - shirt [person_2] wearing?",
+        "answer": [
+            "The T - shirt is orange.",
+            "[person_2] is playing the piano.",
+            "A pair of sunglasses and a helmet.",
+            "[person_2] is red.",
+            "[person_2] is wearing a headphone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_1] and [person_2] are playing flute with other people.",
+            "[person_1] and [person_2] are cutting wood.",
+            "[person_1] and [person_2] are playing chess.",
+            "[person_1] is spinning poi.",
+            "[person_2] and [person_2] are performing together."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to begin dancing.",
+            "[person_1] and [person_2] are going to continue playing swing.",
+            "[person_1] and [person_2] are going to continue cutting.",
+            "[person_1] and [person_2] are going to give a chase to the ball.",
+            "[person_1] and [person_2] are going to stop snapping their fingers."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are building a wall.",
+            "[person_1] and [person_2] are working well together.",
+            "[person_1] and [person_2] are holding wine glasses.",
+            "[person_1] and [person_2] are friendly and at the same age.",
+            "Because the room resembles a baseball practice room."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will stop the race.",
+            "[person_1] will not practice yoga.",
+            "[person_1] and [person_2] will get wet.",
+            "[person_1] will stop watering the plants.",
+            "[person_1] will not have to water the plants."
+        ],
+        "reason": [
+            "[person_1] will need to put the painting away.",
+            "The competition will be stop.",
+            "[person_1] and [person_2] may not keep cutting.",
+            "[person_1] will stop riding.",
+            "The competition will not continue."
+        ]
+    }
+}

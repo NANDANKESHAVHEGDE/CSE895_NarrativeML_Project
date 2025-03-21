@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "[bottle_1] is square.",
+            "It is on the windowsill.",
+            "It is on the table.",
+            "[bottle_1] is near [bottle_1].",
+            "It is on the [bottle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "Perhaps [person_1] does not have a watering can or a source of water far from the garden.",
+            "[person_1] is teaching something in a book for the baby.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] and [person_2] are practicing the didgeridoo.",
+            "[person_2] is playing the ukulele with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue tying the bow.",
+            "[person_1] will tattoo the right leg of [person_1].",
+            "[person_1] will continue blow the didgeridoo.",
+            "[person_1] will continue dancing.",
+            "[person_1] may get out of the pool."
+        ],
+        "reason": [
+            "[person_1] is practicing it.",
+            "Because the paint on the paint roller dries out.",
+            "[person_1] needs it to recover.",
+            "Because it seems that [person_1] stops tagging.",
+            "The hair in cutting may get into her eyes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops play didgeridoo?",
+        "answer": [
+            "[person_1] would have an audience.",
+            "[person_1] would be hurt.",
+            "[person_2] will stop playing too.",
+            "[person_1] would stand up quickly.",
+            "[person_2] will be hurt."
+        ],
+        "reason": [
+            "[person_1] loves to play games with [person_2].",
+            "[person_1] needs to solve her work.",
+            "[person_2] will coax [person_1].",
+            "[person_1] and [person_2] will play didgeridoo together.",
+            "[person_2] almost step on [person_1]'s hands."
+        ]
+    }
+}

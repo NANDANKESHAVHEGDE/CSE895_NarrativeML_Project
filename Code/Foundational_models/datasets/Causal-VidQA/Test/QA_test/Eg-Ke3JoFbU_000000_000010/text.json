@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is looking at her leg after waxing.",
+            "[person_1] intends to open the bottle.",
+            "[person_1] is plastering a wall of a building."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] open the bottle?",
+        "answer": [
+            "[person_1] strikes the bottom of the bottle to the wall.",
+            "[person_1] strikes the bottle quickly with the knife from the below to the bottleneck.",
+            "[person_1] strikes the neck of the bottle against the edge of the table.",
+            "Because [person_1] wants to make it harder to open [person_1].",
+            "[person_1] is smiling because she is excited about the two gifts she got for Christmas."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will sleep on the floor.",
+            "[person_1] will continue to raising her eyebrows.",
+            "[person_1] will definitely continue spinning.",
+            "[person_1] will open the next page of the newspaper.",
+            "[person_1] will have to clean up the floor."
+        ],
+        "reason": [
+            "This will make the color more even.",
+            "To see what else is in the box.",
+            "Because the iron rod has been twisted by the device , [person_1] needs to check how effective it is.",
+            "[person_1] didn't know what was going on around him because [person_1] was blindfolded.",
+            "The wine splashes on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't use this method?",
+        "answer": [
+            "[person_1] wouldn't be able to flip the pancake.",
+            "[person_1] would stop talking to other people.",
+            "It would cause [person_1] muscle pain.",
+            "[person_1] would have wine to drink.",
+            "[person_1] would wipe out the eyebrows and draw them again."
+        ],
+        "reason": [
+            "The bottle wouldn't be broken.",
+            "The paper might come in the wrong spot.",
+            "The weather is cold with large wind.",
+            "They are good friends.",
+            "The practice is dangerous and there is a risk of injury or death."
+        ]
+    }
+}

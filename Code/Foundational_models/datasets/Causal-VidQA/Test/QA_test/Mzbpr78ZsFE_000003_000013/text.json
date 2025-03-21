@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [remote_1]?",
+        "answer": [
+            "[remote_1] is in front of [person_3].",
+            "[remote_1] is in the living room.",
+            "[remote_1] is in front of the house.",
+            "[person_3] is parked on the runway behind [remote_1].",
+            "[remote_1] is in front of the garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] nodding her head?",
+        "answer": [
+            "[person_1] is a baby.",
+            "Because [person_1] is watching how to play a xylophone.",
+            "[person_1] is sitting on the floor to stack the dice easier.",
+            "[person_1] is excited about stacking the objects in front of her.",
+            "[person_1] is greeting her audience."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] will enter the house.",
+            "[person_1] is going to take the stick and play the xylophone.",
+            "Perhaps [person_1] is going to come home.",
+            "[person_1] is going to smash [person_1].",
+            "[person_1] will eat the apple on the table."
+        ],
+        "reason": [
+            "[person_1] is holding the bottle.",
+            "The cat is sitting next to [person_1].",
+            "Because [person_1] is the biggest child and [person_1] watched the instruction.",
+            "Maybe [person_1] was feeling dizzy.",
+            "[person_1] is moving to the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] wants to play first?",
+        "answer": [
+            "[person_1] and [person_2] will let him do first.",
+            "[person_3] won't be able to continue playing.",
+            "[person_3] will still try to climb up.",
+            "The interviewer will suggest [person_1] something to say.",
+            "[person_1] will stop practicing and sit on the chair."
+        ],
+        "reason": [
+            "Because [person_1] wants to be successful of burping.",
+            "Because [person_1] and [person_2] are older than [person_3] , they may be sisters of [person_3].",
+            "Because [person_1] and [person_2] are training together , so [person_1] should asks [person_2].",
+            "Because [person_1] is only a baby and [person_1] can not take off the clothes by himself , so [person_1] will cry when [person_1] feels uncomfortable.",
+            "When [person_1] stops first , [person_2] is looking [person_1] and preparing to stop after that."
+        ]
+    }
+}

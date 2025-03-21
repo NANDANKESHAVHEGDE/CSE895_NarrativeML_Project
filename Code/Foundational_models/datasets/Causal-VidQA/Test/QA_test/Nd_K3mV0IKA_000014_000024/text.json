@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "It is quite beautiful.",
+            "Yes.",
+            "It is so nice.",
+            "It is cloudy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing the helmet?",
+        "answer": [
+            "Because [person_1] is driving.",
+            "[person_1] is nearsighted.",
+            "Because [person_1] wants to ski safely.",
+            "the mechanical bull turns around and around to make the [person_1] dizzy.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue the snaps.",
+            "[person_1] is going to continue skiing.",
+            "[person_1] will turn around and jump from this side to the other side of the jumping course.",
+            "[person_1] is going to spread the whipped cream over the [person_1] until it is done perfectly.",
+            "[person_1] is going to skateboard."
+        ],
+        "reason": [
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] is sliding downhill.",
+            "The car [person_1] is waiting for hasn't come yet.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "[person_1] will be loved.",
+            "[person_1] needs to stand up by her own.",
+            "[person_1] will be healthy.",
+            "[person_1] will stop playing.",
+            "[person_1] will be injured."
+        ],
+        "reason": [
+            "Because the terrain here is very safe.",
+            "There is only [person_1] himself here.",
+            "Because the terrain here is very dangerous.",
+            "The floor is very hard.",
+            "Because the terrain here is not dangerous."
+        ]
+    }
+}

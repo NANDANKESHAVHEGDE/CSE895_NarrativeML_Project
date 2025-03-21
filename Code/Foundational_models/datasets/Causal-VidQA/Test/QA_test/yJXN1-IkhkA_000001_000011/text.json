@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is outside.",
+            "[person_1] is skating in stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Maybe [person_1] is guiding her how to ride unicycle.",
+            "Because [person_1] is waiting for [person_1] to draw a picture.",
+            "Maybe [person_1] is playing with [person_1].",
+            "Because [person_1] is smoking.",
+            "Because [person_1] has to smash a box outside."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will return to her room.",
+            "[person_1] may keep mixing the drink.",
+            "[person_1] will continue to dance.",
+            "[person_1] is going to wash his face.",
+            "[person_1] will continue to do lunges."
+        ],
+        "reason": [
+            "There is a coming car.",
+            "Because this golf club doesn't go well.",
+            "[person_1] wants to find if there are other things that need to be broken.",
+            "Because the floor needs fixing.",
+            "Maybe the candlestick is old."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] couldn't smash the box with the baseball bat?",
+        "answer": [
+            "They may have to pay a lot of money.",
+            "[person_1] will change a harder stick.",
+            "[person_1] may stop lifting weights and put the weights out of his shoulder.",
+            "She will have a stomachache.",
+            "[person_1] will blame himself."
+        ],
+        "reason": [
+            "[person_1] has to take a break from practice.",
+            "Because a hard box needs a harder stick to break.",
+            "Nothing is stopping [person_1].",
+            "Because there's no work to do.",
+            "The room has no light."
+        ]
+    }
+}

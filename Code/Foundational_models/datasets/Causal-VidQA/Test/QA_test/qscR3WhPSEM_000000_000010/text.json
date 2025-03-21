@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] wearing?",
+        "answer": [
+            "[person_3] is on a stage.",
+            "[person_3] is wearing a black dress.",
+            "[person_3] is in the large room.",
+            "[person_3] is in the clinic.",
+            "Six."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] swallowing swords at the same time?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] are performing together.",
+            "[person_2] and [person_3] to read the cards.",
+            "[person_1] and [person_2] are opening a present together.",
+            "[person_1] and [person_2] are watching the gifts.",
+            "[person_1] , [person_2] and [person_3] are raising eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do next?",
+        "answer": [
+            "[person_1] and [person_2] will taste the food together.",
+            "[person_1] and [person_2] will keep watching TV.",
+            "[person_1] and [person_2] will continue performing.",
+            "[person_1] and [person_2] will continue to jumping the rope.",
+            "[person_1] , [person_2] and [person_3] will pull their sword out."
+        ],
+        "reason": [
+            "[person_1] finishes folding the clothes.",
+            "It seems that [person_1] really likes music.",
+            "The task of [person_2] is to catch the ball when the ball comes.",
+            "[person_1] , [person_2] and [person_3] can't leave the sword in their mouth too long.",
+            "[person_1] held the cell phone and showed it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't have a sword?",
+        "answer": [
+            "It is possible that [person_2] will feel discomfort.",
+            "[person_2] won't be able to perform.",
+            "The [person_2] is not about to fall.",
+            "[person_2] will be able to perform.",
+            "[person_2] might get annoyed."
+        ],
+        "reason": [
+            "[person_2] will answer the phone.",
+            "[person_2] won't stand on the stage.",
+            "Through the way [person_2] uses the knife , she is an amateur.",
+            "[person_2] will stand on the stage.",
+            "Because it is a safety standard for the racers."
+        ]
+    }
+}

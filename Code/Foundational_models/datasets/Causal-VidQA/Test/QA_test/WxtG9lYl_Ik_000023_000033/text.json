@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "[person_1] is sitting on the [chair_1] or standing to stack the dice?",
+        "answer": [
+            "[person_1] is stacking dice on the floor.",
+            "[person_1] is standing to stack the dice.",
+            "[person_1] is circle.",
+            "The color of the T - shirt of the [person_1] is dark blue.",
+            "[person_1] hair is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] not sit on the [chair_1] to stack the dice?",
+        "answer": [
+            "7 people are judges.",
+            "Sitting on the chair to stack the dice is more difficult than standing.",
+            "there is no chair in the dining room.",
+            "The [person_1] is avoiding the plate of the [chair_1].",
+            "Because the [chair_1] is now parked in the garage."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop standing on the hand.",
+            "Maybe [person_1] is going to dance again.",
+            "[person_1] is about to throw the ball.",
+            "[person_1] is going to continue picking up the last dice and stopping.",
+            "[person_1] will get up."
+        ],
+        "reason": [
+            "Maybe [person_1] loves to read.",
+            "[person_1] is walking very fast.",
+            "[person_1] has been stacking the dice and on the table , there is only one left.",
+            "Because [person_1] has successfully finished the training.",
+            "Because [person_1] is very happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] swings the cup to pick the last dice up too strong?",
+        "answer": [
+            "[person_1] would never break it successfully.",
+            "[person_1] may fall down and cry.",
+            "[person_1] might fall.",
+            "[person_1] will be very upset.",
+            "Maybe the dice which have been stacked before will be spilled."
+        ],
+        "reason": [
+            "[person_1] will get the hairstyle she wants.",
+            "Because the [person_1] is so small , he has to ask adults for help.",
+            "The first waxing will probably cost a bit more because there will be more preparation and product necessary.",
+            "The dice which have been stacked before are very close to the last dice.",
+            "Because without the doll the program will not go on successfully."
+        ]
+    }
+}

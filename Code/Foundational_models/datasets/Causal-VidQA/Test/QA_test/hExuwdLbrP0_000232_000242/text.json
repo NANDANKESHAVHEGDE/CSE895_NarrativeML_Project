@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is television big?",
+        "answer": [
+            "[person_1] is kicking a ball.",
+            "[person_1] is on the street.",
+            "No , it isn't.",
+            "It is on the wall.",
+            "[person_1] is sitting close to the camera."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in front of the television?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing guitar.",
+            "[person_1] is doing exercises.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing cymbals."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop playing.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "To wash the sheets.",
+            "[person_1] took his hand off the keyboard.",
+            "Because [person_1] is going to chop something.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] has already picked one piece up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the key is broken?",
+        "answer": [
+            "Keyboard will not make sound.",
+            "The room will be still bright.",
+            "[person_1] maybe stop stomping.",
+            "[person_1] may go to bed to relax.",
+            "[person_1] will have to stop filming."
+        ],
+        "reason": [
+            "[person_1] couldn't play the keyboard.",
+            "[person_1] is a kid.",
+            "[person_1] is a baby who is often fear of the dark.",
+            "[person_1] is a kid.",
+            "The light in the room will not work."
+        ]
+    }
+}

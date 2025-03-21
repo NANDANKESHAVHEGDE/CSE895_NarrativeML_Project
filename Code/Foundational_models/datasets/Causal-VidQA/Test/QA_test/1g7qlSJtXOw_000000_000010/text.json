@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where [person_1] is ?",
+        "answer": [
+            "[person_1] is in the gym.",
+            "[person_1] is on the right hand side of [person_1].",
+            "[person_1] is in his house.",
+            "[person_1] is \u00a0 in the classroom.",
+            "[person_1] is in the kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside the room?",
+        "answer": [
+            "[person_1] is reading [person_1].",
+            "[person_1] is reading book.",
+            "The [person_1] wanted to check if there's any toy remaining in the box.",
+            "[person_1] is eating with family.",
+            "Maybe [person_1] is in the class."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand still.",
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] is going to keep raising eyebrows.",
+            "He is going to enjoy the beer.",
+            "[person_1] is going to continue trying to whistle."
+        ],
+        "reason": [
+            "[person_1] looks like a bad whistler.",
+            "[person_1] is going to start eating.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "[person_1] has covered [person_1]'s wound with the bandage.",
+            "The dish has been done and plated well."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] could not raise her eyebrows?",
+        "answer": [
+            "[person_1] will tumble down.",
+            "[person_1] wouldn't be able to move his arms.",
+            "[person_1] might keep eating.",
+            "[person_1] will take it off.",
+            "[person_1] may stick a band aid."
+        ],
+        "reason": [
+            "[person_1] would feel boring.",
+            "Children are only interested in what they like",
+            "[person_1] puts effort and time into making money being a street performer and would not want a thief to steal his money.",
+            "Jazz is a tough music which need high level skills.",
+            "[person_1] might try to learn how to raise."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is in the room.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is riding a unicycle.",
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is playing lute.",
+            "[person_1] is raising eyebrows in front of the mirror.",
+            "[person_1] is able to sing loudly without affecting others."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] is going to sing.",
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] is going to jump over a chair."
+        ],
+        "reason": [
+            "No one is there to play with [person_1].",
+            "[person_1] is moving her mouth.",
+            "They are doing warm - up to prepare themselves.",
+            "[bicycle_1] does not work.",
+            "[person_5] is running behind [person_4] and [person_4] caught the ball before."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] won't be able to continue reading.",
+            "[person_1] will stop playing.",
+            "[person_1] may not keep speaking with the microphone.",
+            "[person_1] will start playing.",
+            "[person_1] will stop talking."
+        ],
+        "reason": [
+            "The room will be bright then.",
+            "The machine will be stopped working.",
+            "The room will be dark then.",
+            "The stage will be dark then.",
+            "The room won't be dark then."
+        ]
+    }
+}

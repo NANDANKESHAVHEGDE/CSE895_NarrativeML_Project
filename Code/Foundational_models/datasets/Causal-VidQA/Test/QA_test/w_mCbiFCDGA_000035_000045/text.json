@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is leaned against the wall , next to the table.",
+            "[chair_1] is a wood cutting board.",
+            "[person_2] is skating on the stage.",
+            "[chair_1] is behind [person_2].",
+            "[person_2] is in the garden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [chair_1] vacant?",
+        "answer": [
+            "[chair_1] is jumping to throw the ball through the basket.",
+            "[chair_1] and [chair_1] are in a room.",
+            "[chair_1] is avoiding being tickled.",
+            "Maybe [chair_1] is being treated for insomnia.",
+            "Because no one is sitting on [chair_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to hug [person_2].",
+            "[person_2] is going to step the left leg forward.",
+            "[person_2] is going to pick up the badminton shuttlecock after [person_2] hitting it.",
+            "[person_2] may play with other kids.",
+            "[person_2] will write down their grades."
+        ],
+        "reason": [
+            "To help another child do the head stand.",
+            "Because [person_2] is stepping with the right leg first.",
+            "To put away the clothes.",
+            "[person_2] was stretching the hands to reach [person_2].",
+            "[person_2] put the bandage on [person_2]'s front."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [chair_1] falls down?",
+        "answer": [
+            "[person_2] will leave that seat.",
+            "[person_1] will not fall off the chair in a strong way like [person_1] experienced.",
+            "[person_1] , [person_2] , and [person_3] will be startled and see the position of [chair_1].",
+            "[person_2] will step on [person_1]'s right foot",
+            "[person_1] and [person_3] will stop giving high - five."
+        ],
+        "reason": [
+            "Because [person_2] is holding a piece of potato chip , so she can only use one hand to wave . If she eats her potato chip , she can waves her both hand.",
+            "Because [person_1] holds the rope too tightly which is rough.",
+            "When [chair_1] falls , which will attract the attention of [person_1] , [person_2] , and [person_3].",
+            "The package is too big and [person_3] seems not to be able to carry it alone.",
+            "Maybe [person_1] spent a lot of time in the room."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_3] wearing?",
+        "answer": [
+            "The shirt is beige.",
+            "The shirt is black.",
+            "White.",
+            "The shirt is red.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] in the room?",
+        "answer": [
+            "[person_1] is stacking dice.",
+            "[person_1] , [person_2] and [person_3] are raising eyebrows.",
+            "Maybe [person_1] , [person_2] and [person_3] are recording on a show about make - up.",
+            "[person_1] and [person_2] listen to another person.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do next?",
+        "answer": [
+            "[person_1] and [person_2] will probably keep doing their work.",
+            "Share and eat the pies together.",
+            "[person_2] and [person_1] will try some simpler moves",
+            "After all the lettuce is shredded by hand , they will put the vegetables into their salad.",
+            "[person_1] , [person_2] and [person_3] make fun of each other."
+        ],
+        "reason": [
+            "Because [person_1] , [person_2] and [person_3] are full of energy.",
+            "Because [person_1] and [person_2] worked together successfully.",
+            "[person_1] and [person_2] were looking at the light screen attentively.",
+            "[person_1] , [person_2] and [person_3] want to have a good time together.",
+            "Because both of [person_1] and [person_2] stopped talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] go out?",
+        "answer": [
+            "[person_2] and [person_3] may stop playing.",
+            "[person_1] will stop hooping.",
+            "Maybe [person_3] will be angry.",
+            "[person_1] will stop playing the lute.",
+            "Maybe [person_3] will get injured."
+        ],
+        "reason": [
+            "After rest [person_1] will do more push up.",
+            "Because [person_3] hasn't finished his performance yet.",
+            "It may on fire if [person_1] lefts the gas on.",
+            "Wheelchair will not be a means of transportation for [person_3].",
+            "[person_2] and [person_3] will go out together."
+        ]
+    }
+}

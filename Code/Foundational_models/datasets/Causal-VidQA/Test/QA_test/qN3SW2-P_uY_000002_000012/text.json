@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is [person_1] hitting ?",
+        "answer": [
+            "[person_1] is sleeping.",
+            "[person_1] is hitting [person_2].",
+            "[person_1] is laughing.",
+            "[person_1] is smashing a rubber tire.",
+            "[person_1] is showing how to open the bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] hitting [person_2]?",
+        "answer": [
+            "Because he wants to have a relax.",
+            "because it's comfortable.",
+            "Because they are in a pillow fight.",
+            "[person_1] seems to be helping [person_2] to pour milk.",
+            "[person_1] doesn't want to get tired."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_1] ?",
+        "answer": [
+            "[person_1] will probably lose.",
+            "[person_1] will take the wood away.",
+            "[person_1] and [person_1] will run over to the water to watch the fish eat fish food.",
+            "[person_1] and [person_1] will interact with [person_1].",
+            "[person_1] has to go to the hospital."
+        ],
+        "reason": [
+            "Keep [person_1]'s eyes on the fingers , the closer the fingers are to the middle of the eyes , the easier it is to cross eyes.",
+            "[person_1] and [person_2] are nervously playing tug of war with the other team.",
+            "[person_2] and the kid in on the left are both fighting against [person_1] .",
+            "Because [person_1] seems to be very good at tying the necktie ; [person_1] even teaches others.",
+            "Because [person_1] handed [person_1] a rope , and then [person_1] was ready to catch the rope."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not jump on top of [person_1] ?",
+        "answer": [
+            "[person_1] may feel painful on his head.",
+            "The work may not be completed on time.",
+            "[person_1] may probably remove the bandage and put it on again.",
+            "[person_1] and [person_2] will finish the work soon.",
+            "[person_1] would not be pressed down onto the mattress."
+        ],
+        "reason": [
+            "[person_1] doesn't protect his head.",
+            "[person_2] may fall.",
+            "[person_1] can use more efforts.",
+            "There are cars running on the road.",
+            "[person_1] would be able to lift himself up right away."
+        ]
+    }
+}

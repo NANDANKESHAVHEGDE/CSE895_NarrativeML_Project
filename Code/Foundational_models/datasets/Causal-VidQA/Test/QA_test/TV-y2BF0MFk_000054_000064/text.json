@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks thin.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks like a professional skier.",
+            "[person_1] looks so beautiful.",
+            "A little bit fat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking at the sheet music?",
+        "answer": [
+            "[person_1] is sitting and stacking cups.",
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is playing harmonica.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is opening his gift."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] intends to turn off the camera.",
+            "[person_1] will definitely play the guitar.",
+            "It is possible that [person_1] will play the guitar.",
+            "[person_1] tends to place the wrapping paper roll and the scissors aside.",
+            "[person_1] has an intention of playing tug of war."
+        ],
+        "reason": [
+            "[person_1] is holding a chessman.",
+            "The car needs gas to run.",
+            "[person_1] and [person_1] are trying to put the wallpaper on the wall.",
+            "[person_1] is waving goodbye.",
+            "[person_1] is playing cello very well."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power goes out?",
+        "answer": [
+            "[person_1] will continue to ride.",
+            "[person_1] may get hurt.",
+            "[person_1] could not teach others.",
+            "[person_1] does not know how to play soil.",
+            "[person_1] will stop playing."
+        ],
+        "reason": [
+            "The room will have no light.",
+            "Because the turntable will stop working when the power goes out.",
+            "The room will be drank.",
+            "Because [person_1] did not have any equipment to show [person_1].",
+            "The net is much taller than [person_1]."
+        ]
+    }
+}

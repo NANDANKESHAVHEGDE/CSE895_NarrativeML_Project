@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] hair look like?",
+        "answer": [
+            "[person_1] is in a snow mountain.",
+            "[person_1] is \u00a0 near a big river.",
+            "[person_1] is the man who is holding a musical instrument.",
+            "[person_1] is in the kitchen.",
+            "[person_1] hair looks quite long."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the room large?",
+        "answer": [
+            "The room is living room.",
+            "[person_1] feels so hot.",
+            "Because there are people watching.",
+            "The space outside is more open than in the house.",
+            "He's looking at the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to take a break from playing the harp.",
+            "[person_1] is going to keep dancing.",
+            "[person_1] will chop the green bell pepper."
+        ],
+        "reason": [
+            "[person_1] is bowing.",
+            "[person_1] feels that the food is not good.",
+            "[person_1] face is no longer happy.",
+            "[person_1] is a beginner.",
+            "[person_1] was blocked by the door."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [chair_1] is broken?",
+        "answer": [
+            "[person_1] would not be able to type anything on the computer.",
+            "[person_1] will yell at [person_1].",
+            "[person_1] will find another one.",
+            "[person_1] will stop playing harp.",
+            "Maybe the video can't be filmed."
+        ],
+        "reason": [
+            "Everyone will go home.",
+            "[person_1] seems tired when he pulls stone out even if [person_1] gives help.",
+            "There will be no more matches.",
+            "[person_1] will have to take the chair to be repaired.",
+            "The fingers of the left hand of [person_1] needs too strike bass guitar strings."
+        ]
+    }
+}

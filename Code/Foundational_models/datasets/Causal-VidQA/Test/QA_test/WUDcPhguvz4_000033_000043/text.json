@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_2] and [person_1] are in the subway station.",
+            "[person_1] and [person_2] are in the swimming pool.",
+            "[person_1] and [person_2] are in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1]'s work?",
+        "answer": [
+            "[person_1] lifts the sledgehammer with the head on the top and leans it slowly.",
+            "[person_1] is very hard - working and [person_1] uses a drill to work.",
+            "[person_1] does squats.",
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "Maybe [person_1] likes the sound it makes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will read books.",
+            "[person_1] is going to repair [person_1]'s house completely.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] will dance with [person_1].",
+            "[person_1] will keep cleaning the dog."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] has eaten the apple in the hand.",
+            "[person_1] cuts off the flower's stem.",
+            "[person_2] is carefully doing the same work as [person_1].",
+            "[person_1] finishes working."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not have health?",
+        "answer": [
+            "[person_1] might not dance for long.",
+            "[person_1] would not do the job well.",
+            "They will record it again.",
+            "[person_1] may not talk anything.",
+            "[person_1] might continue to eat."
+        ],
+        "reason": [
+            "It's easy to cramp when you enter the pool without warming up.",
+            "[person_1]'s work request a strong man.",
+            "Maybe the room is large and crowded.",
+            "[person_1] jumped in a good way.",
+            "If [person_1] doesn't press down hard enough on the brake and hesitantly touch the brake to the ground , she may lose the balance and fall down . The harder she presses , the faster she'll stop."
+        ]
+    }
+}

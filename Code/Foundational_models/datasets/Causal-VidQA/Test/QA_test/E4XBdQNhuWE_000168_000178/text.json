@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dining table_1]?",
+        "answer": [
+            "[dining table_1] is under [dining table_1].",
+            "[dining table_1] is behind [dining table_1].",
+            "[dining table_1] is next to [person_2].",
+            "The [dining table_1] is behind [person_2].",
+            "[dining table_1] is in a roller skating floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting with his back to the camera?",
+        "answer": [
+            "[person_1] is playing cymbals.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is practicing standing on his hands.",
+            "[person_1] is sitting to play the keyboard.",
+            "[person_1] is using his harp."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep batting the ball.",
+            "[person_1] may drive by the side of the road.",
+            "[person_1] will go on throwing the cards.",
+            "[person_1] may continue to tickle [person_1].",
+            "[person_1] is going to play the keyboard."
+        ],
+        "reason": [
+            "[person_1]'s hand is pressing the keys.",
+            "There is only one square on the course to put one foot in.",
+            "[person_1] is having his turn next.",
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] just has started his work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is turned off?",
+        "answer": [
+            "All dancers will stop dancing.",
+            "[person_1] could not iron.",
+            "[dining table_1] will stop combing [dining table_1].",
+            "The keyboard will not use.",
+            "The [person_1] can not copy the card."
+        ],
+        "reason": [
+            "It will be dark then and no one can snowboard.",
+            "The tree may wilt.",
+            "[dining table_1] is a baby and [dining table_1] will fall very easily.",
+            "The keyboard requires a power source to operate.",
+            "[person_1] and [person_1] can not sing karaoke without electricity."
+        ]
+    }
+}

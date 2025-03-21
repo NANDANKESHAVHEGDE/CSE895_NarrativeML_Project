@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] , [person_2] and [person_3]?",
+        "answer": [
+            "It is a gong.",
+            "[person_1] is using a straw.",
+            "[person_1] , [person_2] and [person_3] are sitting on the grass.",
+            "[person_1] is putting down a cell phone.",
+            "[person_2] is on the vat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] look other places?",
+        "answer": [
+            "[person_3] is joking around.",
+            "[person_3] and [person_3] are performing together.",
+            "Because [person_3] is not interested in making bubbles.",
+            "[person_3] was trying to put his foot on the foam pad.",
+            "[person_3] and [person_3] didn't throw the ball into any cups of the opposing team."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do?",
+        "answer": [
+            "[person_3] will wait for others.",
+            "[person_3] will stand up again.",
+            "[person_3] will run away.",
+            "[person_3] will probably keep on dancing.",
+            "[person_3] will continue to kick high."
+        ],
+        "reason": [
+            "[person_3] has already embraced with [person_3] , and [person_3] and [person_3] need to untie the rope to make himself more comfortable.",
+            "Maybe [person_3] is practicing boxing.",
+            "Because [person_3] is teaching [person_3] to practice.",
+            "He smiles happily and seems interested in the game.",
+            "Because [person_3] doesn't want to make bubbles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rained?",
+        "answer": [
+            "[person_2] and [person_3] will lead [person_1] into a building.",
+            "[person_1] will go back home.",
+            "That won't affect [person_1] and [person_2].",
+            "[person_1] might run under the tree to hide from the rain.",
+            "[person_1] will take [person_2] and [person_3] away."
+        ],
+        "reason": [
+            "In order to find a shelter.",
+            "There is no place to hide.",
+            "They don't have umbrellas , and it's not suitable for skydiving on rainy days.",
+            "The building is open - air.",
+            "They do not want to be wet."
+        ]
+    }
+}

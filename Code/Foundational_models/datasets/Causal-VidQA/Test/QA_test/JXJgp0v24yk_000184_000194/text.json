@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room ?",
+        "answer": [
+            "The room is quite dark.",
+            "It is quite tidy.",
+            "The room is cramped.",
+            "It is small and tidy.",
+            "It is in a grass field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room ?",
+        "answer": [
+            "[person_1] is playing keyboard.",
+            "[person_1] is using the piano.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is excited about her book.",
+            "[person_1] is raising eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] has an intention of the next class.",
+            "Perhaps [person_1] will kiss [person_1].",
+            "[person_1] will continue to eat.",
+            "[person_1] will going using the piano.",
+            "[person_1] will use body language to interact with the audience."
+        ],
+        "reason": [
+            "[person_1] is pushing a wheelchair.",
+            "[person_1]'s fingers are pressing on the keyboard.",
+            "Because there is a tool on the ground.",
+            "In the video , [person_1] stopped tattooing once to take a break and clean his pattern and he will probably do that again.",
+            "To cut it into small pieces."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lamp is suddenly off ?",
+        "answer": [
+            "The lamp will not work.",
+            "The party would be stop.",
+            "The raisins will be sprinkled after the egg tart is baked.",
+            "[person_1] might feel dizzy.",
+            "[person_1] will call for doctor."
+        ],
+        "reason": [
+            "Because the fence is made of wood.",
+            "[person_1] falls from a high distance.",
+            "[person_1] would jump off the bike because the bike has stopped.",
+            "[person_1] will repair it.",
+            "Because people tip him."
+        ]
+    }
+}

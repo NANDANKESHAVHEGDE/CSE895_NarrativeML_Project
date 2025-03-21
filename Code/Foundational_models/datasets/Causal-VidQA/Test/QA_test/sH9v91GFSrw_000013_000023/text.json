@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bed_1]?",
+        "answer": [
+            "The [bed_1] is in front of [person_1].",
+            "It is rectangular.",
+            "No.",
+            "It is on the yard.",
+            "It is behind [person_1] ."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "Because [person_1] successfully turned the plate.",
+            "Maybe someone is talking with [person_1].",
+            "Because [person_1] amazes when the apple is peeled so fast.",
+            "[person_1] catched the ball on the rebound and drive the ball to the hoop.",
+            "[person_1] is painting the [bed_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue spraying the object.",
+            "[person_1] will continue to eat.",
+            "Perhaps [person_1] will kiss [person_1].",
+            "[person_1] has an intention of the next class.",
+            "[person_1] will go back home."
+        ],
+        "reason": [
+            "Because there is a tool on the ground.",
+            "[person_1] will feel tired.",
+            "[person_1] is painting it attentively.",
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica.",
+            "[person_1] may stop for a minute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a dog suddenly bites [person_1]?",
+        "answer": [
+            "[person_1] will finish what he is doing.",
+            "Maybe they can't sit.",
+            "[person_1] may go to catch him.",
+            "[person_1] will slow down.",
+            "[person_1] will get drunk."
+        ],
+        "reason": [
+            "Because [person_1] need to have someone to guide and keep her safe while doing paragliding.",
+            "[person_1] and [person_1] would bump into each other because [person_1] and [person_1] are moving very fast.",
+            "Sweets are prone to tooth decay.",
+            "[person_1] will get hurt.",
+            "Because [person_1] wants them to learn well."
+        ]
+    }
+}

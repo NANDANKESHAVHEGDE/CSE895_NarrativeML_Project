@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bath.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is standing under a tree.",
+            "[person_1] is in his house.",
+            "[person_1] is on the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cell phone_1]?",
+        "answer": [
+            "[person_1] is playing mahjong on his phone.",
+            "[person_1] lifts the sledgehammer with the head on the top and leans it slowly.",
+            "[person_1] does squats.",
+            "[person_1] is playing with his caretaker.",
+            "Because [person_1] enjoys hearing the sound of ripping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] is going to find the mahjong pieces [person_1] needs.",
+            "[person_1] will get up.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to sit."
+        ],
+        "reason": [
+            "[person_1] is hooping very hard.",
+            "[person_1] is [person_1]'s partner.",
+            "[person_1] wants to win.",
+            "[person_1] is talking passionately.",
+            "[person_1] wants to play for entertainment."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [cell phone_1] runs out of battery?",
+        "answer": [
+            "[person_1] would get distracted and stop playing the song he's playing to look over at who walked into the room.",
+            "[person_1] won't be able to continue playing.",
+            "He will escape quickly.",
+            "The lens will be broken.",
+            "[cell phone_1] wouldn't flip the cakes."
+        ],
+        "reason": [
+            "Because the riding speed is fast enough now.",
+            "[person_1] is not practical enough to skate by his own and he is very young.",
+            "[person_1] will have to charge [cell phone_1].",
+            "[person_1] will put the plate down.",
+            "[cell phone_1] is holding a replica weapon much larger than themselves , which may drop it."
+        ]
+    }
+}

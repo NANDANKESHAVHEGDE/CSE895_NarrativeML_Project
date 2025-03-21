@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a guitar?",
+        "answer": [
+            "[person_1] and [person_2] have reached the end of the lawn.",
+            "[person_1] is playing guitar for [person_2] to sing.",
+            "It helps to preserve the pulp as much as possible.",
+            "[person_2] put pressure on the opposing team to throw the ball out of the [person_2]'s cup.",
+            "To avoid being exposed to the sun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will carry the bed into the warehouse.",
+            "[person_1] has an intention of the next class.",
+            "[person_1] will sing with [person_2].",
+            "[person_1] is going to repair bicycles.",
+            "[person_1] will continue working."
+        ],
+        "reason": [
+            "[person_1] has to seal many bags because she is a worker of factory.",
+            "[person_1] looks at the chessboard attentively.",
+            "Because [person_1] is finding something around him , which might be new tools.",
+            "[person_1] and [person_2] are happy.",
+            "[person_1] will continue to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will buy something to eat.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] will feel so hot.",
+            "[person_1] maybe stop reading.",
+            "[person_1] and [person_2] will not be happy."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The ceiling fan is not working.",
+            "The fan will be off , too.",
+            "The room will be dark.",
+            "The piano will not work."
+        ]
+    }
+}

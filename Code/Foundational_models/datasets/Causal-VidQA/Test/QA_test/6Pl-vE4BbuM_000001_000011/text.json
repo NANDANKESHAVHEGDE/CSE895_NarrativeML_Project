@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] ?",
+        "answer": [
+            "It is next to the [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing like that ?",
+        "answer": [
+            "[person_1] is shaving.",
+            "Maybe [person_1] is doing it for fun.",
+            "Because the [person_1] is not tall enough.",
+            "Because [person_1] feels embarrassed when she falls from the unicycle.",
+            "Maybe [person_1] just does it for fun ?"
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do ?",
+        "answer": [
+            "[person_1] tends to keep [person_1]'s legs to avoid falling.",
+            "[person_1] tends to stand up and play cymbals.",
+            "[person_1] will continue to burn the piece of paper.",
+            "[person_1] tends to tie up his shoelaces.",
+            "[person_1] is likely to continue to play with the guitar."
+        ],
+        "reason": [
+            "[person_1] is repeating the movements.",
+            "[person_1] is in the middle of that jumping rope type.",
+            "[person_1] used hand to apply foundation cream on face.",
+            "[person_1] holds his upper and lower eyelids open and places the lens in his eye.",
+            "[person_1] looked the cup , raised the ball and tiptoed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feel tired ?",
+        "answer": [
+            "Perhaps [person_1] will sit on [person_1].",
+            "Possibly [person_1] will go to discover another peeler.",
+            "[person_1] will stop feeding the duck.",
+            "[person_1] will sit on the chair to relax.",
+            "[person_1] will tilt the back hip up as [person_1] steps , and extend the leading arm parallel to the floor."
+        ],
+        "reason": [
+            "[person_1] didn't touch anything.",
+            "There is a chair near [person_1].",
+            "To fix [person_1].",
+            "That's the rule of this sport.",
+            "To help fix [person_1]."
+        ]
+    }
+}

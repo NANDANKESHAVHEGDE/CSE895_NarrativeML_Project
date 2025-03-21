@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is plastering.",
+            "[person_1] is playing field hockey.",
+            "[person_1] is serving his customers.",
+            "[person_1] is opening a carton box.",
+            "[person_1] is throwing the ball into the basket."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bend his body to pour the champagne?",
+        "answer": [
+            "The [person_1] prevents the [person_1] falling down on the street.",
+            "The [person_1] picked an apple which was above the [person_1].",
+            "[person_1] is wearing a hat to ensure that her head is snug and cozy.",
+            "Maybe because the weather is cold.",
+            "[person_1] has to because the cups are on the low table."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep on dancing.",
+            "[person_1] will continue singing.",
+            "[person_1] will stand aside there or leave.",
+            "[person_1] will continue repairing.",
+            "[person_1] will continue to talking."
+        ],
+        "reason": [
+            "[person_1] is a service , who cannot join in the customers.",
+            "Maybe [person_1] is practicing keyboard.",
+            "Because [person_1] wants to improve himself.",
+            "[person_1] is practicing martial arts.",
+            "[person_1] has won and the game is end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] kept stand in front of the table even after he has finished his service?",
+        "answer": [
+            "His customers would be annoyed.",
+            "[person_1] would be weak.",
+            "It will be brought down.",
+            "The cat will struggle.",
+            "[person_1] would have a chat with her."
+        ],
+        "reason": [
+            "[person_1] is still very bad at somersaults.",
+            "The bucket is too close to the door , it's possible for it being brought down by the door.",
+            "Toy cars are interesting.",
+            "The board is high enough for observation.",
+            "[person_1] would disturb his customers."
+        ]
+    }
+}

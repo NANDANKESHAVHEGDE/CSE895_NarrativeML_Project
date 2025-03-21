@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] and [person_2] are in the house.",
+            "[person_2] is on the left hand side of [person_2].",
+            "No.",
+            "[person_2] is standing under an umbrella.",
+            "[person_2] is on the left hand of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the ground?",
+        "answer": [
+            "Because [person_1] wants to protect the head if [person_1] falls.",
+            "[person_1] needs the table to stack his dice.",
+            "Maybe [person_1] wants to help [person_1] open the gift.",
+            "Because [person_1] is doing leg work out.",
+            "Because [person_1] wants [person_2] to poke her belly button."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to play with other things.",
+            "[person_2] is going to speak something to the audiences.",
+            "Ask more questions.",
+            "[person_2] is still watching the match.",
+            "[person_2] is going to give interview to [person_2]."
+        ],
+        "reason": [
+            "Because they are showing how to make a pizza and making a dough is the first step to make a pizza.",
+            "[person_2] is holding cake in hand.",
+            "Because [person_2] stops poking and stands up.",
+            "[person_2] is moving to another direction.",
+            "[person_2] is extending one hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the umbrella is broken?",
+        "answer": [
+            "[person_2] may be scared.",
+            "[person_2] may not open it.",
+            "[person_2] may not be scared.",
+            "The room will be more bright.",
+            "[person_2] may be sad."
+        ],
+        "reason": [
+            "When [person_2] opens the box , there is some cash inside of it.",
+            "When the umbrella is not broken , it will cover [person_1] and [person_2] . [person_2] is a baby so he may be scared.",
+            "[person_1] and [person_2] have a keen interest in the box.",
+            "When the umbrella is broken , it will cover [person_1] and [person_2] . [person_2] is a baby so he may be scared.",
+            "[person_1] is in this room alone."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is on the bed.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the bedroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 darts?",
+        "answer": [
+            "[person_1] is staying with [person_1].",
+            "[person_1] is taking care of her lips.",
+            "[person_1] is working out.",
+            "[person_1] is fond of unwrapping a present.",
+            "[person_1] is playing darts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to get the dart back.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] will get more cards",
+            "[person_1] is about to eat."
+        ],
+        "reason": [
+            "[person_1] is jumping very hard.",
+            "Sled is broken.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1] just threw it.",
+            "[person_1] feels excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits the board with a dart?",
+        "answer": [
+            "[person_1] will score.",
+            "[person_1] may shake the gift box.",
+            "[person_1] will not score.",
+            "Not much students will find out.",
+            "[person_1] will lose."
+        ],
+        "reason": [
+            "That's the rule of this game.",
+            "Because the dancers didn't dance quite the same anyway.",
+            "That's not the rule of this game.",
+            "The needle is sharp.",
+            "That breaks the rule of this game."
+        ]
+    }
+}

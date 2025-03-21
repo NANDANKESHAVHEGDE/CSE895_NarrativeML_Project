@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bench_1]?",
+        "answer": [
+            "[bench_1] is placed on the ground and laid against the wall.",
+            "It is quite beautiful.",
+            "[bench_1] is male.",
+            "The [bench_1] is used for playing badminton.",
+            "The [bench_1] is in the living room and in front of the TV."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look at the camera?",
+        "answer": [
+            "[person_1] is excited about stacking the objects in front of her.",
+            "[person_1] is a baby.",
+            "By riding the horse.",
+            "[person_1] talks about something to the camera.",
+            "[person_1] is sitting on the floor to stack the dice easier."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to laugh.",
+            "[person_1] is going to run.",
+            "[person_1] is going to continue talking.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to keep training."
+        ],
+        "reason": [
+            "[person_1] was blocked by the door.",
+            "[person_1] feels that the food is not good.",
+            "[person_1] is not going to stop.",
+            "[person_1] is bowing.",
+            "Because [person_1] has not finished talking yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not talk?",
+        "answer": [
+            "[person_1] may not just walk by crutches.",
+            "[person_1] would find working with leather difficult.",
+            "[person_1] may just run by crutches.",
+            "[person_1] would get wet.",
+            "[person_1] may just walk by crutches."
+        ],
+        "reason": [
+            "[person_1] is under the [person_1].",
+            "Because [person_1] did not need to look at the camera and talk.",
+            "[person_1] stands on the [person_1].",
+            "Because [person_1] needed to look at the camera and talk.",
+            "[person_1] stand straightly on the [person_1]."
+        ]
+    }
+}

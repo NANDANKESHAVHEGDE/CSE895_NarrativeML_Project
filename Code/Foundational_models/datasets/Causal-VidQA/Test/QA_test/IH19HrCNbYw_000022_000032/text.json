@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [dining table_1]?",
+        "answer": [
+            "The [dining table_1] is near [person_2].",
+            "[person_2] and [person_2] are at the workshop.",
+            "Two camels.",
+            "The [dining table_1] is big.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is \u00a0 somersaulting with the sports ball.",
+            "[person_1] is trying to stand by his hands.",
+            "[person_1] is instructing someone how to stack cups.",
+            "[person_1] is excited about his activity.",
+            "[person_1] is excited about holding her gift."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is possible that [person_1] will play beer pong on the [dining table_1].",
+            "[person_1] will then take out the board.",
+            "[person_1] will eat the hamburger.",
+            "[person_1] will catch a fish.",
+            "[person_1] will finish drawing the butterfly."
+        ],
+        "reason": [
+            "[person_1] is leaving there.",
+            "The competition starts . [person_1] is in a prepared position.",
+            "The butterfly is unfinished.",
+            "Because [person_1]'s mother was sick and needed money.",
+            "[person_1] is near the [dining table_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cups on the [dining table_1] fall?",
+        "answer": [
+            "Maybe [person_1] will take other cups to prevent the game.",
+            "[person_1] would not feel dizzy.",
+            "Maybe [person_1] won't take other cups to play the game.",
+            "[dining table_1] and [person_1] will run out of the cage.",
+            "Maybe [person_1] will take other cups to play the game."
+        ],
+        "reason": [
+            "The cups are the important objects of the game.",
+            "Because the others might not be able to understand how to play and thus got bored very quickly.",
+            "The cups are the useless objects of the game.",
+            "Because if she failed to attract the audience , her Vlogs would be unsuccessful.",
+            "The cups are the important objects of him."
+        ]
+    }
+}

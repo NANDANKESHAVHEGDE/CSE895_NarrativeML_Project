@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is near the lake.",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in a small library.",
+            "[person_1] is in her private room.",
+            "[person_1] is in the sawmill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the private room ?",
+        "answer": [
+            "[person_1] is directing [person_1] to put the disk in the right place on the table.",
+            "[person_1] is sitting on the chair.",
+            "[person_1] is playing with the cups on the [person_1].",
+            "The [person_1] wanted to check if there's any toy remaining in the box.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will plant a tree on the ground.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will go on playing with her piano.",
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "Because [person_1] doesn't want to play on [person_1] anymore.",
+            "Maybe [person_1] will spread his arms like [person_1] so that the pigeons can land there.",
+            "Maybe [person_1] will sing a song.",
+            "Because [person_1] accepts [person_1]'s proposal.",
+            "Maybe [person_1] is afraid of something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the book in front of [person_1] falls down ?",
+        "answer": [
+            "[person_1] will sit and continue to clean the shoes.",
+            "The broken [person_1] will make a loud noise.",
+            "[person_1] will take the phone to the repair store.",
+            "[person_1] will stop touching in the keyboard.",
+            "The beverage will flow to the face of the [person_1]."
+        ],
+        "reason": [
+            "If [person_1] is in a higher place , it will be on the balcony's wall and fall.",
+            "[person_1] is a member of the [person_1]'s team.",
+            "Because the [person_1] appears to have been trained in some way.",
+            "They think it is interesting.",
+            "[person_1] will pick the book up."
+        ]
+    }
+}

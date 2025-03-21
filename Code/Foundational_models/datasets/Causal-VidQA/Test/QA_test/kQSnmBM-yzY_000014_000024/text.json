@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a baby?",
+        "answer": [
+            "No.",
+            "Yes.",
+            "Op Harte's the Charleswood Community.",
+            "The are in a training room.",
+            "It is a ring."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] keep balance?",
+        "answer": [
+            "[person_2] holds [person_1].",
+            "To detect rubbish.",
+            "[person_1] is playing basketball with [person_1].",
+            "Because [person_1] crouched down and got tangled in the rope.",
+            "The [person_1] reduces any chance of injury."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do after [person_1] finishes running?",
+        "answer": [
+            "[person_1] will put on her coat again.",
+            "[person_1] will pour the panned sands away.",
+            "[person_1] will not join the dance.",
+            "[person_3] will give [person_1] a hug.",
+            "[person_1] will go on playing."
+        ],
+        "reason": [
+            "[person_1] looks very cool.",
+            "[person_3] loves [person_1].",
+            "[person_1] wants to have some water.",
+            "[person_1] wants to ride a horse , too.",
+            "Because [person_1] is singing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "[person_1] will hold [person_1].",
+            "[person_1] will not hurt.",
+            "[person_1] will hold [person_1].",
+            "[person_1] will cry.",
+            "[person_1] will help [person_1] to get up."
+        ],
+        "reason": [
+            "[person_1] is holding the [person_1]'s hands.",
+            "[person_1] is an adult.",
+            "[person_1] twists his feet.",
+            "[person_1] is standing on a puddle.",
+            "[person_1] is in pain."
+        ]
+    }
+}

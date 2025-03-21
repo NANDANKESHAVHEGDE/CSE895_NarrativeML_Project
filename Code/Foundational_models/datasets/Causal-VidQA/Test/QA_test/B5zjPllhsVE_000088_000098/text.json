@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is striking a block of wood.",
+            "[person_1] is stripping an apple.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is slamming a tire.",
+            "[person_1] is playing basketball."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] strike the wood?",
+        "answer": [
+            "The stick is used to apply the wax to the legs.",
+            "[person_1] wants to break it into pieces which can be utilized.",
+            "[person_1] moves the blades to peel , core , and slice the apple.",
+            "[person_1] holds a sledgehammer with one hand and and strikes at the tire with the hammer.",
+            "To show that [person_1] has opened the bottle smoothly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is bound to play guitar.",
+            "[person_1] will continue with the pulling.",
+            "[person_1] will continue skiing.",
+            "[person_1] will look for another tool to do this work.",
+            "[person_1] will talk with the people behind the camera."
+        ],
+        "reason": [
+            "[person_1] finds the effect of the hammer to the wood is not good.",
+            "Because [person_1] is holding a cup.",
+            "That bottle of champagne is for cheering , not drinking.",
+            "Because the grass has been very clean , [person_1] needs to clean the road instead.",
+            "[person_1] turned around and go to [person_1]'s spot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used a saw?",
+        "answer": [
+            "It would not be easier for him to finish his work.",
+            "Not much students will find out.",
+            "It would be harder for him to finish his work.",
+            "[person_1] will lose.",
+            "It would be easier for him to finish his work."
+        ],
+        "reason": [
+            "A saw is sharp which is bad for dealing with wood.",
+            "The [person_1] can not keep balance while standing on the stilts.",
+            "A saw is sharp which is good for dealing with wood.",
+            "Because the machine can't be operate.",
+            "A saw is not sharp which is good for dealing with wood."
+        ]
+    }
+}

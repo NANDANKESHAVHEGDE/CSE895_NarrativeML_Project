@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is white.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a half of orange in his hand?",
+        "answer": [
+            "Because [person_1] wants to use grape juice to make fermented wine.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is trying to make orange juice.",
+            "Because [person_1] finds stomping very interesting.",
+            "[person_1] needs glasses to improve her vision."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going to continue skateboarding.",
+            "[person_1] is going to continue trying to squeeze oranges.",
+            "[person_1] will color in the tail.",
+            "[person_1] is going to step forward."
+        ],
+        "reason": [
+            "There are more oranges left and the cup is not full yet.",
+            "[person_1] stepped forward continuously.",
+            "To make it look more fresh.",
+            "[person_1] is very interested in what he says.",
+            "[person_1] has bent back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't cut oranges into halves?",
+        "answer": [
+            "[person_1] may do sports with [person_1].",
+            "[person_1] would still keep throwing axes.",
+            "[person_1] would not put the pineapple on the ground outside.",
+            "[person_1] would not squeeze oranges to make juice.",
+            "[person_1] might drop his phone in the water."
+        ],
+        "reason": [
+            "The dog is surprised.",
+            "Because if [person_1] could not comprehend what and how to take a steady shot , the camera advertisement's efficiency might deteriorate.",
+            "[person_1] can only squeeze an orange without cutting it into halves.",
+            "Because they seems to have good living habits.",
+            "Because the processed iron sheet is still inside , [person_1] and [person_1] must pry open the machine to ensure that the iron sheet is safe and sound."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dinning table_1]?",
+        "answer": [
+            "[dinning table_1] and [dinning table_1] are performing skipping rope.",
+            "[person_1] and [person_1] are making bubbles.",
+            "[person_1] and [person_1] are playing badminton back and forth.",
+            "[dinning table_1] is in front of [person_1].",
+            "They are making sushi."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] only play the flute for a short time?",
+        "answer": [
+            "Perhaps [person_1] is performing for passersby.",
+            "[person_1] is playing the flute to the baby.",
+            "The [person_1] is holding the items which are on the table.",
+            "Because [person_1] has work to do.",
+            "[person_1] is drying [person_1]'s hair."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "It is foreseen that [person_1] will sit down.",
+            "[person_1] intends to put the flute on the table.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to continue smiling.",
+            "[person_1] intends to stop juggling balls."
+        ],
+        "reason": [
+            "[person_1] looks ahead and holds up gong sticks.",
+            "[person_1] used pencil eyeliner to draw eyeliner.",
+            "[person_1] is holding the harp and strumming.",
+            "[person_1] holds the flute in front of the table.",
+            "[person_1] is going to concentrate on learning playing flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays the flute all the song?",
+        "answer": [
+            "[person_1] will not have to stand to blow.",
+            "[person_1] won't be happy.",
+            "[person_1] will have to sit to blow.",
+            "[person_1] won't be able to keep cutting his hair.",
+            "[person_1] will have to stand to blow."
+        ],
+        "reason": [
+            "[person_1] can store the flute yet.",
+            "That is the job of [person_1].",
+            "[person_1] cannot store the flute in the future.",
+            "Soil needs enough moisture to provide plants.",
+            "[person_1] cannot store the flute yet."
+        ]
+    }
+}

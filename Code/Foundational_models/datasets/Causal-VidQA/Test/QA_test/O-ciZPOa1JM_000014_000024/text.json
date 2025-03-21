@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt does [person_1] wear?",
+        "answer": [
+            "[person_1] is in his garage.",
+            "[person_1] wears a white shirt.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] hair looks a bit curly.",
+            "[person_1] is sitting in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold on to the sheep?",
+        "answer": [
+            "Because [person_1] wants to shave the sheep.",
+            "[person_1] is holding the target for the kick of [person_1].",
+            "[person_1] is playing with it.",
+            "[person_1] wants to ride the mechanical bull.",
+            "Because [person_1] wants to water the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to taste wine.",
+            "[person_2] may ask to play on the swing.",
+            "[person_2] is going to just stand and watch the sheep.",
+            "[person_2] is going to eat the hamburger.",
+            "[person_2] may show us the broken boards."
+        ],
+        "reason": [
+            "When [person_1] runs , [person_2] observes and prepares to run.",
+            "When [person_2] turns to the area where the [person_1] is , [person_2] looks and prepares to touch.",
+            "When [person_2] finishes tickling [person_1] and [person_2] , she raises her hands and prepares to do the next joke.",
+            "[person_2] turned to the shot and may let us see the broken boards [person_1] just broke.",
+            "[person_2] will shave the same sheep as [person_1] so [person_2] needs watch carefully."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were not sheep?",
+        "answer": [
+            "[person_1] would feel happy.",
+            "[person_1] would be glad.",
+            "[person_1] would feel sad.",
+            "[person_1] will take it away.",
+            "[person_1] would feel excited."
+        ],
+        "reason": [
+            "[person_1] would have fleeced and [person_1] would have no money.",
+            "[person_1] can be distracted from washing dishes by looking in the cameraman's direction then breaking the plate.",
+            "[person_1] wouldn't have fleeced and [person_1] would have money.",
+            "[person_1] looks young and full of energy so it's quite easy for him to try several times.",
+            "[person_1] wouldn't have fleeced and [person_1] would have no money."
+        ]
+    }
+}

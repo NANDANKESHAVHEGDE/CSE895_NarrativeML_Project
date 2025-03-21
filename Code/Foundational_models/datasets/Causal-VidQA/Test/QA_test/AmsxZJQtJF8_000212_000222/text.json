@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is the shirt [person_2] wearing?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "It is a towel.",
+            "It is black.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding an instrument?",
+        "answer": [
+            "[person_2] is playing it.",
+            "To make it easy to operate.",
+            "To stick the bolt with the cork and then pull the bolt out.",
+            "[person_2] doesn't want the cat run away.",
+            "[person_2] is sitting on a very high chair , so [person_2] has to stand to clean the shoes easily."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to keep playing drums.",
+            "[person_3] is going to continue moving back and forth in combination with hands.",
+            "[person_3] is going to express his thoughts in the interview.",
+            "[person_3] is going to send her sincere congratulations.",
+            "[person_3] will continue to dance and move the hands."
+        ],
+        "reason": [
+            "[person_3] moves his body and feet up and down.",
+            "[person_3] skates along and around the performing area.",
+            "[person_3] is still moving hands up and down on the drums.",
+            "The trunk of the car is open.",
+            "[person_3] is raising hands and approaching towards [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is not able to use an instrument?",
+        "answer": [
+            "[person_1] will refuse him.",
+            "[person_1] may not play this instrument in the band.",
+            "The fire may be lit again.",
+            "[person_1] may play this instrument in the band.",
+            "He will resize and cut again."
+        ],
+        "reason": [
+            "Because let a pet run at home is dangerous.",
+            "[person_1] may be shy because of not knowing how to play it.",
+            "Because the next operation can be carried out only when the size of the wood block is the same.",
+            "[person_1] may not be shy because of not knowing how to play it.",
+            "Because a blurry picture does not worth the attention of people."
+        ]
+    }
+}

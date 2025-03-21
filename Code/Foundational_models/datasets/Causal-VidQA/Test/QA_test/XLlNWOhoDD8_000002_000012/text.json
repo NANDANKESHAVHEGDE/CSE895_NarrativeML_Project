@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "It is sunny.",
+            "On the ceiling.",
+            "The text is white.",
+            "[person_2] is following [person_2] while [person_2] throws the ball into his cup.",
+            "[person_2] is playing with the present box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does not [person_2] play clapping with [person_1]?",
+        "answer": [
+            "Because [person_2] doesn't know how to play the clapping game.",
+            "[person_1] is stacking dice.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] does that to get ready to hit the birdie back.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is likely to instruct [person_2] to clap.",
+            "[person_1] will certainly fold the shirt.",
+            "[person_1] will shoot another cue ball.",
+            "[person_1] will enjoy the picture carefully.",
+            "Roll [person_1] by the other foot."
+        ],
+        "reason": [
+            "[person_1] seems to want to improve the skill further.",
+            "[person_2] does not know how to play hand clapping games.",
+            "[person_1]'s hands is touching the string.",
+            "[person_1] looks unsatisfied with the sound of the gong.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] and [person_1] will not be able to continue the competition.",
+            "[person_1] maybe stop playing hand clapping games.",
+            "[person_1] will stop measuring the long jump.",
+            "[person_1] will go inside.",
+            "[person_1]'ll be sad."
+        ],
+        "reason": [
+            "[person_1] will get wet if it rains.",
+            "Because [person_1] is outside and does not have any umbrella.",
+            "[person_1] does not have an umbrella.",
+            "[person_1] couldn't go out skateboarding.",
+            "[person_1] has no umbrella at hand."
+        ]
+    }
+}

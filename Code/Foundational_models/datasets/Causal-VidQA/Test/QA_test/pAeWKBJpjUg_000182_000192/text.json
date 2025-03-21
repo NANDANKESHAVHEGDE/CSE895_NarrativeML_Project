@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the door?",
+        "answer": [
+            "[person_1] is black.",
+            "It is brown.",
+            "White.",
+            "That is a bed.",
+            "[person_1] is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep talking at last?",
+        "answer": [
+            "[person_1] opened it by using another bottle.",
+            "[person_1] is showing how to operate the circular saw.",
+            "[person_1] needs to finish other works.",
+            "[person_1] put the paper in the cutter for paper recycling.",
+            "[person_1] performs plate spinning."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is possible that [person_1] will go with the man at the door of the room.",
+            "It is possible that [person_1] will play beer pong on the [person_1].",
+            "Maybe [person_1] will not stop hitting the ball.",
+            "[person_1] will stand up.",
+            "[person_1] will then take out the board."
+        ],
+        "reason": [
+            "To show how to cut the board.",
+            "Because the fish is so big , [person_1] doesn't want to let it go.",
+            "[person_1] stopped jumping and leave.",
+            "[person_1] will drop two plates because [person_1]'s done.",
+            "[person_1] put her hand on the cap and about to shut it down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a power failure?",
+        "answer": [
+            "Perhaps [person_1] will startup.",
+            "The two children will feel hotter.",
+            "[person_1] will stop introducing the circular saw.",
+            "The man will lose the drill.",
+            "[person_1] might stop sailing."
+        ],
+        "reason": [
+            "The table is too messy.",
+            "The music would be stopped.",
+            "The room was dark.",
+            "Because the circular sow doesn't work without electricity.",
+            "The screen is a flat panel on which images and data are displayed."
+        ]
+    }
+}

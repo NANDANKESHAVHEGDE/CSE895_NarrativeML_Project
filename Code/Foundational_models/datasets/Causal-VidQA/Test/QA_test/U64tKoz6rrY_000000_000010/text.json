@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many dumbbells are there?",
+        "answer": [
+            "There are three.",
+            "There are 6 people.",
+            "There are two chair.",
+            "There are three chair.",
+            "Four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] slow down?",
+        "answer": [
+            "[person_1] is reading a newspaper.",
+            "[person_1] is instructing [person_1] about the book.",
+            "Because the woman receives the marriage proposal.",
+            "Because [person_1] thinks it more challenging to open the bottle this way.",
+            "Because [person_1] has done a set of exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will lift the third one.",
+            "[person_1] will hold the dumbbells.",
+            "Perhaps [person_1] will continue punching the mannequin.",
+            "[person_1] will peel the coco.",
+            "[person_1] would turn around and dance."
+        ],
+        "reason": [
+            "To do some strength training.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] steps back and gains momentum.",
+            "[person_1] is playing stacking cups.",
+            "Avoid hitting the tree forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s shoes are broken?",
+        "answer": [
+            "The [person_1] will fall.",
+            "Then [person_1] can't ride the bicycle.",
+            "[person_1] will go to the shop.",
+            "The rope will fall to the ground.",
+            "[person_1] would hang the poster of [person_1] back up once he's is done playing."
+        ],
+        "reason": [
+            "[person_1] needs a pen to take notes.",
+            "[person_1] would be too focused on playing guitar to notice.",
+            "To buy a new pair of shoes.",
+            "Because [person_1] is sitting in front of the camera.",
+            "[person_1] can't play the keyboard without a keyboard."
+        ]
+    }
+}

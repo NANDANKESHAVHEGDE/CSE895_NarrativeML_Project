@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_2]'s protective gear?",
+        "answer": [
+            "It is pink.",
+            "It is white.",
+            "The puffer.",
+            "It is black.",
+            "The mechanical bull is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] here?",
+        "answer": [
+            "They are practicing rugby.",
+            "[person_2] picked up the paper dropped on the floor.",
+            "They are practicing side - kicking to keep fit.",
+            "Maybe [person_1] wants to practice carefully.",
+            "To help support."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing the bagpipes.",
+            "[person_1] is going to drink orange juice.",
+            "[person_1] may take a photo of [person_1].",
+            "[person_1] is going to tackle the other.",
+            "[person_1] may be busy cutting pumpkins for a while."
+        ],
+        "reason": [
+            "[person_1] is making noodles thin and long.",
+            "[person_1] is paying attention to [person_1].",
+            "[person_1] finishes washing.",
+            "Because [person_1] is wearing typical rugby protective gear.",
+            "[person_1] is holding the flute and is about to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if one of them were injured?",
+        "answer": [
+            "Their training might be halted.",
+            "[person_2] might give up taking pictures.",
+            "The machine might be not as convenient.",
+            "[person_2] might take another photo.",
+            "The hoop would stop spinning."
+        ],
+        "reason": [
+            "Because the injured player had to receive proper medical treatment before going back to the field.",
+            "[person_1] is an old lady ; if she does not take care of herself , she could have a heart attack.",
+            "Because they performed very well.",
+            "[person_2] would not be able to control the machine as fully.",
+            "[person_2] would not date to touch the snake."
+        ]
+    }
+}

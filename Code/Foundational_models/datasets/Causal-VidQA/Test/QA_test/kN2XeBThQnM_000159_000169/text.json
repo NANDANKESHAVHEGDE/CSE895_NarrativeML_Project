@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is performing on stage.",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] play the cello?",
+        "answer": [
+            "[person_2] uses two fingers to remove the apple that was peeled to the red bucket.",
+            "[person_2] wants to swing the [person_2] before stopping.",
+            "Because [person_2] likes to play the cello.",
+            "[person_2] wants to do sports.",
+            "[person_2] rides it quite amateurishly."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to master the use of wheelchair.",
+            "[person_1] will stop playing the cello.",
+            "Maybe [person_1] intends to use onions to cook.",
+            "It is probable that [person_1] intends to play the guitar.",
+            "[person_1] intends to be a good teacher."
+        ],
+        "reason": [
+            "[person_1] is touching and pressing on the keyboard.",
+            "Maybe [person_1] finished the performance.",
+            "[person_1] is in the middle of the road.",
+            "[person_1] put down the weight.",
+            "[person_1] is standing next to the wall and holding the wallpaper on the wall."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't play cello?",
+        "answer": [
+            "[person_2] will not appear on stage.",
+            "[person_2] will be knocked down by the skater.",
+            "[person_2] will feel uncomfortable.",
+            "[person_2] will not be able to skate.",
+            "[person_2] would be exhausted."
+        ],
+        "reason": [
+            "[person_2] wants to stop bleeding.",
+            "Because [person_2] must inflate the balloons again.",
+            "Maybe [person_2] will play another instrument.",
+            "When [person_2] is on brink of hitting the door , [person_2] immediately closes the door.",
+            "The blood prevents [person_2] from sharpening the knife."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bench_1]?",
+        "answer": [
+            "It is white.",
+            "It is cloudy.",
+            "The [bench_1] is under the roof.",
+            "It is very nice.",
+            "There are three wheelbarrows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] run towards a house pillar?",
+        "answer": [
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] uses the [person_1] to spread the plaster on the wall.",
+            "[person_1] wants to climb on this pillar.",
+            "Because [person_1] is playing the gong.",
+            "[person_1] is helping [person_1] practice."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will keep moving one tool and put another tool into the lock.",
+            "[person_1] will continue running.",
+            "[person_1] will probably instruct others to do the same somersault.",
+            "[person_1] will continue to climb until he reach the roof.",
+            "[person_1] will keep to fly in the sky."
+        ],
+        "reason": [
+            "[person_1] is practicing with the poi.",
+            "[person_1] is training [person_1].",
+            "To change another kind of exercise.",
+            "[person_1] is not good at somersaults.",
+            "[person_1] climbs on the house pillar to reach the roof."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls while he is climbing?",
+        "answer": [
+            "[person_1] needs to shout.",
+            "[person_1] may stop climbing.",
+            "[person_1] can't instruct everyone to dance.",
+            "[person_1] may ask for climbing.",
+            "Everyone will be surprised."
+        ],
+        "reason": [
+            "Because after falling , [person_1] may be healthy and he can't climb.",
+            "There is a cup left in the sink.",
+            "Because after falling , [person_1] may have injuries and he can't climb.",
+            "Next to the left hand of [person_1] is a wall and [person_1] is standing close to it.",
+            "Because after falling , [person_1] may have injuries and he can climb."
+        ]
+    }
+}

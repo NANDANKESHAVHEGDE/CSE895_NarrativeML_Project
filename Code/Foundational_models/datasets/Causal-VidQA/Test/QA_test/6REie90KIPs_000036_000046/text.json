@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is it?",
+        "answer": [
+            "Yes.",
+            "It is at a concert.",
+            "[person_1] and [person_1] are are on the road.",
+            "the sheep is standing on a table.",
+            "It is in a yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a headset?",
+        "answer": [
+            "She has won the prize.",
+            "Maybe [person_1]'s other hand is injured.",
+            "[person_1] is practicing playing cymbal.",
+            "Because [person_1] just received a gift.",
+            "To avoid the noise from the circular saw."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to watch [person_1] open all the presents.",
+            "[person_1] will cut the watermelon open.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to lie on the ground.",
+            "[person_1] will run the circular saw."
+        ],
+        "reason": [
+            "To cut the board on the ground.",
+            "[person_1] is in the middle of his performance.",
+            "[person_1] is passing a beer bottle to the man in front of him.",
+            "[person_1] ground the stone into a shape.",
+            "[person_1] wants the birds perched on his hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the circular saw suddenly shorted out?",
+        "answer": [
+            "[person_1] will not go to the repair store.",
+            "[person_1] will have to burn candles.",
+            "[person_1] will go away from the repair store.",
+            "Food will scorch.",
+            "[person_1] will go to the repair store."
+        ],
+        "reason": [
+            "To break the circular saw.",
+            "There are many obstacles on the road.",
+            "To throw the circular saw.",
+            "Because the road will be empty , without trash.",
+            "To fix the circular saw."
+        ]
+    }
+}

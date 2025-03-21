@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a small library.",
+            "[person_1] is on the street.",
+            "[person_1] is in the storehouse.",
+            "[person_1] is in his home office.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the weights ?",
+        "answer": [
+            "Because the [person_1] is not tall enough.",
+            "[person_1] is snatching weight - lifting.",
+            "Because [person_1] just received a gift.",
+            "It seems that the [person_1] wants to pick something in the [person_1].",
+            "[person_1] is playing water slide."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift slowly.",
+            "[person_1] will sit there and curve.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will check the result."
+        ],
+        "reason": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] has lifted up the container.",
+            "[person_1] is leaving.",
+            "[person_1] and [person_1] are friends.",
+            "[person_1] is a boy and learning how to lift."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the weights?",
+        "answer": [
+            "[person_1] will not be hurt.",
+            "Maybe [person_1] will have to remove the picture.",
+            "[person_1] will be hurt.",
+            "[person_1] will return to help [person_1].",
+            "[person_1] will be taken care."
+        ],
+        "reason": [
+            "The weights is very heavy.",
+            "The baby is so happy because someone hug him.",
+            "The weights is very light.",
+            "Lifting dumbbell takes a lot of energy and [person_1] is too tired.",
+            "The weights is not very heavy."
+        ]
+    }
+}

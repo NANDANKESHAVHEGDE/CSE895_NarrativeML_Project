@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are the people doing?",
+        "answer": [
+            "It is in front of [person_1].",
+            "[person_1] is running on the road in the opposite direction with [person_1].",
+            "They are playing roller skating.",
+            "They are playing rock - paper - scissors.",
+            "[person_1] is tying a knot on [person_1]'s shoe."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the people play roller skating?",
+        "answer": [
+            "They want to win the competition.",
+            "[person_1] picked up the paper dropped on the floor.",
+            "The are practice before the competition.",
+            "Maybe [person_1] wants to practice carefully.",
+            "The dog finds running interesting."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will separate the two legs.",
+            "[person_1] would turn around and dance.",
+            "[person_1] will keep practicing.",
+            "[person_1] will calcine [person_1].",
+            "It is possible that [person_1] will go on polishing the shoes."
+        ],
+        "reason": [
+            "[person_1] will lean forward because right now his body is still moving to the front.",
+            "[person_1] is a child about nine years old.",
+            "The shoes haven't been finished polishing.",
+            "[person_1] seems to be full of energy and not tired.",
+            "[person_1] will keep spinning the plate until it falls."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if power is off?",
+        "answer": [
+            "Maybe the athletes won't play.",
+            "There will be dark.",
+            "The room will become dark.",
+            "The competition would be called off.",
+            "The people can't continue practice."
+        ],
+        "reason": [
+            "Otherwise the dancer will fall easily.",
+            "The room will become dark then.",
+            "[person_1] will complete her work.",
+            "The weight of weight lifting is too much for him.",
+            "The hot dog is dirty."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does the [person_1] wear on her head?",
+        "answer": [
+            "[person_1] is made of glass.",
+            "[person_1] is blue.",
+            "A pair of sunglasses and a helmet.",
+            "The door is white.",
+            "[person_1] is wearing a headphone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] wear so many clothes?",
+        "answer": [
+            "[person_1] is trimming his beard.",
+            "[person_1] is introducing the harmonica.",
+            "Because it is cold.",
+            "[person_1] is performing for [person_1] and [person_1].",
+            "Because there are not many people on the road and it is very suitable for practice."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_3] do?",
+        "answer": [
+            "The [person_3] will jump up.",
+            "[person_1] will eat the pizza.",
+            "The [person_1] will come here to meet the [person_1].",
+            "The [person_3] will walk away.",
+            "[person_1] and [person_1] will feel happy."
+        ],
+        "reason": [
+            "The surrounding looks like it is in a kindergarten.",
+            "Because she just talked about the method , the next step is to implement.",
+            "Because his drum is smaller and he drums slightly.",
+            "Because they are friends.",
+            "Because [person_3] is currently not on a racing track and [person_3] does not wear any protective gear."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the [person_1] wants to leave?",
+        "answer": [
+            "The [person_1] will wash the clothes for the [person_1].",
+            "[person_1] will have to go back to the gyro.",
+            "[person_1] will trip over [person_1]?",
+            "No one will help [person_1].",
+            "The [person_1] will leave immediately."
+        ],
+        "reason": [
+            "Because the [person_1] has the scooter.",
+            "To help cure the wound.",
+            "[person_1] doesn't want [person_1] to touch me.",
+            "Horses are afraid of strangers.",
+            "Toy cars are made of plastic."
+        ]
+    }
+}

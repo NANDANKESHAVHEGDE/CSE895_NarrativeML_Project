@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the house.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is opening the presents.",
+            "[person_1] is reading the newspaper.",
+            "[person_1] is painting the [person_1] on the table.",
+            "[person_1] is instructing [person_1] about the book.",
+            "[person_1] is reaching a hand to the right to get the bottle cap of the milk bottle."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may swim towards [person_1].",
+            "[person_1] will put in contact lenses.",
+            "[person_1] will continue climbing till her gets to the peak.",
+            "[person_1] would step back and let others come up and perform.",
+            "[person_1] will continue to read."
+        ],
+        "reason": [
+            "[person_1] will continue to play.",
+            "[person_1] has prepared a hole on the ground.",
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] reads the newspaper very enthusiastically.",
+            "[person_1] looks unsatisfied with the sound of the gong."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the newspaper?",
+        "answer": [
+            "Maybe [person_1] will enhance her elasticity.",
+            "The newspaper will fly down on the floor.",
+            "[person_1] will be sad.",
+            "It is possible that [person_1] will catch a cold.",
+            "It is possible that [person_1] will finish the trick."
+        ],
+        "reason": [
+            "If [person_1] fails to cut twice in a row , there must be a problem with the machine.",
+            "The sole of his dirty shoe will rub against the pants of [person_1].",
+            "[person_1] has just fell of the chair because [person_1] leaned on the chair strongly.",
+            "[person_1] will step down from the chair to pick it up.",
+            "Because [person_1] is [person_1]'s mom."
+        ]
+    }
+}

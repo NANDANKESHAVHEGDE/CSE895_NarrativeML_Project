@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "The [couch_1] is behind the [person_1].",
+            "[person_1] is on the sidewalk to [person_1]'s right.",
+            "The [couch_1] is next to [person_1].",
+            "The [couch_1] is next to the [couch_1].",
+            "The [couch_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise the left hand?",
+        "answer": [
+            "[person_1] introduces by words and pose.",
+            "[person_1] is demonstrating different ways to exercise.",
+            "[person_1] wants to be with nature when he is doing tai chi.",
+            "[person_1] is trying something like clothes.",
+            "Because [person_1] is preparing to knock the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is highly likely to knock on the gong.",
+            "It is anticipated that [person_1] will form many baskets.",
+            "[person_1] will shuffle the cards.",
+            "It is anticipated that [person_1] will shoot the marble out.",
+            "[person_1] will protect [person_1] below."
+        ],
+        "reason": [
+            "Maybe [person_1] is bored.",
+            "[person_1] wants to build a wall.",
+            "Hand's [person_1] is raising and then towards the gong.",
+            "[person_1] is running to find.",
+            "[person_1] is shaking the hula hoop longer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the gong in the right hand of [person_1] falls down?",
+        "answer": [
+            "[person_1] will not fly [person_1] anymore.",
+            "[person_1] will pick up the [person_1].",
+            "[person_1] will get hurt.",
+            "[person_1] will pick up the comb and wash it.",
+            "The [person_1] will dip the paint on the drawing board and continue to painting."
+        ],
+        "reason": [
+            "Cleaning agent is needed to bathe the dog.",
+            "To have a rest first.",
+            "The floor is very hard.",
+            "Because the gong is very heavy.",
+            "The fencing game is dangerous."
+        ]
+    }
+}

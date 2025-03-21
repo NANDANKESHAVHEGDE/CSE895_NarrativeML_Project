@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing mahjong.",
+            "[person_1] is making faces.",
+            "[person_1] is teaching yoga.",
+            "[person_1] is introducing how to slam the tire.",
+            "[person_1] is playing the harp."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] reaching for the ashtray?",
+        "answer": [
+            "[person_1] is helping [person_1] pump water to water plants.",
+            "[person_1] wants to exercise the body.",
+            "[person_1] wants to train to change body.",
+            "[person_1] is smoking and is trying to shake off the ashes.",
+            "The [person_1] is testing his balance by playing the mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] might continue reading the newspaper.",
+            "[person_1] is going to pick up the treat.",
+            "[person_1] is going to lower her body.",
+            "[person_1] may stand up.",
+            "[person_1] is going to use the ashtray."
+        ],
+        "reason": [
+            "the carpet is surrounding [person_1].",
+            "[person_1] is practicing for the pancake flip challenge.",
+            "[person_1] lies down , folds his arms in front of his chest , and is about to bend his body.",
+            "[person_1] keeps holding the ball in front of his chest , twists his body , lies down to the chair.",
+            "[person_1] is reaching for the ashtray."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_2] does not move?",
+        "answer": [
+            "[person_2] will put down the book.",
+            "[person_2] will be engulfed in smoke.",
+            "[person_2] will hold the barbell and prevent the barbell from hitting [person_2].",
+            "[person_2] will help [person_2] hold the barbell and prevent the barbell from hitting [person_2].",
+            "[person_2] may sit on the white stair."
+        ],
+        "reason": [
+            "[person_1] will not see the bass guitar clearly without glasses.",
+            "[person_1] is smoking next to [person_2].",
+            "Because workers are not allowed to enter the factory without protective suit.",
+            "Because [person_1] 's eyesight is poor.",
+            "[person_2] will use both hands to help [person_1]."
+        ]
+    }
+}

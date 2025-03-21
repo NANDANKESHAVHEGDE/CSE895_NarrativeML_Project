@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt which [person_1] is wearing?",
+        "answer": [
+            "It is red.",
+            "It is green.",
+            "It is blue.",
+            "It is gray.",
+            "[person_1] is \u00a0 wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside?",
+        "answer": [
+            "[person_1] is curious about the maracas.",
+            "[person_1] is trying to do somersaults.",
+            "[person_1] is whistling.",
+            "[person_1] is standing outside to make money preforming music as a street performer.",
+            "[person_1] is joining the process of grapes stomping."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will have some rest.",
+            "[person_1] will probably drink.",
+            "[person_1] might use [person_1] or [person_1] to replace the one [person_1] is currently using.",
+            "[person_1] will keep standing.",
+            "[person_1] is going to take out the paint roller."
+        ],
+        "reason": [
+            "Because the paint on the paint roller dries out.",
+            "[person_1] needs it to recover.",
+            "[person_1] will enjoy the moment.",
+            "The hair in cutting may get into her eyes.",
+            "Because these performers need to finish the show in turn."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] is tired?",
+        "answer": [
+            "There is no a baby on this car toy.",
+            "[person_1] will shout and cover his hips.",
+            "[person_1] will change the dress.",
+            "[person_1] will be smarter.",
+            "[person_1] will take a break."
+        ],
+        "reason": [
+            "To relax for a while.",
+            "[person_1] will take a short rest.",
+            "There is a chair near [person_1] and [person_1] can sit on that chair to do her work.",
+            "[person_1] can swim.",
+            "Grape stomping for a while may be tiring."
+        ]
+    }
+}

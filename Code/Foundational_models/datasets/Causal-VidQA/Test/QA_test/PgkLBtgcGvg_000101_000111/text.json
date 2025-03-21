@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is behind [chair_1].",
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is in the corner of the room.",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "[chair_1] is near the tree."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] having crutches?",
+        "answer": [
+            "It was a punishment for the loser.",
+            "[person_2] pour plaster on the [person_2] to take the plaster easily.",
+            "Maybe the weather is cold.",
+            "[person_2] is practicing walking with crutches after illness.",
+            "To relax himself while exercising."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue spinning the fire.",
+            "[person_2] is going to lift a doll.",
+            "[person_2] is going to continue practicing walking.",
+            "[person_2] may be going to lift the barbell up and down.",
+            "[person_2] is going to stand on the grass."
+        ],
+        "reason": [
+            "To continue to examine.",
+            "Because the practice has not finished yet.",
+            "[person_2] loves [person_2].",
+            "[person_2] flipped the cake failed and it splattered all over the table so she has to clean it.",
+            "[person_2] also helps other people besides him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] did not walk behind [person_2]?",
+        "answer": [
+            "[person_2] might not be able to sing fluently and correctly.",
+            "[person_3] might miss a key.",
+            "[person_2] would not go out.",
+            "[person_2] would be have leg pain.",
+            "[person_2] may fall."
+        ],
+        "reason": [
+            "Because [person_3] was helping [person_2] walking.",
+            "[person_3] is sitting behind the [person_2] back.",
+            "[person_2] got hurt because [person_2] fell off [person_3].",
+            "Because [person_3] will feel painful.",
+            "When [person_2] misses the baseball , home run cannot be performed."
+        ]
+    }
+}

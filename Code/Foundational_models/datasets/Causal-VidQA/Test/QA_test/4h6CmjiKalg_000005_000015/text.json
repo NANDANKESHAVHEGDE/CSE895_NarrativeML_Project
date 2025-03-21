@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is behind [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in a fitness center.",
+            "[dinning table_1] is behind [person_1].",
+            "[person_1] is in the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise her hand?",
+        "answer": [
+            "[person_1] stood up to help [person_1].",
+            "[person_1] is trying to do somersaults.",
+            "[person_1] tries to keep balance a plate.",
+            "[person_1] is losing weight . It is a fitness room.",
+            "[person_1] doesn't have a car."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may cut the cake with [person_1].",
+            "[person_1] may take a phone with the dancer.",
+            "[person_1] will stop kicking high.",
+            "[person_1] is going to land on her back.",
+            "[person_1] is going to continue having breakfast."
+        ],
+        "reason": [
+            "[person_1] can't keep her balance while doing somersaults.",
+            "[person_1] is preparing for a long jump.",
+            "[person_1] stands up and lift the bike up.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] spins plates in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] somersaults better?",
+        "answer": [
+            "[person_1] will go home.",
+            "[person_1] would have to ride the [person_1] on the main road,",
+            "The [person_1] will call the bank to have them come and repair it.",
+            "[person_1] will land on her feet.",
+            "[person_1] may picks the [person_1]."
+        ],
+        "reason": [
+            "If [person_1] is not careful , he'll trip.",
+            "[person_1] is sitting on the [person_1].",
+            "The [person_1] puts the apples in the [person_1].",
+            "If [person_1] can keep her balance , she can land on her feet to stand up afterwards.",
+            "Because the reason why the man standing on the ground is to ensure [person_1]'s safety."
+        ]
+    }
+}

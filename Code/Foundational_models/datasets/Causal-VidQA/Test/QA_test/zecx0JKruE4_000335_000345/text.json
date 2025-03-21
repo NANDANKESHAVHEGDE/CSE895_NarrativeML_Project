@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is blue.",
+            "The shirt is pink.",
+            "The shirt is \u00a0 black.",
+            "The shirt is black.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is practicing standing on hands.",
+            "Because [person_1] is opening present.",
+            "[person_1] is teaching the kids how to wrestle.",
+            "Because [person_1] is training.",
+            "Because [person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is certain to spray a painting.",
+            "[person_1] going to teach another techniques.",
+            "[person_1] is going to sit down.",
+            "[person_1] will get up.",
+            "[person_1] will put meat into the machine."
+        ],
+        "reason": [
+            "Maybe the weights are too heavy.",
+            "[person_1] looks like a couple.",
+            "The tap is still on.",
+            "[person_1] is working as a coach.",
+            "[person_1] walks away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the kids practice hard?",
+        "answer": [
+            "[person_1] will get a bit scraped up.",
+            "[person_1] may be in danger.",
+            "One of them is going to be a professional wrestler.",
+            "[person_1] wouldn't need to go forward.",
+            "[person_1] would not be able to hold the [person_1]."
+        ],
+        "reason": [
+            "Maybe it's the dream of one of them.",
+            "Because she has a lot of food here.",
+            "More person can do more job.",
+            "because [person_1] can't keep dancing while having cramp.",
+            "Because they need to stop for a rest."
+        ]
+    }
+}

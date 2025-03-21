@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the [car_1]?",
+        "answer": [
+            "It is purple.",
+            "The [car_1] is black.",
+            "It is black and white.",
+            "It is yellow.",
+            "The color of [car_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the wheelchair in the [car_1]?",
+        "answer": [
+            "Because [person_2] has to sit in the wheelchair.",
+            "[person_1] is not good at roller skating.",
+            "[person_1] uses several bottles to catch the juice.",
+            "The [person_1] jumps on the unicycle.",
+            "[person_2] uses [car_1] to make roasted marshmallows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will then take out the board.",
+            "[person_1] will wait for the machine working.",
+            "[person_1] will finish drawing the butterfly.",
+            "[person_1] will eat the hamburger.",
+            "It is foreseen that [person_1] will get in the [car_1]."
+        ],
+        "reason": [
+            "[person_1] is holding a guitar.",
+            "[person_1] helped [person_2] and put the wheelchair in the [car_1].",
+            "Because [person_1] has already unloaded the small car.",
+            "Because [person_1] has a tendency to jump at the end.",
+            "Because [person_1] just climbed a little."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] walked on feet of [person_2]?",
+        "answer": [
+            "[person_2] will feel pain.",
+            "[person_2] may bump into somethings.",
+            "[person_2] may be very disappointed.",
+            "[person_2] may continue recording his schedule of digging soil.",
+            "[person_2] wouldn't use the wheelchair."
+        ],
+        "reason": [
+            "Now [person_2] is not able to walk so [person_2] has to sit in the wheelchair.",
+            "Because [person_2] doesn't know where the toothbrush is in mouth.",
+            "[person_2] wants to finish project and needs to do arrangement before [person_2] arrives.",
+            "when [person_2] fails , person on the balcony will help [person_2] to do it again by tossing the bottle back down.",
+            "Because [person_2] and [person_2] are friends."
+        ]
+    }
+}

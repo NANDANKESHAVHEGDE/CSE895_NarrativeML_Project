@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is plastering a wall of a building.",
+            "[person_1] is opening a carton box.",
+            "[person_1] is opening the box of a gift.",
+            "[person_1] is playing in a big open field.",
+            "[person_1] is tickling [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing in a big open field?",
+        "answer": [
+            "[person_1] is placed on the ground to contain the money.",
+            "[person_1] is scared of the firework explosion.",
+            "perhaps [person_1] is playing in a big open field , so he doesn't disturb anyone with the loud sound of him playing.",
+            "[person_1] is going to put it onto the current domino string on the mat.",
+            "Maybe the teacher called him."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue to play his bagpipes loudly in the big open field.",
+            "[person_1] will go on spraying the wall.",
+            "[person_1] will continue to wash the other things in [person_1].",
+            "[person_1] will continue skiing.",
+            "[person_1] will keep talking."
+        ],
+        "reason": [
+            "[person_1] hasn't finished washing the dishes yet.",
+            "[person_1] will play his bagpipes loudly because he doesn't have to worry about disturbing anyone because no one is around.",
+            "[person_1] has not finished the performance.",
+            "[person_1] wants to practice more.",
+            "Because he seems to be quite interested in it."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if a wild animal ran out from the bushes and started chasing [person_1]?",
+        "answer": [
+            "She would be not able to walk anywhere.",
+            "[person_1] would keep his bagpipes and run away screaming.",
+            "[person_1] might not be as famous as she is.",
+            "[person_1] would drop his bagpipes and run away screaming.",
+            "[person_1] would be sad."
+        ],
+        "reason": [
+            "[person_1] wouldn't want to get hurt by the wild animal so he would run away.",
+            "[person_1] seems to be a celebrity.",
+            "[person_1] would want to get hurt by the wild animal so he would run away.",
+            "Because a hard box needs a harder stick to break.",
+            "[person_1] wouldn't want to hurt the wild animal so he would stay."
+        ]
+    }
+}

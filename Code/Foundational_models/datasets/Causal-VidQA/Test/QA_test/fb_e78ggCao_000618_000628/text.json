@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] has gray hair.",
+            "[person_1] looks like a student.",
+            "[person_1] is tall and thin.",
+            "[person_1] looks so muscular.",
+            "[person_1] looks quite old."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_3] sitting on the [chair_1]?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing \u00a0 basketball.",
+            "With his right hand.",
+            "They're waiting for their turn to lift weights.",
+            "[person_3] does not to remember all the moves , so he wants to follow [person_3]'s moves."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to bow to the audiences.",
+            "[person_2] is going to continue testifying.",
+            "[person_2] is going to pull the back of [person_2].",
+            "[person_2] is going to lift heavier weights.",
+            "[person_2] is going to kite surfing."
+        ],
+        "reason": [
+            "[person_2] is holding a micro and [person_2] is talking.",
+            "[person_2] is keen on the activity.",
+            "Maybe [person_2] finds it interesting to smoke.",
+            "[person_2] looks so strong and [person_2] can do it.",
+            "[person_2] wants to be good at baseball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] continues to practice?",
+        "answer": [
+            "[person_1] may need help to instruct him to plant trees.",
+            "[person_2] will not eat pork.",
+            "[person_2] may lose direction without the guide of [person_1].",
+            "[person_1] and [person_3] will have to wait.",
+            "[person_3] will ask [person_1] out."
+        ],
+        "reason": [
+            "It's not their turn yet.",
+            "The lifts might crush her feet seriously.",
+            "[person_2] can not practice lifting weights without the weights.",
+            "[person_2] should try harder.",
+            "When [person_2] unwraps the box , the box is too big for him to open."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The [person_2] is wearing a cap.",
+            "[person_2] is wearing a red shirt.",
+            "[person_2] is wearing a black shirt.",
+            "The shirt [person_2] wearing is yellow",
+            "The shirt is a black shirt with flowers."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] hold a micro?",
+        "answer": [
+            "To make a proposal.",
+            "[person_2] is performing his techniques.",
+            "[person_2] is trimming his beard.",
+            "[person_2] is showing audience how to use the inhaler.",
+            "[person_2] is the singer."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will definitely continue to play maracas.",
+            "[person_2] will get the coco and drink.",
+            "[person_2] will keep eating the food.",
+            "[person_2] will continue performing with [person_1] , [person_3] and [person_4].",
+            "[person_2] will try to climb the rope."
+        ],
+        "reason": [
+            "[person_2] doesn't eat the whole food yet and is holding it.",
+            "[person_2] has just turned a new page of the music sheet.",
+            "Because [person_2] still has many things which he can't understand.",
+            "[person_2] wants another high - five.",
+            "[person_2] is waiting for the balloon because there is no balloon in his hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not turn a new page?",
+        "answer": [
+            "The copy would not be as correctly.",
+            "He couldn't leave.",
+            "Watermelon can not be fixed on the skin of watermelon.",
+            "[person_2] , [person_1] , [person_3] and [person_4] will stop performing.",
+            "[person_1] would put the fire on his hand out by sticking his whole hand into the bucket."
+        ],
+        "reason": [
+            "[person_2] , [person_1] , [person_3] and [person_4] has finished the performance.",
+            "Vehicles and pedestrians traveling will spread the water too.",
+            "Because alcohol can't make people's brain awake.",
+            "[person_1] can't see in the dark.",
+            "[person_1] drops the fork."
+        ]
+    }
+}

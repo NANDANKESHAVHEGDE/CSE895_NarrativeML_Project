@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is colorful.",
+            "The room is dark.",
+            "The room is clean.",
+            "The room is cramped.",
+            "There are two vases."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting near the shredding machine?",
+        "answer": [
+            "[person_1] is teaching [person_1] how to squeeze the hand muscles.",
+            "Maybe [person_1] studying gymnastics.",
+            "[person_1] is recommending the product to everyone.",
+            "[person_1] is playing there.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go home.",
+            "[person_1] is going to put another paper inside the machine.",
+            "[person_1] is going to not eat.",
+            "[person_1] is going to continue waxing back for [person_1].",
+            "[person_1] is going to continue eating."
+        ],
+        "reason": [
+            "[person_1] is jumping very high.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] is a beginner.",
+            "[person_1] finished the action successfully and smiled",
+            "[person_1] introduced the machine."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the machine didn't work?",
+        "answer": [
+            "[person_1] would be tired.",
+            "That racers will eliminated from the contest.",
+            "[person_1] would fix the machine.",
+            "[person_1] would not be able to eat the candy with cream.",
+            "[person_1] would continue to find the man."
+        ],
+        "reason": [
+            "Horses are sensitive with sudden voice.",
+            "He's taking the baby to the hospital.",
+            "To check the condition of the small car.",
+            "[person_1] need the space in front of the basketball hoop to play.",
+            "[person_1] needs the machine to shred paper."
+        ]
+    }
+}

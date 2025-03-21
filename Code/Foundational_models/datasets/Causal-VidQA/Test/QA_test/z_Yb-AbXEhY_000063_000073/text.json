@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_3]'s shirt?",
+        "answer": [
+            "It is white.",
+            "It is gray.",
+            "It is black.",
+            "Blue.",
+            "They are black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the two people bend over the table?",
+        "answer": [
+            "He is reading a book.",
+            "Because [person_1] , [person_1] and [person_1] are in sharpening competition.",
+            "To do massaging neck.",
+            "Because there will be some guests coming to eat.",
+            "[person_1] is lifting weights."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do?",
+        "answer": [
+            "[person_3] will drink.",
+            "[person_3] is likely to introduce the sari.",
+            "[person_3] will continue to play with [person_3].",
+            "[person_3] will move to hit the shuttlecock back.",
+            "Teach how to do massaging neck."
+        ],
+        "reason": [
+            "Because [person_3] is not playing rugby but helping [person_1] practicing.",
+            "Because [person_1] is the tutor.",
+            "He smiles happily and seems interested in the game.",
+            "Maybe [person_3] is practicing boxing.",
+            "[person_3] fills the hole with soil to plant the banana tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the two people bending over the table get hurt?",
+        "answer": [
+            "[person_3] will look towards the door.",
+            "They might learn to talk like robots.",
+            "[person_3] will take them to the hospital.",
+            "[person_3] would stop and reply.",
+            "The meat will not be pork."
+        ],
+        "reason": [
+            "[person_1] is a executive director of plastic surgery.",
+            "Because they would not be able to open the door from the inside of the room.",
+            "[person_3] gets hurt.",
+            "To do some medical examinations.",
+            "There is a river under [person_3]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [apple_2]?",
+        "answer": [
+            "[apple_2] is white.",
+            "[apple_2] stands in front of [apple_2].",
+            "The [apple_2] is bouncing around.",
+            "the fur of [apple_2] is white , its face and legs are also black.",
+            "[apple_2] is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing exercise?",
+        "answer": [
+            "[person_1] wants to improve his health.",
+            "[person_1] is not familiar with this kind of fruit.",
+            "[person_1] wants to improve her health.",
+            "Because [person_1] is weaving and wants the threads to be close together.",
+            "[person_1] is rubbing [person_1]'s back."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift slowly.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to hold the camera.",
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to drink some water."
+        ],
+        "reason": [
+            "Because there are steps next to [person_1].",
+            "The body of [person_1] needs water after doing exercise.",
+            "[person_1] has finished [person_1]'s action.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did her exercise in the wrong way?",
+        "answer": [
+            "[person_1] will sharpen it.",
+            "[person_1] might suffer an injury to her back.",
+            "The birds will not come to [person_1].",
+            "The balloon would still be in it's original shape.",
+            "[person_1] may not drink beer."
+        ],
+        "reason": [
+            "[person_1] is doing a difficult exercise.",
+            "[person_1] will need help.",
+            "if the [person_1] falls on the road , he may get hit by a car.",
+            "When [person_1] is holding [person_1] . [person_1] is not moving.",
+            "Because [person_1] was sharing a bottle of beer with [person_1] so [person_1] needed to have a cup to drink with."
+        ]
+    }
+}

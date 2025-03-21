@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] , [person_2] , [person_3] and [person_4]?",
+        "answer": [
+            "[person_1] is playing beer pong outdoors.",
+            "[person_1] sit on the road.",
+            "They are practicing tai chi outside.",
+            "The [person_1] is on a window sill.",
+            "The [person_4] is on the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_3] slowly moving their hands?",
+        "answer": [
+            "[person_1] and [person_2] are doing tai chi.",
+            "Because the whether is very hot.",
+            "Stacking with a long cup is an advanced level.",
+            "Because they are practicing.",
+            "[person_1] is scared of the firework explosion."
+        ]
+    },
+    "predictive": {
+        "question": "How old is [person_3]?",
+        "answer": [
+            "Maybe someone is teaching [person_3] how to brush teeth.",
+            "They might have a good communication about their belief.",
+            "[person_3] will feel a lot of fatigue in her thighs.",
+            "It is difficult to say exactly , but it is possible that [person_3] is at his sixties.",
+            "Lie down on the couch."
+        ],
+        "reason": [
+            "He has good flexibility.",
+            "[person_3] is heaping up the sand and it looks like a castle.",
+            "Because it's the right time after paying . ",
+            "His hair is white.",
+            "Because it's not a good manner for [person_3] to eat before the guests arrive."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] , [person_2] , [person_3] and [person_4] may do tai chi inside the building.",
+            "[person_1] , [person_2] would stop running to find a shelter.",
+            "The [person_1] will not drive the dog crazy.",
+            "[person_4] would stop lighting the candle to get inside the building.",
+            "[person_2] will find a place for a shelter and wait for the result."
+        ],
+        "reason": [
+            "Because there are many planted trees nearby , so [person_1] may dig this pit to plant trees.",
+            "It is possible to do tai chi inside because doing tai chi does not need much space.",
+            "[person_1] is outside.",
+            "Rainy days are not suitable for riding.",
+            "[person_1] is outside."
+        ]
+    }
+}

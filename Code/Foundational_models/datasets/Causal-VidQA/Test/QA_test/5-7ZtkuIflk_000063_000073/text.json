@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shoes?",
+        "answer": [
+            "It is purple.",
+            "It is pink.",
+            "They are black.",
+            "There are ingredients.",
+            "the shirt of [person_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] may just take up skating.",
+            "[person_1] is squeezing oranges with a juicer.",
+            "[person_1] is here to tag the graffiti.",
+            "[person_1] is training spinning poi.",
+            "[person_1] is introducing how to do massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to continue tagging the graffiti.",
+            "[person_1] will continue adjusting colors until finishing it.",
+            "[person_1] is going to play.",
+            "[person_1] is going to stand under the tree.",
+            "[person_1] will record somewhere else."
+        ],
+        "reason": [
+            "Because it seems that there is still a lot work to do.",
+            "[person_1] really likes dancing and is not done for the day.",
+            "[person_1] is paying all attention on the painting.",
+            "[person_1] seems to quite enjoy it and does not intend to stop.",
+            "[person_1] is very focus on playing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color?",
+        "answer": [
+            "[person_1] might have to compensate for what [person_1] had done.",
+            "[person_1] would keep playing with another gong.",
+            "[person_1] might not have to compensate for what [person_1] had done.",
+            "[person_1] would keep doing tai chi.",
+            "[person_1] might have to compensate for what [person_1] had not done."
+        ],
+        "reason": [
+            "Shy boys behave better.",
+            "Because it would ruin the graffiti.",
+            "There is still much noodle in [person_1].",
+            "Because it would not ruin the graffiti.",
+            "[person_1] feels uncomfortable with a heavy hat on."
+        ]
+    }
+}

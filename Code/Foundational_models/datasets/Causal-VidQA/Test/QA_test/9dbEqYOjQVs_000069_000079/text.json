@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is a grey shirt.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The shirt is white.",
+            "[person_1] wears a blue plaid shirt.",
+            "The shirt is gray."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the faucet upside down?",
+        "answer": [
+            "Because [person_1] feels like watching water come out.",
+            "Maybe [person_1] wants to make sound.",
+            "Because [person_1] is playing the flute requires fingers.",
+            "Because [person_1] is playing the guitar.",
+            "Maybe [person_1] is under stress."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to water the plants.",
+            "[person_1] will get more cards",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to stack three more cups."
+        ],
+        "reason": [
+            "[person_1] is watering the plants.",
+            "Because there are steps next to [person_1].",
+            "[person_1]'s feet are numb.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] has finished checking the computer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't get his clothes wet?",
+        "answer": [
+            "[person_1] would be have to change clothes.",
+            "[person_1] wouldn't know how to use the broom.",
+            "Sweet potatoes won't ripen.",
+            "[person_1] would be unhappy.",
+            "[person_1] would look around the wire to plug it back in so he could get back to work."
+        ],
+        "reason": [
+            "[person_1] and others are in the outside.",
+            "The hair is in [person_1]'s hands , if [person_1] loosens , it is difficult to continue.",
+            "The force of the faucet is quite strong.",
+            "[person_1] played with water and wet his clothes.",
+            "[person_1] can't apply foundation evenly without a mirror."
+        ]
+    }
+}

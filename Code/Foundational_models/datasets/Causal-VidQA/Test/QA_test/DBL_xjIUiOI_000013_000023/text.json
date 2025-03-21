@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like ?",
+        "answer": [
+            "[person_1] is staring at the burning marshmallow.",
+            "[person_1] looks young and wears glasses.",
+            "[person_1] looks young and chubby.",
+            "[person_1] looks like a middle - aged man.",
+            "[person_1] is very beautiful."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting ?",
+        "answer": [
+            "[person_1] takes each cup and arranges them higher and higher.",
+            "[person_1] is being silly playing the bagpipes in his house.",
+            "It is easier to handle the apple skin when the white bucket is placed on [person_1].",
+            "Because [person_1] is playing xylophone.",
+            "[person_1] is stacking the cups on the table."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] will check the honey.",
+            "[person_1] is going to continue stacking the cups.",
+            "[person_1] does a workout.",
+            "[person_1] will play basic chords.",
+            "[person_1] may take off the clip."
+        ],
+        "reason": [
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] is [person_1]'s partner.",
+            "[person_1] has lifted up the container.",
+            "Because [person_1] is going to chop something.",
+            "Maybe [person_1] is focus on playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "The room will be still bright.",
+            "[person_1] maybe afraid.",
+            "[person_1] will be stop talking.",
+            "[person_1] maybe afraid",
+            "[person_1] maybe stop stomping."
+        ],
+        "reason": [
+            "[person_1] will stop running.",
+            "There will be no electricity.",
+            "[person_1] will be afraid of the dark.",
+            "It is daytime.",
+            "The burner will turn off."
+        ]
+    }
+}

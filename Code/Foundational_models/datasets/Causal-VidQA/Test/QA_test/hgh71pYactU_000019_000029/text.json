@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [chair_2] big?",
+        "answer": [
+            "They are at home.",
+            "[chair_2] and [chair_2] are in the room.",
+            "Yes , it is.",
+            "[chair_2] and [chair_2] are on the stage.",
+            "[chair_2] and [chair_2] are in the game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shaking her head?",
+        "answer": [
+            "[person_1] is making fun for [person_2].",
+            "[person_1] is riding [person_1].",
+            "[person_1] is trimming his beard.",
+            "[person_1] likes to let her hair down.",
+            "[person_1] is a little nervous."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after holding [person_2] ? ",
+        "answer": [
+            "[person_1] will start to play with these cups.",
+            "[person_1] is going to play with [person_2].",
+            "[person_1] will go to pick goods.",
+            "[person_1] will go on eating the cake.",
+            "[person_1] will continue to eat."
+        ],
+        "reason": [
+            "It appears that [person_1] concentrates on the painting and uses the bottles.",
+            "Because they eat cake for the birthday.",
+            "[person_1] seems to throw [person_2] around and makes [person_2] happy.",
+            "Because she needs to grab the rock above to let her go up.",
+            "[person_1] is focusing attention on them."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is hungry?",
+        "answer": [
+            "Maybe [person_1] can not read book.",
+            "[person_2] will slap [person_1] on the back.",
+            "[person_2] will hurry [person_1] up.",
+            "The [person_1] will leave here.",
+            "Maybe [person_1] will take food for [person_2]."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are friendly together.",
+            "Because [person_1] will fall down from the chair to the ground.",
+            "Singing can help [person_1] to feel less sad.",
+            "It will melt if [person_1] puts it outside.",
+            "Dirty hands can not touch cake."
+        ]
+    }
+}

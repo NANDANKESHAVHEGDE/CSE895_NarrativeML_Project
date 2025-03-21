@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is on the stage.",
+            "[person_2] is sitting in front of the keyboard.",
+            "One.",
+            "Four.",
+            "Six."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing?",
+        "answer": [
+            "[person_1] is jumping to throw balls.",
+            "[person_1] must rest the guitar on his thighs.",
+            "[person_1] is watching the band.",
+            "Because this bucket has some problem.",
+            "[person_1] is playing basketball with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_2] intends to keep shaking the glass bottle.",
+            "[person_2] intends to land on her back.",
+            "[person_2] intends to throw something.",
+            "[person_2] intends to pick up the cards and watch.",
+            "[person_2] intends to keep playing drums."
+        ],
+        "reason": [
+            "[person_2] is holding a wine glass.",
+            "[person_2] wants to have a relaxation time.",
+            "[person_2] still moves hands up and down with drumsticks.",
+            "[person_2] is still holding the weight.",
+            "[person_2] is still holding the glass bottle and keeps moving it around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] also wanted to perform on stage?",
+        "answer": [
+            "[person_2] would invite [person_1] to leave them.",
+            "[person_1] may have water asphyxia.",
+            "[person_2] would invite [person_1] to join them.",
+            "[person_1] may get complaints from [person_1]'s patients.",
+            "[person_1] would invite [person_2] to join them."
+        ],
+        "reason": [
+            "A good band is always open to try new things.",
+            "[person_1] closed his eyes so he can't see where he was throwing the ball.",
+            "A good band is always closed to try new things.",
+            "[person_1] did not see the man so he could not catch him photobombing.",
+            "A good band is always open to try old things."
+        ]
+    }
+}

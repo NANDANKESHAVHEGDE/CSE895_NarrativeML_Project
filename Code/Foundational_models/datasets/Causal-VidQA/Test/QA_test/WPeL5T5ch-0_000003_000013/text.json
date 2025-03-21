@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Which cups did [person_1] use to stack the dice?",
+        "answer": [
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] and [person_1] is in the kitchen.",
+            "[person_1] used a glass cup to stack the dice.",
+            "[person_1] is holding 4 apples.",
+            "[person_1] is holding a piece of pulp from the coco he cuts."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is excited about stacking the objects in front of her.",
+            "[person_1] is a baby.",
+            "[person_1] is sitting on the floor to stack the dice easier.",
+            "[person_1] is sitting and playing maracas.",
+            "[person_1] is playing with the maraca."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after finishing the game?",
+        "answer": [
+            "[person_1] is going to pull a face.",
+            "[person_1] is going to take a short break.",
+            "[person_1] is about to drink.",
+            "[person_1] is going to put his cup away.",
+            "[person_1] is going to take his position."
+        ],
+        "reason": [
+            "[person_1] needs to rest to regain her strength before moving on to other exercises.",
+            "Because [person_1] took part in a game . Everyone needs to prepare a handicraft.",
+            "[person_1] picked the food up and put it in the mouth.",
+            "It seems that [person_1] is quite satisfied with his performance.",
+            "Because people who just held the boards didn't leave and seem to hold the boards again."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not hold the cup firmly when swinging to stack the dice?",
+        "answer": [
+            "[person_1] may not greet [person_1].",
+            "[person_1] might slide off the table.",
+            "[person_1] would stop practicing.",
+            "[person_1] would not dance in a couple.",
+            "Maybe the cup would be broken down."
+        ],
+        "reason": [
+            "The cup is made of glass and it is easy to break down if it is splashed out.",
+            "The fragments of the broke bottle could hurt [person_1].",
+            "[person_1] was bragging on stacking dice which mean fast stacking is not necessary.",
+            "An experienced aesthetician knows how to remove the hair with the least amount of trauma to the skin.",
+            "[person_1] has been resting for a long time."
+        ]
+    }
+}

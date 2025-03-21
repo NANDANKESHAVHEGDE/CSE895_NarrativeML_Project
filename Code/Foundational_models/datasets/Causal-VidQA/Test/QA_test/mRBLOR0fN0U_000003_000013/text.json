@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the dining [table_1]?",
+        "answer": [
+            "It is on [table_1].",
+            "White.",
+            "[table_1] and [table_1] are at the workshop.",
+            "[table_1] is young and small.",
+            "it is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people?",
+        "answer": [
+            "Because they are tagging them.",
+            "[person_3] has bad eyesights.",
+            "[person_3] doesn't want to.",
+            "Maybe the juice isn't as good as using a stomp.",
+            "It seems that they are celebrating something."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_8] do after standing for quite a long time?",
+        "answer": [
+            "[person_8] will show people how to use the watch.",
+            "[person_8] will go on playing with others . ",
+            "[person_8] will mix something more into the cup [person_8] just poured milk into.",
+            "[person_8] will eat.",
+            "[person_8] will continue riding."
+        ],
+        "reason": [
+            "They are here for a dinner party.",
+            "Because [person_8] has been watching.",
+            "[person_8] feels hot.",
+            "Because [person_8] hasn't seen her mother for a long time.",
+            "Because they had the exercise on the playground where there are many basketball stands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_3] do if someone is ill?",
+        "answer": [
+            "[person_3] will stop [table_1].",
+            "[person_3] has to stand up.",
+            "[person_8] will stop it.",
+            "[person_3] will recommend the hand cream to [person_3].",
+            "[person_3] will stop it."
+        ],
+        "reason": [
+            "Life is the least important , they should take care about the ill person.",
+            "Because boys are tend to fight.",
+            "Life is the most important , they should take care about the ill person.",
+            "Cooking needs seasoning.",
+            "Life is the most important , they should take care about the healthy person."
+        ]
+    }
+}

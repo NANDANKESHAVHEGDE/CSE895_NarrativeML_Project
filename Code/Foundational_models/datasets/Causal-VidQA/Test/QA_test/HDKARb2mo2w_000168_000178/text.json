@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [book_1] on the desk?",
+        "answer": [
+            "There are two in the garden.",
+            "There are two gongs here.",
+            "There are two televisions.",
+            "No , the [book_1] is not . The [book_1] is on the shelf.",
+            "Slowly."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] stand behind the microphone?",
+        "answer": [
+            "[person_1] is taking a bath.",
+            "Because the [person_1] is performing the song with accordion.",
+            "The [person_1] touches treble keyboard to talk about the usage of treble keyboard.",
+            "The [person_1] wanted to eat them.",
+            "Because [person_1] tries to clamp the beer cap with his belly meat."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] wants to check that the tire is still working.",
+            "The [person_1] is going to ride the [person_1] on a sunny road.",
+            "The [person_1] may keep moving body when performing.",
+            "The [person_1] is going to wash the feet of the [person_1].",
+            "the [person_1] is going to continue riding the [person_1]."
+        ],
+        "reason": [
+            "The [person_1] is washing the foot of the [person_1] and there is a cloth on the thighs of the [person_1].",
+            "The [person_1] is drawing the rope of the [person_1].",
+            "The [person_1] moves body to appreciate music.",
+            "The [person_1] has kicked two other balls then he steps back , prepares to kick the last ball.",
+            "The [person_1] is washing the spoon under the water and there is a shelf nearby."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] remembers the music note chart for this song?",
+        "answer": [
+            "The [person_1] would record it in the video.",
+            "The [person_1] will perform this song.",
+            "[person_1] would stop and make response.",
+            "[person_1] would not fall.",
+            "[person_1] will not cry."
+        ],
+        "reason": [
+            "The [person_1] remembers the music notes to perform well.",
+            "When [person_1] shakes the cup , she prepares her dices on the table.",
+            "Because [person_1] can score and become the winner.",
+            "There are a lot of people in the parking lot.",
+            "Because [person_1] is too young to stand firmly , he's still wearing a diaper."
+        ]
+    }
+}

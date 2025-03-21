@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_5] doing?",
+        "answer": [
+            "The screen is put on the desk.",
+            "[person_5] is parking in front of the house?",
+            "[person_5] is parking behind [person_5].",
+            "Black.",
+            "[person_5] is giving massage to that girl's head."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] give the massage?",
+        "answer": [
+            "[person_1] leans forward to press the toy in front of [person_1] down.",
+            "[person_5] flicks her hair softly with his fingers.",
+            "Because it is so cold in winter , so [person_1] uses the fireplace to heat.",
+            "[person_1] is happy.",
+            "[person_5] needed to grab the bar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go downhill.",
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will further press her head.",
+            "[person_1] may get out of the pool.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "It is heavy rainy.",
+            "Because the bike got stuck.",
+            "[person_1] seems to enjoy it a lot.",
+            "For further massage.",
+            "Because [person_1] was opening hands to signal [person_1] to swim towards [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't have long hair?",
+        "answer": [
+            "[person_1] would not receive this kind of massage.",
+            "[person_1] would feel more comfortable.",
+            "[person_1] would receive this kind of massage.",
+            "It is possible that [person_1] won't be able to get down the stairs.",
+            "[person_1] would not send this kind of massage."
+        ],
+        "reason": [
+            "Flicking the hair is a kind of massage.",
+            "It is very difficult and dangerous for [person_1] to go down the stairs in a wheelchair.",
+            "Cutting the hair is a kind of massage.",
+            "The box is made of glass so it's very fragile.",
+            "Tearing the hair is a kind of massage."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall ?",
+        "answer": [
+            "The wall is white.",
+            "The wall is yellow.",
+            "The wall is black.",
+            "The wall is blue.",
+            "The flute is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room ?",
+        "answer": [
+            "[person_1] is practicing standing on his hands.",
+            "[person_1] is standing up to play his guitar in front of the camera.",
+            "To teach [person_1] how to make sushi.",
+            "The view at the window is beautiful.",
+            "They are the audiences and the judges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to join the game.",
+            "[person_1] is going to continue teaching.",
+            "[person_1] is going to pick the ball up and then throw it again.",
+            "[person_1] will go to pick up the frisbee.",
+            "Maybe [person_1] is going to stop standing on hands."
+        ],
+        "reason": [
+            "The dish has been done and plated well.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] seems to be moving forward.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "[person_1] is wearing tap dancing shoes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't wear shoes?",
+        "answer": [
+            "[person_1] may not feel cold.",
+            "[person_1] will feel it lacks vitality.",
+            "It is possible that [person_1] won't have curly eyelashes.",
+            "[person_1] can not play bagpipes.",
+            "[person_1] will be fall when practicing."
+        ],
+        "reason": [
+            "Putting on lipstick can make [person_1] younger.",
+            "There is no protection.",
+            "It might look old.",
+            "It's easy to catch a cold if you don't dry your hair.",
+            "Because the wall is very slippery."
+        ]
+    }
+}

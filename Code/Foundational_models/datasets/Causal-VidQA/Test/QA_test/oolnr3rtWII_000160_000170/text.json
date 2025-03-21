@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are the fans that [person_1] , [person_3] and [person_6] are holding?",
+        "answer": [
+            "It is a dish.",
+            "It's black.",
+            "[person_1] , [person_3] and [person_6] are holding red fans.",
+            "No.",
+            "It is for holding [person_3]'s microphone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_3] and [person_6] holding the fans?",
+        "answer": [
+            "[person_1] prepares to discover the gifts.",
+            "[person_1] and [person_3] are playing didgeridoo.",
+            "[person_1] is learning how to stack cups.",
+            "[person_1] and [person_1] are doing yoga.",
+            "They want to make tai chi more beautiful and smoothly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to?",
+        "answer": [
+            "[person_1] is going to drink.",
+            "The golf will fall on the grass far away.",
+            "[person_1] will play with the snow.",
+            "[person_1] will touch the water.",
+            "[person_1] is going to move towards."
+        ],
+        "reason": [
+            "Because the painter needs them to light up the room.",
+            "Because the golf will be hit by someone heavily.",
+            "[person_1] wants to coach others to play golf.",
+            "[person_1] stood up and turned right , then bent her right knee slightly.",
+            "Her foot is ready to walk towards."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were one more person who joined the [person_1]'s team?",
+        "answer": [
+            "The four people would stand into two rows.",
+            "[person_1] would take another video.",
+            "The four people would stand into three rows.",
+            "The plates would be broken.",
+            "The four people would stand into four rows."
+        ],
+        "reason": [
+            "It looks like that four rows may be more beautiful because the number of performers in each row is not equal.",
+            "Because the photographer intended to take a picture without any human on it ; otherwise , he had to re - capture another photo.",
+            "It looks like that two rows may be more beautiful because the number of performers in each row is equal.",
+            "Tiles are slippery with water.",
+            "It looks like that two rows may be more beautiful because the number of performers in each row is not equal."
+        ]
+    }
+}

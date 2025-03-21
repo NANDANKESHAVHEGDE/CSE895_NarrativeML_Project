@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is in the room.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] drinking water?",
+        "answer": [
+            "[person_3] is playing basketball inside a room.",
+            "[person_3] can't hold the guitar if she's standing.",
+            "[person_3] lost the game.",
+            "[person_3] is watching [person_3].",
+            "Yes , they are."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will take a break for 5 minutes.",
+            "[person_2] will hold the chess pieces.",
+            "[person_2] will stand up.",
+            "[person_2] will continue playing the game.",
+            "[person_2] will keep shaking his head."
+        ],
+        "reason": [
+            "[person_2] is still being chased.",
+            "[person_1] wants to reduce stress.",
+            "Because [person_2] hasn't finished it.",
+            "Because [person_1] enjoys the game very much.",
+            "[person_2] is afraid that [person_1] falls down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "Maybe [person_1] will go to another place to play.",
+            "[person_1] will go to another place.",
+            "[person_1] will not read book.",
+            "[person_1] will not continue reading book.",
+            "Maybe [person_1] will stop playing beer pong."
+        ],
+        "reason": [
+            "The internet will be off , too.",
+            "The fan will turn off.",
+            "The room will be dark then.",
+            "It will be too dark to see much.",
+            "The lights are off , too."
+        ]
+    }
+}

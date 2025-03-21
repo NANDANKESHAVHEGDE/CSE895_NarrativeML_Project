@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the house ?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "[person_1] is behind [person_1].",
+            "[person_1] is sitting at the piano.",
+            "It is quite beautiful.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the house ?",
+        "answer": [
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is playing lute.",
+            "[person_1] is opening a gift.",
+            "[person_1] is sitting and playing flute.",
+            "[person_1] is playing chess with someone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will hurry back home.",
+            "[person_1] may have to pick up the five pointed star.",
+            "[person_1] will keep on playing.",
+            "[person_1] will go off immediately.",
+            "[person_1] will get off to wander."
+        ],
+        "reason": [
+            "Because [person_1] does not show any skills of a professional ball thrower nor [person_1] is performing on a professional match.",
+            "Because it is a little tired to interpret.",
+            "It seems that he is on a important occasion.",
+            "The action is too exhausting , and they have played really strenuously.",
+            "[person_1] is playing it in a concentrated way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone comes near [person_1] ?",
+        "answer": [
+            "Perhaps [person_1] will keep playing.",
+            "The shovel of the [person_1] might touch the legs of the [person_1].",
+            "[person_1] will put the flute down on the table.",
+            "[person_1] will pick [person_1] up right away.",
+            "[person_1] will get hurt."
+        ],
+        "reason": [
+            "Because [person_1] has already given [person_1] a biscuit , [person_1] will cry if [person_1] gives [person_1] this too.",
+            "Maybe [person_1] will talk or play with someone.",
+            "Because the soles of shoes of people would become dirty.",
+            "Because [person_1] somersaults with [person_1] , if [person_1] falls , [person_1] will help [person_1] up immediately.",
+            "Because [person_1] just hit hard so the strength of hard hitting will make [person_1] feel pain."
+        ]
+    }
+}

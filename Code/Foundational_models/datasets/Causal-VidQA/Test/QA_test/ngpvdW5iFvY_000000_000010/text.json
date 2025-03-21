@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "It is white and black.",
+            "It is cylindrical.",
+            "It is black.",
+            "It is white.",
+            "The [chair_1] is in front of the [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] simile?",
+        "answer": [
+            "He enjoy the [chair_1].",
+            "Because this is a game table.",
+            "[chair_1] is racing.",
+            "Maybe [chair_1] is practicing playing harp.",
+            "The [person_2] seems to be looking for something in the refrigerator."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will tend to pull [person_1] . ",
+            "[person_2] will practice riding a bike.",
+            "[person_2] will play the steer roping.",
+            "[person_2] will probably practice the cello.",
+            "[person_2] will continue watching what [person_1] is doing and learning."
+        ],
+        "reason": [
+            "[person_2] is pointing at the chess piece.",
+            "Because [person_2] wants to do well.",
+            "[person_2] is still being chased.",
+            "[person_2] is practicing martial arts.",
+            "[person_2] is afraid that [person_1] falls down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_2] can't continue practice.",
+            "The machine will be broken.",
+            "[person_1] can stop practice.",
+            "[person_1] will not play anymore.",
+            "They people can't walk outside."
+        ],
+        "reason": [
+            "[person_2] will get wet if it rains.",
+            "Plants will die without water.",
+            "The cows will get wet.",
+            "The concrete gets wet.",
+            "The rain will wash away the chemicals."
+        ]
+    }
+}

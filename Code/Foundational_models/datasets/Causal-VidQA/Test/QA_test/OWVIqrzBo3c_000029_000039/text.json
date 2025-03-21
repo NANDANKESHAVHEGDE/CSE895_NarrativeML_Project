@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is blue.",
+            "It is why.",
+            "It is red.",
+            "A bubble machine.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people here?",
+        "answer": [
+            "Because they don't have time in the day.",
+            "They are here to relax and play with the others.",
+            "Because the space in the room is a bit dark.",
+            "They will be used for painting later.",
+            "Because it's hot outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will find a chair.",
+            "[person_1] will keep skating.",
+            "[person_1] will take [person_1] home.",
+            "[person_1] will ask [person_2] for help to comb hair.",
+            "[person_1] may tackle back [person_2]."
+        ],
+        "reason": [
+            "[person_1] is dancing for the audience.",
+            "[person_1] does not seem to stop anytime soon.",
+            "Because [person_1] has already been tackled by [person_2] . Therefore , [person_1] may do it as a pay back at [person_2].",
+            "[person_1] finds somersaults fun.",
+            "[person_1] seems to enjoy it very much."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "The team would stop performing.",
+            "The people would have to find shelter.",
+            "[person_1] would stop herding the goats.",
+            "They might get wet.",
+            "The [person_2] would stop picking apples and shelter from the rain."
+        ],
+        "reason": [
+            "They are playing in a building.",
+            "Because this field is completely open and there is hardly any shelter nearby to avoid the rain.",
+            "The road would be very slippery if it rained so it would cause her to fall.",
+            "there is no roof for her and the mechanical bull.",
+            "There are many tents that have been set up outside."
+        ]
+    }
+}

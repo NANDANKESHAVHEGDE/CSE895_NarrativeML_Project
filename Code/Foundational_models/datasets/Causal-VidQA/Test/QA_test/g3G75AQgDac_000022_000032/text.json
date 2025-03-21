@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the big room.",
+            "[person_1] and [person_2] are in a massaging room.",
+            "[person_1] and [person_2] are in their bedroom.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_2] and [person_1] are in the big room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] standing on the floor?",
+        "answer": [
+            "The large square is specific for cars.",
+            "[person_2] is playing darts.",
+            "[person_2] and [person_2] are spinning the rope for [person_2].",
+            "[person_2] is helping [person_2] and [person_2] skip the ropes.",
+            "The [person_2] is trying to pick blueberries."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will stop stretching arm.",
+            "[person_2] is going to give presents for children.",
+            "[person_2] is going to take the darts back.",
+            "[person_2] is going to talking louder.",
+            "[person_2] may take [person_2] off the tree."
+        ],
+        "reason": [
+            "[person_2] likes to eat pizza.",
+            "Maybe [person_2] loves to eat noodles.",
+            "Because [person_2] looks at the cakes and smells them.",
+            "[person_2] wants to play again.",
+            "[person_2] is using an equipment to do that."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the dartboard falls to the floor?",
+        "answer": [
+            "[person_2] will hang it down.",
+            "[person_2] would not able to open it by hands.",
+            "[person_2] will hang it up.",
+            "[person_2] would be caught by the man.",
+            "[person_2] won't hang it up."
+        ],
+        "reason": [
+            "To help the work go smoothly.",
+            "The dartboard doesn't need to be hung on the wall.",
+            "Make egg tart delicious.",
+            "The dartboard needs to be hung on the wall.",
+            "It's sunny outside."
+        ]
+    }
+}

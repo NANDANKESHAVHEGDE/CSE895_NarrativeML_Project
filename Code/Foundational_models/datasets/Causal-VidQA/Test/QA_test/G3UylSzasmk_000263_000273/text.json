@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing on his head?",
+        "answer": [
+            "[person_1] is slamming the tire.",
+            "A black hat.",
+            "Black.",
+            "[person_1] is wearing a hat on his head.",
+            "[person_1] is wearing black pants with white line."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] touching the guitar in his hands?",
+        "answer": [
+            "Because the person lying on the bed feels comfortable.",
+            "[person_1] is performing on the stage.",
+            "Because they're teasing the children.",
+            "[person_1] is playing a song on the guitar.",
+            "[person_1] is taking photo."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will finish showing off his musical talent by playing the entire song and then finish.",
+            "[person_1] will finish talking and then record himself doing another guitar technique.",
+            "[person_1] will continue to play the song.",
+            "[person_1] will finish arranging the dishes and then have the camera look at her work closely.",
+            "[person_1] will finish sheering the sheep and then teach the people in the audience how to do something else."
+        ],
+        "reason": [
+            "[person_1] walks over to the camera and reaches towards it like he will grab it.",
+            "[person_1] is enjoying playing the harmonica.",
+            "[person_1] is having fun playing music , so he will continue the song.",
+            "[person_1] will want to practice till he gets tired to improve his skill at playing guitar.",
+            "[person_1] is a child playing with the sander , so they will continue playing with it until the table is completely sanded."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] was playing guitar in the middle of the night?",
+        "answer": [
+            "[person_1] would keep typing.",
+            "[person_1]'s wife would be angry , and she would come into the room to yell at him to go to bed.",
+            "The man in the back will feel happy.",
+            "[person_1] would be punished for losing.",
+            "[person_1] would be famous."
+        ],
+        "reason": [
+            "The handles need enough space.",
+            "[person_1] doesn't have the cover.",
+            "[person_1] shouldn't be training too hard.",
+            "[person_1] is wearing a wedding ring on his hand , and if he was playing in the night , his wife wouldn't be able to sleep.",
+            "[person_1] is talented."
+        ]
+    }
+}

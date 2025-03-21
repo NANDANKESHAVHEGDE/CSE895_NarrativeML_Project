@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding two dumbbells.",
+            "[person_1] is holding a shoe polish."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a shoe polish?",
+        "answer": [
+            "cleaning the shoe with shoe polish is cleaner than cleaning with hands.",
+            "[person_1] does parkour by jumping over a chair and the [person_1].",
+            "To relax himself while exercising.",
+            "[person_1] and [person_1] are whistling.",
+            "[person_1] wanted to smell the feet."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may brush stains on the shoe.",
+            "[person_1] is going to squeeze more oranges.",
+            "[person_1] is going to rest for a while.",
+            "To borrow the bubble machine from [person_1].",
+            "[person_1] is going to take it off."
+        ],
+        "reason": [
+            "[person_1] shaved off the bottom part of his beard.",
+            "[person_1] is rubbing the shoe over and over again.",
+            "[person_1] is putting hand on the corner of the page.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] has finished the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] puts the shoe on the [bed_1]?",
+        "answer": [
+            "[person_1] will bump into a chair.",
+            "The [person_1] will ask his parents to teach him.",
+            "The [bed_1] will be dirty by the shoe.",
+            "[bed_1] will run away.",
+            "[person_1] will not drink at that time."
+        ],
+        "reason": [
+            "[person_1] would not hit the ball and [person_1] would have to hit it again.",
+            "When [person_1] stacks the dices , he is so happy that he screams aloud and claps his hands.",
+            "It takes time to collect all the arrows , so [person_1] may choose to take a break before all the arrows are collected.",
+            "Because there are some bikes which is on the left and near [person_1].",
+            "The shoe must be very dirty because [person_1] has rubbed it over and over again."
+        ]
+    }
+}

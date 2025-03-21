@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] in the room?",
+        "answer": [
+            "The [chair_1] is behind the gong.",
+            "[person_2] , [person_2] , and [person_2] are sitting on the sofa.",
+            "The curtain behind [chair_1] is red.",
+            "[chair_1] is sitting on [chair_1].",
+            "[chair_1] is on the right of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] turning around and looking at [person_1] ?",
+        "answer": [
+            "[person_2] is wrestling with another person.",
+            "Because there is something wrong with her mind.",
+            "Because [person_2] wants to know what's going on behind her.",
+            "[person_2] is enjoying massage.",
+            "[person_1] is defecating."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to continue waxing back for [person_1].",
+            "[person_1] is going to go back to [chair_1] and studying.",
+            "[person_1] is going to not eat.",
+            "[person_1] is going to go home."
+        ],
+        "reason": [
+            "[person_1] is holding the chess piece.",
+            "[person_1] is keeping still.",
+            "Because [person_1] is lifting the beehive.",
+            "Because [person_1] has sharpened the pencil.",
+            "The milk needs to be put in the fridge."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] dropped the pencil?",
+        "answer": [
+            "The shirt won't be dirty.",
+            "The pencil head would be broken.",
+            "It is possible that [person_2] will catch a cold.",
+            "[person_2] will put the napkin away.",
+            "[person_2] will put the lute on the table."
+        ],
+        "reason": [
+            "The bass guitar needs to be played with both hands.",
+            "It is very cold and there is snow on the ground.",
+            "[person_2] needs help to surf.",
+            "Because the pencil head is very sharp at that moment.",
+            "The air comes inside the balloon."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "The hat which [person_1] is wearing is black.",
+            "It is black.",
+            "The shirt [person_1] is wearing is black.",
+            "The shorts are red.",
+            "The shirt [person_1] is wearing is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a ball?",
+        "answer": [
+            "[person_1] is shooting.",
+            "[person_1] is stacking cups.",
+            "[person_1] is doing somersaults.",
+            "[person_1] is tuning the harp.",
+            "[person_1] is learning how to walk again."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] will play basic chords.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] is going to shot more 3 - points."
+        ],
+        "reason": [
+            "[person_1] has very good technique.",
+            "It is very sunny to play.",
+            "[person_1] may be startled.",
+            "[person_1] is dancing in free style.",
+            "It is too dark."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the ball is deflated?",
+        "answer": [
+            "[person_1] will inflate the ball.",
+            "[person_1] , [person_1] , and [person_1] will receive a big round of applause.",
+            "[person_1] can not see the frisbee.",
+            "[person_1] and [person_1] will no longer be able to play billiards.",
+            "It will be cold in the night."
+        ],
+        "reason": [
+            "[person_1] hands will be very tired.",
+            "Or [person_1] will go bad.",
+            "The yard has no place to play football.",
+            "The [person_1] is moving on the road.",
+            "[person_1] will need a good ball to practice."
+        ]
+    }
+}

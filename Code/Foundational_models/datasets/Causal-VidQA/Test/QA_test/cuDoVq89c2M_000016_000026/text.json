@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [backpack_1]?",
+        "answer": [
+            "[backpack_1] is holding a stand.",
+            "[backpack_1] is on the bookshelves.",
+            "Yes , it is.",
+            "It is a necklace.",
+            "The [backpack_1] is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] hold the the weights?",
+        "answer": [
+            "The knees and hips straighten out , then [person_1] raises himself into the air for power.",
+            "Maybe [person_1] is being treated for insomnia.",
+            "[person_1] is avoiding being tickled.",
+            "Because [person_1] is snatching weight lifting.",
+            "Because no one is sitting on [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to bed.",
+            "[person_1] might stand up.",
+            "[person_1] may go other place.",
+            "[person_1] is going to snatch a heavier weights.",
+            "[person_1] is going to keep practicing."
+        ],
+        "reason": [
+            "It is very sunny.",
+            "[person_1] has already picked one piece up.",
+            "[person_1] only used 1 dice.",
+            "[person_1] cannot lift the sled.",
+            "[person_1] is so strong."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the weights is dropped ?",
+        "answer": [
+            "The weights will hurt [person_1].",
+            "It is possible that [person_1] will stop practicing .",
+            "[person_1] won't see anything.",
+            "[person_1]'s hat might fall down.",
+            "[person_1] will not be able to continue playing."
+        ],
+        "reason": [
+            "There is nobody can catch [backpack_1].",
+            "[person_1] should remain almost a thick group to draw in the crowd.",
+            "Due to not enough light to practice.",
+            "It is too dark to see anything.",
+            "The weights is very heavy."
+        ]
+    }
+}

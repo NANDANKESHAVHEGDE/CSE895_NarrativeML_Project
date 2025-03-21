@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is black.",
+            "The shirt is pink.",
+            "The shirt is blue.",
+            "The shirt color is yellow.",
+            "The shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Maybe [person_1] is in the class.",
+            "Because [person_1] is practicing with the weights in the room.",
+            "[person_1] is putting utensils on [person_1].",
+            "[person_1] is playing with the cups on the [person_1].",
+            "[person_1] is reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep carving.",
+            "[person_1] is going to share one of the bottles to his friends.",
+            "[person_1] is going to join the game.",
+            "[person_1] is going to drink water.",
+            "[person_1] going to break a moment."
+        ],
+        "reason": [
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] is having his turn next.",
+            "[person_1] just has started his work.",
+            "There are many other goats waiting for food from [person_1].",
+            "[person_1] lays down the weight lifting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down ?",
+        "answer": [
+            "Maybe [person_1] will help [person_1] up.",
+            "[person_1] will be hurt.",
+            "[person_1] will go to catch [person_1] right away.",
+            "[person_1] will be in healthy.",
+            "[person_1] will call adults."
+        ],
+        "reason": [
+            "The floor is very clean.",
+            "[person_1] may not run.",
+            "The floor is very soft.",
+            "The weights is very heavy.",
+            "The floor is very hard."
+        ]
+    }
+}

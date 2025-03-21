@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] doing\uff1f",
+        "answer": [
+            "It is a mirror.",
+            "[person_1] and [person_1] is in the kitchen.",
+            "[person_2] is gray.",
+            "[person_1] and [person_2] are making sushi.",
+            "[person_2] is a street artist."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] cut the cucumbers?",
+        "answer": [
+            "[person_2] is reading news in a magazine.",
+            "It's a habit.",
+            "[person_2] tries to put it in.",
+            "By massaging at [person_2]'s neck.",
+            "With the knife."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do with the sushi after adding the materials?",
+        "answer": [
+            "He wants to propose to her.",
+            "[person_1] will give it to [person_1].",
+            "[person_1] will show the snake to other people.",
+            "The [person_1] will hang the clothing out.",
+            "[person_1] will roll the sushi up."
+        ],
+        "reason": [
+            "The treadmill doesn't work.",
+            "Because according to the recipe , the next step is to roll the sushi up and shape it.",
+            "Because [person_1] looks painful after biting the ice cream.",
+            "Because the [person_1] wants to have a try.",
+            "Because the painter needs them to light up the room."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] finishes all the cutting?",
+        "answer": [
+            "The plate may be damaged.",
+            "[person_1] will throw the new tire.",
+            "[person_2] will help [person_1] make sushi.",
+            "If [person_2] keeps holding [person_1] , [person_2] will be tired.",
+            "[person_1] may have to engrave another leather."
+        ],
+        "reason": [
+            "[person_2] will help [person_2] if the piano is too heavy.",
+            "Because the cutting is the preparation and is quick to finish , and they can eat the sushi earlier if [person_2] helps [person_1].",
+            "Cutting the excess paper too close to the gift box , the wrapping paper will be missing.",
+            "Because [person_2] is messy , and [person_1] hasn't clean [person_2] up yet.",
+            "[person_1] is interested in the donut."
+        ]
+    }
+}

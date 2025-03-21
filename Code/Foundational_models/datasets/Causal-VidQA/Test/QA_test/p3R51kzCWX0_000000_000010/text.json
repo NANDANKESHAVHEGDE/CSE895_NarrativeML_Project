@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is wearing makeup.",
+            "[person_1] is raising her eyebrows.",
+            "[person_1] is performing with a guitar.",
+            "[person_1] is recording the video.",
+            "[person_1] is supporting the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will shares a pro tip for applying foundation to viewers.",
+            "Maybe [person_1] will take a photo.",
+            "[person_1] will pour the champagne in to the goblet.",
+            "Maybe [person_1] will continue playing ice hockey with friends.",
+            "[person_1] will go inside the house."
+        ],
+        "reason": [
+            "[person_1] is posting.",
+            "The goblet is to contain the champagne.",
+            "[person_1] is a service , who cannot join in the customers.",
+            "Because only the big wood in front has not been cut.",
+            "[person_1] is practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] turn off video?",
+        "answer": [
+            "The [person_1] would stop talking about the hat.",
+            "[person_1] will buy.",
+            "[person_1] will stand up.",
+            "Other people might do it.",
+            "[person_1] will throw them."
+        ],
+        "reason": [
+            "[person_1] would rebuild after using the measuring stick to check.",
+            "Overheating food can cause it to burn.",
+            "[person_1] will have new hair.",
+            "[person_1] and [person_1] won't have to pass the papers.",
+            "[person_1] will stop recording."
+        ]
+    }
+}

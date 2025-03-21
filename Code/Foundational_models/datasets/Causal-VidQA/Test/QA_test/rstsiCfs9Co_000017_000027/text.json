@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the hat [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is cylindrical.",
+            "It is white and black.",
+            "[person_1] is parked next the walking road.",
+            "[person_1] is parking near the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is doing the exercise.",
+            "[person_1] is playing with paper.",
+            "[person_1] is playing the lute.",
+            "[person_1] is raising eyebrows in front of the mirror.",
+            "[person_1] is riding a unicycle."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop raising her eyebrows.",
+            "[person_1] may go other place.",
+            "[person_1] is going to bed.",
+            "[person_1] might stand up.",
+            "[person_1] may turn on the light."
+        ],
+        "reason": [
+            "They are looking at each other.",
+            "[person_1] just fell.",
+            "Frisbee is flying to him",
+            "[person_1] is being videotaped.",
+            "So that [person_1] has a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels bored?",
+        "answer": [
+            "Maybe [person_1] will stop arranging.",
+            "[person_1] will start talking with her friend.",
+            "[person_1] will then put off the proposal.",
+            "[person_1] will hold [person_1].",
+            "[person_1] will stretch [person_1]'s hand."
+        ],
+        "reason": [
+            "Because the net is just in front of and near [person_1].",
+            "[person_1] may take some photo.",
+            "A bigger cup has enough space for more dice.",
+            "No one is recording [person_1].",
+            "Or else the dog may destroy the bricks."
+        ]
+    }
+}

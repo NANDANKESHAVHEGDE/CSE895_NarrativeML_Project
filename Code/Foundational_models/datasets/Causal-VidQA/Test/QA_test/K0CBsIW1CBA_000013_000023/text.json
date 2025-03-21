@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [toilet_1]?",
+        "answer": [
+            "The [toilet_1] is in front of [person_1].",
+            "The [toilet_1] is in front of the [toilet_1].",
+            "The [toilet_1] is on the left of [person_1].",
+            "The [toilet_1] is near the door.",
+            "The [toilet_1] is in [toilet_1]'s hand."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand on a basket?",
+        "answer": [
+            "[person_1] is not tall enough to plaster the wall.",
+            "[person_1] is a woman.",
+            "[person_1] is skipping the rope.",
+            "[person_1] glided with one foot and propelled herself forward.",
+            "Because [person_1] can't crush grapes with bare hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may thanks [person_1].",
+            "[person_1] is going to smash [person_1].",
+            "[person_1] is going to use his trowel to spread the plastic he just applies on the wall.",
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] is going to use more dice."
+        ],
+        "reason": [
+            "[person_1] is leaning to the left.",
+            "[person_1] is moving his trowel on the wall to spread the plastic.",
+            "[person_1] is still performing.",
+            "[person_1] is smiling.",
+            "[person_1] is going to have a break."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not have a basket to stand on?",
+        "answer": [
+            "[person_1] may have to find other things to make him smaller.",
+            "[person_1] will catch a cold.",
+            "[person_1] may have to find other things to make him taller.",
+            "The fingers on [person_1] right hand would be injured.",
+            "[person_1] does not need to find anything to make him taller."
+        ],
+        "reason": [
+            "Because [person_1] needs to stay away from the top of the wall to plaster it.",
+            "[person_1] needs to play that chord well.",
+            "Because [person_1] needs to reach the bottom of the wall to plaster it.",
+            "[person_1] will be hurt.",
+            "Because [person_1] needs to reach the top of the wall to plaster it."
+        ]
+    }
+}

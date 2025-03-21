@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is lying on the floor.",
+            "The [person_1] is walking along the house.",
+            "It is on the wardrobe.",
+            "The [person_1] is on a ground which is covered with thick snows.",
+            "[person_1] is on the left side of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the man holding the hand of the [person_1]?",
+        "answer": [
+            "Because the [person_1] is not tall enough.",
+            "[person_1] is playing with the cups.",
+            "[person_1] is a conductor and [person_1] is leading the band.",
+            "Because he has already won one.",
+            "The man is taking the [person_1] for a walk."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "the [person_1] is going to continue riding the [person_1].",
+            "The [person_1] may keep walking with the man.",
+            "The [person_1] may fall to the [person_1].",
+            "The [person_1] wants to check that the tire is still working.",
+            "The [person_1] is going to leave."
+        ],
+        "reason": [
+            "The [person_1] is putting hand on the shoulder of the man.",
+            "The [person_1] kept looking around as if looking for an opportunity to get out of bed.",
+            "The [person_1] has just poured the wine into the glass and the [person_1] is holding the glass.",
+            "The [person_1] is still wiping the table with the polishing liquid and the [person_1] has polished half of the table.",
+            "The [person_1] is still holding the hand of the man and stepping ahead."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] tripped over a rock?",
+        "answer": [
+            "The [person_1] will go to get another one.",
+            "The [person_1] will find somewhere else.",
+            "[person_1] will get another knife.",
+            "[person_1] will not pet the [person_1].",
+            "The [person_1] would fall to the snow."
+        ],
+        "reason": [
+            "Because [person_1] will be still in the room and play.",
+            "Because [person_1] is introducing the machine , it will be embarrassing for [person_1] if the machine does not work properly at this time.",
+            "The [person_1] is little and the [person_1] could lose balance.",
+            "The [person_1] is disguising as a girl with the fake hair.",
+            "Because [person_1] lost [person_1]'s stomping point."
+        ]
+    }
+}

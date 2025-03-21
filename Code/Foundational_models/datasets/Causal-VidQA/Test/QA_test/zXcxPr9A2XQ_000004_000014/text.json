@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "[person_1] is standing on the grass.",
+            "[person_1] is wearing a white clothes.",
+            "[person_1] is in a kitchen.",
+            "[person_1] is standing on the rubber floor.",
+            "[person_1] is in a music room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the grass?",
+        "answer": [
+            "[person_1] is drawing a picture.",
+            "[person_1] doesn't have a bike.",
+            "Because pressing a button and a key at the same time can create unique rhythm.",
+            "[person_1] is rehearsing a performance.",
+            "Because [person_1] has practiced playing the piano before."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will probably retrieve [person_1].",
+            "[person_1] may ask questions.",
+            "[person_1] will take a rest for a bit.",
+            "[person_1] maybe will check his somersault.",
+            "[person_1] may blow the fire."
+        ],
+        "reason": [
+            "Because the cow may be dirty.",
+            "[person_1] is tired if running.",
+            "To unload them.",
+            "Blow the fire is a technique of spinning poi.",
+            "Because that is what baby usually does when being fed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] slips her hands?",
+        "answer": [
+            "[person_1] would not dance in a couple.",
+            "[person_1] would get burned.",
+            "[person_1] will be able to see the [person_1].",
+            "The grass may catch fire.",
+            "She would send the cat away."
+        ],
+        "reason": [
+            "[person_1] is standing in front of [person_1].",
+            "Because falling from a height will be very painful with a child like [person_1].",
+            "That is the poi with fire at the top.",
+            "[person_1] is spinning the fire.",
+            "[person_1] is standing outside."
+        ]
+    }
+}

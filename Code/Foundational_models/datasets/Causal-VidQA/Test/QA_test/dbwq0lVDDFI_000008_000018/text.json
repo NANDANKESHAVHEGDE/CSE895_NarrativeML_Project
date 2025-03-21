@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the stair?",
+        "answer": [
+            "The room is spacious.",
+            "The room is quite bright.",
+            "It is a big room.",
+            "The stair is quite narrow.",
+            "The room is very big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the stair?",
+        "answer": [
+            "[person_1] is looking for fun.",
+            "[person_1] is learning how to walk again.",
+            "[person_1] is playing with his friends.",
+            "[person_1] would like to do a handstand safely.",
+            "[person_1] is greeting her audience."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn left.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] will call the rescue team.",
+            "[person_1] is going to play harmonica.",
+            "[person_1] will show the bees to [person_1]."
+        ],
+        "reason": [
+            "[person_1] stepped forward continuously.",
+            "[person_1] is still working.",
+            "[person_1] is going to put the shoe down.",
+            "[person_1] is holding the harmonica in his hand.",
+            "[person_1] tricked the opponent by attacking a specific target."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell down?",
+        "answer": [
+            "[person_1] would not be hurt.",
+            "[person_1] would get an injury.",
+            "[person_1] would stand up by himself.",
+            "[person_1] would get healthy.",
+            "[person_1] would get drunk."
+        ],
+        "reason": [
+            "[person_1] was suddenly slapped by the other person.",
+            "[person_1] sit on a low stair.",
+            "[person_1] , [person_1] and [person_1] are teammate.",
+            "[person_1] sit on a high stair.",
+            "[person_1] does not wear any protective arms."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [tv_1] big?",
+        "answer": [
+            "They are in front of a restaurant.",
+            "There are three boys here.",
+            "The fire is on the left.",
+            "They are in a backstage door.",
+            "No , [tv_1] isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is doing stretching exercises.",
+            "Maybe [person_1] is in the class.",
+            "Because [person_1] is snatching weight lifting.",
+            "[person_1] is directing [person_1] to put the disk in the right place on the table.",
+            "Because [person_1] is playing in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may be going to take a rest.",
+            "He may do the kind of jump again.",
+            "To find more snow.",
+            "[person_1] is going to continue trying to practice.",
+            "[person_1] is going to bring the cup in his hand to his mouth and drink beer."
+        ],
+        "reason": [
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] used the tape on the table.",
+            "[person_1] is practicing very hard.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will not make juice.",
+            "[person_1] will be sad.",
+            "The juicer can not be used.",
+            "[person_1] will afraid.",
+            "[person_1] will be stop practicing."
+        ],
+        "reason": [
+            "It's daytime.",
+            "The TV will be turned off.",
+            "It's daytime outside.",
+            "The equipment can not be used when there is no power.",
+            "The room will be dark."
+        ]
+    }
+}

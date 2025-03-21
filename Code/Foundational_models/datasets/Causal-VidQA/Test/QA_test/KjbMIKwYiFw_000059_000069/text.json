@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is white.",
+            "The shirt [person_1] wearing is blue.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "The shirt [person_1] wearing is gray."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] staring at the chessboard?",
+        "answer": [
+            "Because [person_1] is thinking about the next movement of [person_1].",
+            "Because [person_1] is playing the game.",
+            "[person_1] is moving many dirt with the wheelbarrow.",
+            "[person_1] is dropping marbles from [person_1].",
+            "[person_1] wants to give the ball to two people at the basketball court."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to make the movement of [person_1].",
+            "[person_1] intends to drink more.",
+            "[person_1] intends to continue listening to music.",
+            "[person_1] intends to stop juggling balls.",
+            "[person_1] intends to drink wine."
+        ],
+        "reason": [
+            "[person_1] fingers are moving on the guitar.",
+            "[person_2] made the movement of [person_2].",
+            "[person_1] is running and looking at the ball.",
+            "[person_1] falls down.",
+            "[person_1] is juggling balls for a long time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the weather is rainy?",
+        "answer": [
+            "[person_2] will lose.",
+            "[person_2] will stop playing checkers.",
+            "The [person_2] will not get injured.",
+            "The neighbors of [person_2] will be very angry.",
+            "[person_2] won't be able to continue cycling."
+        ],
+        "reason": [
+            "[person_2] needs to raise his arm to reach his feet.",
+            "The sunshine is so strong that the [person_2] feels hot.",
+            "Because if it rains , [person_2] will get wet.",
+            "[person_2] will need to aim more accurately.",
+            "[person_2] can't play checkers in the rain."
+        ]
+    }
+}

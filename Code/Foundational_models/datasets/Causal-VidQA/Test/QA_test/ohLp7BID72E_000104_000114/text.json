@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_2] sitting on?",
+        "answer": [
+            "[person_2] is sitting on [chair_2].",
+            "The [person_2] is behind the [chair_2].",
+            "[chair_2] is behind [person_2] and on the shelf.",
+            "The [person_2] is behind [chair_2].",
+            "The [chair_2] is behind [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_2] touching his head in front of the mirror?",
+        "answer": [
+            "[person_2] puts the bottle on the plate and strikes the bottleneck with the sword from below.",
+            "It is cold outside.",
+            "To do massaging neck.",
+            "[person_2] saw a viking helmet on his head in the reflection.",
+            "[person_2] with long hair puts the bottle's bottom into the shoe and strikes the shoe against wall."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] going to do next?",
+        "answer": [
+            "[person_2] will open the gift.",
+            "[person_2] will say that the ladies played well.",
+            "The [person_2] may keep follow the [person_2].",
+            "[person_2] may look away.",
+            "The [person_2] may keep watching with the [person_2]."
+        ],
+        "reason": [
+            "Because it's [person_2]'s turn to sing.",
+            "[person_2] and [person_2] are a couple.",
+            "[person_2] was confused when seeing a helmet on his head.",
+            "[person_2] moves along the route , stops singing and stops at the end of the route to look around.",
+            "Because [person_2] is showing off mixing skills."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] wears a helmet?",
+        "answer": [
+            "[person_1] would get serious injury on his chest.",
+            "[person_1] will see himself wearing a helmet in the mirror.",
+            "[person_1] may no be smiling.",
+            "[person_1] will feel disappointed.",
+            "The performance of [person_1] and [person_1] will no longer be special."
+        ],
+        "reason": [
+            "when [person_1] wears a helmet , the helmet will be reflected on the mirror.",
+            "Because there are many different machines [person_1] can choose and use freely in the gym.",
+            "Because of safety considerations , climbing needs to tie a rope to ensure safety.",
+            "The neck of [person_1] is very high and [person_1] cannot reach its head.",
+            "Because talking or singing with each other is happier than keeping silent."
+        ]
+    }
+}

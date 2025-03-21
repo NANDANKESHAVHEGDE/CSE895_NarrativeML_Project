@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is reading the newspaper.",
+            "The [person_1] is training the [dog_1].",
+            "The [person_1] is opening [dog_1] door.",
+            "The [person_1] is holding the [person_1].",
+            "The [person_1] is wearing pants."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] give the [dog_1] something to eat?",
+        "answer": [
+            "Because they find it interesting.",
+            "Because the [dog_1] completed the command she gave.",
+            "There is a camera fixed inside the tire.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "The [dog_1] is placed there to enjoy outdoor shady areas."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will continue to introduce the  the doll on the stage.",
+            "The [person_1] will continue to introduce the doll.",
+            "[person_1] will drive away.",
+            "The [person_1] will continue to give commands to the [dog_1].",
+            "The [person_1] will continue to introduce the functions of the ATM."
+        ],
+        "reason": [
+            "Because the [person_1] has finished withdrawing money from a self - service ATM.",
+            "Because the [dog_1] needs to be trained several times before they will understand their owner's commands.",
+            "Because the [person_1] wants to know if there is enough money to count here.",
+            "Because the [dog_1] has not yet finished cutting the hair.",
+            "Because the [person_1] seems to be done with introductions."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the rope the [dog_1] bites is broken?",
+        "answer": [
+            "The [dog_1] will pick the doll up.",
+            "The [dog_1] will hit the crane truck toy.",
+            "The [dog_1] will pick it up.",
+            "The [dog_1] will fall to the ground.",
+            "Perhaps [dog_1] would have a some chat with [dog_1]."
+        ],
+        "reason": [
+            "Because [dog_1] and [dog_1] can drink straight from the beer bottle.",
+            "Because there is no force on the rope and the rope will go back to its initial condition.",
+            "Because the interaction of forces will cause him to fall.",
+            "Two people playing together is more fun than playing alone.",
+            "Because the present will be in the hands of [dog_1]."
+        ]
+    }
+}

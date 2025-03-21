@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is next to a conveyor belt.",
+            "[person_1] is in the yard.",
+            "[person_1] is sitting on the sofa.",
+            "[person_1] is in his house.",
+            "[person_1] is in the bedroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] moving slowly?",
+        "answer": [
+            "[person_2] wants to put some cream on her legs.",
+            "To show that [person_2] has opened the bottle smoothly.",
+            "Maybe [person_2] makes for fun.",
+            "Because [person_2] is afraid of falling down.",
+            "[person_2] wants to keep the kitchen table clean."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue dancing.",
+            "[person_2] is going to have fun with the gift.",
+            "[person_2] is skating on a conveyor belt.",
+            "[person_2] is going to skating with different positions.",
+            "[person_2] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "[person_2] is afraid of losing his bike so he is going to run after [person_2].",
+            "[person_2] is wearing skating shoes and moving.",
+            "[person_2] is changing dancing movements.",
+            "[person_2] is bringing the wine glass to his mouth.",
+            "[person_2] is going to practice dancing hard for a perfect performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] does not wear skating shoes?",
+        "answer": [
+            "[person_2]'ll be sad.",
+            "[person_2] may not feel out of breath.",
+            "[person_2] may hurt his feet.",
+            "[person_2] may stop tickling him.",
+            "[person_2] will not look back."
+        ],
+        "reason": [
+            "When the barbell is too heavy , [person_2] will be injured.",
+            "[person_2] is dancing with a group of people.",
+            "[person_2] is watching what they do , it seems that she is interested in it.",
+            "[person_2] is concerned about her obesity before she does exercise.",
+            "When sliding on barefoot in a long time , [person_2]'s feet may bleed."
+        ]
+    }
+}

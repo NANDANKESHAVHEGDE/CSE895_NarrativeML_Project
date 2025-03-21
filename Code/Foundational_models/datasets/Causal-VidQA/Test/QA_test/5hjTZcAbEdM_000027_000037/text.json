@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing glasses?",
+        "answer": [
+            "[person_1] wants to keep healthy.",
+            "[person_1] is plastering a high wall.",
+            "[person_1] is opening her gift.",
+            "[person_1] is reading newspaper.",
+            "Maybe she is short - sighted."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] is going to sleep.",
+            "[person_1] is going to hold a stick.",
+            "[person_1] will collect honey.",
+            "[person_1] may eat the food on [person_1].",
+            "Maybe [person_1] is going to continue dance."
+        ],
+        "reason": [
+            "[person_1] is going to small [bed_1].",
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet.",
+            "[person_1] is lying on [bed_1].",
+            "[person_1] is holding a big bag of food in the goat barn."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't wear glasses?",
+        "answer": [
+            "[person_1] will stop playing piano anymore.",
+            "[person_1] will not be able to ride bike fast.",
+            "[person_1] could not see clearly.",
+            "[person_1] will stay where she is and dance when she combs her hair.",
+            "[person_1] would not be able to play hockey after warming up."
+        ],
+        "reason": [
+            "[person_1] is playing publicly so everyone can listen to [person_1].",
+            "Maybe [person_1] will play with the dog.",
+            "[person_1] has hand pain.",
+            "[person_1] is short - sighted.",
+            "Because [person_1] wants to buy the pencil."
+        ]
+    }
+}

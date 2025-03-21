@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is sitting close to the camera.",
+            "[person_2] is lying on the table.",
+            "[person_2] is at the basketball court.",
+            "[person_2] is sitting in front of the keyboard.",
+            "[person_2] is at the sheep sheering facility."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] lying on the table?",
+        "answer": [
+            "[person_2] is making fun of others.",
+            "May be [person_2] is a teacher and [person_2] is teaching [person_2] how to play the cello.",
+            "[person_2] is listening to the music beat through the headphones while playing.",
+            "[person_2] steps on the rope.",
+            "Because [person_2] is just a baby and he can not stand by himself yet."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will play again.",
+            "[person_2] will keep looking the [person_1] tears the paper.",
+            "[person_2] is going to help [person_2] move.",
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] is going to eat the hamburger."
+        ],
+        "reason": [
+            "[person_2] is kicking his feet and waving his hand.",
+            "[person_2] thinks it is too dangerous.",
+            "[person_2] finds it very interesting and he focuses on it.",
+            "[person_2] moves to another place.",
+            "[person_2] has the uncomfortable facial expression of tasting it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] fell down the table?",
+        "answer": [
+            "[person_1] would be injured.",
+            "[person_2]'s arms might be broken . ",
+            "[person_2] may sit closer to the table.",
+            "[person_1] would catch him.",
+            "[person_1] will pick up the wig."
+        ],
+        "reason": [
+            "Because when [person_1] hit the obstacle , [person_1] would stumble.",
+            "Because [person_1] and [person_2] can't control the [person_1] and where to land.",
+            "[person_1] is working with sharp blades.",
+            "There is no food for [person_1] to throw on the ground.",
+            "[person_1] is right next to him and looking after him."
+        ]
+    }
+}

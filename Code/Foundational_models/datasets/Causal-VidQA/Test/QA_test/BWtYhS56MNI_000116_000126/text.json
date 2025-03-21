@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the kitchen.",
+            "[person_1] and [person_2] are at the leisure center.",
+            "[person_1] and [person_2] are sitting on the floor.",
+            "[person_2] and [person_1] are in the big room.",
+            "[person_1] and [person_2] are at a massage room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep talking?",
+        "answer": [
+            "[person_1] is interpreting how to do massaging neck.",
+            "[person_1] wants to watch his moves in the mirror.",
+            "[person_1] uses [person_1] to make roasted marshmallows.",
+            "[person_1] moves the blades to peel , core , and slice the apple.",
+            "[person_1] sticks it with the cork and pulls it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to play there.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to interpret how to correct rotation dysfunction.",
+            "[person_1] is going to continue to comb his hair with this comb."
+        ],
+        "reason": [
+            "[person_1] has turn [person_2]'s neck over.",
+            "[person_1] is not going to stop.",
+            "[person_1] was blocked by the door.",
+            "Because the blue is skying at night.",
+            "[person_1] finished the action successfully and smiled"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] twisted [person_2]'s waist?",
+        "answer": [
+            "[person_1] will be fined.",
+            "[person_2] can't pick up the second gift box.",
+            "[person_1] will stop massaging neck.",
+            "[person_1] will bend down to clean the debris.",
+            "[person_2] may hold the baby's hands."
+        ],
+        "reason": [
+            "To massage at [person_2]'s waist to relieve the pain.",
+            "If there are debris on the floor , it may not be easy to walk.",
+            "Because [person_2] can't keep bouncing up vertically without good balance.",
+            "When we eat something it's easy to spill some out.",
+            "Because there are many kinds of food now , [person_2] and [person_2] don't eat so smoothly."
+        ]
+    }
+}

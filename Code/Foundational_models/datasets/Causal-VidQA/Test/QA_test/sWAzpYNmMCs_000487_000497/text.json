@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are in the game room.",
+            "[person_1] and [person_2] are in the recording studio.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are on the bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing there?",
+        "answer": [
+            "[person_1] and [person_2] are performing in front of people.",
+            "[person_1] and [person_2] are playing darts.",
+            "Because [person_1] is playing the cello.",
+            "[person_1] and [person_2] are skipping rope.",
+            "[person_1] wants to drink water."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to run.",
+            "[person_1] is going to throw a dart.",
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "[person_1] was blocked by the door.",
+            "[person_1] hasn't stopped yet.",
+            "[person_1] just looked back.",
+            "[person_1] is holding darts in his hands.",
+            "[person_1] is bowing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits the bull's eye?",
+        "answer": [
+            "[person_1] will stop playing.",
+            "[person_1] might kick [person_1].",
+            "[person_1] will ask [person_1] stop pushing.",
+            "[person_1] will score maximum point.",
+            "Student cannot see video or picture."
+        ],
+        "reason": [
+            "This is against the rule.",
+            "That's the rule of this game.",
+            "Maybe the room is large and crowded.",
+            "The door of the car which is pushed is narrow.",
+            "To make [person_1] satisfied."
+        ]
+    }
+}

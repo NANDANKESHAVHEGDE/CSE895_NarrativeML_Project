@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it bright?",
+        "answer": [
+            "[person_1] is wearing it in front of her.",
+            "Yes , it is.",
+            "[person_1] is placed next to [person_1].",
+            "[person_1] is put on the ground and next to [person_1].",
+            "[person_1] is between [person_1] and [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] is in the room ?",
+        "answer": [
+            "[person_1] is opening her present.",
+            "[person_1] and [person_1] are playing didgeridoo.",
+            "[person_1] is sitting on the carpet.",
+            "[person_1] wants to play the lute.",
+            "[person_1] is playing with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to laugh.",
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] is going to continue securing the paper to the box.",
+            "[person_1] is going to hold [person_1]'s leg."
+        ],
+        "reason": [
+            "Because [person_1] is giving [person_1] instructions.",
+            "[person_1] is laughing.",
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop reading.",
+            "[person_1] maybe stop smiling.",
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe stop eating.",
+            "[person_1] maybe afraid."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The room will be dark.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

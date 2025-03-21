@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the house opposite?",
+        "answer": [
+            "It is pretty dark.",
+            "The wall is orange.",
+            "A helmet.",
+            "The house opposite is yellow.",
+            "Pine tree in the corner."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there pads on the ground?",
+        "answer": [
+            "[person_1] is doing somersaults.",
+            "[person_1] wants to avoid serious injury when [person_1] falls.",
+            "[person_1] needed to grab the bar.",
+            "To make the hair less likely to fall out.",
+            "[person_1] inhales the smoke and holds it in the mouth before exhaling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] may sing.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is practicing [person_1]'s skill.",
+            "[person_1] will turn off the camera."
+        ],
+        "reason": [
+            "[person_1] almost dropped the plate.",
+            "[person_1] dared to jump on the tightrope many times.",
+            "[person_1] is jumping very high.",
+            "[person_1] finished the action successfully and smiled",
+            "[person_1] is bowing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] falls where there is no pad?",
+        "answer": [
+            "[person_1] will stop running.",
+            "[person_1] will have to fold the clothes in the normal way by hands.",
+            "[person_1] will be fined.",
+            "[person_1] may have to clean the plaster drops on the floor.",
+            "[person_1] will be very painful."
+        ],
+        "reason": [
+            "To check the condition of the car.",
+            "[person_1] is [person_1]'s.",
+            "The cane will bend to the ground if no one holds it.",
+            "Because the rope is very far from the ground.",
+            "He will sleep."
+        ]
+    }
+}

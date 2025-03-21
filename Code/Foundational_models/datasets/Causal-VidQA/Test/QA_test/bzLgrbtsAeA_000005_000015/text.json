@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [train_1]?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "[train_1] is placed far away behind three people.",
+            "[person_1] is near the tree.",
+            "[person_1] is sitting on it.",
+            "[train_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a beanie?",
+        "answer": [
+            "[person_1] steps on the rope.",
+            "By controlling the rope.",
+            "The weather is very cold.",
+            "To bring the right eye into focus.",
+            "[person_1] is excited about throwing into the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after fluting?",
+        "answer": [
+            "[person_1] will go to skiing.",
+            "[person_1] will sing happy birthday song.",
+            "[person_1] will drive the truck around the grassland.",
+            "[person_1] will announce that [person_1] is the winner.",
+            "[person_1] , [person_1] , [person_1] and [person_1] are going to organize a flash mob."
+        ],
+        "reason": [
+            "[person_1] places his pillow in front of his body when [person_1] raises the pillow up.",
+            "Because the [person_1] is shooting a video of the [person_1]'s eating , [person_1] will continue to eat.",
+            "Because [person_1] is practicing patting one by one.",
+            "[person_1] is standing near the [person_1] to take something.",
+            "[person_1] is in the ski resort and wearing skis."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the snow at [person_1] feet melted?",
+        "answer": [
+            "The phone will get dirty . Besides , the phone can be damaged.",
+            "[person_1] will hold the donut in front of her to eat.",
+            "[person_1] may go to take part in a raper match.",
+            "[person_1] will pick it up without any damage.",
+            "The weather will be a lot warmer."
+        ],
+        "reason": [
+            "The music turns off signaling the end of the dance.",
+            "The temperature will rise dramatically.",
+            "Because [person_1] will not see anything in the darkness.",
+            "[person_1] has no joyful feeling.",
+            "She likes playing with the nail polish."
+        ]
+    }
+}

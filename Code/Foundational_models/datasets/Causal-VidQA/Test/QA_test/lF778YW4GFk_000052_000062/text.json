@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is nicely decorated.",
+            "It is spacious.",
+            "It is quite dark.",
+            "The room is quite small.",
+            "It is quite large."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in the room?",
+        "answer": [
+            "[person_1] is a model for the exercise.",
+            "[person_1] is playing with paper.",
+            "[person_1] is watching the present.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is practicing to play didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "It is possible that [person_1] will play with the flute.",
+            "[person_1] will continue shearing the sheep.",
+            "[person_1] will put more bricks on block.",
+            "Maybe [person_1] can sing.",
+            "Maybe [person_1] is going to ask someone to help open the present."
+        ],
+        "reason": [
+            "[person_1] is pointing to the present.",
+            "[person_1] will take more food from his hand to feed the pigeon.",
+            "[person_1] needs to land after flying.",
+            "[person_1] is helping [person_1] train.",
+            "Because [person_1] keeps doing the exercise and he has to pull the rope when he uses the machine."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will not read book.",
+            "Maybe [person_1] will be afraid.",
+            "[person_1] will may be stop reading.",
+            "Maybe [person_1] will be happy.",
+            "[person_1] will go out."
+        ],
+        "reason": [
+            "[person_1] is a kid.",
+            "The piano will not work.",
+            "[person_1] is an adult.",
+            "The light will not work . , too.",
+            "[person_1] is a man."
+        ]
+    }
+}

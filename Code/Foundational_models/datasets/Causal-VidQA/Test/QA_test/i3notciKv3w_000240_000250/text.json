@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of the plate?",
+        "answer": [
+            "It's white.",
+            "There are three chairs.",
+            "It's mainly black and has some white color.",
+            "There are two wheelchairs.",
+            "No , he didn't."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] roast marshmallows?",
+        "answer": [
+            "[person_1] does this by using [knife_1].",
+            "[person_1] is lighting a pipe.",
+            "[person_1] has the guitar on his lap so he can inspect it and make sure everything is in order.",
+            "[person_1] is seeing a drawing.",
+            "[person_1] is practicing playing piano."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will close her eyes.",
+            "[person_1] will clip her left eyelash with [person_1] and [person_1].",
+            "Maybe [person_1] will try to push the wheelbarrow in zigzags pattern again.",
+            "[person_1] will roast another marshmallow.",
+            "Maybe [person_1] put the lid on the table."
+        ],
+        "reason": [
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] will continue to play.",
+            "[person_1] has already put her arm on the right one.",
+            "Because all the marshmallows [person_1] roasted are burnt.",
+            "[person_1] looks unsatisfied with the sound of the gong."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the kids come to eat the marshmallows?",
+        "answer": [
+            "[person_1] would tell them to wait for a minute.",
+            "[person_1] would have to do it all over again.",
+            "[person_1] might have to get or buy a new one.",
+            "[person_1] would walk out the bathroom drying his hands on his shirt or pants.",
+            "The man would be anger."
+        ],
+        "reason": [
+            "He wants to eat.",
+            "The food is not fully prepared.",
+            "[person_1] is sitting of the chair , hence [person_1] is as not strong as [person_1].",
+            "[knife_1] wants to know why.",
+            "Because in this way the cookies [knife_1] made will be more delicious."
+        ]
+    }
+}

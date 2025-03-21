@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are the two people in the video doing?",
+        "answer": [
+            "It is brown.",
+            "It's yellow.",
+            "The shirt color [person_1] is white.",
+            "[person_2] is stepping on [person_1]'s back.",
+            "The shirt [person_1] wearing is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] stepping on [person_1]'s back\uff1f",
+        "answer": [
+            "[person_1] wants to exercise to change body.",
+            "Because [person_1] is practicing standing on hands.",
+            "[person_1] is doing tai chi moves.",
+            "[person_2] also wants to play the keyboard.",
+            "Because this is a service that allows [person_1] to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will pet the dog.",
+            "[person_2] will drink.",
+            "[person_2] will cut [person_2].",
+            "[person_2] will guide [person_1] and [person_1] to drive the car.",
+            "[person_2] would grab [person_1]'s right hand and step on the right half of his back."
+        ],
+        "reason": [
+            "Maybe [person_1] finds the game very interesting.",
+            "Since [person_2] cannot see the pattern on her face by herself , she has to ask to [person_1] whether it is fine or not.",
+            "[person_2] has finished stepping on the left half of [person_1]'s back.",
+            "[person_2] will keep slamming [person_2]'s hand on the table and then knocking [person_2]'s pen down because [person_2] keeps repeating it.",
+            "Because [person_2] seems to be not likely to stop and tries to say something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the service time comes?",
+        "answer": [
+            "[person_1] will remove money to request extension of service time.",
+            "The medicine won't work to its fullest effect.",
+            "[person_1] will add money to request extension of service time.",
+            "[person_1] will take the food to put it on the hand and feed the goats directly.",
+            "[person_1] will add money to request shorten of service time."
+        ],
+        "reason": [
+            "Because that girl didn't do anything bad on [person_1].",
+            "Because [person_1] enjoyed other service.",
+            "Maybe [person_1] will take a lot of time.",
+            "Because [person_1] enjoyed this service.",
+            "Because the accordion is heavy , it can hurt [person_1]'s arms."
+        ]
+    }
+}

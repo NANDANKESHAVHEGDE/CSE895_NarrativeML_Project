@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a helmet?",
+        "answer": [
+            "They are black.",
+            "[person_1] is sitting on the snow.",
+            "Yes.",
+            "It is black.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a helmet?",
+        "answer": [
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello.",
+            "[person_1] is playing didgeridoo in front many people.",
+            "To protect the head.",
+            "[person_1] is playing the ukulele with [person_1].",
+            "[person_1] repairs the shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after riding for a while?",
+        "answer": [
+            "Ask for help or change his direction.",
+            "[person_1] will have a rest.",
+            "[person_1] will speed up.",
+            "[person_1] will be exhausted.",
+            "[person_1] will try to keep balance."
+        ],
+        "reason": [
+            "[person_1] enjoys such feeling.",
+            "[person_1] wants to make his show in the street.",
+            "[person_1] is practicing kicking.",
+            "[person_1] wants [person_1] to ride the horse alone.",
+            "Because [person_1] eats with his hands and also makes his face dirty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the horse's leg gets hurt?",
+        "answer": [
+            "[person_1] will slow down.",
+            "[person_1] would get bad hurt.",
+            "[person_1] would not be able to eat the cake anymore.",
+            "[person_1] could not construct the stair.",
+            "[person_1] would perhaps not stand near the street."
+        ],
+        "reason": [
+            "The horse is in pain.",
+            "Because [person_1] and [person_1] did not know each other so they cannot chat together.",
+            "Because the hand of [person_1] may be injured by the tool.",
+            "[person_1] has yet to be able to control the unicycle competently.",
+            "[person_1] is going at a very fast pace."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the room.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] spray paint on [chair_2]?",
+        "answer": [
+            "[person_1] is saluting.",
+            "[person_1] smacks them to adjust them to a comfortable spot under his arm.",
+            "Because [person_1] wants to renew the [chair_2].",
+            "[person_1] feels cold.",
+            "She has won the prize."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to dismantle the power drill.",
+            "[person_1] will spray paint.",
+            "[person_1] is going to watch [person_1] open all the presents.",
+            "[person_1] is going to continue teaching."
+        ],
+        "reason": [
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] is having his turn next.",
+            "To ask for [person_1]'s agreement with the proposal.",
+            "[person_1] is spraying paint.",
+            "There are many other goats waiting for food from [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't spray paint ?",
+        "answer": [
+            "[person_1] will feel it lacks vitality.",
+            "The organ will make shrill sounds.",
+            "[person_1] will feel it full of vitality.",
+            "[person_1] can not play bagpipes.",
+            "[person_1] will drive [person_1]."
+        ],
+        "reason": [
+            "It might smell old.",
+            "Their is a lot of hair on the ground.",
+            "It might look old.",
+            "[person_1] will be beautiful.",
+            "It might sound old."
+        ]
+    }
+}

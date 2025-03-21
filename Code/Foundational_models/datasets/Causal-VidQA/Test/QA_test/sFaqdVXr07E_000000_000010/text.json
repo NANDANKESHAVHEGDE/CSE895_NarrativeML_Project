@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks old and thin.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks thin.",
+            "[person_1] looks like a professional skier.",
+            "[person_1] looks so cute."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding [person_1]?",
+        "answer": [
+            "[person_1] is teaching how to play maracas.",
+            "[person_1] is performing martial arts.",
+            "[person_2] is playing with [person_1].",
+            "[person_1] is short sighted.",
+            "[person_1] is practicing to play didgeridoo better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] tends to practice high kick.",
+            "[person_2] is going to play with [person_1] then.",
+            "Maybe [person_2] is going to continue smoke hookah.",
+            "[person_2] is going to share with [person_1] about his opinion about the kind of beer he just drinks.",
+            "[person_2] going to feed [person_1]."
+        ],
+        "reason": [
+            "[person_2] raised up her hands and clapped.",
+            "Because [person_2] is so happy.",
+            "[person_1] is sitting in front of the [dining table_1].",
+            "[person_2] is a cellist.",
+            "At [person_1]'s first bandage , she didn't use the binding clips to bind up the bandage , so at [person_1]'s second bandage , [person_1] will do the same thing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes eating?",
+        "answer": [
+            "[person_1] will look in the mirror.",
+            "[person_2] will take the napkin off the neck of [person_1].",
+            "[person_1] will hit the head.",
+            "[person_1] will cut the lemon by himself.",
+            "[person_1] will go home."
+        ],
+        "reason": [
+            "The napkin did it's job.",
+            "[person_1] will stop tasting wine.",
+            "[person_1] will feel more pain if gets injured.",
+            "[person_1] will need to rest.",
+            "Gym is good for health."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [cup_1]?",
+        "answer": [
+            "The [cup_1] is in the [cup_1]'s hand.",
+            "The [cup_1] is in [person_2]'s hand.",
+            "[cup_1] is to [cup_1] right.",
+            "[person_2] is on the right side [person_2].",
+            "[cup_1] is on the left side of [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding the [cup_1]?",
+        "answer": [
+            "[cup_1] is too young to hold the inhaler by himself.",
+            "[cup_1] is a pen tapper , who uses the pen to make rhythms.",
+            "[person_2] is doing her job to earn money.",
+            "[person_2] is showing up to other people",
+            "[person_2] has to perform the rule of the game beer pong."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will continue playing ice hockey with friends.",
+            "Perhaps [person_1] will put the cup on the table.",
+            "[person_1] will go away.",
+            "Maybe [person_1] will shares a pro tip for applying foundation to viewers.",
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf."
+        ],
+        "reason": [
+            "Because the paint on the paint roller dries out.",
+            "The hair in cutting may get into her eyes.",
+            "[person_1] will continue to play.",
+            "[person_1] lost one turn of the game.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] loses again?",
+        "answer": [
+            "[person_2] will help [person_2] to get up.",
+            "[person_2] will feel hurtful.",
+            "Maybe [person_2] will help [person_2] up.",
+            "[person_2] will go to catch [person_2] right away.",
+            "Maybe [person_2] will continue drinking beer."
+        ],
+        "reason": [
+            "[person_2] may feel happy.",
+            "When falling down [person_2] may cry so [person_2] has to hold.",
+            "[person_2] needs to wait for [person_2] to finish the performance.",
+            "[person_2] will follow the rule of the game.",
+            "No one is close to [person_2] to help [person_2]."
+        ]
+    }
+}

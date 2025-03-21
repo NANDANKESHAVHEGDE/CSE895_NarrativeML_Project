@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is singing.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is breaking an air brick.",
+            "[person_1] is opening a bottle.",
+            "[person_1] is giving [person_1] a white box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] spend long time to open it?",
+        "answer": [
+            "[person_1] is teaching how to shoot the ball.",
+            "[person_1] uses her mouth to make it easier to balance breathing during exercise.",
+            "[person_1] tilted her head to the side holding the flute.",
+            "[person_1] nips the bottle between his legs.",
+            "Wine bottle stoppers are very tight."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do in the next few minutes?",
+        "answer": [
+            "Very soon.",
+            "[person_2] might put this plate of cookies in the oven.",
+            "Then maybe straight car starts to go.",
+            "[person_2] will change his clothes.",
+            "[person_2] will finish her noddles."
+        ],
+        "reason": [
+            "Because [person_2] is walking towards [person_2].",
+            "Because [person_2] hasn't finished her kicking practice.",
+            "Because [person_2] goes for [person_2] [person_2] and [person_2] one by one , so after [person_2] and [person_2] it will be the turn of [person_2].",
+            "[person_2] is eating it and it is her dinner.",
+            "[person_2] seems to be trained by his personal trainer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [bottle_1] was a coco - cola bottle?",
+        "answer": [
+            "The man may pick it up after finishing his packing.",
+            "It would not be easier to open.",
+            "[bottle_1] will ask someone to bandage [bottle_1].",
+            "It would be easier to open.",
+            "It is likely that [bottle_1] might stop doing tai chi."
+        ],
+        "reason": [
+            "The lid of a cola bottle is not that difficult to open.",
+            "Because if the lamp is broken , there will be no light source , they can't see.",
+            "The lid of a cola bottle is not that easy to open.",
+            "[bottle_1] will not stop jumping high.",
+            "The lid of a cola bottle is that difficult to open."
+        ]
+    }
+}

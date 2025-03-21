@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing ?",
+        "answer": [
+            "[person_1] is smiling and playing piano.",
+            "[person_1] is playing basketball.",
+            "[person_1] is kissing her husband.",
+            "[person_1] is playing guitar.",
+            "[person_1] is shaking a bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling ?",
+        "answer": [
+            "Because there are people watching.",
+            "[person_1] is happy.",
+            "[person_1] is stacking the cups on the table.",
+            "Maybe the weather is so hot.",
+            "[person_1] is training his skill."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the organ.",
+            "[person_1] intends to continue smiling.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to play the harp.",
+            "[person_1] has an intention of being a outstanding music student."
+        ],
+        "reason": [
+            "Maybe [person_1] is trying to get dressed as fast as possible.",
+            "Maybe [person_1] can move on his own.",
+            "[person_1] overlapped this paper slightly with the paper [person_1] has just folded down.",
+            "[person_1] is holding the trumpet and playing it.",
+            "[person_1] is having fun with the piano."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the window behind [person_1] is opened ?",
+        "answer": [
+            "[person_1] will not be penalized for drinking all that beer.",
+            "[person_1] will be broken.",
+            "The wind will blow into the room.",
+            "[person_1] and [person_1] will stop playing.",
+            "[person_1] will be in danger."
+        ],
+        "reason": [
+            "[person_1] will feel cool.",
+            "Because [person_1] is porcelain , it is very easy to break.",
+            "[person_1] is worried about the horse.",
+            "[person_1] will not keep playing.",
+            "Because [person_1] did nothing to attract the attention of [person_1]."
+        ]
+    }
+}

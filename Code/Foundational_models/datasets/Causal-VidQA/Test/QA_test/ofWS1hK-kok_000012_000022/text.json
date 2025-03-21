@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing?",
+        "answer": [
+            "[person_1] is quite tall and fat.",
+            "[person_1] is fat and tall.",
+            "The [person_1] is wearing a white coat.",
+            "[person_1] is wearing a pair of roller skate.",
+            "[person_1] is standing near the net while others are playing badminton."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] hold the railing?",
+        "answer": [
+            "[person_1] is loosing balance.",
+            "Because [person_1] is smoking hookah and satisfying his addiction.",
+            "The [person_1] is used to cut the potatoes.",
+            "[person_1] makes beautiful shoes to sell them to customers.",
+            "Because [person_1] wants to cut the board."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to wait for the photocopy machine to work.",
+            "[person_1] may fall.",
+            "[person_1] is going to put his head down.",
+            "[person_1] is going to cling to the mechanical bull's back even tighter.",
+            "[person_1] is going to stop messing with the guitar."
+        ],
+        "reason": [
+            "because the mechanical bull is going to move faster.",
+            "because [person_1] is gently removing the pencil from the sharpener.",
+            "[person_1] takes the water bottle.",
+            "[person_1] is loosing balance when turning around.",
+            "because [person_1] only need the iron piece on the pen cap."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_2] falls down the stairs?",
+        "answer": [
+            "The performance of [person_1] and [person_2] will no longer be special.",
+            "[person_1] may record it again.",
+            "[person_2] would lie on the ground , too.",
+            "[person_2] can't break the boards.",
+            "[person_1] will be tripped over."
+        ],
+        "reason": [
+            "Because [person_2] is blocking the camera.",
+            "when [person_2] falls down the stairs , [person_1] is right in front of the stairs.",
+            "Because [person_1] really loves compliments from her close friends.",
+            "The blood prevents [person_1] from sharpening the knife.",
+            "Because [person_2] is not the champion."
+        ]
+    }
+}

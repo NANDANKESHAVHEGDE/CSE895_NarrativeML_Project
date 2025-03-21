@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is between the [chair_1] and the wall.",
+            "The [chair_1] is behind the gong.",
+            "The [chair_1] is in the left of the refrigerator.",
+            "The [chair_1] is under the table , behind the [chair_1].",
+            "The [chair_1] is next to the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why the [person_1] is opening the refrigerator door?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "The [person_1] seems to be curious about the refrigerator door.",
+            "[person_1] is skipping the rope.",
+            "Because there is a person who guides [person_1] how to play basketball.",
+            "Because [person_1] is spraying paint on the picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "[person_1] will go out of the pool and rest.",
+            "The [person_1] is going to continue to harvest apples.",
+            "The [person_1] may keep looking at the song notes.",
+            "The [person_1] is going to close the refrigerator door.",
+            "The [person_1] is going to be taken to a hospital."
+        ],
+        "reason": [
+            "[person_1] is reading for jump.",
+            "Because there don't seem to be anything of interest to the [person_1] in the refrigerator.",
+            "The [person_1] has just wiped the blue plate and the [person_1] is next to a sink.",
+            "The [person_1] has already fallen.",
+            "The [person_1] almost finishes the tile installation."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] can't close the refrigerator door?",
+        "answer": [
+            "The [person_1] might fall to the route.",
+            "Then [person_1] can't shoot into the basket.",
+            "[person_1] will hold on and stop the machine.",
+            "[person_1] will pull the curtain down.",
+            "The [person_1] will cry and then attract adults to help him close the refrigerator door."
+        ],
+        "reason": [
+            "Because he had to stick the boards together.",
+            "To change a pair of rings.",
+            "Do not use too much force on an already injured hand , or it will cause a second injury.",
+            "In case of getting hurt.",
+            "Because the [person_1] is so small , he has to ask adults for help."
+        ]
+    }
+}

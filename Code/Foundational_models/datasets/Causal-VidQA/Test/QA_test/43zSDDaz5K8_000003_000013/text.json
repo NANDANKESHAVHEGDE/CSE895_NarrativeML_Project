@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is blue.",
+            "The shirt is black.",
+            "The shirt color is yellow.",
+            "The shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is opening her gift.",
+            "[person_1] is talking about something.",
+            "[person_1] is whistling.",
+            "[person_1] is working out in the gym.",
+            "[person_1] is lifting ."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to keep lifting.",
+            "[person_1] is going to eat potato chips.",
+            "[person_1] may clean the bathroom.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] will use the ball to observe his surroundings."
+        ],
+        "reason": [
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] wants to have a stronger body.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "[person_1] has just fell off the small chair and waited for a person to help him stand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the weights is dropped ?",
+        "answer": [
+            "It is possible that [person_1] will stop practicing .",
+            "[person_1] won't see anything.",
+            "[person_1]'s hat might fall down.",
+            "[person_1] will not be able to continue playing.",
+            "The weights will hurt [person_1]."
+        ],
+        "reason": [
+            "There is nobody can catch [person_1].",
+            "[person_1] should remain almost a thick group to draw in the crowd.",
+            "Due to not enough light to practice.",
+            "It is too dark to see anything.",
+            "The weights is very heavy."
+        ]
+    }
+}

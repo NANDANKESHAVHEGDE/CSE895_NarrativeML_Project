@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [chair_1]?",
+        "answer": [
+            "[chair_1] is behind [person_1].",
+            "[chair_1] is placed far away behind three people.",
+            "[person_1] is next to a [chair_1].",
+            "[chair_1] is in front of [person_1].",
+            "[chair_1] is placed next to the beginning of the stair."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] tapping the pens?",
+        "answer": [
+            "[person_1] fixes the cage on the bottleneck and strikes the cage with a knife , segregating the bottleneck from the body.",
+            "[person_1] put the paper in the cutter for paper recycling.",
+            "Maybe he won the game .",
+            "[person_1] is a pen tapper , who uses the pen to make rhythms.",
+            "[person_1] , [person_1] and [person_1] make the snowman with their hands together."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue playing his song on his guitar until he is done.",
+            "[person_1] will finish talking and then record himself doing another guitar technique.",
+            "[person_1] will continue tapping the pen until the track is completed.",
+            "[person_1] will finish showing off his musical talent by playing the entire song and then finish.",
+            "[person_1] will continue washing the dishes then put them in [person_1]."
+        ],
+        "reason": [
+            "[person_1] hasn't finished washing the dishes yet.",
+            "It appears that [person_1] does not finish the painting.",
+            "[person_1] will play his bagpipes loudly because he doesn't have to worry about disturbing anyone because no one is around.",
+            "[person_1] doesn't seem to have finished the track.",
+            "Because [person_1] seems to be terrified of something."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] made a mistake?",
+        "answer": [
+            "[person_1] wouldn't get through the coco so easily.",
+            "[person_1] could not lift weights like that.",
+            "[person_1] will not mark the wood in front of him.",
+            "[person_1] would start over.",
+            "[person_1] would play with someone."
+        ],
+        "reason": [
+            "Because [person_1] is next to the door.",
+            "[person_1] has finished his jump successfully.",
+            "In this way [person_1] can be safe and can be allowed to jump.",
+            "[person_1] can lose focus and get out of rhythm.",
+            "Because [person_1] uses to flip by the right hand."
+        ]
+    }
+}

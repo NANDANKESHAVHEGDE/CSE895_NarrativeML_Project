@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there in the room?",
+        "answer": [
+            "Yes , it is.",
+            "There are three chairs in the room.",
+            "There are two.",
+            "There are four.",
+            "Only one."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] touching her hair?",
+        "answer": [
+            "[person_1] is introducing the harmonica.",
+            "[person_1] is doing the workout cheerfully.",
+            "[person_1] is a little nervous.",
+            "[person_1] is filming and reading newspaper.",
+            "The weather is summer."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after playing games?",
+        "answer": [
+            "[person_2] will shoot the marble out.",
+            "[person_2] intends to play another games.",
+            "[person_2] will go home.",
+            "[person_2] intends to continue playing the keyboard.",
+            "[person_2] will go to where [person_2] is standing."
+        ],
+        "reason": [
+            "[person_2] legs are tired.",
+            "[person_2] is bad at somersaults.",
+            "It is very late already.",
+            "He must be tired after running for a long time.",
+            "It is likely that [person_2] legs will be tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the lights turn off?",
+        "answer": [
+            "[person_2] might not get any help from them.",
+            "They would stop playing the gaming.",
+            "[person_1] might get hurt.",
+            "That kid would be taken away.",
+            "The tool would be useless."
+        ],
+        "reason": [
+            "Because the letter is more private and must be put in the mailbox.",
+            "[person_1] is a kid.",
+            "Without the rope , [person_2] and [person_2] had no safety measures.",
+            "[person_2] needs a ball that doesn't deflate to practice.",
+            "It's hard to play it in the dark."
+        ]
+    }
+}

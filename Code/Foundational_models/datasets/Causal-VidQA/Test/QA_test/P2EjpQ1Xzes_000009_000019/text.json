@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] wearing?",
+        "answer": [
+            "[person_1] is at skate place.",
+            "[person_1] is wearing a jacket.",
+            "[person_2] is in front of [person_1].",
+            "[person_1] is running on the road in the opposite direction with [person_1].",
+            "[person_2] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] dropping money in the bag on the road?",
+        "answer": [
+            "[person_2] is holding a harp.",
+            "[person_2] is feeling hot.",
+            "[person_2] is donating for the bagpipe artist.",
+            "Because [person_2] uses maracas to play music.",
+            "Because [person_2] and [person_2] are playing a game of clapping."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] about to do?",
+        "answer": [
+            "[person_3] is about to give the artist some more money.",
+            "[person_3] will go to see a doctor.",
+            "[person_3] is about to pass the ball back to [person_3] .",
+            "The [person_3] maybe fix the block if the block is broken.",
+            "[person_3] is about to throw the ball back to [person_3]."
+        ],
+        "reason": [
+            "[person_3] is taking something out of his pocket.",
+            "The woman is holding a bag and there are many apples in front of the woman.",
+            "the kid jumping in front of [person_3] seems very excited.",
+            "Because the person did not stop by applying the brake.",
+            "[person_3] threw the ball and had to watch closely to know if it went in the basket."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was no bag in front of the bagpipe artist who is wearing a dress?",
+        "answer": [
+            "[person_2] would have nothing to drop money in.",
+            "The cup may break.",
+            "He would go to the kitchen.",
+            "The sheep might be in dangerous.",
+            "She would be sad."
+        ],
+        "reason": [
+            "There are some cars near the road.",
+            "The bag is for the money donation.",
+            "If spreading too much sauces on the food , the food will be too salty.",
+            "Because people like to drink and eat some snacks.",
+            "The cup is on the table."
+        ]
+    }
+}

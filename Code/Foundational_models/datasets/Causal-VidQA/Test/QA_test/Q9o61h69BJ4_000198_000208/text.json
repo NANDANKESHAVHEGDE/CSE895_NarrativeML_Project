@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who are [person_1] and [person_2]?",
+        "answer": [
+            "These people are standing in a park.",
+            "There is only one column in the video.",
+            "On his back.",
+            "No , he didn't.",
+            "[person_1] and [person_2] are a couple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] laugh?",
+        "answer": [
+            "[person_2] is performing in a show.",
+            "[person_1] is in pain after waxing his eyebrows.",
+            "[person_1] controls the guitar and feels the music as well.",
+            "[person_1] places the accordion that leans on her chest with the key buttons confronting away from her.",
+            "[person_1] just did somersaults."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after cleaning the eyebrow?",
+        "answer": [
+            "[person_2] will wax another.",
+            "[person_2] will clean the dust in the dust catcher.",
+            "[person_2] will instruct [person_2] how to do.",
+            "[person_2] will say more to the camera.",
+            "[person_2] will go to the park."
+        ],
+        "reason": [
+            "The [person_1] is riding on the mechanical bull , and the mechanical bull will turn around.",
+            "[person_1] sat on a chair and [person_2] was the person who waxed his eyebrows.",
+            "Because [person_1] needs that frisbee to continue to practice.",
+            "Because [person_1] has won the race.",
+            "When [person_2] , [person_2] , [person_2] and [person_1] are doing a group performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] waxes his eyebrows by himself?",
+        "answer": [
+            "Maybe [person_1] will feel less excitement.",
+            "The hockey puck would fly away fast.",
+            "Maybe [person_1] will feel more pain.",
+            "Another person will do all the work.",
+            "Maybe [person_1] will feel less pain."
+        ],
+        "reason": [
+            "[person_1] cannot adjust the eyebrow waxing to make it less painful.",
+            "Raising the lifts can improve [person_1]'s muscle strength.",
+            "[person_1] can adjust the eyebrow waxing to make it more painful.",
+            "Or people will slip if they step on it.",
+            "[person_1] can adjust the eyebrow waxing to make it less painful."
+        ]
+    }
+}

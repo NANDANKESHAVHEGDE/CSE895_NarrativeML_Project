@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bench_1]?",
+        "answer": [
+            "The [person_1] is in the living room and in front of the TV.",
+            "[person_1] is in the room.",
+            "[bench_1] is outside behind [person_1].",
+            "[person_1] is on the shelf.",
+            "The [bench_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside?",
+        "answer": [
+            "[person_1] is happy to do the roasting.",
+            "[person_1] is stacking the cups on the table.",
+            "[person_1] is standing outside playing his bagpipe for money.",
+            "By riding the scooter.",
+            "[person_1] is standing outside on the sidewalk playing their bagpipes."
+        ]
+    },
+    "predictive": {
+        "question": "what will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will start doing aerobics.",
+            "[person_1] is going to play drums for a while longer.",
+            "[person_1] will think how to beat [person_1] in the next round.",
+            "[person_1] will speed up.",
+            "[person_1] will continue to play her bagpipes for the people watching her."
+        ],
+        "reason": [
+            "[person_1] is taking a video.",
+            "[person_1] is a street performer playing music for people ; she will continue to do so because it's how she makes money.",
+            "[person_1] does a very smooth hockey stop.",
+            "[person_1] will cut it to the proper size for doing the work.",
+            "[person_1] is repairing the tire."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the bagpipes [person_1] was using broke?",
+        "answer": [
+            "[person_1] might fall on the stage.",
+            "[person_1] will need a rest.",
+            "[person_1] would look at her bagpipes , confused about what's wrong with them , and then attempt to see if she could fix it.",
+            "It may destroy the building under construction.",
+            "[person_1] would not sit on [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] can't leave until he takes off his protective gear.",
+            "[person_1] plays the bagpipes to earn money , so she will be desperate to fix her instrument.",
+            "Because the plaster was not dry yet so it could stick to other surfaces.",
+            "To change a pair of rings.",
+            "The road [person_1] riding on is bumpy."
+        ]
+    }
+}

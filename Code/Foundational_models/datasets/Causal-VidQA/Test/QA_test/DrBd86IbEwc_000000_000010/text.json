@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the gender of [person_1]?",
+        "answer": [
+            "The [person_1].",
+            "They are black.",
+            "Yes.",
+            "It is pink.",
+            "Female."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile at the beginning?",
+        "answer": [
+            "Because [person_1] is going to do an exciting thing.",
+            "[person_1] wants to show his strength.",
+            "[person_1] wants to change the speed.",
+            "[person_1] just picked it up from the tree.",
+            "[person_1] wants to water the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep seeing.",
+            "[person_1] is going to celebrate.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to tell her classmates what she has found.",
+            "[person_1] will probably stop pirouetting."
+        ],
+        "reason": [
+            "The tire is fully inflated.",
+            "Maybe [person_1] was feeling dizzy.",
+            "The cat is sitting next to [person_1].",
+            "[person_1] is moving to the chair.",
+            "After looking at the microscope she turned back as if she wanted to talk to the students behind her."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] didn't see anything?",
+        "answer": [
+            "[person_1] will keep lying.",
+            "[person_1] will pick up the chips.",
+            "[person_1] will stop observing.",
+            "[person_1] wouldn't know how to use the broom.",
+            "[person_1] will keep observing."
+        ],
+        "reason": [
+            "[person_1] is practicing playing the guitar.",
+            "We usually keep looking until we find anything.",
+            "[person_1] would drink a lone.",
+            "We usually keep looking until we don't find anything.",
+            "The lamp will not work."
+        ]
+    }
+}

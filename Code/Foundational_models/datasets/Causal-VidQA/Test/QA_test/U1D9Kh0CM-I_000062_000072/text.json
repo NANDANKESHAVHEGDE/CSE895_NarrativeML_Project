@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is on the desk.",
+            "[cup_1] is on the table.",
+            "[cup_1] is on the table behind [cup_1].",
+            "It is on the [dining table_1].",
+            "It is on the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the faucet?",
+        "answer": [
+            "Because the pencil is blunt.",
+            "Because it's a tool for [person_1] to slide.",
+            "The [person_1] wants to sit down.",
+            "Because it is a smoking device.",
+            "[person_1] is afraid of the fire."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn left.",
+            "[person_1] will continue to smoke.",
+            "[person_1] will sit there and curve.",
+            "[person_1] will call the rescue team.",
+            "[person_1] is turning around to get the comb."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] has bent back.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is going to put the shoe down.",
+            "Maybe [person_1] likes to smoke hookah."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes hookah?",
+        "answer": [
+            "Then [person_1] can not write anything on the [person_1].",
+            "Perhaps [person_1] will feel eye pain.",
+            "The [person_1] will not be able to ride because everyone is skating.",
+            "Maybe [person_1] will be in danger to health.",
+            "The two darts of [person_1] still count."
+        ],
+        "reason": [
+            "Smoking hookah will be addictive.",
+            "[person_1] will need to rest.",
+            "[person_1] may need to pick them up.",
+            "[person_1] will have a rest.",
+            "It's easy to faint if you continue to exercise when you're hungry."
+        ]
+    }
+}

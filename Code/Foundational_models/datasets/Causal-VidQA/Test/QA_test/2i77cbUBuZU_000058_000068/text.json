@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_3]?",
+        "answer": [
+            "The [person_2] is sitting on a brown couch.",
+            "The [person_2] is on the ground.",
+            "The [person_3] is sitting on the right - hand side of the [person_2].",
+            "The [person_3] is in a park.",
+            "The [person_2] is between the bed and the door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_2] ripping the paper?",
+        "answer": [
+            "Because the [person_1] wants to open the present.",
+            "Because [person_1] wants to help [person_2].",
+            "The large square is specific for cars.",
+            "[person_1] likes playing the harp.",
+            "The [person_1] is talking to the [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to help the [person_2] open the present.",
+            "The [person_1] may keep chasing the [person_2].",
+            "The [person_1] may keep performing accordion show.",
+            "The [person_1] may keep running.",
+            "The [person_1] may open the faucet and wash the basin."
+        ],
+        "reason": [
+            "The [person_1] is ripping the wrapper with the [person_2].",
+            "The [person_1] turns left and goes somewhere.",
+            "The [person_1] puts the stone down and moves his body to lift it.",
+            "The [person_1] has just fallen to the water and the [person_1] is standing.",
+            "The [person_1] is still raising the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] and the [person_2] did not rip the wrapper?",
+        "answer": [
+            "The [person_1] and the [person_2] could know what was inside the box.",
+            "[person_2] might remind him how to sing the following lyrics.",
+            "The [person_1] and the [person_2] could not know what was outside the box.",
+            "[person_1] dare not to come near the goat.",
+            "The [person_1] and the [person_2] could not know what was inside the box."
+        ],
+        "reason": [
+            "The box is not wrapped with the colorful paper.",
+            "The gym will have a lot of equipment to practice.",
+            "The box is wrapped with the black paper.",
+            "The [person_1] sits behind the microphone.",
+            "The box is wrapped with the colorful paper."
+        ]
+    }
+}

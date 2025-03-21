@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_3] holding?",
+        "answer": [
+            "The [person_3] is on the floor.",
+            "It is a mirror.",
+            "No.",
+            "[person_3] is on the carpet.",
+            "The [person_3] is holding the [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_2] pour the beer in the [cup_2] into the sink?",
+        "answer": [
+            "The [person_2] will quit drink beer with the [person_1] and [person_3].",
+            "Because [person_2] wants to keep the bottle stable for [person_1].",
+            "Because the [person_1] seems to be a host who is talk to the doll for fun.",
+            "Because [person_1] is trying to tell us that the objective can be adjusted.",
+            "Because [person_2] is inviting [person_1] to his house."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_2] do?",
+        "answer": [
+            "It is possible that [person_2] is the goalkeeper and [person_2] will defend the goal.",
+            "The [person_2] will take the [cup_2]'s hand.",
+            "The [person_2] will show the empty [cup_2] in front of the camera.",
+            "The [person_2] will lead the [cup_2] toward the cameramen.",
+            "The [person_2] will pick up another basketball to shoot."
+        ],
+        "reason": [
+            "[person_2] stomped grapes among the crowd.",
+            "The [person_2] has just announced to quit beer and poured all the beer into the sink.",
+            "The [person_2] is putting the arm of the [person_2] on the shoulder of the [person_2].",
+            "[person_2] is sorting them.",
+            "[person_2] is picking noodles up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_3] drops the [cup_1]?",
+        "answer": [
+            "The [cup_1] will feed the camel.",
+            "The [cup_1] will be broken.",
+            "Maybe [person_3] will pick it up.",
+            "The [cup_1] will not cause [person_3] hurt.",
+            "[person_3] will correct her fault."
+        ],
+        "reason": [
+            "The [cup_1] is made of glass.",
+            "An unripe watermelon is not sweet.",
+            "[cup_1] will need a new ball.",
+            "Raindrops will puncture balloons.",
+            "Because [person_3] won't be disturbed by other things."
+        ]
+    }
+}

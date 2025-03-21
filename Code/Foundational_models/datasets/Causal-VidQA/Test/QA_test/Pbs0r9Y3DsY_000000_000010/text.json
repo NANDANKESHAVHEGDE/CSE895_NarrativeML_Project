@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cat_1]?",
+        "answer": [
+            "It is in the garden.",
+            "[cat_1] is placed at the corner.",
+            "It's in the yard.",
+            "[cat_1] is sitting on the floor.",
+            "[cat_1] is playing in front of his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [cat_1] sitting on the floor?",
+        "answer": [
+            "Maybe [cat_1] is in a competition.",
+            "With the help of the toy machine.",
+            "The [cat_1] is practicing how to play basketball.",
+            "[cat_1] needs to finish other works.",
+            "[cat_1] still is a baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [cat_1] going to do?",
+        "answer": [
+            "[cat_1] may take in a bartender's show.",
+            "[cat_1] may look at the mag.",
+            "[cat_1] will search on the field carefully.",
+            "[cat_1] and [cat_1] are going to step to the left.",
+            "[cat_1] may want to hold the ball."
+        ],
+        "reason": [
+            "[cat_1] is raising hands toward [person_1] who is holding the ball.",
+            "Because [person_1] has a player in his hand , he can listen to whatever he wants.",
+            "When [cat_1] turns the head , [cat_1] can feel safe and prepare to put the leg down.",
+            "There is a woman who may be [person_1]'s mother in the room and [person_1] is smiling when she is talking.",
+            "After wiping the arm of [cat_1] , [person_1] moved his syringe to the arm of [cat_1] again."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] steps backward too much?",
+        "answer": [
+            "The others would cheer for [couch_1].",
+            "[person_1] might perform much better.",
+            "[person_1] will cough.",
+            "[person_1] may just watch [person_1].",
+            "[person_1] may hit [couch_1]."
+        ],
+        "reason": [
+            "Because [person_1] is the central part of the ceremony.",
+            "[person_1] , [couch_1] and [couch_1] need to perform together on stage.",
+            "Maybe [person_1] is nearsighted . [person_1] wears glasses to see and read easier.",
+            "[couch_1] is right behind [person_1].",
+            "Because [person_1] is still a little girl and it is hurt."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's pink.",
+            "It's black.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "[person_1] is wearing the white shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] in the room?",
+        "answer": [
+            "[person_3] is watching [person_1].",
+            "[person_1] and [person_3] are playing harmonica together.",
+            "Because [person_3] needs a big room to play musical instruments with friends.",
+            "[person_3] is in the room to help [person_1] open the present",
+            "[person_1] is playing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is talking about his opinion.",
+            "[person_1] is going to open the present box and see what's inside.",
+            "[person_1] is going to a workout.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] will huddling with the team."
+        ],
+        "reason": [
+            "[person_1] has finished the body color.",
+            "[person_1] is tearing the wrapping paper.",
+            "[person_1] is sliding downhill.",
+            "[person_1] likes sledding.",
+            "[person_1] just started."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if in the box is a beautiful dress?",
+        "answer": [
+            "Maybe [person_1] will not wear it on Christmas Eve.",
+            "[person_1] will then go to the [person_1].",
+            "Maybe [person_1] will wear it on Christmas Eve.",
+            "Maybe [person_1] will take another one to eat.",
+            "Maybe [person_1] will wear it before Christmas Eve."
+        ],
+        "reason": [
+            "That present belongs to her.",
+            "It's time for lunch.",
+            "That present does not belong to her.",
+            "Because their movements are inconsistent.",
+            "That present belongs to him."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a plaid shirt.",
+            "It is white and blue.",
+            "The shirt is white.",
+            "It's orange.",
+            "The color of the shirt is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling ?",
+        "answer": [
+            "Because the [person_1] make a joke by ripping paper.",
+            "[person_1] is playing with water.",
+            "Because [person_1] is going to roller skating.",
+            "[person_1] is skating backward.",
+            "[person_1] is showing talent playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to fill up [bowl_1] and [bowl_2] and keep playing.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to break.",
+            "[person_1] is going to turn left.",
+            "Bake the dough batch after batch."
+        ],
+        "reason": [
+            "[person_1] needs to recover.",
+            "[bowl_1] and [bowl_2] were almost spilled.",
+            "[person_1] feels hot.",
+            "[person_1]'s arms were intertwined.",
+            "[person_1] just started."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s house runs out of water?",
+        "answer": [
+            "[person_1] won't be able to continue playing.",
+            "[person_1] will do her homework.",
+            "[person_1] would not have the copy.",
+            "The fruit would be easier to open.",
+            "The pants of [person_1] will be wet."
+        ],
+        "reason": [
+            "The dance moves in Zumba are very important and easy to do wrongly.",
+            "It looks like that the floor is very slip.",
+            "Because the apple peelers can peel the apple faster and stronger.",
+            "[person_1] will have to wait for water.",
+            "The puddle is very close to [person_1]."
+        ]
+    }
+}

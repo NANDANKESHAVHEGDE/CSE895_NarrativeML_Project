@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the floor.",
+            "[person_1] and [person_2] are in bathroom.",
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] and [person_2] are on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] have \u00a0 a trimmer her hand?",
+        "answer": [
+            "Because [person_2] wants to wipe the objective with a clean paper.",
+            "[person_2] wants to help his father shave.",
+            "Because [person_2] wants to prove he has cracked the cap.",
+            "He hitches the tire from the inside with the hammer and lifts them.",
+            "[person_2] is playing the accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do ?",
+        "answer": [
+            "[person_2] may wash his hands.",
+            "[person_2] is going to shave.",
+            "[person_2] is going to take a short rest.",
+            "[person_2] may keep dancing.",
+            "Shine his ears with a flashlight."
+        ],
+        "reason": [
+            "Because [person_2] is on the stage.",
+            "There is some food in [person_2]'s hand , he is trying to feed the animals.",
+            "Since [person_2] has finished jumping , it may be [person_2]'s turn to jump.",
+            "Judging from the expression of [person_2] , she thinks [person_2] is not singing well.",
+            "[person_2] is a little daughter , helping his father shave."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the trimmer runs out of battery?",
+        "answer": [
+            "[person_2] will fall down and be hurt.",
+            "[person_1] would not hit [person_1] with his head.",
+            "[person_1] might just massage [person_1]'s eyes.",
+            "The trimmer won't be able to keep working.",
+            "Perhaps [person_1] will be difficult to ride [person_1]."
+        ],
+        "reason": [
+            "The trimmer will need to be charged.",
+            "[person_2] needs to put the apple in the white bucket.",
+            "People seldom record when they eat watermelon.",
+            "[person_2] is quite small to practice alone.",
+            "The weight lifting is very heavy . When the floor collapses , the weight lifting may override [person_2]."
+        ]
+    }
+}

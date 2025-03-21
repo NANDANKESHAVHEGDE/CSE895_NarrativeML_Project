@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are two chairs.",
+            "There are two chair.",
+            "There are two vases.",
+            "The room is clean.",
+            "There are three people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] in the room?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] are playing together.",
+            "[person_1] and [person_2] are watching the gifts.",
+            "[person_1] , [person_2] and [person_3] are spending all their energy relaxing.",
+            "[person_2] is giving a massage to [person_1]'s head.",
+            "[person_2] is giving massage to [person_1] to relax the skin of the face."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will continue to raising her eyebrows.",
+            "[person_1] will continue to play.",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] may drink water."
+        ],
+        "reason": [
+            "[person_1] looks so beautiful.",
+            "Because after [person_1] dealing the cards , [person_1] picked the cards up and prepared to see the cards.",
+            "[person_1] looks very focused.",
+            "[person_1] may sing and play more than.",
+            "[person_1] will continue to raise [person_1]'s leg because [person_1] is holding [person_1]'s leg."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] , [person_2] and [person_3] grow up together?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] will go to school together.",
+            "[person_2] will then take [person_1] to the shop.",
+            "[person_1] would go sailing.",
+            "[person_1] might forget the rhyme.",
+            "[person_1] would step on the white dog."
+        ],
+        "reason": [
+            "The [person_1] is shoveling the snow with the shovel.",
+            "[person_1] , [person_2] and [person_3] will play chess together.",
+            "To choose a new ring that [person_1] likes.",
+            "[person_1] can't drink expired wine.",
+            "There are some bowls in the cupboard now."
+        ]
+    }
+}

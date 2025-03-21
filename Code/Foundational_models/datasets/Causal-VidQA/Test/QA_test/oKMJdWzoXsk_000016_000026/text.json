@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a watch ?",
+        "answer": [
+            "The [person_1] wants to open the red box.",
+            "[person_1] is sharing the number of completion times.",
+            "[person_1] needs to reposition his microphone.",
+            "[person_1] is doing it for fun.",
+            "Maybe [person_1] wants to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may clean the inside.",
+            "[person_1] may keep shaking ropes.",
+            "[person_1] is going to continue trying to shorten the time slot.",
+            "[person_1] is going to stack three more cups.",
+            "[person_1] may stand up."
+        ],
+        "reason": [
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1] is going to feel tired.",
+            "[person_1] is a beginner.",
+            "[person_1] fell under the bed.",
+            "Maybe [person_1] is not fast enough."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups quickly?",
+        "answer": [
+            "[person_1] maybe win.",
+            "The [person_1] will not feel hurt after playing piano accordion for a long time.",
+            "[person_1] will be win.",
+            "The face of the [person_1] would have been hit.",
+            "Perhaps [person_1] will be seriously injured."
+        ],
+        "reason": [
+            "[person_1] will be stack it more firmly.",
+            "[person_1] will need to be careful.",
+            "They will stop to clean it.",
+            "[person_1] is arranging cups slowly.",
+            "The flute makes an unexpected sound [person_1]."
+        ]
+    }
+}

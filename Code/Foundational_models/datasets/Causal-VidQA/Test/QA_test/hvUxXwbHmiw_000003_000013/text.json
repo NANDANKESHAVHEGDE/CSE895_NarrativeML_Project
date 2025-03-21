@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What tool does [person_1] use?",
+        "answer": [
+            "It's red.",
+            "Red.",
+            "White.",
+            "It's a glass bottle.",
+            "[person_1] is rectangular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] banging a glass bottle on a beer bottle?",
+        "answer": [
+            "They want to see who wins the game.",
+            "[person_1] is helping the kids to do this.",
+            "[person_1] is reading book.",
+            "[person_1] is celebrating his success in stacking the dices.",
+            "To pressure the gas inside the beer bottle to open it better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to pour beer to the glass bottle.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] is going to eat."
+        ],
+        "reason": [
+            "[person_1] is leaning forward to take the camera.",
+            "[person_1] has food on hand.",
+            "There are many sand on his feet.",
+            "[person_1] is tilting the beer bottle on top of the glass bottle.",
+            "[person_1] has many other bottles on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dining table_1] is broken?",
+        "answer": [
+            "[dining table_1] may be feel hard to move.",
+            "[bottle_1] on it will break.",
+            "[dining table_1] may go to have a drink.",
+            "[dining table_1] may head down.",
+            "[dining table_1] could not perform well."
+        ],
+        "reason": [
+            "Because [dining table_1] has another one on [dining table_1].",
+            "Because [dining table_1] is not pushed toward the [bottle_1].",
+            "Maybe [bottle_1] is nearsighted . [bottle_1] wears glasses to see and read easier.",
+            "[bottle_1] stand straightly on the [dining table_1].",
+            "Because the elephant listen to [dining table_1]."
+        ]
+    }
+}

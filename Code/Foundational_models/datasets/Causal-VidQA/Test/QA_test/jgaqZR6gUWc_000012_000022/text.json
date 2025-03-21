@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it hanging on the wall?",
+        "answer": [
+            "It is a painting.",
+            "It is in a training field.",
+            "The room is quite large.",
+            "It is a big room.",
+            "The room is spacious."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] smile?",
+        "answer": [
+            "Because [person_2] receives the ring and flower from [person_1]'s proposal.",
+            "The [person_1] lost balance and didn't want to fall.",
+            "The [person_1] could not keep balance while walking stilts.",
+            "Because [person_2] knows that [person_2] will win this match against [person_1].",
+            "Because [person_1] finds crashing the cymbals interesting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is holding his forehead with his hand.",
+            "[person_2] may making cookies by herself.",
+            "[person_2] is going to eat the donut hanging on the rope.",
+            "[person_2] is going to stretch [person_2]'s hand.",
+            "[person_2] may stand up and clap his hand."
+        ],
+        "reason": [
+            "[person_1] turns her head and looks at [person_2].",
+            "To let [person_1] put the ring for [person_2].",
+            "[person_1] still high five with [person_2].",
+            "Because [person_2] is holding the chair and try to stand up.",
+            "[person_2] is standing in the start position , picking up the marker , waiting for [person_1] to finish his jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the painting on the wall fell down?",
+        "answer": [
+            "[person_1] would drink.",
+            "[person_1] will then stand up.",
+            "[person_1] would be happy.",
+            "Maybe [person_1] would win something for herself.",
+            "The [person_1] would get hurt."
+        ],
+        "reason": [
+            "It might look old.",
+            "The people here will have more fun with more people together.",
+            "To hang on the painting first.",
+            "[person_2] wouldn't be happy about receiving something she doesn't want to eat , so she would get sad when she gets the salad.",
+            "if a strong wind blew [person_1] , he would lose his concentration on his hands and mess up the difficult song he's playing."
+        ]
+    }
+}

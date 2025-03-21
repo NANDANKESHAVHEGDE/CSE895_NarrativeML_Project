@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is yellow.",
+            "It is purple.",
+            "It is pink.",
+            "It's blue.",
+            "It's red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] kneeling on the floor?",
+        "answer": [
+            "[person_1] is joining in the roller skating competition.",
+            "[person_1] and [person_2] are looking for a way to knock the opponent down.",
+            "Because the [person_1] is performing to every one.",
+            "[person_1] is reading the newspaper.",
+            "The [person_1] does not know how to use the bass buttons."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to keep talking.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to find a way to counterattack."
+        ],
+        "reason": [
+            "[person_1] is jumping very professionally.",
+            "[person_2] is taking the initiative.",
+            "She is absorbed in dancing.",
+            "It is very sunny.",
+            "[person_1] cannot lift the sled."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] knocks [person_1] down?",
+        "answer": [
+            "[person_1] will win.",
+            "[person_2] will win.",
+            "[person_1] will rest on [person_1].",
+            "[person_2] may get hurt.",
+            "[person_1] will stop playing."
+        ],
+        "reason": [
+            "Their parents are here.",
+            "She won't keep on if she feels too tired.",
+            "[person_1] wants to rest himself.",
+            "Because this is his first time making glass.",
+            "That's the rule."
+        ]
+    }
+}

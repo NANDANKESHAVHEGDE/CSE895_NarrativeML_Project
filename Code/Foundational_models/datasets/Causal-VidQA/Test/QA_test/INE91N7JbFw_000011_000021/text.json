@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "[bottle_1] is square.",
+            "It is on the windowsill.",
+            "[bottle_1] is near [bottle_1].",
+            "It is on the table.",
+            "It is on the [bottle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising eyebrows?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "Maybe [person_1] is doing exercise.",
+            "Maybe [person_1] wants to practice to strengthen the hand.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] is adjusting the amount of water to water the plants."
+        ]
+    },
+    "predictive": {
+        "question": " \\ What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to eat dinner.",
+            "[person_1] will try the toy wrapped in the box.",
+            "[person_1] will scream and shout.",
+            "[person_1] will continue walking.",
+            "[person_1] is doing a quick challenge with the cups."
+        ],
+        "reason": [
+            "Because it is [person_1]'s job.",
+            "There is a plate of food on the table.",
+            "[person_1] is laughing.",
+            "Because [person_1]'s action is not standard.",
+            "[person_1] feels tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] finished eating?",
+        "answer": [
+            "The children might not dance.",
+            "[person_1] might sit on [person_1] to wait for [person_1].",
+            "[person_1] would fall while trying to ski.",
+            "Maybe [person_1] will drink water.",
+            "[person_1] will go home and get the coins."
+        ],
+        "reason": [
+            "The [bottle_1] next to [person_1].",
+            "Because [person_1] were not a person who is fond of beer.",
+            "Because [person_1] may fall from the stair when no one were there to help.",
+            "Because [person_1] was still drinking from the glass.",
+            "Without drinking , [person_1] didn't know the taste of wine."
+        ]
+    }
+}

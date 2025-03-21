@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is seated by [chair_1].",
+            "It is on the right hand of [chair_1].",
+            "[chair_1] is near [chair_1].",
+            "It's next to [chair_1].",
+            "It is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have the lute in his hands?",
+        "answer": [
+            "[person_1] is trying to play.",
+            "[person_1] wants to greet everyone.",
+            "[person_1] wants to keep himself not to fall.",
+            "[person_1] likes this action.",
+            "[person_1] is reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the keyboard.",
+            "[person_1] intends to inspire people.",
+            "[person_1] intends to continue to play the lute.",
+            "[person_1] intends to throw the ball into the basket.",
+            "[person_1] intends to continue playing the gong."
+        ],
+        "reason": [
+            "[person_1] seems to be very enthusiastic.",
+            "[person_1] is playing very focused.",
+            "[person_1] needs a ball to keep on practicing.",
+            "Because it is her dream for many years.",
+            "[person_1] reaches out towards the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will stop kicking high.",
+            "[person_1] will hurt his legs.",
+            "[person_1] will stop jumping.",
+            "The woman in the blue shirt will be very nervous.",
+            "[person_1] will not play anymore."
+        ],
+        "reason": [
+            "[person_1] will feel comfortable when [person_1] dances alone.",
+            "The surface is concrete.",
+            "[person_1] will help [person_1] stand up.",
+            "Because [person_1] stands high from the ground.",
+            "The lute will drop down on the floor."
+        ]
+    }
+}

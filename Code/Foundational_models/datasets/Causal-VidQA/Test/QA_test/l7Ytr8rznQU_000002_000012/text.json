@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding on his hand?",
+        "answer": [
+            "[person_1] is holding a microphone.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding a stick.",
+            "[person_1] is holding two dumbbells."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] run away?",
+        "answer": [
+            "Because [person_2] has something urgent to do.",
+            "[person_2] and [person_2] are friends.",
+            "The [person_2] is riding with other's help.",
+            "[person_2] ride the unicycle quite well.",
+            "[person_2] is excited about this action."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after [person_2] has ran away?",
+        "answer": [
+            "[person_1] may take a bath next.",
+            "[person_1] may leave the room as well.",
+            "Forward.",
+            "[person_1] will try his best to catch it.",
+            "[person_1] will wear a cap."
+        ],
+        "reason": [
+            "He will be sick.",
+            "[person_1] slows down gradually.",
+            "[person_1] cares about [person_2].",
+            "Because [person_1] is sculpting with all attention , there is no time to clean up the clothes.",
+            "Because there will be no one else to listen to his drum playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the door was locked from the outside?",
+        "answer": [
+            "[person_1] and [person_2] might be stuck inside this room.",
+            "The [person_2] might fall and break.",
+            "[person_1] and [person_2] might be stuck outside this room.",
+            "[person_1] will be startled.",
+            "[person_1] and [person_2] might be happy inside this room."
+        ],
+        "reason": [
+            "[person_1] is standing behind the door.",
+            "Because they would be able to open the door from the inside of the room.",
+            "To do some medical examinations.",
+            "Because they would not be able to open the door from the inside of the room.",
+            "The snow is being shot from the machine."
+        ]
+    }
+}

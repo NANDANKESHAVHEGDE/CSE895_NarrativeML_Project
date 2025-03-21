@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is sitting on bed.",
+            "[person_1] is in a room.",
+            "[person_1] is sitting on the steps.",
+            "The [person_1] is between the [person_1] and the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_1] sitting at home?",
+        "answer": [
+            "[person_1] has been opening a lot of Christmas presents.",
+            "The space outside is more open than in the house.",
+            "They are looking for fun.",
+            "By the support of the power.",
+            "He's looking at the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will add another liquor.",
+            "[person_1] is going to use his hand to tamp the soil.",
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to continue to sit on the steps.",
+            "[person_1] will continue to turn off the faucet."
+        ],
+        "reason": [
+            "Because [person_1] needs it to make juice.",
+            "From the status of the left eye , we can see [person_1] has tried many times . So he will enjoy the beer because he open it by his hand , which means he gave up.",
+            "[person_1] think that stretching body is a nice thing and she likes it very much . Therefore , she wants to do more .",
+            "[person_1] is playing the guitar with zeal.",
+            "Because [person_1] has stood upright and doesn't tend to exert all his strength to pull the handle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it\u2019s sunny?",
+        "answer": [
+            "[person_1] will move into the house.",
+            "[person_1] will not have to cut around the stairway.",
+            "[person_1] won't continue.",
+            "[person_1] will stop playing piano anymore.",
+            "[person_1] could not see clearly."
+        ],
+        "reason": [
+            "[person_1] is laughing because of the toys.",
+            "Maybe the sun will shine on where [person_1] is sitting.",
+            "They are in the forest and it is very dangerous in the dark in the forest.",
+            "[person_1] feels uncomfortable with a heavy hat on.",
+            "She had to pay attention to her bike and found where the problem was."
+        ]
+    }
+}

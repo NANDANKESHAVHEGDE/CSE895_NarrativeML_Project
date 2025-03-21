@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the big room.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are in the children's play area.",
+            "[person_1] and [person_2] are at the roller rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the barber shop ?",
+        "answer": [
+            "[person_1] and [person_2] are playing games.",
+            "[person_1] is playing bagpipes.",
+            "[person_1] is shaving the beard of [person_2] .",
+            "[person_1] is performing martial arts.",
+            "[person_1] is practicing to play didgeridoo better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may dance with [person_1].",
+            "[person_1] may straighten his arms.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] may get out of the recording room.",
+            "[person_1] is going to show you how to remove excess from neck line."
+        ],
+        "reason": [
+            "[person_1] likes sledding.",
+            "People are interested in the story behind [person_1].",
+            "[person_1] is very cool.",
+            "[person_1] just started.",
+            "This is a video about how to shave."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if more people know about this tip ?",
+        "answer": [
+            "Men will have better beards.",
+            "The dancers will run under the white shed.",
+            "It may cause disaster.",
+            "[person_2] will sit down on the carpet for a while.",
+            "They will feel hot."
+        ],
+        "reason": [
+            "[person_1] , [person_1] and [person_1] may be a team and they would like to help each other.",
+            "[person_1] would not need to help [person_1].",
+            "This is a very useful tip.",
+            "Because rain has no effect on this match.",
+            "It goes bad."
+        ]
+    }
+}

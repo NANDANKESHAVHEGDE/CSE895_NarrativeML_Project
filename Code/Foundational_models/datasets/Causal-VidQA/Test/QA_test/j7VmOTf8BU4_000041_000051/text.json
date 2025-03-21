@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [clock_1]?",
+        "answer": [
+            "[clock_1] is wearing a long sleeve shirt.",
+            "It is in the corner of the room.",
+            "A blue shirt.",
+            "[clock_1] is wearing a helmet.",
+            "[clock_1] is a round clock on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving his body up and down?",
+        "answer": [
+            "[person_1] must to train to change its body.",
+            "Maybe it is hot.",
+            "[person_1] is feeling the music.",
+            "Maybe [person_1] is a professional player.",
+            "[person_1] is lifting weights."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to ski.",
+            "[person_1] may go to the children park.",
+            "[person_1] will leave the library.",
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to perform music."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] keen on the activity.",
+            "[person_1] has drunk too much water.",
+            "[person_1] put down the weights.",
+            "[person_1] is trying to to play bass buttons and right - hand chords at the same time to create sound."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [clock_1] falls down?",
+        "answer": [
+            "They will find a new lamp tube.",
+            "[clock_1] will help [clock_1] hold the barbell and prevent the barbell from falling down.",
+            "[clock_1] may take a rest.",
+            "[clock_1] may break into pieces.",
+            "[clock_1] will stop playing lute."
+        ],
+        "reason": [
+            "[clock_1] looks stronger.",
+            "Because [clock_1] is made by glass , [clock_1] is fragile.",
+            "Because this is the rule of the game.",
+            "[clock_1] and [clock_1] skate faster.",
+            "[clock_1] will be startled."
+        ]
+    }
+}

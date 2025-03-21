@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it bright ?",
+        "answer": [
+            "[person_2] is wearing it in front of her.",
+            "[person_2] is placed next to [person_2].",
+            "Yes , it is.",
+            "[person_9] is put on the ground and next to [person_9].",
+            "[person_8] is between [person_8] and [person_8]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_8] stomp grapes?",
+        "answer": [
+            "Because it is the uniform.",
+            "Maybe [person_8] does it for fun.",
+            "To increase the air pressure inner , making it easier to open it.",
+            "[person_8] is skating backward.",
+            "Maybe [person_8] had an accident."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to have fun with the gift.",
+            "[person_2] will continue to use the dropper to clear the grape skins.",
+            "[person_2] is going to keep walking on the ice with hands holding the wall.",
+            "[person_2] is going to put the donut in her mouth.",
+            "[person_2] is going to continue dancing."
+        ],
+        "reason": [
+            "[person_2] is clearing grape skins.",
+            "The barbell looks heavy and [person_2] has finished the actions many times.",
+            "[person_2] is bringing the wine glass to his mouth.",
+            "[person_2] is holding the white tool to drill the gray rock.",
+            "The barbell is too heavy and [person_2] has lifted the barbell many times."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "The [person_9] may place the furniture in the house.",
+            "[person_9] maybe stop stomping.",
+            "[person_9] will stop driving the train.",
+            "[person_9] will stop measuring the long jump.",
+            "[person_9] won't be right outdoors."
+        ],
+        "reason": [
+            "[person_9] will stop running.",
+            "[person_9] has no umbrella at hand.",
+            "[person_9] will get wet if it rains.",
+            "[person_9] will need to stay away from raining.",
+            "Because [person_9] is outside and does not have any umbrella."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is purple.",
+            "It is black.",
+            "It is pink.",
+            "it is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is playing with water.",
+            "[person_1] is riding a unicycle.",
+            "Because [person_1] wants to play sports.",
+            "[person_1] is relaxing.",
+            "Because [person_1] wants to go for a walk."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to splash water.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to sing."
+        ],
+        "reason": [
+            "[person_1] is in the beach.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is enjoying splashing water.",
+            "[person_1] has not finished her pumpkin.",
+            "[person_1] wants to relax with this game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it suddenly rains?",
+        "answer": [
+            "[person_1] will be able to continue playing.",
+            "They may hit each other in the air.",
+            "[person_1] won't be able to continue playing.",
+            "[person_1] can get up by himself.",
+            "[person_1] won't be able to stop playing."
+        ],
+        "reason": [
+            "[person_1] gets hurt.",
+            "[person_1] will have to go inside the house.",
+            "Because [person_1] is worried about that.",
+            "[person_1] will have to go outside the house.",
+            "The slope has a dangerous height."
+        ]
+    }
+}

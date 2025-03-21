@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is exercising with a sledgehammer.",
+            "[person_1] is roller - skating on the road.",
+            "[person_1] is playing the bass guitar on his hands.",
+            "[person_1] is throwing a basketball.",
+            "[person_1] is breaking a concrete block."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] exercise with sledgehammer?",
+        "answer": [
+            "[person_1] toys are all in a basket.",
+            "[person_1] places the accordion on his knee with the key buttons facing away from him.",
+            "[person_1] uses a hose to water the plants.",
+            "Because [person_1] rotates two strings at the same time.",
+            "[person_1] holds the handle of the hammer and places the head to the top and leans to his face slowly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will do other things.",
+            "[person_1] is going to keep on playing.",
+            "[person_1] will continue to see the scene below her.",
+            "[person_1] will play a game.",
+            "[person_1] may go back to his skateboard."
+        ],
+        "reason": [
+            "[person_1] instructs [person_1] does like that.",
+            "[person_1] has just hit [person_1].",
+            "[person_1] spreads the plaster after applying it on the wall.",
+            "Because that is what baby usually does when being fed.",
+            "[person_1] is putting down the hammer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't bear the weight of the hammerhead?",
+        "answer": [
+            "The head would press on his nose.",
+            "[person_1] would stop playing guitar because he would be interrupted by the woman bumping into him.",
+            "The head would press on his eyes.",
+            "[person_1] can't score.",
+            "The head would press on his feet."
+        ],
+        "reason": [
+            "The hammerhead is too close to his feet.",
+            "The [person_1] needs power to work.",
+            "The hammerhead is too close to his eyes.",
+            "The gift is big.",
+            "The hammerhead is too close to his nose."
+        ]
+    }
+}

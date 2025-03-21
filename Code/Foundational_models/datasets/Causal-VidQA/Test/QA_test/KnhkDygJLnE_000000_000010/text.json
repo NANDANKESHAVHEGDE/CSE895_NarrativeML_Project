@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [person_2] wearing?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "It is a browm apron.",
+            "It is white.",
+            "The shorts are red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] on sitting the chair?",
+        "answer": [
+            "[person_1] is reading book.",
+            "[person_1] is sitting on the chair.",
+            "Because [person_1] sees another person looking exactly like him in it.",
+            "When [person_1] sits on a chair , [person_1] can hold the guitar.",
+            "[person_1] is sitting and playing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will pump gasoline into his car.",
+            "[person_2] will continue to tear the paper.",
+            "[person_2] will serve her customers with the wine.",
+            "Maybe [person_2] will continue playing roller skating.",
+            "[person_2] will join in the headbanging."
+        ],
+        "reason": [
+            "[person_2] turned to the tank and pointed the phone number.",
+            "Maybe [person_2] likes the sound of tearing paper.",
+            "[person_2] is going to high - five with [person_2].",
+            "[person_2] is following [person_2].",
+            "[person_2] is watching [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop reading.",
+            "[person_1] maybe stop smiling.",
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe stop eating.",
+            "[person_1] maybe afraid."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

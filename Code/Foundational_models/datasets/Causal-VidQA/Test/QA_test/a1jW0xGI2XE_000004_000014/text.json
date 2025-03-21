@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is outside the house.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the home gym.",
+            "[person_1] is at the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the home gym?",
+        "answer": [
+            "[person_1] exercise for health.",
+            "[person_1] is instructing how to put the material.",
+            "[person_1] is playing stacking cups.",
+            "[person_1] is playing harmonica.",
+            "[person_1] is checking the makeup."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to step forward.",
+            "[person_1] is going to fall off the chair.",
+            "[person_1] intends to practice strength training exercises.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to dance another move."
+        ],
+        "reason": [
+            "Because [person_1] is getting the bee box.",
+            "So [person_1] has a beautiful healthy body.",
+            "Because [person_1] will be tired.",
+            "[person_1] is [person_1]'s partner.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "The band would need other clarinet.",
+            "The interview will stop.",
+            "[person_1] cannot be exercised.",
+            "The match will continue.",
+            "[person_1] would stop squeezing."
+        ],
+        "reason": [
+            "Because it's too dark in the room , [person_1] won't be able to practice.",
+            "Because it's too dark for [person_1] playing.",
+            "Because it will be very dark in the home gym.",
+            "[person_1] is riding on the back of the mechanical bull.",
+            "[person_1] has not finished filling the eyebrows."
+        ]
+    }
+}

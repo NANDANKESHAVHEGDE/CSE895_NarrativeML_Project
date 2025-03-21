@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] sit on the car.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the room.",
+            "[person_1] is standing behind the flower pot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is seeing a drawing.",
+            "[person_1] is talking about chess.",
+            "[person_1] is learning to play chess.",
+            "[person_1] is seeing [person_1]'s gifts.",
+            "[person_1] is going out with his family."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] won't sit in [person_1] and still stands.",
+            "[person_1] is going to read book.",
+            "[person_1] is going to eat all the cakes on the [person_1].",
+            "Maybe [person_1] is going to stop to eat.",
+            "[person_1] is about to play the glass ball in his hand."
+        ],
+        "reason": [
+            "[person_1] is holding the book.",
+            "When [person_1] opens the box , [person_1] takes out a beautiful pink shirt.",
+            "Because [person_1] is about to do it.",
+            "When [person_1] drops the rope , the rope shakes but [person_1] manages to continue the walk.",
+            "[person_1] is going to learn how to keep balance so that he can take off 2 spare wheels on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the book drop?",
+        "answer": [
+            "[person_1] will be startled.",
+            "[person_1] will need more different colored pens.",
+            "[person_1] won't be able to read.",
+            "[person_1] will feel uncomfortable and cough.",
+            "[person_1] will help [person_1] hold the barbell and prevent the barbell from hitting [person_1]."
+        ],
+        "reason": [
+            "Because here is a man standing just under the clock.",
+            "Because [person_1] is a child.",
+            "When the strength is not enough during exercise , [person_1] will not continue to lift the barbell.",
+            "[person_1] will bend down to pick it up.",
+            "Because it seems that the [person_1] needs to look the [person_1] when introducing the dolls."
+        ]
+    }
+}

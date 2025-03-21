@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3]?",
+        "answer": [
+            "[person_3] and [person_1] are in the house.",
+            "[person_3] is under [person_1].",
+            "[person_3] is sitting on [person_3].",
+            "[person_3] is in a roller skating floor.",
+            "[person_3] is on the left hand side of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] looking down the present of [person_3]?",
+        "answer": [
+            "[person_3] is playing didgeridoo to relax.",
+            "Because [person_3] is playing xylophone.",
+            "[person_3] must rest the guitar on his thighs.",
+            "[person_3] is waiting for his turn to cut his hair.",
+            "Because [person_2] wants to see [person_3] opening the present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to drink from [person_3].",
+            "[person_3] is going to put down the wrapping paper.",
+            "[person_3] is going to open [person_3].",
+            "[person_3] is going to continue observing [person_3] to play badminton.",
+            "[person_3] is going to catch the balloon back."
+        ],
+        "reason": [
+            "[person_3] and [person_3] both want to win.",
+            "[person_3] stepped to the left and bent her knees slightly.",
+            "[person_3] needs to put down the wrapping paper in order to open the present.",
+            "[person_3] tried to go up the slope but [person_3] failed.",
+            "[person_3] is done swirling [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no paper wrapped around the box?",
+        "answer": [
+            "[person_3] will not need to take the wrapping paper off the box.",
+            "That biscuit will take longer to bake.",
+            "[person_3] will leave the classroom.",
+            "The table will be sticky.",
+            "[person_3] and [person_3] would be proud of him."
+        ],
+        "reason": [
+            "Because the wrapping paper is not present.",
+            "[person_3] did not win the contest.",
+            "These trees are so weak and thin.",
+            "Students should go away after class.",
+            "The lifts seem to be very heavy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the bed.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is in the bar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the inhaler?",
+        "answer": [
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] blows the clarinet attentively.",
+            "[person_1] thinks the inhaler is interesting.",
+            "To avoid being exposed to the sun.",
+            "[person_1] is showing audience how to use the inhaler."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "[person_1] will lead the horse to the barns.",
+            "[person_1] will imitate.",
+            "[person_1] would put [person_1] in the courtyard for ventilation.",
+            "[person_1] will put the inhaler on the bed.",
+            "[person_1] will tell us what does the calibration mean."
+        ],
+        "reason": [
+            "This can make the most of the medicine.",
+            "[person_1] has got tired of it.",
+            "[person_1] wants to make sure the taste is good.",
+            "If [person_1] , [person_1] and [person_1] finish their performance they must leave the stage for others.",
+            "Because [person_1] doesn't like the taste."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s dog jumps onto the bed?",
+        "answer": [
+            "[person_1] will hug the dog.",
+            "[person_1] will trip over [person_1]?",
+            "[person_1] will hurt the dog.",
+            "The driver of [person_1] will take [person_1] to the hospital soon.",
+            "[person_1] will kill the dog."
+        ],
+        "reason": [
+            "[person_1] loves her dog.",
+            "Because they just jumped around the center.",
+            "[person_1] hates her dog.",
+            "[person_1] uses the headset to listen to music and if the headset doesn't work , there is no need to put it on.",
+            "[person_1] disturbs her dog."
+        ]
+    }
+}

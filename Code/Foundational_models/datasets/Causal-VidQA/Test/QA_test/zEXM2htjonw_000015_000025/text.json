@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are 5 people.",
+            "There are 10 people.",
+            "There are 7 people.",
+            "There are 2 people.",
+            "It is quite large."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing?",
+        "answer": [
+            "They are practicing roller - skating.",
+            "[person_1] and [person_1] are playing games.",
+            "[person_1] is training martial arts.",
+            "[person_1] is playing with [person_1].",
+            "[person_1] is stomping grapes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to wash his face.",
+            "[person_1] may keep mixing the drink.",
+            "[person_1] is going to keep stomping grapes.",
+            "[person_1] may dry her hands without washing them with soap.",
+            "[person_1] is going to keep sticking the wallpaper."
+        ],
+        "reason": [
+            "Maybe [person_1] is about to finish weaving the fabric.",
+            "[person_1] is going to talk with [person_4].",
+            "Because [person_1] also wants to make some bubbles.",
+            "A massage is unlikely to be free.",
+            "There is no bar of soap there."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen [person_1] hits [person_4] on the forehead?",
+        "answer": [
+            "[person_4] will take the sheets off.",
+            "The child will fall down.",
+            "[person_4] may stop working.",
+            "[person_1] will take the food to put it on the hand and feed the goats directly.",
+            "[person_1] will put the clothes away."
+        ],
+        "reason": [
+            "[person_1] is holding the microphone while [person_1] is stomping grapes at the same time.",
+            "[person_1] is standing stomping grapes while [person_4] is sitting in lower position.",
+            "The rubber band is broken , and there is no other spare rubber band , so that [person_1] and [person_4] have no rubber band to use.",
+            "Because it would hurt if [person_1] was scalded , [person_1] would put some medicine on it.",
+            "Because if there is nobody helps [person_1] , [person_1] will face with danger when [person_1] gets lost."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2]?",
+        "answer": [
+            "[dining table_2] is placed next to the desk.",
+            "[chair_2] is on the stage.",
+            "[chair_2] is next to [dining table_2].",
+            "[dining table_2] is the the baby boy.",
+            "[chair_2] is near the woman."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in wheelchair?",
+        "answer": [
+            "The [person_1] puts accordion on legs of [person_1] to have right position when playing accordion.",
+            "Maybe [person_1] is unable to walk.",
+            "[person_1] is trying to ride a mechanical bull.",
+            "The towel keeps [person_1] pants from getting dirty.",
+            "Because [person_1] wants to propose loudly."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to read book.",
+            "[person_1] intends to play with the maracas .",
+            "[person_1] intends to draw pictures.",
+            "[person_1] is going to play guitar.",
+            "It is foreseen that [person_1] won't put it in her mouth anymore."
+        ],
+        "reason": [
+            "[person_1] is practicing pushing the ball into the goal.",
+            "[person_1] fingers are moving on the guitar.",
+            "[person_1] is playing cymbals very enthusiastically.",
+            "[person_1] is in the library.",
+            "[person_1] is holding a guitar and strumming."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the book [person_1] wants to read is on high?",
+        "answer": [
+            "[person_1] won't be able to take it.",
+            "[person_1] would feel too bad.",
+            "[person_1] will go find it.",
+            "The licking joke is over.",
+            "The bottle will break."
+        ],
+        "reason": [
+            "The circle around [person_1] and [person_1] is the limit are allowed to move.",
+            "The [person_1] keeps the shot put ball in hand of [person_1] then throws.",
+            "Because [person_1] is just a kid.",
+            "Maybe [person_1] hurt his leg and can't stand.",
+            "Because [person_1] is in a restaurant so [person_1] can order more to eat."
+        ]
+    }
+}

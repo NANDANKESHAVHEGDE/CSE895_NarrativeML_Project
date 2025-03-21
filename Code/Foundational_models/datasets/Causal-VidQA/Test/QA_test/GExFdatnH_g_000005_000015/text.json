@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is \u00a0 in the swimming pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] laughing?",
+        "answer": [
+            "[person_1] is being splashed with water.",
+            "[person_1] is having fun.",
+            "[person_1] is putting her mouth on [person_1] to blow into it so she can play her bagpipes.",
+            "Because [person_1] is stacking cups.",
+            "[person_1] wants to express his feeling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to enjoy being splashed with water.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may change another tool.",
+            "[person_1] may cheer up.",
+            "[person_1] may continue to stand there."
+        ],
+        "reason": [
+            "[person_1] is preparing to turn another somersault.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is snowmobiling.",
+            "[person_1] is laughing happily.",
+            "[person_1] has finished [person_1]'s action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the container [person_2] using to splash [person_1] were bigger?",
+        "answer": [
+            "[person_1] would know how to wear it.",
+            "[person_1]'s back will hurt.",
+            "[person_1] would not look away.",
+            "There would be more water splashed at [person_1].",
+            "[person_2] would fold other clothes."
+        ],
+        "reason": [
+            "Because dancing at home is not convenient.",
+            "[person_1] would get hurt.",
+            "[person_1] tries to make up beautifully.",
+            "[person_1] just sat to have herself splashed.",
+            "[person_1] would lost the balance and fall."
+        ]
+    }
+}

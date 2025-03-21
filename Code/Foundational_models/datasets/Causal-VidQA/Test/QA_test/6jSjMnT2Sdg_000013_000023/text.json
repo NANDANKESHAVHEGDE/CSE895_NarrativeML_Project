@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is parked next the walking road.",
+            "[car_1] is red.",
+            "[car_1] is on the left side of [car_1].",
+            "It is white and black.",
+            "[car_1] is parking near the house."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] land?",
+        "answer": [
+            "[person_2] holds [person_2].",
+            "To keep fit.",
+            "To detect rubbish.",
+            "The [person_2] took a blueberry from the tree.",
+            "[person_2] lands unsuccessfully."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] continues to play alone in front of the garage.",
+            "[person_1] will stand there and wait for someone to throw the ball back.",
+            "[person_1] will keep dancing.",
+            "[person_1] will continue playing dominoes.",
+            "[person_1] will get back to the start point."
+        ],
+        "reason": [
+            "Because he seems to be quite interested in it.",
+            "[person_1] has not finished the performance.",
+            "[person_1] wants to make a new attempt.",
+            "[person_1] will want to practice till he gets tired to improve his skill at playing guitar.",
+            "[person_1] gets comfortable and begins to play his guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] succeeded in landing?",
+        "answer": [
+            "The flipping may fail.",
+            "[person_1] would be slow to crawl.",
+            "[person_1] would not make another jump.",
+            "Maybe [person_1] hit [person_1].",
+            "[person_1] would win the first prize."
+        ],
+        "reason": [
+            "[person_1] can lose focus and get out of rhythm.",
+            "[person_1] has the marshmallow almost cooked.",
+            "[person_1] has finished his jump successfully.",
+            "Because [person_1] uses to flip by the right hand.",
+            "[person_1]'s head is not hurt by the pen."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_1]?",
+        "answer": [
+            "[book_1] is sitting on the [book_1].",
+            "The shirt which [person_1] is given is pink.",
+            "[book_1] is in the back [person_1].",
+            "[book_1] is lying on the floor.",
+            "[book_1] is placed on the table behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor ?",
+        "answer": [
+            "Because [person_1] is picking up marbles.",
+            "Because [person_1] is playing maracas.",
+            "Because [person_1] is painting with spray paint.",
+            "Perhaps [person_1] wants to warm up comfortably.",
+            "[person_1] is sitting open presents."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "[person_1] may have a rest.",
+            "[person_1] will continue to open present.",
+            "[person_1]'ll pull the bike out of the snow.",
+            "[person_1]'ll count the money."
+        ],
+        "reason": [
+            "[person_1] is introducing the headphone . The headphone is in [person_1]'s head.",
+            "[person_1] is opening presents very fast.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "Because [person_1] has successfully clipped her right eyelash with [person_1] and [person_1].",
+            "[person_1] is holding a ball in his hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is turn off?",
+        "answer": [
+            "[person_1] maybe afraid.",
+            "[person_1] will cry.",
+            "[person_1] will go to make more bubble water.",
+            "Everyone will have to go outside.",
+            "Maybe [person_1] will go outside."
+        ],
+        "reason": [
+            "Because the oven doesn't work.",
+            "To clean the floor.",
+            "Because they only focus on the dancing.",
+            "The road gets muddy when it rains.",
+            "The room will be dark."
+        ]
+    }
+}

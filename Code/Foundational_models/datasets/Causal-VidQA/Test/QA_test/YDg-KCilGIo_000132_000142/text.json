@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is inside of [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] has flowers inside it.",
+            "[potted plant_1] has dark skin.",
+            "[potted plant_1] is wearing a checkerboard shirt.",
+            "[potted plant_1] looks big.",
+            "[potted plant_1] has a long hair."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] playing bagpipes in front of a photo?",
+        "answer": [
+            "Because they're having some fun.",
+            "They are making an \" X \" sign by the ropes.",
+            "[person_1] wants to say something or instruct how to play the accordion.",
+            "[person_1] could be playing bagpipes at a funeral for someone who passed away.",
+            "[person_1] is having a practice match."
+        ]
+    },
+    "predictive": {
+        "question": "what will [person_1] do next after stopping playing?",
+        "answer": [
+            "[person_1] is going to keep riding.",
+            "The [person_1] will continue to speak with the microphone.",
+            "[person_1] will speed up.",
+            "[person_1] is going to have a break.",
+            "[person_1] will walk away and put his bagpipes away back in their case."
+        ],
+        "reason": [
+            "Because the [person_1] has washed some clothes up.",
+            "[person_1] has completed his song , so he will leave.",
+            "[person_1] wants to know how fast he could run.",
+            "The [person_1] hasn't found what he wants.",
+            "Because her ice cream cone is already empty."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] accidentally knocked over [book_1] while he was walking away?",
+        "answer": [
+            "[person_1] would fall off the counter onto the floor with the flowers in it and shatter on the floor.",
+            "[person_1] wouldn't read the newspaper anymore.",
+            "The people at the funeral would begin to get aggressive with [person_1] , and he would apologize while he left quickly.",
+            "The toy car will slow down.",
+            "[person_1] would be hurt."
+        ],
+        "reason": [
+            "[person_1] is afraid of his parents.",
+            "[person_1] wouldn't want to get into a fight with a sad individual because of his mistake , so he would try to leave quickly.",
+            "[person_1] need to work harder in order to win.",
+            "Because [person_1] is opened and the water would spill out.",
+            "[person_1] is kneeling on the bed so it's very soft for [person_1]'s knees."
+        ]
+    }
+}

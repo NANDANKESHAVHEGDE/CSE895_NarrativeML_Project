@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the house.",
+            "[person_1] is in the room"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving fast?",
+        "answer": [
+            "[person_1] is checking his pencil.",
+            "[person_1] is playing with his friends.",
+            "[person_1] wants to keep fit.",
+            "[person_1] is performing skating.",
+            "[person_1] is doing something fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep performing.",
+            "[person_1] may continue cleaning.",
+            "[person_1] may decide to change exercising style.",
+            "He is going to enjoy the beer.",
+            "[person_1] may drive by the side of the road."
+        ],
+        "reason": [
+            "Their stems are too long.",
+            "It's important for them to remember.",
+            "There is a coming car.",
+            "[person_1] has showed some techniques.",
+            "Because the floor needs fixing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forgets the dance movement?",
+        "answer": [
+            "[person_1] will sit on the [person_1] and have a rest.",
+            "Perhaps [person_1] will handle by other movements.",
+            "[person_1] would probably feed [person_1].",
+            "Perhaps [person_1] will not handle by other movements.",
+            "[person_1] will not jump well."
+        ],
+        "reason": [
+            "[person_1] is performing and [person_1] can not stop it.",
+            "An iron gets extremely hot , and could potentially start a fire.",
+            "[person_1] is performing and [person_1] can stop it.",
+            "To help cure the wound.",
+            "[person_1] is performing and [person_1] can not start it."
+        ]
+    }
+}

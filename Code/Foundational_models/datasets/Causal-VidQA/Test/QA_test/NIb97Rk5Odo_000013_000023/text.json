@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is tossing the ball to [person_2].",
+            "[person_2] is enthusiastically cleaning the shoes.",
+            "[person_2] is playing marbles.",
+            "[person_2] is raising the feet.",
+            "[person_2] is playing the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] lie down on the table?",
+        "answer": [
+            "Because the gymer needs to know their training schedule.",
+            "It seems that they are celebrating something.",
+            "[person_1] is practicing stacking cups.",
+            "Perhaps [person_2] romps with [person_1].",
+            "[person_1] is whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to share one of the bottles to his friends.",
+            "[person_1] may eat the food on [person_1].",
+            "[person_1] may thanks [person_1].",
+            "[person_1] is going to romp with [person_1].",
+            "[person_1] may keep carving."
+        ],
+        "reason": [
+            "[person_1] is picking up the [person_1] and using a spoon to mix the ingredients.",
+            "Because [person_1] is playing the ball and throwing it is his way to play it.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "[person_1] and [person_2] lay down on the table together.",
+            "[person_1] is going to small [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] puts foot to the mouth?",
+        "answer": [
+            "[person_2] will be shy.",
+            "[person_1] will want more water.",
+            "[person_1] will prevent [person_2] from doing it.",
+            "[person_2] will be seriously injured.",
+            "The rope will get black."
+        ],
+        "reason": [
+            "shoes of [person_2] have been cleaned by [person_2].",
+            "There is a cup left in the sink.",
+            "The feet are very dirty and unsafe.",
+            "Because the purpose of this video is recording the handshake of [person_2] and [person_2].",
+            "Maybe the legs of [person_2] will go numb."
+        ]
+    }
+}

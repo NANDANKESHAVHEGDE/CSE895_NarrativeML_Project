@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing music with the bass guitar that [person_1] is holding.",
+            "[person_1] is playing flute in the room.",
+            "[person_1] is reading the newspaper and drink milk.",
+            "[person_1] is making a base of the basket.",
+            "[person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will open the newspaper.",
+            "[person_1] will also focus on watching TV.",
+            "[person_1] will practice typing the pen on the table.",
+            "Maybe [person_1] will continue to direct [person_1]'s team to play.",
+            "[person_1] will put a ring on [person_1]."
+        ],
+        "reason": [
+            "[person_1] is a baker and [person_1] is adding flour into cake pan to bake.",
+            "[person_1] is a service , who cannot join in the customers.",
+            "[person_1] is touching the newspaper.",
+            "Because only the big wood in front has not been cut.",
+            "The goblet is to contain the champagne."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it dark?",
+        "answer": [
+            "[person_1] will continue to practice.",
+            "[person_1] will keep doing lunges.",
+            "[person_1] may stop dancing.",
+            "[person_1] will stop reading.",
+            "Then the dog can't reach the food on the table."
+        ],
+        "reason": [
+            "The room will dark.",
+            "[person_1] is outdoor.",
+            "The interview is taking place outdoors.",
+            "Because no matter how good a game is , they can't play it in the rain.",
+            "That is the rules of the contest."
+        ]
+    }
+}

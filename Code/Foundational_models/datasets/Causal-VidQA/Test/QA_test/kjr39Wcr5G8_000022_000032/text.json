@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It's blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] watering?",
+        "answer": [
+            "Because this is a mind training game.",
+            "It makes [person_1] sad.",
+            "[person_1] is excited about his action.",
+            "Because [person_1] is taking care of flowers",
+            "[person_1] is excited about throwing into the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to try practicing.",
+            "[person_1] will continue to water.",
+            "[person_1] is going to dance.",
+            "[person_1] may wash his feet.",
+            "[person_1] may continue what he did."
+        ],
+        "reason": [
+            "Maybe it have been a long time without rain.",
+            "[person_1] is fond of doing it.",
+            "[person_1] is jumping very high.",
+            "[person_1] finished the action successfully and smiled",
+            "Sled is broken."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't water the plants?",
+        "answer": [
+            "[person_1] will fall off the ground without the poles.",
+            "Maybe the dice inside the cup would be slided outside the cup.",
+            "It is probable that the tree will die.",
+            "[person_1]'s hands will bleed.",
+            "[person_1] will have a rest."
+        ],
+        "reason": [
+            "Plants can't live without water.",
+            "Because it's [person_1]'s birthday.",
+            "There is still a lot of land to plant.",
+            "[person_1] 's actions make the birds startled and they will fly away.",
+            "The dice are easy to slide outside the cup if someone doesn't know how to swing and stack."
+        ]
+    }
+}

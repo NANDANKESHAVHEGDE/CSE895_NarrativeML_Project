@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is doing the challenge.",
+            "[person_1] is performing with a guitar.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is wearing makeup.",
+            "[person_1] is recording the video."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to take his billiard shot.",
+            "Maybe [person_1] intends to lower your hand.",
+            "[person_1] intends to let [person_1] know about the newspaper.",
+            "[person_1] intends to continue to reading.",
+            "[person_1] intends to keep cycling."
+        ],
+        "reason": [
+            "[person_1] did pull - ups a lot.",
+            "[person_1] is reading the information in the newspaper very carefully.",
+            "[person_1] is holding a guitar and strumming.",
+            "[person_1] sat in front of the camera and talked about the newspaper.",
+            "[person_1] fingers are moving on the guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out sudden?",
+        "answer": [
+            "[person_1] won't be able to reading.",
+            "They will stop playing.",
+            "The match might be postponed.",
+            "They would stop the stranger.",
+            "The floor would be ugly."
+        ],
+        "reason": [
+            "[person_1] will check the power supply.",
+            "The microscope is low in position.",
+            "Because otherwise they will get wet and may get cold.",
+            "Because the people needs to be examined about the hurt.",
+            "[person_1] needs to go to school."
+        ]
+    }
+}

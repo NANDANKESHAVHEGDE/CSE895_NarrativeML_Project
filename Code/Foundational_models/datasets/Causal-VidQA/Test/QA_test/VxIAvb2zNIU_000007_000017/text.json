@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "It is on the table.",
+            "[cup_1] is sitting on the floor.",
+            "It is on the shelf.",
+            "[cup_1] is near [cup_1].",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_1] is performing circus and [person_2] is checking.",
+            "They are here to practice martial arts.",
+            "[person_1] and [person_2] are playing chess together.",
+            "[person_1] and [person_2] are cutting wood.",
+            "[person_1] and [person_2] are practicing sword swallowing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "It seems that [person_1] may choose to pick up [person_1].",
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to eat potato chips.",
+            "[person_1] is going to continue playing.",
+            "[person_1] probably will get more food."
+        ],
+        "reason": [
+            "His knife is on the left whetstone bar and he will move it to the right whetstone bar.",
+            "Lowering the lifts is one of the movements in the exercise and the lifts are raised now.",
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action.",
+            "[person_1] just shrugs to gain strength to raise the weights.",
+            "[person_1] is following [person_2] plays."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the chess piece dropped?",
+        "answer": [
+            "[person_2] would have to change another one.",
+            "The [person_2] will call a taxi.",
+            "Maybe [person_2] will use the electric drills to tighten them up.",
+            "[person_2] would stop playing.",
+            "She would feel that it is really a lucky day."
+        ],
+        "reason": [
+            "Eggs are easier to be found by adults.",
+            "[person_1] is sitting next to [person_1].",
+            "[person_1]'s arms are on the [person_1].",
+            "Because two fingers are not strong enough to break the spoon , [person_1] will try to use both hands.",
+            "[person_1] would pick up the chess piece."
+        ]
+    }
+}

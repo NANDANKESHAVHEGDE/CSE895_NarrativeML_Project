@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [suitcase_1]?",
+        "answer": [
+            "The weather is quite cool.",
+            "It is sunny and has snow.",
+            "Yes , they are.",
+            "[suitcase_1] is behind [person_1].",
+            "It is on the corner of the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] skipping rope?",
+        "answer": [
+            "They are playing rock - paper - scissors.",
+            "[person_1] is performing his side kick technique.",
+            "[person_1] wants to keep fit.",
+            "[person_1] and [person_1] are playing games outside.",
+            "Because this is a mind training game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to practice.",
+            "[person_1] is going to stand on her hands.",
+            "[person_1] may keep trying to stand by hands.",
+            "[person_1] is going to move away . .",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] has bent back.",
+            "[person_1] has stopped skipping and his left foot is stepping forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] kept skipping?",
+        "answer": [
+            "[person_1] would not play with [person_1].",
+            "The deformed cymbal would be useless.",
+            "[person_1] would go to rest herself.",
+            "The course will end early.",
+            "[person_1] would get tired."
+        ],
+        "reason": [
+            "There is a spade near [person_1] and it is used to dig the pit.",
+            "Because a distorted cymbal could not make any proper sounds.",
+            "[person_1] has good manners and already grown up.",
+            "[person_1] is fat and gets tired easily if [person_1] exercises too much.",
+            "As heavy as the hammer may be , it could deliver such a devastating blow to destroy any objects on impact."
+        ]
+    }
+}

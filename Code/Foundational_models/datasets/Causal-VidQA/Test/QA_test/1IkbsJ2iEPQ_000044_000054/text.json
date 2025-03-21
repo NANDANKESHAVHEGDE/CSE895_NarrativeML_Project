@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt that [person_2] is wearing?",
+        "answer": [
+            "[person_2] is wearing a white shirt.",
+            "[person_2] is wearing a red shirt.",
+            "The [person_2] is next to the couch.",
+            "[person_2] is wearing a hat.",
+            "[person_2]'s shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] circling her hands?",
+        "answer": [
+            "Because [person_2] is practicing skiing.",
+            "Maybe [person_2] does it for fun.",
+            "[person_2] is learning tai chi.",
+            "[person_2] is feeling in love.",
+            "[person_2] wants to use the inhaler."
+        ]
+    },
+    "predictive": {
+        "question": "Who is [person_1]?",
+        "answer": [
+            "[person_1] is teaching [person_2] to do tai chi perhaps.",
+            "Probably [person_1] will put some sauce on the chicken.",
+            "[person_1] might want to get a new airbrush.",
+            "[person_1] will fertilize the plants.",
+            "[person_1] will probably find a bowl for her food."
+        ],
+        "reason": [
+            "There are many wine bottles around.",
+            "She comes here to buy things.",
+            "And the wall hasn't been sprayed.",
+            "[person_1] looks very skillful.",
+            "Because it would look better."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not there?",
+        "answer": [
+            "[person_2] would cry.",
+            "The children might not dance.",
+            "The players might not be able to train efficiently.",
+            "[person_2] would have to practice alone.",
+            "[person_2] might sit on [chair_1] to wait for [person_1]."
+        ],
+        "reason": [
+            "Because [person_2] is still there to help [person_1] walking.",
+            "The machine needs something to print on.",
+            "It is possible that [person_2] can not do tai chi without a guidance because [person_1] may be a beginner.",
+            "Because [person_1] may fall from the stair when no one were there to help.",
+            "[person_2] needs [person_1] to help her."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt which [person_1] is wearing?",
+        "answer": [
+            "It is green.",
+            "It is red.",
+            "It is blue.",
+            "A shovel.",
+            "[person_1] is \u00a0 wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is doing exercise.",
+            "The table is discarded and the wood can be recycled.",
+            "[person_1] is exhibiting the picture to the public.",
+            "[person_1] wants to tell you how to position your head when use the microscope.",
+            "Because it can carry him to his destination."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] is going to lift weights.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to turn left.",
+            "[person_1] will check the result."
+        ],
+        "reason": [
+            "Because the machine is on.",
+            "[person_1] lifted weights.",
+            "To wash the sheets.",
+            "[person_1] is playing with one hand.",
+            "[person_1] is a batter and according to the rules of baseball , batter must run to the golf courses and back to the batter box\u2019s one by one before the members of the defending team can catch the ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] practices regularly?",
+        "answer": [
+            "[person_1] will continue to practice.",
+            "[person_1] will be stronger.",
+            "[person_1] may ignore it.",
+            "[person_1] will help cut wood.",
+            "[person_1] will stop dancing."
+        ],
+        "reason": [
+            "After sweating , you need to replenish water in time.",
+            "The napkin did it's job.",
+            "[person_1] will feel more pain if gets injured.",
+            "[person_1] will need to rest.",
+            "Gym is good for health."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the carpet?",
+        "answer": [
+            "It is green.",
+            "It is red.",
+            "The carpet is blue.",
+            "It is red and white points.",
+            "The carpet is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] at the gym?",
+        "answer": [
+            "Because [person_1] is playing marbles.",
+            "Because [person_1] wants to get a beer from it.",
+            "The towel keeps [person_1] pants from getting dirty.",
+            "Because [person_1] is doing lunges.",
+            "Maybe [person_1] is introducing the plate."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to ?",
+        "answer": [
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] has an intention of making a video playing violin.",
+            "[person_1] intends to do lunges.",
+            "[person_1] will keep on dancing.",
+            "[person_1] intends to participate in the competition."
+        ],
+        "reason": [
+            "[person_1] has great passion for dancing.",
+            "[person_1] is playing very passionately.",
+            "[person_1] wants to be famous and admired.",
+            "[person_1] and [person_1] looked at up the ball when it is thrown.",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] was wearing long clothes?",
+        "answer": [
+            "[person_1] would find it easy to do exercise.",
+            "[person_1] may have a rest in the [person_1].",
+            "[person_1] would find it difficult to do exercise.",
+            "[person_1] will use chopsticks.",
+            "[person_1] would find it difficult to enjoy."
+        ],
+        "reason": [
+            "Long clothes will make movement difficult.",
+            "In case that [person_1] gets hurt.",
+            "Long clothes will make movement easier.",
+            "[person_1] is doing a difficult movement at the risk of losing her balance.",
+            "Long clothes will simplify the movement."
+        ]
+    }
+}

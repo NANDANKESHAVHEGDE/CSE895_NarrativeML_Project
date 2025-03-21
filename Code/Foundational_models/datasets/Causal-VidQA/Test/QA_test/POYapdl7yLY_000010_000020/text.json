@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] wearing on the head?",
+        "answer": [
+            "[person_2] is wearing a cap on the head.",
+            "A black hat.",
+            "The [person_2] is rolling around.",
+            "The books are placed on the bookshelf.",
+            "The shirt is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the hand of [person_1] put on the back of [person_2]?",
+        "answer": [
+            "[person_1] would like to introduce his flute.",
+            "To amplify the sound.",
+            "The hand of [person_1] is supporting the back of [person_2].",
+            "[person_1] is doing a gymnastics move.",
+            "[person_1] wants to play maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] is going to eat the hamburger.",
+            "[person_2] may be going to sit up and take a rest.",
+            "[person_2] is going to continue walking.",
+            "[person_2] may continue to play with [person_2] and [person_2]."
+        ],
+        "reason": [
+            "Because [person_1] gave him another ball.",
+            "Since [person_1] has finished jumping , it may be [person_2]'s turn to jump.",
+            "The hand of [person_2] is about to put the cap back on the coke bottle.",
+            "He asks [person_2] to push him near [person_1].",
+            "Because [person_1] is still there to help [person_2] walking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not there?",
+        "answer": [
+            "[person_2] may fall to the earth.",
+            "[person_1] would have to make another cake.",
+            "[person_1] will have no idea in how to use [person_1] well.",
+            "[person_1] would stop video.",
+            "[person_2] and [person_1] would still perform."
+        ],
+        "reason": [
+            "[person_2] is just a child and [person_2] feels scared when there is no one around.",
+            "[person_2] and [person_2] would not have any instruction to follow.",
+            "No one would instruct [person_2] how to open it in the right way.",
+            "No one would instruct [person_2] how to ski.",
+            "Because no one supported the back of [person_2] to walk."
+        ]
+    }
+}

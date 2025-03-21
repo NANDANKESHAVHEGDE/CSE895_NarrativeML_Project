@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the flute.",
+            "[person_1] is looking at the virtual reality screen.",
+            "[person_1] is doing exercise.",
+            "[person_1] is cutting a palm fruit.",
+            "[person_1] is opening a bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing this exercise?",
+        "answer": [
+            "[person_1] is the singer.",
+            "The [person_1] knows which treble keyboard needed to touch.",
+            "[person_1] is making a tutorial video.",
+            "[person_1] is excited about his action.",
+            "There is a camera fixed inside the tire."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after she finishes the exercise?",
+        "answer": [
+            "[person_1] will get salary.",
+            "[person_1] is going to stop hugging [person_1].",
+            "[person_1] will tell [person_1] off.",
+            "[person_1] will eat something.",
+            "[person_1] will turn off the tap."
+        ],
+        "reason": [
+            "Because her hands are dirty.",
+            "Because his face is dirty.",
+            "[person_1] call and chase something at the end of the video.",
+            "Doing exercise takes a lot of energy.",
+            "[person_1] builds by himself."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "[person_1] might come back home.",
+            "The animals would be wet.",
+            "[person_1] could get wet.",
+            "They would evacuate and take shelter in tents.",
+            "[person_1] would not stop working."
+        ],
+        "reason": [
+            "[person_1] would not continue the work.",
+            "[person_1] and [person_1] would find a place to shelter.",
+            "The clothing of the [person_1] is made of fur.",
+            "[person_1] is working in her room.",
+            "The floor would get wet if it rained because the class does not have the roof."
+        ]
+    }
+}

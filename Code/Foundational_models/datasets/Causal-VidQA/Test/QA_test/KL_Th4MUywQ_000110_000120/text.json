@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "The [bottle_1] is next to the shelf.",
+            "[bottle_1] is placed on the drawer.",
+            "[bottle_1] is in the floor.",
+            "[bottle_1] is in a bag which is on the floor.",
+            "[bottle_1] is on the left of [bottle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] film this video?",
+        "answer": [
+            "The [person_1] lost balance and didn't want to fall.",
+            "The [person_1] could not keep balance while walking stilts.",
+            "To wait for the bubbles around [person_1].",
+            "Because [person_1] and [person_1] are talking about something interesting.",
+            "[person_1] wanted to film how [person_1] stood up by crutches."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play.",
+            "[person_1] is going to keep talking.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to try standing straight up.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "Because [person_1] intended to stand straight up.",
+            "[person_1] put down the weight lifting.",
+            "There are many trees in the garden.",
+            "[person_1] has eaten the apple in the hand.",
+            "[person_1] is jumping very professionally."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not have crutches?",
+        "answer": [
+            "[person_1] can win.",
+            "[person_1] would not see everything.",
+            "[person_1] may fall.",
+            "[person_1] may keep running.",
+            "[person_1] may stand."
+        ],
+        "reason": [
+            "[person_1] is training his ability.",
+            "Because apparently , [person_1] cannot stand up without crutches.",
+            "[person_1] will continue to stand there.",
+            "Because apparently , [person_1] can stand up without crutches.",
+            "[person_1] have to run to take momentum to a further jump."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is inside.",
+            "[person_1] is near [person_1].",
+            "[person_1] is outside.",
+            "Along the river.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have [handbag_1] in his hands?",
+        "answer": [
+            "Because [person_1] is playing [handbag_1].",
+            "Because [person_1] enjoys playing with a mini accordion.",
+            "[person_1] is talking about his work.",
+            "[person_1] sits in order to play the drums more conveniently.",
+            "[person_1] wants to have a closer look at the present."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] has an intention of seeing the game.",
+            "[person_1] intends to kick the ball back to a friend on the opposite side.",
+            "[person_1] intends to become a musician.",
+            "[person_1] will get the ball back.",
+            "[person_1] intends to draw pictures."
+        ],
+        "reason": [
+            "There is a picture behind [person_1].",
+            "It is likely that [person_1]'s fingers will be tired.",
+            "[person_1] is holding [person_1].",
+            "[person_1] loves playing violin.",
+            "[person_1] prepares to play the guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops [handbag_1]?",
+        "answer": [
+            "[person_1] will pick [handbag_1] up immediately.",
+            "[person_1] may get more dices stacked.",
+            "[person_1] will cry.",
+            "[person_1] will hurt.",
+            "[person_1] and [person_1] will cry"
+        ],
+        "reason": [
+            "Because it's a good way to reinforce the relationship with the workers.",
+            "Children love toys and get upset if they break.",
+            "[person_1]'s foot sprains easily.",
+            "Because [person_1] doesn't want [handbag_1] broken.",
+            "To make up a ring for [person_1] later."
+        ]
+    }
+}

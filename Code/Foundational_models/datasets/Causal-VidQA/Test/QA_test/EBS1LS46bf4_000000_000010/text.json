@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of site is it?",
+        "answer": [
+            "It is on a road.",
+            "Korean national flag is on the wall.",
+            "There are 2 people.",
+            "It is a parking lot.",
+            "There are 5 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [car_1] placed in the large square?",
+        "answer": [
+            "Maybe [car_1] does it for fun.",
+            "[car_1] is playing darts.",
+            "Because the [car_1] does not want to walk.",
+            "The large square is specific for cars.",
+            "Because [car_1] is preparing to knock the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after several minutes?",
+        "answer": [
+            "[person_1] will try her best to achieve a superb performance.",
+            "[person_1] will have to remove the cork.",
+            "[person_1] will have a break.",
+            "[person_1] will feel sore of his waist.",
+            "[person_1] will jump onto the last square on the street , then turn around and jump back to where he came from."
+        ],
+        "reason": [
+            "[person_1] hasn't finished the steps totally.",
+            "Because dancing never stops.",
+            "It has been bearing the weight for long time.",
+            "[person_1] must be tired because it is not an easy work.",
+            "Because it's the right time after paying . "
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] used one hand to do this?",
+        "answer": [
+            "[person_1] won't be able to walk all the way through the rope.",
+            "His that arm would be very sore.",
+            "[person_1] will continue to practice.",
+            "[person_1] wouldn't be hurt.",
+            "[person_1] would have a lot of fans."
+        ],
+        "reason": [
+            "Because this is not a competition , children here just learn to break boards so they can try more if they fail at the first time.",
+            "The apple has not been washed yet.",
+            "[person_1] is holding the iron bar so that it keeps straight on the floor.",
+            "It is the turn of the [person_1].",
+            "The hammer is heavy."
+        ]
+    }
+}

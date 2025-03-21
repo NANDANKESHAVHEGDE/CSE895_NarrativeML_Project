@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in bathroom.",
+            "[person_1] is in the studio.",
+            "[person_1] is on the street.",
+            "[person_1] is near the lake.",
+            "[person_1] is on a hockey field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bend to one side?",
+        "answer": [
+            "[person_1] wants to greet everyone.",
+            "[person_1] wants to aim carefully before hitting the ball.",
+            "[person_1] and [person_1] first made two snowballs.",
+            "Because [person_1] wanted to knock the end of his pen on the table.",
+            "Because the [person_1] is performing to every one."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will follow the ball.",
+            "[person_1] may change another tool.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] will keep working until it finishes."
+        ],
+        "reason": [
+            "[person_1] is putting hand down.",
+            "[person_1] has to get the ball back in order to practice.",
+            "[person_1] is lifting weights.",
+            "[person_1] likes it.",
+            "[person_1] feels excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] tripped and fell?",
+        "answer": [
+            "[person_1] would not be hurt.",
+            "The hammer might not be thrown far.",
+            "[person_1] would splatter grape juice all around.",
+            "Maybe they will stop.",
+            "[person_1] might hurt herself."
+        ],
+        "reason": [
+            "[person_1] will face - plant on the ground.",
+            "It would be very ridiculous and ironical that an instructor could be so careless and clumsy like that.",
+            "[person_1] is just a child and [person_1] does not have any protective gear on his body.",
+            "[person_1] feels sad.",
+            "The ground is hard."
+        ]
+    }
+}

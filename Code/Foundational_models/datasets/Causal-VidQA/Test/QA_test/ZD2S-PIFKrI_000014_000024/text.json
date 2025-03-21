@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] wearing?",
+        "answer": [
+            "[person_3] is wearing a pink T - shirt.",
+            "He is a figure in the picture on the wall.",
+            "[person_3] is wearing a black dress.",
+            "No , the [person_3] is not . The [person_3] is looking down the keyboard.",
+            "[person_3] is wearing a red T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding [person_1] on his hands ?",
+        "answer": [
+            "[person_1] and [person_2] are performing together at a concert.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is helping [person_1] to have right hand position when [person_1] is doing tai chi.",
+            "[person_1] is a small baby and [person_1] wants to look around.",
+            "[person_1] , [person_2] and [person_2] are a band and [person_1] , [person_2] and [person_2] are playing music."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will curve more details.",
+            "[person_1] is going to observe all the newspapers.",
+            "[person_1] is going to start practicing.",
+            "[person_1] is going to take some photos.",
+            "[person_1] is going to look around and curiously point at everything."
+        ],
+        "reason": [
+            "Because [person_1] is practicing skiing.",
+            "[person_1] is playing with cups.",
+            "[person_1] moves the wood over.",
+            "[person_1] is opening present.",
+            "[person_1] is very small and [person_1] cannot talk yet so [person_1] will be curious about everything around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "[person_2] will comfort and calm [person_1] down.",
+            "[person_1] will be very sad.",
+            "[person_1] will call his mother.",
+            "[person_1] will feel hurt.",
+            "[person_2] may tell the funny story."
+        ],
+        "reason": [
+            "[person_1] has no protection and there is no one around him.",
+            "It's too hard for an amateur like [person_2].",
+            "[person_1] is a little boy.",
+            "[person_2] is trying to make [person_1] happy so [person_2] will try his best to make [person_1] smile again.",
+            "[person_2] and [person_1] love each other."
+        ]
+    }
+}

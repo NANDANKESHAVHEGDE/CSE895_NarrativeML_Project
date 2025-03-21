@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "[person_1] and [person_2] are in the garden.",
+            "In front of a house.",
+            "[person_1] and [person_2] are in their house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding a camera?",
+        "answer": [
+            "Because they're teasing the children.",
+            "It's spring.",
+            "[person_2] is taking photo.",
+            "Because there is a punching bag.",
+            "[person_2] is showing his talent."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next after taking a camera?",
+        "answer": [
+            "[person_2] will continue to eat.",
+            "[person_2] will thank for their fan's support.",
+            "[person_2] will turn off the megaphone.",
+            "[person_2] will begin to dance.",
+            "[person_2] will record what they are doing."
+        ],
+        "reason": [
+            "This is a fantastic method to open the coco.",
+            "It seems that [person_2] intends to find the appropriate angle to record.",
+            "[person_2] doesn't want to walk to inform others.",
+            "[person_2] has just finished dancing.",
+            "[person_2] is wearing a microphone and standing next to [person_2] to instruct [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the woman with the white shirt would be splashed with grape liquid?",
+        "answer": [
+            "[person_2] would play with other toys.",
+            "The bar would fall off on the ground.",
+            "[person_2] would stop what she was doing.",
+            "The song could be unsuitable for listener.",
+            "The white shirt would turn purple."
+        ],
+        "reason": [
+            "Because the frisbee was blocked by a lot of sundries in the yard.",
+            "[person_1] comes back and sees who is.",
+            "[person_2] would be attracted by the TV show.",
+            "The woman with the white shirt is stomping grapes.",
+            "Because [person_2] is in the middle of his performance."
+        ]
+    }
+}

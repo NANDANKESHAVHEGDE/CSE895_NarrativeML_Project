@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the gym.",
+            "[person_1] is in the gym .",
+            "[person_1] is in his house.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] put an orange into the orange juicer?",
+        "answer": [
+            "Because [person_1] is producing a table.",
+            "[person_1] prepares to throw it into cups.",
+            "because [person_1] wants to see it clearly.",
+            "Because [person_1] is weaving and wants the threads to be close together.",
+            "[person_1] wants to get some orange juice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] may continue what he did.",
+            "[person_1] is going to keep squeezing oranges.",
+            "[person_1] will hold that posture for a while.",
+            "[person_1] is going to eat all the donuts in the box he is holding."
+        ],
+        "reason": [
+            "[person_1] is keeping still.",
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] is going to hold the cup.",
+            "[person_1] is snowmobiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] may not see anything.",
+            "The room is very dark.",
+            "[person_1] may not squeeze oranges.",
+            "[person_1] may not keep jumping.",
+            "[person_1] will stop stacking."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "The store will be dark.",
+            "[person_1] won't be able to see the strings clearly.",
+            "The meeting will be stopped.",
+            "[person_1] may stop playing."
+        ]
+    }
+}

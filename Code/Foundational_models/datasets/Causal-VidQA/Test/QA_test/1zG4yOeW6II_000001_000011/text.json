@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is next to [person_1].",
+            "[chair_1] is behind [person_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing this game?",
+        "answer": [
+            "[person_2] is celebrating his last winning.",
+            "[person_1] is slowly move backwards.",
+            "[person_2] asks [person_1] to play it.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is nearsighted."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after playing two rounds?",
+        "answer": [
+            "[person_2] wants [person_1] to taste the food on this plate.",
+            "[person_2] is going to protect [person_1].",
+            "[person_2] will continue to play with [person_1].",
+            "[person_2] was going to see what [person_1] caught.",
+            "[person_1] will drink some water and have a rest."
+        ],
+        "reason": [
+            "[person_2] is practicing to lie on the ball and be stable.",
+            "[person_2] was jumping at the end of the video.",
+            "[person_2] really has fun in this game.",
+            "[person_2] and [person_2] are still in the process of hiking along a trail so they won't stop until they are finished.",
+            "[person_2] is still hungry and there is an apple tree behind [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] fails?",
+        "answer": [
+            "[person_2] has to do it again.",
+            "[person_2] would be unhappy and frowned.",
+            "[person_2] will stop dancing.",
+            "[person_2] will keep practicing.",
+            "[person_2] will be very happy."
+        ],
+        "reason": [
+            "[person_2] really wants to win this game.",
+            "The winner can get money and the loser can't.",
+            "[person_2] tried so hard.",
+            "[person_2] wants a kiss that may be the last kiss.",
+            "[person_2] will turn away."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [remote_1]?",
+        "answer": [
+            "Yes , it is.",
+            "[person_1] is wearing the white shirt.",
+            "The [person_1] is sitting on the right side.",
+            "The [remote_1] is next to [person_1].",
+            "It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] staying stable while doing a handstand?",
+        "answer": [
+            "[person_1] does it for entertainment.",
+            "It requires a lot of balance.",
+            "there is no chair in the dining room.",
+            "Because the [person_1] is now parked in the garage.",
+            "[person_1] is not familiar with this kind of fruit."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] feel after a strong motion?",
+        "answer": [
+            "She will try to open the bottle and drink the milk.",
+            "Right ahead.",
+            "[person_1] and [person_1] will rest and go for lunch.",
+            "the [person_1] will turn off the camera.",
+            "[person_1] may pain."
+        ],
+        "reason": [
+            "[person_1] is talking to the camera.",
+            "There are some goblets on the table.",
+            "The back of [person_1] hits the floor.",
+            "[person_1] must be thirsty.",
+            "the [person_1] spreads his arms , ready to stomp to shake off the water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is thirsty?",
+        "answer": [
+            "[person_1] will drink water.",
+            "[person_1] will start doing that action.",
+            "[person_1] will cook.",
+            "[person_1] will stop doing that action.",
+            "Maybe [person_1] will not pull the rope."
+        ],
+        "reason": [
+            "[person_1] will waste water.",
+            "There are a lot of flowers in the garden.",
+            "[person_1] will pull water.",
+            "Smoking is very harmful to the lungs.",
+            "[person_1] will drink water."
+        ]
+    }
+}

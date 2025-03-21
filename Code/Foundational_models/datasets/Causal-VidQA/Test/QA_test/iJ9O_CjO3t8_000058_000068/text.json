@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in bathroom.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in his home office.",
+            "[person_1] is in a wood workshop.",
+            "[person_1] is in the storehouse."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] putting the towel under the shoe?",
+        "answer": [
+            "Maybe [person_1] wants to relax.",
+            "[person_1] wanna show how to peel the potato faster.",
+            "[person_1] wants to get some orange juice.",
+            "The towel keeps [person_1] pants from getting dirty.",
+            "[person_1] is holding [person_1] down on the ground so he can trim the fur of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take it off.",
+            "[person_1] is going to take some photos.",
+            "[person_1] may try to clean the sole of his shoe with shoe polish.",
+            "[person_1] will stop playing the electric guitar.",
+            "[person_1] may turn around."
+        ],
+        "reason": [
+            "[person_1]'s hands are up close to the glasses.",
+            "Maybe [person_1] has woven a lot.",
+            "[person_1] is returning the shoe polish to the sole.",
+            "[person_1] is holding the flute and is about to play.",
+            "[person_1] is making noodles thin and long."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] removes the towel?",
+        "answer": [
+            "The bass guitar will not create proper musical rhythms.",
+            "[person_1] will eat something instead burger.",
+            "The [person_1] will get the target.",
+            "the pants of [person_1] will get dirty because of the shoe.",
+            "[person_1] will pick up the book and put it on the [person_1] to carry on reading."
+        ],
+        "reason": [
+            "The sole of his dirty shoe will rub against the pants of [person_1].",
+            "If [person_1] fails to cut twice in a row , there must be a problem with the machine.",
+            "Because [person_1] even doesn't need to jump but just put the basketball in the basket.",
+            "There are some candies on [person_1]'s plate.",
+            "The shirt hat covers [person_1]'s hair."
+        ]
+    }
+}

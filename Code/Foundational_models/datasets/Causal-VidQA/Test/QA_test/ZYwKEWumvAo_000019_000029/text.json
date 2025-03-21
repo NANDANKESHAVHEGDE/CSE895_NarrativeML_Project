@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is behind [person_1].",
+            "[person_1] is next to [chair_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand on his hands?",
+        "answer": [
+            "To ensure a sterile environment.",
+            "[person_1] is a strong man.",
+            "[person_1] is practicing.",
+            "[person_1] and [person_1] wants to celebrate the event.",
+            "Because [person_1] is relaxing."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to wrap the gift again.",
+            "[person_1] will kiss [person_1].",
+            "[person_1] intends to put his phone in pocket.",
+            "[person_1] intends to practice standing on his hands.",
+            "[person_1] has an intention of trying to do chin - ups as long as possible."
+        ],
+        "reason": [
+            "The right hand's [person_1] is holding the bradawl and putting the gong.",
+            "[person_1] is wearing a guitar.",
+            "[person_1] is footsore so [person_1] is practicing to be able to stand and walk.",
+            "[person_1] feet are pointing towards the ceiling.",
+            "Maybe [person_1] wants to pluck the strings above."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will get wet.",
+            "[person_1] will be hurt.",
+            "The leg of [person_1] may not hurt.",
+            "Maybe [person_1] will get up and skate again.",
+            "[person_1] will not practice."
+        ],
+        "reason": [
+            "The ground is very firm.",
+            "[person_1] will be wounded.",
+            "[person_1] and everyone is dancing together.",
+            "The floor is made by titles.",
+            "The fall could injure [person_1]."
+        ]
+    }
+}

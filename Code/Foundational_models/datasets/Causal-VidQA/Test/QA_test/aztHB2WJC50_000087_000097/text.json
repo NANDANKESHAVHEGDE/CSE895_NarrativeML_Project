@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing ?",
+        "answer": [
+            "[person_1] is standing next to a wall.",
+            "[person_1] is standing behind a camera.",
+            "[person_1] is standing in front of the house.",
+            "It is in the corner of the room.",
+            "[person_1] is standing on a garden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on a garden?",
+        "answer": [
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is picking up fruit.",
+            "[person_1] is preparing for the competition.",
+            "[person_1] stacks cups very quickly.",
+            "[person_1] outstretched his arms to keep balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is about to eat.",
+            "[person_1] is going to keep picking up apples",
+            "[person_1] will come up the stairs.",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent."
+        ],
+        "reason": [
+            "[person_1] is still picking up apples at the end of the video.",
+            "[person_1] fell under the bed.",
+            "Because the blue is skying at night.",
+            "[person_1] feels that the food is not good.",
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not go closer to the tree?",
+        "answer": [
+            "[person_1] would be able to pick up more apples.",
+            "[person_1] will continue to get sand.",
+            "[person_1] would win the game and stop flipping the cake.",
+            "[person_1] will then stand up and go home.",
+            "[person_1] would not be able to harvest any apples."
+        ],
+        "reason": [
+            "Because the dining room is outside.",
+            "Another child also came.",
+            "The dish is easy to broken and it is slippy.",
+            "That's the rules of billiards.",
+            "[person_1] was too small to reach to the tree."
+        ]
+    }
+}

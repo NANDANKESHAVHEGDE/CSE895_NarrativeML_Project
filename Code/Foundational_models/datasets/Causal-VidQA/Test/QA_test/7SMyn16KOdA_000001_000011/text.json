@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a museum.",
+            "[person_1] is in a fashion shop.",
+            "[person_1] is at the gym.",
+            "[person_1] is in a living room.",
+            "[person_1] is in a classroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "[person_1] wants to train to change its body.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] is playing spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take some photos.",
+            "[person_1] may clean the table.",
+            "[person_1] will stop watering.",
+            "[person_1] trying a workout.",
+            "[person_1] is going to observe all the newspapers."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] is tired.",
+            "Because [person_1] looks excited.",
+            "[person_1] looks very happy.",
+            "[person_1] looks thirsty after doing exercise."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "[person_1] can practice anymore . .",
+            "No one will catch it.",
+            "[person_1] can't practice anymore . .",
+            "[person_1] and [person_1] will be out sooner than expected.",
+            "[person_1] can't stop practicing anymore ."
+        ],
+        "reason": [
+            "Because it's too dark in the room , [person_1] won't be able to practice.",
+            "Because it will be very dark in the home gym.",
+            "Because it's too bright in the room , [person_1] won't be able to practice.",
+            "Before that , the yellow shirt team had scored a goal.",
+            "Because it's too dark in the room , [person_1] will be able to practice."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the video?",
+        "answer": [
+            "There is a guitar.",
+            "Eight.",
+            "White.",
+            "Yellow.",
+            "Two."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the person lie on the [bed_1]?",
+        "answer": [
+            "Because the person who is lying on [bed_1] is enjoy massaging.",
+            "[bed_1] stands up to pick up the dice that is flown outside.",
+            "[bed_1] is smoothening the wall to make it more beautiful.",
+            "[bed_1] lets the drill speedily rotate the apple while he is holding a peeler on the skin.",
+            "[bed_1] is practicing his skating skills."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1]'s going to drop a ball.",
+            "[person_1] may keep playing alone in the room.",
+            "[person_1] will have dinner next.",
+            "To massage at the other foot.",
+            "[person_1] will wait for the machine working."
+        ],
+        "reason": [
+            "[person_1] is showing how to use the headphone.",
+            "[person_1] is playing a piece of music.",
+            "Because it takes a lot of energy to climb a rope.",
+            "[person_1] is kicking with poor techniques.",
+            "To make the person who is lying on [bed_1] more comfortable."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] use a feather to comfort the foot slightly?",
+        "answer": [
+            "[person_1] don't have to do anything.",
+            "The person who is not lying on [bed_1] will laugh.",
+            "[person_1] and [person_1] would hurt the sheep while shearing.",
+            "The person who is lying on [bed_1] will laugh.",
+            "The [person_1] would cry out."
+        ],
+        "reason": [
+            "[person_1] and [person_1] would not know the right way to shear sheep without instruction.",
+            "Slight touch will make the person who is lying on [bed_1] feel happy.",
+            "When [person_1] closes his eyes he may lost the direction and throw the ball toward somewhere without a bowling pin.",
+            "Slight touch will make the person who is lying on [bed_1] feel itchy.",
+            "[person_1] is a child."
+        ]
+    }
+}

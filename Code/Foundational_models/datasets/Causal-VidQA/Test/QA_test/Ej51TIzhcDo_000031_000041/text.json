@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is dark.",
+            "It is nicely decorated.",
+            "It is quite dark.",
+            "The room is quite large.",
+            "It is in a rugby training field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is doing arm stretching exercises.",
+            "[person_1] wants to play drums.",
+            "[person_1] is trying to use the didgeridoo.",
+            "[person_1] is playing with [person_1] and [person_1] .",
+            "[person_1] plays the flute and doesn't want to disturb people."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may drive by the side of the road.",
+            "[person_1] also grinds the stone next.",
+            "[person_1] will take out the tiles to fix the floor.",
+            "[person_1] tends to keep playing.",
+            "[person_1] may make the juicer start to work."
+        ],
+        "reason": [
+            "[person_1] is drifting to the tune.",
+            "She is looking forward to playing.",
+            "Because the floor needs fixing.",
+            "[person_1] doesn't finish sticking the wallpaper.",
+            "[person_1] looks have a lot of energy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The machine will stop working.",
+            "The room will be dark then.",
+            "[person_1] will stop instructing.",
+            "The competition may stop.",
+            "[person_1] may not keep raising eyebrows."
+        ],
+        "reason": [
+            "Maybe [person_1] and [person_1] will stand up and go out.",
+            "[person_1] will be scared.",
+            "[person_1] will not keep playing.",
+            "[person_1] will put the lute on the table.",
+            "Maybe [person_1] will go out."
+        ]
+    }
+}

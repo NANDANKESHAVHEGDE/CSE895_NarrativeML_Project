@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] sitting in?",
+        "answer": [
+            "The [person_1] is behind the gong.",
+            "The [person_1] is near the window and close to the wall.",
+            "[person_1] is sitting in a baby stroller.",
+            "The [person_1] is in the left of the refrigerator.",
+            "The [person_1] is in the living room and in front of the TV."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have [book_1]?",
+        "answer": [
+            "[person_1] is a baby and he is playing with [book_1].",
+            "[person_1] wants to read [book_1].",
+            "Because the [person_1] is introducing the arrangement of the items in the [person_1].",
+            "Because [person_1] is watching [person_1] weave fabric.",
+            "The [person_1] is introducing the internal structure of the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will finish washing the object.",
+            "[person_1] will stop being shy about playing his guitar.",
+            "The hands of [person_1] will turn black from the newspaper ink.",
+            "[person_1] will continue to play guitar until his fingers star to hurt him.",
+            "[person_1] will stop playing the harmonica."
+        ],
+        "reason": [
+            "[person_1] will finish eating it so she can review its taste correctly.",
+            "It seems that [person_1] does not finish and still moves his body.",
+            "[person_1] will get ink on his hands from playing with the newspaper.",
+            "[person_1] has some of the ingredients laid out in front of her to begin making it.",
+            "[person_1] only sanded a little piece of the wood ; he will sand a large portion of the wood to show what it can do."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] dropped [book_1]?",
+        "answer": [
+            "[person_1] may stop crying for his parent to pick up [book_1] for him.",
+            "[person_1] wouldn't be able to drink from [book_1].",
+            "[person_1] may start crying for his parent to pick up [book_1] for him.",
+            "It would be harder for [person_1] to tap his pen on the table.",
+            "[book_1] may start crying for his parent to pick up [person_1] for him."
+        ],
+        "reason": [
+            "[person_1] is a baby and may start crying if he drop the toy he is playing with.",
+            "Because there are two cups behind [person_1].",
+            "[person_1] is an adult and may start crying if he drop the toy he is playing with.",
+            "The stick of the [person_1] is long and sharp.",
+            "[person_1] is a baby and may start crying if she drop the toy she is playing with."
+        ]
+    }
+}

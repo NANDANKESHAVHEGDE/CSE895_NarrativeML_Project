@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is performing on a stage.",
+            "[person_1] is outside.",
+            "[person_1] is on the stage.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in his home office."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is walking on the street.",
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] is spraying paint on the picture.",
+            "Because [person_1] finds the game interesting.",
+            "[person_1] is playing with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may bend over.",
+            "[person_1] is going grind the knife.",
+            "[person_1] may keep walking.",
+            "[person_1] is about to play the glass ball in his hand.",
+            "[person_1] is certain to spray a painting."
+        ],
+        "reason": [
+            "[person_1] is being splashed with water.",
+            "[person_1] has lifted up the container.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "Because [person_1] is getting the bee box.",
+            "Because [person_1] is going to chop something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not go out?",
+        "answer": [
+            "[person_1] will look at the mirror.",
+            "The cloths of [person_1] will be blurred.",
+            "[person_1] may help [person_1].",
+            "[person_1] will get off the chair and go.",
+            "[person_1] will not get wet."
+        ],
+        "reason": [
+            "[person_1] has stopped playing the keyboard.",
+            "[person_1]'s head will nod if [person_1] falls asleep , [person_1] can not do the job well.",
+            "[person_1] may feel lucky.",
+            "When sliding on barefoot in a long time , [person_1]'s feet may bleed.",
+            "It will be more convenient than using hands."
+        ]
+    }
+}

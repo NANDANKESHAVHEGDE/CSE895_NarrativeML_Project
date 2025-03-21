@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "It is cloudy.",
+            "It is quite beautiful.",
+            "Yes.",
+            "It is so nice."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing warm clothes?",
+        "answer": [
+            "It has snow and very cold.",
+            "[person_1] is greeting her audience.",
+            "[person_1] is doing various yoga stretches using the [person_1].",
+            "[person_1] continue spinning the rope while moving forward.",
+            "[person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue practicing.",
+            "[person_1] will water another plant.",
+            "[person_1] is going to play there.",
+            "[person_1] is going to turn left.",
+            "[person_1] is keep skiing."
+        ],
+        "reason": [
+            "Feedback is needed in the classroom.",
+            "[person_1] finishes singing.",
+            "Maybe [person_1] is having fun.",
+            "Maybe [person_1] likes [person_1] outfit.",
+            "[person_1] is skiing very well and [person_1] is excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell over?",
+        "answer": [
+            "[person_1] would win the game.",
+            "Restart the match.",
+            "His leg would be broken.",
+            "[person_1] wouldn't jump over the crossbar.",
+            "[person_1] will find it difficult to put on mascara."
+        ],
+        "reason": [
+            "[person_1] is skiing very fast so it is very easy to get seriously injured.",
+            "[person_1] is a professional trainer , he may have more knowledge than the athlete.",
+            "Everyone wants their videos to be perfect.",
+            "If you have a table mirror , it will be easier to apply mascara.",
+            "[person_1] jumps not too fast."
+        ]
+    }
+}

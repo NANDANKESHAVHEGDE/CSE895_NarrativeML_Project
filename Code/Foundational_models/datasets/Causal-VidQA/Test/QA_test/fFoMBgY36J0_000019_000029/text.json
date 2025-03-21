@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the bed?",
+        "answer": [
+            "[person_1] is smoking hookah.",
+            "Because [person_1] is holding maracas playing.",
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "Because [person_1] needs to be comfortable to swing his arms."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is highly likely to continues to shake the maracas.",
+            "[person_1] will put in contact lenses.",
+            "[person_1] will dip in more paint.",
+            "[person_1] will fix the gongs.",
+            "[person_1] will push a wheelchair to help [person_1] enter the house to shelter from the rain."
+        ],
+        "reason": [
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "Because [person_1] does want to fall down.",
+            "Maybe [person_1] is afraid of something.",
+            "[person_1] is holding maracas.",
+            "[person_1] holds gong sticks and looks at the sleeping people."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "[person_1] will be laughing.",
+            "[person_1] will shake the maraca more.",
+            "[person_1] will be cry.",
+            "[person_1] will fall.",
+            "[person_1] won't be cry."
+        ],
+        "reason": [
+            "The room will be bright.",
+            "Because they can't play then.",
+            "The room will be dark.",
+            "To fix the equipment.",
+            "The room will be small."
+        ]
+    }
+}

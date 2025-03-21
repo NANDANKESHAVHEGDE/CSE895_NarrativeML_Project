@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] hair look like?",
+        "answer": [
+            "[person_1] is in wood workshop.",
+            "[person_1] hair looks quite long and black.",
+            "[person_1] has a white guitar.",
+            "[person_1] is in the sawmill.",
+            "[person_1] hair looks a bit curly."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing.",
+            "[person_1] is a baby.",
+            "[person_1] is reading newspaper.",
+            "[person_1] stomped grapes.",
+            "[person_1] feels comfortable."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to play with the flute.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to continue skiing."
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "[person_1] is looking at [person_1].",
+            "Maybe [person_1] is a earthen pot.",
+            "Because [person_1] has finished measuring the gap.",
+            "[person_1] is holding the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] bangs his head on the object behind?",
+        "answer": [
+            "[person_1] will cry.",
+            "No one will help [person_1].",
+            "[person_1] will be happy.",
+            "The driver of [person_1] will take [person_1] to the hospital soon.",
+            "[person_1] will hug the dog."
+        ],
+        "reason": [
+            "[person_1] is right next to [person_1].",
+            "[person_1] head will be swollen.",
+            "[person_1] will be a football enthusiast.",
+            "[person_1] will earn money from it.",
+            "The building block can't fly."
+        ]
+    }
+}

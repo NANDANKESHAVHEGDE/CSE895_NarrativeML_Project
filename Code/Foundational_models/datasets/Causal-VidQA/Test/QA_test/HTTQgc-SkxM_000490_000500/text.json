@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the pool.",
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are in the recording studio.",
+            "[person_1] and [person_2] are in the game room.",
+            "[person_2] and [person_2] are in the subway station."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the shaver?",
+        "answer": [
+            "[person_2] is afraid of riding alone.",
+            "[person_2] is plastering the ceiling.",
+            "[person_1] is shaving for [person_2].",
+            "[person_1] hold a shovel to shovel mortar.",
+            "Because the bellows produce sound."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep practicing.",
+            "[person_1] may cheer up.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to record after shaving.",
+            "[person_1] may hug others."
+        ],
+        "reason": [
+            "There are many sand on his feet.",
+            "[person_1] has food on hand.",
+            "Because the blue is skying at night.",
+            "[person_1] is very small.",
+            "There is a microphone in front of him and many instruments behind him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] records a good song?",
+        "answer": [
+            "[person_1] and his song will be loved by everyone.",
+            "[person_1] will be very happy and satisfied.",
+            "[person_1] and his song will be hated by everyone.",
+            "[person_1] will stop.",
+            "[person_1] and his face will be loved by everyone."
+        ],
+        "reason": [
+            "[person_1] is ugly and sings well.",
+            "[person_1] will be able to play the guitar or just carry the guitar.",
+            "[person_1] is handsome and sings well.",
+            "After cutting the meat , next step is to spread some sauces on the meat to cook.",
+            "[person_1] is handsome but sings badly."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "The [couch_1] is behind the [person_1].",
+            "The [couch_1] is behind [person_1].",
+            "[person_1] is behind [person_1].",
+            "[couch_1] is behind [person_1] and [person_1].",
+            "The [couch_1] is to the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [potted plant_1] at the window?",
+        "answer": [
+            "Because winner will use [potted plant_1] punch loser's head.",
+            "Because the person who is lying on [potted plant_1] is enjoy massaging.",
+            "[potted plant_1] is running away to hide from [potted plant_1].",
+            "[potted plant_1] was bored before.",
+            "Because [potted plant_1] need to be in the sun."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will show the audience the functions of the ATM.",
+            "The [person_1] might eat what's in her hand.",
+            "The [person_1] will continue to introduce the Muppet Bunny.",
+            "The [person_1] will carve something into the ring next.",
+            "The [person_1] will put the card in the wallet and go back home."
+        ],
+        "reason": [
+            "Because the [person_1] doesn't seem to have introduced the rest of the Muppet bunny.",
+            "Because the [person_1] doesn't seem to be done cutting the nails of the [person_1].",
+            "Because the [person_1] wants to attract the dog's attention.",
+            "Because the [person_1] doesn't seem to like the dolls very much.",
+            "Because the [person_1] seems to be addicted to opening the [person_1] door."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [potted plant_1] suddenly fell over?",
+        "answer": [
+            "The [person_1] will go and put down the [potted plant_1].",
+            "[person_1] would eat the food in the plate of [potted plant_1].",
+            "The [person_1] will go and pick up the [potted plant_1].",
+            "The [person_1] would bow to take the clothes.",
+            "The [person_1] will go and drop the [potted plant_1]."
+        ],
+        "reason": [
+            "Because the fallen [potted plant_1] clutters the house.",
+            "Falling to the ground may make the wig dirty.",
+            "Because the fallen [potted plant_1] clutters the road.",
+            "The movements of dance must be strong and decisive , so [potted plant_1] would be fall if the floor got wet.",
+            "Because the fallen [potted plant_1] break the house."
+        ]
+    }
+}

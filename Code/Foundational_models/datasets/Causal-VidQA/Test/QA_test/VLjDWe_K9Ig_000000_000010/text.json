@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] uses a cage and a knife.",
+            "[person_1] is using a metal claw.",
+            "[person_1] uses pliers.",
+            "[person_1] is looking at herself in the mirror.",
+            "[person_1] uses a saber."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] open it with these tools?",
+        "answer": [
+            "[person_1] threw the plate straight up in the air , turned the stick over , and caught the plate on the other end of the stick.",
+            "The [person_1] took a blueberry from the tree.",
+            "[person_1] fixes the cage on the bottleneck and strikes the cage with a knife , segregating the bottleneck from the body.",
+            "[person_1] is playing the drums.",
+            "Because it is [person_1]'s present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after opening the bottle?",
+        "answer": [
+            "[person_1] will give the eggs to adults.",
+            "[person_1] will drink some champagne.",
+            "[person_1] may bow.",
+            "[person_1] will hold the breath for several seconds.",
+            "[person_1] will lift the hamburger to his mouth and take a bite out of it."
+        ],
+        "reason": [
+            "[person_1] has finished his opening process.",
+            "[person_1] uses the mop as guitar and at the same time cleans the floor.",
+            "To thank the audience.",
+            "It seems that [person_1] is eager to know what it is.",
+            "[person_1] seems to quite enjoy it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if there was not cage on the bottleneck?",
+        "answer": [
+            "The bottle might not be easy to open.",
+            "They would be in risk of falling down.",
+            "He'll buy new tape.",
+            "The snow would be shot into the house.",
+            "[person_1] would not run around the bases."
+        ],
+        "reason": [
+            "The snow will disappear.",
+            "Because there are no obstacles.",
+            "The cage is to increase the pressure on the bottleneck.",
+            "So [person_1] doesn't have to hold on to the dog.",
+            "[person_1] is a child , so they would want to play with toys and not have to be a part of their mother's cooking show."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [vase_1]?",
+        "answer": [
+            "It is in the corner of the room.",
+            "[vase_1] is behind [person_1].",
+            "It is well - decorated.",
+            "[vase_1] is next to the fireplace.",
+            "[vase_1] is next to the windows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit next to [person_2]?",
+        "answer": [
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "[person_1] and [person_2] are practicing a piece of music.",
+            "[person_1] looks at the exam results.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "They will keep on laying those bricks on each other.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] and [person_2] will continue practicing.",
+            "[person_1] and [person_2] will celebrate.",
+            "[person_1] and [person_2] will sit down and rest."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are resting , and [person_1] and [person_2] will continue to train when [person_1] and [person_2] are well.",
+            "[person_1] and [person_2] are looking at the beautiful seascape.",
+            "[person_1] and [person_2] look very excited.",
+            "[person_1] and [person_2] are looking at the music sheet.",
+            "[person_1] and [person_2] is look very excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not there?",
+        "answer": [
+            "[person_1] might have difficulties in performing.",
+            "[person_1] would cut the sheep's skin and it would run away.",
+            "[person_1] would not play the clarinet.",
+            "[person_1] might perform much better.",
+            "[person_1] wouldn't be able to practice."
+        ],
+        "reason": [
+            "[person_1] needs to look at someone to imitate.",
+            "Apply the right leg waxing techniques is very important to avoid injuring the legs.",
+            "[person_2] will continue to dance.",
+            "[person_1] does not want to play alone.",
+            "[person_2] will sit there alone."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] run on the playground?",
+        "answer": [
+            "The socks are white.",
+            "The shirt [person_1] wearing is white.",
+            "It is black.",
+            "No.",
+            "The shirt [person_1] is wearing is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] run on the machine?",
+        "answer": [
+            "To exercise better.",
+            "[person_1] likes stacking cups.",
+            "[person_1] is in the room playing the lute.",
+            "[person_1] is taking care of her lips.",
+            "The [person_1] seems to be looking for something in the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will continue to fix the lock.",
+            "[person_1] might call the adult.",
+            "[person_1] will play drums with a new song.",
+            "[person_1] will check her mark.",
+            "[person_1] will speed up."
+        ],
+        "reason": [
+            "Because there is still too much snow on the road.",
+            "[person_1] has just opened his present.",
+            "Her feet are about to move.",
+            "It is according to baseball's rules.",
+            "[person_1] feels it's not fast enough."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if there is a fire?",
+        "answer": [
+            "Maybe they can't drink.",
+            "[person_1] will run back.",
+            "Then all the people here will try to run out.",
+            "[person_1] will run out.",
+            "[person_1] will try other tools."
+        ],
+        "reason": [
+            "[person_1] can stop reading.",
+            "Safety is more important.",
+            "[person_1] is punching [person_1].",
+            "Safety is not important.",
+            "The bricks are compatible."
+        ]
+    }
+}

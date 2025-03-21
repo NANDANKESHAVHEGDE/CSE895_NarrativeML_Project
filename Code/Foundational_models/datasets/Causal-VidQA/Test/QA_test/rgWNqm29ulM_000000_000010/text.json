@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] a tiny baby?",
+        "answer": [
+            "[person_1] is holding [person_1].",
+            "A trash can.",
+            "No.",
+            "[person_1] is holding the guitar bass.",
+            "The [person_1] is in front of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does the horse move forward?",
+        "answer": [
+            "[person_1] is taking photo.",
+            "Because it's all scattered gift wrapping paper.",
+            "[person_1] is playing a song on the guitar.",
+            "Because the person lying on the bed feels comfortable.",
+            "Slowly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will have lunch .",
+            "Keep on exercising.",
+            "[person_1] is going to comment about the javelin throw.",
+            "[person_1] will have a good rest.",
+            "[person_1] is going to continue ironing the clothes."
+        ],
+        "reason": [
+            "He wants to go to the toilet.",
+            "[person_1] is tired.",
+            "[person_1] does not feel tired . And [person_1] is not going to stop.",
+            "[person_1] gestures for [person_1] to speak to the audience.",
+            "Because [person_1] may want to try another type of exercise."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s dad ask [person_1] to go back home.",
+        "answer": [
+            "The [person_1] cannot eat.",
+            "[person_1] will go back home.",
+            "[person_1] will not eat the pig.",
+            "[person_1] will trip over [person_1]?",
+            "She will ask [person_1] to buy another one."
+        ],
+        "reason": [
+            "Because it may be broken and impact her actions.",
+            "Because he has to use that machine to drill holes.",
+            "It's time for dinner.",
+            "[person_1] would get hurt.",
+            "[person_1] feels a pain."
+        ]
+    }
+}

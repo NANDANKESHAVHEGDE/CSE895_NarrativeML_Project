@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the sweater [person_1] wearing?",
+        "answer": [
+            "It's red.",
+            "The [person_1] is rectangular.",
+            "The [person_1] is red.",
+            "It is green.",
+            "[person_1] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a ring?",
+        "answer": [
+            "To look beautiful.",
+            "[person_1] is already married.",
+            "Perhaps [person_1] loves it.",
+            "Maybe [person_1] had an accident.",
+            "Maybe [person_1] is footsore and can't walk."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "It is anticipated that [person_1] will learn to play the guitar.",
+            "[person_1] may continue washing [person_1].",
+            "[person_1] is going to go after [person_1].",
+            "[person_1] may continue to deal cards.",
+            "[person_1] is going to keep singing."
+        ],
+        "reason": [
+            "Maybe [person_1] is learning the notes on the guitar.",
+            "It seems that there are some cups on the table and [person_1] pays attention on it.",
+            "[person_1] is going to sit on the chair.",
+            "Because [person_1] still has cards in hands.",
+            "[person_1] is looking at the toys."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the guitar did not make a good sound?",
+        "answer": [
+            "[person_1] couldn't win.",
+            "[person_1]'ll say it again.",
+            "[person_1] will run out.",
+            "It tastes bitter.",
+            "[person_1] would stop playing guitar."
+        ],
+        "reason": [
+            "The fire is too dangerous.",
+            "There is a crossroad ahead.",
+            "The guitar would be broken.",
+            "There are a lot of people watching him.",
+            "It can not be eat."
+        ]
+    }
+}

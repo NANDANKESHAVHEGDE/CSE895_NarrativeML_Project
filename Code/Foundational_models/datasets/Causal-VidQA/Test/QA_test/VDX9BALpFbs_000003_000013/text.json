@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [clock_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[person_1] is sitting between [clock_1] and [person_1].",
+            "[clock_1] is on the shelf behind [person_1].",
+            "[clock_1] is behind [person_1] and on the table.",
+            "[clock_1] is behind [person_1] and hung on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] smiling?",
+        "answer": [
+            "[person_1] is doing [person_1] makeup.",
+            "[person_1] is playing something with another person.",
+            "[person_1] is trying moon walking.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is playing something."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to raise their eyebrows.",
+            "[person_1] and [person_2] are going to stop snapping their fingers.",
+            "[person_1] and [person_2] are going to hover - boarding together.",
+            "[person_1] and [person_2] are going to have a meal.",
+            "[person_1] and [person_2] are going to snap fingers."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are family members and are squeezing oranges to drink.",
+            "[person_1] and [person_2] want to complete the project.",
+            "[person_1] and [person_2] are still holding hands and moving with each other.",
+            "[person_1] and [person_2] have been flipping the cake a few times.",
+            "Their eyes are bulging."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will be sad.",
+            "Maybe [person_1] will put down the phone.",
+            "[person_1] and [person_1] will go out.",
+            "[person_1] will open the curtain.",
+            "[person_1] will may be stop reading."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "[person_2] can't see anything.",
+            "Hair drier needs power to work.",
+            "[clock_1] is practicing very hard.",
+            "The keyboard will also turn off."
+        ]
+    }
+}

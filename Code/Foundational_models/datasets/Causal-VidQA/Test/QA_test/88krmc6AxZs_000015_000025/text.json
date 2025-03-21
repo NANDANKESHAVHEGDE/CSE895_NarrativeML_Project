@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tv_1]?",
+        "answer": [
+            "In [tv_1]'s hand.",
+            "The balls are red and blue.",
+            "No , it isn't.",
+            "[tv_1] is wearing a black dress.",
+            "It is on the corner of the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the harmonica?",
+        "answer": [
+            "[person_1] wants to throw the ball into [person_1].",
+            "Maybe someone is sitting in front of the television to watch a film.",
+            "Maybe [person_1] is playing for fun.",
+            "By guiding the camel.",
+            "Maybe [person_1] is playing the harmonica to reduce stress."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to move to the window.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to eat all the donuts in the box he is holding."
+        ],
+        "reason": [
+            "[person_1] feels that the food is not good.",
+            "[person_1] is going ahead.",
+            "[person_1] gave a loud , silly laugh.",
+            "Because the blue is skying at night.",
+            "[person_1] is very excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't play the harmonica?",
+        "answer": [
+            "[person_1] would watch movie.",
+            "[person_1] would be sad about it.",
+            "[person_1] would not watch TV.",
+            "[person_1] will start playing faster.",
+            "[person_1] would watch TV."
+        ],
+        "reason": [
+            "The hot dog is dirty.",
+            "There is no TV in this room.",
+            "[person_1] seemed to be familiar with the place.",
+            "There is a TV in this room.",
+            "Because the standard action is like that , everyone is used to it."
+        ]
+    }
+}

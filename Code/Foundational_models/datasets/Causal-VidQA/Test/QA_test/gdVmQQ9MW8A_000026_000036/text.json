@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is \u00a0 white.",
+            "It is purple.",
+            "It is black.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise her hands too long?",
+        "answer": [
+            "Maybe [person_1] wants to practice carefully.",
+            "They are practicing rugby.",
+            "The weather is hot.",
+            "[person_1] picked up the paper dropped on the floor.",
+            "They are here to play together."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the trumpet.",
+            "[person_1] intends to stop playing the guitar.",
+            "[person_1] intends to continue playing that instrument.",
+            "[person_1] has an intention of the next performance of her.",
+            "[person_1] intends to stop touching the organ."
+        ],
+        "reason": [
+            "Maybe [person_1] is dizzy.",
+            "[person_1] tends to ask someone to play flute with [person_1].",
+            "[person_1] is holding the chess piece.",
+            "[person_1] is preparing for the game.",
+            "Because [person_1] wants to have a perfect performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forgets the start time of the show?",
+        "answer": [
+            "[person_1] may sit and watch [person_1] tasting beer.",
+            "[person_1]'s arrow will probably won't reach the target.",
+            "[person_1] would not bend down while dancing.",
+            "[person_1] may be late for the show and be confused completely.",
+            "The camera can't record anything."
+        ],
+        "reason": [
+            "[person_1] should have some rest after each set.",
+            "[person_1] is an important player in the band.",
+            "Because [person_1] can see them clearly and they are dancing the same dance.",
+            "Because [person_1] has never been late for the show before.",
+            "The seal didn't want to do that."
+        ]
+    }
+}

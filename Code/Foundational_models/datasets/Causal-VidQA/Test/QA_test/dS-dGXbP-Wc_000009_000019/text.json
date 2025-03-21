@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the lake.",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in the garden.",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the garden?",
+        "answer": [
+            "Because [person_1] is waiting for the mother.",
+            "Because [person_1] is touching her belly.",
+            "[person_1] is washing his hair.",
+            "Because [person_1] likes to play with water.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] will continue play with water.",
+            "[person_1] will continue talking.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] will chop the green bell pepper."
+        ],
+        "reason": [
+            "[person_1] is still playing with water.",
+            "Because [person_1] is hungry.",
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] is very excited.",
+            "[person_1] removes the smoking pipe from his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stands in the sun for too long?",
+        "answer": [
+            "[person_1] will be get healthy.",
+            "[person_1] will return to help [person_1].",
+            "[person_1] will be get happy.",
+            "[person_1] can find another one to go on.",
+            "[person_1] will be get sick."
+        ],
+        "reason": [
+            "This is against the rule.",
+            "Standing in the sun for too long is not good for health.",
+            "The bar is a little shorter than the [person_1].",
+            "Standing in the sun for too long is good for health.",
+            "Because [person_1]'s hair is curly and messy . The others can't make hair beautiful without rubber bands."
+        ]
+    }
+}

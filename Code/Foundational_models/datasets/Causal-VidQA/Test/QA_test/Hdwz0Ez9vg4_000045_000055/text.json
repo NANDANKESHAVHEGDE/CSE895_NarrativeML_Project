@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] manipulating?",
+        "answer": [
+            "It's long black hair.",
+            "It is a present.",
+            "A hat.",
+            "The scooter.",
+            "It is red."
+        ]
+    },
+    "explanatory": {
+        "question": "How does the [person_1] manipulate it?",
+        "answer": [
+            "Because [person_3] is not interested in making bubbles.",
+            "Maybe [person_1] is a professional player.",
+            "By using his hands.",
+            "Because it is a yoga move.",
+            "To make it easy to operate."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will check what's wrong with the ATM.",
+            "The [person_1] will continue to put things in that compartment of the [person_1].",
+            "The [person_1] will speed up.",
+            "The [person_1] will go to find another tool.",
+            "The [person_1] will continue to introduce the functions of the ATM."
+        ],
+        "reason": [
+            "Because it is the task of scooter.",
+            "Because the [person_1] wants to hurry up.",
+            "Because the [person_1] is too high for her to get.",
+            "Because the [person_1] has not yet finished cutting the hair.",
+            "Because the [person_1] finds it interesting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the [person_1] wants to go to the lavatory?",
+        "answer": [
+            "[person_1] will hurt [person_1]'s legs.",
+            "The [person_1] will run there.",
+            "[person_1] may have to replace this bag by another bag.",
+            "The [person_1] will drive there.",
+            "[person_1] will have to go back to the gyro."
+        ],
+        "reason": [
+            "Because the [person_1] has no scooter.",
+            "Horses are afraid of strangers.",
+            "Because the [person_1] has scooter.",
+            "Because [person_1] is practicing [person_1]'s skill.",
+            "Because the [person_1] has feet."
+        ]
+    }
+}

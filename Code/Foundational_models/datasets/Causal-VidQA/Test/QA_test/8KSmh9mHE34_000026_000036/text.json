@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it on [person_2]'s wrist?",
+        "answer": [
+            "It is red.",
+            "It is a watch.",
+            "The shoes are pink.",
+            "There are five cups on the table.",
+            "A shovel."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] so surprised?",
+        "answer": [
+            "Because [person_1] has to play piano.",
+            "Because [person_2] didn't think that [person_1] will propose before.",
+            "Maybe [person_2] is nearsighted.",
+            "The people want to watch [person_1] doing tai chi.",
+            "Because [person_1] kneels on one knee suddenly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may dance with [person_2].",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may get out of the recording room.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] is going to put the ring on [person_2]'s finger now."
+        ],
+        "reason": [
+            "She is absorbed in dancing.",
+            "It is very sunny.",
+            "[person_1] cannot lift the sled.",
+            "Because the proposal is successful.",
+            "Because [person_1] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] is not ready to be proposed to?",
+        "answer": [
+            "[person_1] will postpone the proposal.",
+            "None probably.",
+            "[person_2] may step on [person_1].",
+            "The man will buy a new brunch of flowers.",
+            "[person_1]'ll change another bucket."
+        ],
+        "reason": [
+            "To let [person_2] think well.",
+            "Because [person_2] is still a little girl and it is hurt.",
+            "[person_2] is right behind [person_2].",
+            "Because [person_2] was running fast.",
+            "Because [person_2] is not pushed toward the [person_2]."
+        ]
+    }
+}

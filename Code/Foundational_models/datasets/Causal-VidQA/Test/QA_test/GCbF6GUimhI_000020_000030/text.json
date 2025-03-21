@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is working out at a gym.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is having an interview.",
+            "[person_1] is performing on stage.",
+            "[person_1] is reading a book for [person_1] and [person_1] on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on stage?",
+        "answer": [
+            "Because the [person_2] wants to get off.",
+            "Because [person_2] is recording video.",
+            "Because [person_2] is performing cello.",
+            "[person_2] glad [person_2] broke the target pad.",
+            "[person_2] is performing in a large room and [person_2] wants everyone can listen to the sound of the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "Give one piece of [person_2] to [person_2].",
+            "[person_2] will start play the hula hoop.",
+            "[person_2] will go to take the quilt.",
+            "[person_2] will continue to wear the sari.",
+            "It is predicted that [person_2] will continue to play the cello."
+        ],
+        "reason": [
+            "Because [person_2] wants share [person_2] with [person_1].",
+            "[person_1] is performing with [person_2].",
+            "Maybe [person_2] has stopped kicking high.",
+            "[person_2] is talking with [person_1].",
+            "[person_2] looks very happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the string breaks?",
+        "answer": [
+            "Perhaps [person_1] will be very angry.",
+            "[person_1] would not use it to exercise.",
+            "Perhaps [person_1] will be very happy.",
+            "The cards can't be easily picked up.",
+            "Perhaps [person_1] won't be very angry."
+        ],
+        "reason": [
+            "The show must go on.",
+            "Wardrobe is heavy.",
+            "The show will fail.",
+            "Because his parents will always be prepared to help him.",
+            "The show will succeed."
+        ]
+    }
+}

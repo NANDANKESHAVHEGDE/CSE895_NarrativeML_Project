@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is performing on stage.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the study room.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is staying with [person_1].",
+            "[person_1] is in the room playing the lute.",
+            "Because [person_1] is working out his biceps with resistance bands",
+            "[person_1] is fond of unwrapping a present.",
+            "Because [person_1] wants to play the violin in a quiet room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to proceed to spray all the ceiling.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to swim his best to the other side of the pool.",
+            "[person_1] will continue to practice stretching arm.",
+            "[person_1] is going to record a video about herself."
+        ],
+        "reason": [
+            "She is looking forward to playing.",
+            "Because the floor needs fixing.",
+            "Their stems are too long.",
+            "[person_1] is practicing stretching arms.",
+            "[person_1] looks have a lot of energy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is turn off?",
+        "answer": [
+            "[person_1] will stay in the gym.",
+            "[person_1] will take [person_1] to the hospital.",
+            "[person_1] will leave the gym.",
+            "The [person_1] and the [person_1] will not be able to use the [person_1] and the [person_1].",
+            "[person_1] will buy the gym."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "Because the oven doesn't work.",
+            "The room will be bright.",
+            "Because they only focus on the dancing.",
+            "The room will be small."
+        ]
+    }
+}

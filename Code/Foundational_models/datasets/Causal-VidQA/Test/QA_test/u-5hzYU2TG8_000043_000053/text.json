@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is on the table.",
+            "[person_1] is wearing glasses.",
+            "[person_1] is wearing a bow tie.",
+            "[person_1] is in the floor.",
+            "No , the [person_1] is not . The [person_1] is sitting down on the chair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a bow tie?",
+        "answer": [
+            "[person_1] is singing.",
+            "[person_1] is training.",
+            "[person_1] needs to wear a formal suit.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is practicing spinning plates."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] on the verge of doing?",
+        "answer": [
+            "[person_1] will nail off the perimeter of the plywood.",
+            "[person_1] is about to pull over to the side of the road.",
+            "[person_1] is going to continue riding.",
+            "[person_1] is on the verge of entering the house.",
+            "[person_1] may cry."
+        ],
+        "reason": [
+            "To continue the repairing work , [person_1] need more tools and parts.",
+            "After some adjustment [person_1] will nail off the perimeter of the plywood.",
+            "[person_1] seems happy to do high - five with strangers.",
+            "[person_1] turns to the right and he is sitting in the stands , there seems to be a game under the stage.",
+            "[person_1] is still waking forward at the end of the video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not walk slowly?",
+        "answer": [
+            "People may not be there.",
+            "[person_1] would perform tai chi moves without any equipment.",
+            "[person_1] would not be able to keep up with the tempo.",
+            "[person_1] will put the guitar down.",
+            "[person_1] can participate in competitions."
+        ],
+        "reason": [
+            "[person_1] needed to save some breath for the bagpipe.",
+            "They only wear plain clothes , so it's easy to get hit by bullets . The armors will protect their body in battle.",
+            "[person_1] may play with someone then.",
+            "[person_1] can grab his toes on the ladder to keep himself balance.",
+            "[person_1] can't iron her T - shirt."
+        ]
+    }
+}

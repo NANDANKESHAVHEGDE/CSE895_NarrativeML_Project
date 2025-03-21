@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite dark.",
+            "It is nicely decorated.",
+            "It is in a rugby training field.",
+            "The room is quite big.",
+            "It is narrow."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] look like?",
+        "answer": [
+            "[person_1] is so fat.",
+            "Let it easier to squeeze out.",
+            "[person_1] is keeping the boy.",
+            "[person_1] and [person_1] are analyzing hits in tai chi.",
+            "The machine should be operated like that."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] will stop playing the flute.",
+            "[person_1] probably will ride the bike straight to the house.",
+            "[person_1] is going to lunges."
+        ],
+        "reason": [
+            "When [person_1] opens the box , [person_1] takes out a beautiful pink shirt.",
+            "[person_1] is doing lunges.",
+            "When [person_1] drops the rope , the rope shakes but [person_1] manages to continue the walk.",
+            "Because [person_1] is about to do it.",
+            "[person_1] is eating potato chips while showing the potato chips to the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room is dark?",
+        "answer": [
+            "[person_1] will take off her coat.",
+            "The [person_1] can throw the shot as far as the [person_1] hopes.",
+            "The dog will eat the watermelon.",
+            "[person_1] will not do exercise.",
+            "[person_1] would feel tired."
+        ],
+        "reason": [
+            "Because this room doesn't have window.",
+            "[person_1] can't see anything.",
+            "The lamp will be broken.",
+            "Because it's too sudden.",
+            "[person_1]'s mother will appease him."
+        ]
+    }
+}

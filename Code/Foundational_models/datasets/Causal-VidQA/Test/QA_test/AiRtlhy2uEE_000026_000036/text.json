@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shorts?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "It is white.",
+            "Blue.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] propped hands on the floor?",
+        "answer": [
+            "The weather is very cold.",
+            "[person_1] steps on the rope.",
+            "To do some exercises.",
+            "Because he's happy.",
+            "[person_1] leans back to look up another person who is ripping the paper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue standing on the hand.",
+            "[person_1] is going to provoke the opponent into lunging.",
+            "[person_1] is going to keep diving.",
+            "[person_1] is going to fall off the chair.",
+            "[person_1] is going to do some mountain climbers."
+        ],
+        "reason": [
+            "Frisbee is flying to him",
+            "[person_1] is weaving fabric.",
+            "[person_1] likes challenge.",
+            "To keep healthy.",
+            "Maybe [person_1] finds it strange."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] suddenly twisted the hand?",
+        "answer": [
+            "The [person_1] would throw the snow faster.",
+            "[person_1] will go to the hospital.",
+            "[person_1] would cry.",
+            "[person_1] would lie on the ground.",
+            "The [person_1] would come into the house to take another shovel."
+        ],
+        "reason": [
+            "[person_1] is holding him and playing with him so she will not let him slip off",
+            "Because [person_1] isn't flat.",
+            "Bad marshmallows can't be eaten.",
+            "To get medical tests.",
+            "[person_1] stomps grapes with her bare feet."
+        ]
+    }
+}

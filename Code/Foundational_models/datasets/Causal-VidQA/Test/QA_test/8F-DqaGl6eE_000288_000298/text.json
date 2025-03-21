@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Where is [person_1] in the bathroom ?",
+        "answer": [
+            "[person_1] needs a quiet place to practice.",
+            "[person_1] is riding bicycle.",
+            "[person_1] is opening her gift.",
+            "[person_1] is playing lute very passionately.",
+            "[person_1] is shaving."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand on her hands.",
+            "[person_1] will stop kicking high.",
+            "[person_1] is going to take some photos.",
+            "[person_1] might put her glasses down somewhere.",
+            "[person_1] is going to wipe all the shaving cream off his face."
+        ],
+        "reason": [
+            "Because [person_1] looks very tired.",
+            "She is absorbed in dancing.",
+            "[person_1] is jumping very professionally.",
+            "Shaving cream stuck to his hair and face.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the razor?",
+        "answer": [
+            "[person_1] won't be able to keep cutting his hair.",
+            "[person_1] will be able to keep shaving.",
+            "The knife may be broken by the heat from friction while [person_1] is sharpening it.",
+            "[person_1] won't be able to keep shaving.",
+            "[person_1] and [person_1] will be startling."
+        ],
+        "reason": [
+            "[person_1] needs a new razor.",
+            "The cap is still on the head of [person_1].",
+            "[person_1] needs a old razor.",
+            "Because [person_1] needs to see the doctors.",
+            "[person_1] does not need a new razor."
+        ]
+    }
+}

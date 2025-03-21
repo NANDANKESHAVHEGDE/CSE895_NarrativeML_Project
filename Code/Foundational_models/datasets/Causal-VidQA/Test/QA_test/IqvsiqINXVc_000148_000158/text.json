@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "It's [cup_1].",
+            "White.",
+            "Snow.",
+            "It is on the floor.",
+            "It's square."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stacking cups?",
+        "answer": [
+            "[person_1] is trying to reach for [person_1].",
+            "[person_1] is holding flute and playing it.",
+            "Because [person_1] is smoking.",
+            "[person_1] is lying on [person_1] to get a massage.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will continue to raising her eyebrows.",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] will continue to play.",
+            "[person_1] may drink water."
+        ],
+        "reason": [
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] seems to want to improve the skill further.",
+            "[person_1] is stacking cups very quickly with a time of 11 seconds.",
+            "Because [person_1] has justed reached out his hands to get some water , which will help him to shape the pottery.",
+            "[person_1] is explaining how to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cups fall while [person_1] is stacking cups?",
+        "answer": [
+            "The other people would relise the [person_1] is not a statue.",
+            "[person_1] will stop playing.",
+            "[person_1] might continue to eat.",
+            "[person_1] will continue playing.",
+            "[person_1] would be injure."
+        ],
+        "reason": [
+            "To wash the sheet first.",
+            "[person_1] will rearrange the cups.",
+            "Because here are a lot more balls.",
+            "[person_1] will break the cups.",
+            "[person_1] can swim."
+        ]
+    }
+}

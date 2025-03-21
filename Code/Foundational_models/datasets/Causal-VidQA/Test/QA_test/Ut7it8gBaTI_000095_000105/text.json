@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_6] in the room?",
+        "answer": [
+            "[person_6] is trying to use the didgeridoo.",
+            "[person_6] wants to play drums.",
+            "[person_6] is taking care of children.",
+            "[person_6] is playing with [person_6] and [person_6] .",
+            "[person_6] is excited about her book."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do next after seeing the parcel?",
+        "answer": [
+            "[person_3] will keep on climbing.",
+            "[person_3] will try to open it.",
+            "[person_3] will stand up.",
+            "[person_3] will keep practicing to improve the skill.",
+            "[person_3] will lay down his feet."
+        ],
+        "reason": [
+            "Who hold a ball in hand will throw the ball to the opposite finally.",
+            "[person_3] really wants to know what it is from his expression.",
+            "Hand fist's [person_3] is raising up.",
+            "[person_3] has not finished the performance.",
+            "[person_3] will take a rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone rings?",
+        "answer": [
+            "Maybe the parents of [person_6] will take food for [person_6].",
+            "The other children will call the parents.",
+            "[person_6] and [person_6] will run inside a building and [person_6] will change [person_6]'s bandage.",
+            "Perhaps [person_6] may pick up the phone.",
+            "the flash could scare [person_6] and create a glare on the mirror in front of [person_6] , ruining the photo."
+        ],
+        "reason": [
+            "[person_6] will pick up the phone.",
+            "[person_6] is the only adult in this room.",
+            "[person_6] enjoys headphones.",
+            "[person_6] will cook something to eat.",
+            "Then [person_6] will play with it."
+        ]
+    }
+}

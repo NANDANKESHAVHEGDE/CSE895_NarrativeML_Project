@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s cap?",
+        "answer": [
+            "It is black.",
+            "The shirt [person_1] is wearing is white.",
+            "It is pink.",
+            "Two snowballs.",
+            "The socks are white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] just played maracas while sitting.",
+            "[person_1] is practicing cello.",
+            "[person_1] is practicing playing drums.",
+            "[person_1] is playing the lute with [person_1] and [person_1] like a band.",
+            "Because [person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will continue playing drums.",
+            "[person_1] will sit on the canoe after diving.",
+            "[person_1] will lead the following horses.",
+            "[person_1] will continue playing harmonica.",
+            "[person_1] will stop suddenly."
+        ],
+        "reason": [
+            "[person_1] is running towards one of his teammates.",
+            "[person_1] is making a video of his parkour.",
+            "[person_1] has gone in the opposite direction.",
+            "[person_1] maybe wants to do more somersaults.",
+            "[person_1] looks really energetic and enthusiastic in playing drums."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the drumsticks [person_1] holding were broken?",
+        "answer": [
+            "Maybe [person_1] will bleed.",
+            "[person_1] won't be able to jump high.",
+            "[person_1] has to buy another one to practice.",
+            "[person_1] will be taken to the hospital.",
+            "[person_1] had to cease to play drums."
+        ],
+        "reason": [
+            "[person_1] could not play drums without drumsticks.",
+            "[person_1] will need treatment.",
+            "Because [person_1] wants to eat chips.",
+            "[person_1] is letting the gun lean on [person_1]'s arm.",
+            "[person_1] may feel happy."
+        ]
+    }
+}

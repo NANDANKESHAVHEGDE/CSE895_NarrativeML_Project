@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting by the desk.",
+            "[person_1] is plastering a wall of a building.",
+            "[person_1] is looking at her leg after waxing.",
+            "[person_1] is taking care of [person_2].",
+            "[person_1] is stacking dices."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] take care of [person_2]?",
+        "answer": [
+            "The [person_1] holds the baby so the [person_2] can see the huge Christmas tree.",
+            "[person_2] is a baby and maybe [person_1] is [person_2] 's father.",
+            "The [person_1] reads something from the book.",
+            "Because [person_1] does the rules of the game.",
+            "The [person_2] is talking to the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will read books.",
+            "[person_1] will continue opening the present for [person_2].",
+            "[person_1] is going to cut the wood.",
+            "Maybe [person_1] will drink water.",
+            "[person_1] will water another plant."
+        ],
+        "reason": [
+            "[person_1] likes sledding.",
+            "[person_1] is sliding downhill.",
+            "[person_1] just started.",
+            "[person_2] is too small and does not know how to open a present.",
+            "People are interested in the story behind [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries?",
+        "answer": [
+            "[person_1] won't be able to lift it.",
+            "[person_1] will scream and dance.",
+            "[person_1] will stop playing flute.",
+            "[person_2] will fall down from [person_2] and the audience will laugh at him.",
+            "[person_1] will coax [person_2] with a gift box."
+        ],
+        "reason": [
+            "[person_2] fills with liquor.",
+            "[person_2] does not wear work gloves , and [person_2] will be easily injured if [person_2] makes a mistake.",
+            "Seeing a performer having a little accident on the stage is a funny thing.",
+            "[person_2] won't be able to play.",
+            "[person_2] seems very interested in the gift box."
+        ]
+    }
+}

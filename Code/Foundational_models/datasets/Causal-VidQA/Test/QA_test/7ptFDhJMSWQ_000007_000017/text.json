@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it a roller skating rink?",
+        "answer": [
+            "There is one person.",
+            "Yes , it is.",
+            "There are two.",
+            "There are 10 people.",
+            "There are a lot of cars."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] roller skating?",
+        "answer": [
+            "Maybe [person_2] is unable to walk.",
+            "[person_2] picks up the cup slowly to avoid falling the dice.",
+            "Because [person_2] is practicing roller blading.",
+            "[person_2] is rubbing [person_2]'s back.",
+            "Because [person_2] is a child."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue singing.",
+            "[person_2] is going to cook.",
+            "[person_2] is going to start reading.",
+            "[person_2] is going to fall down.",
+            "[person_2] is going to keep playing the harp."
+        ],
+        "reason": [
+            "Because [person_1] moves in a hurry.",
+            "[person_2] is falling down on the floor.",
+            "[person_2] has not finished her song yet.",
+            "[person_2] has a camera in his hand.",
+            "[person_2] is very confident."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] keeps balance well?",
+        "answer": [
+            "Maybe [person_1]'s team will be glad.",
+            "[person_1] will not realize what is inside the case.",
+            "[person_1] will start walking.",
+            "[person_1] won't play this game.",
+            "[person_1] won't be hurt."
+        ],
+        "reason": [
+            "[person_1] is just a baby , and babies are very vulnerable to physical injuries.",
+            "It frustrates him that he can't do something so simple.",
+            "if [person_1] doesn't like animals being near [person_1] would make her uncomfortable.",
+            "[person_1] may be a beginner in role skating.",
+            "[person_1] may die if he eats."
+        ]
+    }
+}

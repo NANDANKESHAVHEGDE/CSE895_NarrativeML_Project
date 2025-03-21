@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the picture?",
+        "answer": [
+            "[person_1] is on the left side of [person_1].",
+            "It is in front of the wall.",
+            "[person_1] is near the woman.",
+            "[person_1] is near [person_1].",
+            "It is \u00a0 on the cabinet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing lute?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] and [person_1] are disabled.",
+            "Because [person_1] is looking to saw a piece of wood.",
+            "[person_1] is practicing.",
+            "[person_1] helps [person_1] reduce stress."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep playing.",
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will keep walking.",
+            "[person_1] will probably go on folding the napkin.",
+            "[person_1] will display his good work of the opening."
+        ],
+        "reason": [
+            "[person_1] needs to stand for better air storage.",
+            "[person_1] is practicing.",
+            "Because when the dish is cooked , it needs to be put on a plate.",
+            "[person_1] keeps looking at the book.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The room will be so dark then.",
+            "The lamp will be off.",
+            "[person_1] may not keep jumping.",
+            "[person_1] may not keep talking.",
+            "[person_1] will not continue to take a video."
+        ],
+        "reason": [
+            "The store will be dark.",
+            "The meeting will be stopped.",
+            "The room will be dark.",
+            "[person_1] may stop playing.",
+            "[person_1] may not keep speaking."
+        ]
+    }
+}

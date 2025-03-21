@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] ?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_2] also wants to play the keyboard.",
+            "[person_2] prepares to discover the gifts.",
+            "[person_1] is bathing in [person_2].",
+            "[person_1] is filming a kind of video.",
+            "[person_2] is teaching [person_1] how to arrange tableware."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to continue the rehearsal.",
+            "[person_1] and [person_2] intend to open the gift boxes.",
+            "[person_1] and [person_2] may have a rest.",
+            "Eating the sushi.",
+            "[person_1] and [person_2] may go on trying to push the wheelchair forward."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] know this dance.",
+            "[person_1] and [person_2] want to see gifts.",
+            "[person_1] and [person_2] are very interested in finger snapping.",
+            "After jumping their feet out , [person_1] and [person_2] shift their upper body weight side to side , dip one shoulder then the other.",
+            "There are many different types of cattle that are not following the herd , so [person_1] and [person_2] are going to bring each type of cattle to the correct barn."
+        ]
+    },
+    "counterfactual": {
+        "question": "what if [person_2] doesn't open presents ?",
+        "answer": [
+            "All the people will leave the gym.",
+            "Then [person_2] and [person_2] may not receive the delivery that day.",
+            "Maybe they can't get some water.",
+            "[person_2] will stop jumping.",
+            "[person_2] won't know what's inside the gift box."
+        ],
+        "reason": [
+            "Because it's still in the box.",
+            "[person_2] didn't touch anything.",
+            "The old one can not be ride.",
+            "Because there is no other cup can fit with this juicer.",
+            "[person_2] is helpful."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "The [bottle_1] is big.",
+            "[bottle_1] is next to the windows.",
+            "[bottle_1] is placed on the table.",
+            "The [bottle_1] is big.",
+            "The [bottle_1] is long and big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why was [person_1] speaking?",
+        "answer": [
+            "Because [person_1] wants to capture the moment [person_1] look at itself in the mirror.",
+            "[person_1] was speaking about how to spin the yarn.",
+            "[person_1] is excited about this action.",
+            "Because [person_1] is playing an accordion.",
+            "Because [person_1] is a gong maker and wants to check the product [person_1] has made."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to show how to spin the yarn.",
+            "Perhaps [person_1] is going to jump next.",
+            "[person_1] will play with the cat.",
+            "Perhaps [person_1] is going to come home.",
+            "Maybe [person_1] is going to continue watering."
+        ],
+        "reason": [
+            "Maybe [person_1] will clap his hands.",
+            "The cat is sitting next to [person_1].",
+            "Because [person_1] is speaking and instructing how to spin the yarn.",
+            "[person_1] is resting.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not know how to spin the yarn?",
+        "answer": [
+            "[person_1] may film this video.",
+            "The hands of the [person_1] could be protected from the washing oil.",
+            "[person_1] may film this image.",
+            "[person_1] could not persist for long time without the earphone.",
+            "[person_1] may not film this video."
+        ],
+        "reason": [
+            "Because [person_1] could instruct others to spin the yarn if [person_1] did not know how to do it.",
+            "Both [person_1] and [person_1] didn't stop while the other kept flipping the cake.",
+            "Because [person_1] could not instruct others to spin the yarn if [person_1] did not know how to do it.",
+            "[person_1] is holding a plate.",
+            "Because [person_1] could not instruct others to spin the yarn if [person_1] knew how to do it."
+        ]
+    }
+}

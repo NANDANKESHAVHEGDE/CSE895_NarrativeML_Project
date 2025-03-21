@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is at a grocery store.",
+            "[person_1] is in a guitar shop.",
+            "[person_1] is in a library.",
+            "[person_1] is on a stage.",
+            "[person_1] is outside his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look so professional?",
+        "answer": [
+            "Because [person_1] and [person_1] have gifts.",
+            "Because [person_1] is teaching the children how to exercise.",
+            "Because [person_1] gives the ring to [person_1].",
+            "Because [person_1] is a music star.",
+            "Because [person_1] and [person_1] are having a cup - stacking competition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] may say his creative inspiration.",
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going to teach students how to play violin without any books.",
+            "[person_1] is trying to crawl."
+        ],
+        "reason": [
+            "Because [person_1] dreams of being an outstanding teacher.",
+            "[person_1] is holding a glass of water.",
+            "Maybe [person_1] is having fun.",
+            "[person_1] finishes singing.",
+            "Maybe [person_1] started weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lights is broke?",
+        "answer": [
+            "[person_1] will feel very surprised.",
+            "He will run away.",
+            "[person_1] will feel a little surprised.",
+            "[person_1] would find it difficult to shake the dices.",
+            "[person_1] will feel no surprised."
+        ],
+        "reason": [
+            "Because [person_1] has never encountered this situation.",
+            "Because there would be nothing to protect [person_1] after [person_1] completes his jump.",
+            "Because [person_1] has always encountered this situation.",
+            "If the car has something wrong , the best way is to stop the car.",
+            "Because [person_1] has never encountered this person."
+        ]
+    }
+}

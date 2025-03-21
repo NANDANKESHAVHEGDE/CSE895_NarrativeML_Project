@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a sweatshirt and a sweatpants.",
+            "[person_1] is wearing a black vest.",
+            "[person_1] is wearing a dress.",
+            "[person_1] is wearing jeans and a black jacket.",
+            "[person_1] is wearing a vest."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] invent a wheelbarrow stand?",
+        "answer": [
+            "Because [person_1] can't crush grapes with bare hands.",
+            "Because [person_1] shows the time to finish stacking the cups.",
+            "Because [person_1] wants the wheelbarrow not to fall when no one is holding it.",
+            "Because [person_1] and [person_1] are in the same team so [person_1] and [person_1] wear the same white T - shirts.",
+            "Because [person_1] is a newborn baby."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] will kiss [person_1].",
+            "[person_1] intends to put the bricks on the wheelbarrow.",
+            "[person_1] intends to continue running over the fence.",
+            "[person_1] intends to pull her opponent.",
+            "[person_1] intends to put his phone in pocket."
+        ],
+        "reason": [
+            "Maybe [person_1] is the mother of the girl who is sitting in a wheelchair . They are playing ball together.",
+            "Because [person_1] pushes the wheelbarrow toward the bricks.",
+            "[person_1] is holding the guitar.",
+            "Because [person_1] is following the rule.",
+            "There is a harmonica in the hands of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the wheelbarrow is without a stand?",
+        "answer": [
+            "[person_1] might remake the sausage.",
+            "The wheelbarrow will be overturned and bricks cannot be stacked on it.",
+            "[person_1] would continue to put out the fire.",
+            "The wheelbarrow won't be overturned and bricks cannot be stacked on it.",
+            "[person_1] will be very hurt."
+        ],
+        "reason": [
+            "The structure of the wheelbarrow has only three wheel.",
+            "Because there are two ropes.",
+            "The structure of the wheelbarrow has only one wheel.",
+            "This craft looks more complicated.",
+            "The structure of the wheelbarrow has only two wheel."
+        ]
+    }
+}

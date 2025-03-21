@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [refrigerator_1]?",
+        "answer": [
+            "The [refrigerator_1] is in [refrigerator_1]'s hand.",
+            "[refrigerator_1] is next to [refrigerator_1].",
+            "[refrigerator_1] is in front of [refrigerator_1].",
+            "It is next to the [oven_1].",
+            "The [oven_1] is in the [oven_1]'s hand."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising eyebrows?",
+        "answer": [
+            "[person_1] is playing with paper.",
+            "[person_1] is sitting and playing flute.",
+            "[person_1] is watching the phone.",
+            "[person_1] is put for [person_1] to sit on.",
+            "[person_1] is raising eyebrows very professionally."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Perhaps [person_1] will continue to fold the napkin.",
+            "[person_1] is going to turn the iron.",
+            "[person_1] will continue explaining.",
+            "[person_1] will pick up the large piece of wood in front of it and cut it.",
+            "[person_1] will start cooking meals."
+        ],
+        "reason": [
+            "[person_1] is holding a ball in his hand.",
+            "To show others how to take out the paint roller.",
+            "[person_1] is raising his eyebrows like a wave.",
+            "[person_1] threw the ball through the basket , so [person_1] might want to pick it up.",
+            "Because it seems that [person_1] stops tagging."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The competition may stop.",
+            "The room will be so dark then.",
+            "The room will be dark then.",
+            "[person_1] will stop instructing.",
+            "[person_1] may not keep raising eyebrows."
+        ],
+        "reason": [
+            "The machine will be stopped working.",
+            "[refrigerator_1] may not keep speaking.",
+            "[oven_1] will stop jumping.",
+            "The room very dark.",
+            "The light will be off."
+        ]
+    }
+}

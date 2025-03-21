@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is cleaning a leather boot.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is pointing the champagne to the photographer.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is performing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear the glasses?",
+        "answer": [
+            "He wants to play better.",
+            "The [person_1] is looking for something in the refrigerator.",
+            "[person_1] is nearsighted.",
+            "Maybe [person_1] wants to make sound.",
+            "Maybe [person_1] wants to learn the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to kick the ball.",
+            "[person_1] tends to keep dancing.",
+            "[person_1] is highly likely to enthusiastically perform.",
+            "[person_1] is tends to stop practicing.",
+            "[person_1] will possibly keep playing the flute."
+        ],
+        "reason": [
+            "[person_1] is holding the chessman.",
+            "[person_1] wants to keep his physical health.",
+            "[person_1] is paying attention to this game.",
+            "[person_1] is really in love with the music.",
+            "Cricket is an interesting activity that many people like."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop ripping.",
+            "[person_1] and [person_2] will stop performing.",
+            "[person_2] maybe afraid.",
+            "[person_1] maybe stop eating.",
+            "[person_1] and [person_1] will sweat."
+        ],
+        "reason": [
+            "There is a lot of light shining through the window into the room.",
+            "The light needs electricity to work.",
+            "The lights will not have electricity to glow.",
+            "[person_1] and [person_2] will have to wait for the technical side to handle.",
+            "The burner will turn off."
+        ]
+    }
+}

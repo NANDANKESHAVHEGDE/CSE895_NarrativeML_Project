@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The shirt is beige.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "It is black hair.",
+            "The [person_2] is drinking water."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing?",
+        "answer": [
+            "[person_1] is playing the harp.",
+            "[person_1] wants to play with these big dices.",
+            "They are practicing roller - skating.",
+            "[person_2] is shaving the beard of [person_1].",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to hold the head of [person_1].",
+            "[person_2] is going to continue practicing.",
+            "[person_2] is going to stand on the grass.",
+            "[person_2] is going to raise the hands with the hope of being carried.",
+            "[person_2] is going to jump high."
+        ],
+        "reason": [
+            "[person_1] lets go of [person_2]'s hand and [person_2] walks over to the pancake.",
+            "[person_2] is the wife and is helping [person_1] cut his hair.",
+            "Because [person_1] doesn't put down and still hold [person_2] in her hand.",
+            "[person_1] wants to attract the passers - by.",
+            "[person_1] finds the game very interesting"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beard of [person_1] is shaved?",
+        "answer": [
+            "The beard of [person_1] will look better.",
+            "The [person_1] will not try his best to perform.",
+            "The socks of the [person_1] would be wet.",
+            "[person_1] will leave.",
+            "The [person_1] will not meet difficulties in peeling."
+        ],
+        "reason": [
+            "[person_1] wants to have a rest.",
+            "The orange extractor needs electricity to work.",
+            "[person_1]'s hair is wet , so she will use a hair dryer to dry her hair after combing her hair.",
+            "Shaving is a way to make [person_1] looks more handsome.",
+            "There is no place to sit."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] at?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym.",
+            "[person_1] is in the living room.",
+            "[person_1] is in a snow mountain.",
+            "[person_1] is in the textile factory."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing?",
+        "answer": [
+            "Because [person_1] has to play piano.",
+            "[person_1] is holding flute and playing it.",
+            "Because [person_1] is smoking.",
+            "The [person_1] has just beaten and fallen.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to return and check the [person_1].",
+            "To borrow the bubble machine from [person_1].",
+            "[person_1] is going to put the dice and the cup on [person_1].",
+            "[person_1] will close the door.",
+            "[person_1] is going to watch TV."
+        ],
+        "reason": [
+            "The TV is turned on.",
+            "Because he is practicing golf at home.",
+            "[person_1] tried using that smart phone.",
+            "[person_1] is training.",
+            "Because [person_1] is thirsty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sits on [chair_1]?",
+        "answer": [
+            "[person_1] will feel nervous.",
+            "The [person_1] would record it in the video.",
+            "[chair_1] would be unhappy.",
+            "The [person_1] will perform this song.",
+            "[person_1] won't feel dizzy."
+        ],
+        "reason": [
+            "The number of candles on a birthday cake is very important .",
+            "Smoking hookah has nicotine that makes [person_1] dizzy a bit.",
+            "[chair_1] will stop playing.",
+            "There is a vehicle nearby that can transfer [person_1] and the bike back.",
+            "[chair_1] is made of glass."
+        ]
+    }
+}

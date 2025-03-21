@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the house.",
+            "[person_1] is in the room.",
+            "[person_1] is outside the house.",
+            "[person_1] is in the room"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside the house?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing keyboard.",
+            "[person_1] is \u00a0 standing by her hands.",
+            "[person_1] is playing piano.",
+            "[person_1] can't stand to play the piano."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may turn around.",
+            "[person_1] is going to practice.",
+            "[person_1] may continue to stand there.",
+            "[person_1] may change another tool.",
+            "[person_1] is going to throw another round."
+        ],
+        "reason": [
+            "According to the rules of baseball , [person_1] will score a run - home after hitting the ball outs of the field , so he can freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] picks up the ball and turns around toward the basketball stand.",
+            "[person_1] has completed his part of the test.",
+            "[person_1] is a professional.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's raining?",
+        "answer": [
+            "The tutorial might be harder to comprehend.",
+            "[person_1] would not know what to do in front of the camera.",
+            "Maybe [person_1] will blow the whistle to end the game.",
+            "[person_1] might play in the rain.",
+            "[person_1] will go with that friend."
+        ],
+        "reason": [
+            "Because [person_1] is outside.",
+            "Because [person_1] is the central part of the ceremony.",
+            "[person_1] is right behind [person_1].",
+            "Because [person_1] did not need to look at the camera and talk.",
+            "[person_1] stand straightly on the [person_1]."
+        ]
+    }
+}

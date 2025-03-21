@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a blue sweatshirt.",
+            "[person_1] is wearing a superhero costume.",
+            "The mechanical bull is on the stage.",
+            "[person_1] is wearing a glasses.",
+            "[person_1] is wearing a tank top."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a tank top?",
+        "answer": [
+            "[person_1] is sitting and playing flute.",
+            "[person_1] is outside and it is hot.",
+            "[person_1] wants to keep balance.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is tuning the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What will the woman who is in white T - shirt do next?",
+        "answer": [
+            "[person_1] will land down.",
+            "The girl might eat the meat.",
+            "[person_1] is going to instruction where to plane.",
+            "He may rinse the dog clean with water.",
+            "She will try to join in and play with them together."
+        ],
+        "reason": [
+            "Because the goal position is far . It takes a lot of force to maintain the strength , and the accuracy also needs to be high.",
+            "He is reading for jumping.",
+            "She seems to be ready with the tool on her hands.",
+            "Because she straightened her arm and got ready to do.",
+            "The man on the right only use two binding clips to bind up the bandage , so it's still easy for bandage to move when the man on the left walks."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the camera runs out of battery?",
+        "answer": [
+            "They will use another battery.",
+            "The bottle would be broken.",
+            "The spectators might fall as well.",
+            "[person_1] would get hurt.",
+            "The person will keep rolling the wrists."
+        ],
+        "reason": [
+            "They are filming their skills and tricks.",
+            "When you bandage someone , it's impossible to tie a bow half way.",
+            "[person_1] was trying to push the cart further until she got stuck.",
+            "[person_1] is jumping on one foot therefore she can not keep her balance well so if [person_1] collapses will scare her.",
+            "The food would be burnt on the bottom and undercooked on the top because it is not mixed well."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there?",
+        "answer": [
+            "There is only person.",
+            "There are three.",
+            "They are having a lesson.",
+            "There are two chairs.",
+            "There are 15 cups on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] roast marshmallows?",
+        "answer": [
+            "People are playing musical instruments together.",
+            "To record the scene.",
+            "[person_1] roasts marshmallows carefully.",
+            "[person_1] stomped grapes.",
+            "They are playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_5] do after roasting the marshmallows?",
+        "answer": [
+            "[person_5] will go back to the house.",
+            "[person_5] will eat the marshmallows.",
+            "The [person_5] will pick them up.",
+            "[person_5] will ask the dog to come back.",
+            "[person_5] will stand up."
+        ],
+        "reason": [
+            "[person_5] has watched for a long time and he is hungry.",
+            "[person_5] is tired.",
+            "[person_5] wants to have lunch.",
+            "It will rain.",
+            "Because they are preparing to take actions now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_5] cheers for himself?",
+        "answer": [
+            "Others would cheer for [person_5] together.",
+            "[person_5] will not keep playing.",
+            "Maybe [person_5] will play boxing.",
+            "[person_5] maybe traumatized.",
+            "[person_5] will ask [person_5] to try more times."
+        ],
+        "reason": [
+            "[person_5] is standing under [person_5].",
+            "There should be some skills of breaking the boards and if [person_5] didn't succeed [person_5] will not be happy.",
+            "They would like to encourage [person_5].",
+            "[person_5] is on the top of the building.",
+            "Because [person_5] is running after the snow in the shovel , if the shovel accidentally flies out , it is likely to hit [person_5]."
+        ]
+    }
+}

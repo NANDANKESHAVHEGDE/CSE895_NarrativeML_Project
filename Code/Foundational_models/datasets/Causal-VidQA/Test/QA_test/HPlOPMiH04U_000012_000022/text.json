@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the glass?",
+        "answer": [
+            "[person_2] wears a blue plaid shirt.",
+            "The color of the glass is red.",
+            "[person_2] is wearing a gray shirt.",
+            "It's green.",
+            "The shirt is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_1] and [person_2] are family.",
+            "Because [person_2] is reading a book.",
+            "Because [person_1] is asked to close the door.",
+            "Because [person_1] needs using a lot of force to snatch weight lifting.",
+            "Because the [person_1] wants to test how well the [person_1] door is sealed."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] will kiss [person_2].",
+            "[person_1] intends to put his phone in pocket.",
+            "[person_1] intends to pull her opponent.",
+            "[person_1] intends to go on practicing.",
+            "[person_1] is likely to rest after playing harp."
+        ],
+        "reason": [
+            "Maybe the call is over.",
+            "[person_1] is so happy . [person_1] received present.",
+            "[person_1] is guiding [person_1].",
+            "Maybe [person_1] really likes the phone.",
+            "Maybe [person_1] wants to pluck the strings above."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the dog dies?",
+        "answer": [
+            "[person_2] will cry.",
+            "[person_2] will block that kick.",
+            "[person_2] will laugh.",
+            "[person_2] will put the flowers aside.",
+            "[person_2] will be happy."
+        ],
+        "reason": [
+            "The dog is enermy of [person_2].",
+            "[person_2] is sitting on the [person_2].",
+            "The dog is nothing of [person_2].",
+            "To teach [person_2] until [person_2] has already learned.",
+            "The dog is the pet of [person_2]."
+        ]
+    }
+}

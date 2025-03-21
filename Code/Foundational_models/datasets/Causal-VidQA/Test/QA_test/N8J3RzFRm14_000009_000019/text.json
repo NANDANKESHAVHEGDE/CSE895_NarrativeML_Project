@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a sweatshirt and a sweatpants.",
+            "[person_1] is wearing a beanie.",
+            "[person_1] is wearing a black vest.",
+            "[person_1] is wearing a dress.",
+            "[person_1] is wearing jeans and a black jacket."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] stop playing the keyboard?",
+        "answer": [
+            "By massaging at [person_1]'s neck.",
+            "Maybe [person_1] doesn't know how to type the next paragraph.",
+            "The [person_1] wears glasses to see small bass buttons easier.",
+            "[person_1] doesn't want the cat run away.",
+            "Because it's interesting in winter."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will review the rhythm of the song.",
+            "[person_1] will change the component of the power drill.",
+            "Maybe [person_1] will spread his arms like [person_1].",
+            "[person_1] is going to move on.",
+            "[person_1] will cut the chicken."
+        ],
+        "reason": [
+            "[person_1] holds gong sticks and looks at the sleeping people.",
+            "[person_1] is reaching for the paper on the table.",
+            "Maybe [person_1] is afraid of something.",
+            "Because [person_1] is picking up the cloth to the camera.",
+            "After [person_1] instructs [person_1] to play the piano , [person_1] touches the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will stop the race.",
+            "[person_1] will not have to water the plants.",
+            "[person_1] and [person_1] may stop skating.",
+            "[person_1] will stop watering the plants.",
+            "[person_1] will get wet."
+        ],
+        "reason": [
+            "[person_1] is sitting outside.",
+            "[person_1] will not keep standing outside.",
+            "[person_1] will stop asking.",
+            "[person_1] will go inside.",
+            "[person_1] may stop jumping."
+        ]
+    }
+}

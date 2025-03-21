@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall?",
+        "answer": [
+            "The wall is yellow.",
+            "The wall is white.",
+            "The wall is black.",
+            "The wall is blue.",
+            "The flute is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the floor?",
+        "answer": [
+            "[person_2] and [person_2] are wearing seat belts for safety when riding roller coaster.",
+            "[person_2] is riding a mechanical bull.",
+            "Because [person_2] has to pick up his slipper.",
+            "[person_2] is opening present.",
+            "Maybe [person_2] is dancing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to cut [person_1].",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] is going to sit down.",
+            "[person_1] is going to open present with [person_2].",
+            "Maybe [person_1] is going to continue skiing"
+        ],
+        "reason": [
+            "Because other people is jumping.",
+            "[person_1] is opening present with [person_2].",
+            "It is very sunny to play.",
+            "It is too dark.",
+            "[person_1] may be startled."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] damage the toy?",
+        "answer": [
+            "[person_2] won't play the toy anymore.",
+            "[person_2] would use the hand to eat instead.",
+            "[person_2] will put the clothes in the closet.",
+            "The birds will be scared and fly away.",
+            "[person_2] will see the [person_2]."
+        ],
+        "reason": [
+            "Maybe [person_2] will be very sad.",
+            "Because the [person_2] needs to have a physical examination.",
+            "It is the first time for [person_2] to win this game.",
+            "[person_2] took the food and put it on the [person_2]'s hand , then [person_2] held the [person_2]'s hand to feed the goats.",
+            "There aren't any unfolded clothes on the [person_2]."
+        ]
+    }
+}

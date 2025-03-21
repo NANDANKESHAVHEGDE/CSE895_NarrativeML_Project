@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is under [person_1].",
+            "It is on the right of [person_1].",
+            "[chair_1] is behind [person_1] and [chair_1].",
+            "It is behind [person_1].",
+            "[chair_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in front of mirror?",
+        "answer": [
+            "[person_1] is filming and reading newspaper.",
+            "[person_1] is playing a bass guitar solo.",
+            "It's a habit.",
+            "[person_1] cannot stand the heavy sledgehammer for long time.",
+            "[person_1] is overexcited at this movement."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to put the camera down.",
+            "[person_1] is going to play stacking cups.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to continue trying to take."
+        ],
+        "reason": [
+            "Maybe [person_1] finds it strange.",
+            "Because [person_1] is very happy.",
+            "[person_1] needs to hold the newspaper with one hand and use other hand to turn the page.",
+            "Maybe [person_1] looks thirsty and tired.",
+            "Maybe [person_1] feels dizzy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the camera ran out of power?",
+        "answer": [
+            "[person_1] would stop reading and filming to recharge the camera.",
+            "Then [person_1] wouldn't smile like that.",
+            "[person_1] would not stop reading and filming to recharge the camera.",
+            "The person on the right side has to fix the machine.",
+            "[person_1] would stop reading and filming to break the camera."
+        ],
+        "reason": [
+            "The camera needs to be full of power to keep filming.",
+            "Because it is another way to eat an ice cream.",
+            "The camera doesn't need to be full of power to keep filming.",
+            "The camera can't do this without heavy metal music.",
+            "The camera needs to be lack of power to keep filming."
+        ]
+    }
+}

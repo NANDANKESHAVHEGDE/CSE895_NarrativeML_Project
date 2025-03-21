@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it on the table?",
+        "answer": [
+            "The room is large.",
+            "The room is small.",
+            "It is [bowl_1].",
+            "The room is quite big.",
+            "It is dark."
+        ]
+    },
+    "explanatory": {
+        "question": "How do [person_1] and [person_2] make bubbles?",
+        "answer": [
+            "[person_1] holds a sledgehammer with one hand and and strikes at the tire with the hammer.",
+            "[person_2] is curious about the thing inside the box.",
+            "[person_1] lifts a sledgehammer upon his head and strikes at the tire heavily.",
+            "[person_1] is playing bass guitar.",
+            "[person_1] and [person_2] make bubbles with their mouth."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_2] and [person_1] will try some simpler moves",
+            "Sing the birthday song.",
+            "[person_1] and [person_2] will make a match.",
+            "They will leave the stage.",
+            "[person_1] and [person_2] will continue watching the cheer - leading team."
+        ],
+        "reason": [
+            "To see who can make more bubbles.",
+            "The break time is over.",
+            "[person_1] and [person_2] kept talking about the way to hoop better.",
+            "Since the processing of the iron sheet has been completed , [person_1] and [person_2] need to take it out and replace it with a new iron sheet.",
+            "[person_1] and [person_2] are hosting a cooking show to prepare as many different dishes as possible."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the [bowl_1] falls down?",
+        "answer": [
+            "[person_2] would drop his hat.",
+            "[person_2] will find a mop.",
+            "[bowl_1] might get hurt.",
+            "[bowl_1] wouldn't be hurt.",
+            "The light bulbs would turn off."
+        ],
+        "reason": [
+            "To mop the floor.",
+            "Because the road is relatively flat . It's safe to walk on.",
+            "To finish the task first.",
+            "Because [bowl_1] will calcine [bowl_1].",
+            "Its stem is longer than [bowl_1]."
+        ]
+    }
+}

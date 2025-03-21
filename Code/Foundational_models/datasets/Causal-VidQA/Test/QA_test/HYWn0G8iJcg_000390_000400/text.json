@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing beer pong.",
+            "[person_1] is opening the gift box and happy when seeing the present.",
+            "[person_1] is ripping paper.",
+            "[person_1] is stacking the dices.",
+            "[person_1] is sitting on the sofa."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a bottle?",
+        "answer": [
+            "[person_1] is a conductor and [person_1] is leading the band.",
+            "Because [person_1] is still a baby and he can't walk yet.",
+            "[person_1] is being splashed with water.",
+            "[person_1] is having fun.",
+            "[person_1] is trying to get as many dices stacked in the bottle as possible."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may try to stack the red dices in the bottle.",
+            "[person_1] is going to eat the [person_1].",
+            "Maybe [person_1] is going to sit.",
+            "[person_1] will stop the machine.",
+            "[person_1] is going to open the beer."
+        ],
+        "reason": [
+            "When [person_1] finishes stacking the dices into a column , there is already a line of red dices lying next to him.",
+            "When [person_1] grabs the dices , they are not placed in right order.",
+            "[person_1] smiles shyly and crouches down away from the camera.",
+            "[person_1] jumps to the end of the courts and needs to turn around then keep jumping to complete the game.",
+            "[person_1] must have a destination , maybe work place."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not succeed in stacking the dices.",
+        "answer": [
+            "Nothing changes to the fruit.",
+            "[person_1] will have a rest.",
+            "[person_1] would be hurt on his head.",
+            "[person_1] may try it again.",
+            "[person_1] would get severe injury."
+        ],
+        "reason": [
+            "The audience didn't expect the judge would dance with [person_1] on the stage.",
+            "When [person_1] gets seven dices stacked , he had practiced a few time earlier.",
+            "A good teacher will hang up the any phone calls during his or her class.",
+            "The helmet to protect the head while cycling . So [person_1] would get injury on his head if he did not wear it.",
+            "[person_1] is a child."
+        ]
+    }
+}

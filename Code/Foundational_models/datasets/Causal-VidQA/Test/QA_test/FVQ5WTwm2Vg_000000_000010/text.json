@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is excited about the newspaper.",
+            "[person_1] is feeling happy.",
+            "The man who wears a gray t - shirt wants to move the chair to another place.",
+            "[person_1] is stacking dice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is certain to spray a painting.",
+            "Maybe [person_1] is going to continue skiing",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] may get out of the recording room.",
+            "[person_1] is going to squeeze all the oranges on the table."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is going to enjoy the melody.",
+            "[person_1] is interested in squeezing oranges.",
+            "Because he finished his work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the orange extractor falls on [person_1]?",
+        "answer": [
+            "[person_1] will pick them up and wash them.",
+            "[person_1] will ask someone for help.",
+            "[person_1] will want more water.",
+            "[person_1] will be hurt.",
+            "The rope will get black."
+        ],
+        "reason": [
+            "The [person_1] does not concentrate on working one hundred percent.",
+            "[person_1] may want to clean the bed.",
+            "[person_1] will need to get up higher to avoid dropping the orange extractor.",
+            "They will not agree.",
+            "The injuries may prevent [person_1] from keep sharpening the knife."
+        ]
+    }
+}

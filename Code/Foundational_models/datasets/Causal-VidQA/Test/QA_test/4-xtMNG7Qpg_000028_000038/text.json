@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is an apple?",
+        "answer": [
+            "A plaid shirt.",
+            "[person_2] is in the room.",
+            "[person_2] is red.",
+            "It is in front of [person_1].",
+            "An apple is behind [person_1] and [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] smiling?",
+        "answer": [
+            "[person_1] holds the accordion toy with both her hand.",
+            "[person_1] is watching [person_1] and [person_1] playing badminton.",
+            "Because [person_1] can't snatch weight lifting without the weight lifting.",
+            "[person_1] is happy.",
+            "It's cold and snowy outside."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may keep on dancing with the dolphin.",
+            "[person_2] is going to fold the jeans.",
+            "[person_2] is going to learn to play chess.",
+            "[person_2] is going to keep up with [person_2].",
+            "[person_2] is going to raise his eyebrows."
+        ],
+        "reason": [
+            "[person_2] is still moving fingers on it.",
+            "No one knows what's inside that white box.",
+            "[person_2] thinks dancing is funny.",
+            "[person_2] eyebrows are moving.",
+            "There are a lot of tubes of paint on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_2] will stop practicing.",
+            "[person_2] will not stop high kicking.",
+            "[person_2] will stop watching.",
+            "[person_2] will stop shaking the maracas.",
+            "[person_2] will stop eating."
+        ],
+        "reason": [
+            "The light will not work.",
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "The machine can not be used without power."
+        ]
+    }
+}

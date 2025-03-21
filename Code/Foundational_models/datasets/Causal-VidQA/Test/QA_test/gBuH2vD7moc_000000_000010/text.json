@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color [person_1]'s T - shirt?",
+        "answer": [
+            "It's red.",
+            "It's a glass bottle.",
+            "Treadmill jogging.",
+            "They are playing a game.",
+            "They are skating."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] open the [book_1]?",
+        "answer": [
+            "Because [person_1] is waiting for the command from higher order.",
+            "Because he is given the [book_1] by his present.",
+            "[person_1] holds a sledgehammer to slam at the tire hard.",
+            "Because [book_1] wants to keep the bottle stable for [person_1].",
+            "By riding the horse everyday."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing the parcel?",
+        "answer": [
+            "[person_1] will stop for several seconds.",
+            "[person_1] will go back to the start.",
+            "[person_1] will start to ride again.",
+            "[person_1] cannot wait to open it.",
+            "[person_1] will drop the snack."
+        ],
+        "reason": [
+            "[person_1] is eager to know what it is in the parcel.",
+            "It seems that [person_1] is flipping [person_1] . ",
+            "Maybe [person_1] is hopping.",
+            "[person_1] wants to talk with the other people.",
+            "[person_1] wants to ride the horse."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if power is off?",
+        "answer": [
+            "The plastic rod will suddenly pop up and hit [person_1] on the face.",
+            "[person_1] can't open the [book_1].",
+            "[person_1] will feel surprised.",
+            "[person_1] can open the [book_1].",
+            "The [person_1] would have to stand up and go to the [book_1]."
+        ],
+        "reason": [
+            "Otherwise the dancer will fall easily.",
+            "The room will become dark then.",
+            "[person_1] will complete her work.",
+            "The room will become bright then.",
+            "The hot dog is dirty."
+        ]
+    }
+}

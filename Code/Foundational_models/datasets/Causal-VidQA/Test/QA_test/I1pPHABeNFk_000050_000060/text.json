@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [cup_1]?",
+        "answer": [
+            "It's used to hit people over the head.",
+            "[cup_1] is on the ground.",
+            "[cup_1] is on the grass.",
+            "It is on the shelf.",
+            "[cup_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put every dice on the table?",
+        "answer": [
+            "[person_1] is curious about the harmonica.",
+            "Because [person_1] likes it very much.",
+            "[person_1] shakes each one into [cup_1].",
+            "Perhaps [person_1] feels that doing so would be easier.",
+            "Maybe [person_1] is recording about pipes and how to smoke."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after stacking the dice in [cup_1]?",
+        "answer": [
+            "[person_1] will roast another one.",
+            "[person_1] is going to remove the dice and put each one on the table again.",
+            "[person_1] , [person_1] , [person_1] , [person_1] are going to have a break.",
+            "The person holding the racket is going to play badminton.",
+            "The [person_1] , [cup_1] , and [person_1] are going to obey the man herding them."
+        ],
+        "reason": [
+            "[person_1] is showing the skill to the others and wants them to understand how it works.",
+            "Because there is a towel around [cup_1]'s neck , which is more convenient to wipe.",
+            "[person_1]'s team pulled the [person_1]'s team over a line on the ground.",
+            "[person_1] , [cup_1] , [person_1] , [cup_1] are waiting for opponents who are preparing.",
+            "Because [person_1]'s eyes are still following what others have in their hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't put every dice on the table?",
+        "answer": [
+            "[person_1] would end up with less than four dice to shake.",
+            "Maybe [person_1]'s team will lose.",
+            "[person_1] would start with less than four dice to shake.",
+            "Then [person_1] is not in the mood to record the video.",
+            "[person_1] would end up with more than four dice to shake."
+        ],
+        "reason": [
+            "Because the [person_1] is used to sit.",
+            "A die cannot be shaken without placing on the table first.",
+            "If the car has something wrong , the best way is to stop the car.",
+            "A die can be shaken without placing on the table first.",
+            "We need people to manage these goats in case of they hurt people."
+        ]
+    }
+}

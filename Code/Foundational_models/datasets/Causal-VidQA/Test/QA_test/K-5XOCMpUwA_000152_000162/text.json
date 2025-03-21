@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is reading newspaper.",
+            "[person_2] is practicing playing the cello.",
+            "The boy couldn't move the guitar out.",
+            "[person_2] can't stand to play the piano.",
+            "[person_2] is putting on make - up for [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "It is probable that [person_2] will continue to play the cello.",
+            "[person_2] is going to cut the extra strings.",
+            "[person_2] will be the next one to do a back flip.",
+            "[person_2] will keep slamming [person_2]'s hand on the table and then knocking [person_2]'s pen down.",
+            "[person_2] is likely to give information for [person_2]'s partner."
+        ],
+        "reason": [
+            "Because [person_2] wants share [person_1] with [person_1].",
+            "Maybe [person_2] is practicing with [person_1].",
+            "Because [person_2] wants to blend the food and spices.",
+            "[person_2] is sitting on the [person_2].",
+            "[person_2] is a long - jumper?"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "[person_2] will find another machine to do the exercise.",
+            "[person_2] maybe continue playing cello.",
+            "He will knock on the tree.",
+            "[person_2] maybe stop playing cello.",
+            "Everyone will stop doing sports."
+        ],
+        "reason": [
+            "The room will be bright.",
+            "Because they can't play then.",
+            "The room will be dark.",
+            "To fix the equipment.",
+            "The room won't be dark."
+        ]
+    }
+}

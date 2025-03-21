@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is in the house.",
+            "It is in the garden.",
+            "[car_1] is on the street.",
+            "The [car_1] is round.",
+            "It's in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside?",
+        "answer": [
+            "[person_1] is singing.",
+            "[person_1] is sitting on chair and playing instrument.",
+            "[person_1] is performing outdoor on the street.",
+            "[person_1] wants to produce sound with the maracas.",
+            "[person_1] is showing how to play maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] do?",
+        "answer": [
+            "[person_1] is an assistant.",
+            "[person_1] is a street performer.",
+            "[person_1] will have something tattooed on the right foot of [person_1].",
+            "[person_1] will go back to work.",
+            "[person_1] will pass the ball to his teammates."
+        ],
+        "reason": [
+            "[person_1] is standing at the front , the others are dancing in imitation of his movements.",
+            "[person_1] is carrying the built - it winch strap.",
+            "[person_1] is performing on the street with his guitar.",
+            "[person_1] is holding an unopened present on his lap to open it next.",
+            "[person_1] and [person_1] are performing very professionally."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it suddenly rained?",
+        "answer": [
+            "Workers will find out the problem.",
+            "[person_1] would find a place to shelter.",
+            "Then the people here have to stop kicking.",
+            "[person_1] may not work.",
+            "The horse will stop."
+        ],
+        "reason": [
+            "Because the temperature will change soon.",
+            "To make sure the performance goes smoothly.",
+            "To put out the fire with water.",
+            "[person_1] does not have any raincoat.",
+            "[person_1] and [person_1] are standing while the car is running , which is very dangerous."
+        ]
+    }
+}

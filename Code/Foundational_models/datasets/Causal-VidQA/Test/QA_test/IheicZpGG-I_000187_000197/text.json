@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is on the [person_2].",
+            "[person_2] is standing between [person_1] and [person_3].",
+            "[person_2] is at the basketball court.",
+            "[person_2] is sitting close to the camera.",
+            "[person_2] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] nod?",
+        "answer": [
+            "[person_2] is standing on hands.",
+            "[person_2] is exercising.",
+            "[person_2] and [person_2] may be in a competition.",
+            "[person_2] is doing a workout in a great way.",
+            "[person_2] is satisfied with the performance."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_3] do next?",
+        "answer": [
+            "[person_1] and [person_1] will change dancing actions.",
+            "[person_1] and [person_1] will look for the eggs.",
+            "[person_1] and [person_3] will continue performing.",
+            "[person_1] and [person_1] will keep watching TV.",
+            "[person_1] and [person_3] will rest next."
+        ],
+        "reason": [
+            "[person_1] and [person_1] are moving all the time , without stopping.",
+            "Because it is too hot on the shore and they all wear swimming suits , so they will go swimming in the sea.",
+            "It is clear that they enjoy the game a lot.",
+            "To record the moment.",
+            "[person_1] and [person_3] has not finished the performance yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] and [person_2] did not perform well?",
+        "answer": [
+            "[person_2] would scream out.",
+            "[person_2] would not nod head.",
+            "[person_1] would be tired.",
+            "[person_1] could not construct the stair.",
+            "[person_2] will ask [person_1] for help."
+        ],
+        "reason": [
+            "[person_2] is not satisfied with the performance.",
+            "[person_1] will not stop jumping high.",
+            "[person_2] doesn't finish the roasting.",
+            "The javelin was thrown at a very high speed ; thus it could cause grievous injury for any one got hit.",
+            "[person_1] has to take a break from practice."
+        ]
+    }
+}

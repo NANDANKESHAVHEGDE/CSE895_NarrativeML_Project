@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "It is behind [person_2].",
+            "It is on the wall.",
+            "It is on the bookshelf.",
+            "[couch_1] is standing beside the sink.",
+            "Four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] opening [book_1]?",
+        "answer": [
+            "To lift the shirt in [person_1]'s hand to look at it.",
+            "Because [person_1] helps [person_2] open the book.",
+            "[person_2] pushed the chair [person_1] lying on.",
+            "[person_2] is a child and needs help.",
+            "Because [person_2] is still a baby and he can't walk yet."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to fall down.",
+            "[person_2] is going to have fun with the gift.",
+            "[person_2] is going to keep stomping grapes.",
+            "[person_2] is going to continue chewing.",
+            "[person_2] is going to start reading."
+        ],
+        "reason": [
+            "The camera was still there.",
+            "Next , it is [person_2]'s turn.",
+            "[person_2] feels tired.",
+            "Maybe [person_2] likes reading book.",
+            "Because [person_2] is shotting a video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_2] didn't open?",
+        "answer": [
+            "[chair_2] would not have to adjust the camera.",
+            "The dog would not be rewarded.",
+            "The back of the girl nearby might bleed.",
+            "[chair_2] would not be able to move on the mob.",
+            "[person_2] wouldn't be able to read the book."
+        ],
+        "reason": [
+            "[book_1] was hard to open.",
+            "The crossbar fell to the ground.",
+            "[chair_2] is not familiar with it.",
+            "It is an important event.",
+            "[chair_2] would still look at the camera."
+        ]
+    }
+}

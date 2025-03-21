@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the fan?",
+        "answer": [
+            "[person_2] is white.",
+            "The fan is on the table.",
+            "[person_2] is on the ground.",
+            "The fan is in upper left corner.",
+            "The color of [person_1] is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting in this room?",
+        "answer": [
+            "Because [person_2] need to be in the sun.",
+            "Because [person_1] and [person_2] are shining shoes in this room.",
+            "[person_1] , [person_2] and [person_1] are playing together.",
+            "[person_1] is taking care of [person_2].",
+            "[person_1] wants to check his position."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_2] intends to keep shaking the glass bottle.",
+            "[person_2] intends to continue polishing shoes.",
+            "[person_2] intends to land on her back.",
+            "[person_2] intends to push the wheelchair around the field and kick the ball.",
+            "[person_2] intends to keep touching in the piano."
+        ],
+        "reason": [
+            "Maybe [person_2] is an infant so he really likes the sound.",
+            "[person_2] is holding the towel to clean shoes.",
+            "[person_2] kick the ball back to a friend but [person_2] but his feet didn't touch the ball.",
+            "[person_2] is in a position about to lift weights.",
+            "Perhaps [person_2] doesn't have a mirror so [person_2] can't apply lipstick by herself."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_2] do if [person_2] finishes shining the shoes in the hands?",
+        "answer": [
+            "[person_2] will not drink any water.",
+            "[person_2] will shine other shoes.",
+            "[person_2] will approach [person_2] and feed the goats with [person_2] together.",
+            "Food will scorch.",
+            "[person_2] and [person_2] will not attract the birds."
+        ],
+        "reason": [
+            "When [person_2] performs , there are many people watching him.",
+            "There are still many unpolished shoes on the floor.",
+            "It would be poured away by the strong force.",
+            "[person_2] will pick it up.",
+            "The knife is sharp and the wound will be deep."
+        ]
+    }
+}

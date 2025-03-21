@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather now?",
+        "answer": [
+            "It is orange.",
+            "The scooter.",
+            "It is floral pattern.",
+            "Snowy.",
+            "The carpet is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] , [person_2] and [person_3] wear down coats?",
+        "answer": [
+            "[person_2] is watching [person_1] and [person_3] playing badminton.",
+            "It's cold and snowy outside.",
+            "[person_1] wants to grind them.",
+            "[person_2] is confused.",
+            "Because [person_1] finished in short time."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to the snow on the ground?",
+        "answer": [
+            "The snow on the road will be much thinner than before.",
+            "When the kicking is over.",
+            "[person_3] will keep working on the perfection of the painting.",
+            "The snow will pile up.",
+            "The owner of the computer may shut it down."
+        ],
+        "reason": [
+            "Because the [person_1] is running forward.",
+            "The snow is falling harder and harder.",
+            "[person_2] is passing it to someone.",
+            "Because they need to go to another place.",
+            "Because the car is turning over."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the snow stops?",
+        "answer": [
+            "[person_2] may hit the wall.",
+            "[person_1] , [person_2] and [person_3] will throw the snow.",
+            "[person_1] would bend down to pick the plate up.",
+            "[person_1] , [person_2] and [person_3] will clear the snow.",
+            "[person_2] will serve customer."
+        ],
+        "reason": [
+            "The judges can not see the acting.",
+            "In case of slipping down.",
+            "To clean up the mirror first.",
+            "In case of slipping up.",
+            "The microphone needs to be fixed so everyone in the room can hear the accordion."
+        ]
+    }
+}

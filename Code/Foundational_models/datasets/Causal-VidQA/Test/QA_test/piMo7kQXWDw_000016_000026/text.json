@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It's red.",
+            "It's blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] walking next to [person_1]?",
+        "answer": [
+            "[person_2] wants to lie on the snow.",
+            "Maybe [person_1] had an accident.",
+            "[person_2] is helping [person_1] practice roller skating.",
+            "The [person_1] is talking to the [person_1].",
+            "Two hands can hold and play the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will keep holding [person_1].",
+            "[person_2] is going to stop hugging [person_2].",
+            "[person_2] will practice riding a bike.",
+            "[person_2] will learn to [person_1].",
+            "[person_2] will pass the balloon to [person_2]."
+        ],
+        "reason": [
+            "[person_2] will share the way to skate better.",
+            "[person_2] dropped the hoop and went away.",
+            "[person_2] wants to be a winner in this game.",
+            "[person_2] is showing how to use roller skate.",
+            "[person_2] is performing in public."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] was more confident?",
+        "answer": [
+            "Singing birthday song.",
+            "[person_1] might misunderstand [person_1].",
+            "Someone would fall onto the ground.",
+            "[person_1] would skate faster.",
+            "[person_1] would not cry."
+        ],
+        "reason": [
+            "The melody of the song would not be true.",
+            "[person_1] would not need the help.",
+            "[person_1] can stop the sled.",
+            "[person_1] might win the next competition.",
+            "[person_1] would need to get his tool unstuck from the sheep's fur so he could continue."
+        ]
+    }
+}

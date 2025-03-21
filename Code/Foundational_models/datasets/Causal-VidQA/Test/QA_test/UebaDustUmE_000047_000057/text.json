@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of upper cloth [person_1]?",
+        "answer": [
+            "The dress is black.",
+            "The room is painted in yellow.",
+            "Adidas.",
+            "Green.",
+            "Yes , she is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] twist the button on the microscope?",
+        "answer": [
+            "Because [person_1] has to adjust the magnification.",
+            "Because [person_1] is arranging the cups.",
+            "[person_1] turns around to go to the mirror.",
+            "Because [person_1] wants to play the gong.",
+            "The [person_1] is eating."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to break.",
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to rip paper.",
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] is going to pull up the [chair_1] and sit down."
+        ],
+        "reason": [
+            "[person_1] is very cool.",
+            "People are interested in the story behind [person_1].",
+            "[person_1] stood up too far from the microscope.",
+            "[person_1] needs to recover.",
+            "[person_1] just started."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] didn't adjust the lens at first?",
+        "answer": [
+            "[person_1] will be very upset.",
+            "The observation will be inaccurate.",
+            "[person_1] may lower his leg and relax.",
+            "Then they may have diarrhea.",
+            "They would find water to drink."
+        ],
+        "reason": [
+            "All the eating utensils on [person_1] would fall to the ground.",
+            "That's the rule of this game.",
+            "After shucking the oysters , [person_1] must be kept the oysters cold.",
+            "The ground is not stable and [person_1] rode at high speed.",
+            "Microscopes need to be used correctly to work."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is in the back of [person_1].",
+            "It is in front of the [person_1].",
+            "[potted plant_1] is outside the room and it is in front of [person_1]?",
+            "[potted plant_1] is in front of [person_1].",
+            "[potted plant_1] is in front of the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] flipping the book?",
+        "answer": [
+            "Because [person_1] is joining the competition.",
+            "Because [person_1] has already read in that page and wants to read the next page.",
+            "Because [person_1] is snatching weight lifting.",
+            "Maybe [person_1] is being treated for insomnia.",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to take another golf out from the basket.",
+            "[person_1] is going to have a rest for a moment.",
+            "[person_1] is going to run to the first position.",
+            "[person_1] may continue to deal cards.",
+            "[person_1] might continue to turn to the next page."
+        ],
+        "reason": [
+            "Because [person_1] still has cards in hands.",
+            "Because [person_1] has probably read all that page so [person_1] might continue to turn to the next page.",
+            "It seems that there are some cups on the table and [person_1] pays attention on it.",
+            "Because [person_1] wants the woman to be happy.",
+            "Because [person_1] just changed the position to let others see more clearly and now [person_1] is going to do the action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [book_1] fell from [person_1]'s hand?",
+        "answer": [
+            "She might remove it with nail remover.",
+            "The balance might be controlled a little bit more.",
+            "[person_1] will not be able to teach.",
+            "[person_1] might bow down.",
+            "[person_1] will stop running."
+        ],
+        "reason": [
+            "Because things would be messy in [book_1].",
+            "The cat is so lovely.",
+            "[person_1] might bow down to pick up [book_1].",
+            "[person_1] needs to rest.",
+            "Lying on the [person_1] makes taking breath more difficult than sitting."
+        ]
+    }
+}

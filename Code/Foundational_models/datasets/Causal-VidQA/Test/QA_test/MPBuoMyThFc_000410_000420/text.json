@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a tie?",
+        "answer": [
+            "It is quite dark.",
+            "Yes.",
+            "The [person_1] is red.",
+            "It is black.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] point at the inhaler?",
+        "answer": [
+            "[person_1] is performing his techniques.",
+            "[person_1] is having a practice match.",
+            "[person_1] rides it well.",
+            "[person_1] wants us to see the calibration.",
+            "[person_1] enjoys riding horse."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after showing the inhaler?",
+        "answer": [
+            "[person_1] will tell us what does the calibration mean.",
+            "[person_1] will eat another.",
+            "[person_1] will put down the inhaler quietly.",
+            "[person_1] will go to the park.",
+            "The man will continue to wrap the rope around the Christmas tree."
+        ],
+        "reason": [
+            "It seems that [person_1] is eager to know what it is.",
+            "After cutting the apple , the knife becomes dirty.",
+            "Because they need it to travel quickly.",
+            "To congratulate on the proposal.",
+            "[person_1] is pointing at the calibration."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a cat jumps onto the table?",
+        "answer": [
+            "The boy will unfold it.",
+            "[person_1] will break down the table.",
+            "Then the bareheaded man will not have a model.",
+            "[person_1] will tidy up the table.",
+            "[person_1] will fall to the ground."
+        ],
+        "reason": [
+            "[person_1] has had two kicks only.",
+            "The things on the table will fall onto the ground and in a mess.",
+            "To buy a new bubble machine.",
+            "The things under the table will fall onto the ground and in a mess.",
+            "There is no one around the little girl can catch her."
+        ]
+    }
+}

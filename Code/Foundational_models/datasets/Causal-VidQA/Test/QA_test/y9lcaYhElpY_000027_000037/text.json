@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [car_1]?",
+        "answer": [
+            "The [car_1] is dark brown and white.",
+            "It is lying on the floor.",
+            "[car_1] is white.",
+            "It is in the garden.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "Riding a mechanical bull very easy to play with [person_1].",
+            "[person_1] is opening present.",
+            "[person_1] is playing flute in the room.",
+            "Because [person_1] can somersault.",
+            "[person_1] is playing music with the bass guitar that [person_1] is holding."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will separate the two legs.",
+            "[person_1] will continue finishing the puzzle.",
+            "[person_1] will have a trip by riding a mechanical bull.",
+            "[person_1] continues to play the keyboard.",
+            "[person_1] will look at the instructions."
+        ],
+        "reason": [
+            "Riding a mechanical bull is very easy with [person_1].",
+            "Because [person_1] feels tired.",
+            "Because [person_1] has already massaged the left foot of the customer.",
+            "[person_1] is looking at [person_1] who is jumping.",
+            "Because lifting up the car will be more convenient for [person_1] to fix the car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slips?",
+        "answer": [
+            "Maybe somebody can't understand what [person_1] is doing.",
+            "[person_1] would drop the gun onto the ground.",
+            "The [person_1] will go home.",
+            "Maybe [person_1] will hurt.",
+            "[person_1] will be seriously injured."
+        ],
+        "reason": [
+            "[person_1] will have an accident.",
+            "The atmosphere for dancing will be ruined that way.",
+            "They took the game as funny and they were not hungry enough.",
+            "[person_1] stands next to the pool.",
+            "[person_1] is careful."
+        ]
+    }
+}

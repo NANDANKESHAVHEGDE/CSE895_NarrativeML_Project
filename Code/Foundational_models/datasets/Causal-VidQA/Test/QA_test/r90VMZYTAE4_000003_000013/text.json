@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_2]?",
+        "answer": [
+            "[person_1] is behind [person_1] and on the table.",
+            "[person_2] is sitting between [person_3] and [person_1].",
+            "It is on the right of [person_1].",
+            "[person_2] is located to the right of the back of [person_2].",
+            "[person_2] is sitting on [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] smile?",
+        "answer": [
+            "Because [person_1] is asking someone taller than him for help.",
+            "[person_1] finds playing drums very appealing to her.",
+            "because [person_1] feels happy when [person_1] plays with [person_2] and [person_3].",
+            "[person_1] doesn't like [person_2]'s present.",
+            "[person_3] is performing in a contest."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to dance.",
+            "[person_3] will finish the practice time.",
+            "[person_3] is going to finish her song.",
+            "[person_3] is going to throw a snowball forward.",
+            "[person_3] may pickup the water bottle."
+        ],
+        "reason": [
+            "[person_3] is a judge.",
+            "Because [person_3] caught the ball.",
+            "[person_3] is leaning toward the mirror.",
+            "because it was turn of [person_3] after [person_1] and [person_2] finished snowballing.",
+            "[person_3] is playing against [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] , [person_2] and [person_3] feel cold?",
+        "answer": [
+            " [person_1] and [person_2]'s parents will come here.",
+            "[person_1] will cry and shout.",
+            "[person_1] and [person_2] will be drunk.",
+            "[person_1] , [person_2] and [person_3] will come inside the house.",
+            "[person_1] and [person_2] will have a good chat next."
+        ],
+        "reason": [
+            "[person_1] and [person_2] hardly dance well when being tired.",
+            "[person_1] and [person_2] are doing the challenge on stage.",
+            "it is snowy so that [person_1] , [person_2] and [person_3] can get a cough.",
+            "[person_1] loves the cute dog.",
+            "[person_1] is not in a hurry to use wood , [person_1] can come back and continue."
+        ]
+    }
+}

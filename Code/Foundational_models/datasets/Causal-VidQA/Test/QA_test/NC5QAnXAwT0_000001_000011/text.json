@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing with toy cars.",
+            "[person_1] is skiing jumping.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] is stomping grapes.",
+            "[person_1] is using smoking pipe."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a helmet?",
+        "answer": [
+            "Because [person_1] tries to clamp the beer cap with his belly meat.",
+            "[person_1] raises [person_1]'s head to look directly at the camera.",
+            "Because helmet keeps [person_1] from getting hurt.",
+            "Because [person_1] needs the weight lifting to practice snatching.",
+            "Because [person_1] is snatching weight lifting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to ski again.",
+            "[person_1] is going to spread the whipped cream over the [person_1] until it is done perfectly.",
+            "[person_1] is going to continue the snaps.",
+            "[person_1] is going to skateboard."
+        ],
+        "reason": [
+            "[person_1] of face is very satisfied.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] likes ski jumping.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] eats too much."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "Maybe [person_1] will get hurt.",
+            "[person_1] will stand up.",
+            "Maybe [person_1] will get healthy.",
+            "[person_1] will need help to stand up.",
+            "Maybe [person_1] will prevent hurt."
+        ],
+        "reason": [
+            "The slope has a dangerous man.",
+            "[person_1] fell on the field and could be seriously injured.",
+            "The slope has a safe height.",
+            "[person_1]'s parents think it's their fault.",
+            "The slope has a dangerous height."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is wearing a white T - shirt.",
+            "The [person_1] is wearing a white tank top and black shorts.",
+            "The [person_1] is wearing a brown cowboy hat.",
+            "The [person_1] is doing exercise.",
+            "The [person_1] is wearing a long sleeve T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] do exercise?",
+        "answer": [
+            "[person_1] is instructing the camera how to play the song he's about to play.",
+            "The [person_1] steps forward with one foot and other foot is on his knee.",
+            "[person_1] is talking about his work.",
+            "[person_1] is shredding the paper.",
+            "[person_1] is excited about his action."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may turn back and walk more.",
+            "The [person_1] may play accordion more to feel great.",
+            "The [person_1] may not be startled again.",
+            "The [person_1] is going to continue to play pillow fight with the girl.",
+            "The [person_1] is going to do more reps."
+        ],
+        "reason": [
+            "Because the [person_1] is continue to step forward with one foot and other foot is on his knee.",
+            "The [person_1] is still holding the shovel.",
+            "The [person_1] keeps eyes on the [person_1] and wants to kick it.",
+            "The [person_1] is still standing next to the horse and petting the horse.",
+            "The [person_1] is going toward the grass."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] stops to do exercise?",
+        "answer": [
+            "[person_1] will drink all the water in [person_1].",
+            "The [person_1] would be hit by the [person_1].",
+            "The [person_1] takes a rest.",
+            "The cat will remind the [person_1].",
+            "[person_1] will ask for help."
+        ],
+        "reason": [
+            "Because [person_1] is doing enough reps.",
+            "Some food is flowing from [person_1]'s mouth now.",
+            "Because surrounding [person_1] is floor and wall , when [person_1] drops the baby bottle , the bottle is on the floor.",
+            "Because [person_1] is too upset to make food by himself.",
+            "Because he did it too fast and [person_1] spilled the cup."
+        ]
+    }
+}

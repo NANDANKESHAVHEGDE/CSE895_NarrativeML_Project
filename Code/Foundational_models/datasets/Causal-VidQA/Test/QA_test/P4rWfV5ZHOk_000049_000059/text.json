@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [donut_1]?",
+        "answer": [
+            "[donut_1] is behind [donut_1].",
+            "No.",
+            "It is black.",
+            "A pair of sunglasses.",
+            "[donut_1] is on the hands of [donut_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] practices?",
+        "answer": [
+            "For the convenience of controlling her hair.",
+            "He need the strong body.",
+            "[person_1] got a gift.",
+            "Maybe [person_1] wants to practice carefully.",
+            "The weather is hot."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the full preparation?",
+        "answer": [
+            "[person_1] would like to eat more.",
+            "Very soon.",
+            "The [person_1] will practice riding.",
+            "[person_1] will begin to work out as usual.",
+            "[person_1] may celebrate for the performance."
+        ],
+        "reason": [
+            "This work must be a physically consuming work.",
+            "[person_1] looks very strong and goes to gym often.",
+            "Maybe [person_1] is the employer.",
+            "[person_1] is tired.",
+            "The strenuous exercise is physically consuming."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if power is off?",
+        "answer": [
+            "There will be dark.",
+            "The competition would be called off.",
+            "The room will become dark.",
+            "Maybe the athletes won't play.",
+            "[person_1] can't practice."
+        ],
+        "reason": [
+            "Otherwise the dancer will fall easily.",
+            "[person_1] will complete her work.",
+            "The room will become dark then.",
+            "The weight of weight lifting is too much for him.",
+            "The hot dog is dirty."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the hat on [person_2]'s head?",
+        "answer": [
+            "It looks like a hand.",
+            "White.",
+            "It's short curly hair.",
+            "The shirt is black.",
+            "The [person_2] is drinking water."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] keep watching the bubble in the air?",
+        "answer": [
+            "[person_2] is a baby.",
+            "Because the [person_2] has just bought this machine.",
+            "[person_2] wants to stack the dice.",
+            "Because [person_2] can't snatch weight lifting without the weight lifting.",
+            "Because [person_2] wants to see where the bubble will be."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will certainly continue his performance.",
+            "[person_1] will probably practice.",
+            "[person_1] will continue the treatment process.",
+            "[person_1]'ll count the money.",
+            "Take [person_2] home."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "Because [person_1] does want to fall down.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference.",
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "Because [person_1] is tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the bubble water is used up?",
+        "answer": [
+            "[person_1] will take [person_2] home.",
+            "They would continue to dance.",
+            "[person_1] will take [person_2] away from home.",
+            "[person_2] would be in the risk of falling down.",
+            "[person_1] will take [person_2] to the game."
+        ],
+        "reason": [
+            "Because there are some bubble water.",
+            "Because there are two ropes.",
+            "Because there are any bubble water.",
+            "Whether the performance is good or not depends on its score.",
+            "Because there are not any bubble water."
+        ]
+    }
+}

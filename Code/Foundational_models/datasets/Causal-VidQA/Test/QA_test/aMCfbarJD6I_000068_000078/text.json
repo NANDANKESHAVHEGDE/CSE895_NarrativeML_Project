@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "The dog is behind [person_1].",
+            "It is black.",
+            "It rains.",
+            "It is cloudy.",
+            "It is very dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding unicycle?",
+        "answer": [
+            "To detect rubbish.",
+            "[person_1] is afraid.",
+            "The [person_1] is avoiding the plate of the [person_1].",
+            "[person_1] is performing.",
+            "To ensure a clean laboratory environment."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to raise both hands.",
+            "[person_1] is going to ride the unicycle.",
+            "[person_1] may be busy cutting pumpkins for a while.",
+            "[person_1] is going to put the dressing on the cake.",
+            "[person_1] is going to continue playing the bagpipes."
+        ],
+        "reason": [
+            "The hamburger is not over yet.",
+            "[person_1] is having his turn next.",
+            "[person_1]'s left leg is off the fence.",
+            "[person_1] is going to start sleeping.",
+            "[person_1] is excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not know how to ride a unicycle?",
+        "answer": [
+            "The [person_1] would fall down.",
+            "[person_1] would keep feeding [person_1].",
+            "[person_1] would ask his friend to teach him.",
+            "Perhaps [person_1] would jump on [person_1].",
+            "Maybe [person_1] is not happy."
+        ],
+        "reason": [
+            "[person_1] bent his knees to balance his body.",
+            "Clothes would be stained by food.",
+            "The scenery outside may make [person_1] feel happy.",
+            "A good band is always open to try new things.",
+            "It is a difficult sport."
+        ]
+    }
+}

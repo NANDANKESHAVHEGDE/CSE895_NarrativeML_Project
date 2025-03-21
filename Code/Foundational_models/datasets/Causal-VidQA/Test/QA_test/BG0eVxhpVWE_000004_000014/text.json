@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bicycle_1]?",
+        "answer": [
+            "[bicycle_1] is being controlled by [person_1].",
+            "the [bicycle_1] is on the floor.",
+            "A handful of mushrooms.",
+            "No.",
+            "[person_1] is wearing a hat on the head of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding [bicycle_1]?",
+        "answer": [
+            "The [person_1] reduces the tone of accordion.",
+            "Because the [person_1] cleaned the [person_1].",
+            "[person_1] finds stomping the grapes funnier than [bicycle_1] does.",
+            "[person_1] wants to go to somewhere by [bicycle_1].",
+            "Because [person_1] wants to weave the fabrics herself."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after the preparation?",
+        "answer": [
+            "[person_1] will lay the bags in a warehouse.",
+            "[person_1] will begin to ride [bicycle_1] . ",
+            "[person_1] will roll the sushi up.",
+            "[person_1] will infuse them one by one.",
+            "The man standing beside [person_1] is going to do massage for [person_1]."
+        ],
+        "reason": [
+            "It seems that [person_1] is moving forward quickly.",
+            "Because the wind is strong , the wind may get into the stomach.",
+            "Because they have nothing else to do.",
+            "The power went out and the treadmill didn't work.",
+            "[person_1] stands still to look [person_1] away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] would find a place for a shelter.",
+            "[person_1] would find a different place to drink.",
+            "[person_1] would not find a place for a shelter.",
+            "They will not visit here.",
+            "[person_1] would lose a place for a shelter."
+        ],
+        "reason": [
+            "[person_1] is outside and the road would be too slippery to skate under the rain.",
+            "[person_1] have an umbrella.",
+            "[person_1] is right behind them and the can can prevent rain from the getting the people wet.",
+            "[person_1] doesn't have an umbrella.",
+            "Candles can not light up under the rain."
+        ]
+    }
+}

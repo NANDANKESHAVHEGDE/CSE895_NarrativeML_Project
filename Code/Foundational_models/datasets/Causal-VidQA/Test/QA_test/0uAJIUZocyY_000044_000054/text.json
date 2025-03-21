@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [tv_1] big?",
+        "answer": [
+            "Yes , it is.",
+            "No , it is not.",
+            "There are a lot of pictures.",
+            "The color of the [tv_1] is orange.",
+            "[tv_1] is sitting on the ground."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting in a [chair_1]?",
+        "answer": [
+            "Because [person_1] is playing in the room.",
+            "Maybe [person_1] wants to practice kickball.",
+            "[person_1] is directing [person_2] to put the disk in the right place on the table.",
+            "Because [person_2] is watching [person_1].",
+            "The [person_2] is reading a book which is on the table."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to drink all wine in the glass.",
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to drink wine.",
+            "[person_1] intends to use the wheelchair.",
+            "[person_1] intends to use the tip of his finger to gently push the contact lens out."
+        ],
+        "reason": [
+            "[person_1] is playing cymbals very enthusiastically.",
+            "[person_1] is in the library.",
+            "[person_1] wore ice skates and used ice hockey stick to hit the puck.",
+            "[person_1] is practicing pushing the ball into the goal.",
+            "[person_1] is moving in a wheelchair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not know how to use a wheelchair?",
+        "answer": [
+            "[person_1] will learn to ride a wheelchair.",
+            "[person_1] will find a wall.",
+            "[person_1] may become very popular.",
+            "The rhythm that [person_1] creates would not be interrupted.",
+            "[person_1] will look professionally."
+        ],
+        "reason": [
+            "[person_1] will want to continue smoking.",
+            "[person_1] would have nothing to be praised about.",
+            "[person_1] will have difficulty moving.",
+            "The scouring pad has foam and washing liquid . The scouring pad could make the spoons dirty.",
+            "[person_1]'s books are all in his bag."
+        ]
+    }
+}

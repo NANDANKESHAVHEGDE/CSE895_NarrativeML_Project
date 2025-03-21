@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is snatching weight lifting.",
+            "[person_1] is cleaning a leather boot.",
+            "[person_1] is performing.",
+            "[person_1] is practicing field hockey.",
+            "[person_1] is riding a horse."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] using a towel to clean the boot?",
+        "answer": [
+            "Because [person_1] is a referee.",
+            "White makes the room brighter.",
+            "[person_1] turns the tablecloth over to be able to tap the pen on the table.",
+            "For fear that the liquid splashes out as soon as being opened.",
+            "the leather boot is easy to clean with a towel."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop watering.",
+            "[person_1] may continue to dry his hands.",
+            "[person_1] is going to follow the camera.",
+            "[person_1] may clean the table.",
+            "[person_1] may clean the boot one more time."
+        ],
+        "reason": [
+            "[person_1] is riding to some place.",
+            "[person_1] is running in a certain direction.",
+            "[person_1] is playing hide and seek.",
+            "[person_1] is bringing the towel from the toe to the sole of the boot.",
+            "[person_1] is watering the plants."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes cleaning the boot?",
+        "answer": [
+            "The kitchen table can be cleaner.",
+            "[person_1] won't play the toy anymore.",
+            "[person_1] and [person_1] will give up making the snowman.",
+            "[person_1] will open the faucet to wash the boot.",
+            "[person_1] will pick the ball out."
+        ],
+        "reason": [
+            "[person_1] wants to wet the towel with water from the faucet to clean the boot.",
+            "It costs too much time to build a snowman.",
+            "Plants can't live without water.",
+            "Because the box is dropped by [person_1].",
+            "[person_1] needs to go on foot to push the cart."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is Santa Claus teddy bear?",
+        "answer": [
+            "The [person_1] is climbing the fence.",
+            "It is to the left of [person_1].",
+            "The [person_1] is behind the [person_1].",
+            "[person_1] is on the carpet.",
+            "It is on the right hand side of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the ground look so messy?",
+        "answer": [
+            "[person_1] can't hold the guitar if she's standing.",
+            "Maybe it's hot inside.",
+            "[person_1] is performing on the stage.",
+            "[person_1] is taking photo.",
+            "Because it's all scattered gift wrapping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] probably do after that?",
+        "answer": [
+            "[person_1] will try his best to achieve a superb performance.",
+            "[person_1] will continue to open the gift.",
+            "[person_1] will have to remove the cork.",
+            "[person_1] will pour the champagne into [person_1].",
+            "[person_1] will turn off the camera"
+        ],
+        "reason": [
+            "[person_1] is going to drop the watch because [person_1] is finished showing.",
+            "Because [person_1] seems to be very interested in [person_1].",
+            "Because [person_1]'s face gets dirty and [person_1] can't clean by herself.",
+            "[person_1] will continue to open the gift because [person_1]'s hand is still touching it and trying to open it.",
+            "[person_1] will still be tapping his pen on the table because [person_1]'s hands are constantly moving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the gift were not wrapped too tightly?",
+        "answer": [
+            "Maybe [person_1] could open it up later.",
+            "[person_1] will stop opening the box.",
+            "Maybe [person_1] could close it down earlier.",
+            "[person_1] may have to go get the box containing the pipe.",
+            "Maybe [person_1] could open it up earlier."
+        ],
+        "reason": [
+            "Maybe [person_1] could not open it up earlier and play with it.",
+            "Because [person_1] wasted time but no fish.",
+            "Maybe [person_1] could close it down earlier and play with it.",
+            "Because [person_1] is short and still a kid.",
+            "Maybe [person_1] could open it up later and play with it."
+        ]
+    }
+}

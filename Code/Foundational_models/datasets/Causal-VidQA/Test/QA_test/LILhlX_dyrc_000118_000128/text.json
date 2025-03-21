@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "It is on the [dining table_1].",
+            "[cup_1] is on the desk.",
+            "[cup_1] is sitting on the floor.",
+            "[cup_1] is in the corner of the yard.",
+            "It is on the left of [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] clap after practice?",
+        "answer": [
+            "[person_1] is showing how to peel a banana easily.",
+            "[person_1] is performing in a large room and [person_1] wants everyone can listen to the sound of the harmonica.",
+            "Because [person_1] feels happy when [person_1] finish the exercise.",
+            "Because the [person_1] wants to get off.",
+            "Because [person_1] is performing to earn money."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to leave the room.",
+            "[person_2] will continue to practice stretching",
+            "[person_2] is going to try the best to swim faster than [person_2].",
+            "[person_2] is going to put some chemicals in [person_2].",
+            "[person_2] is going to heat a pot of water first."
+        ],
+        "reason": [
+            "Because [person_2] is rushing.",
+            "Maybe [person_2] practice to exercise.",
+            "[person_2] enjoys driving.",
+            "Because [person_2] has lit his cigarette.",
+            "[person_2] turned to the shot and may let us see the broken boards [person_2] just broke."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not wear shoes to practice ?",
+        "answer": [
+            "[person_2] might leave the place.",
+            "[person_2] would be have leg pain.",
+            "[person_2] would not be able to collect money.",
+            "[person_2] would be have arm pain.",
+            "It might bite [person_2] or the other person recording the video."
+        ],
+        "reason": [
+            "It is essential to do massage with some parts of [person_2]'s body.",
+            "Wear shoes to help your feet hurt and it is effective when exercising.",
+            "[person_2] doesn't like taking photos with person without animal clothes.",
+            "Wear shoes to help your feet not hurt and it is effective when exercising.",
+            "[person_2] cannot stand on the hover board on her own."
+        ]
+    }
+}

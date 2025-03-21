@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is holding the [cell phone_1]?",
+        "answer": [
+            "The mirror is on the wall.",
+            "Korean national flag is on the wall.",
+            "[person_1] is holding the [cell phone_1].",
+            "The [person_1] is on the desk.",
+            "It is to the left of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] plaster the wall?",
+        "answer": [
+            "[person_1] is teaching how to play the flute.",
+            "Because [person_1] is playing the flute.",
+            "[person_1] uses the [cell phone_1] to spread the plaster on the wall.",
+            "Because [person_1] wants to prove he has cracked the cap.",
+            "Because [person_1] wants to play the organ."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will keep holding the kicking board.",
+            "[person_1] will keep on playing drums.",
+            "[person_1] will keep using the [cell phone_1] to spread the plaster.",
+            "[person_1] will turn on the music.",
+            "[person_1] is going to have a battle."
+        ],
+        "reason": [
+            "[person_1] and [person_1] is competing with other couples.",
+            "[person_1] has just hit the ball.",
+            "[person_1] still holds the [cell phone_1].",
+            "When [person_1] turns to the left , he doesn't see [person_1].",
+            "Because [person_1] is closest to the knife."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] spreads the plaster carelessly?",
+        "answer": [
+            "The wall that [person_1] plasters may not be ugly.",
+            "It will fall onto the ground.",
+            "The wall that [person_1] plasters may be ugly.",
+            "It will be ruined.",
+            "The wall that [person_1] plasters may be beautiful."
+        ],
+        "reason": [
+            "To cut the right width of the board.",
+            "Because the plaster on the wall is not spread by [person_1].",
+            "To relax for a while.",
+            "Because the plaster on the wall is spread by [person_1].",
+            "[person_1] can taste on his own , not just see."
+        ]
+    }
+}

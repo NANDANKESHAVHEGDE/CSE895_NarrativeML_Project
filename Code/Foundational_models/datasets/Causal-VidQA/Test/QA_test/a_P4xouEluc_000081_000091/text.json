@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [refrigerator_1]?",
+        "answer": [
+            "The [refrigerator_1] is beside the [person_2].",
+            "The [refrigerator_1] is pink.",
+            "The [refrigerator_1] is next to the cutting board.",
+            "It is next to the window and close to the mirror.",
+            "The [refrigerator_1] is in front of the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the [refrigerator_1]?",
+        "answer": [
+            "The [person_1] is looking for something in the [refrigerator_1].",
+            "Because [person_1] is practicing snatching weight lifting.",
+            "Because [person_1] is unwrapping them.",
+            "The [person_1] wants to show the internal structure of the [refrigerator_1].",
+            "It seems that the [person_1] wants to pick something in the [refrigerator_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] seems to be about to pull open the lower drawer of the [refrigerator_1].",
+            "The [person_1] will show the internal structure of the [refrigerator_1].",
+            "The [person_1] will continue to get out things from the [refrigerator_1].",
+            "The [person_1] will check how many money left on his account.",
+            "The [person_1] will close the lower drawer of the [refrigerator_1]."
+        ],
+        "reason": [
+            "The [person_1] hasn't found what he wants.",
+            "Because the [person_1] seems to have finished her introduction.",
+            "Because [person_1] hasn't finished the whole procedure.",
+            "Because the [person_1] doesn't seem to be finished.",
+            "Because one of his hands is already on the handle of the lower drawer of the [refrigerator_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lower drawer of the [refrigerator_1] does not open?",
+        "answer": [
+            "The [person_1] will not make an effort to try to open it and call the staff.",
+            "The [person_1] will see the way clearly to move.",
+            "The [person_1] will make an effort to try to open it and call the staff.",
+            "The [person_1] will feel amazing when playing.",
+            "The [person_1] will make an effort to try to close it and call the staff."
+        ],
+        "reason": [
+            "Because the drawer cannot be opened may be due to the wrong way to open , so the staff's help is needed.",
+            "The TV show does not interview unknown people and if his drink is not tasty , he will not be famous.",
+            "Because the drawer cannot be closed may be due to the wrong way to open , so the staff's help is needed.",
+            "In case of getting hurt.",
+            "Because the drawer cannot be opened may be due to the right way to open , so the staff's help is needed."
+        ]
+    }
+}

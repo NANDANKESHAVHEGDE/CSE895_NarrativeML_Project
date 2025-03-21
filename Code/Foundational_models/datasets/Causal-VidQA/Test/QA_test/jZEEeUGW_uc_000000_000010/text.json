@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The [person_2] is on the right side of [person_2].",
+            "The [person_2] is next to [person_2].",
+            "The shirt [person_2] wearing is white.",
+            "The [person_2] is wearing checked pants.",
+            "It's black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a water balloon ?",
+        "answer": [
+            "Because [person_1] wants to charge the circular saw.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "[person_1] and [person_2] are practicing the clarinet.",
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "[person_1] is throwing it at [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to stand up and put the chair up.",
+            "[person_2] is going to switch places with [person_1].",
+            "[person_2] is going to peel off the patch on the [person_1] leg.",
+            "[person_2] may stand up and clap his hand.",
+            "[person_2] is going to chew the bread she is holding on her hand."
+        ],
+        "reason": [
+            "[person_2] left with the rope so [person_2] may just want to play the rope in another room.",
+            "Now it's the turn of [person_2] to throw the water balloon.",
+            "Maybe [person_2] is going to start a new game.",
+            "[person_2] has lifted up the barbell and put the barbell back.",
+            "The barbell looks heavy and [person_2] has finished the actions many times."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] misses the water balloon?",
+        "answer": [
+            "The [person_2] will get hot when it's a sunny day.",
+            "The [person_1] will not break all the tiles.",
+            "[person_1] won't get wet.",
+            "[person_1] will remember the color matching method.",
+            "The [person_1] will throw shot put really far."
+        ],
+        "reason": [
+            "[person_2] will need to aim more accurately.",
+            "If it rains , skiing is very dangerous.",
+            "Because [person_2] is a man , he doesn't wear dress.",
+            "[person_2] will check the problem of the camera.",
+            "[person_2] will not notice."
+        ]
+    }
+}

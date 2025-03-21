@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1] ?",
+        "answer": [
+            "[cup_1] is sitting on the floor.",
+            "It is on the shelf.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is in the corner of the yard.",
+            "[cup_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room ?",
+        "answer": [
+            "[person_1] is sitting and playing.",
+            "[person_1] is reading book.",
+            "[person_1] is wearing make - up.",
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "Because [person_1] lost [person_1]'a center of gravity."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "Maybe [person_1] is going to continue eating noodles.",
+            "[person_1] is going to play.",
+            "[person_1] is going to stand under the tree.",
+            "[person_1] may lean towards the mirror.",
+            "[person_1] may get the seeds out of pumpkin."
+        ],
+        "reason": [
+            "[person_1] let it lay on a flat surface.",
+            "[person_1] is going to talk something.",
+            "[person_1] is going to sleep.",
+            "[person_1] Is going to clean other shoes.",
+            "[person_1] seems to still move forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off ?",
+        "answer": [
+            "[person_1] will put them back to the pot.",
+            "[person_1] will be afraid.",
+            "The [person_1]'s hair would get wet.",
+            "Then maybe [person_1] will fall.",
+            "[person_1] will run away."
+        ],
+        "reason": [
+            "Because the [person_1] has another machine.",
+            "The [person_1] needs to be filled again.",
+            "[person_1] will be afraid.",
+            "[person_1] and [person_1] are just practicing how to bandage . [person_1] didn't get injured.",
+            "[person_1] will go out."
+        ]
+    }
+}

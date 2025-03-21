@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [bird_1]?",
+        "answer": [
+            "[bird_1] is on the picture on the wall.",
+            "[bird_1] is standing in front of the house.",
+            "[bird_1] is standing on a field.",
+            "[bird_1] is standing in a parking lot.",
+            "[bird_1] is standing on a footbridge."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] hold the shoulder of the mechanical bull . ?",
+        "answer": [
+            "[person_1] pushed the foot down to make the machine spinning.",
+            "[person_1] does not want to fall.",
+            "[person_1] is doing various yoga stretches using the [person_1].",
+            "[person_1] and [person_1] are opening gift boxes.",
+            "[person_1] would like to do a handstand safely."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop drifting [person_1].",
+            "[person_1] is going to do put the pan back to the [person_1].",
+            "[person_1] is going to hold the shoulder of the mechanical bull tighter.",
+            "[person_1] is going to throw more food at [person_1]?",
+            "[person_1] is going to vacuum the center of the carpet."
+        ],
+        "reason": [
+            "[person_1] is loosing balance when turning around.",
+            "the [person_1] has not fallen off the mechanical bull yet.",
+            "because the mechanical bull is going to move faster.",
+            "because [person_1] is gently removing the pencil from the sharpener.",
+            "[person_1] is sliding a role of carpet on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] were not held tight to the shoulder of the mechanical bull?",
+        "answer": [
+            "She would be sad.",
+            "[person_1] would fall.",
+            "The toy car will slow down.",
+            "[person_1] might not be finish his throw as good.",
+            "The audience will be pleased."
+        ],
+        "reason": [
+            "The shell of the fruit is very hard.",
+            "[person_1] can not keep her balance.",
+            "[person_1] did not show much interest on maracas.",
+            "[person_1] would be curious what interrupted him , so he would look behind him to see what caused the noise.",
+            "To take medical examinations."
+        ]
+    }
+}

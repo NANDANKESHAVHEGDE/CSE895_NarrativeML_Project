@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1]?",
+        "answer": [
+            "[person_1] was standing face to face against the wall.",
+            "[person_1] has a black guitar.",
+            "The curtain behind [person_1] has a dark blue color.",
+            "[person_1] hair looks a bit curly.",
+            "[person_1] sits next to [person_3]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_3] in the house?",
+        "answer": [
+            "[person_2] is making a tutorial video.",
+            "[person_2] is watching [person_2].",
+            "The man may say something helpful so [person_3] listens to him.",
+            "[person_2] and [person_3] explores the gift box.",
+            "[person_2] feels like doing it is cool."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to leave.",
+            "[person_2] took the things in the gift box and showed it to [person_3].",
+            "[person_2] is going to find a place to sit down.",
+            "[person_2] may stand up and clap his hand.",
+            "[person_2] will shoot another ball."
+        ],
+        "reason": [
+            "The hand of [person_2] is about to put the cap back on the coke bottle.",
+            "After [person_3] failed to flip the [person_2] , it is now turn of [person_2].",
+            "Because [person_3] wants to see the gift but can't open it yet.",
+            "Because [person_2] gave him another ball.",
+            "Since [person_2] has finished jumping , it may be [person_2]'s turn to jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_3] wants to unwrap the gift herself?",
+        "answer": [
+            "[person_3] may be prohibited by others.",
+            "[person_2] will open gifts with [person_3].",
+            "[person_3]'ll be sad.",
+            "[person_3] may choose to have a rest .",
+            "[person_3] wouldn't in the workshop."
+        ],
+        "reason": [
+            "Dirty hands can not touch cake.",
+            "[person_3] is still trying now.",
+            "Because [person_3] wants to drink juice but [person_3] does not know how to use the machine.",
+            "[person_3] can monitor [person_3] carefully and [person_3] often has a rest when [person_3] is not there",
+            "Because [person_3] doesn't know how to open presents."
+        ]
+    }
+}

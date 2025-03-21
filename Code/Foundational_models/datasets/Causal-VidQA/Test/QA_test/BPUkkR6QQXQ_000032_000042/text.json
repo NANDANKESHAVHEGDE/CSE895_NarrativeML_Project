@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "They are in the yard.",
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in their house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a straw in [person_1]'s mouth?",
+        "answer": [
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] wants to train to change its body.",
+            "Because [person_1] doesn't want to practice with a [person_1].",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will invite the next audience to communicate.",
+            "[person_1] will use the straw to make bubbles.",
+            "[person_1] will shape the dough.",
+            "[person_1] will continue to walk and push the cart.",
+            "[person_1] will bake the dough."
+        ],
+        "reason": [
+            "[person_1] opens the cloth to dry it after tie dyeing.",
+            "[person_1] is holding a straw in [person_1]'s mouth.",
+            "[person_1] is talking to the camera.",
+            "[person_1] is moving to the rest place.",
+            "Because his sweatshirt is dirty because of the shaving cream."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] falls down on the ground?",
+        "answer": [
+            "[person_1] will pick up [person_1]'s painting and put it back to the wood legs.",
+            "[person_2] will call [person_2]'s mother.",
+            "[person_1] will then come back to the coffee shop.",
+            "[person_1] would fall onto the ground and break his guitar as [person_2] breaks underneath him.",
+            "The chicken wings will become very salty."
+        ],
+        "reason": [
+            "To help pull [person_1] up.",
+            "[person_1] will obey [person_1]'s mother.",
+            "Because [person_1] feels funny.",
+            "Because [person_1] has interest in it.",
+            "Because [person_1] wouldn't be able to move [person_1]."
+        ]
+    }
+}

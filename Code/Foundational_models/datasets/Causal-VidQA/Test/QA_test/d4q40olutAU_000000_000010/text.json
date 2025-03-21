@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like ?",
+        "answer": [
+            "[person_1] looks very tall.",
+            "[person_1] looks a bit fat.",
+            "[person_1] looks like young.",
+            "[person_1] is very cute.",
+            "[person_1] is holding a gong and a gong stick."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sticking tongue out ?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is a model for the exercise.",
+            "Because [person_1] remembers what [person_1] needs to speak.",
+            "[person_1] is weaving a bowl in a factory."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will continue to raise [person_1]'s leg.",
+            "[person_1] may rest on the rocking chair next to [person_1] for a while.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will continue celebrating with friends.",
+            "[person_1] will continue sticking tongue out."
+        ],
+        "reason": [
+            "[person_1] will feel tired after playing.",
+            "[person_1] is explaining how to play.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] moving his whole body with the hoop.",
+            "[person_1] is very excited when sticking tongue out . [person_1] is smiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] will be afraid.",
+            "[person_1] will go out.",
+            "Maybe [person_1] will be scared.",
+            "The room will still light.",
+            "[person_1] maybe afraid."
+        ],
+        "reason": [
+            "There is a lot of light shining through the window into the room.",
+            "The curtains are all closed.",
+            "The light needs electricity to work.",
+            "Because inside the store will be dark.",
+            "The lights will not have electricity to glow."
+        ]
+    }
+}

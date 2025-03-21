@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [chair_1]?",
+        "answer": [
+            "It's red.",
+            "It is daytime.",
+            "[chair_1] is behind [chair_1].",
+            "They are at home.",
+            "It is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is reading a book.",
+            "[person_1] wants to play the lute.",
+            "[person_1] is doing it for fun.",
+            "Because [person_1] is sitting chair.",
+            "Because [person_1] is practicing standing on hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will play basic chords.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] may go to somewhere else.",
+            "[person_1] may go to finish his job.",
+            "[person_1] is going to ride a unicycle."
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] is going to continue feeding fish.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] finishes showing and thanks the audience."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] may break her leg.",
+            "[person_1] may not dance anymore.",
+            "[person_1] will fall in the buoy mattress and do not get hurt.",
+            "[person_1] will get up by himself.",
+            "[person_1] will stop riding a unicycle."
+        ],
+        "reason": [
+            "Maybe [person_1]'s wife is looking at [person_1].",
+            "The body of [person_1] will be a sink in the snow.",
+            "Maybe [person_1] broke his leg.",
+            "Maybe [person_1] feels pain and stops playing.",
+            "[person_1] will get hurt."
+        ]
+    }
+}

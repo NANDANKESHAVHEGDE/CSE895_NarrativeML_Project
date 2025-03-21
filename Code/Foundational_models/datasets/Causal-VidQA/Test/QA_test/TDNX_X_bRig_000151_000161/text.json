@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "Blue.",
+            "It is a hat.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] confident?",
+        "answer": [
+            "[person_2] maybe smoking tobacco.",
+            "Because [person_2] is dancing with her friends.",
+            "[person_2] finds something.",
+            "[person_2] is trimming his beard.",
+            "[person_2] tries to put it in."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "It is probable that [person_1] intends to play the guitar.",
+            "[person_1] intends to inspire people.",
+            "[person_1] will stop playing the cello.",
+            "[person_1] intends to hover boarding.",
+            "[person_1] intends to stop eating."
+        ],
+        "reason": [
+            "[person_1] prepares to play the guitar.",
+            "Maybe [person_1] is trying to get dressed as fast as possible.",
+            "Because [person_1] wants to help everyone become happier.",
+            "Maybe [person_1] knows it's not food.",
+            "Then maybe [person_1] tends to sit down on the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forgets the next dance?",
+        "answer": [
+            "The work of [person_1] would be easier.",
+            "[person_1] and [person_1] would laugh.",
+            "Maybe [person_1] will hug [person_1] .",
+            "Maybe [person_1] will feel so sad.",
+            "It is probable that [person_1] will be still confidently keep on dancing."
+        ],
+        "reason": [
+            "Because the [person_1] only can fly up when it is towed by a boat.",
+            "[person_1]'s clothes are too bulky so she can't move quickly to catch the pancake.",
+            "[person_1] is holding the snake.",
+            "Because [person_1] is a very confident person.",
+            "[person_1] is performing on the stage."
+        ]
+    }
+}

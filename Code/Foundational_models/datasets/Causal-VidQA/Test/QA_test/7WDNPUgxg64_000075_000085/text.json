@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on the left of [cup_1].",
+            "[dining table_1] is behind [dining table_1].",
+            "[cup_1] sits on [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] so happy?",
+        "answer": [
+            "Because [person_1] won the game.",
+            "Maybe [person_1] is the person throwing the ball in cups first.",
+            "The [person_1] laughs because the cameraman makes fun of him.",
+            "Because it is a yoga move.",
+            "[person_1] still is a baby."
+        ]
+    },
+    "predictive": {
+        "question": "What will they do after playing the game?",
+        "answer": [
+            "Maybe in a gallery.",
+            "The man is a new hand.",
+            "He'll get [cup_1] out.",
+            "The [dining table_1] may finish pole vaulting.",
+            "They will keep playing."
+        ],
+        "reason": [
+            "The man uses it to practice.",
+            "Because they are interested in this game.",
+            "Because there are still so many cookies left.",
+            "When the [person_1] , [person_1] and [person_1] is watching [person_1] , [person_1] is attempting to skate with the greatest intensity.",
+            "The decoration is like a gallery."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] loses the game?",
+        "answer": [
+            "[person_1] won't cry.",
+            "[person_1] will pick up [person_1].",
+            "[person_1] will cry.",
+            "[person_1] will probably have a short break.",
+            "[person_1] won't laugh."
+        ],
+        "reason": [
+            "Because it is not just a game.",
+            "Because [person_1] is good at drawing circles.",
+            "Because it is more than a game.",
+            "It might look old.",
+            "Because it is just a game."
+        ]
+    }
+}

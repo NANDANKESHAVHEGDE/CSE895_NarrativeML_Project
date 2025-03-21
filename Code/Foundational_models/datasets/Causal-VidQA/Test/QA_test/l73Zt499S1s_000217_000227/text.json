@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many pictures are there in the video?",
+        "answer": [
+            "There are 2 pictures.",
+            "There are five cups on the table.",
+            "There are fourteen chairs in the room.",
+            "There are five people.",
+            "There are four people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because that room is [person_1] own room.",
+            "[person_1] is lifting .",
+            "[person_1] is talking about something.",
+            "[person_1] is working out in the gym.",
+            "[person_1] is opening her gift."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to make the basket with great skill.",
+            "[person_1] intends to turn off the camera.",
+            "[person_1] tends to place the wrapping paper roll and the scissors aside.",
+            "[person_1] is going to teach how to put the hands on the flute correctly",
+            "[person_1] will definitely play the guitar."
+        ],
+        "reason": [
+            "[person_1] is playing with a band.",
+            "[person_1] is playing the guitar very enthusiastically.",
+            "[person_1] is very interested in playing it.",
+            "[person_1] looked the cup , raised the ball and tiptoed.",
+            "[person_1] stops playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a picture is dropped?",
+        "answer": [
+            "The [person_1] could not show the weather maps on the big screen.",
+            "[person_1] would not use her hands.",
+            "[person_1] will be surprised.",
+            "The woman will record a new video.",
+            "The audience will leave."
+        ],
+        "reason": [
+            "[person_1] does not wear the protective cloth.",
+            "[person_1] will buy new cups.",
+            "The picture will fall down suddenly.",
+            "[person_1] will have to hang the sandbag up again.",
+            "Female is not stronger than male."
+        ]
+    }
+}

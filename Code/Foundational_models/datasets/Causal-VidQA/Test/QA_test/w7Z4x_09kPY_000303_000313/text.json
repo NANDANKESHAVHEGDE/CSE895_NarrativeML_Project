@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "It is on the [person_1].",
+            "It is behind the [person_1].",
+            "It is in the parking lot.",
+            "The [couch_1] is next to the [person_1].",
+            "[couch_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a box in front of [person_1]?",
+        "answer": [
+            "Because [person_1] is playing the flute requires fingers.",
+            "Because [person_1] feels like watching water come out.",
+            "Because [person_1] need it to sort things out.",
+            "Because [person_1] is watering the plants.",
+            "To propose to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] will drink water.",
+            "[person_1] may fold the laundry.",
+            "[person_1] will call the rescue team.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to play there."
+        ],
+        "reason": [
+            "[person_1] wants to play for entertainment.",
+            "[person_1] is going to rest.",
+            "When [person_1] looks down , she holds a small pants and folds it.",
+            "[person_1] is in the beach.",
+            "[person_1] is excited about it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] gets down the couch?",
+        "answer": [
+            "[person_1] would be sent to the hospital.",
+            "[person_1] will clap [person_2]'s shoulders.",
+            "[person_2] may take the car toy out of the box.",
+            "[person_2] will help [person_1] with her things.",
+            "[person_1] will be a winner."
+        ],
+        "reason": [
+            "Horror movie is very creepy.",
+            "[person_1] and [person_1] are women.",
+            "Because [person_1] is right behind [person_2].",
+            "Because [person_1] has just fell off and felt hurt.",
+            "When [person_1] does her job , [person_2] moves her hands."
+        ]
+    }
+}

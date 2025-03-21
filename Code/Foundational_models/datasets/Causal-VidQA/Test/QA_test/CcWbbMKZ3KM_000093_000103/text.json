@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is going out with his family.",
+            "[person_1] is playing piano.",
+            "[person_1] is performing with a guitar.",
+            "[person_1] is smoking.",
+            "[person_1] is playing the songs."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] is going to catch cows.",
+            "[person_1] and [person_2] are going to fight sword.",
+            "[person_1] and [person_2] are going to sing.",
+            "[person_1] and [person_2] are going to continue marching.",
+            "[person_2] will help [person_1] to clean her body."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are looking at each other in preparation.",
+            "[person_1] and [person_2] have flipped two cakes and moved to the third one.",
+            "[person_1] and [person_2] are very happy with their finger snapping and they do not have a tendency to leave the room.",
+            "[person_1] and [person_2] are still passing ball at the end of the video.",
+            "[person_1] and [person_2] have finished their challenge."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] plays the piano?",
+        "answer": [
+            "[person_2]'s feet will get hurt.",
+            "[person_2] may float.",
+            "[person_2] won't be able to play it.",
+            "It is possible that [person_2] will feel satisfied.",
+            "[person_2] will be injured."
+        ],
+        "reason": [
+            "[person_2] will be confused.",
+            "Without the frisbee , they can not play the game.",
+            "[person_2] is helpful.",
+            "[person_2] doesn't know how to do the right action.",
+            "[person_2] can not sing without it."
+        ]
+    }
+}

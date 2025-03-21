@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the room.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the floor?",
+        "answer": [
+            "[person_1] is playing with his toys.",
+            "Because [person_1] wants to see the keyboard more clearly.",
+            "[person_1] is practicing playing flute.",
+            "[person_1] is standing and stacking cups.",
+            "[person_1] is playing chess with [person_1] and [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing badminton without a net with [person_1] on the grass.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to lift the barbell.",
+            "[person_1] intends to put the cup higher."
+        ],
+        "reason": [
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] is arranging cups.",
+            "His knife is on the left whetstone bar and he will move it to the right whetstone bar.",
+            "Lowering the lifts is one of the movements in the exercise and the lifts are raised now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will wake up.",
+            "[person_1] will be lose.",
+            "It is a problem for [person_1] to do exercise when he has no way but to choose things of [person_1].",
+            "[person_1] will bump into [person_1].",
+            "[person_1] will use the bricks as a gun."
+        ],
+        "reason": [
+            "[person_1] needs [person_1] to be able to surf.",
+            "Maybe [person_1] goes to work after meal.",
+            "Because [person_1] may run to something and not stop.",
+            "The secret will be revealed.",
+            "Because [person_1] will probably lose."
+        ]
+    }
+}

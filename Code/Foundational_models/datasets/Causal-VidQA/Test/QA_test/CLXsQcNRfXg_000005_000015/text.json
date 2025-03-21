@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there only one wheelbarrow here?",
+        "answer": [
+            "There are seven.",
+            "Yes , there is.",
+            "No , it isn't . It's bright.",
+            "No , it isn't.",
+            "[person_2] is lying on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] wearing helmet?",
+        "answer": [
+            "Because [person_2] enjoys hearing the sound of ripping paper.",
+            "Because [person_2] likes to make noises.",
+            "[person_2] spinning the poi with good techniques.",
+            "Because [person_2] is sitting in a wheelbarrow.",
+            "[person_2] is singing and playing lute in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will try to open the bottle while introducing.",
+            "[person_1] will remove the cork next.",
+            "[person_1] will teach how to kick the ball.",
+            "[person_1] is likely to push the wheelbarrow.",
+            "[person_1] is preparing to stand on hands."
+        ],
+        "reason": [
+            "Because [person_1] has just finished [person_1] and [person_1] wants to finish the last step.",
+            "Hands of [person_1] are raising.",
+            "[person_1] is moving towards the man at the door of the room.",
+            "[person_1] is checking the belt on the white cloth.",
+            "Hands of [person_1] are holding the wheelbarrow."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] and [person_2] do if it rains?",
+        "answer": [
+            "[person_1] and [person_2] will run into the house.",
+            "[person_2] will slap [person_1] on the back.",
+            "Then [person_1] can't catch the small ball.",
+            "[person_2] would be happy.",
+            "[person_1] will be in pain."
+        ],
+        "reason": [
+            "[person_1] came back and saw if [person_2] was injured.",
+            "[person_1] thinks a hug can make [person_2] stop crying.",
+            "It means that [person_1] doesn't like it.",
+            "[person_1] and [person_2] are playing outside.",
+            "Because the man wants to protect [person_1] out of instinct."
+        ]
+    }
+}

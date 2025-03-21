@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is next to the [person_1].",
+            "[chair_1] is on the right of [person_1].",
+            "[chair_1] is on the left hand side of [person_1].",
+            "It is on the right of [person_1].",
+            "[chair_1] is under [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] ripping paper?",
+        "answer": [
+            "[person_2] is helping [person_1] riding the skateboard.",
+            "[person_1] needs [person_1] to hit the ball.",
+            "Because [person_1] might fall.",
+            "Because [person_1] is preparing the usage of microscope.",
+            "[person_2] is making [person_1] happy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to ride the horse.",
+            "[person_1] is trying to help [person_1] with hand.",
+            "[person_1] maybe will give food to customers.",
+            "[person_1] will watch out the motion of [person_1].",
+            "[person_1] is bound to feel happy."
+        ],
+        "reason": [
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "[person_1] was walking towards [person_1] and the right hand of [person_1] touched the leg of [person_1].",
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "[person_1] is smiling aloud.",
+            "Because [person_1] is giving [person_1] instructions."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it\u2019s rain?",
+        "answer": [
+            "[person_1] will be happy.",
+            "Maybe [person_1] will miss an important call.",
+            "[person_1] will cry.",
+            "Perhaps [person_1] will stop.",
+            "Perhaps [person_1] will go home."
+        ],
+        "reason": [
+            "It is a tradition of marriage.",
+            "Because rain can make [person_2] wet.",
+            "There is no place to sit.",
+            "Coffee is in the outside.",
+            "There will be thunder."
+        ]
+    }
+}

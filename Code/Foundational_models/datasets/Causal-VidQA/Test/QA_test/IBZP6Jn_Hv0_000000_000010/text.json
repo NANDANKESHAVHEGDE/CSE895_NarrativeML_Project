@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is turning his leg to the right.",
+            "[person_1] is smashing a tire.",
+            "[person_1] is opening the door.",
+            "[person_1] is stacking the dice.",
+            "[person_1] is sitting on the ground."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smash the tire?",
+        "answer": [
+            "Because that's his uniform.",
+            "The fruit has been peeled already , leaving the rest easy to deal.",
+            "It's a kind of new physical training.",
+            "The are practice before the competition.",
+            "It is soft on the grass."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will introduce the things on the table.",
+            "[person_1] will turn over the body.",
+            "[person_1] will separate the two legs.",
+            "[person_1] will take a break.",
+            "[person_1] will calcine [person_1]."
+        ],
+        "reason": [
+            "[person_1] must be physically tired.",
+            "Because there is a new tire on the ground and the tire of [person_1] is broken.",
+            "[person_1] is explaining how to play.",
+            "[person_1] plays the gong very enthusiastically and his hands move non - stop.",
+            "The [person_1] is stopping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] used his hat to smash the tire?",
+        "answer": [
+            "His body could not be injuried.",
+            "[person_1] would stopping practicing.",
+            "His body could be exercised.",
+            "[person_1] will find the tools on the shelves behind him.",
+            "His body could not be exercised."
+        ],
+        "reason": [
+            "The hat is too heavy.",
+            "The sword is dangerous.",
+            "The hat is too light.",
+            "The car might be broken by the heavy hammer.",
+            "The hat is too big."
+        ]
+    }
+}

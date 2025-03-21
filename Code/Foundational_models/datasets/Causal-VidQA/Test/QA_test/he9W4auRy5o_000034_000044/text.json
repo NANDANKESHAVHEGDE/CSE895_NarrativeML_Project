@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of glasses?",
+        "answer": [
+            "[cup_2] is standing in a parking lot.",
+            "The glasses are black.",
+            "[cup_1] is standing on a footbridge.",
+            "[person_1] is standing behind a camera.",
+            "[person_1] is standing in a park."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room?",
+        "answer": [
+            "[person_1] is sitting and playing.",
+            "Maybe [person_1] and [person_1] are students and [person_1] and [person_1] are taking a break.",
+            "[person_1] is reading book.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "[person_1] is stacking [cup_1] and [cup_2] very fast."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to eat.",
+            "[person_1] is going to do a workout.",
+            "[person_1] may go on stacking faster.",
+            "[person_1] is going to continue playing with toys."
+        ],
+        "reason": [
+            "[person_1] is preparing to turn another somersault.",
+            "[person_1] has turned away.",
+            "[person_1] has finished [person_1]'s action.",
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] is paying attention to the cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] may not keep shaking.",
+            "[person_1] will stop stacking.",
+            "The room is very dark.",
+            "[person_1] may not see anything.",
+            "[person_1] may not squeeze oranges."
+        ],
+        "reason": [
+            "The store will be dark.",
+            "[cup_1] won't be able to see the strings clearly.",
+            "The meeting will be stopped.",
+            "The room will be dark.",
+            "[person_1] may stop playing."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] ?",
+        "answer": [
+            "[person_1] and [person_2] are in their house.",
+            "They are in the yard.",
+            "[person_1] and [person_2] are on the street.",
+            "In front of a house.",
+            "[person_1] and [person_2] are in the weight training field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand next to [person_2] ?",
+        "answer": [
+            "Because [person_2] needs support.",
+            "Because [person_1] sees the bubbles.",
+            "[person_2] is joining the game that [person_2] likes.",
+            "[person_1] and [person_2] are watching [person_2] paint a picture.",
+            "The foot of [person_1] is hurt."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will continue stacking cups.",
+            "[person_1] will stop blowing.",
+            "[person_1] will answer [person_1]'s question.",
+            "[person_1] will shake the rope to the left.",
+            "[person_1] will continue to support [person_2] in stomping the grapes."
+        ],
+        "reason": [
+            "[person_1] sweats too much after doing the sport.",
+            "[person_1] stands near the grill.",
+            "Because [person_2] needs a fulcrum to keep his balance.",
+            "[person_1] is running towards one of his teammates.",
+            "Music with moon walking is perfect."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not here?",
+        "answer": [
+            "[person_1] might stop sailing.",
+            "[person_1] would need to do anything for [person_2].",
+            "[person_1] will go back home.",
+            "[person_2] might fall and would be unable to stomp the grapes.",
+            "It would get burnt."
+        ],
+        "reason": [
+            "There would be no one else except for [person_2] to look at.",
+            "Because [person_2] seems to find it difficult in keeping his balance.",
+            "[person_1] plays the harmonica like an expert.",
+            "Cutting the apple with a knife is much easier than butting it.",
+            "Because [person_1] is currently at the race now and there are many other racers would want to get to the finish first."
+        ]
+    }
+}

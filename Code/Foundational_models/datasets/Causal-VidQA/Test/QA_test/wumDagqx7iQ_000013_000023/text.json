@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in planing workshop.",
+            "On the beach.",
+            "[person_1] is in front of the shop.",
+            "[person_1] is \u00a0 in his wood workshop.",
+            "[person_1] is in the gym ."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the wood log?",
+        "answer": [
+            "[person_1] is performing for [person_1] and [person_1].",
+            "[person_1] toys are all in a basket.",
+            "[person_1] rides it well.",
+            "Because there are not many people on the road and it is very suitable for practice.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift slowly.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to plan all the wood."
+        ],
+        "reason": [
+            "There are many sand on his feet.",
+            "[person_1] already planed part of the wood.",
+            "[person_1] may go on reading.",
+            "[person_1] was blocked by the door.",
+            "[person_1] is very small."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a sudden power outage there?",
+        "answer": [
+            "[person_1] will not be able to continue working.",
+            "[person_1] will put back the tools.",
+            "[person_1] will not be able to see anything.",
+            "All the people will run to the house behind them.",
+            "They'll turn on the lamp."
+        ],
+        "reason": [
+            "Wood planer needs electricity to work.",
+            "Because [person_1] can't bring a broken laptop.",
+            "Clean water is suitable for swimming.",
+            "It is cold and they wear little.",
+            "[person_1] will help [person_1] get more food to feed the fish."
+        ]
+    }
+}

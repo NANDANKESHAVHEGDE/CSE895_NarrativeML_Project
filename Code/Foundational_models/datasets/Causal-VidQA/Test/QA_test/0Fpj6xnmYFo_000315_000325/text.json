@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bottle_1]?",
+        "answer": [
+            "The [bottle_1] is on the table.",
+            "The [bottle_1] is on the shelf.",
+            "The [bottle_1] is big.",
+            "[bottle_1] is next to the windows.",
+            "[bottle_1] is in the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is playing with a scooter.",
+            "[person_1] is playing in the snow field.",
+            "[person_1] is outside to play basketball.",
+            "[person_1] is excited about painting."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue kneading the dough.",
+            "[person_1] will continue drawing.",
+            "[person_1] is going to wax back for [person_1].",
+            "[person_1] will wash all the dishes in [person_1].",
+            "[person_1] will stop playing the harmonica."
+        ],
+        "reason": [
+            "[person_1] reaches over to grab the camera so he can get a good look at himself playing guitar.",
+            "[person_1] is a child she will get bored of playing with the lollipop and just eat it normally.",
+            "The door of the car which is pushed is open.",
+            "[person_1] is excited to show his musical skill so he will play the entire song so he can show his potential.",
+            "It appears that [person_1] does not finish the painting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will get wet.",
+            "[person_1] will get wet.",
+            "[person_1] and [person_1] will be wet.",
+            "Maybe [person_1] will stop painting temporarily.",
+            "[person_1] will stop skateboarding."
+        ],
+        "reason": [
+            "They're not outdoors.",
+            "[person_1] could not find shelter from the rain.",
+            "[person_1] in the first screen will not end due to the weather.",
+            "They are outdoors now.",
+            "[person_1] will put the painting away to avoid raining."
+        ]
+    }
+}

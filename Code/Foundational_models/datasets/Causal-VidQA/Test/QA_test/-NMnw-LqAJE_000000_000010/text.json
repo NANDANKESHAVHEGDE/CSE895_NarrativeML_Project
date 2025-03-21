@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the floor?",
+        "answer": [
+            "Toys are on the floor.",
+            "The floor is red and green.",
+            "There are four people.",
+            "There are five cups on the table.",
+            "There are four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many toys on the floor?",
+        "answer": [
+            "[person_1] is playing there.",
+            "[person_1] is practicing.",
+            "[person_1] increases the pressure instantaneously by striking the bottle.",
+            "[person_1] is too small to eat such food.",
+            "They taste good."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to record the match",
+            "[person_1] intend to turn one round.",
+            "[person_1] intends to use a stick to hit someone's leg on the other team.",
+            "[person_1] intends to do somersaults.",
+            "[person_1] intends to arrange the chess board."
+        ],
+        "reason": [
+            "[person_1] put the harmonica down then raised the harmonica up , moved it to the mouth.",
+            "[person_1] is putting his head on the ground.",
+            "[person_1] used a powder - buff to apply foundation cream on face.",
+            "[person_1] still hasn't landed perfectly.",
+            "[person_1] holds his arms forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] does somersaults?",
+        "answer": [
+            "[person_1] may not bump into something.",
+            "[person_1] may fall down to the ground.",
+            "[person_1] may bump into something.",
+            "[person_1] can not help sitting on the ground.",
+            "[person_1] cannot bump into something."
+        ],
+        "reason": [
+            "To buy a new bouquet of roses.",
+            "There is nothing around [person_1].",
+            "[person_1] needed the copy machine to print.",
+            "There are many objects around [person_1].",
+            "[person_1] wants to have a good performance."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] ?",
+        "answer": [
+            "[book_1] is on the dining table.",
+            "[book_1] is in front of the boy.",
+            "[book_1] is under [book_1].",
+            "[book_1] is on the hands of [book_1].",
+            "[book_1] , [book_1] and [book_1] are behind [book_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room ?",
+        "answer": [
+            "[person_1] is reading book.",
+            "[person_1] is sitting and playing.",
+            "[person_1] is wearing make - up.",
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "[person_1] is helping the kids to do this."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] is going to have a rest for a moment.",
+            "[person_1] is going to run to the first position.",
+            "[person_1] is going to close the book.",
+            "[person_1] is going to take another golf out from the basket.",
+            "[person_1] is going to maintain spraying."
+        ],
+        "reason": [
+            "To finish [person_1]'s work.",
+            "[person_1] is going to sit on the chair.",
+            "It seems that there are some cups on the table and [person_1] pays attention on it.",
+            "Because [person_1] still has cards in hands.",
+            "Because the mouth of [person_1] is moving all the time , maybe singing and dancing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone takes the book from the baby girl ?",
+        "answer": [
+            "[person_1] will be happy.",
+            "It is not allowed.",
+            "[person_1] will cry.",
+            "The [person_1] should not do that.",
+            "It would hit [person_1]."
+        ],
+        "reason": [
+            "She needs a break to recover her energy.",
+            "[person_1] will claim the book front.",
+            "The gleam of welds can fly into [person_1].",
+            "[person_1] will claim the book back.",
+            "[person_1] thinks it is funny."
+        ]
+    }
+}

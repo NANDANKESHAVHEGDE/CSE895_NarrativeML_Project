@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_1]?",
+        "answer": [
+            "[book_1] is lying on the floor.",
+            "[person_1] is placed on the table behind [person_1].",
+            "[book_1] is is on the shelf behind [person_1].",
+            "The [book_1] is on the hand of [person_1].",
+            "The bed [book_1] is lying on is dark blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look at [person_2]?",
+        "answer": [
+            "Because [person_1] is trying to keep the balance , she can't grab the lanyard without support.",
+            "Because [person_1] is talking about the [book_1] with [person_2].",
+            "[person_1] is a baby and he is playing with [book_1].",
+            "[person_1] is stacking dice.",
+            "They are the introductory lines for the show in which [person_1] is performing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may buy a bigger grinder.",
+            "[person_1] will catch the ball.",
+            "[person_1] is going to flip the page.",
+            "[person_1] is going to let the maracas down.",
+            "[person_1] is going to feel tired."
+        ],
+        "reason": [
+            "Maybe [person_1] sees something or feels bored with playing the xylophone , so [person_1] crawls.",
+            "The hand of [person_1] was on the top of the beer bottle and ready to twist it.",
+            "Because [person_1] is talking about the [book_1] with [person_2] , the hand of [person_1] is holding a page and about to turn the page.",
+            "[person_1] is one of the students on the roller skating rink.",
+            "[person_2] and [person_1] seem to be arguing so [person_1] will approach them to help them solve the problem."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not sit there?",
+        "answer": [
+            "[person_1] may talk anything.",
+            "[person_1] might drop his phone in the water.",
+            "[person_1] may keep quite.",
+            "[person_1] may be in danger.",
+            "[person_1] may not talk anything."
+        ],
+        "reason": [
+            "Because [person_1] had many persons to talk with.",
+            "Because otherwise [person_1] wouldn't be able to continue fertilizing.",
+            "Because [person_1] had no one to talk with.",
+            "The [person_1] bends knees to throw shot.",
+            "Because [person_1] had no one to fight with."
+        ]
+    }
+}

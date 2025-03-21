@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [handbag_1]?",
+        "answer": [
+            "It is \u00a0 behind the [person_1].",
+            "[handbag_1] is placed next to [person_1].",
+            "[person_1] is on the chair.",
+            "the sheep is on the ground.",
+            "[person_1] is wearing it in front of her."
+        ]
+    },
+    "explanatory": {
+        "question": "How do [person_1] and [person_2] feel when playing the clapping game?",
+        "answer": [
+            "[person_1] is holding a piece of the orange.",
+            "The [person_1] is polishing the table.",
+            "[person_2] wants to know something inside the [person_1].",
+            "Because [person_1] is riding a unicycle so it is not safe enough to ride it on the road.",
+            "[person_1] and [person_2] feel very happy."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will call [person_2]'s mother.",
+            "[person_2] will guide [person_1] and [person_2] to drive the car.",
+            "[person_2] will take the candles off [person_2].",
+            "[person_2] will knead [person_2]'s left leg.",
+            "It is anticipated that [person_2] will continue to play clapping with [person_1]."
+        ],
+        "reason": [
+            "[person_2] loves the present.",
+            "Maybe [person_2] likes to play.",
+            "Because [person_2] enjoys the food and [person_2] wants more.",
+            "Because [person_2] is already reaching for it.",
+            "[person_2] and [person_2] are looking happy when they play together."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] stops clapping?",
+        "answer": [
+            "Maybe [person_2] will be happy.",
+            "[person_2] will tap [person_1]'s shoulder.",
+            "Perhaps [person_1] will stop working.",
+            "[person_1] will also not play.",
+            "[person_2]'s mother would comfort [person_2]."
+        ],
+        "reason": [
+            "It's too high for [person_2].",
+            "To help relieve the pain at the back.",
+            "Maybe [person_2] will be eliminated from the round.",
+            "[person_2] opened the next pages and read so quickly.",
+            "The clapping game must require two players."
+        ]
+    }
+}

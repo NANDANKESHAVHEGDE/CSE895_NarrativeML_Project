@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many potted plants are there?",
+        "answer": [
+            "Yes , it is.",
+            "There are three chairs in the room.",
+            "There are four.",
+            "There are two.",
+            "There are a lot of cars."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on a chair?",
+        "answer": [
+            "[person_1] is playing lute for everyone.",
+            "[person_1] is playing guitar.",
+            "[person_1] is playing basketball.",
+            "[person_1] is using the piano.",
+            "[person_1] is doing exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to swim his best to the other side of the pool.",
+            "[person_1] is going to look at the book to play.",
+            "[person_1] is going to greet and thank the audience.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to keep playing the harp."
+        ],
+        "reason": [
+            "[person_1] is in the middle of his performance.",
+            "Because she is leaving the house and locking the door.",
+            "[person_1] grabs one side of the donuts box and wants to lift it up.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] is playing the piano while looking at the chords."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays the wrong guitar?",
+        "answer": [
+            "[person_1] will play again.",
+            "[person_1] will get up by her own.",
+            "[person_1] will be sad.",
+            "Perhaps his father will be angry.",
+            "It is possible that [person_1] and [person_1] may feel relaxed."
+        ],
+        "reason": [
+            "[person_1] is trying to play a new song.",
+            "[person_1] is wearing a life jacket.",
+            "The headphone will break because the floor is so hard.",
+            "[person_1] is afraid of the dog.",
+            "[person_1] will cry if he is alone."
+        ]
+    }
+}

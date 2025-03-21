@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] painting?",
+        "answer": [
+            "[person_1] is painting [book_1] and [cup_1].",
+            "[person_1] is standing under a tree.",
+            "The short [person_1] wearing is blue.",
+            "The [book_1] is sitting between the [book_1] and [person_1].",
+            "[person_1] is wearing pink lipstick."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] flip the board after painting?",
+        "answer": [
+            "Because [person_1] wants to go roller - skating.",
+            "[person_1] is squeezing grape juice.",
+            "Because [person_1] wants to paint the other side.",
+            "[person_1] is holding a stick to be balanced.",
+            "Because [person_1] smokes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to interpret what the live is saying.",
+            "[person_1] may want to throw the ball.",
+            "[person_1] is going to show some hooping skills.",
+            "[person_1] is going to take a short break.",
+            "[person_1] is going to keep painting."
+        ],
+        "reason": [
+            "[person_1] is pointing at her cheeks to make fun.",
+            "[person_1] finished arranging the cups.",
+            "[person_1] is moving up.",
+            "Because [person_1] seems to have finished the work and stepped back.",
+            "Because [person_1] does not finish it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color on [book_1]?",
+        "answer": [
+            "He would have to re - color [book_1] from the beginning or , in the worst case , recreate [book_1].",
+            "[person_1] , [book_1] will stop reading.",
+            "[person_1] will throw it out.",
+            "[person_1]'s arrow will hit a tree near the target.",
+            "[person_1] would stop reading book."
+        ],
+        "reason": [
+            "[person_1] is satisfied with the performance.",
+            "There are two books on the desk in front of him.",
+            "[book_1] is running.",
+            "[book_1] may hit on [person_1].",
+            "Because the customer might be displeased and the product would be ruined."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is outside the house.",
+            "[person_1] is sitting on the bench.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is \u00a0 in the swimming pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the guitar ?",
+        "answer": [
+            "[person_1] is practicing the guitar.",
+            "[person_1] wanted to dance.",
+            "By trying to control the balance.",
+            "The weather is summer.",
+            "[person_1] is filming and reading newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do ?",
+        "answer": [
+            "[person_1] tends to keep dancing.",
+            "[person_1] is tends to stop practicing.",
+            "[person_1] tends to practice pull - ups.",
+            "[person_1] tends to show the right way to do pull - ups.",
+            "[person_1] tends to kick the ball."
+        ],
+        "reason": [
+            "[person_1] spinning for momentum.",
+            "[person_1] is still intoxicated with the flute.",
+            "[person_1] is controlling the rope.",
+            "[person_1] is highly likely to finish playing that song.",
+            "The bottle near [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a headache?",
+        "answer": [
+            "[person_1] will stop exercising right now.",
+            "[person_1] will pick it up.",
+            "[person_1] will feel tired.",
+            "[person_1] and [person_1] would not lick each other's nipple.",
+            "It is possible that [person_1] will have to remove the picture."
+        ],
+        "reason": [
+            "[person_1] doesn't know how to play the guitar.",
+            "It took a long time to get a long beard like [person_1].",
+            "[person_1] hasn't finished recording yet.",
+            "[person_1] will feel more pain if headache.",
+            "[person_1] will need to rest."
+        ]
+    }
+}

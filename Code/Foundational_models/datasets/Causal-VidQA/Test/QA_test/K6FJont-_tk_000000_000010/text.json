@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [cow_1] ?",
+        "answer": [
+            "It is lying on the ground.",
+            "The [cow_1] is long and big.",
+            "[cow_1] is in the table.",
+            "It is near door.",
+            "The [cow_1] is in the outdoor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding a mechanical bull?",
+        "answer": [
+            "[person_1] wants to explain information.",
+            "Because [person_1] wants to ski safely.",
+            "Because [person_1] is driving.",
+            "Because [person_1] is adjusting the slides.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue to stand there.",
+            "[person_1] is going to ride to [cow_1].",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may turn around.",
+            "[person_1] is going to climb into bed."
+        ],
+        "reason": [
+            "[person_1]'s feet are numb.",
+            "The egg is not cooked yet.",
+            "[person_1] is very like.",
+            "[person_1] has finished checking the computer.",
+            "[person_1] is paying attention to other things."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is too fat?",
+        "answer": [
+            "[person_1] will be able to continue playing a mechanical bull.",
+            "The [person_1] will not get hurt from others.",
+            "[person_1] will not be able to continue playing a mechanical bull.",
+            "Maybe [person_1] will take a break.",
+            "[person_1] will not be able to stop playing a mechanical bull."
+        ],
+        "reason": [
+            "[cow_1] will be kept still.",
+            "[person_1] is short , so [person_1] needs to tiptoe to throw the ball.",
+            "[cow_1] will be broken.",
+            "[person_1] does not want [cow_1] to be unhappy.",
+            "[cow_1] will be alive."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the yard.",
+            "[person_2] is at the spa.",
+            "[person_2] is on a stage.",
+            "Five.",
+            "[person_2] is in the clinic."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_2] come to see [person_1]?",
+        "answer": [
+            "Because [person_2] and [person_1] are talking.",
+            "Because [person_1] helps him tie a necktie on [person_2]'s neck.",
+            "Because [person_2] is a patient of [person_1].",
+            "[person_1] is putting the wheelchair in the car.",
+            "[person_1] is wearing make - up."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bed.",
+            "[person_1] will make a plan to treat [person_2].",
+            "[person_1] will play basic chords.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] will continue to play the cello."
+        ],
+        "reason": [
+            "[person_1] is a batter and according to the rules of baseball , batter must run to the golf courses and back to the batter box\u2019s one by one before the members of the defending team can catch the ball.",
+            "Maybe [person_2] has a problem with his hands.",
+            "Maybe [person_1] is practicing.",
+            "[person_1] is going to continue feeding fish.",
+            "[person_1] is [person_2]'s partner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] has no hand problems?",
+        "answer": [
+            "She would have to start from the beginning.",
+            "She needs to practice more.",
+            "He will stop running.",
+            "Perhaps they would read books.",
+            "[person_2] will not be have to meet [person_1]."
+        ],
+        "reason": [
+            "[person_2] seems to focus on his dance.",
+            "[person_2] is not skillful enough.",
+            "Because at that time the floor will be clean.",
+            "[person_2] has no health problems.",
+            "[person_2] wouldn't like getting bit by bugs while he tries to make money playing music , so he will try to find a different spot."
+        ]
+    }
+}

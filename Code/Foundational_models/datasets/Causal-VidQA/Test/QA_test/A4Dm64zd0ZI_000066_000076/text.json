@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "It's a lighter.",
+            "A bottle opener.",
+            "[person_1] is riding a mechanical bull.",
+            "It is a local tool specific for coco cutting.",
+            "A handful of mushrooms."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pull the opener?",
+        "answer": [
+            "[person_1] is playing the accordion.",
+            "To pull the cork out which is sticking on the opener.",
+            "Because [person_1] wants to prove he has cracked the cap.",
+            "The [person_1] wants to pick some blueberries.",
+            "[person_1] and [person_1] are practicing playing the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after opening the bottle?",
+        "answer": [
+            "[person_1] will lift the hamburger to his mouth and take a bite out of it.",
+            "[person_1] will go inside.",
+            "[person_1] will herd the cows to where they can graze.",
+            "[person_1] may water the flowers then.",
+            "[person_1] will have a rest."
+        ],
+        "reason": [
+            "To keep the wooden frame stable.",
+            "[person_1] may feel tired after opening the bottle.",
+            "It's the proper step.",
+            "It seems that they are at the field.",
+            "Because ice cream is just snack."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] pushed the opener deeper?",
+        "answer": [
+            "The persons who stand outside need to enter the church.",
+            "[person_1] will dismantle the power drill.",
+            "The balloons will be exploded and [person_1] will be disappointed.",
+            "[person_1] will have to go to the practice house.",
+            "It would be easier by just pressing the handles."
+        ],
+        "reason": [
+            "[person_1] throw the ball to [person_1]'s face.",
+            "Because [person_1] is wearing winter clothes so it is winter.",
+            "[person_1]'s legs are very weak and can't stand up.",
+            "It makes [person_1] and [person_1] feel shy to act in front of many people.",
+            "[person_1] has to pull the opener because he failed when press the handles which is not deep enough."
+        ]
+    }
+}

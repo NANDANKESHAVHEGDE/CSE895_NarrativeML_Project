@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bed_1]?",
+        "answer": [
+            "They are red.",
+            "It is daytime.",
+            "It\u2019s in front of the [person_1].",
+            "It is behind the [person_1].",
+            "Behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside?",
+        "answer": [
+            "[person_1] practices slacklining very hard.",
+            "[person_1] to keep close to easily get it.",
+            "To detect rubbish.",
+            "[person_1] is spinning plates.",
+            "This can help her use the inhaler more conveniently."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to try walking on the rope again.",
+            "[person_1] intends to lift himself up and move to the wheelchair next to him.",
+            "[person_1] intends to put down the cards.",
+            "[person_1] intends to use a stick to hit someone's leg on the other team.",
+            "[person_1] will continue to play drums enthusiastically."
+        ],
+        "reason": [
+            "[person_1] got a lot of momentum.",
+            "[person_1] looks very interested in playing it.",
+            "[person_1] looks very focused while playing didgeridoo.",
+            "[person_1] may try to keep balance.",
+            "[person_1] is facing [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell off?",
+        "answer": [
+            "No one will watch this video.",
+            "[person_1] could get hurt.",
+            "[person_1] may not drink.",
+            "[person_1] could not get hurt.",
+            "[person_1] would stand up quickly."
+        ],
+        "reason": [
+            "The mattress is on full of the floor.",
+            "Because [person_1] did not need to focus on [person_1] to see what [person_1] said.",
+            "The mattress is not on part of the floor.",
+            "The [person_1] tries to throw from the shot put stop - board to get point.",
+            "The mattress is on part of the floor."
+        ]
+    }
+}

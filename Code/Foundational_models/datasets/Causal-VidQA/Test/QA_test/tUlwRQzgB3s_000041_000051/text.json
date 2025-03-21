@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the bedroom.",
+            "[person_1] and [person_2] are on the floor.",
+            "[person_1] and [person_2] are in the bathroom.",
+            "[person_1] and [person_2] are at the roller rink.",
+            "[person_1] and [person_2] are in the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "Because [person_1] is having fun with [person_2] , and [person_1] is having a good time.",
+            "[person_1] doesn't like [person_2]'s present.",
+            "[person_1] has his favorite present.",
+            "[person_1] just did somersaults.",
+            "[person_1] is swallowing sword."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] has an intention of playing the flute.",
+            "[person_1] intends to keep singing while playing piano.",
+            "[person_1] intends to play cello.",
+            "[person_1] intends to continue playing checkers with [person_2].",
+            "[person_1] intends to sing."
+        ],
+        "reason": [
+            "[person_1] just folded half the napkin.",
+            "[person_1] is holding a lipstick in her hand.",
+            "The the hand of [person_1] is facing the chess piece.",
+            "[person_1] is putting her fingers on the keyboard.",
+            "[person_1] continuously goes forward and the hand moves continuously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the mirror is broken down?",
+        "answer": [
+            "[person_1] will go to help the driver.",
+            "Maybe [person_1] will rush to the [person_1].",
+            "[person_1] will be sad.",
+            "Maybe [person_1] will buy another one.",
+            "[person_1] and [person_2] will be injured."
+        ],
+        "reason": [
+            "The fragments of the mirror are very sharp.",
+            "[person_1] will buy a new one.",
+            "[person_1] moves the knife up and down to sharpen it.",
+            "Because the floor is solid and [person_2] can't drill without the machine.",
+            "Because a sudden power failure may indicate some emergencies."
+        ]
+    }
+}

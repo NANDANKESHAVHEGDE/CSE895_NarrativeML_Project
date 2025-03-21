@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "it is black.",
+            "It is white.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_1]?",
+        "answer": [
+            "Maybe [person_1] is participating in a competition.",
+            "[person_1] is stacking dice.",
+            "[person_1] wants to be high to throw the ball into [person_1].",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] also grinds the stone next.",
+            "[person_1] is going to show his skills.",
+            "[person_1] will stop playing the electric guitar.",
+            "[person_1] is going to continue to shovel plaster to the machine until it is enough.",
+            "[person_1] is going to meet friends."
+        ],
+        "reason": [
+            "There are many other goats waiting for food from [person_1].",
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] stacks very well.",
+            "[person_1] is having his turn next.",
+            "[person_1] stomped continuously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] enters the dice stack contest?",
+        "answer": [
+            "[person_1] has no chance to win.",
+            "The two men will call for others' help.",
+            "[person_1] will have a chance to win.",
+            "Her coach - [person_1] wouldn't get up.",
+            "[person_1] wouldn't be able to do that technique."
+        ],
+        "reason": [
+            "[person_1]'s technique is very good.",
+            "The audience pay for the show , so if they don't satisfy with the song [person_1] and [person_1] will change.",
+            "The crash would be strong.",
+            "There is no lid on the bag.",
+            "Because [person_1]'s team practiced many times for the chance."
+        ]
+    }
+}

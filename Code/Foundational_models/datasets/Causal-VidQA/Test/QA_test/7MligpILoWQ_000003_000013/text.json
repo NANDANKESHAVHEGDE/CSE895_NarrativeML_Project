@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] wearing?",
+        "answer": [
+            "[person_2] is white.",
+            "[person_2] is on the ground.",
+            "[person_2] is white.",
+            "[person_2] is wearing shorts.",
+            "The color of [person_2] is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people in the room?",
+        "answer": [
+            "[person_1] is playing luge sport.",
+            "This is a gym for many people.",
+            "[person_2] is trying to press juice from oranges.",
+            "Because the camels are having a rest.",
+            "[person_2] is roasting marshmallows for [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to do lunges.",
+            "[person_1] is going to continue to dance.",
+            "[person_1] will enjoy the coco.",
+            "[person_1] will make the sandwich confidently.",
+            "[person_1] will continue to climb."
+        ],
+        "reason": [
+            "[person_1] is holding a guitar.",
+            "[person_1] is holding the harmonica.",
+            "[person_1] is holding newspaper.",
+            "Maybe [person_1] is playing an interesting song.",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] slipped the left foot?",
+        "answer": [
+            "[person_2] will twist the arm.",
+            "[person_2] would falls.",
+            "[person_2] would hurt himself very badly.",
+            "[person_2] might get hurt.",
+            "[person_2] might stop practicing ."
+        ],
+        "reason": [
+            "[person_2] has yet to be able to control the unicycle competently.",
+            "[person_2] would cover part of the screen if she were on the stage.",
+            "[person_2] is feeding the sheep and does not notice the goat next to her.",
+            "[person_2] was lowing his knee and holding a baseball - bat on his shoulder.",
+            "The [person_2] is next to her bed."
+        ]
+    }
+}

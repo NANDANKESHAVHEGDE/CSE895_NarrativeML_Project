@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "It is black.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a cup?",
+        "answer": [
+            "[person_1] is shaking the dice.",
+            "To wait for the bubbles around [person_1].",
+            "The [person_1] could not keep balance while walking stilts.",
+            "[person_1] is stacking dice.",
+            "The [person_1] lost balance and didn't want to fall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] may continue to stand there.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may turn around.",
+            "[person_1] will rip the paper.",
+            "[person_1] is going to show his skills."
+        ],
+        "reason": [
+            "[person_1] has finished checking the computer.",
+            "[person_1] looks like a pro player.",
+            "[person_1] is shaking the arms.",
+            "It seems they are not going to stop now.",
+            "[person_1] is warming up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] enters the dice stack contest?",
+        "answer": [
+            "[person_1] has no chance to win.",
+            "[person_1] will have a chance to win.",
+            "The two men will call for others' help.",
+            "[person_1] will have no chance to win.",
+            "[person_1] wouldn't be able to do that technique."
+        ],
+        "reason": [
+            "Cramps may prevent [person_1] from stretching leg.",
+            "Opponents will have to be wary of [person_1]'s dice.",
+            "No one is watching [person_1] and [person_1].",
+            "Opponents will have to be wary of [person_1]'s speed.",
+            "There would be nothing for [person_1] to see and surprise."
+        ]
+    }
+}

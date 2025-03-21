@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is sitting next to the box.",
+            "[person_2] is hitting on the head of [person_2].",
+            "[person_2] is folding a shirt.",
+            "[person_2] is enthusiastically cleaning the shoes.",
+            "[person_2] is unwrapping the presents."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] turning away?",
+        "answer": [
+            "[person_1] is playing water slide.",
+            "[person_1] is feeling shy.",
+            "[person_1] is helping [person_1] swallow the sword.",
+            "The [person_1] is looking for something in the [person_1].",
+            "Because [person_1] is focusing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up to get more stones.",
+            "[person_1] is introducing the tool.",
+            "[person_1] will definitely start wrapping the gift.",
+            "[person_1] is going to recheck the positions of the rectangular mirror and the round mirror.",
+            "[person_1] may prepare to state."
+        ],
+        "reason": [
+            "He seems like this kind of jump.",
+            "[person_1] wears a very nice set of clothes and [person_1] fixes [person_1]'s hair in the mirror.",
+            "[person_1] is holding a micro.",
+            "It is dirty after taking shower for [person_1].",
+            "[person_1] picks up plaster on the hawk board to plaster the wall."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] finishes cleaning shoes?",
+        "answer": [
+            "[person_2] will not swallow it.",
+            "[person_2] will cry.",
+            "[person_2] will stand up and leave.",
+            "[person_2] will get all her clothes wet.",
+            "[person_2] will feel better and stronger."
+        ],
+        "reason": [
+            "[person_2] feels uncomfortable when sitting too long.",
+            "Drug can make [person_2]'s hand stop bleeding.",
+            "They don't believe [person_2] can get it.",
+            "Swallowing a gum is dangerous.",
+            "[person_2] is playing baseball."
+        ]
+    }
+}

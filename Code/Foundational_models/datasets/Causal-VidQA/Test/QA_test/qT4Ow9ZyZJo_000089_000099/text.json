@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [car_1]?",
+        "answer": [
+            "[car_1] is a black car.",
+            "The [car_1] is bringing a bag.",
+            "The [car_1] is next to [car_1].",
+            "[car_1] is blue.",
+            "[car_1] is on the corner behind [car_1]'s back."
+        ]
+    },
+    "explanatory": {
+        "question": "How the plane machine can smooth the wood in one plane?",
+        "answer": [
+            "Because it is high technology machine.",
+            "They want to play a game of dominoes.",
+            "Because it's easier to use the microscope.",
+            "Maybe it's hot inside.",
+            "Audience can watch the steps more clearly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to show the wood after he planed it.",
+            "[person_1] is going to continue to comb his hair with this comb."
+        ],
+        "reason": [
+            "[person_1] is touching three cups.",
+            "[person_1] wants to show the result of the machine.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] didn't have this machine?",
+        "answer": [
+            "[person_1] will try jumping.",
+            "[person_1] wouldn't smile.",
+            "Maybe she will go out with [person_1]'s friends.",
+            "[person_1] would no longer be able to play the piano piece.",
+            "[person_1] would have to spend more time to plane it by hand."
+        ],
+        "reason": [
+            "Because every child should follow the same rule and [person_1] seems to be the teacher so [person_1] will criticize the child who didn't follow the rule.",
+            "Because [person_1] needs to use the surveillance camera.",
+            "Because there is gravity to drag them down.",
+            "[person_1] is pleased to have this machine.",
+            "When [person_1] comes on board , [person_1] was listing."
+        ]
+    }
+}

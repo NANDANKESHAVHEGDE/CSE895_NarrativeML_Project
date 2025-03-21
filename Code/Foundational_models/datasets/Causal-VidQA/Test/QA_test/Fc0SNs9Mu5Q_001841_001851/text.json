@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [chair_1]?",
+        "answer": [
+            "[chairs_1] is black.",
+            "[chairs_1] is looking at the cap of [chairs_1].",
+            "[chair_1] is using the left hand to hold the cigarette.",
+            "It is green with many trees.",
+            "[chair_1] and [chair_1] are holding red handfans."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] focusing on computer screen?",
+        "answer": [
+            "[person_1] and [person_1] are in the same team.",
+            "[person_1] is reading news on the computer.",
+            "Because he thinks it is fun.",
+            "[person_1] is \u00a0 preparing to somersault.",
+            "[person_1] came to open presents."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after sitting on the chair?",
+        "answer": [
+            "[person_1] will begin to skate.",
+            "[person_1] will see the performance of the competitors.",
+            "[person_1] will continue the training.",
+            "[person_1] will begin to surf the Internet.",
+            "[person_1] will feel very excited."
+        ],
+        "reason": [
+            "Because meat that people don't eat needs to be frozen.",
+            "Because the pathway is going left.",
+            "[person_1] wants to be better at doing high - kick.",
+            "It seems that [person_1] is concentrating on the computer.",
+            "Because if water is on it , it can cause rust."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room lost power suddenly?",
+        "answer": [
+            "He would have to re - color [person_2] from the beginning or , in the worst case , recreate [person_2].",
+            "[person_1] , [person_2] and [person_1] might leave it alone.",
+            "Then [person_1] and [person_2] will jump into the water to save the diver.",
+            "[person_1] will give it more food.",
+            "[person_1] , [person_2] will stop reading."
+        ],
+        "reason": [
+            "[person_1] can't see or do exercise without light in this room.",
+            "[person_1] and [person_2] need electricity to reading news on the computer.",
+            "[person_1] could not see or do anything without light in this room.",
+            "[person_1] cannot see or do anything without light.",
+            "[person_1] has two hockey balls."
+        ]
+    }
+}

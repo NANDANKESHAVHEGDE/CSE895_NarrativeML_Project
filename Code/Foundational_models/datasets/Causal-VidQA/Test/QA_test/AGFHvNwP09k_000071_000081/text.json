@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is playing the piano?",
+        "answer": [
+            "[person_2] is blue.",
+            "[person_2] is red.",
+            "The T - shirt is orange.",
+            "[person_2] is playing the piano.",
+            "[person_2] is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] not standing?",
+        "answer": [
+            "[person_1] is \u00a0 somersaulting with the sports ball.",
+            "[person_1] can not play the piano while standing.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is doing a plunge.",
+            "[person_1] is playing flute . Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to deal cards.",
+            "[person_1] will teach how to kick the ball.",
+            "[person_1] will fasten the belt on the white cloth.",
+            "[person_1] will go on teaching someone how to play cymbals.",
+            "[person_1] will continue practicing with [person_2]."
+        ],
+        "reason": [
+            "[person_1] is teaching how to use the tool.",
+            "[person_1] likes the candles.",
+            "Because [person_1] feels tired.",
+            "[person_1] and [person_2] need more practicing.",
+            "[person_1] is telling us about the composition of bicycle wheels."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not with [person_1]?",
+        "answer": [
+            "[person_1] might leave and find it at once.",
+            "They will be afraid.",
+            "She will ask for a spoon.",
+            "[person_1] might not practice performing.",
+            "[person_1] would not hit [person_1]."
+        ],
+        "reason": [
+            "[person_1] need to practice with [person_2].",
+            "Because last second they were still immersed in the joy of eating watermelon.",
+            "[person_1] can play with the babysitter.",
+            "There are a lot of chairs next to the dog.",
+            "Because [person_2] will sound an alarm."
+        ]
+    }
+}

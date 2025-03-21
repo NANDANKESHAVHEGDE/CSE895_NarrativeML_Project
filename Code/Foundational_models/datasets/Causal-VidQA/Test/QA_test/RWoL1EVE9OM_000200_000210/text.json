@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall?",
+        "answer": [
+            "The wall is yellow.",
+            "The wall is black.",
+            "The wall is blue.",
+            "The flute is white.",
+            "The wall is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the wall white?",
+        "answer": [
+            "With many tools.",
+            "It will be easy to feed by staying at higher place.",
+            "White makes the room brighter.",
+            "[person_1] is reading news in a magazine.",
+            "[person_1] wants to polish the shoe."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the organ.",
+            "It is foreseen that [person_1] will sit down.",
+            "[person_1] intends to try jumping rope again.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to play the cello."
+        ],
+        "reason": [
+            "Maybe [person_1] been playing the guitar for a long time.",
+            "Maybe [person_1] can move on his own.",
+            "Because [person_1] wants to help everyone become happier.",
+            "[person_1] looks very interested and wants to try folding clothes . [person_1] doesn't fold clothes.",
+            "[person_1] prepares to play the guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "Maybe [person_1] will cry.",
+            "[person_1] will not stop high kicking.",
+            "The piano won't be able to work.",
+            "The light will be off.",
+            "[person_1] won't be happy."
+        ],
+        "reason": [
+            "There will be no electricity connected to the lights.",
+            "[person_1] doesn't know what to do.",
+            "[person_1] is practicing very hard.",
+            "The room is dark and there is no light.",
+            "There will be no light in this room."
+        ]
+    }
+}

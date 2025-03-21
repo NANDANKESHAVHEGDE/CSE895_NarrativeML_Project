@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is using the slipper.",
+            "[potted plant_1] is round ball.",
+            "[potted plant_1] is on the table.",
+            "[potted plant_1] is behind the [potted plant_1].",
+            "[potted plant_1] is directly in front of [potted plant_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep his head on the ground?",
+        "answer": [
+            "[person_1] is opening her Christmas presents.",
+            "[person_1] is defecating.",
+            "[person_1] wants to do somersaults.",
+            "[person_1] is stacking cups.",
+            "[person_1] is singing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue what he did.",
+            "[person_1] is going to dance.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to stop doing somersaults."
+        ],
+        "reason": [
+            "[person_1] is ripping paper.",
+            "[person_1] is sitting on the snowmobile.",
+            "The message says he should come home for dinner.",
+            "[person_1] is in the gymnastic.",
+            "[person_1] is lying on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [potted plant_1] falls down?",
+        "answer": [
+            "[potted plant_1] would be injured.",
+            "[person_1] will fix the chair legs first.",
+            "[person_1] will be injured.",
+            "The prison will escape from the garage.",
+            "[person_1] won't use it."
+        ],
+        "reason": [
+            "Because [potted plant_1] only claps her hands when she agrees with [person_1].",
+            "[person_1] is a kid . [person_1] is weak and small.",
+            "Because [person_1] doesn't need cup to drink beer , he can drink straight from beer bottles.",
+            "Because it's late.",
+            "[person_1] can hit a shard of [potted plant_1]."
+        ]
+    }
+}

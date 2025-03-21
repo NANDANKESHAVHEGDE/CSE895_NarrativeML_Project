@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "It is on the [dinning table_1]",
+            "The [dinning table_1] is behind [cup_1].",
+            "[dinning table_1] is behind [dinning table_1].",
+            "Yes.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stand up?",
+        "answer": [
+            "[person_1] has a short rope.",
+            "Because they find it interesting.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_1] goes out.",
+            "[person_1] is confused."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] does a workout.",
+            "[person_1] is going to stop play the lute.",
+            "[person_1] will stop watering.",
+            "[person_1] will check the honey.",
+            "[person_1] might stand up."
+        ],
+        "reason": [
+            "[person_1] is going out.",
+            "[person_1] is holding the spray.",
+            "[person_1] is finishing the product.",
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1] showed the snake and kept stepping forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] isn't here?",
+        "answer": [
+            "[person_1] would dance alone.",
+            "[person_1] won't play the lute.",
+            "All the people around will stretch their hands before he falls down.",
+            "It is probable that [person_1] won't be able to walk.",
+            "[person_1] may continue to drink it."
+        ],
+        "reason": [
+            "There would be only [person_1] and his partner dancing there.",
+            "It can not be eat.",
+            "The room will be silent.",
+            "There would be no one else to replace [person_1] to dance with [person_1].",
+            "There is a crossroad ahead."
+        ]
+    }
+}

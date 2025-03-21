@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are in their house.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "They are in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing next to [boat_1] ?",
+        "answer": [
+            "[person_1] and [person_2] are playing together.",
+            "Because [person_1] wants to hang it for convenience and this plant should hang.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is using [person_1] to squeeze oranges.",
+            "Because [person_1] wants to make bubbles."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to stop dancing.",
+            "[person_1] and [person_2] are going to skip in different ways.",
+            "[person_1] and [person_2] are going to play with water in [boat_1] .",
+            "[person_1] and [person_2] are going to perform different moves.",
+            "[person_1] and [person_2] are going to dance to the music."
+        ],
+        "reason": [
+            "[boat_1] is full of water and [person_1] and [person_2] are putting their hands in [boat_1].",
+            "[person_1] and [person_2] are trying to keep balanced.",
+            "[person_1] and [person_2] wants to feed the fish and see.",
+            "[person_1] and [person_2] finish smelling the beer and start talking.",
+            "[person_1] and [person_2] are paying a lot of attention to the drill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] splashes water on [person_1] ?",
+        "answer": [
+            "[person_1] will splash water back on [person_2].",
+            "[person_1] will take [person_2] away home.",
+            "[person_1] won't splash water back on [person_2].",
+            "[person_2] will change the sports for [person_1].",
+            "[person_1] will splash water away on [person_2]."
+        ],
+        "reason": [
+            "May be [person_2] can be useful for [person_1].",
+            "[person_1] and [person_2] will play together happily.",
+            "Because [person_1] is still holding the vacuum and does not use this vacuum.",
+            "[person_1] and [person_2] won't play together happily.",
+            "Roller skates are the most important in skating."
+        ]
+    }
+}

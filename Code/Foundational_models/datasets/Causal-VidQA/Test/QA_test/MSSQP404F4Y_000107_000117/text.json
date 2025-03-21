@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the luge car?",
+        "answer": [
+            "It's a plant.",
+            "It's yellow.",
+            "[person_1] is sitting in front of the keyboard.",
+            "[person_1] is at the spa.",
+            "[person_1] is sitting close to the camera."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] drive the luge car?",
+        "answer": [
+            "[person_1] is listening to music.",
+            "He wants to test emotion when he plays.",
+            "[person_1] is enjoying the rhythm of music.",
+            "[person_1] wants to keep balance for tai chi moves.",
+            "[person_1] is listening to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he starts to record?",
+        "answer": [
+            "[person_1] will move the tire to another place.",
+            "[person_1] is going to light the candle.",
+            "[person_1] will control the rein.",
+            "[person_1] will continue moving forward.",
+            "[person_1] will see the performance of competitor."
+        ],
+        "reason": [
+            "[person_1] wants to know how fast he could run.",
+            "The video intends to persuade people into buying golf.",
+            "[person_1] does not tend to stop what he is doing.",
+            "It will be much easier to open the bottle by using a tool.",
+            "[person_1] has fallen down and didn't get up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will stop jumping long.",
+            "[person_1] maybe stop stomping.",
+            "[person_1] maybe stop doing this.",
+            "[person_1] can't play game.",
+            "[person_1] will enter the house."
+        ],
+        "reason": [
+            "[person_1] needs to find shelter from the rain.",
+            "[person_1] will need to avoid raining.",
+            "[person_1] is outside , so if it rains they will get wet.",
+            "[person_1] needs to find a shelter.",
+            "[person_1] is performing a national ritual."
+        ]
+    }
+}

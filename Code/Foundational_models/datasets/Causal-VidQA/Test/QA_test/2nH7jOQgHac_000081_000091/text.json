@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a barrel of grapes.",
+            "[person_1] is in the gym.",
+            "[person_1] is near the house.",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] is in the kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] there?",
+        "answer": [
+            "[person_1] is playing kickball with friends.",
+            "[person_1] is practicing baseball in the stadium.",
+            "[person_1] wants to stomp on grapes.",
+            "Because [person_1] is so excited.",
+            "[person_1] is excited about painting."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will dribble the two sports balls to the other side.",
+            "[person_1] will continue raising the lifts.",
+            "[person_1] will continue to support [person_1] in stomping the grapes.",
+            "[person_1] may continue to use the razor to shave head after cleaning it.",
+            "[person_1] will probably continue stomping grapes until [person_1] feels tired."
+        ],
+        "reason": [
+            "[person_1] is putting the knife on the knife sharpener.",
+            "[person_1] is opening a cloth bag.",
+            "Because there is a leather on the [person_1] and [person_1] is holding a tool for leatherworking.",
+            "Because [person_1] cannot finish a hefty amount of grapes thoroughly within half an hour.",
+            "Because [person_1] thinks himself done a good job."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] tripped and fell onto the grapes he was currently stomping?",
+        "answer": [
+            "[person_1] would get clean.",
+            "[person_1] will not be here.",
+            "[person_1] would get dirty.",
+            "She will also enjoy it.",
+            "[person_1] would not get dirty."
+        ],
+        "reason": [
+            "Because [person_1] would be covered with grape juice all over his head.",
+            "[person_1] is holding the blacking brush and [person_1] just polished shoes of [person_1].",
+            "Because [person_1] would not be covered with grape juice all over his body.",
+            "Because [person_1] already show him how to do with it.",
+            "Because [person_1] would be covered with grape juice all over his body."
+        ]
+    }
+}

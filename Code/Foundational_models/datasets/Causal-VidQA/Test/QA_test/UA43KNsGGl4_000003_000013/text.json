@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_2] and [person_3]?",
+        "answer": [
+            "[person_3] and [person_2] are in the big room.",
+            "[person_3] and [person_2] are on the basketball court.",
+            "[person_2] and [person_3] are are on the road.",
+            "[person_2] and [person_2] are in the swimming pool.",
+            "[person_2] and [person_2] are in the barber shop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_3] outside?",
+        "answer": [
+            "[person_1] and [person_2] are playing didgeridoo.",
+            "[person_2] is starting to slackline.",
+            "Because the [person_1] is keeping hands warm.",
+            "[person_1] is squeezing oranges to make juice.",
+            "It's easier to pick mushroom."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] and [person_3] do next?",
+        "answer": [
+            "[person_1] will perform.",
+            "[person_2] and [person_3] will definitely practicing boxing.",
+            "[person_1] and [person_2] will continue to huddling.",
+            "[person_1] and [person_2] may perform next.",
+            "They will keep climbing."
+        ],
+        "reason": [
+            "[person_2] and [person_3] are attracting people to watch.",
+            "[person_3] and [person_3] have been taught before.",
+            "[person_3] and [person_2] kept talking about the way to hoop better.",
+            "Because the tutor asks them to do that.",
+            "The break time is over."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] and [person_3] have viewers?",
+        "answer": [
+            "[person_3] would not get the tone [person_3] wants.",
+            "[person_2] and [person_3] will continue to perform.",
+            "[person_2] will stop eating hot dogs.",
+            "[person_3] will call the maintenance worker.",
+            "[person_2] will not put the ice."
+        ],
+        "reason": [
+            "Viewers will like and be satisfied.",
+            "Because dancers stand very close , one person falls , which will affect others.",
+            "Because broken badminton racket can not used to play anymore.",
+            "[person_2] and [person_3] will earn money from viewers.",
+            "[person_3] was happy."
+        ]
+    }
+}

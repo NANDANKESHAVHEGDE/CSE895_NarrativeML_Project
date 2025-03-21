@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the floor.",
+            "[person_1] and [person_2] are at the roller rink.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are in a room.",
+            "[person_1] and [person_2] are in the swimming pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the swimming pool?",
+        "answer": [
+            "[person_1] puts his hands on the floor and stretches the resistance band",
+            "[person_2] is stretching her arms.",
+            "[person_1] is reading something in a newspaper.",
+            "[person_1] and [person_2] are playing beer pong in the swimming pool.",
+            "[person_1] is brushing [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] intend to do?",
+        "answer": [
+            "[person_2] is about to go down.",
+            "[person_2] tends to play tug of war.",
+            "[person_2] is going to carry on playing drums.",
+            "[person_2] is about to throw an axe again.",
+            "[person_2] intends to throw the ball into cups."
+        ],
+        "reason": [
+            "[person_2] raised the ball up.",
+            "[person_2] danced and raised his leg.",
+            "There are some posters about wine in the back.",
+            "Because the road condition is fine.",
+            "[person_2] is slowly lowering [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] throws the ball out?",
+        "answer": [
+            "The ball will not bounce out of the sink.",
+            "[person_2] won't be able to play it.",
+            "[person_1] will get to play.",
+            "The other two will continue to record videos.",
+            "[person_2] will get angry."
+        ],
+        "reason": [
+            "The wrong posture will make his leg twist.",
+            "[person_2] is practicing on the slippery floor.",
+            "[person_1] and [person_2] throw the ball alternately.",
+            "The wind will prevent [person_2] and [person_1] from lighting up their candles.",
+            "[person_1] dance well."
+        ]
+    }
+}

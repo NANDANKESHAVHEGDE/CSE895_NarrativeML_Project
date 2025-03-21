@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room that [person_1] is sitting?",
+        "answer": [
+            "[person_1] looks like a baby.",
+            "It's a beer.",
+            "The room has many musical instruments.",
+            "[person_1] is in the playground.",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is training.",
+            "Maybe [person_1] is playing laser tag.",
+            "[person_1] is trying to play lute.",
+            "[person_1] looks very happy while playing didgeridoo.",
+            "[person_1] is excited about holding these cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to come back home.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to keep playing hard.",
+            "[person_1] is going to take a bus.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "[person_1] is playing very professionally.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is going to put the shoe down.",
+            "[person_1] is dancing in free style."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops his lute?",
+        "answer": [
+            "[person_1] may stop fishing.",
+            "The crocodile may attack [person_1].",
+            "It would fly away.",
+            "The guitar will be damaged.",
+            "[person_1]'ll find a place to hide from the snow."
+        ],
+        "reason": [
+            "[person_1] will be nervous.",
+            "The grass is clean where [person_1] passed.",
+            "The fire is very hot.",
+            "There is only one cloth on [person_1] . If the only one is falling off , then she will be naked.",
+            "[person_1] didn't bring an umbrella."
+        ]
+    }
+}

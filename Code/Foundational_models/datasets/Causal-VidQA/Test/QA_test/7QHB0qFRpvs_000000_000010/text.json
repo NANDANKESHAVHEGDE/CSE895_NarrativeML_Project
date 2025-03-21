@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is training the [dog_1].",
+            "The [person_1] is reading the newspaper.",
+            "The [person_1] is opening [dog_1] door.",
+            "The [person_1] is holding the [person_1].",
+            "The [person_1] is wearing pants."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the refrigerator?",
+        "answer": [
+            "Because the [person_1] wants to show the internal structure of the refrigerator.",
+            "Because [person_1] is playing guitar and whistling.",
+            "Because [person_1] wants to make circles on the picture.",
+            "Maybe [person_1] wants to show us how to open it again.",
+            "The [person_1] seems to be looking for something in the refrigerator."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will continue to give the dog a bath.",
+            "The [person_1] will talk to the dog.",
+            "The [person_1] will continue trying to pet the dog.",
+            "The [person_1] may give the [dog_1] a little treat.",
+            "The [person_1] will continue cutting the hair of the dog."
+        ],
+        "reason": [
+            "Because the [dog_1] needs food to motivate them during the training process.",
+            "Because the [person_1] wants to teach others how to take care of dogs.",
+            "Because if the [person_1] do not mix well will make the liquid in the [person_1] failed.",
+            "Because the [person_1] is tired.",
+            "Because the dog seems to resist the [person_1] touching it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the refrigerator suddenly loses power?",
+        "answer": [
+            "[person_1] will put down the guitar.",
+            "The [person_1] will check the cause of the power failure.",
+            "Then [person_1] might throw the plate away.",
+            "The [person_1] will not check the cause of the power failure.",
+            "[person_1] and [person_1] will go back home."
+        ],
+        "reason": [
+            "Because the power failure of the refrigerator will not affect the use.",
+            "Because cookies stick to the plate , if they can't be shoveled off , the plate can't be used any more , so the plate will be thrown away.",
+            "Because the power failure of the refrigerator will affect the use.",
+            "the power failure is able to keep balanced quite well at the begining of the video.",
+            "Because the power failure of the refrigerator will maintain the use."
+        ]
+    }
+}

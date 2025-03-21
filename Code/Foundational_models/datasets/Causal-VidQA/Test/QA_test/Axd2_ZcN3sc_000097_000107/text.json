@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is trimming shrubs.",
+            "[person_1] is uncorking the bottles.",
+            "[person_1] is playing music.",
+            "[person_1] is recording for a TV show.",
+            "[person_1] is playing field hockey."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_2] standing there?",
+        "answer": [
+            "[person_1] holds a badminton racket to play badminton with friends.",
+            "Because [person_1] is relaxing.",
+            "[person_2] is helping [person_1] to trim shrubs.",
+            "[person_1] is helping [person_2] practicing martial arts.",
+            "[person_2] is joining the game that [person_2] likes."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] and [person_2] next?",
+        "answer": [
+            "After finishing spreading the cake evenly , the person will place the other half of the cake on top to start the completion.",
+            "[person_1] and [person_2] will continue to trim shrubs.",
+            "[person_1] may find out something happening far from [person_1] . ",
+            "[person_1] is likely to ask [person_1].",
+            "The [person_1] and the [person_2] may open the box together."
+        ],
+        "reason": [
+            "Because [person_2] is wearing pajamas.",
+            "[person_1] is explaining to the camera.",
+            "[person_1] is upset about the fail landing.",
+            "[person_1] and [person_2] have not finished trimming shrubs yet.",
+            "[person_1] is dancing on the stage."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_2] was not there?",
+        "answer": [
+            "[person_2] might be unable to hula hoop.",
+            "[person_1] would not hit more.",
+            "[person_2] would have to perform alone.",
+            "[person_1] would have to clean up the trimmed tree.",
+            "The match could not start."
+        ],
+        "reason": [
+            "[person_2] and [person_1] would not have any instruction to follow.",
+            "[person_2] is just a child and [person_2] feels scared when there is no one around.",
+            "[person_1] wants to play with [person_2].",
+            "[person_1] would have to do the work of [person_2] too if [person_2] wasn't there.",
+            "No one would instruct [person_2] how to ski."
+        ]
+    }
+}

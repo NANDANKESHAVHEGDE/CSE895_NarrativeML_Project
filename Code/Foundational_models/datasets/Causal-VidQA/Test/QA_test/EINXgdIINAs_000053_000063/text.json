@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It's very cold outside.",
+            "[person_2] is behind [person_2].",
+            "[person_2] is sitting at the piano.",
+            "It is sunny.",
+            "It is cloudy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting outside?",
+        "answer": [
+            "[person_1] and [person_2] are playing flute with other people.",
+            "The foot of [person_1] is hurt.",
+            "[person_2] is joining the game that [person_2] likes.",
+            "Because [person_1] is a carpenter.",
+            "[person_1] and [person_2] are playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to continue to comb his hair with this comb.",
+            "[person_1] is going to keep playing with [person_2].",
+            "[person_1] will check the result."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "[person_1] looks very cool.",
+            "Because [person_1] acts as a guide.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the chessboard is missing a few pieces?",
+        "answer": [
+            "[person_1] may not playing.",
+            "[person_1] needs to hold the instrument.",
+            "The fire might hurt people.",
+            "[person_1] would feel unhappy.",
+            "Then [person_1] will make some more raw materials."
+        ],
+        "reason": [
+            "Only when [person_1] put hand in the sink did the people in the back tap it on.",
+            "[person_1] plays better than [person_1].",
+            "[person_1] tried to open the box with hands once.",
+            "[person_1] is acting very hard.",
+            "[person_1] will buy a new chess."
+        ]
+    }
+}

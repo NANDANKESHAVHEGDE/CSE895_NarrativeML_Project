@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the wall?",
+        "answer": [
+            "It is dark with the spot light on the stage only.",
+            "[person_1]'s shirt is black.",
+            "It is well - decorated.",
+            "There's a picture of Mario on the wall.",
+            "The inscription is NASA."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a picture of Mario on the wall?",
+        "answer": [
+            "This is a children's playroom.",
+            "Because the gym equipment needs a place to store it.",
+            "[person_1] and [person_1] are playing chess.",
+            "The [person_1] peels the potatoes.",
+            "The [person_1] is opening the gift."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] is likely to put on foundation.",
+            "[person_1] intends to wrap the gift again.",
+            "[person_1] intends to do more somersaults.",
+            "[person_1] intends to lift himself up and move to the wheelchair next to him.",
+            "[person_1] will kiss [person_1]."
+        ],
+        "reason": [
+            "[person_1] is playing.",
+            "[person_1] is holding it.",
+            "Because [person_1] crouches down toward the pool table.",
+            "The guitar is on the floor.",
+            "[person_1] is bending down the body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the room didn't have pillows?",
+        "answer": [
+            "[person_1] won't be able to play.",
+            "[person_1] can't set bricks in perfectly straight rows.",
+            "[person_1] might not somersault.",
+            "[person_1] would not wear glasses.",
+            "[person_1] wouldn't see anything."
+        ],
+        "reason": [
+            "[person_1] is running around and taking the coil in his hands.",
+            "[person_1] is not able to land on his feet , he needs pillows to not get hurt.",
+            "[person_1] will feel uncomfortable when encountering this problem.",
+            "[person_1] is a baby ; if the wrapping paper has a nasty taste , it would quickly spit it out of its mouth.",
+            "Because people in the video tutorials can also teach them."
+        ]
+    }
+}

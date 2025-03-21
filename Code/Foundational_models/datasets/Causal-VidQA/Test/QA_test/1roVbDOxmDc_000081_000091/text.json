@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [sports ball_1]?",
+        "answer": [
+            "[sports ball_1] is sitting on the floor.",
+            "[sports ball_1] is in the room.",
+            "[sports ball_1] is in the corner of the yard.",
+            "[sports ball_1] is sitting on the chair in the room.",
+            "[sports ball_1] is orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many weights to practice on the field?",
+        "answer": [
+            "Because [person_1] wants to ski safely.",
+            "Using the mobile phone.",
+            "Because the man is proposing to [person_1].",
+            "Because this is an outdoor training ground.",
+            "Maybe [sports ball_1] is \u00a0 practicing the lute - playing skills."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may take off the clip.",
+            "[person_1] is going to have a meal.",
+            "[person_1] is going to do a workout with round dumbbells.",
+            "[person_1] is going to do many air tricks.",
+            "[person_1] is going to play baseball."
+        ],
+        "reason": [
+            "Maybe [person_1] looks thirsty and tired.",
+            "Because [person_1] has successfully finished the training.",
+            "Maybe [person_1] loves to read.",
+            "Because [person_1] is very happy.",
+            "So that [person_1] wants a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it rains?",
+        "answer": [
+            "[person_1] can't continue to practice in the yard.",
+            "[person_1] will be disqualified from the competition.",
+            "[person_1] can continue to practice in the yard.",
+            "[person_1] will stop filming.",
+            "[person_1] can't continue to practice outside the yard."
+        ],
+        "reason": [
+            "Because the yard does have a roof , it is not possible to practice in the rain.",
+            "The room will be dark.",
+            "Because the yard does not have a roof , it is possible to practice in the rain.",
+            "Because the scooter can not be used in a crowded place.",
+            "Because the yard does not have a roof , it is not possible to practice in the rain."
+        ]
+    }
+}

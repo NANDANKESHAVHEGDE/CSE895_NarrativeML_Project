@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] in a gym?",
+        "answer": [
+            "It is [person_1].",
+            "No.",
+            "[person_1] and [person_1] are watching two teams playing badminton.",
+            "Yes.",
+            "[person_1] is standing on the grass."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] keep fit?",
+        "answer": [
+            "Because [person_1] wants to look at the camera.",
+            "Because [person_1] is watering the plants.",
+            "Because [person_1] needs to hit the cap quickly so that he can open it.",
+            "By running.",
+            "[person_1] is interested in playing with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do when his phone rings?",
+        "answer": [
+            "The woman in red is preparing to cross the river.",
+            "[person_1] will use two hands to grasp the foot.",
+            "[person_1] will search for his phone.",
+            "They are waiting for their turn to compete on the track.",
+            "[person_1] is going to clean the floor."
+        ],
+        "reason": [
+            "[person_1] feels tired after a long journey.",
+            "Because [person_1] and [person_1] seem to practice one by one.",
+            "[person_1] needs to answer the phone.",
+            "[person_1] wants to video some actions now so she will stop videoing after she finishes.",
+            "It seems that this team is much stronger than another team."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s phone rings?",
+        "answer": [
+            "[person_1] will take out her phone.",
+            "[person_1] will draw down the curtains.",
+            "[person_1] will search for his phone.",
+            "[person_1] will break the glass in the back.",
+            "[person_1] would not dance with other dancers."
+        ],
+        "reason": [
+            "[person_1] can bend back by herself.",
+            "The clothes taken from home is in the car.",
+            "[person_1] doesn't want to miss anything important.",
+            "[person_1] needs to turn around to get the drinks behind him.",
+            "It has too many things inside the gift box."
+        ]
+    }
+}

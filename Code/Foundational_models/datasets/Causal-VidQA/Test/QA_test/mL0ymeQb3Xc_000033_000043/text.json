@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many hats are there?",
+        "answer": [
+            "There are seven people.",
+            "There are two people.",
+            "There are six people.",
+            "There are four.",
+            "There are five people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking at the strings?",
+        "answer": [
+            "[person_1] is showing the way shining shoes.",
+            "Because pedaling with one foot is difficult so [person_1] spread his arms to keep balance.",
+            "[person_1] can hit the right tune.",
+            "[person_1] practices before the competition.",
+            "This can help her use the inhaler more conveniently."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will be naughty [person_1].",
+            "Maybe [person_1] rehearsing for the performance.",
+            "Maybe [person_1] is going to sit.",
+            "[person_1] will store teddy bear.",
+            "[person_1] will put meat into the machine."
+        ],
+        "reason": [
+            "It is too dark.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is practicing hard.",
+            "[person_1] walks away.",
+            "It is very sunny to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays the wrong harp?",
+        "answer": [
+            "[person_1] will stop playing.",
+            "[person_1] would throw the sharpener away.",
+            "[person_1] will break a chessman down.",
+            "[person_1] will practice again.",
+            "[person_1] will use the tools on [person_1] to repair the iron triangle."
+        ],
+        "reason": [
+            "Music can rise him up.",
+            "[person_1]'s teacher teaches all this.",
+            "The weather is cold with large wind.",
+            "[person_1] prepares for the performance.",
+            "Because it is a dangerous act."
+        ]
+    }
+}

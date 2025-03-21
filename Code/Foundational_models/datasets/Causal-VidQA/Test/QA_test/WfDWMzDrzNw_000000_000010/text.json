@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [bench_1]?",
+        "answer": [
+            "The [bench_1] is black.",
+            "The line is yellow.",
+            "It's blue.",
+            "It is checkered.",
+            "There are 4 beers."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the weights?",
+        "answer": [
+            "The [person_1] is introducing the internal structure of the [person_1].",
+            "The [person_1] is looking for something in the [person_1].",
+            "Because [person_1] sat there playing the guitar.",
+            "Because [person_1] is lifting weights.",
+            "The [person_1] seems to be looking for something in the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack three more cups.",
+            "[person_1] is going to cross the street.",
+            "[person_1] will leave.",
+            "[person_1] may keep shaking ropes.",
+            "[person_1] is going to continue to lift."
+        ],
+        "reason": [
+            "[person_1] just started .",
+            "[person_1] feels that the food is not good.",
+            "[person_1] is not going to stop.",
+            "[person_1] hasn't stopped yet.",
+            "[person_1] gave a loud , silly laugh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen in the future if she feels okay with that weights?",
+        "answer": [
+            "Then the people here have to stop kicking.",
+            "The historical reenactment would be ruin.",
+            "[person_1] will increase the weights by a few pounds.",
+            "Cookies won't taste good.",
+            "[person_1]'s hand can't reach the bell to spray."
+        ],
+        "reason": [
+            "Because the students can't kick the people and should kick the boards.",
+            "[person_1] will want to challenge herself.",
+            "Because they could not practice tying knots in the rain.",
+            "Without boards the people can't kick the boards.",
+            "That is the rule of handball."
+        ]
+    }
+}

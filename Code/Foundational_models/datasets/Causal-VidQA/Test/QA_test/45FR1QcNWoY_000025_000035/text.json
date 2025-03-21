@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is tickling [person_2] and [person_3].",
+            "[person_1] is throwing the ball forward.",
+            "[person_1] is snatching weight lifting.",
+            "[person_1] is standing behind the net to play badminton.",
+            "[person_1] is taking mortar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] crawling away?",
+        "answer": [
+            "[person_3] and [person_3] are in a room.",
+            "[person_3] is avoiding being tickled.",
+            "Because no one is sitting on [person_3].",
+            "[person_3] Is watching [person_3] sheering a sheep.",
+            "Because [person_3] kneels on one knee suddenly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may making cookies by herself.",
+            "[person_2] may be going to stop lifting.",
+            "[person_2] is holding his forehead with his hand.",
+            "[person_2] may also stand up.",
+            "[person_2] may not talk to [person_2]."
+        ],
+        "reason": [
+            "[person_3] still high five with [person_2].",
+            "When [person_3] stands up , [person_2] raises her hands to stand up.",
+            "Because [person_2] is holding the chair and try to stand up.",
+            "[person_3] turns her head and looks at [person_2].",
+            "[person_2] is holding a donut and he is going to put it in his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues to tickle?",
+        "answer": [
+            "[person_1] will be injured.",
+            "The sports car can crash into other cars.",
+            "[person_3] may run away.",
+            "[person_1] can fall.",
+            "[person_1] will be dangerous to sit there."
+        ],
+        "reason": [
+            "[person_1] lies on the ground totally before he brings [person_3].",
+            "The [person_1] is shoveling the snow in front of the house.",
+            "[person_1] needs to fix the hat.",
+            "When [person_1] first tickled [person_3] , he crawled away.",
+            "The [person_1] is at the sea."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in a massage room.",
+            "[person_2] is in the garden.",
+            "[person_2] is skating on the stage.",
+            "[person_2] is in the yard.",
+            "[person_2] is in the garden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] lie on the [bed_1]?",
+        "answer": [
+            "[bed_1] is practicing snatching weight lifting.",
+            "[bed_1] is staring at [bed_1]'s feet to shave legs.",
+            "It seems that the [bed_1] wants to pick something in the [bed_1].",
+            "Maybe [bed_1] is playing cup - stacking game.",
+            "To get massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What will the video show next?",
+        "answer": [
+            "[person_2] may be aged 7 - 10.",
+            "[bed_1] will lead the camel to his home.",
+            "It will show other massage courses.",
+            "[bed_1] is going to turn left.",
+            "[person_2] will continue playing with [person_2]."
+        ],
+        "reason": [
+            "Because the website contains lots of massage courses.",
+            "This video is a summary of the remarkable situations of the match.",
+            "Because they do seem to like it.",
+            "[person_2] is still very focused on blowing the clarinet.",
+            "Because they have to continue the match."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] has a backache?",
+        "answer": [
+            "[person_2] will ask for a massage at the back.",
+            "Maybe [person_2] will take a break.",
+            "[person_2] will break his leg.",
+            "[person_2] will be injured.",
+            "[person_2] may not touch the trash can."
+        ],
+        "reason": [
+            "[person_2] is a referee.",
+            "To help relieve the pain at the back.",
+            "The clapping game must require two players.",
+            "Maybe [person_2] will be eliminated from the round.",
+            "[person_2] opened the next pages and read so quickly."
+        ]
+    }
+}

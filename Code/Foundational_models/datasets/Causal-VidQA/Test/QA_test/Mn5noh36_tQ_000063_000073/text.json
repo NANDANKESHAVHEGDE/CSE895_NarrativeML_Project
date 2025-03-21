@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "It's very cold outside.",
+            "It is cloudy.",
+            "It is very sunny.",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding unicycle?",
+        "answer": [
+            "To detect rubbish.",
+            "[person_1] is afraid.",
+            "The [person_1] is avoiding the plate of the [person_1].",
+            "[person_1] is performing.",
+            "To ensure a clean laboratory environment."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he starts to ride [bicycle_1]?",
+        "answer": [
+            "[person_1] will stop riding it.",
+            "[person_1] will land on the water.",
+            "[person_1] will start riding it.",
+            "[person_1] will take off the box.",
+            "[person_1] will continue riding it."
+        ],
+        "reason": [
+            "It seems that [person_1] is practicing to decrease his skill.",
+            "Because [person_1] looks the most excited.",
+            "It seems that [person_1] is practicing to improve his skill.",
+            "[person_1] wants to enjoy riding.",
+            "It seems that [person_1] doesn't want to practice and improve his skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell over?",
+        "answer": [
+            "[person_1] cannot dance while [person_1] plays the harmonica.",
+            "[person_1] would stop doing this exercise.",
+            "[person_1] should go to hospital.",
+            "[person_1] would be seriously injured.",
+            "[person_1] would stop playing baseball."
+        ],
+        "reason": [
+            "Because the hoop is rotating.",
+            "Because people wouldn't find anything special in [person_1] and [person_1].",
+            "[person_1]'s hand strength is not enough.",
+            "His leg would be broken.",
+            "The gloves are dirty and [person_1] does not want the phone to be dirty too."
+        ]
+    }
+}

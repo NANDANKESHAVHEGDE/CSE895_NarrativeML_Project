@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons are running?",
+        "answer": [
+            "White.",
+            "Two camels.",
+            "One.",
+            "It is on the floor.",
+            "The cups are on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] wants to keep fit.",
+            "[person_1] is doing for fun.",
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is stacking cups.",
+            "[person_1] likes to shake maracas to make sound."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do if his friend fall over?",
+        "answer": [
+            "[person_1] will call a doctor.",
+            "[person_1] will start to play with these cups.",
+            "[person_1] will go on eating the cake.",
+            "[person_1] will dance quite fiercely.",
+            "[person_1] will probably hop toward the circle."
+        ],
+        "reason": [
+            "They performed very well.",
+            "The food doesn't look ripe yet.",
+            "Otherwise the wound will get worse and worse.",
+            "[person_1] wants to see if [person_1] can ride while sitting.",
+            "It's a different dance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if he is too tired?",
+        "answer": [
+            "[person_1] might teach [person_1].",
+            "[person_1] will stop running.",
+            "The customer can only choose one.",
+            "The ball would fall to the floor.",
+            "The board might fly away."
+        ],
+        "reason": [
+            "Because there isn't any other cup .",
+            "Because they performed very well.",
+            "Helmet can help protect your head.",
+            "It's almost done and he can do it.",
+            "He is going to sleep."
+        ]
+    }
+}

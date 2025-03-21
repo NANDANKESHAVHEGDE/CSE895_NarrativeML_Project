@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How's the weather ?",
+        "answer": [
+            "He is with a smiling face.",
+            "[person_1] and [person_1] are in the garden.",
+            "[person_1] and [person_1] are on the street.",
+            "[person_1] and [person_1] are in the yard.",
+            "It's sunny."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is here to play drums.",
+            "[person_1] is playing lute on the riverbank.",
+            "[person_1] is skiing.",
+            "[person_1] is playing lute alone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to stand again.",
+            "[person_1] going to shot again.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to keep jumping."
+        ],
+        "reason": [
+            "[person_1] is jumping very high.",
+            "[person_1] is practicing very hard.",
+            "[person_1] is a beginner.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] is not going to stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if another person comes to play with [person_1] ?",
+        "answer": [
+            "[person_1] will stop using smoking pipe.",
+            "[person_1] and [person_1] will be very happy.",
+            "[person_1] will go to the stores which sell foods.",
+            "[person_1] and that person will play together.",
+            "Maybe [person_1] will be joyous."
+        ],
+        "reason": [
+            "[person_1] very light and not dangerous.",
+            "[person_1] wouldn't want to be hit by a car.",
+            "Their is a lot of hair on the ground.",
+            "Two people playing together is more fun than playing alone.",
+            "The harmonica is high from the floor."
+        ]
+    }
+}

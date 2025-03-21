@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "Yes , there is.",
+            "[person_1] is white.",
+            "[person_1] is wearing the jeans.",
+            "White.",
+            "[person_1] is using a small knife."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stick the knife into the coco instead of cutting?",
+        "answer": [
+            "Because the tree is planted next to a wood fence.",
+            "The knife is too small to cut a coco.",
+            "Because he wants to have this special experience.",
+            "It's convenient.",
+            "The weather is cool."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do in the next few minutes?",
+        "answer": [
+            "[person_1] will keep on stirring the knife in the coco.",
+            "[person_1] will help clean up the mess.",
+            "[person_1] is going to show how to fold the paper.",
+            "[person_1] will keep on gliding over the ice.",
+            "[person_1] will continue riding the motorcycle."
+        ],
+        "reason": [
+            "The team of [person_1] runs faster.",
+            "It seems this method works on this coco.",
+            "It seems the wall is broken easily with the heavy hammer.",
+            "If the girl does not keep the fish in a cold box , the fish will not be fresh.",
+            "[person_1] is a responsible person."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] had a bigger knife?",
+        "answer": [
+            "[person_1] would cut the coco instead of stirring.",
+            "[person_1] would see it getting darker.",
+            "[person_1] and [person_1] would get serious injury on their chests.",
+            "[person_1] will not wash the dog.",
+            "[person_1] and [person_1] will stretch their hands."
+        ],
+        "reason": [
+            "Children often like new clothes.",
+            "[person_1] finished treating wood.",
+            "Because [person_1] would get caught in the rope",
+            "[person_1] enjoys doing that.",
+            "Big knife is suitable for cutting."
+        ]
+    }
+}

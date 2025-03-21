@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like ?",
+        "answer": [
+            "[person_1] has a long hair.",
+            "[person_1] looks like a lute player.",
+            "[person_1] looks fat.",
+            "[person_1] is quite old.",
+            "[person_1] has dark skin."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear ring ?",
+        "answer": [
+            "They feel bored.",
+            "[person_1] tries to put it in.",
+            "Because he take part in the competition.",
+            "[person_1] wears ring for fun.",
+            "[person_1] finds something."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will stop.",
+            "[person_1] will definitely keep playing piano.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will probably continue to lift the dumbbell."
+        ],
+        "reason": [
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] is very passionate about playing piano.",
+            "[person_1] is going to turn the iron that poked the lock.",
+            "[person_1] is concentrating on making the basket deftly.",
+            "[person_1] will take a short rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels tired ?",
+        "answer": [
+            "[person_1] will take a short break.",
+            "[person_1] will drive [person_1].",
+            "[person_1] will get drunk.",
+            "[person_1] may taste a bit.",
+            "[person_1] won't be able to play."
+        ],
+        "reason": [
+            "[person_1] will not play anymore.",
+            "To relax for a while.",
+            "Because it is so tired of waving like that so he will stop.",
+            "The hammer is quite heavy.",
+            "Because a rest can help [person_1] recover her energy."
+        ]
+    }
+}

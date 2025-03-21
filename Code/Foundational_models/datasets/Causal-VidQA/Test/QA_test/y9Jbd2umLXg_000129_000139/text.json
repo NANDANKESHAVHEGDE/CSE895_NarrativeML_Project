@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a smoking pipe.",
+            "[person_1] is standing in front of the exit.",
+            "The boy is watching the pen tapping tutorial.",
+            "[person_1] is in a gym.",
+            "[person_1] is holding an accordion."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking down?",
+        "answer": [
+            "Maybe [person_1] is listening to music.",
+            "Because [person_1] is playing the accordion on his chest.",
+            "Because [person_1] is weaving fabric",
+            "[person_1] is playing music with the bass guitar that [person_1] is holding.",
+            "[person_1] wants to build a cup tower on the floor."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to a workout.",
+            "[person_1] is going to continue riding.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to keep playing other song.",
+            "[person_1] is going to keep smoking."
+        ],
+        "reason": [
+            "[person_1] likes challenge.",
+            "[person_1] is weaving fabric.",
+            "Maybe [person_1] likes [person_1] outfit.",
+            "[person_1] is practicing accordion.",
+            "[person_1] is talking very seriously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the notebook was not opened?",
+        "answer": [
+            "[person_1] can't make pottery.",
+            "[person_1] would fall and even get hurt.",
+            "It is possible that the room will have no light.",
+            "[person_1] would not be able to keep practicing.",
+            "It will get dark in the room."
+        ],
+        "reason": [
+            "[person_1] is more convenient to pick the pen when it is not her turns to talk.",
+            "The upright lamp seems to fall down at the touch of it.",
+            "There is no other light here.",
+            "[person_1] needs the notebook to be opened so that he can see the keys.",
+            "Because the color will spread."
+        ]
+    }
+}

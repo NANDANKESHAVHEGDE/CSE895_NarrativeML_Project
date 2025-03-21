@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "It is on [car_1].",
+            "It is at the corner of the room.",
+            "It is lying on the floor.",
+            "It is behind [person_2].",
+            "[person_2] is young and small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in a wheelchair?",
+        "answer": [
+            "Maybe [person_1] had an accident.",
+            "To look beautiful.",
+            "Maybe [person_1] does it for fun.",
+            "Because the [person_1] does not want to walk.",
+            "Because [person_1] is relaxing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] will try to push the wheelchair.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] may continue what he did."
+        ],
+        "reason": [
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "Maybe [person_1] is practicing pushing a wheelchair.",
+            "[person_1] has turned away.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] has finished [person_1]'s action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] walks normally?",
+        "answer": [
+            "[person_1] won't success.",
+            "[person_1] won't be able to shave.",
+            "[person_1] will fall.",
+            "[person_1] won't be in a wheelchair.",
+            "[person_1] would get burned."
+        ],
+        "reason": [
+            "Wheelchair will not be a means of transportation for [person_1].",
+            "[person_1] seems to be a beginner and hoops quite slowly.",
+            "[person_1] seems don't know how to plait hair.",
+            "[person_1] needs to buy a new razor blade.",
+            "Because the fish is afraid of human."
+        ]
+    }
+}

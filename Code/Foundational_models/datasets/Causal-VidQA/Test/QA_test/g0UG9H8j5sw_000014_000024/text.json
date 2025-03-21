@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s shirt?",
+        "answer": [
+            "Yes , the [person_1] is wearing a red helmet.",
+            "[person_1]'s shirt is black.",
+            "[person_1]'s shirt is red.",
+            "There are 15 cups on the floor.",
+            "[person_1] is placed on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep knocking on the table?",
+        "answer": [
+            "[person_1] is rubbing [person_1]'s back.",
+            "Because [person_1] is playing pen tapping.",
+            "Because [person_1] needs a tissue to wipe sweat.",
+            "Because [person_1] is unwrapping them.",
+            "[person_1] finds stomping the grapes funnier than [person_1] does."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put a new product into the machine.",
+            "[person_1] will lie down on the table.",
+            "[person_1] will continue tying the necktie.",
+            "[person_1] will put the phone on the [person_1].",
+            "[person_1] will call the waiter."
+        ],
+        "reason": [
+            "[person_1] will slam her pen on the table with both hands because [person_1] keeps doing it.",
+            "[person_1] will keep tapping the pen down and get closer to the camera because [person_1] is moving towards the camera.",
+            "Because [person_1] is more interested in the man passed in front as can be seen from [person_1]'s eyes.",
+            "Then maybe [person_1] will rest in a few minutes.",
+            "[person_1] will lie down on the table because [person_1]'s back is bent."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] sat at the library?",
+        "answer": [
+            "[person_1] will remake the pattern.",
+            "[person_1] could stack all 6 cubes of dice.",
+            "[person_1] would power up the machine.",
+            "They may have a break together.",
+            "[person_1] wouldn't be able to knock his pen on the table."
+        ],
+        "reason": [
+            "Their parents are here.",
+            "[person_1] is holding the target pad.",
+            "that's [person_1] good strategy.",
+            "[person_1] wouldn't be able to knock his pen on the table because in the library there shouldn't be any noise.",
+            "[person_1] is a kid."
+        ]
+    }
+}

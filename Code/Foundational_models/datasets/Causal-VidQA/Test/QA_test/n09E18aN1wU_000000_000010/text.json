@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing ?",
+        "answer": [
+            "[person_1] is roller blading.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is sitting on the ground.",
+            "[person_1] is holding a newspaper.",
+            "[person_1] is holding the harmonica."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_4] take [person_3] hand?",
+        "answer": [
+            "Maybe [person_4] does it for fun.",
+            "Because [person_3] is playing the gong.",
+            "Because the [person_3] can be used to hold the violin.",
+            "Maybe [person_3] fell.",
+            "[person_3] is practicing to play didgeridoo better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to smooth the sausage.",
+            "[person_3] may continue to watch the other two.",
+            "[person_3] is going to start roller blading.",
+            "[person_3] is going to ask them to stop fighting swords.",
+            "[person_3] will agree with [person_3]."
+        ],
+        "reason": [
+            "Because [person_3] has a pen and paper.",
+            "[person_3] has eaten and drank water constantly.",
+            "[person_3] is the leader of this team.",
+            "[person_3] is in position to prepare.",
+            "[person_3] stopped on the log."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] fall ?",
+        "answer": [
+            "Maybe they will run.",
+            "They will be back indoors.",
+            "[person_1] might have to compensate for the torn hose.",
+            "[person_1] will fall in a very painful way.",
+            "[person_1] will be stop roller blading."
+        ],
+        "reason": [
+            "Maybe he had a bleeding leg.",
+            "Because they had to receive proper medical treatment before going back to the field.",
+            "Because the weather interrupts their plan.",
+            "[person_1] wouldn't be able to run.",
+            "Because there will be no support for them."
+        ]
+    }
+}

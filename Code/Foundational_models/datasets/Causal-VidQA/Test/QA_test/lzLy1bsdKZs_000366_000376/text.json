@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt that [person_2] is wearing?",
+        "answer": [
+            "[person_2] is wearing a white shirt.",
+            "The [person_2] is riding bike of [person_2].",
+            "[person_2]'s shirt is black.",
+            "[person_2]'s shirt is blue.",
+            "[person_2] is wearing a red shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] keeping watching [person_1] while he is doing tai chi?",
+        "answer": [
+            "[person_1] is a kid.",
+            "[person_1] doesn't know how to open it.",
+            "[person_1] sat on the rope to get strength.",
+            "[person_2] does not to remember all the moves , so he wants to follow [person_2]'s moves.",
+            "[person_1] wants to improve the knowledge."
+        ]
+    },
+    "predictive": {
+        "question": "Who is [person_1]?",
+        "answer": [
+            "[person_1] may be the teacher of [person_2].",
+            "[person_1] may finish the dancing and interact with the audience.",
+            "[person_1] is at his own home.",
+            "[person_1] will applaud and sing the birthday song.",
+            "[person_1] will continue with the training."
+        ],
+        "reason": [
+            "The room looks very well - equipped with a big mirror , a television set and much space . The room looks like a ballet studio.",
+            "In order to celebrate the birthday.",
+            "There are many fitness equipment.",
+            "[person_1] looks very professional and [person_2] is always imitating [person_1]'s moves.",
+            "Because the whole board needs to be painted."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] could not follow the moves?",
+        "answer": [
+            "[person_1] might do the moves more slowly.",
+            "The adult will buy them ice cream.",
+            "Not much students will find out.",
+            "[person_1] may find a chair.",
+            "[person_1] would have to start again."
+        ],
+        "reason": [
+            "When [person_2] goes to the toilet , [person_2] and [person_1] are not together.",
+            "[person_1] is a funny person and not good at the game.",
+            "[person_1] can't move by wind energy through tire anymore.",
+            "To help finish [person_1]'s work.",
+            "[person_1] is a teacher and his responsibility is helping [person_2] to perfectly do tai chi moves."
+        ]
+    }
+}

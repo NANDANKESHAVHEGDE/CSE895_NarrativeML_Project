@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "[person_1] is standing next to a wooden desk.",
+            "[person_1] is standing in a park.",
+            "It is in the corner of the room.",
+            "[person_1] is next to the windows.",
+            "[person_1] is standing behind a camera."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing behind a camera?",
+        "answer": [
+            "To relax [person_1]'s head.",
+            "Because the weather was hot and he was thirsty.",
+            "The man who wears a gray t - shirt wants to move the chair to another place.",
+            "[person_1] is trying to take a picture.",
+            "They are the audience watching the performance of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] who wears a blue cap is about to do?",
+        "answer": [
+            "[person_2] will move towards the game tile.",
+            "[person_2] will go and get the ball.",
+            "[person_2] , [person_2] , [person_2] , and [person_2] are going to try their best to win.",
+            "[person_2] who wears a blue cap is about to take a photo of the piper.",
+            "[person_2] is about to color [person_2]'s hair."
+        ],
+        "reason": [
+            "[person_2] and [person_2] moves together and jumps upside down skillfully competently.",
+            "It seems that he is on a important occasion.",
+            "Because human beings are standing up during their usual life.",
+            "[person_2] who wears a blue cap is leaning forward and looking at the camera.",
+            "[person_2] is shirtless."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the piper did not wear traditional costume?",
+        "answer": [
+            "[person_1] would not take picture of the piper.",
+            "[person_1] will fold another napkin.",
+            "The pancake would fall down the floor , too.",
+            "The two people would fall down on the ground.",
+            "They would be all right."
+        ],
+        "reason": [
+            "It is difficult to ski if it rains.",
+            "The ground is too slippery to ride [person_2] in the rain.",
+            "The piper is performing a Scotland traditional instrument.",
+            "The [person_2] has just poured water into the feet of the [person_2].",
+            "[person_2] and [person_2] don't have an umbrella."
+        ]
+    }
+}

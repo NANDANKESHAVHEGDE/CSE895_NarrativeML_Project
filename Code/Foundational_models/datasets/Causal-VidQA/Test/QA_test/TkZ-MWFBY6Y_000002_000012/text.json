@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [motorcycle_1]?",
+        "answer": [
+            "It is very bright.",
+            "[motorcycle_1] is on the right hand of [motorcycle_1].",
+            "[motorcycle_1] is black and yellow.",
+            "It is very dark.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing the wheelchair?",
+        "answer": [
+            "[person_1] needs to wear a formal suit.",
+            "[person_1] is singing.",
+            "[person_1] is doing yoga.",
+            "[person_1] is watching it.",
+            "Perhaps [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to use the tip of his finger to gently push the contact lens out.",
+            "[person_1] intends to continue listening to music.",
+            "[person_1] intends to keep swimming with the sharks.",
+            "[person_1] intends to drink wine.",
+            "[person_1] intends to push the wheelchair around the field and kick the ball."
+        ],
+        "reason": [
+            "There is a rope and [person_1] is holding the rope in [person_1]'s hand.",
+            "The headphone is in [person_1]'s head.",
+            "[person_1] is holding the hula hoop on the hands.",
+            "Maybe [person_1] is the mother of the girl who is sitting in a wheelchair . They are playing ball together.",
+            "[person_1] is holding the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't push the wheelchair ?",
+        "answer": [
+            "It is possible that the girl who is sitting in a wheelchair will not continue playing ball.",
+            "[person_1] would not talk about the cup with [person_1].",
+            "[person_1] will eat the [person_1] faster.",
+            "The [person_1] might lose balance and fall.",
+            "[person_1] will be happy."
+        ],
+        "reason": [
+            "Because the heavy clouds will cover the lights.",
+            "Because no one wants to play with [person_1].",
+            "[person_1] made a difficult movement , it is dangerous for people to make it.",
+            "The [person_1] pays attention to the [person_1] and walks with the [person_1].",
+            "Perhaps the girl broke her leg."
+        ]
+    }
+}

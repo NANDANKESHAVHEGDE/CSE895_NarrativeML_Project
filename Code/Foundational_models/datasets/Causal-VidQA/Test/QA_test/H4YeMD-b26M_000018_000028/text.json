@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_2] and [person_3]?",
+        "answer": [
+            "[person_3] and [person_2] are sitting on the floor.",
+            "[person_2] and [person_3] are in the big room.",
+            "[person_3] and [person_2] are at a massage room.",
+            "[person_2] and [person_2] are in their bedroom.",
+            "[person_2] and [person_2] are in a bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_3] raising their hands in salute?",
+        "answer": [
+            "Because it matches the outfit [person_3]'s wearing.",
+            "The [person_3] prepares to slide down a snowy hill.",
+            "[person_2] and [person_3] are showing respect.",
+            "Because [person_3] is stomping grapes in the tank.",
+            "[person_3] is making fun of [person_2] , [person_3] , and [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] will have a pleasant night.",
+            "[person_1] and [person_2] are going to continue clapping hands.",
+            "[person_1] and [person_2] will say their vows.",
+            "[person_1] and [person_2] will move back to their place.",
+            "[person_1] and [person_2] are warming up before the match."
+        ],
+        "reason": [
+            "[person_1] and [person_2] completed the mission.",
+            "[person_1] and [person_2] are pouting and getting ready to whistle.",
+            "[person_1] and [person_2] are smiling happily.",
+            "[person_1] and [person_2] haven't seen each other for a long time.",
+            "The [person_1] and [person_2] spin around in the hopes of rolling around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] are not soldiers?",
+        "answer": [
+            "[person_2] and [person_1] will walk out of the gym.",
+            "Maybe [person_1] will be very angry.",
+            "Maybe [person_1] will stop participating.",
+            "[person_1] will water the [person_2].",
+            "[person_1] and [person_2] will won't be here."
+        ],
+        "reason": [
+            "[person_2] hit the target.",
+            "[person_2] will cut more quickly.",
+            "Remind herself of the action.",
+            "[person_1] dances very well and can be a good dancer in the future.",
+            "[person_1] and [person_2] will not be allowed here."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bench_1]?",
+        "answer": [
+            "[bench_1] is next to [bench_1].",
+            "[bench_1] is behind [bench_1].",
+            "[bench_1] is next to [car_1].",
+            "The [bench_1] is used for playing badminton.",
+            "The [car_1] is behind [car_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [sports ball_2]?",
+        "answer": [
+            "Because [person_1] does not in time to hit the badminton ball.",
+            "Because the [person_1] cleaned the [person_1].",
+            "[person_1] is playing basketball with [sports ball_2].",
+            "[sports ball_2] is reading a book for [person_1].",
+            "Perhaps [person_1] is performing treatment for insomniacs with the sound of gongs."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may want to stop playing.",
+            "[person_1] will open the box.",
+            "[person_1] is going to stand still.",
+            "[person_1] is going to meet friends.",
+            "[person_1] also grinds the stone next."
+        ],
+        "reason": [
+            "[person_1] is walking away from the basketball hoop stand.",
+            "[person_1] is bringing the towel from the toe to the sole of the boot.",
+            "[person_1] does not finish carving.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "When [person_1] lies back down , [person_1] raises her hands and prepares to tickle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a rain?",
+        "answer": [
+            "[person_1] will have to take shelter from the rain.",
+            "[person_1] will not have fun anymore.",
+            "[person_1] will have a leg injury.",
+            "[person_1] will take a photo of it.",
+            "[person_1] will play basketball in the rain."
+        ],
+        "reason": [
+            "[person_1] is just a little kid so [person_1] may feel worried when being in a dark room.",
+            "[person_1] and [person_1] will stop playing.",
+            "[person_1] has nowhere to hide.",
+            "The orange juice of [person_1] won't be sweet.",
+            "[person_1] is playing outside."
+        ]
+    }
+}

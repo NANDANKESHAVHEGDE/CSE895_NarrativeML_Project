@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is leaned against the wall , next to the table.",
+            "[chair_1] is at the spa.",
+            "[chair_1] is sitting in the room that has wooden walls.",
+            "[chair_1] is in the clinic.",
+            "[chair_1] is a wood cutting board."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] rip the paper?",
+        "answer": [
+            "[person_1] is playing guitar.",
+            "[person_1] turns his back on the basket and throws the ball backward.",
+            "[person_1] rips the paper to do some magic trick.",
+            "[person_1] wants to watch his moves in the mirror.",
+            "Maybe [person_1] does the flute for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip the paper into some shape.",
+            "[person_1] is going to sit down.",
+            "[person_1] may put the right leg back.",
+            "[person_1] is likely to hug [person_1].",
+            "[person_1] is going to feed the [person_1]."
+        ],
+        "reason": [
+            "[person_1] is getting out of the playing area.",
+            "[person_1] is still holding the pen.",
+            "[person_1] is still on the couch.",
+            "To ask for [person_1]'s agreement with the proposal.",
+            "[person_1] is still holding the paper and changing the edge of the paper to rip."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the paper on his hand was torn too big?",
+        "answer": [
+            "[person_1] would change the paper.",
+            "[person_1] would be able to know the food.",
+            "[person_1] would stumble and could not make the second kick.",
+            "[person_1] will sneeze continuously.",
+            "[person_1] will teach [person_1]."
+        ],
+        "reason": [
+            "[person_1] is trying to make some shape by the paper.",
+            "[person_1] will feel uncomfortable when encountering this problem.",
+            "[person_1] is a baby ; if the wrapping paper has a nasty taste , it would quickly spit it out of its mouth.",
+            "[person_1] is not able to land on his feet , he needs pillows to not get hurt.",
+            "Because they are afraid that they fall down."
+        ]
+    }
+}

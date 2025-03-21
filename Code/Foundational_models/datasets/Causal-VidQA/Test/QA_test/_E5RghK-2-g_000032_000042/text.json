@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in their house.",
+            "In front of a house.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are in the weight training field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_1] and [person_2] are playing flute with other people.",
+            "[person_2] is spinning poi.",
+            "[person_1] and [person_2] are playing chess.",
+            "Because [person_2] needs support.",
+            "[person_1] is helping [person_2] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue pulling the weights.",
+            "[person_1] may keep on skateboarding.",
+            "[person_1] will check the children's movement.",
+            "[person_1] will keep on practicing.",
+            "[person_1] will move the piece chess."
+        ],
+        "reason": [
+            "[person_1] hasn't finished lifting the dumbbell yet.",
+            "[person_1] will continue to play.",
+            "[person_1] and [person_2] are very focused on the chess match.",
+            "[person_1] looks unsatisfied with the sound of the gong.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] defeats [person_2]?",
+        "answer": [
+            "[person_1] would continue dancing on her own.",
+            "[person_1] will win.",
+            "[person_2] would not taste the candy.",
+            "[person_1] had to take care of two snakes at once.",
+            "[person_1] will practice another letter."
+        ],
+        "reason": [
+            "[person_2] is in cold water.",
+            "[person_2] will be sad.",
+            "[person_1] was still enjoying playing.",
+            "Because [person_2] was standing by the stereo.",
+            "Because pinching makes [person_1] hurt."
+        ]
+    }
+}

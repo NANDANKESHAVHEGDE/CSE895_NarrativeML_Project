@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] looks like?",
+        "answer": [
+            "[person_1] looks pretty.",
+            "[person_1] looks a bit fat.",
+            "[person_1] looks manly and handsome.",
+            "[person_1] looks cute.",
+            "[person_1] looks small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing with the [person_2].",
+            "[person_1] is playing with paper.",
+            "Because [person_1] is opening present.",
+            "[person_1] is practicing cello.",
+            "Because [person_1] is practicing standing on hands."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will light up a candle.",
+            "Perhaps [person_1] will manage the student.",
+            "[person_1] will go back home.",
+            "[person_1] will go to bed.",
+            "[person_1] will give the present for [person_2]."
+        ],
+        "reason": [
+            "[person_1] is touching the shoe.",
+            "[person_1] is catching the toy in the green box.",
+            "It is obvious that [person_1] is doing an TV program.",
+            "[person_1] is holding the present.",
+            "[person_1] is running quickly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the gift box?",
+        "answer": [
+            "[person_1] will pick it up.",
+            "[person_1] may stop jumping.",
+            "[person_1] will not attract the birds.",
+            "The birds will not gather around [person_1].",
+            "[person_1] may need a rest."
+        ],
+        "reason": [
+            "Because [person_1] is a magician.",
+            "Maybe that's why [person_1] sharpens the pencil.",
+            "[person_1] will bend down.",
+            "Because [person_1] can't see through the cover of [person_1] to see what is inside.",
+            "When [person_1] open the box , [person_1] sits aside and helps her."
+        ]
+    }
+}

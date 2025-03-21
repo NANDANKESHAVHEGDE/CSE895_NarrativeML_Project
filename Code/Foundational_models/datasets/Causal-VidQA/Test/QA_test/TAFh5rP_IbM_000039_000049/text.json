@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the yard.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the bedroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking at the chessboard?",
+        "answer": [
+            "Because [person_1] is snatching weight lifting.",
+            "Because [person_1] is snatching weight - lifting.",
+            "Because [person_1] is playing checkers with [person_2].",
+            "Because [person_1] is suffering from eye disease.",
+            "[person_2] is watching [person_1] playing cymbals."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to bow.",
+            "[person_1] is going to come back home.",
+            "[person_1] is going to rest.",
+            "[person_1] is going to continue thinking about the next movement of [person_1].",
+            "[person_1] will come hug [person_1]."
+        ],
+        "reason": [
+            "[person_1] looks at the chessboard attentively.",
+            "[person_1] needs to recover.",
+            "[person_1] has finished the body color.",
+            "People are interested in the story behind [person_1].",
+            "[person_1] just started."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bed is broken down?",
+        "answer": [
+            "The fist girl will take her to the hospital.",
+            "[person_1] would cry and find [person_1].",
+            "[person_1] will chase the dog away.",
+            "[person_1] will be hurt.",
+            "[person_1] will take [person_1] to shop."
+        ],
+        "reason": [
+            "There are some light things on the shelf.",
+            "To see whether the items in the box break down or not.",
+            "Sharp pieces of the bed will hurt [person_1].",
+            "Because the glass pane has a certain weight.",
+            "To do some medical examinations."
+        ]
+    }
+}

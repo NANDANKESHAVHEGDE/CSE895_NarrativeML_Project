@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it bright?",
+        "answer": [
+            "[person_1] is wearing it in front of her.",
+            "Yes , it is.",
+            "[person_2] is placed next to [person_2].",
+            "[person_2] is put on the ground and next to [person_2].",
+            "[person_1] is between [person_1] and [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] smiling so happily?",
+        "answer": [
+            "[person_2] needs an object to be able to land.",
+            "Because the [person_2] is the owner of the camels.",
+            "Because [person_2] is playing maracas.",
+            "Because [person_2] enjoys hearing the sound of ripping paper.",
+            "The [person_2] touches treble keyboard to talk about the usage of treble keyboard."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep diving.",
+            "[person_1] is going to rip paper.",
+            "[person_1] will spray paint.",
+            "[person_1] will catch the frisbee.",
+            "[person_1] will sit there and curve."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "Maybe [person_2] likes the sound of ripping paper.",
+            "[person_1] has bent back.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] tricked the opponent by attacking a specific target."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_2] maybe afraid.",
+            "The sport hall will be dark.",
+            "Espresso will be stop working.",
+            "The room will be dark.",
+            "The room will be bright."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The room will be dark.",
+            "The ceiling fan is not working.",
+            "The fan will be off , too.",
+            "The piano will not work."
+        ]
+    }
+}

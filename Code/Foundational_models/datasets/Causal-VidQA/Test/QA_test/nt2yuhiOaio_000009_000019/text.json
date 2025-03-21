@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is blue.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It is red.",
+            "It is orange.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing next to [person_2] ?",
+        "answer": [
+            "[person_2] wants to teach [person_1] something.",
+            "[person_1] wants to play with the child.",
+            "[person_1] is playing with [person_2] .",
+            "Maybe [person_2] get his clothes wet.",
+            "[person_1] needs to place the accordion on his lap."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play stacking cups.",
+            "[person_1] will keep dancing.",
+            "[person_1] is going to feed [person_2].",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "[person_2] is sitting in front of the [dining table_1] and will be fed by [person_1].",
+            "[person_1] legs keep going up and down.",
+            "[person_1] is having fun when playing here.",
+            "[person_1] looks so happy while lighting the fire.",
+            "[person_2] is waiting for him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gives [person_2] the food [person_2] likes?",
+        "answer": [
+            "It is possible that [person_1] will be a professional hookah smokers.",
+            "[person_2] will not be able to eat the food.",
+            "[person_1] will have a leg injury.",
+            "The [person_1] will use this concrete materials to lay.",
+            "[person_2] will eat a lot."
+        ],
+        "reason": [
+            "[person_1] feels the worm disgusting.",
+            "Because [person_2] needs electricity to work.",
+            "[person_1] is afraid of snakes.",
+            "Because [person_2] gets to eat what she likes.",
+            "Maybe [person_1] is dizzy."
+        ]
+    }
+}

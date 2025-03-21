@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening a bottle.",
+            "[person_1] is opening the door.",
+            "[person_1] is waxing armpits.",
+            "[person_1] is slamming the concrete plate.",
+            "[person_1] is singing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is able to sing loudly without affecting others.",
+            "[person_1] is opening a gift.",
+            "[person_1] is doing the exercise.",
+            "[person_1] is raising eyebrows in front of the mirror.",
+            "[person_1] is playing with paper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play with the gift.",
+            "[person_1] is going to sing and combine with guitar.",
+            "[person_1] is going to rip paper.",
+            "[person_1] will sit there and curve.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "[person_1] is holding a guitar.",
+            "[person_1] is [person_1]'s partner.",
+            "Because [person_1] is getting the bee box.",
+            "Because [person_1] is going to chop something.",
+            "To cut [person_1] into small pieces."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will go to sleep.",
+            "Maybe [person_1] will stop playing.",
+            "[person_1] will sit on the chair.",
+            "[person_1] will put the lute on the table.",
+            "[person_1] will lie on the [bed_1]."
+        ],
+        "reason": [
+            "The floor is the only place for rest.",
+            "Because [person_1] has to finish his work checking the beehive.",
+            "[person_1] is in the bedroom.",
+            "[person_1] will stand up.",
+            "Maybe [person_1] is tired and has no effort so she falls again."
+        ]
+    }
+}

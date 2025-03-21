@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [clock_1]?",
+        "answer": [
+            "It is round.",
+            "It is circle.",
+            "No.",
+            "The chessman is black and red.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the newspaper?",
+        "answer": [
+            "[person_1] presses the button to increase the volume.",
+            "[person_1] uses several bottles to catch the juice.",
+            "[person_1] is playing guitar.",
+            "[person_1] moves the blades to peel , core , and slice the apple.",
+            "[person_1] is reading the newspaper and playing the harmonica at the moment."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will certainly fold the shirt.",
+            "[person_1] will focus on the newspaper.",
+            "Roll [person_1] by the other foot.",
+            "[person_1] will shoot another cue ball.",
+            "[person_1] will keep practicing the piano."
+        ],
+        "reason": [
+            "[person_1] is explaining how to play.",
+            "[person_1] will feel tired after playing.",
+            "[person_1] is putting the harmonica down.",
+            "[person_1] is taking in front of camera . The hand of [person_1] is on the headphones.",
+            "[person_1] puts the picture on the knees."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] closed the newspaper?",
+        "answer": [
+            "[person_1] would not continue practice.",
+            "[person_1] would play the harmonica.",
+            "[person_1] will come into collision with [person_1].",
+            "[person_1] will fall and get hurt.",
+            "[person_1] may help [person_1] to open the beer can."
+        ],
+        "reason": [
+            "Because it was very close to [person_1] and the other person behind him.",
+            "[person_1] is reading the newspaper and playing the harmonica at the same time.",
+            "Because it was very close to [person_1] and the other person around.",
+            "Because it was very close to [person_1] and the other people around.",
+            "[person_1] is a kind girl who likes to help others."
+        ]
+    }
+}

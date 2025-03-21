@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the cloth on the head of [person_1]?",
+        "answer": [
+            "It's green.",
+            "The apples that were peeled are in [person_1].",
+            "The TV is on the shelf.",
+            "The [person_1] is hang on the wall.",
+            "The shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] cover his eyes?",
+        "answer": [
+            "[person_1] wants to find a stone.",
+            "[bottle_2] peeled off the patch vigorously in the [person_1]'s chest.",
+            "Because [person_1] can be more comfortable on the couch.",
+            "Because [person_1] wanted to take the newspaper inside.",
+            "Because [person_1] wants to make it harder to open [bottle_2]."
+        ]
+    },
+    "predictive": {
+        "question": "Why does [person_4] take a step forward?",
+        "answer": [
+            "It is possible that [person_4] will clap his hands.",
+            "[person_4] will give instructions to the viewer and then will perform the song to show them how to do it.",
+            "The roller coaster cart will slow down a bit.",
+            "[person_4] maybe misses the dance steps of [person_4].",
+            "To catch the watermelon in her hand."
+        ],
+        "reason": [
+            "From the video , we can see that the watermelon almost falls off.",
+            "The [person_4] sits on the mechanical bull's back and it moves to the right.",
+            "Maybe [person_4] is watching a historical reenactment.",
+            "Because [person_4] is teaching [person_4] the way to skate.",
+            "Maybe [person_4] is going for a walk with his family."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the water watermelon falls off?",
+        "answer": [
+            "[person_4] won't cry.",
+            "[person_4] will not be able to continue playing.",
+            "[person_4] will cry.",
+            "Cookies won't taste good.",
+            "[person_4] will pee."
+        ],
+        "reason": [
+            "To help finish the assembling of the shelf.",
+            "The fact that she keeps a watermelon in her hand indicates that she is reluctant to eat it . So if the watermelon is smashed she will be very happy.",
+            "To help fix the [person_4].",
+            "The fact that she keeps a watermelon in her hand indicates that she is reluctant to eat it . So if the watermelon is smashed she will be very upset.",
+            "Because there is no one to divert the traffic."
+        ]
+    }
+}

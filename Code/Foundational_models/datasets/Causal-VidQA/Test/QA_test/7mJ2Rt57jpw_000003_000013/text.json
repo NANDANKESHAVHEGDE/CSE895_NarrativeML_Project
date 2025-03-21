@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_1]?",
+        "answer": [
+            "The color of [chair_1] is white.",
+            "The color of [chair_1] is yellow.",
+            "The color of [chair_1] is brown.",
+            "[chair_1] is on the ground.",
+            "[chair_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [potted plant_1] in the room?",
+        "answer": [
+            "[potted plant_1] and [potted plant_1] are disabled.",
+            "Using the mobile phone.",
+            "[potted plant_1] helps [person_1] reduce stress.",
+            "To ensure a sterile environment.",
+            "Because [person_1] wants to ski safely."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will shares a pro tip for applying foundation to viewers.",
+            "[person_1] will go away.",
+            "Perhaps [person_1] will play the cello.",
+            "[person_1] is continuously rolling the glass ball from the right arm to the left arm.",
+            "[person_1] may swim towards [person_1]."
+        ],
+        "reason": [
+            "[person_1]'s hand is on the string.",
+            "Because it seems that he likes it a lot.",
+            "[person_1] didn't catch any fish because the current was too strong.",
+            "[person_1] seems to be quite intent on the action of [person_1].",
+            "[person_1] has prepared a hole on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [potted plant_1] falls into [person_1]?",
+        "answer": [
+            "[person_1] and [potted plant_1] will catch a cold.",
+            "Maybe [person_1] will be hurt.",
+            "[person_1] will go to the hospital.",
+            "The [person_1] will go to help him.",
+            "Perhaps [person_1] will be out from the game."
+        ],
+        "reason": [
+            "[potted plant_1] is heavy.",
+            "The weights is heavy.",
+            "[potted plant_1] and [person_1] combined between jumping rope and somersaulting . It is easy to fall.",
+            "The wall is quite hard.",
+            "The weights is very heavy."
+        ]
+    }
+}

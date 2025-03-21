@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "The shirt is red.",
+            "[person_1] is wearing a white shirt and tie.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "[person_1] is wearing a blue shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a stick?",
+        "answer": [
+            "[person_1] needs to wear a formal suit.",
+            "To make [person_1]'s voice clear.",
+            "Because [person_1] is playing an accordion.",
+            "[person_1] is practicing spinning plates.",
+            "[person_1] is shaving."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep dancing.",
+            "[person_1] is going to continue playing.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to raise the stick up.",
+            "[person_1] is going to keep performing."
+        ],
+        "reason": [
+            "[person_1] adjusted the stick and the plate to spin it again.",
+            "[person_1] is not going to stop.",
+            "[person_1] feels that the food is not good.",
+            "[person_1] is bowing.",
+            "[person_1] almost dropped the plate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [book_6] falls to the ground?",
+        "answer": [
+            "[person_1] will stop spinning plates.",
+            "[person_1] will break a chessman down.",
+            "[person_1] will wear shorts.",
+            "[person_1] will stop reading.",
+            "[person_1] will be injured."
+        ],
+        "reason": [
+            "Because that's the rule.",
+            "[person_1] needs concentration.",
+            "The adult is helping the child to skate , indicating that the child is not skilled . The child might slip if the adult loosen his grip on the child.",
+            "[person_1] is standing nearest the pan.",
+            "That weight is very heavy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the studio.",
+            "[person_1] is in a wood workshop.",
+            "[person_1] is in bathroom.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] look like?",
+        "answer": [
+            "[person_1] is ripping paper.",
+            "[person_1] is doing lunges.",
+            "Because [person_1] is playing a xylophone.",
+            "Because [person_1] is watching [person_1].",
+            "[person_1] is a cute baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will teach [person_1] how to throw.",
+            "[person_2] is going to help [person_1] take a bath.",
+            "[person_2] is going to stop looking at [person_1].",
+            "[person_2] is going to keep following the [person_1].",
+            "[person_2] is going to talking louder."
+        ],
+        "reason": [
+            "[person_2] is going to keep running.",
+            "There are [person_2]'s friends skating.",
+            "There are many gift boxes in the room.",
+            "[person_2] can not do it because he is a baby.",
+            "To function as the snowman's coats."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if no one took care of [person_1]?",
+        "answer": [
+            "[person_1] would lose the game.",
+            "[person_1] will instruct other exercises.",
+            "[person_1] cannot hold the bed.",
+            "[person_1] might be drown.",
+            "[person_1]'s owner will be nervous."
+        ],
+        "reason": [
+            "[person_1] is a baby.",
+            "[person_1] is sitting.",
+            "[person_1]'s hand could be injured because the baseball bat could hit [person_1]'s hand.",
+            "Because [person_1] is the only person near the [person_1].",
+            "Because the end of the rope is red , which attracts fish."
+        ]
+    }
+}

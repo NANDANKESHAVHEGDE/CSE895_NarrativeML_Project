@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in their house.",
+            "They are in the yard.",
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] teaches [person_2]?",
+        "answer": [
+            "[person_2] also wants to play the keyboard.",
+            "Because [person_2] cannot make bubbles.",
+            "[person_2] prepares to discover the gifts.",
+            "Maybe [person_2] get his clothes wet.",
+            "[person_1] is using [person_1] to squeeze oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue enjoying this trip.",
+            "[person_2] may take off the sunglasses.",
+            "[person_2] is going to play another song.",
+            "[person_2] is going to try to make bubbles again.",
+            "[person_2] is going to start reading."
+        ],
+        "reason": [
+            "Because [person_1] has taught [person_2] before.",
+            "[person_2] needs to take care of his baby.",
+            "[person_2] bends over and grabs the timber with [person_1].",
+            "[person_2] is holding the guitar.",
+            "[person_1] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] failed make bubbles again?",
+        "answer": [
+            "[person_1] will make more examples.",
+            "[person_1] may feed the dog.",
+            "[person_1] would stop crawling.",
+            "Nobody stays in the yard.",
+            "[person_1] will be fall off the sea."
+        ],
+        "reason": [
+            "To teach [person_2] until [person_2] has already learned.",
+            "[person_2] is very small and [person_2] is a child.",
+            "[person_2] may feel embarrassed after falling off [person_2].",
+            "Because [person_2] is concentrating his attention on putting the money in the box.",
+            "Because [person_2] will be still in the room and play."
+        ]
+    }
+}

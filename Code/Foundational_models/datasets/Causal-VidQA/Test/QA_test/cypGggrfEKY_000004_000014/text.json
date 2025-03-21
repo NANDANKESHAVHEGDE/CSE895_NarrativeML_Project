@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite small.",
+            "It is in a rugby field.",
+            "It is very clean and neat.",
+            "The room is very bright.",
+            "It is quite dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing?",
+        "answer": [
+            "[person_1] is practicing to play didgeridoo better.",
+            "[person_1] is training martial arts.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is playing the harp.",
+            "[person_1] is performing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is possible that [person_1] will sit down.",
+            "[person_1] will continue to play.",
+            "[person_1] will tattoo the right leg of [person_1].",
+            "[person_1] will weigh the bag.",
+            "[person_1] may get out of the pool."
+        ],
+        "reason": [
+            "[person_1] is practicing.",
+            "[person_1] loves this subject.",
+            "[person_1] looks delighted.",
+            "[person_1] is standing for a long time will feel tired.",
+            "[person_1] is spreading the napkin to fold."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if there is a power outage in the room?",
+        "answer": [
+            "[person_1] can play the harp.",
+            "They will return to the foot of the mountain.",
+            "[person_1] cannot play the harp.",
+            "[person_1] may carry it away.",
+            "[person_1] cannot bit the harp."
+        ],
+        "reason": [
+            "Because he has to go to school.",
+            "The room became bright.",
+            "Because it's very dangerous.",
+            "The room became dark.",
+            "The painting color will not be reasonable."
+        ]
+    }
+}

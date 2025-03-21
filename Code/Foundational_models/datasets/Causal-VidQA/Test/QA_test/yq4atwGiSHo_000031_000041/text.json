@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[person_2] is next to the window.",
+            "[car_1] is on the street.",
+            "[car_1] is parked by the sidewalk and close to [person_2].",
+            "[car_1] is in [person_2]'s hand.",
+            "[car_1] is in front of the house door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] walking slow?",
+        "answer": [
+            "[person_1] is moving many dirt with the wheelbarrow.",
+            "Because [person_1] is not old enough to stand up.",
+            "Because she is playing pillow fight.",
+            "[person_1] is walking with crutches.",
+            "The [person_1] threw the pillow toward the boy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may cheer up.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] is going to keep walking.",
+            "[person_1] is going to practice.",
+            "[person_1] is going to keep dancing."
+        ],
+        "reason": [
+            "[person_1] is touching three cups.",
+            "Because [person_1] doesn't seem that [person_1] reached the destination.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] is ripping paper.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not walk with crutches?",
+        "answer": [
+            "[person_1] would not have this precious experience.",
+            "[person_1] and others wouldn't be happy.",
+            "[person_1] would be injured.",
+            "[person_1] may walk faster.",
+            "[person_1] would not be able to pick up the pencil."
+        ],
+        "reason": [
+            "Because the crutches slows [person_1] down.",
+            "According to the rules of baseball , a batter only get a maximum of 3 strikes before being eliminated from the round , so [person_1] might be disqualified if he had 3 strikes.",
+            "There are many weights on the floor , the weights are on her right side.",
+            "Because only [person_1] drags to the left , it is more difficult to adjust.",
+            "The cork has been loose enough and can't stand harder striking."
+        ]
+    }
+}

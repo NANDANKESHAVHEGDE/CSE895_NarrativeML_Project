@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the lamp ?",
+        "answer": [
+            "A paper is in [person_1] hands.",
+            "[person_1] is wearing a green hat.",
+            "The sweater is white.",
+            "The bicycle is behind [person_1].",
+            "It is very bright."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing like that ?",
+        "answer": [
+            "Because the person lying on the bed feels comfortable.",
+            "Perhaps [person_1] is doing it for fun.",
+            "Because they're teasing the children.",
+            "[person_1] needs to blow into that stick to play the instrument he's holding.",
+            "They start by making two teams of 2 players."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue holding the flute.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will check the result.",
+            "[person_1] is going to keep training.",
+            "[person_1] may sing."
+        ],
+        "reason": [
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] is snowmobiling.",
+            "[person_1] is facing [person_1].",
+            "[person_1] is going to try to play with the flute.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lamp behind [person_1] is suddenly off ?",
+        "answer": [
+            "The room will be dark then.",
+            "[person_1]'s hand will be burn.",
+            "[person_1] may hit his head on the camera behind.",
+            "It would take longer time to open the bottle.",
+            "[person_1] will stop kicking high."
+        ],
+        "reason": [
+            "[person_1] will find a way to fix the lamp.",
+            "[person_1] will not stop jumping high.",
+            "The strings are made of rubber ; therefore , it is very elastic.",
+            "[person_1] is a judge.",
+            "Because they're a team."
+        ]
+    }
+}

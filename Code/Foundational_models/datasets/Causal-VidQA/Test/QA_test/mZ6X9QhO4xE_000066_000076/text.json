@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] ?",
+        "answer": [
+            "[chair_1] is near the woman.",
+            "It is in front of the wall.",
+            "[chair_1] is on the left side of [chair_1].",
+            "[chair_1] is placed next to the desk.",
+            "[chair_1] is the the baby boy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room ?",
+        "answer": [
+            "[person_1] is \u00a0 somersaulting with the sports ball.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is instructing someone how to stack cups.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is playing flute . Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will hurry back home.",
+            "[person_1] will get off to wander.",
+            "[person_1] will go off immediately.",
+            "[person_1] will keep on practicing.",
+            "[person_1] will continue to talk about the work scene."
+        ],
+        "reason": [
+            "[person_1] wants to go to the toilet.",
+            "Maybe [person_1] loves playing flute.",
+            "[person_1] wants to have lunch.",
+            "[person_1] is tired.",
+            "No one always win."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone knocks the door ?",
+        "answer": [
+            "[person_1] will not cook the egg here.",
+            "[person_1] may jump up and run away immediately.",
+            "[person_1] will have to play that tune again.",
+            "[person_1] will go to the shop.",
+            "[person_1] will stop playing and put the flute away."
+        ],
+        "reason": [
+            "Because if [person_1] do somersaults on a hard surface , [person_1] will get hurt.",
+            "[person_1] will go to the door and open it.",
+            "Because [person_1] may not be able to catch the crocodile anymore.",
+            "[person_1] and [person_1] will bump into each other if they stand too close together.",
+            "To check the condition of [person_1]'s hands."
+        ]
+    }
+}

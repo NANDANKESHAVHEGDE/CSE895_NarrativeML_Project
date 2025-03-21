@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is holding [tennis racket_1].",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is staring at the burning marshmallow.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] run while pushing the ball?",
+        "answer": [
+            "Otherwise the water will spill out.",
+            "It is moved to a space it should stay at.",
+            "[person_1] wants to practice moving with the ball in field hockey.",
+            "[person_1] sits down to open the gift easier.",
+            "To propose to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] will get up.",
+            "Maybe [person_1] is going to sit.",
+            "[person_1] will eat the apple on the table.",
+            "It is possible that [person_1] will hit the ball with [tennis racket_1]."
+        ],
+        "reason": [
+            "[person_1] is holding the spray.",
+            "[person_1] has to do it in order to score a goal.",
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1] is going to rest.",
+            "[person_1] is watering the plants."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if they slam into the others?",
+        "answer": [
+            "They would stop dancing.",
+            "They would get hurt.",
+            "The competition might be stopped.",
+            "The indoor play area would be closed.",
+            "[person_1] wouldn't continue commenting on the match."
+        ],
+        "reason": [
+            "They are a team.",
+            "It will hurt her.",
+            "The room will become dark.",
+            "The competition are held inside a stadium.",
+            "They would fall to the ground."
+        ]
+    }
+}

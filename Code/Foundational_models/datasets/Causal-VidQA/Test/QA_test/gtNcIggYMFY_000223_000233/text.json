@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [suitcase_1]?",
+        "answer": [
+            "[suitcase_1] is on the wall.",
+            "[suitcase_1] is located to the right of [person_1].",
+            "[person_1] is on the chair.",
+            "It is \u00a0 behind the [person_1].",
+            "It is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing with the cups.",
+            "Because [person_1] is working out his biceps with resistance bands",
+            "[person_1] is in the room playing the lute.",
+            "[person_1] is fond of unwrapping a present.",
+            "[person_1] is staying with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will shares a pro tip for applying foundation to viewers.",
+            "[person_1] will pour the champagne in to the goblet.",
+            "[person_1] may swim towards [person_1].",
+            "Maybe [person_1] will continue playing ice hockey with friends.",
+            "Perhaps [person_1] will stop playing the lute."
+        ],
+        "reason": [
+            "[person_1] hands stop moving on the strings of the lute.",
+            "Because it takes some time for the dye to dry.",
+            "[person_1] is concentrating on making the basket deftly.",
+            "Because [person_1] climbs so high.",
+            "[person_1] must keep track of her student's progress."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lute falls to the ground?",
+        "answer": [
+            "[suitcase_1] would not have any prints.",
+            "[suitcase_1] may continue to run.",
+            "Maybe the lute will be damaged.",
+            "He would have to record again.",
+            "That person would be dismissed from the game."
+        ],
+        "reason": [
+            "The srings on the lute might get snapped . ",
+            "The yard is surrounded by many trees which makes it an ideal place for the people to gather.",
+            "Because he seems to be careful and love ice cream.",
+            "Those woods are too big to plane by hand.",
+            "[suitcase_1] could continue to jump."
+        ]
+    }
+}

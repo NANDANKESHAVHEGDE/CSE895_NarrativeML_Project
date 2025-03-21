@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it that [person_1] standing in front of?",
+        "answer": [
+            "[person_1] is holding it.",
+            "Yes , the [person_1] is wearing an orange T - shirt.",
+            "[person_1] is standing in front of [car_1].",
+            "[person_1] is on the table.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of [car_1]?",
+        "answer": [
+            "May be [car_1] is a teacher and [car_1] is teaching [person_1] how to play the cello.",
+            "[person_1] is putting on make - up for [person_1].",
+            "Because [person_1] is not tall enough.",
+            "[person_1] is stretching her arms.",
+            "[person_1] is performing bagpipe publicly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is about to stop throwing.",
+            "[person_1] is about do pull out the piece of paper.",
+            "[person_1] is about to get done this work.",
+            "[person_1] tends to continue doing this exercise.",
+            "[person_1] is about to do keep holding the bagpipe."
+        ],
+        "reason": [
+            "[person_1] has to obey the rule.",
+            "[person_1] thinks the game is funny and is eager to play the game.",
+            "[person_1] bend down to check the machine.",
+            "[person_1] jumped up to throw discus.",
+            "[person_1] can not put the bagpipe down because he is standing on the street."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not stand on the street?",
+        "answer": [
+            "[person_1] would be sad.",
+            "[person_1] would not eat the food.",
+            "Not everyone would hear what [person_1] is playing.",
+            "Performance of [person_1] wouldn't be able to begin.",
+            "[person_1] would be happier."
+        ],
+        "reason": [
+            "There is no other more cup to put the juice.",
+            "Because [person_1] needs the billiard stick to play billiards.",
+            "It is better to lie flat when receiving massage.",
+            "The [person_1] tried to lick the arm of the [person_1].",
+            "[person_1] is playing publicly so everyone can listen to [person_1]."
+        ]
+    }
+}

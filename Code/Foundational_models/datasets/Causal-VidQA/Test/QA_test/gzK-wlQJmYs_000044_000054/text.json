@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is on the plastic basket.",
+            "[person_1] is on the right corner of the table.",
+            "A pair of glasses.",
+            "[person_1] is smashing a tire.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] smash the tire?",
+        "answer": [
+            "It is a training project.",
+            "[person_1] holds a hammer to strike at the tire hard.",
+            "[person_1] is the singer.",
+            "It is a kind of method for body training.",
+            "[person_1] doesn't not have anything to put it in"
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after hitting the tire?",
+        "answer": [
+            "[person_1] will rest.",
+            "[person_1] will stand up and dust off the body.",
+            "It should be four.",
+            "[person_1] will put it back.",
+            "Maybe the machine will knead the ingredients inside into a ball."
+        ],
+        "reason": [
+            "Because her ice cream cone is already empty.",
+            "[person_1] wants to know how fast he could run.",
+            "The power went out on the treadmill and he couldn't run.",
+            "[person_1] will be tired.",
+            "Because it is necessary when the painter changes colors."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the tire was made of glass?",
+        "answer": [
+            "They will stop dancing.",
+            "the pancake will fall down and stuck between [person_1] and [person_1].",
+            "The keyboard will not use.",
+            "The woman in the middle of the stage will be famous.",
+            "It would be broken immediately."
+        ],
+        "reason": [
+            "Because the microphone cannot work without power.",
+            "Glass is brittle while rubber is flexible.",
+            "The water pump will stop.",
+            "[person_1] will be weary after the racing.",
+            "The power failure may be caused by tripping."
+        ]
+    }
+}

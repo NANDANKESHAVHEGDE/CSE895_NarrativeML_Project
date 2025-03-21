@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is he an adult or a child?",
+        "answer": [
+            "Female.",
+            "A guitar.",
+            "Yes.",
+            "A child.",
+            "It is near [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is playing chess with his friend.",
+            "[person_1] wants to play.",
+            "[person_1] is doing for fun.",
+            "[person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do if he is hungry?",
+        "answer": [
+            "[person_1] will continue to instruct [person_1].",
+            "[person_1] will give [person_1] this biscuit.",
+            "[person_1] will look for food.",
+            "[person_1] may join in them and handle the rope together.",
+            "[person_1] will go to the toilet."
+        ],
+        "reason": [
+            "The table is flat and nearby.",
+            "[person_1] needs energy.",
+            "Because it is the rule of the game.",
+            "[person_1] has had not enough drinks.",
+            "That's the reason why he puts them together."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] is tired?",
+        "answer": [
+            "[person_1] will stop walking.",
+            "[person_1] will start playing.",
+            "[person_1] won't be able to win.",
+            "[person_1] will stop playing.",
+            "[person_1] will sit down and rest."
+        ],
+        "reason": [
+            "He will get hurt.",
+            "He will sleep.",
+            "She will get hurt.",
+            "He will not sleep.",
+            "Two people work faster than one."
+        ]
+    }
+}

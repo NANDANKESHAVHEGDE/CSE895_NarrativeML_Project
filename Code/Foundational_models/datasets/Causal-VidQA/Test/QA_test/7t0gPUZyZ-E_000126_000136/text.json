@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The [person_2] is wearing a cap.",
+            "The shirt is a black shirt with flowers.",
+            "[person_2] is wearing a black shirt.",
+            "The t - shirt is black.",
+            "The shirt [person_2] wearing is yellow"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing next to [person_1]?",
+        "answer": [
+            "[person_1] is watching [person_1] playing cymbal.",
+            "Because [person_1] is snatching weight lifting.",
+            "Because [person_1] is snatching weight - lifting.",
+            "[person_1] wants to read [person_2].",
+            "Because helmet keeps [person_1] from getting hurt."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will remove his hand from the cymbal to let [person_2] play it.",
+            "[person_1] is going on a trip.",
+            "It is anticipated that [person_1] will take a short break.",
+            "[person_1] will certainly pull the rope.",
+            "[person_1] is bound to keep swinging to the guitar music."
+        ],
+        "reason": [
+            "[person_1] did a stupid action.",
+            "[person_1] is playing very professionally.",
+            "[person_1] is practicing hard.",
+            "To show how to cut the board.",
+            "[person_2] is looking at the cymbal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't hold the cymbal?",
+        "answer": [
+            "[person_1] would probably have fallen.",
+            "The cymbal will wobble.",
+            "[person_1] will have to go back to the gyro.",
+            "It will affect [person_1] driving and may cause danger.",
+            "The carpet could be in correct place with less effort."
+        ],
+        "reason": [
+            "There are many cymbals behind [person_1].",
+            "[person_1] is trying to challenge herself.",
+            "[person_1] did not show much interest on maracas.",
+            "[person_1] wants her son to high five with her.",
+            "The cymbal can't stand still."
+        ]
+    }
+}

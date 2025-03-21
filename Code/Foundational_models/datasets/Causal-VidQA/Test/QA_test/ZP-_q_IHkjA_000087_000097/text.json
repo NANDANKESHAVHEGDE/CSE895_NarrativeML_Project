@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is outside.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] trample down [suitcase_1]?",
+        "answer": [
+            "[person_1] is playing the gong for fun.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] does it for fun.",
+            "[suitcase_1] is put there for [person_1] to sit.",
+            "[person_1] is listening to the music beat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cross the street.",
+            "[person_1] will leave.",
+            "[person_1] is about to eat.",
+            "[person_1] is going to continue trying to smashing [suitcase_1].",
+            "[person_1] will read another book."
+        ],
+        "reason": [
+            "[person_1] is in the gymnastic.",
+            "[person_1] is going forward [suitcase_1].",
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [suitcase_1].",
+            "[person_1] fell under the bed.",
+            "[person_1] is jumping very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [bicycle_1] disappeared?",
+        "answer": [
+            "[person_1] wouldn't care about it.",
+            "[person_1] will be allowed to join contest.",
+            "[person_1] may choose to accompany his parents.",
+            "[person_1] will be praised.",
+            "[person_1] would find another thing to smash."
+        ],
+        "reason": [
+            "Because [person_1] doesn't care about [bicycle_1].",
+            "The amplitude of this action is large.",
+            "[person_1] and [bicycle_1] are standing outside.",
+            "Water is necessary for the human body.",
+            "[person_1] took small steps and pointed the feet and hips in the direction [person_1] stepped."
+        ]
+    }
+}

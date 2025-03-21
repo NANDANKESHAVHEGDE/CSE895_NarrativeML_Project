@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "It is lying on the floor.",
+            "The [person_1] is big.",
+            "It is red.",
+            "[person_1] is wearing a dress.",
+            "[person_1] is \u00a0 wearing a short - sleeve shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] spray so many different colors?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "Because the automatic machine will peel the apples.",
+            "[person_1] wants the picture to be unique.",
+            "[person_1] does it to reach the gong.",
+            "Because [person_1] is playing the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will play basic chords.",
+            "[person_1] may take off the clip.",
+            "[person_1] may go to somewhere else.",
+            "[person_1] is going to keep painting.",
+            "[person_1] may stop recording."
+        ],
+        "reason": [
+            "[person_1] is going to change the color.",
+            "[person_1] is still working.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] tricked the opponent by attacking a specific target.",
+            "[person_1] is going to put the shoe down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the paint spray bottle is dropped?",
+        "answer": [
+            "The person playing with [person_1] will have the right to hit the badminton ball.",
+            "[person_1] will be sad.",
+            "[person_1] will put the log back into the planer.",
+            "[person_1] would not take picture of the piper.",
+            "They will suspend the ceremony."
+        ],
+        "reason": [
+            "The paint spray bottle may be broken.",
+            "To build the shed again.",
+            "The gas would ignite.",
+            "The sunlight may make them dizzy.",
+            "Because [person_1] wants to have more cakes."
+        ]
+    }
+}

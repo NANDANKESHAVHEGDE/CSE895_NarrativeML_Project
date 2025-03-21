@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [microwave_1]?",
+        "answer": [
+            "[microwave_1] is parking on the road.",
+            "[microwave_1] is in the corner of the kitchen table.",
+            "[microwave_1] is on the road and next to the [microwave_1].",
+            "[microwave_1] is on the floor.",
+            "[microwave_1] is on the floor outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a shirt?",
+        "answer": [
+            "Because the tree is planted next to a wood fence.",
+            "The knife is too small to cut a coco.",
+            "By using a circular saw.",
+            "[person_1] is being interviewed.",
+            "The weather is cool."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to a workout.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] intends to keep playing the guitar.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] may go to somewhere else."
+        ],
+        "reason": [
+            "[person_1] has already picked one piece up.",
+            "Because the machine is on.",
+            "[person_1] seems to enjoy playing it very much.",
+            "[person_1] is quite relaxed when he plays the guitar.",
+            "[person_1] likes this meal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forgets the music?",
+        "answer": [
+            "[person_1] will pause playing.",
+            "The tile will be broken.",
+            "Many people would know his card trick.",
+            "[person_1] will replace [person_1].",
+            "They are easily discouraged when they lose."
+        ],
+        "reason": [
+            "Water level is not deep and [person_1] just needs to get up if [person_1] falls.",
+            "[person_1] calls [person_1] to come back.",
+            "It will take [person_1] a few minutes to remember.",
+            "[person_1] and [person_1] can still go on without [person_1].",
+            "Because [person_1] is standing near the badminton net."
+        ]
+    }
+}

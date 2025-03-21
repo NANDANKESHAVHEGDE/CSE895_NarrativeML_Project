@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many cups are there in the room?",
+        "answer": [
+            "The box is pink.",
+            "The room is painted in yellow.",
+            "There is only [cup_1] in the room.",
+            "[cup_1] is near the wall.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing up?",
+        "answer": [
+            "The [cup_1] is polishing the table.",
+            "The [person_2] is learned how to skate by the [cup_1] and [person_2].",
+            "[person_2] is performing spinning plates.",
+            "[person_2] wants to know something inside the [cup_1].",
+            "[person_2] is performing a song with the maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to show a magic skill.",
+            "[person_1] will continue to play.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to start eating."
+        ],
+        "reason": [
+            "[person_1] is preparing everything to do it.",
+            "[person_1] has finished the body color.",
+            "[person_1] is sliding downhill.",
+            "[person_1] likes sledding.",
+            "[person_1] just started."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] magicked [cup_1] away?",
+        "answer": [
+            "the contents of [cup_1] would begin to spill out onto the ground , so [person_1] would want to stop to clean up the spill.",
+            "[person_1] will then lie on the [person_4].",
+            "[person_4] wouldn't stuck.",
+            "[person_2] , [person_3] , [person_4] and [person_5] would be surprised.",
+            "[person_1] would need shoulder straps."
+        ],
+        "reason": [
+            "[person_1] is eating [person_1] on a table.",
+            "[person_1] thinks that [person_1]'s finger is food.",
+            "They cannot believe and don't know how [person_1] can do that.",
+            "Because [person_1] would be broken.",
+            "Because [cup_1] is very friendly with [person_1]."
+        ]
+    }
+}

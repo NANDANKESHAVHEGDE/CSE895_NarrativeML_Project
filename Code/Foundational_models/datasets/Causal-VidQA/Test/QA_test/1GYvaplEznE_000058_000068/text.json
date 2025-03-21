@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [couch_1] small?",
+        "answer": [
+            "The balls are red and blue.",
+            "The color of [couch_1] is green.",
+            "No , it isn't.",
+            "White.",
+            "Yes , there is one."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "[person_1] is performing outdoor on the street.",
+            "[person_1] wants to show the audience how to use the tool.",
+            "[person_1] is playing with water.",
+            "[person_1] is singing.",
+            "[person_1] is feeling delighted."
+        ]
+    },
+    "predictive": {
+        "question": " What is [person_2] going to do next?",
+        "answer": [
+            "[person_2] is going to show how to do the exercise.",
+            "[person_2] is planning to play glass ball.",
+            "[person_2] is going to continue playing with [person_2].",
+            "[person_2] is going to continue dancing.",
+            "[person_2] is going to jump over the hurdle."
+        ],
+        "reason": [
+            "It seems that [person_2] is quite happy with a smile on his face.",
+            "[person_2] is ready to shovel the soil with a shovel and is sure to put it in [person_2].",
+            "because [person_2] is about standing up after finishing her jumping.",
+            "Because [person_2] wants to dance with [person_2].",
+            "It seems that [person_2] would like to improve his skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is thirsty?",
+        "answer": [
+            "[person_2] will prepare food for [person_1].",
+            "[person_1] needs to clean it.",
+            "[person_1] and [person_2] may help [person_2] to heal the injuries.",
+            "Maybe [person_1] will stop playing with the cups.",
+            "[person_1] will return to help [person_2]."
+        ],
+        "reason": [
+            "[person_2] loves [person_1] so much.",
+            "Maybe [person_1] will drink water.",
+            "[person_1] talked passionately.",
+            "[person_1] will go to hospital.",
+            "[person_2] held the gift and smiled happily."
+        ]
+    }
+}

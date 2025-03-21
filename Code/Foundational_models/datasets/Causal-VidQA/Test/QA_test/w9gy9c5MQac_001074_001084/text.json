@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are two chairs.",
+            "There are five people.",
+            "There are three chair.",
+            "There are two chair.",
+            "There are 6 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] and [person_2] smiling ?",
+        "answer": [
+            "Maybe [person_3] and [person_2] are talking about Christmas presents.",
+            "Because [person_2] is expressing love to [person_2].",
+            "[person_3] is watching the swimming competition.",
+            "The [person_2] stops pouring because the [person_2] is full.",
+            "Because [person_2] is producing a table."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_5] going to do?",
+        "answer": [
+            "[person_5] is going to sing along with everyone.",
+            "[person_5] will likely stomp the grapes.",
+            "[person_5] is going to open his present.",
+            "[person_5] is going to continue drumming.",
+            "[person_5] is going to express gratitude."
+        ],
+        "reason": [
+            "He is wandering , applauding and coming in to the crowd to greet.",
+            "He finished the race.",
+            "The game is not over yet.",
+            "The present is in front of [person_5].",
+            "[person_5] is not likely to stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's not a gift [person_5] likes?",
+        "answer": [
+            "[person_5] will be very happy.",
+            "[person_5] won't be happy and wants another gift.",
+            "[person_5] will ask [person_5] to stop.",
+            "People on the bus will complain.",
+            "[person_5] will fall."
+        ],
+        "reason": [
+            "Everyone wants a gift they love for Christmas.",
+            "Everyone is happy if they can eat their favorite food.",
+            "[person_5] and [person_5] are next to each other.",
+            "[person_5] is dancing very carefree.",
+            "Laughing too much will make [person_5] and [person_5] lose a lot of energy."
+        ]
+    }
+}

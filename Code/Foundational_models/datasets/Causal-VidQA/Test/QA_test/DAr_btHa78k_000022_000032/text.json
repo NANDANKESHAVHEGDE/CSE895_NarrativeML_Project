@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [cup_1]?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "It's a reception table for the people attending a meeting.",
+            "A woman.",
+            "A book shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the pool?",
+        "answer": [
+            "Maybe [person_1] is taking the bath.",
+            "[person_1] is playing darts.",
+            "[person_1] is raising his eyebrows.",
+            "[person_1] wants to introduce the tool which he is using.",
+            "[person_1] is stretching her arms."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to slowly opening his arms.",
+            "[person_1] is going to whistle.",
+            "[person_1] is going to making in laugh.",
+            "[person_1] probably will get more food.",
+            "[person_1] is going to eat the next slice of potato chips."
+        ],
+        "reason": [
+            "[person_1] moved the ball to the right.",
+            "[person_1] moved some steps slowly and gently.",
+            "[person_1]'s arms are closed together and opening the arms is the next move in the performance.",
+            "The hands of [person_1] are still holding the cleaning cloth and he sees to be looking for the next place to wipe.",
+            "[person_1] may keep trying to put water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels cool ?",
+        "answer": [
+            "[person_1] may stop.",
+            "[person_1] will turn to an electricity grinder.",
+            "[person_1] will sit on a chair and continue to clean the shoes.",
+            "[person_1] will play alone.",
+            "[person_1] will take [person_1]."
+        ],
+        "reason": [
+            "Perhaps [person_1] will go out.",
+            "There is no food in the gym . Only when [person_1] goes to the food stores can he get something to eat.",
+            "When [person_1] feels tired , she has to stop to relax her body and recover her energy.",
+            "The hoop is too small for the body of [person_1].",
+            "When [person_1] feels tired , he must have a rest to get a recovery of his energy so that he can do the training again."
+        ]
+    }
+}

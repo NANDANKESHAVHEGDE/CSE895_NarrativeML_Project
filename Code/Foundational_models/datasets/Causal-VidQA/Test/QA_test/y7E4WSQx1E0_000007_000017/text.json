@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tie_1]?",
+        "answer": [
+            "The [tie_1] is besides the window.",
+            "[tie_1] is sitting on [person_1].",
+            "The [person_1] is sitting down on the [tie_1].",
+            "[tie_1] is hanging on the wall in the room of [person_1].",
+            "[tie_1] is in a roller skating floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing guitar?",
+        "answer": [
+            "Because [person_1] wants to beat right the plastic bars of the xylophone.",
+            "[person_1] wants to make the voice louder.",
+            "[person_1] is learning to play the flute.",
+            "Because the [person_1] wants to pick up this skill.",
+            "perhaps [person_1] wants to record himself playing guitar to send the video to someone to impress them."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next after finishing playing guitar?",
+        "answer": [
+            "[person_1] will find something else to play.",
+            "[person_1] is a dancer.",
+            "[person_1] will take off his costume.",
+            "[person_1] will keep on dancing.",
+            "[person_1] will watch the video to see if it was good."
+        ],
+        "reason": [
+            "Because his drum is smaller and he drums slightly.",
+            "[person_1] is blindfolded while eating.",
+            "[person_1] won't wear a costume in usual life.",
+            "[person_1] finishes playing the song and then looks back at the camera to get it and watch the recording.",
+            "It can be seen from the video that there are some things on his bed . He should tidy them up after completing his task."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if someone walked into the room of [person_1] while he was playing music?",
+        "answer": [
+            "He will escape quickly.",
+            "[person_1] would start crying from disappointment and not try to take the talking globe out of the box.",
+            "[person_1] wouldn't flip the cakes.",
+            "[person_1] would be not get noodle sauce.",
+            "[person_1] would get distracted and stop playing the song he's playing to look over at who walked into the room."
+        ],
+        "reason": [
+            "[person_1] would lose his concentration on playing guitar if he got interrupted because he needs complete focus to play well.",
+            "[person_1] is very satisfied with the work.",
+            "The bag is closed at the beginning.",
+            "The danger from spattering can be seen.",
+            "[person_1] can not see strings in the dark."
+        ]
+    }
+}

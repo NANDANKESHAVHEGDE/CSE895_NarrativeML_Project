@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the classroom.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in his house.",
+            "[person_1] is sitting on the chair in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] walking towards the podium?",
+        "answer": [
+            "Because the whether is very hot.",
+            "[person_1] is performing.",
+            "Maybe the teacher called him.",
+            "[person_1] is celebrating because he threw the ball in the basket.",
+            "[person_1] is placed on the ground to contain the money."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use his hand to tamp the soil.",
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] is going to join the game.",
+            "[person_1] is going to write his answer on the board.",
+            "[person_1] will continue to turn off the faucet."
+        ],
+        "reason": [
+            "From other's behavior we can know after practicing the people need to stand in a line.",
+            "That's what his teacher wants.",
+            "There is a coming car.",
+            "It can not be eat.",
+            "Their stems are too long."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the answer is wrong?",
+        "answer": [
+            "The [person_1] would fall to the road.",
+            "The teacher of [person_1] will scold him.",
+            "[person_1] will borrow [person_1] to him.",
+            "Perhaps [person_1] will give [person_1] the bear.",
+            "[person_1] will drop the hot dog."
+        ],
+        "reason": [
+            "[person_1] is interested in [person_1]'s dance , so [person_1] stays to watch.",
+            "[person_1] could not produce the small stream.",
+            "The machine can't work when it powers off.",
+            "[person_1] didn't study hard.",
+            "The yard is surrounded by many trees which makes it an ideal place for the people to gather."
+        ]
+    }
+}

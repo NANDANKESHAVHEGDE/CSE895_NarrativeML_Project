@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is teaching yoga.",
+            "[person_1] is playing gongs.",
+            "[person_1] is introducing how to slam the tire.",
+            "[person_1] is opening the gift.",
+            "[person_1] is playing mahjong."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising her arms?",
+        "answer": [
+            "[person_1] is singing.",
+            "[person_1] is doing yoga.",
+            "[person_1] is doing a street challenge.",
+            "[person_1] is working out at the gym.",
+            "[person_1] and [person_1] are in a roller skating competition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put her arms down to the side.",
+            "[person_1] may continue to stand there.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to practice."
+        ],
+        "reason": [
+            "[person_1] is moving her arms down.",
+            "[person_1] is turning the page.",
+            "[person_1] is very excited.",
+            "[person_1] feels that the food is not good.",
+            "[person_1] is going to go back home."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is sitting down on [chair_1]?",
+        "answer": [
+            "[person_1] will be very amused.",
+            "[person_1] will have time to relax.",
+            "[chair_1] will use the tissue on the table.",
+            "[person_1] would not be able to put her arms down the side.",
+            "[person_1] will feel hurt."
+        ],
+        "reason": [
+            "[person_1] holds lanyard with both hands to control [chair_1].",
+            "The [chair_1] will block [person_1]'s range of motion.",
+            "if [person_1] poured too many beans , they would stop pouring to clean up the mess.",
+            "Because [person_1] is working on the construction site.",
+            "[person_1] is herding the cows on the field."
+        ]
+    }
+}

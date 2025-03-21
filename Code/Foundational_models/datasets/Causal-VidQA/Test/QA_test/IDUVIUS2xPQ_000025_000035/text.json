@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cup_1]?",
+        "answer": [
+            "The hat is white.",
+            "It is on the plastic basket.",
+            "The [cup_1] is on the [cup_1].",
+            "The [cup_1] is on the table.",
+            "[cup_1] is on the [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is in the room playing the lute.",
+            "[person_1] is playing with the cups.",
+            "Because [person_1] is working out his biceps with resistance bands",
+            "[person_1] is staying with [person_1].",
+            "[person_1] is interested in playing a game."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after standing here?",
+        "answer": [
+            "[person_1] will give the patient the tool.",
+            "It will be collected to recycle.",
+            "[person_1] will call a doctor.",
+            "[person_1] will start to play with these cups.",
+            "[person_1] will yank [person_1] to [person_1] feet."
+        ],
+        "reason": [
+            "Because the [person_1] thinks the feeling is special.",
+            "Because [person_1] has a lot of spices around him.",
+            "[person_1] used the hands and feet to stand up.",
+            "It seems that [person_1] is riding with a rapid speed.",
+            "It seems that there are some cups on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is hungry?",
+        "answer": [
+            "[person_1] will sleep on the horse.",
+            "Maybe [person_1] will continue arranging the cups.",
+            "The mother of [person_1] may take the meal for him.",
+            "Maybe [person_1] will stop arranging the cups.",
+            "Maybe [person_1] will give a dish for [person_1]."
+        ],
+        "reason": [
+            "[person_1] can't stand the hunger.",
+            "[person_1] has to have a dish.",
+            "The exercise will make [person_1] sweat.",
+            "[person_1] has to break a dish.",
+            "Because [person_1] is worried about that."
+        ]
+    }
+}

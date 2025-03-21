@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is lying on the table.",
+            "[person_2] is sitting close to the camera.",
+            "No , it isn't.",
+            "Five.",
+            "[person_2] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_2] smile?",
+        "answer": [
+            "[person_2] does not succeed in the game.",
+            "[person_2] got a gift.",
+            "The room is very clean.",
+            "[person_2] is tickling him.",
+            "The weather is hot."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may ask [person_2] for some money.",
+            "[person_1] is going to level the concrete into the pipes.",
+            "[person_1] is likely to learn how to make a basket.",
+            "[person_1] may give the drink to the customer.",
+            "[person_1] is going to see the gift of [person_2]."
+        ],
+        "reason": [
+            "[person_1] looks happy with this action.",
+            "Maybe [person_1] and [person_2] are having a good time.",
+            "Because [person_1] looked to the left , where [person_2] is sitting , and was curious.",
+            "[person_1] retracts his hand.",
+            "[person_1] is taking more oranges and holding a knife."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not get a gift?",
+        "answer": [
+            "[person_2] may be sad.",
+            "[person_2] will be famous.",
+            "[person_2] will replace it with ribbons.",
+            "The snow might stick the eyes of the [person_2].",
+            "[person_2] could not practice the clarinet."
+        ],
+        "reason": [
+            "Because the hospital is far away from her house.",
+            "The patch should be hot to wax armpits easily so [person_2] must test the temperature of the wax before applying a full patch to avoid scalding.",
+            "[person_2] does not have to stop regularly to shovel the soil into the sieve because [person_2] can do the task.",
+            "[person_2] has been turning around for so many times.",
+            "Because everyone had a gift."
+        ]
+    }
+}

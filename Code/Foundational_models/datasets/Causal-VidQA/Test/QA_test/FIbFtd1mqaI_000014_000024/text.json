@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [television_1]?",
+        "answer": [
+            "They are playing guessing game.",
+            "[television_1] is behind [person_1].",
+            "No , [person_1] isn't.",
+            "They are in front of a restaurant.",
+            "It is a circular saw."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] just played maracas while sitting.",
+            "[person_1] is riding a unicycle.",
+            "Because [person_1] and [person_1] enjoy playing.",
+            "[person_1] is intently playing didgeridoo.",
+            "The [person_1] stretches the arms to the right and the left."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will catch up.",
+            "[person_1] will keep practicing.",
+            "[person_1] will clap hands.",
+            "[person_1] will put on his shirt.",
+            "[person_1] will continue to drink."
+        ],
+        "reason": [
+            "[person_1] is holding two hot dogs in his hand.",
+            "[person_1] is shirtless.",
+            "[person_1] drank too much water.",
+            "It seems that he is on a important occasion.",
+            "[person_1] is repairing the tire."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [toothbrush_1] hits [television_1] hard?",
+        "answer": [
+            "[toothbrush_1] would be disqualified from the game.",
+            "The wall would be broken.",
+            "The shirt will be broken.",
+            "[television_1] might go to the barbershop",
+            "[television_1] will be broken."
+        ],
+        "reason": [
+            "[person_1] needs to buy a new TV.",
+            "[person_1] hula hoops and the hoop will hit the [toothbrush_1] as rotating if the [toothbrush_1] is close to [person_1].",
+            "[person_1] is right besides [person_1] to the right side.",
+            "[person_1] will read another book for children.",
+            "Because [person_1] and [television_1] cannot eat a cake that has fallen on the floor."
+        ]
+    }
+}

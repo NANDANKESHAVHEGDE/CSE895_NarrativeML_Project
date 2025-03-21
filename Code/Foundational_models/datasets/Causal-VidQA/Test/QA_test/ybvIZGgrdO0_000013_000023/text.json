@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there?",
+        "answer": [
+            "There are five chairs in the room.",
+            "There is only person.",
+            "There are four players.",
+            "The [person_1] is in front of the [person_1].",
+            "There are seven."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the harmonica?",
+        "answer": [
+            "[person_1] feels sore of his hand which has held the hammer.",
+            "Perhaps [person_1] plays the harmonica for fun.",
+            "[person_1] lifts the sledgehammer with the head on the top and leans it slowly.",
+            "[person_1] is shaving and trimming his beard.",
+            "[person_1] is filming himself so [person_1] is interacting with the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue playing the harmonica.",
+            "[person_1] is about to eat.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] will come up the stairs.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] is ripping paper.",
+            "[person_1] is holding the harmonica."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the harmonica didn't work?",
+        "answer": [
+            "[person_1] wouldn't smile.",
+            "Then the camera won't fall.",
+            "The girl will recharge the phone.",
+            "[person_1] may feel so sad.",
+            "The concert had to be canceled."
+        ],
+        "reason": [
+            "Because cookies stick to the plate , if they can't be shoveled off , the plate can't be used any more , so the plate will be thrown away.",
+            "To relax for a while.",
+            "[person_1] will use his laptop instead.",
+            "[person_1] will be disappointed.",
+            "[person_1] is smiling because his amusement of the sound he made."
+        ]
+    }
+}

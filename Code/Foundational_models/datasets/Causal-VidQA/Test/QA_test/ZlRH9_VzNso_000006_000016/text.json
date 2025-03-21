@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What tool does [person_1] use?",
+        "answer": [
+            "A rose.",
+            "[person_1] and [person_1] are in a studio.",
+            "It's red.",
+            "A spoon.",
+            "[person_1] and [person_1] are at the backyard of a school."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] chooses spoon to open [bottle_1]?",
+        "answer": [
+            "Because spoons are thin and strong.",
+            "[person_1] is slowly moving his legs and hands.",
+            "[person_1] can not play the piano while standing.",
+            "It will reduces the time of completing stomping grapes.",
+            "[person_1] is doing exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to take.",
+            "[person_1] may keep trying to rank faster.",
+            "[person_1] is going to do more tricks.",
+            "[person_1] is going to keep walking.",
+            "[person_1] is going to pick up beer cap."
+        ],
+        "reason": [
+            "[person_1] is holding a baseball bat.",
+            "[person_1] wants to explore about this book.",
+            "[person_1] seems to enjoy playing it very much.",
+            "Because [person_1] took his hand off the beer bottle . Most likely to pick up beer cap.",
+            "Maybe [person_1] loves to read."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the spoon is out of shape?",
+        "answer": [
+            "[bottle_1] will be fun.",
+            "The other people would go to check [bottle_1]'s safety.",
+            "[bottle_1] probably doesn't smoke much.",
+            "[bottle_1] will not be opened.",
+            "The [bottle_1] will not get hurt from others."
+        ],
+        "reason": [
+            "Because [bottle_1] is the one holding the pancake tray.",
+            "[bottle_1] is taking care of the baby.",
+            "The deformed spoon could not be inserted into the gap of the [bottle_1].",
+            "Because [bottle_1] will be disappointed when nobody likes her performance.",
+            "Because [bottle_1] is nearsighted."
+        ]
+    }
+}

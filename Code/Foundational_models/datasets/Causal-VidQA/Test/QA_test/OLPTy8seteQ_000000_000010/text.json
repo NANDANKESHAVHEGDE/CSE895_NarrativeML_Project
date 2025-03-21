@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] kicking?",
+        "answer": [
+            "[person_1] is kicking a ball.",
+            "[person_1] on the cupboard.",
+            "No , it isn't.",
+            "It is on the wall.",
+            "It is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] kicking a ball?",
+        "answer": [
+            "[person_1] is a child , he is just playing and having some fun.",
+            "[person_1] looks at the exam results.",
+            "Maybe [person_1] does it for fun.",
+            "This is the first time [person_1] has hit the rink.",
+            "[person_1] wants to make sure that [person_1] won't fall."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to raise [person_1]'s leg.",
+            "[person_1] will raise his right hand.",
+            "[person_1] will continue kicking the ball.",
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will continue singing and playing."
+        ],
+        "reason": [
+            "[person_1]'s hands is touching the string.",
+            "Because [person_1] prepared to eat the food with a fork.",
+            "It is obvious that [person_1] is waving his body.",
+            "[person_1] looks very passionate about the ball.",
+            "Because the paint on the paint roller dries out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] kicked the ball and hit the TV",
+        "answer": [
+            "[person_1] won't want to drink that orange juice.",
+            "[person_1] will not sing.",
+            "[person_1] will not play guitar anymore.",
+            "Kids will be disappointed.",
+            "[person_1] will be punished."
+        ],
+        "reason": [
+            "The sound produced would not be clear because tapping the surface of the towel does not resonate as much as tapping the table.",
+            "Squat may be done without other instruments or tools.",
+            "The people next to [person_1] jumped from a lower place , the water spray was very small.",
+            "[person_1] should play outside , not inside the house.",
+            "The room will still have the remaining lights working."
+        ]
+    }
+}

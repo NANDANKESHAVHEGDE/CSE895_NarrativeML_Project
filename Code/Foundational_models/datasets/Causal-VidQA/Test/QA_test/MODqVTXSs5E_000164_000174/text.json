@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is in the left of the refrigerator.",
+            "The [chair_1] is between the [couch_1] and the wall.",
+            "The [chair_1] is near the window and close to the wall.",
+            "[couch_1] is sitting on the [chair_1].",
+            "The [chair_1] is placed on the left of [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] stand up?",
+        "answer": [
+            "The [person_1] stood up to fight with the [person_1] with a teddy bear.",
+            "Maybe [person_1] is performing in a show.",
+            "The [person_1] stood up to fight against the woman with a pillow.",
+            "Because [person_1] can't walk on foot.",
+            "Because [person_1] is going to do an exciting thing."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to keep reading.",
+            "The [person_1] is going to kick the last ball.",
+            "The [person_1] would stand up and push the pillow toward the girl.",
+            "The [person_1] is going to throw snowballs with the [couch_1] and the [person_1].",
+            "The [person_1] is going to throw the white pillow on the [couch_1]."
+        ],
+        "reason": [
+            "The [person_1] is putting hand on the shoulder of the man.",
+            "The [person_1] is taking the white pillow on the [couch_1].",
+            "Because [person_1] is not interested in seeing a movie and is standing up to walk away.",
+            "The [person_1] and the [person_1] are going ahead and the [person_1] is holding the hand of the [person_1].",
+            "The [person_1] throws shot put then raises two hands and wants to leave."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the pillow were thrown behind the [couch_1]?",
+        "answer": [
+            "[couch_1] would go on playing the game.",
+            "The books on the shelf might fall.",
+            "[couch_1] may not know where to put the letter.",
+            "[couch_1] could only lower his hip and stand up.",
+            "Frisbee may change its direction."
+        ],
+        "reason": [
+            "The books are on the shelf behind the [couch_1].",
+            "Because they could not practice tying knots in the rain.",
+            "[couch_1] can not be balance on a slippery floor.",
+            "[couch_1] will fall.",
+            "Because the letter is private and must be put in the mailbox."
+        ]
+    }
+}

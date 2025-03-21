@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "The [chair_1] is on the sand and behind the [person_1].",
+            "It is \u00a0 in the right of the [person_1].",
+            "[chair_1] is on the left hand side of [person_1].",
+            "It is on the right of [person_1].",
+            "[chair_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the paper into her mouth?",
+        "answer": [
+            "Because [person_1] wants to tear the paper apart.",
+            "[person_1] thinks the inhaler is interesting.",
+            "The [person_1] is harvesting apples and the apple branches are high.",
+            "[person_1] uses the cup to take the dice.",
+            "[person_1] blows the clarinet powerfully."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will put the paper down.",
+            "[person_1] will probably retrieve [person_1].",
+            "[person_1] maybe will check his somersault.",
+            "[person_1] will chew the food he just puts into his mouth.",
+            "[person_1] will probably keep going straight."
+        ],
+        "reason": [
+            "Because [person_1] accepts the proposal.",
+            "[person_1] is holding a straw in [person_1]'s mouth.",
+            "[person_1] is holding a drill.",
+            "[person_1] is having fun.",
+            "[person_1] can not tear the paper by her mouth , [person_1] holds paper and wants to put it down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] puts the paper in her mouth?",
+        "answer": [
+            "The cameraman will pull it out.",
+            "[person_1] will overbalance.",
+            "Frames maybe rust.",
+            "[person_1] will pause playing.",
+            "[person_1] will not fall to the ground alone near the table."
+        ],
+        "reason": [
+            "[person_1] has just fell of because [person_1] climbed the chair.",
+            "It is very sharp.",
+            "The cameraman is looking after [person_1].",
+            "The bench will lack color.",
+            "[person_1] just has one cake that [person_1] is holding."
+        ]
+    }
+}

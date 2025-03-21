@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is stacking the dice on the table.",
+            "[person_1] is moving the tire.",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is holding the maracas."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the bed?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is making fun of others.",
+            "[person_1] is playing cymbals.",
+            "[person_1] cannot stand up."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to shout.",
+            "[person_1] will continue to play.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to keep talking.",
+            "[person_1] will throw the frisbee."
+        ],
+        "reason": [
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is very interested in what he says.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is opening the mouth.",
+            "To make it look more fresh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't hold the maracas?",
+        "answer": [
+            "[person_1] might fall to the ground and failed to grab on it.",
+            "[person_1] will put it back in the bag.",
+            "[person_1] would lose the game.",
+            "[person_1] would play with other toys.",
+            "That would mean the machine is out of order."
+        ],
+        "reason": [
+            "The people stomping the grapes would have a hard time maintaining their balance.",
+            "The maracas are the main reason for [person_1]'s excitation.",
+            "There are many toys around [person_1].",
+            "The older man turned around so he could see what was going on.",
+            "Because the wall was too large for [person_1] to escape in time and [person_1] was immersing himself in the work of tagging."
+        ]
+    }
+}

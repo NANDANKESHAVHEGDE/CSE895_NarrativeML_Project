@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a trimmer.",
+            "[person_1] is holding two sticks.",
+            "[person_1] is holding a shovel.",
+            "[person_1] is holding [baseball bat_1].",
+            "[person_1] is holding a stick."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Because [person_1] wants to play sports.",
+            "Maybe [person_1] does it for fun.",
+            "Maybe [person_1] is playing with [person_1].",
+            "Because [person_1] is smoking.",
+            "[person_1] is trying to slackline."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is about to eat.",
+            "[person_1] is going to put [bottle_1] on the ground.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] will come up the stairs.",
+            "Maybe [person_1] is going to move quicker."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "Because [person_1] acts as a guide.",
+            "[person_1] is going to smash [bottle_1].",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will come back home.",
+            "Maybe [person_1] will put the painting away.",
+            "[person_1] will be stop eating.",
+            "[person_1] will stop ripping paper.",
+            "Perhaps [person_1] will get wet."
+        ],
+        "reason": [
+            "[bottle_1] will go inside.",
+            "[bottle_1] may fall.",
+            "[bottle_1] may get wet.",
+            "Because smashing [bottle_1] when raining will make him sick.",
+            "[bottle_1] will not keep standing outside."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [fork_1]?",
+        "answer": [
+            "[fork_1] is wearing a beanie.",
+            "[fork_1] is wearing a suit.",
+            "[fork_1] is wearing a bow tie.",
+            "[fork_1] is on the table.",
+            "[fork_1] is wearing a vest."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is aligning tissues and forks to the correct positions on [dining table_1].",
+            "[person_1] is playing with the cups on the [dining table_1].",
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is interested in hitting the cups on the [dining table_1].",
+            "[person_1] is reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to practice some new skills.",
+            "[person_1] is going to take a rest.",
+            "[person_1] will read the entire comic book.",
+            "[person_1] is going to dance for a while.",
+            "[person_1] will continue to play stacks of cups."
+        ],
+        "reason": [
+            "This can help [person_1] remember the action.",
+            "[person_1] puts the hands together with [person_1].",
+            "[person_1] has just started dancing . ",
+            "[person_1] and a girl are practicing.",
+            "Maybe [person_1] likes to play it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if one of the three plates on [dining table_1] falls to the ground?",
+        "answer": [
+            "One of the three plates will be broken.",
+            "[dining table_1] may ask [dining table_1] for some fish food.",
+            "the [dining table_1] will be sunk.",
+            "[dining table_1] may instruct other ways to stretch without using the band.",
+            "[dining table_1] would agree with that."
+        ],
+        "reason": [
+            "Because [dining table_1] needs the pen to mark.",
+            "The cup is made of glass.",
+            "They are made of porcelain.",
+            "Because [dining table_1] is broken and can not be used to drink beer.",
+            "Because [dining table_1] is the one having fish food."
+        ]
+    }
+}

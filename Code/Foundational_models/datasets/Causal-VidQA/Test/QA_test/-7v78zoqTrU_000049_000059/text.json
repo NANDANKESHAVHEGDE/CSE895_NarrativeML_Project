@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2]?",
+        "answer": [
+            "It is on the floor.",
+            "It's next to [person_2].",
+            "It is in the room.",
+            "It is near next to the railing.",
+            "[chair_2] is beneath [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] open the present.",
+        "answer": [
+            "Because [person_1] wants to spend much time with his violin in a quiet place.",
+            "because [person_1] have just been given by [person_2].",
+            "The [person_1] sits on the chair to hold accordion carefully and prevent accordion from breaking.",
+            "The [person_1] is riding with other's help.",
+            "Another person fixes the bottle , and [person_2] pulls the cork with the pliers."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after taking out the parcel?",
+        "answer": [
+            "[person_1] will be drunk.",
+            "[person_1] will stop filming.",
+            "[person_1] will be loaded onto [person_1].",
+            "[person_1] will check what it is.",
+            "[person_1] will open her cards."
+        ],
+        "reason": [
+            "Because [person_1] is eating so fast and the cake is too sweet.",
+            "Because the [person_1] needs to go home.",
+            "Because [person_1] has been staring at [person_1] . He seems very interested in cooking.",
+            "It seems that [person_1] cannot wait to open the parcel.",
+            "Because [person_1] needs to continue to build the building according to the book."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the present were dropped in the floor?",
+        "answer": [
+            "[person_2] would look left side.",
+            "The [person_1] will play the song rightly through accordion.",
+            "Both [person_1] and [person_2] would be worry.",
+            "It might run away before [person_1] caught it again.",
+            "Perhaps [person_1] would open the best gift box first."
+        ],
+        "reason": [
+            "The cat interrupts [chair_2].",
+            "Because [person_2] is next to the door.",
+            "The boy with a hat needs to make room for others.",
+            "the present could break.",
+            "[person_1] wants to unlock the door."
+        ]
+    }
+}

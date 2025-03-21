@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is holding in [person_1]'s hand right now?",
+        "answer": [
+            "[person_1] is wearing a black shirt.",
+            "[person_1] is wearing a white outfit.",
+            "[person_1] has a golden brown hair.",
+            "There is a shovel.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] use a shovel while making a snowman?",
+        "answer": [
+            "The [person_1] needs a potato peeler for peeling.",
+            "He wants to play better.",
+            "Because [person_1] wants to introduce more details about microscope.",
+            "To help pile up the snow.",
+            "The [person_1] is talking to the [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "To shovel more snow.",
+            "[person_1] is going to return and check the [person_1].",
+            "[person_1] may put the right leg back.",
+            "[person_1] is going to sit down.",
+            "To borrow the bubble machine from [person_1]."
+        ],
+        "reason": [
+            "[person_1] is making noodles thin and long.",
+            "[person_1] finishes washing.",
+            "More snow help make the snowman bigger.",
+            "[person_1] is paying attention to [person_1].",
+            "[person_1] is holding the flute and is about to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the shovel breaks?",
+        "answer": [
+            "[person_1] may fall.",
+            "The crowd will leave.",
+            "[person_1] may cry.",
+            "[person_1] will use [person_1]'s hands.",
+            "[person_1] and [person_1] will ignore that mistake and continue playing."
+        ],
+        "reason": [
+            "Because the wall is too high.",
+            "Because they've been practicing for a week.",
+            "There is a guitar in the room.",
+            "There will be no one there.",
+            "There are no other tools."
+        ]
+    }
+}

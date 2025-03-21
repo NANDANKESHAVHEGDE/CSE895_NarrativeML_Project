@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the space light?",
+        "answer": [
+            "No , it isn't.",
+            "There are some tools and chargers.",
+            "They are in the backyard.",
+            "[person_1] is on the shelf.",
+            "It is in front of the building."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is reading the newspaper.",
+            "[person_1] is opening the presents.",
+            "[person_1] is excited about surfing.",
+            "Because [person_1] is watching a boxing match.",
+            "[person_1] is is admiring her gift she unwrapped."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] is going to paddle the [surfboard_1].",
+            "[person_1] is going to take a bus.",
+            "[person_1] will get the job done.",
+            "[person_1] is going to continue having breakfast."
+        ],
+        "reason": [
+            "[person_1] is leaning to the left.",
+            "[person_1] is landing on the street.",
+            "[person_1] is focusing on this action.",
+            "[person_1] likes sledding.",
+            "[person_1] stepped forward continuously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] completes this trip?",
+        "answer": [
+            "[person_1] may feel hurt.",
+            "[person_1] may feel great.",
+            "[person_1] takes a long time to find the pieces again.",
+            "[person_1] may feel sad.",
+            "[person_1] will use another microphone."
+        ],
+        "reason": [
+            "Maybe [person_1] doesn't know her watch is broken.",
+            "[person_1] will have a memorable experience.",
+            "[person_1] will receive prize from the organizers.",
+            "[person_1] will have a boring experience.",
+            "[person_1] seems to love going to dancing class."
+        ]
+    }
+}

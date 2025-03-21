@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are two chairs.",
+            "There are two chair.",
+            "There are three people.",
+            "There are two vases.",
+            "The room is clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do they like eating marshmallows?",
+        "answer": [
+            "Because this is an outdoor training ground.",
+            "Because [person_1] is playing the gong.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is too small to eat such food.",
+            "They taste good."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after roasting the marshmallows?",
+        "answer": [
+            "[person_2] will go back to the start.",
+            "[person_2] will play with water by making a splash.",
+            "[person_2] will go home to taste the marshmallows.",
+            "[person_2] will continue sliding down.",
+            "[person_2] may go on playing with the boards."
+        ],
+        "reason": [
+            "There are many sundries behind.",
+            "[person_2] wants to know if the roasted marshmallow is delicious.",
+            "Because [person_2] hasn't finished brushing teeth.",
+            "[person_2] and [person_2] are kissing.",
+            "Because it's dark outside [person_2] can't see clearly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] wants [person_1] to accompany her to fetch the water?",
+        "answer": [
+            "[person_2] will blow out the candle.",
+            "The [person_1] will flatten the concrete fast.",
+            "[person_1] would accompany [person_2] to do that.",
+            "It would be more difficult for [person_2] to do the movement [person_2] is doing.",
+            "The poi may hit the man who is wearing glasses."
+        ],
+        "reason": [
+            "[person_1] must simulate the working situation.",
+            "They need to do things together in such darkness.",
+            "To learn how to play golf successfully.",
+            "Everyone is important in ballet dance.",
+            "The square plate is made of porcelain."
+        ]
+    }
+}

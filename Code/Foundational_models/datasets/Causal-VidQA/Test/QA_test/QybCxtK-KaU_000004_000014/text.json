@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bowl_1]?",
+        "answer": [
+            "The shirt [bowl_1] wearing is blue.",
+            "[bowl_1] is next to [chair_1].",
+            "The [bowl_1] is behind [bowl_1].",
+            "It is a washbasin.",
+            "The hair is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is \u00a0 somersaulting with the sports ball.",
+            "[person_1] is doing a plunge.",
+            "[person_1] is instructing someone how to stack cups.",
+            "[person_1] is doing somersaults."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to make the same gesture over and over.",
+            "[person_1] will continue talking."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is focusing on this exercise.",
+            "[person_1] is facing [person_1].",
+            "Because there are steps next to [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has unexpected work?",
+        "answer": [
+            "[person_1] will control the rein to make it stop.",
+            "the cooking [person_1] has done would be ruined and all over the kitchen floor.",
+            "They will fall off the back of the [person_1].",
+            "[person_1] may stop doing the plunge.",
+            "[person_1]'s team would also fall off."
+        ],
+        "reason": [
+            "When uncooked , the pancake would stick to the bottom of the pan.",
+            "[person_1] gets hurt.",
+            "[person_1] will get wet.",
+            "A die cannot be shaken without placing on the table first.",
+            "[person_1] needs to solve her work."
+        ]
+    }
+}

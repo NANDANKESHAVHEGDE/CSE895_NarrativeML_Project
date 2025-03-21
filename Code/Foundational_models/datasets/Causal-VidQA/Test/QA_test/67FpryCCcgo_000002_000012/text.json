@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What do they put [potted plant_1] on?",
+        "answer": [
+            "There are 2 chairs.",
+            "It is in a kitchen.",
+            "[potted plant_1] is on the carpet.",
+            "It is a wine bar.",
+            "On a machine."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do they put [potted plant_1] on a machine?",
+        "answer": [
+            "The saber is sharp and hard.",
+            "[potted plant_1] stacked cups successfully.",
+            "[potted plant_1] is observing the game.",
+            "Maybe [potted plant_1] is busy in the morning.",
+            "To sift the tea leaves."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to eat all the [person_2].",
+            "To take out all the rest clothes.",
+            "[person_2] is going to cut [person_2].",
+            "Put all the tea leaves on the machine.",
+            "[person_2] is going to tuck in the paper on the corners of the box."
+        ],
+        "reason": [
+            "To let [person_2] make bubbles.",
+            "To finish this job.",
+            "[person_2] enjoys driving.",
+            "Because the sewing has not finished yet.",
+            "Because [person_2] has taught [person_2] before."
+        ]
+    },
+    "counterfactual": {
+        "question": "If the plate can't fit , what will happen?",
+        "answer": [
+            "Divide the tea leaves into two part.",
+            "The meat cannot be eaten.",
+            "Divide the tea leaves into three part.",
+            "The meat will call the cake shop.",
+            "Divide the tea leaves into four part."
+        ],
+        "reason": [
+            "There would be fewer things to see in the room.",
+            "To let all tea leaves can be sifted.",
+            "Because it's dirty.",
+            "To let all tea leaves cannot be sifted.",
+            "There are many equipments around."
+        ]
+    }
+}

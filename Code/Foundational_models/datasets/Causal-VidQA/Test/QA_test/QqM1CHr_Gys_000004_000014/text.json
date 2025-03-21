@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] ?",
+        "answer": [
+            "[book_1] is on the dining table.",
+            "[book_1] is on the hands of [book_1].",
+            "[book_1] is in front of [book_1] . [book_1] is holding [book_1] in hand.",
+            "[book_1] is in front of the boy.",
+            "[book_1] is under [book_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the floor ?",
+        "answer": [
+            "[person_1] is opening present.",
+            "[person_1] is playing with cups.",
+            "Because [person_1] is weaving fabric",
+            "[person_1] is looking at the book and playing flute.",
+            "Because [person_1] is painting with spray paint."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will drink some water.",
+            "[person_1] will go to the kitchen.",
+            "[person_1] will go home.",
+            "[person_1] will go to bed.",
+            "She will ask the man to hold the rope."
+        ],
+        "reason": [
+            "[person_1] is quite young . [person_1] is probably about 8 years old.",
+            "Because [person_1] seems to be very tired after the show.",
+            "Because [person_1] is still a child.",
+            "Because [person_1] is not on a stage with a microphone.",
+            "[person_1] has the drink around and around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] really likes playing flute ?",
+        "answer": [
+            "Maybe [person_1] will want to be a flautist.",
+            "[person_1] may feel hot and the clothes [person_1] is wearing will be wet.",
+            "[person_1] will not get wet.",
+            "Maybe [person_1] will be happy.",
+            "[person_1] will feel uncomfortable."
+        ],
+        "reason": [
+            "Children are very emotional.",
+            "Maybe [person_1] will practice playing the flute every day.",
+            "Because [person_1] makes money out of it.",
+            "The [person_1] can swim well.",
+            "The right hand of [person_1] has no bird food."
+        ]
+    }
+}

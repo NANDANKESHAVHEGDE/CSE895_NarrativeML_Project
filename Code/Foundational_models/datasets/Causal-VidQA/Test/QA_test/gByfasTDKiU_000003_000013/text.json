@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in front of the shop.",
+            "[person_1] is in the gym.",
+            "[person_1] is in his house.",
+            "[person_1] is \u00a0 in his wood workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] step back?",
+        "answer": [
+            "Because [person_1] is playing the big gong.",
+            "[person_1] is doing it for fun.",
+            "[person_1] prepared for his back flip.",
+            "He wants to see if there is anything outside.",
+            "[person_1] is playing with paper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1]'s job?",
+        "answer": [
+            "[person_1] will continue to direct traffic on the road next.",
+            "[person_1] maybe is an acrobat.",
+            "[person_1] wanted to untie the rope.",
+            "He is going to drive it away.",
+            "Some of the other dancers will show next."
+        ],
+        "reason": [
+            "There are always chairs in the house.",
+            "It can be seen that the man threw another ball to [person_1] quickly.",
+            "[person_1]'s acrobatic technique is very good.",
+            "Because he does not want to loose control again.",
+            "Because she needs to use nails to keep them stable."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] steps back too much?",
+        "answer": [
+            "[person_1] could not catch up with the machine.",
+            "[person_1] will not dance.",
+            "[person_1] would be happy about it.",
+            "[person_1] may fall.",
+            "[person_1] will have a relax."
+        ],
+        "reason": [
+            "[person_1] is dancing in a small space.",
+            "[person_1] and [person_1] would also put their feet up because they are following [person_1].",
+            "To help relieve the tire.",
+            "[person_1] was standing on a high mattress.",
+            "[person_1] would give some marshmallows to him."
+        ]
+    }
+}

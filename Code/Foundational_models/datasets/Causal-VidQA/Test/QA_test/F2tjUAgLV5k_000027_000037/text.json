@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The shorts are red.",
+            "It is black.",
+            "The [person_2] is wearing checked pants.",
+            "It is a hat.",
+            "[person_2] is using the left hand to hold the cigarette."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] sitting next to each other?",
+        "answer": [
+            "Because [person_2] is aiming to shoot marbles.",
+            "[person_2] is dropping all the toys in the tray in the ground for [person_1].",
+            "[person_1] , [person_2] and [person_3] are playing mahjong.",
+            "Because [person_1] is performing bagpipe.",
+            "[person_2] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] , [person_2] and [person_3] going to do?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] are going to keep dancing a Korean style.",
+            "[person_1] , [person_2] and [person_3] are going to dance to the music.",
+            "[person_2] will clap for them.",
+            "Perhaps [person_1] is talking to her father who she loves.",
+            "[person_1] , [person_2] and [person_3] are going to play a new game."
+        ],
+        "reason": [
+            "[person_1] , [person_2] and [person_3] are friendly and at the same age.",
+            "Because [person_1] is aiming his phone towards the sea.",
+            "[person_1] is cosplaying.",
+            "[person_1] , [person_2] and [person_3] are playing mahjong at home for fun.",
+            "[person_1] , [person_2] and [person_3] are moving their legs follow the dancing style."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] has the strongest mahjong deck?",
+        "answer": [
+            "She might have to change her approach in making videos.",
+            "[person_2] would not get hurt on his forehead.",
+            "[person_2] may not dance anymore.",
+            "[person_2] will be fun.",
+            "[person_2] will win."
+        ],
+        "reason": [
+            "It is dangerous to sit.",
+            "That's the rule of this game.",
+            "The power of the kick is strong , and it's the board seems to be light.",
+            "Exercising for hours will make people tired.",
+            "Microscopes need to be used correctly to work."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening the door.",
+            "[person_1] is smiling.",
+            "[person_1] is opening a bottle.",
+            "[person_1] is tearing the wrapping paper down.",
+            "He is hugging his wife and kissing her."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] smile?",
+        "answer": [
+            "[person_1] may feel excited when playing the xylophone.",
+            "Maybe someone is talking with [person_1].",
+            "because [person_1] is excited about playing snowball.",
+            "Because [person_1] successfully turned the plate.",
+            "Because [person_1] feels funny when [person_1] plays checker with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to sleep.",
+            "[person_2] is going to sit up.",
+            "[person_2] is going to raise his hand up.",
+            "[person_2] is going to call [person_1] back to continue playing snowball.",
+            "[person_2] may take a break."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] like clapping hands with each other.",
+            "[person_2] turns around and leans forward.",
+            "the person who is holding the camera is suggesting [person_2] by pointing at a goat behind him.",
+            "[person_2] looks to the camera's direction , thumbs up and smiles.",
+            "because [person_2] is looking at [person_1] and waving."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_3] throws a snowball on [person_2]?",
+        "answer": [
+            "[person_2] will not throw [person_3] back.",
+            "[person_3] may be unhappy.",
+            "[person_3] might be sad.",
+            "[person_2] would get a low point.",
+            "[person_3] would fall on the ground."
+        ],
+        "reason": [
+            "[person_2] is a baby.",
+            "[person_2] and [person_3] is in a boxing match.",
+            "[person_3] is just a child.",
+            "[person_3] is the closest to [person_3].",
+            "With only one foot on the ground , he is more likely to fall when he lost his balance."
+        ]
+    }
+}

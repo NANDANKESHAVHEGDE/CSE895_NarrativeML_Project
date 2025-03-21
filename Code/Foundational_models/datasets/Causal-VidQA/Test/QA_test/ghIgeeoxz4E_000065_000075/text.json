@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [ball_1]?",
+        "answer": [
+            "It is black.",
+            "It is near the [couch_1].",
+            "The [ball_1] is black.",
+            "It is tall.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and the baby in the room?",
+        "answer": [
+            "[person_1] is playing the ukulele with [person_1].",
+            "[person_1] is putting on make - up for [person_1].",
+            "[person_1] is teaching something in a book for the baby.",
+            "[person_1] and [person_1] are practicing the didgeridoo.",
+            "[person_1] is listening to the music beat through the headphones while playing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after sitting on the ground?",
+        "answer": [
+            "Maybe [person_1] will lift the barbell over her head.",
+            "That person will keep cleaning the hair of the [person_1] who wears a red T - shirt.",
+            "Perhaps [person_1] and [person_1] are going to check the competition result.",
+            "[person_1] is going to read [book_1].",
+            "[person_1] is going to push the bricks."
+        ],
+        "reason": [
+            "[person_1] wants to go outside.",
+            "Because between [person_1] and [person_1] stands a little boy , who may be their son.",
+            "It seems that [person_1] pays attention on [book_1] . ",
+            "[person_1] wants to go home.",
+            "Because [person_1] wants to attach this frame tightly with the white wooden box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] reads books everyday for the baby?",
+        "answer": [
+            "The [person_1] will fall.",
+            "Some stains may not fall off.",
+            "[person_1] will stop using smoking pipe.",
+            "It takes time for the person to fold the paper again.",
+            "The baby will be happy."
+        ],
+        "reason": [
+            "The baby is interesting in reading books.",
+            "They seem too young to standing.",
+            "The dog is taking a bath and hasn't dried yet , so it may get sick.",
+            "To wash the sheet first.",
+            "[person_1] will make effort to do."
+        ]
+    }
+}

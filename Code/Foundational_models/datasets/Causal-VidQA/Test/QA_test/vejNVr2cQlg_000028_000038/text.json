@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the [cup_1].",
+            "[cup_1] is on the desk.",
+            "[cup_1] sits on [cup_1].",
+            "[cup_1] is on the left of [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play stacking cups?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "Maybe [person_1] is in the game.",
+            "Because [person_1] plays to improve the speed of play.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] just received a gift."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] keeps moving with the snake around him.",
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] may divide the cake among others.",
+            "[person_1] may bend over.",
+            "[person_1] tends to sit silently."
+        ],
+        "reason": [
+            "Because [person_1] is going to chop something.",
+            "Maybe [person_1] finds it interesting.",
+            "[person_1] has lifted up the container.",
+            "Because [person_1] looks very tired.",
+            "Because [person_1] will be tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups quickly?",
+        "answer": [
+            "Maybe they can't sleep well.",
+            "Everyone won't be understand the rules of the game.",
+            "No , he would not do that.",
+            "It is probable that [person_1] will be play better.",
+            "[person_1] will easily do it."
+        ],
+        "reason": [
+            "The team that has no cups loses and the other team has won.",
+            "The cups don't fall.",
+            "[person_1] will be tired.",
+            "Because [person_1] can play faster.",
+            "[person_1] and his partner both use the fire poi."
+        ]
+    }
+}

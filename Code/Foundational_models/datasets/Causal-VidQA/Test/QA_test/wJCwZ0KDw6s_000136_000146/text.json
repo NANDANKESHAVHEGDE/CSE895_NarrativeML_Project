@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It is sunny.",
+            "It is very sunny.",
+            "It is quite beautiful.",
+            "It's very cold outside.",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside when it's cold?",
+        "answer": [
+            "The jazz drum set is used to play drums in the studio.",
+            "[person_1] and [person_2] are playing luge sport.",
+            "[person_2] wants [person_2] to be nearer.",
+            "[person_1] and [person_2] are spinning for [person_1] jumping.",
+            "[person_1] is helping [person_2] train."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after beginning?",
+        "answer": [
+            "[person_1] has an intention of attracting the crowd as stomping grapes ad dancing at the same time.",
+            "[person_1] will continue sliding down.",
+            "[person_1] may cry.",
+            "[person_1] will play with water by making a splash.",
+            "[person_1] will take off her pants."
+        ],
+        "reason": [
+            "[person_1] and [person_1] start talking to each other.",
+            "[person_1] is still up on a mountain.",
+            "[person_1] needs more bricks to finish.",
+            "From the action we can guess that [person_1] is introducing the advantage of lying on the ball.",
+            "[person_1] will be cold."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "[person_1] would fall and could not finish the race.",
+            "[person_1] might come back home.",
+            "They would stop working.",
+            "They would stop playing.",
+            "[person_1] would get wet."
+        ],
+        "reason": [
+            "The football field is very slippery.",
+            "[person_1] has no shelter.",
+            "The floor would get wet and easy to slip , so [person_1] and [person_1] could not dance if it rained.",
+            "[person_1] would continue to smash after raining.",
+            "[person_1] would not continue the work."
+        ]
+    }
+}

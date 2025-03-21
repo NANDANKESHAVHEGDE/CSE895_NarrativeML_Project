@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dining table_1]?",
+        "answer": [
+            "[dining table_1] is behind [person_1].",
+            "[person_1] is on the left hand side of [person_1].",
+            "The [dining table_1] is on the left of the [person_1].",
+            "[dining table_1] is in front of [person_1].",
+            "The [person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the chair?",
+        "answer": [
+            "[person_1] is shaving for [person_1] .",
+            "[person_1] needs to place the accordion on his lap.",
+            "Because [person_1] is smoking with his best friend.",
+            "He is watching [person_1] unwrapping the present.",
+            "Because [person_1] is waiting for the mother."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the cans down.",
+            "[person_1] may be going to take a rest.",
+            "[person_1] is going to whistle.",
+            "[person_1] is going to follow the camera.",
+            "[person_1] probably will get more food."
+        ],
+        "reason": [
+            "[person_1]'s eyes are following it.",
+            "[person_1]'s hands is shaking.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] used the tape on the table.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the chair breaks down?",
+        "answer": [
+            "The vaulter may get hurt.",
+            "They will perform well.",
+            "The children will scream.",
+            "The [person_1] will use all parts in accordion.",
+            "[person_1] will cry."
+        ],
+        "reason": [
+            "There is dust collector in the room.",
+            "[person_1] will be wet.",
+            "[person_1] is turning on.",
+            "[person_1] is injured.",
+            "The [person_1] is standing on the road."
+        ]
+    }
+}

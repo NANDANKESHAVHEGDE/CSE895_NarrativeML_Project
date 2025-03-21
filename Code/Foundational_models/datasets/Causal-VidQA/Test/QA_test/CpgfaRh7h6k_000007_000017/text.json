@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is blue.",
+            "The shirt [person_1] wearing is pink.",
+            "The shirt [person_1] wearing is white.",
+            "The shirt [person_1] wearing is black.",
+            "it is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the weight lifting?",
+        "answer": [
+            "Because [person_1] is unwrapping them.",
+            "The [person_1] seems to be looking for something in the [person_1].",
+            "The [person_1] is looking for something in the [person_1].",
+            "Because [person_1] is practicing snatching weight lifting.",
+            "Maybe [person_1] wants to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sit down.",
+            "[person_1] is going to snatching weight lifting.",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may dance with [person_1].",
+            "Maybe [person_1] is going to stop running."
+        ],
+        "reason": [
+            "Because [person_1] has reached for the phone , it looks like the recording is finished.",
+            "[person_1] is leaving.",
+            "[person_1] is holding the weight lifting.",
+            "[person_1] is standing in the class.",
+            "[person_1] and [person_1] are friends."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down ?",
+        "answer": [
+            "Maybe [person_1] will help [person_1] up.",
+            "Perhaps [person_1] may keep playing and be more careful.",
+            "[person_1] will be hurt.",
+            "[person_1] will call adults.",
+            "The children will laugh."
+        ],
+        "reason": [
+            "There is no other people here.",
+            "[person_1] stops jumping.",
+            "[person_1] and [person_1] were small and playing together.",
+            "Hitting the floor hard will hurt him.",
+            "The cushion is thick."
+        ]
+    }
+}

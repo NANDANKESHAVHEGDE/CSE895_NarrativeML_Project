@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s hat?",
+        "answer": [
+            "[person_1] is wearing a black shirt.",
+            "The t - shirt is black.",
+            "The shirt is white.",
+            "[person_1]'s hat is black.",
+            "[person_1] is wearing a black shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile?",
+        "answer": [
+            "Because [person_1] knows the person giving the gift that [person_1] is opening teases him.",
+            "Because [person_1] is performing cello.",
+            "They are trying to roast the marshmallows.",
+            "[person_1] glad [person_1] broke the target pad.",
+            "Because [person_1] feels funny when [person_1] plays checker with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after seeing the box?",
+        "answer": [
+            "[person_1] will clean the floor and repair the pan.",
+            "The [person_1] is going to keep explaining the weather - related information.",
+            "[person_1] will try to unwrap the box to see what it is.",
+            "The [person_1] may throw the shot soon.",
+            "The [person_1] is going to keep riding on the route."
+        ],
+        "reason": [
+            "The [person_1] plays the song by using a piano accordion.",
+            "The fish is moving violently.",
+            "The weather forecast is being shown on the full screen.",
+            "The [person_1] looks around , feels sad and hands down.",
+            "It seems that [person_1] is curious about what it is."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if right in the biggest gift box were a gift?",
+        "answer": [
+            "Then [person_1] would smile like that.",
+            "Both of them would fall.",
+            "Then [person_1] wouldn't smile like that.",
+            "Maybe [person_1] is very skilled in brushing teeth.",
+            "Then [person_1] wouldn't smile."
+        ],
+        "reason": [
+            "Then [person_1] wouldn't smile like that because [person_1] weren't teased.",
+            "[person_1] is performing on the stage and [person_1] will fail when the plates fall down.",
+            "Then [person_1] would smile like that because [person_1] weren't teased.",
+            "[person_1] would stop performing because the audience could not see [person_1] in the dark.",
+            "Then [person_1] wouldn't smile like that because [person_1] were teased."
+        ]
+    }
+}

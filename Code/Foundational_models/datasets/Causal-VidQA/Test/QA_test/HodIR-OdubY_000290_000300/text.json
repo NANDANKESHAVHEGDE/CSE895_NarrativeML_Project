@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in a roller skating floor.",
+            "[person_2] is sitting on [chair_1].",
+            "[chair_1] is on the left hand side of [person_2].",
+            "The dog is behind [chair_1].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_5] sitting on [chair_2]?",
+        "answer": [
+            "[person_5] is [person_1]'s friend.",
+            "[person_1] and [person_5] are opening a present together.",
+            "[person_5] is playing game.",
+            "Because [person_1] , [chair_2] and [chair_2] are in sharpening competition.",
+            "[person_5] is watching [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat all the cakes on the [person_1].",
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] is going to jump rope.",
+            "[person_1] won't sit in [person_1] and still stands.",
+            "[person_1] might watch the video he just recorded."
+        ],
+        "reason": [
+            "[person_1] is performing in a competition.",
+            "[person_1] can push the meat into the machine with a stick.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] is whistling for example.",
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electricity is cut off?",
+        "answer": [
+            "The sports venue will be dark.",
+            "The birds will come close to [person_2].",
+            "[person_5] will turn off the tap.",
+            "[person_5] will stop skateboarding.",
+            "The balloon will fall to the ground."
+        ],
+        "reason": [
+            "Or the sand will blow into their eyes.",
+            "[chair_2] can't see anything and can't record video.",
+            "Earthquake is dangerous.",
+            "[person_1] can not see anything in the dark.",
+            "The lights are off , too."
+        ]
+    }
+}

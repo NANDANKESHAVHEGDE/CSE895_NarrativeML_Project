@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is shaking a bottle.",
+            "[person_1] is both singing and cleaning his shoes.",
+            "[person_1] is kissing her husband.",
+            "[person_1] is smiling and playing piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is person - 2 wearing the ring for [person_1]?",
+        "answer": [
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "Because she marries him.",
+            "[person_1] prepares for opening the gift box that [person_1] is given",
+            "Maybe [person_1] is introducing the plate.",
+            "[person_1] is playing the gong for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand still.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] is going to see the gift.",
+            "[person_1] is going to leave.",
+            "[person_1] may trim the remaining flowers."
+        ],
+        "reason": [
+            "[person_1] is looking others and showing uncertainty.",
+            "When [person_1] lies back down , [person_1] raises her hands and prepares to tickle.",
+            "There is only one square on the course to put one foot in.",
+            "[person_1] looks like a bad whistler.",
+            "[person_1] is having his turn next."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] leaves.",
+        "answer": [
+            "[person_2] will stop running.",
+            "[person_1] will stop dancing.",
+            "[person_2] will be sad and divorce her.",
+            "[person_1] will keep practicing.",
+            "[person_2] will be very happy."
+        ],
+        "reason": [
+            "Because the [person_1] is the teacher of [person_1].",
+            "[person_1] needs to stand and move to play basketball.",
+            "The person who loses will be punished.",
+            "Because the failed cup is not [person_1]'s ideal.",
+            "[person_2] wants a kiss that may be the last kiss."
+        ]
+    }
+}

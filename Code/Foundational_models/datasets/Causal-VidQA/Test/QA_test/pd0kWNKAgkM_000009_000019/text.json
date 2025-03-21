@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a guitar.",
+            "[person_1] is sitting on a chair.",
+            "[person_1] is holding a microphone.",
+            "[person_1] is holding a lizard.",
+            "[person_1] is holding a shoe polish."
+        ]
+    },
+    "explanatory": {
+        "question": "how is [person_1] playing the guitar?",
+        "answer": [
+            "[person_1] is playing the guitar by tapping on the notes with 1 finger.",
+            "[person_1] is sitting on the chair.",
+            "[person_1] wants to shave hair on [person_1]'s leg.",
+            "The ball of [person_1] is small to fit hands of [person_1].",
+            "The [person_1] is performing ribbon dance."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to make a snowball to play throwing snowballs with [person_1].",
+            "[person_1] might exhale smoke.",
+            "[person_1] might continue reading the newspaper.",
+            "[person_1] might be stopping.",
+            "[person_1] will continue to sharpen crayons."
+        ],
+        "reason": [
+            "[person_1] let go of the right hand on the guitar.",
+            "[person_1] was unconscious after he fell off the chair.",
+            "because [person_1] still has a few pages left.",
+            "[person_1] stops holding [person_1]'s hands and finishes dancing.",
+            "[person_1] is moving the lizard down with his left hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if the guitar is dropped by [person_1]?",
+        "answer": [
+            "the guitar might land off [person_1] feet.",
+            "The [person_1] may not be stuck by the cement.",
+            "the guitar might land under [person_1] feet.",
+            "The cost of his golf this time will be cheaper.",
+            "the guitar might land on [person_1] feet."
+        ],
+        "reason": [
+            "[person_1] feet is away from the guitar.",
+            "[person_1] could not play drums without drumsticks.",
+            "[person_1] feet is beyond the guitar.",
+            "Because there is water in the bottle [person_1] and [person_1] are flipping.",
+            "[person_1] feet is below the guitar."
+        ]
+    }
+}

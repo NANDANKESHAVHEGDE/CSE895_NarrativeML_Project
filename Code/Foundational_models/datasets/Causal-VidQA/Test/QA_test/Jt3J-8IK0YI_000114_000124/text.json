@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] is using a towel.",
+            "There are two cymbals.",
+            "[person_1] uses a metal claw.",
+            "[person_1] is using pliers.",
+            "[person_1] uses an electric drill and a bolt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] glance to the camera?",
+        "answer": [
+            "Because [person_1] is watering the plants.",
+            "Perhaps [person_1] wants to warm up comfortably.",
+            "Because [person_1] is watering the flower pots.",
+            "[person_1] is putting the wheelchair in the car.",
+            "[person_1] has removed the cork and he drops a hint that it was so easy with this tool."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the bottle is opened?",
+        "answer": [
+            "[person_1] will ride on the horse.",
+            "[person_1] will go home and sleep.",
+            "[person_1] will share the wine with the other two.",
+            "[person_1] will play with the dog.",
+            "The [person_1] will get off when he gets to the destination."
+        ],
+        "reason": [
+            "[person_1] seems don't care and didn't have the intention to wipe it.",
+            "Because [person_1] showed an enjoying look.",
+            "It's tiring for a person to crouch for a long time.",
+            "[person_1] wants to have a rest.",
+            "The other two have helped him . They look like old friends."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't share with others?",
+        "answer": [
+            "[person_1] would lose the game.",
+            "[person_1] might not get any help from them.",
+            "[person_1] might find someone to replace it.",
+            "[person_1] should stay away from [person_1].",
+            "[person_1] would be tired soon."
+        ],
+        "reason": [
+            "He'll be in a lot of pain.",
+            "[person_1] wants to watch TV first.",
+            "[person_1] broke up their friendship because he didn't share.",
+            "There is a bookshelf in the room.",
+            "Because the car which is being fixed is [person_1]'s and [person_1] will check the car later."
+        ]
+    }
+}

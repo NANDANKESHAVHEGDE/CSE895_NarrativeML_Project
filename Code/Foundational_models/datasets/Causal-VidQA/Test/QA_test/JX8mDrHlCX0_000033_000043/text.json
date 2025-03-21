@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in their house.",
+            "In front of a house.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "[person_1] and [person_2] are in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting next to [dining table_1] ?",
+        "answer": [
+            "Because [person_2] can be the coach and is teaching [person_1] and [person_2].",
+            "He is watching [person_2] unwrapping the present.",
+            "[person_2] teaching [person_1] and [person_2] how to playing chess.",
+            "[person_1] and [person_2] are playing mahjong.",
+            "[person_1] is practicing a move in tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand there to perform.",
+            "[person_1] is going to create his combo.",
+            "[person_1] is going to rest for a while.",
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to squeeze more oranges."
+        ],
+        "reason": [
+            "[person_1] knows that once the gas in the [person_1] is empty then it will be save for her . And that process needn't much time.",
+            "[person_1] is going to step out of the line.",
+            "[person_1] knows the rules of the game and looks very confident.",
+            "[person_1] is kite surfing.",
+            "[person_1] is lying on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can't find the mahjong [person_1] needs?",
+        "answer": [
+            "[person_2] will win.",
+            "[person_2] can fall.",
+            "[person_1] will be more confident.",
+            "[person_1] may get hurt.",
+            "[person_1] will have a chance to win."
+        ],
+        "reason": [
+            "Because the [person_2] wants to wash by herself.",
+            "[person_2] is the luckier.",
+            "Because only action can better image and more vividly show what [person_1] said.",
+            "[person_1] will not notice.",
+            "[person_2] is too young so he can't walk by himself."
+        ]
+    }
+}

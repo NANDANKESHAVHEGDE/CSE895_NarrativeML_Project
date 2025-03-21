@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is near next to the railing.",
+            "[chair_1] is next to [chair_1].",
+            "[chair_1] is placed next to the desk.",
+            "It is next to the [chair_1].",
+            "[chair_1] is the the baby boy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a watering can?",
+        "answer": [
+            "Because [person_1] is watering the flower pots.",
+            "Maybe [person_1] is \u00a0 learning the way to play lute.",
+            "Because [person_1] is pushing the wheelbarrow.",
+            "Maybe [person_1] wants to practice kickball.",
+            "Because [person_1] is training."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will certainly watering.",
+            "[person_1] may cut the cake with [person_1].",
+            "[person_1] will stop kicking high.",
+            "[person_1] may take a phone with the dancer.",
+            "[person_1] will show how to throw cards."
+        ],
+        "reason": [
+            "[person_1] is walking very fast.",
+            "Because [person_1] has successfully finished the training.",
+            "Maybe [person_1] loves to read.",
+            "Maybe [person_1] looks thirsty and tired.",
+            "Maybe [person_1] planted a tree on the balcony , so it needs to be taken care of."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't water?",
+        "answer": [
+            "[person_1] would do the wrong technique.",
+            "The plate would drop.",
+            "Maybe the tree would be die.",
+            "The woman would feel bored.",
+            "The camera can't record anything."
+        ],
+        "reason": [
+            "Because [person_1] finished folding the napkin.",
+            "[person_1] moved to keep balance.",
+            "Because it would be more difficult for [person_1] to do it.",
+            "There is a piano behind him.",
+            "The tree would be die if [person_1] didn't water."
+        ]
+    }
+}

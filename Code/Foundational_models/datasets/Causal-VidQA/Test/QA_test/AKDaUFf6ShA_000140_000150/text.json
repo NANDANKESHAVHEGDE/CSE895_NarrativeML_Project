@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is sitting at the piano.",
+            "Three.",
+            "Yes.",
+            "[person_2] is behind [person_1].",
+            "[person_2] is on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] keep the lid of the carton box?",
+        "answer": [
+            "[person_1] is adjusting the amount of water to water the plants.",
+            "Because [person_1] is waiting for the mother.",
+            "[person_1] is playing spinning poi.",
+            "Maybe [person_1] is doing exercise.",
+            "Because the action helps [person_1] take the present inside the box easily."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep carving.",
+            "[person_1] is going to put the plate away.",
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] is going to open the gift.",
+            "Perhaps [person_1] will stop spinning."
+        ],
+        "reason": [
+            "Maybe [person_1] looks thirsty and tired.",
+            "Because [person_1] has successfully finished the training.",
+            "Maybe [person_1] loves to read.",
+            "Because [person_1] is very happy.",
+            "When taking the present out of the box , [person_1] holds the present and prepares to open."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] turns off the light in the room?",
+        "answer": [
+            "The car won't be able to run.",
+            "[person_2] will not be able to breathe.",
+            "[person_1] can't open the present.",
+            "[person_2] would be injure.",
+            "[person_1] will pick it up."
+        ],
+        "reason": [
+            "The [person_1] is observing the [person_2] does.",
+            "Because the balloon of [person_2] will be dirty.",
+            "Because there is no a baby bottle in the hands of [person_2].",
+            "Because [person_1] will not see anything in the darkness.",
+            "Because [person_2] is shaving on the balloon before it explodes."
+        ]
+    }
+}

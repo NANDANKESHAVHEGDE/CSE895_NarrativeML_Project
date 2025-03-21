@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the car.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is standing next to the [car_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] being splashed with water?",
+        "answer": [
+            "Because the chair will influence his performance.",
+            "Someone is teasing [person_1].",
+            "The game demands this.",
+            "The [person_1] stands on the coin - operated street basketball shooting game machine to play easier.",
+            "Because it's all scattered gift wrapping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue skiing.",
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to run away from that place.",
+            "[person_1] is going to swim.",
+            "[person_1] is going to rip paper."
+        ],
+        "reason": [
+            "She is absorbed in dancing.",
+            "[person_1] is jumping very professionally.",
+            "Because [person_1] looks very tired.",
+            "It is very sunny.",
+            "[person_1] doesn't want to keep getting splashed with water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets out of there?",
+        "answer": [
+            "The [car_1] would fall to the floor.",
+            "The friend who is teasing [person_1] will wash [car_1].",
+            "[person_1] will pick up the phone.",
+            "Maybe [person_1] will be surprised.",
+            "[car_1] would be very far from the archery target board."
+        ],
+        "reason": [
+            "That friend will stop teasing [person_1] and do what that friend needs to do.",
+            "The atmosphere will be non - intimidating when all people dance with psychological comfort.",
+            "[person_1] did not want to do high - five.",
+            "Because the cameraman only stepped back to maintain the distance with [person_1].",
+            "[person_1] run forward but the ball was hit by [person_1] at the back."
+        ]
+    }
+}

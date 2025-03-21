@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the cloth of [person_1]?",
+        "answer": [
+            "The floor is blue and brown.",
+            "It's red.",
+            "The carpet is blue.",
+            "It is green.",
+            "It is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] puts the cap back to the beer bottle?",
+        "answer": [
+            "Maybe [person_1] wants to show us how to open it again.",
+            "Because the [person_1] wants to show the internal structure of the refrigerator.",
+            "Because [person_1] is playing guitar and whistling.",
+            "The [person_1] seems to be looking for something in the refrigerator.",
+            "Because [person_1] wants the plants to be watered all the time."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to give feedback about the smart phone.",
+            "[person_1] is going to shot again.",
+            "[person_1] is going to ride a unicycle forward.",
+            "[person_1] is going to keep going.",
+            "[person_1] is going to use the same method to open the beer again."
+        ],
+        "reason": [
+            "Because eating watermelon will dirty her mouth.",
+            "It is too dark.",
+            "Many people , who may be students in the tai chi class , are sitting on the floor , watching [person_1] and waiting for their turns.",
+            "[person_1] puts the cap back to the beer bottle and presses his finger on it.",
+            "[person_1] is returning to the starting point of the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [chair_1] is broken?",
+        "answer": [
+            "Everyone will go home.",
+            "Others would organize them to dance.",
+            "[chair_1] may not applaud.",
+            "Soldiers would no longer be able to use cannons.",
+            "[person_2] will fall down."
+        ],
+        "reason": [
+            "[chair_1] is not firm enough for [person_2] to sit.",
+            "Because there is nothing attracting the attention of [person_2].",
+            "[chair_1] needs to rest and has a drink and [chair_1] and [chair_1] satisfy his needs.",
+            "[person_2] is sitting on [chair_1].",
+            "Before [chair_1] digs soil , he does not present smile."
+        ]
+    }
+}

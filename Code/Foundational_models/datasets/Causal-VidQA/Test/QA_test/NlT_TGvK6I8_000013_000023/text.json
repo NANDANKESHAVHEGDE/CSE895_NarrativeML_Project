@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall ?",
+        "answer": [
+            "The wall is pink color.",
+            "The curtain is blue.",
+            "The shirt [person_1] wearing is red.",
+            "The wall is orange.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing like that ?",
+        "answer": [
+            "[person_1] is watching the swimming competition.",
+            "Because [person_1] wants to erase the old paint.",
+            "[person_1] and [person_1] are practicing a piece of music.",
+            "[person_1] is doing it for fun.",
+            "[person_1] and [person_1] are practicing the clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will think about the next move.",
+            "[person_1] will check his right hand.",
+            "[person_1] will continue to practice.",
+            "[person_1] will deal with other cocos on the table in the same way.",
+            "[person_1] will hold the phone."
+        ],
+        "reason": [
+            "[person_1] has been playing the lute for a while.",
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica.",
+            "[person_1] is pushing the wheelbarrow to the middle of the yard.",
+            "[person_1] is looking at the screen of the phone.",
+            "[person_1] has just finished the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] will be afraid.",
+            "They will not work.",
+            "[person_1] will be stop talking.",
+            "[person_1] will stop running.",
+            "It will be still bright in the room."
+        ],
+        "reason": [
+            "The audience can't see anything in the darkness.",
+            "Because it is daytime.",
+            "The room will be dark then.",
+            "The space will be dark.",
+            "The room will be dark."
+        ]
+    }
+}

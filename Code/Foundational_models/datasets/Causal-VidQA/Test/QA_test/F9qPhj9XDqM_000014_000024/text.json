@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "[chair_1] is behind [person_1].",
+            "It is in front of the window.",
+            "[person_1] is sitting on it."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] turn the tablecloth over?",
+        "answer": [
+            "[person_1] is playing music with the bass guitar.",
+            "[person_1] is playing a bass guitar solo.",
+            "[person_1] would like to show his enjoyment.",
+            "To make it easy to operate.",
+            "[person_1] turns the tablecloth over to be able to tap the pen on the table."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep tapping the pen down and get closer to the camera.",
+            "[person_1] will continue to hammer nails into [person_1].",
+            "[person_1] may play with the toy in bathtub.",
+            "[person_1] will continue to tap her pen on the table with both hands.",
+            "[person_1] is going to continue laughing."
+        ],
+        "reason": [
+            "[person_1] will continue to tap her pen on the table with both hands because [person_1]'s hand still shows signs of movement.",
+            "Because [person_1] is tired of playing the drums.",
+            "[person_1] is looking at the screen of the phone.",
+            "[person_1] holds the ball and juggles balls.",
+            "[person_1] is moving his feet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't lift the tablecloth?",
+        "answer": [
+            "The room would be very dark.",
+            "The sound produced would not be clear.",
+            "Both of them would fall.",
+            "The sound produced would be clear.",
+            "Maybe the puppy will be injured."
+        ],
+        "reason": [
+            "[person_1] is a child sitting on top of [person_1]'s shoulders ; if [person_1] fell , it would hurt.",
+            "The sound produced would be clear because tapping the surface of the towel does not resonate as much as tapping the table.",
+            "Harrison\u2019s pumpkin still has some crumbs . It doesn't seem to be finished yet.",
+            "The sound produced would not be clear because tapping the surface of the towel does not resonate as much as tapping the table.",
+            "Because these creatures buried a little deep."
+        ]
+    }
+}

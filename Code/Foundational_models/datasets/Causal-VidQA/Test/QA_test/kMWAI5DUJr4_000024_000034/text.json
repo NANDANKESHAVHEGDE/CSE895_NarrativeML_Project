@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bed_1]?",
+        "answer": [
+            "[person_1] is orange.",
+            "[bed_1] is red.",
+            "[person_1] is directly in front of [person_1].",
+            "[person_1] is on the side of the road.",
+            "The [bed_1] is near [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stacking the cups on the table?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "He wants to see if there is anything outside.",
+            "Because [person_1] is watering the plants and saying something.",
+            "Because [person_1] wants to water the plants.",
+            "[person_1] is a model for the exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after standing here?",
+        "answer": [
+            "Two older boys will wash their hands at the [person_1].",
+            "The water in the [person_1] will be poured out to clean the road.",
+            "The person may wash the cup on the machine.",
+            "[person_1] is going to play with these cups.",
+            "They will cheer for the soldiers acting out."
+        ],
+        "reason": [
+            "Because [person_1] is responsible for shuffling and dealing cards.",
+            "It seems that [person_1] is paying all attention on the cups on the table.",
+            "Because the [person_1] is still a little baby.",
+            "Because [person_1] seems to admit defeat and they will do a new round.",
+            "Dark clouds are covering the sky."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "Perhaps [person_1] will go out to play.",
+            "Maybe [person_1] will stop stacking the cups.",
+            "Maybe [person_1] will stop playing the game.",
+            "Perhaps [person_1] and [person_1] will go out to play.",
+            "[person_1] and [person_1] will stop reading."
+        ],
+        "reason": [
+            "Because [person_2] gets to eat what she likes.",
+            "There is no light in the room.",
+            "Because [person_1] needs to be more careful than those who are familiar to do the pottery.",
+            "[person_1] and [person_1] won't be able to see anything.",
+            "The room will be quite dark."
+        ]
+    }
+}

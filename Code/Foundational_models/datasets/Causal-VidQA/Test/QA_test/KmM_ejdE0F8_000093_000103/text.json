@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is outside behind [book_1].",
+            "It is in front of the dog.",
+            "[book_1] is on the [book_1].",
+            "[book_1] is behind the [book_1].",
+            "They are on the grass land."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is excited about her book.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is whistling.",
+            "[person_1] is doing arm training by pulling weights."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may not lean on this chair again.",
+            "[person_1] is going to need help from parents.",
+            "It seems that [person_1] may choose to pick up [person_1].",
+            "[person_1] may continue to sharpen the knife after checking it.",
+            "[person_1] may go to get a stick."
+        ],
+        "reason": [
+            "[person_1] is really excited.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "The leg of [person_1] may not hurt.",
+            "Maybe [person_1] and [person_1] will fall along.",
+            "[person_1] will get wet.",
+            "[person_1] will be pain.",
+            "People who is following [person_1] will go to help him."
+        ],
+        "reason": [
+            "The fall could injure [person_1].",
+            "An injury may occur.",
+            "Because [person_1] is in the middle of the sea.",
+            "[person_1] will cry.",
+            "[person_1] will help [person_1] stand up."
+        ]
+    }
+}

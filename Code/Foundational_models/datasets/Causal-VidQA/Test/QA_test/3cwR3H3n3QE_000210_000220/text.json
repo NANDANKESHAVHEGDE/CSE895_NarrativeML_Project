@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is running.",
+            "[person_1] is shooting basketball.",
+            "[person_1] is smashing a tire.",
+            "[person_1] is smiling.",
+            "[person_1] is riding the bike with one leg."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] strike the tire?",
+        "answer": [
+            "[person_1] is curious about the thing inside the box.",
+            "[person_1] is doing her job to earn money.",
+            "That part is sharper.",
+            "To make it easy to operate.",
+            "[person_1] holds a sledgehammer with one hand and and strikes at the tire with the hammer."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will switch the hammer to another hand.",
+            "[person_1] will keep driving.",
+            "[person_1] will have a rest.",
+            "[person_1] will continue to practice playing the keyboard.",
+            "It is possible that [person_1] will continue to laugh."
+        ],
+        "reason": [
+            "[person_1]'s guitar skills are very good.",
+            "[person_1] is enjoying the dance?",
+            "Because [person_1] likes this game.",
+            "[person_1] is exercising his arms one by one.",
+            "[person_1] is playing very enthusiastically."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] held the hammer with both two hands?",
+        "answer": [
+            "[person_1] will stop [person_1].",
+            "[person_1] might pay more attention to her homework.",
+            "[person_1] would stop playing guitar because he would be interrupted by the woman bumping into him.",
+            "[person_1] would not have to brandish the hammer to the air.",
+            "[person_1] may have finished filming."
+        ],
+        "reason": [
+            "[person_1] turns the hammer a round in the air because he can not use it with only one hand to strike the tire directly.",
+            "[person_1] is hopping on the jumping course and standing on one foot so his balance is not very well.",
+            "[person_1] is a well - trained dog because it has no leash so it will wait for the cameraman to help [person_1] back on the road.",
+            "[person_1] and [person_1] would be too worried about getting into trouble for the tv to enjoy their ice pops.",
+            "[person_1] would try to keep from getting hit with a pie because he wouldn't like it if he didn't want to be hit with a pie."
+        ]
+    }
+}

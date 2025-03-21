@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the house.",
+            "[person_1] is in the outside.",
+            "[person_1] is sitting on bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a guitar?",
+        "answer": [
+            "[person_1] is reading the book for the rest.",
+            "[person_1] thinks the inhaler is interesting.",
+            "[person_1] is singing and playing the guitar.",
+            "The [person_1] is harvesting apples and the apple branches are high.",
+            "[person_1] blows the clarinet attentively."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Perhaps [person_1] will continue to sing and play the guitar.",
+            "[person_1] will lean forward.",
+            "[person_1] may keep trying to play the gong.",
+            "[person_1] will continue to make vases.",
+            "[person_1] may not ride the toy car which [person_1] sits on anymore."
+        ],
+        "reason": [
+            "The towel isn't finished folding and [person_1] is holding the napkin.",
+            "Because [person_1] has brought out the plates , [person_1] doesn't need gloves anymore.",
+            "[person_1] wants to perform for her family.",
+            "The [person_1] puts the [person_1] on the sand to take a photo then drinks it.",
+            "Because [person_1] still walks forward and the introduction regarding the earbuds is not over."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] damages the guitar?",
+        "answer": [
+            "[person_1] will eat other food.",
+            "[person_1] will have to sell a new guitar.",
+            "[person_1] will be very tired.",
+            "[person_1] will have to buy a new guitar.",
+            "The [person_1] will hear sound from accordion."
+        ],
+        "reason": [
+            "Life is priority.",
+            "The old guitar is usable.",
+            "The earthquake is horrible.",
+            "The old guitar is unusable.",
+            "The weights is very heavy."
+        ]
+    }
+}

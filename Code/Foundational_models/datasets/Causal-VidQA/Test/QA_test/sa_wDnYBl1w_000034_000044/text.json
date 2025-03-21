@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is introducing the internal structure of the refrigerator.",
+            "The [person_1] is wearing a bucket and sunglasses.",
+            "[person_1] is lying on the [person_1].",
+            "The [person_1] is presently playing a accordion.",
+            "The [person_1] is looking for something in the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] wearing a bucket and sunglasses?",
+        "answer": [
+            "Because it is a yoga move.",
+            "[person_1] is playing a bass guitar solo.",
+            "The [person_1] wears glasses to see small bass buttons easier.",
+            "The weather is sunny.",
+            "The [person_1] is parked here."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to harvest the blueberries.",
+            "The [person_1] may stop playing with the horse.",
+            "The [person_1] may call for help from others.",
+            "The [person_1] may keep explaining something.",
+            "The [person_1] may talk to someone."
+        ],
+        "reason": [
+            "The [person_1] turns left and goes somewhere.",
+            "The [person_1] is picking a blueberry.",
+            "The [person_1] is trying to put the bicycle on the treadmill.",
+            "The [person_1] has just waved to someone.",
+            "The [person_1] roll skate step - by - step with the [person_1] before skating alone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not wear a bucket?",
+        "answer": [
+            "The [person_1] can eat properly.",
+            "The [person_1] may not break accordion.",
+            "The [person_1] might get sunburned.",
+            "[person_1] will be sad.",
+            "The [person_1] would not know what the present was."
+        ],
+        "reason": [
+            "[person_1] just has one cake that [person_1] is holding.",
+            "[person_1] will stand on the floor to do something.",
+            "The [person_1] is outside where it is full of sunshine.",
+            "The [person_1] may pull accordion rightly.",
+            "Coco is hard and knife is the best choice."
+        ]
+    }
+}

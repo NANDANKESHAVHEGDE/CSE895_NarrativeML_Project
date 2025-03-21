@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_1]?",
+        "answer": [
+            "The [book_1] is on a wall plastering machine.",
+            "The keyboard is white.",
+            "Black.",
+            "[book_1] is white.",
+            "Orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] shovel plaster to the wall plastering machine?",
+        "answer": [
+            "It is snowing there . The hat can protect his head.",
+            "[person_1] is practicing playing field hockey.",
+            "[person_1] shovels plaster to the wall plastering machine so that the machine will plaster the wall automatically.",
+            "[person_1] is focusing on the work.",
+            "[person_1] has been selling coco for long time so he is proficient."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue to shovel plaster to the machine until it is enough.",
+            "[person_1] may clean the table.",
+            "[person_1] will stop kicking high.",
+            "[person_1] will stop watering.",
+            "[person_1] will curve more details."
+        ],
+        "reason": [
+            "[person_1] only used 1 dice.",
+            "The result is not perfect.",
+            "Frisbee is flying to him",
+            "[person_1] is standing and waiting.",
+            "The machine needs enough plaster to run."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the machine is broken while [person_1] is using it?",
+        "answer": [
+            "[person_1] may have to plaster the wall by herself.",
+            "[person_1] will be known by many people.",
+            "[person_1] may have to plaster the wall by himself.",
+            "They will work harder.",
+            "[person_1] may have to peal the wall by himself."
+        ],
+        "reason": [
+            "Because the machine can't run , [person_1] may have to plaster the wall without using it.",
+            "[person_1] will earn lots of money.",
+            "Because the machine can run , [person_1] may have to plaster the wall without using it.",
+            "Because if [person_1] were not excited , [person_1] had no reason to take off the shirt.",
+            "Because the machine can't run , [person_1] may have to peal the wall without using it."
+        ]
+    }
+}

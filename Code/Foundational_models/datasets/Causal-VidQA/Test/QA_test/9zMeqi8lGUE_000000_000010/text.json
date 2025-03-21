@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is in the corner.",
+            "It is behind [person_1].",
+            "[chair_1] is behind [person_1] and [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "That is the concert of [person_1].",
+            "[person_1] is playing the lute.",
+            "[person_1] is playing with paper.",
+            "[person_1] is riding a unicycle.",
+            "Because [person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will display his good work of the opening.",
+            "[person_1] will probably drink.",
+            "[person_1] may have a rest.",
+            "[person_1] will certainly continue to play the lute.",
+            "[person_1] will probably go on folding the napkin."
+        ],
+        "reason": [
+            "[person_1] was playing the harmonica in a professional way.",
+            "[person_1] is holding a wine glass.",
+            "[people_1] has been playing the lute for a while.",
+            "[person_1] didn't catch any fish because the current was too strong.",
+            "[person_1] has prepared a hole on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the strings of the lute are broken?",
+        "answer": [
+            "[people_1] may call for help from the others.",
+            "[people_1] can't play the lute anymore.",
+            "They will tear the pizza up by hand.",
+            "[people_1] can play the lute anymore.",
+            "[people_1]'s eyes will be infected."
+        ],
+        "reason": [
+            "Because [people_1] wants to keep the little boy happy.",
+            "[people_1] needs to buy a new lute.",
+            "[people_1] need to fix [people_1] to ride.",
+            "[people_1] needs to buy a old lute.",
+            "The [people_1] is careful when playing soccer."
+        ]
+    }
+}

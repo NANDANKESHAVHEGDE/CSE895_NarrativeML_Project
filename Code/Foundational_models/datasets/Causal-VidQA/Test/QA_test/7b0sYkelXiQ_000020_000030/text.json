@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bowl_1]?",
+        "answer": [
+            "[bowl_1] is on the table.",
+            "The [bowl_1] is on the table.",
+            "It is on the [dining table_1].",
+            "It is on the left of [bowl_1].",
+            "[bowl_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] lead [person_2]?",
+        "answer": [
+            "[person_1] needs to place the accordion on his lap.",
+            "[person_1] is learning how to stack cups.",
+            "Because [person_1] is going to have a massage.",
+            "Maybe [person_2] get his clothes wet.",
+            "[person_1] and [person_2] are practicing the clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] might stand up.",
+            "She is going to go to bed.",
+            "[person_1] will stop kicking high.",
+            "[person_1] will stop watering.",
+            "[person_1] may stop recording."
+        ],
+        "reason": [
+            "Maybe the watering can run out of water.",
+            "[person_1] is dancing in free style.",
+            "It is very sunny to play.",
+            "[person_1] likes sledding.",
+            "[person_1] is landing on the street."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will not have to water the plants.",
+            "The [person_1] will stay here.",
+            "[person_1] maybe stop working.",
+            "Maybe [person_1] will go to the hotel to rest.",
+            "Maybe [person_1] will stop skateboarding."
+        ],
+        "reason": [
+            "The [person_1] is also holding a flag and the [person_1] is standing outside.",
+            "[person_1] will go into the house.",
+            "[person_1] will save water if it rains.",
+            "The [person_1] is outside the building.",
+            "[person_1] , [person_1] and [person_1] have to find shelter from the rain."
+        ]
+    }
+}

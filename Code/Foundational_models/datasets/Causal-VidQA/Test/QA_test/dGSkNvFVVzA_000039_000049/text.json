@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bench_1]?",
+        "answer": [
+            "[bench_1] is following [bench_1] while [bench_1] throws the ball into his cup.",
+            "The text is white.",
+            "It's cloudy.",
+            "[bench_1] is near some trees.",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding a [bicycle_1]?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] is playing the accordion.",
+            "Because [person_1] is playing maracas.",
+            "[person_1] is excited about this action.",
+            "To help [person_1] exercise better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is turning around to get the comb.",
+            "[person_1] is going to eat spaghetti.",
+            "Perhaps [person_1] is going to fix his [bicycle_1].",
+            "[person_1] will sit there and curve.",
+            "[person_1] is going to continue practicing."
+        ],
+        "reason": [
+            "[person_1] is jumping very professionally.",
+            "Frisbee is flying to him",
+            "There's something wrong with [bicycle_1].",
+            "[person_1] has already picked one piece up.",
+            "Because [person_1] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1]'ll be sad.",
+            "[person_1] will stop fixing.",
+            "[person_1] will stop measuring the long jump.",
+            "[person_1] will go inside.",
+            "[person_1] will go inside."
+        ],
+        "reason": [
+            "[person_1] is in a competition",
+            "[person_1] is standing outside.",
+            "[person_1] will stop playing lute.",
+            "[person_1] may not keep practicing.",
+            "[person_1] avoids raining."
+        ]
+    }
+}

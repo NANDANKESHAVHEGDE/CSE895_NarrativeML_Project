@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is lying on the bed.",
+            "[person_2] is sitting in front of the keyboard.",
+            "[person_2] is on a street.",
+            "No , it isn't.",
+            "[person_2] is sitting close to the camera."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] sit on the street?",
+        "answer": [
+            "[person_2]'s leg has something wrong.",
+            "It's more convenient.",
+            "[person_2] wants to perform his clarinet to other people.",
+            "It's a kind of new physical training.",
+            "To do massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do next?",
+        "answer": [
+            "[person_2] will go on blowing the clarinet.",
+            "[person_2] is going to keep eating the cake.",
+            "[person_2] may have to help [person_2] dig the pit.",
+            "[person_2] may sing.",
+            "[person_2] is going to look after [person_2]."
+        ],
+        "reason": [
+            "because the performance has not ended yet.",
+            "[person_2] is doing a task on [person_2].",
+            "[person_2] is not likely to stop.",
+            "[person_2] has a smile on her face and kisses her hand . It seems that she is very satisfied with the man's manicure technology.",
+            "[person_2] moves along the route , stops singing and stops at the end of the route to look around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were tired?",
+        "answer": [
+            "[person_2] would stop blowing the clarinet.",
+            "He will keep chase the kid.",
+            "[person_2] may stop climbing.",
+            "[person_2] will check out reason.",
+            "[person_2] will chase after [person_2]."
+        ],
+        "reason": [
+            "Their heads are not protected.",
+            "It's too high for [person_2].",
+            "Drinking too much leads to getting drunk.",
+            "Because dancing can make person happy.",
+            "[person_2] need to take a rest."
+        ]
+    }
+}

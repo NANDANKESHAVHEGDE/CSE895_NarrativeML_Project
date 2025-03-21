@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the white bucket placed?",
+        "answer": [
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "The [chair_2] is drinking water.",
+            "The shirt is beige.",
+            "The white bucket is placed on [chair_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the white bucket placed on [chair_2]?",
+        "answer": [
+            "It is easier to handle the apple skin when the white bucket is placed on [chair_2].",
+            "[chair_2] is practicing walking with crutches after illness.",
+            "[chair_2] takes each cup and arranges them higher and higher.",
+            "[chair_2] took a step towards the cameraman.",
+            "Maybe the weather is cold."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will go on throwing the cards.",
+            "[person_1] is going to raise both hands.",
+            "[person_1] is going to collect the apple peel on the table.",
+            "[person_1] is going to put down the weights.",
+            "[person_1] may go on trying feeding to [person_1]."
+        ],
+        "reason": [
+            "Because he is practicing golf at home.",
+            "There is also a pumpkin on the table.",
+            "All the apple peel was put on the white bucket.",
+            "[person_1] is standing up now.",
+            "[person_1] is training."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if the white bucket is tumbled down?",
+        "answer": [
+            "[chair_2] can not take the cap out of the head.",
+            "He will earn lots of money.",
+            "The apple skin will be tumble on the floor too.",
+            "[chair_2] will have to fold it until it is neat.",
+            "They would continue to play."
+        ],
+        "reason": [
+            "Without battery , [person_1] could not use her phone.",
+            "Because the cart is currently in a different location , not in the room.",
+            "The fly tying needs to be connected by the string.",
+            "The white bucket contains a ton of apple skin.",
+            "Because [person_1] could be hurt."
+        ]
+    }
+}

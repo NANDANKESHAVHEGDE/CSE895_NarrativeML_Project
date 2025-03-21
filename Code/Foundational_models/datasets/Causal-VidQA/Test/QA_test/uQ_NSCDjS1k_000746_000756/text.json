@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is black.",
+            "The shirt [person_1] wearing is blue.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] collect the chessman?",
+        "answer": [
+            "They are the lyrics in the song that [person_1] is singing , as this is a lyrics video.",
+            "[person_1] and [person_1] are playing together.",
+            "Because [person_1] wants to prepare for a new game of chess.",
+            "Because [person_1] wants to water the plants.",
+            "[person_1] is trying to squeeze it."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to keep running.",
+            "[person_1] tends to stand up.",
+            "[person_1] tends to play checkers.",
+            "[person_1] tends to play faster.",
+            "[person_1] tends to show how to stand on two hands."
+        ],
+        "reason": [
+            "[person_1] is really in love with the music.",
+            "[person_1] is still using drumsticks to make sound.",
+            "[person_1] is holding the chessman.",
+            "[person_1] will fall down.",
+            "There are a lot of papers in front of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the weather is rainy?",
+        "answer": [
+            "The [person_3] will bark.",
+            "[person_3] will stop playing checkers.",
+            "[person_3] will stop playing badminton and take a break.",
+            "[person_3] will stop skiing.",
+            "[person_3] will feel shy."
+        ],
+        "reason": [
+            "[person_3] can't play checkers in the rain.",
+            "Because [person_3] is a man , he doesn't wear dress.",
+            "[person_3] wants to go to the beach.",
+            "If it rains , skiing is very dangerous.",
+            "[person_3] will need to aim more accurately."
+        ]
+    }
+}

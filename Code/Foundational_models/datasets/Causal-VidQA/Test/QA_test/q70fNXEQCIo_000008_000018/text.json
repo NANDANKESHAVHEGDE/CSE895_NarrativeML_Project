@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is behind [person_1].",
+            "It is next to the [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in the room?",
+        "answer": [
+            "[person_1] is supporting the guitar.",
+            "[person_1] is slowly moving her hands.",
+            "[person_1] is raising her eyebrows.",
+            "[person_1] is practicing playing piano.",
+            "[person_1] is playing stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play a new level.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to keep training.",
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to run."
+        ],
+        "reason": [
+            "[person_1] has finished checking the computer.",
+            "[person_1] will continue to stack four stacks of cups.",
+            "The egg is not cooked yet.",
+            "[person_1]'s feet are numb.",
+            "[person_1] is enjoying playing flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stack of four stacks of cups?",
+        "answer": [
+            "[person_1] would not be as happy as he is now.",
+            "[person_1] feels more comfortable.",
+            "[person_1] will lower his score.",
+            "The testimony of [person_1] won't be readily admitted.",
+            "[person_1] will be excited."
+        ],
+        "reason": [
+            "Because the recipient can't sign it , the courier can't deliver it.",
+            "Shaving is a way to make [person_1] look more handsome.",
+            "Because the gas in [person_1] can push the balloon out and up.",
+            "[person_1] will complete with a longer time.",
+            "when [person_1] shows the food , the birds gather around her."
+        ]
+    }
+}

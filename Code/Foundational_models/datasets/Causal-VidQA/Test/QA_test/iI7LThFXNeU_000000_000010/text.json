@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It's very cold outside.",
+            "It is sunny.",
+            "It is very sunny.",
+            "It is quite beautiful.",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] outside when it's cold?",
+        "answer": [
+            "Maybe the weather is cold,",
+            "The people want to win the prize.",
+            "They are playing a game of dominoes.",
+            "Because it is very sunny outside.",
+            "[person_2] is playing luge sport."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to cut something.",
+            "[person_2] is going to continue move chess piece.",
+            "[person_2] is going to drink.",
+            "[person_2] is going stop playing.",
+            "[person_2] is going to keep working."
+        ],
+        "reason": [
+            "[person_2] has finished his turn.",
+            "[person_2] needs to take care of his baby.",
+            "[person_2] bends over and grabs the timber with [person_2].",
+            "[person_2] is paying attention to the movement of [person_2].",
+            "Exercise makes [person_2] stronger."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not wear helmet?",
+        "answer": [
+            "The copy would not be made.",
+            "The others would cheer for [person_1].",
+            "[person_1] might get hurt.",
+            "[person_1] and [person_1] would not perform in a stage.",
+            "[person_1] might perform much better."
+        ],
+        "reason": [
+            "[person_1] hardly chooses to have a rest and he often do exercises .",
+            "The wind might put out [person_1]'s fire.",
+            "[person_1] needs [person_1] to co - practice.",
+            "[person_1] is not protected.",
+            "because there was no one preventing [person_1] from attacking [person_1]."
+        ]
+    }
+}

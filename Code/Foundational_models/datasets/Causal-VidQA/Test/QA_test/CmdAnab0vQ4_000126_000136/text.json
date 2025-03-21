@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_8]?",
+        "answer": [
+            "[book_8] is in front of [person_1].",
+            "[person_1] is sitting near a lake.",
+            "[person_1] is wearing a white hat.",
+            "It is being sat by [person_1].",
+            "[book_8] is in front of [book_8]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing with the cups on the table.",
+            "Because [person_1] is spraying paint on the picture.",
+            "Because [person_1] is doing her music homework.",
+            "[person_1] is reading the newspaper.",
+            "[person_1] is reading [book_8]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read another page.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to slowly opening his arms.",
+            "[person_1] is going to whistle.",
+            "[person_1] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "[person_1] is pulling the corner of the page.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] uses her hands to squeeze and pulls the sausage slowly and gently.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the power went out?",
+        "answer": [
+            "[person_1] would not keep reading [book_8].",
+            "[person_1] will not drink it out.",
+            "[person_1] will be sad.",
+            "[person_1] will feel surprised.",
+            "The [book_8] may be sad and upset."
+        ],
+        "reason": [
+            "The [person_1] is still little and short.",
+            "Because no one would be able to see through the darkness to continue playing.",
+            "Because [person_1] is very happy.",
+            "[person_1] can not read [book_8] without light.",
+            "[person_1] wants to comfort the horse."
+        ]
+    }
+}

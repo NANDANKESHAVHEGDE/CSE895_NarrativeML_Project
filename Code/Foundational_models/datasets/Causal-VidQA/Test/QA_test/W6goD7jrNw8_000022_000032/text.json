@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on bed.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the gym room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym room?",
+        "answer": [
+            "Because [person_1] is watering the plants and saying something.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is teaching [person_2] how to squeeze the hand muscles.",
+            "[person_1] is watching the present.",
+            "[person_1] and [person_1] are practicing saluting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may go on skiing.",
+            "[person_2] will follow the instructions of [person_1].",
+            "Maybe [person_2] is going to pull [person_1].",
+            "[person_2] will keep shaping.",
+            "[person_1] is going to wait the players make their decision."
+        ],
+        "reason": [
+            "[person_2] is practicing as directed.",
+            "[person_2] is seeing the players.",
+            "There is a book in front of [person_2].",
+            "She stops her exercise to look at others.",
+            "He bends over and puts woods to the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] and [person_1] will sweat.",
+            "[person_1] and [person_2] will not be happy.",
+            "[person_1] maybe stop eating.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] maybe stop ripping."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The room will be dark.",
+            "The fan will be off , too.",
+            "The piano will not work.",
+            "The machine can not be used without power."
+        ]
+    }
+}

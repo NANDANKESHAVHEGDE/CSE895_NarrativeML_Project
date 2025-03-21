@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] ?",
+        "answer": [
+            "[book_1] is under the table.",
+            "[book_1] is on the floor.",
+            "[book_1] is on the table.",
+            "[book_1] is in the left of [book_1].",
+            "[book_1] is holding it."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor ?",
+        "answer": [
+            "[person_1] is doing the challenge.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is \u00a0 trying to somersault.",
+            "[person_1] stomped grapes.",
+            "[person_1] is stacking dices."
+        ]
+    },
+    "predictive": {
+        "question": "What is the cat going to do?",
+        "answer": [
+            "[book_1] will take a break.",
+            "[person_1] may be ten years old.",
+            "[person_1] will go on dancing.",
+            "[person_1] is going to drink.",
+            "The cat is going to run to the newspaper."
+        ],
+        "reason": [
+            "Because it's over of hair doing.",
+            "Because that's the waiter's duty.",
+            "[book_1] who is a man with a cap rolls the machine and pulls the sausage out.",
+            "They greet with each other and might have a word.",
+            "The cat seems to like the newspaper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cat is sick ?",
+        "answer": [
+            "[person_1] will be interested.",
+            "Maybe [person_1] and [person_1] would suffer from a serious injury.",
+            "[person_1] will be happy.",
+            "[person_1] may not work.",
+            "[person_1] will be upset."
+        ],
+        "reason": [
+            "The cat is owner of [person_1].",
+            "Because [person_1] may not be able to move the boxes alone.",
+            "The cat is irrelative to [person_1].",
+            "[person_1] is hard.",
+            "The cat is pet of [person_1]."
+        ]
+    }
+}

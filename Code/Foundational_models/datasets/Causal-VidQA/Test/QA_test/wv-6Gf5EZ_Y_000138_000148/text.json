@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] doing?",
+        "answer": [
+            "The room is quite small.",
+            "The room is large.",
+            "It is nicely decorated.",
+            "[person_1] and [person_2] are surveying the area of a garden.",
+            "It is dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] have to use the technical machine?",
+        "answer": [
+            "Because the road is too big to measure with a tape measure.",
+            "[person_2] is familiar with this place.",
+            "[person_2] puts it in a plastic bag and uses a hammer to strike it.",
+            "[person_2] wants to challenge himself.",
+            "Because the garden is too big to measure with a tape measure."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to attack each other.",
+            "[person_1] and [person_2] are going to continue dancing and snapping their fingers.",
+            "[person_1] and [person_2] are going to measure the length and width of the garden.",
+            "They are going to clean up the broken glass pieces.",
+            "[person_1] and [person_2] are going to continue snapping their fingers."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] feel joyful when doing that.",
+            "Because [person_1] and [person_2] are learning martial arts.",
+            "[person_1] and [person_2] have to measure the exact length and width to calculate the area of the garden.",
+            "Because [person_1] and [person_2] seem to like singing very much.",
+            "[person_1] is looking at [person_2]'s hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the technical machine broke?",
+        "answer": [
+            "The snow blower won't work.",
+            "[person_2] won't be able to hold.",
+            "[person_2] can not swim.",
+            "[person_1] will fall in a very painful way.",
+            "[person_1] and [person_2] would have to stop their measure work."
+        ],
+        "reason": [
+            "[person_1] will check the problem of snowmobile.",
+            "If [person_2] doesn't go to the hospital , [person_2] won't be well.",
+            "Because [person_1] is using force to jump on the rope.",
+            "The machine shows exactly what metrics they need to measure , so [person_1] and [person_2] would have to stop their measure work if the technical machine broke.",
+            "The bowl is put on the cloth to be dry."
+        ]
+    }
+}

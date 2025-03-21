@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding [chair_5] for [person_1]?",
+        "answer": [
+            "Because [person_1] is producing a table.",
+            "[person_2] is wearing [chair_5] for [person_1].",
+            "[person_1] is opening present.",
+            "[person_2] prepares to discover the gifts.",
+            "[person_2] teaching [person_1] and [person_1] how to playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "Maybe [person_1] intend to teach [person_2].",
+            "[person_1] intends to take his billiard shot.",
+            "[person_2] intends to wear [chair_5] to fit with the foot of [person_1].",
+            "[person_2] intends to follow showing the fist as [person_1].",
+            "[person_2] intends to lift [person_1] up."
+        ],
+        "reason": [
+            "[person_2] is still seeing the [chair_5] after wearing it.",
+            "[person_2] successfully lifts the dumbbell.",
+            "[person_2] stomped grapes among the crowd.",
+            "[person_2] looks very interested and wants to try folding clothes . [person_2] doesn't fold clothes.",
+            "Maybe [chair_5] has finished using it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_2] weren't there?",
+        "answer": [
+            "[person_1] would not be able to eat the candy.",
+            "[person_1] will be happy.",
+            "[person_1] would get annoyed.",
+            "[person_1] would get high score in the competition.",
+            "[person_1] would not sit on [chair_2] anymore."
+        ],
+        "reason": [
+            "His face would be hit by the ball.",
+            "The plank needs to be fixed.",
+            "[person_1] is standing and playing the harmonica.",
+            "the black woman in the green is a sign for [person_1] , [chair_2] and [person_1] to switch style.",
+            "There would be only [chair_2] next to [person_1] most."
+        ]
+    }
+}

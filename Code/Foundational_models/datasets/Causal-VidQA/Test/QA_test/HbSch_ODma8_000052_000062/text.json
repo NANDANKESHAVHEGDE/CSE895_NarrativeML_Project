@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "The [person_1] is big.",
+            "[person_1] is wearing a black shirt.",
+            "[person_1] is next to the windows.",
+            "[person_1] is standing on a mattress.",
+            "The [person_1] is long and big."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] skate?",
+        "answer": [
+            "[person_1] and [person_1] are a team.",
+            "Because she is good for healthy.",
+            "With the help of a chair in front of [person_1].",
+            "By waving the arms.",
+            "[person_1] skate very well."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_1] next?",
+        "answer": [
+            "[person_1] will not eat by herself anymore.",
+            "[person_1] will continue skating.",
+            "[person_1] and [person_1] will call the waiter to order more food.",
+            "[person_1] and [person_1] will go back to dance in front of the camera when [person_1] leaves.",
+            "[person_1] will play a game with others."
+        ],
+        "reason": [
+            "[person_1] is performing her skating",
+            "Because if the person opposite [person_1] catches the ball , he can score.",
+            "[person_1] and [person_1] are tasting different flavors of lollipops and recording it.",
+            "[person_1] is talking to [person_1] and [person_1] , so when he leaves , they can go back to dancing.",
+            "[person_1] is taking care of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] was not focused?",
+        "answer": [
+            "[person_1] will laugh.",
+            "[person_1] and [person_1] will help her.",
+            "[person_1] would teach [person_1] with tai chi.",
+            "[person_1] might fall.",
+            "[person_1] can't give good advice to [person_1]."
+        ],
+        "reason": [
+            "[person_1] would not see anything.",
+            "The wind outside might put out [person_1]'s fire.",
+            "[person_1] is not paying attention to her moves.",
+            "Massage demands relaxing from the heart.",
+            "[person_1] does not want to be recorded."
+        ]
+    }
+}

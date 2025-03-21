@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is untidy.",
+            "It is in a rugby field.",
+            "It is very clean and neat.",
+            "The room is quite big.",
+            "The room is large."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the harmonica?",
+        "answer": [
+            "Maybe [person_1] wants to be a musician in the future.",
+            "Maybe [person_1] is instructing [person_1] and [person_1] how to shear sheep.",
+            "[person_1] is teaching [person_1] how to stretch [person_1]'s arm in the exercise.",
+            "[person_1] is trying playing maracas.",
+            "Because the [person_1] feels frightened."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to turn off the camera.",
+            "[person_1] intends to playing guitar.",
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to keep playing the organ."
+        ],
+        "reason": [
+            "[person_1] is holding a lipstick in her hand.",
+            "[person_1] was still putting the harmonica on the mouth.",
+            "[person_1] continuously goes forward and the hand moves continuously.",
+            "The the hand of [person_1] is facing the chess piece.",
+            "[person_1] is putting her fingers on the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't pay attention at the things on the floor?",
+        "answer": [
+            "[person_1] will ask [person_1] for help.",
+            "[person_1] will fall.",
+            "[person_1] will fold other clothes on the bed.",
+            "[person_1] will stand.",
+            "[person_1] will remake the drink."
+        ],
+        "reason": [
+            "The room is wet.",
+            "[person_1] didn't know how to wear sari.",
+            "The room is big.",
+            "Everyone is doing the honor ceremony.",
+            "The room is untidy."
+        ]
+    }
+}

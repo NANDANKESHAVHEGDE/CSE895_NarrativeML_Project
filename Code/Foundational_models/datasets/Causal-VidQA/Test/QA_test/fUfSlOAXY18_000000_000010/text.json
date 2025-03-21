@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is this place?",
+        "answer": [
+            "It is in a training room.",
+            "It is in a rugby training field.",
+            "It is narrow.",
+            "It is quite small.",
+            "The room is quite big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are these people here?",
+        "answer": [
+            "They are practicing rugby.",
+            "To show polite.",
+            "The dog finds running interesting.",
+            "People are accustomed to different speed.",
+            "They are here to practice tackling."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_4] going to do next?",
+        "answer": [
+            "They are going to keep on practicing tackling.",
+            "[person_1] will certainly be able to lift if he plays normally.",
+            "[person_1] will dance with [person_1] together.",
+            "[person_1] will go on eating the cake.",
+            "[person_1] will not eat the ice cream up."
+        ],
+        "reason": [
+            "[person_1] seems to quite enjoy it a lot.",
+            "[person_1] , [person_4] , [person_4] , [person_1] and [person_1] smile happily to show their readiness for the match.",
+            "[person_1] , [person_4] and [person_4] are not likely to stop.",
+            "Apparently , [person_1] is teaching something , so after [person_1]'s teaching , [person_4] needs to make some adjustments.",
+            "Because they are currently in the middle of their training."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "Their training might be halted.",
+            "The fire would be off.",
+            "Their training might not be halted.",
+            "They would come back the tent.",
+            "Their training might be necessary."
+        ],
+        "reason": [
+            "Because the rain might not make their training less effective.",
+            "The street would be wet.",
+            "Because the rain might make their training less effective.",
+            "The team can not perform under the rain.",
+            "Because the rain might make their training more effective."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a wood planer ?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[person_1] is the singer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to break.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to plan the wooden plank."
+        ],
+        "reason": [
+            "[person_1] has picked the frisbee up.",
+            "[person_1] was smiling.",
+            "[person_1] likes sledding.",
+            "There are many books on the shelf.",
+            "The wooden plank is not thin enough."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the wooden plank on his feet?",
+        "answer": [
+            "[person_1] would not be able to play gong.",
+            "[person_1] will be hurt.",
+            "No bowling pin will be hit down.",
+            "[person_1] will change another one.",
+            "They would not dance here."
+        ],
+        "reason": [
+            "The paper in the hand of [person_1] falls in the hot pan and gets fire , [person_1] is nearest the pan.",
+            "The bowling pins are not very light so a extremely small and light bowling ball is hard to hit them down.",
+            "That wooden plank is very heavy.",
+            "They are good actors , they are just acting.",
+            "The workers need to repair the light."
+        ]
+    }
+}

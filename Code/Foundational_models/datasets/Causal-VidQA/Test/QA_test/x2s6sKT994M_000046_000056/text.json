@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many adults are there in the video?",
+        "answer": [
+            "The color of the chair is black.",
+            "Two.",
+            "It's orange.",
+            "Only one.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] change their direction?",
+        "answer": [
+            "To avoid being exposed to the sun.",
+            "[person_1] and [person_2] have reached the end of the lawn.",
+            "[person_2] is having a practice match.",
+            "[person_2] has just been off school.",
+            "[person_1] and [person_2] express feelings after [person_2] threw the ball into a cup of the opposing team."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do after mowing the lawn?",
+        "answer": [
+            "[person_2] will ask [person_1] for help.",
+            "[person_1] will win the eating watermelon game.",
+            "[person_1] and [person_2] will go for a rest.",
+            "[person_1]'s parent will come to stop the kid.",
+            "[person_1] will mop patiently."
+        ],
+        "reason": [
+            "[person_2] and the kid in on the left are both fighting against [person_1] .",
+            "Because [person_1] has already finished the training target.",
+            "Keep [person_1]'s eyes on the fingers , the closer the fingers are to the middle of the eyes , the easier it is to cross eyes.",
+            "Because [person_2] handed [person_1] a rope , and then [person_2] was ready to catch the rope.",
+            "[person_1] and [person_2] feel hot , so they decide to have a rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "If it suddenly rains , what will happen?",
+        "answer": [
+            "[person_1] will stop to play with the baby.",
+            "[person_1] and [person_2] will go back home.",
+            "[person_1] will run out of the room.",
+            "[person_1] will stop exercising and sit down on [person_1] immediately.",
+            "[person_1] will run away."
+        ],
+        "reason": [
+            "The goats need to be full to grow faster.",
+            "[person_1] and [person_2] wants to avoid being caught in the rain.",
+            "Because the driver will lose balance.",
+            "There is no [person_1] so that they cannot eat anything here.",
+            "Unsynchronized performance would be deemed as a failure."
+        ]
+    }
+}

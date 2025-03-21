@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [vase_1]?",
+        "answer": [
+            "[vase_1] is near [vase_1].",
+            "It is in front of the yellow curtain.",
+            "It is on the table.",
+            "It is behind the [vase_1].",
+            "The hat is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] smiling so happily?",
+        "answer": [
+            "Because [person_2] is sleeping.",
+            "Because [person_1] laughs so loud.",
+            "Maybe [person_2] wants to help [person_1] open the gift.",
+            "Because [person_1] and [person_2] enjoy playing.",
+            "[person_1] is watching [person_2] lift weights."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue sitting on the chair.",
+            "It is probable that [person_1] will continue to play clapping with [person_1].",
+            "[person_1] will keep shaving [person_1]'s left leg.",
+            "[person_1] will keep on shaking the bottle.",
+            "[person_1] will go on teaching someone how to play cymbals."
+        ],
+        "reason": [
+            "Because [person_1] is now explaining how to use it.",
+            "Because after [person_2] dealing the cards , [person_1] picked the cards up and prepared to see the cards.",
+            "[person_1] and [person_2] both like to play.",
+            "Because [person_1] has already massaged the left foot of the customer.",
+            "[person_1] looks so beautiful."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops clapping?",
+        "answer": [
+            "Because [person_1] will try on a coat.",
+            "[person_1] would be sad and cry.",
+            "[person_1] maybe lose.",
+            "[person_2] will also not play.",
+            "Bond in [person_1] could be broken."
+        ],
+        "reason": [
+            "Gloves can make [person_1] warm.",
+            "Clothes can make [person_1] feel warm.",
+            "They will fall down.",
+            "The clapping game must require two players.",
+            "[person_1] is teaching."
+        ]
+    }
+}

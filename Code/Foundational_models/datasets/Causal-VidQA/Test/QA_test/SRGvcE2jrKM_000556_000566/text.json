@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_3] wearing?",
+        "answer": [
+            "[person_1] and [person_1] are sitting in the bathroom.",
+            "[person_1] and [person_3] are in the house.",
+            "[person_1] and [person_3] are in the barber shop.",
+            "[person_1] and [person_3] are wearing shirts and jeans.",
+            "[person_1] and [person_3] are sitting on a bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_2] and [person_4] stand up?",
+        "answer": [
+            "The [person_2] wants to open the red box.",
+            "Because the driller can make the potato turn around.",
+            "Perhaps [person_2] likes it.",
+            "[person_2] is showing [person_2] how to play the clarinet.",
+            "[person_2] and [person_4] have just finish their play."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] , [person_2] , [person_3] and [person_4] going to do?",
+        "answer": [
+            "[person_1] , [person_2] , [person_3] , [person_4] are going to play a match.",
+            "[person_1] , [person_2] , [person_3] and [person_4] are going to bow.",
+            "[person_1] , [person_2] , [person_3] and [person_4] are going to sing.",
+            "[person_1] , [person_2] , [person_3] , [person_4] are going to reenact a historical war.",
+            "[person_1] , [person_2] , [person_3] , [person_4] are going to march."
+        ],
+        "reason": [
+            "Bowing audience is a regular action after finish playing.",
+            "[person_2] needs encouragement as a baby.",
+            "[person_1] is not happy for the lost.",
+            "[person_1] , [person_2] , [person_3] , [person_2] and [person_1] smile happily to show their readiness for the match.",
+            "[person_1] , [person_2] and [person_3] are on a stage and [person_2] is taking a photo of the three performers."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] , [person_2] , [person_3] and [person_4] wore casual clothes?",
+        "answer": [
+            "[person_1] and [person_2] would be injured.",
+            "[person_1] wouldn't stack the dice all - in - one.",
+            "[person_1] , [person_2] , [person_3] and [person_4] would not be able to play.",
+            "The [person_1] and the [person_2] would move to the bank.",
+            "There would be traffic accidents at the intersection."
+        ],
+        "reason": [
+            "The resulting sound wouldn't be special because rubbing gives off a different sound than just knocking.",
+            "Because there would be nothing controlling the traffic.",
+            "To help the two men move the box.",
+            "The beam is high and if [person_1] doesn't jump high enough , he may hit the beam and suffer from serious bruises and bone fracture.",
+            "Shirts and Jeans are formal clothes and they are suitable for music shows."
+        ]
+    }
+}

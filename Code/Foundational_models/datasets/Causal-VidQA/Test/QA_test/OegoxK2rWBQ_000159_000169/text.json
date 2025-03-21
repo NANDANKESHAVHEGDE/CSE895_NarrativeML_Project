@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a watch of [person_1] big?",
+        "answer": [
+            "There are two people in the garden.",
+            "There are two gongs here.",
+            "Dumbbells are on the floor.",
+            "There are two in the garden.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] keeping her gesture?",
+        "answer": [
+            "Because [person_2] is resting.",
+            "Maybe [person_1] is instructing [person_1] and [person_2] how to shear sheep.",
+            "Because [person_1] is watering the plants and saying something.",
+            "[person_2] is teaching [person_1] how to stretch [person_1]'s arm in the exercise.",
+            "The lamp used for lighting."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] do for a living?",
+        "answer": [
+            "Perhaps [person_2] is a fitness trainer.",
+            "[person_2] will help the others.",
+            "Maybe [person_2] is a gourmet blogger.",
+            "The [person_2] will continue to take what she has in hand.",
+            "[person_2] will leave with other drivers later."
+        ],
+        "reason": [
+            "Maybe he just started learning to push a wheelchair.",
+            "Because the [person_2] thinks he can handle it.",
+            "[person_2] raises her foot and kicks at the object [person_1] is holding.",
+            "[person_2] is a mentor for [person_1].",
+            "The coconut water will drop into the bottle from the coco."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does this movement in the right way?",
+        "answer": [
+            "[person_1] will find someone to help him.",
+            "[person_1]'s legs or feet might be badly injured.",
+            "[person_2] will be happy.",
+            "[person_1] will be pretty happy.",
+            "[person_1] will retract the hands."
+        ],
+        "reason": [
+            "[person_2] can help [person_1] achieve success.",
+            "[person_1] needs to do that to keep working.",
+            "[person_1] will hurt and not touch [person_1] anymore.",
+            "Oil is very slippery.",
+            "Because [person_1] has helped his customer."
+        ]
+    }
+}

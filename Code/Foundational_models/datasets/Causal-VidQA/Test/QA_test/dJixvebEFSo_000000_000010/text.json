@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does the [person_1] wear on her head?",
+        "answer": [
+            "The light is red.",
+            "A scooter.",
+            "A helmet.",
+            "It is blue.",
+            "The door is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] wear a helmet?",
+        "answer": [
+            "[person_1] is overexcited at this movement.",
+            "By using the scooter.",
+            "[person_1] doesn't want to eat the dish.",
+            "To ensure the safety.",
+            "By massaging at [person_1]'s neck."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do with the scooter?",
+        "answer": [
+            "[person_1] will begin to work out as usual.",
+            "[person_1] will drink the coffee she made to try it.",
+            "The [person_1] will practice riding.",
+            "[person_1] will play it just for a moment.",
+            "Probably they may keeping stomping grapes."
+        ],
+        "reason": [
+            "[person_1] and [person_1] have to go home for rest.",
+            "Because the [person_1] is not familiar with riding it.",
+            "This work must be a physically consuming work.",
+            "Maybe [person_1] is the employer.",
+            "Because the [person_1] needs to go home."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the [person_1] falls down from the scooter?",
+        "answer": [
+            "The [person_1] will go to the hospital.",
+            "Maybe [person_1] will blow again.",
+            "[person_1] will pick up the comb and wash it.",
+            "[person_1] will not eat anymore.",
+            "Maybe [person_1] will look more beautiful."
+        ],
+        "reason": [
+            "Maybe [person_1] will be very sad.",
+            "[person_1] won't have food.",
+            "There aren't any unfolded clothes on the [person_1].",
+            "Because the [person_1] needs to have a physical examination.",
+            "[person_1] must always be on the track that between the marker."
+        ]
+    }
+}

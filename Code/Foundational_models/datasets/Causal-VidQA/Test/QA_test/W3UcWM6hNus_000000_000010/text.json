@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is sitting on the floor.",
+            "[cup_1] is on the table.",
+            "It is on the shelf.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_2] is playing the ukulele with [person_1].",
+            "May be [person_2] is a teacher and [person_2] is teaching [person_1] how to play the cello.",
+            "[person_1] is teaching something in a book for the baby.",
+            "[person_2] is practicing playing the cello.",
+            "[person_1] is putting on make - up for [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will hug [person_1].",
+            "Maybe [person_1] is a makeup teacher and [person_1] will put on foundation for [person_1] to guide learners.",
+            "Maybe [person_1] will enter the house.",
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] is going to use more dice."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] keen on the activity.",
+            "[person_1] holds a powder - buff in her hand and wears a microphone to talk to learners.",
+            "[person_1] has drunk too much water.",
+            "[person_1] has no intention of stopping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't wear a microphone?",
+        "answer": [
+            "The fishes may not swim around [person_1].",
+            "It is possible that learners find it hard to hear clearly.",
+            "[person_1] might make her couple lose.",
+            "[person_1] will reorder.",
+            "[person_1] would not throw the ball away."
+        ],
+        "reason": [
+            "The door of the car which is pushed is narrow.",
+            "The floor is hard.",
+            "[person_1] work requires meticulousness.",
+            "Maybe the room is large and crowded.",
+            "Because the wall is very slippery."
+        ]
+    }
+}

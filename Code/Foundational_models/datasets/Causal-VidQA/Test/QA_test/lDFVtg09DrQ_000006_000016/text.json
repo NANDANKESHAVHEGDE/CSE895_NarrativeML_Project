@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt of [person_1]?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "The floor is blue and brown.",
+            "The wall is orange.",
+            "It is orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] in this room?",
+        "answer": [
+            "They are practicing saluting.",
+            "It's daytime outside.",
+            "Because it's daytime.",
+            "Because [person_1] laughs.",
+            "[person_1] uses a bottle opener."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do?",
+        "answer": [
+            "[person_3] will get to the finish line.",
+            "[person_3] intends to keep playing drums.",
+            "[person_2] will thank for their fan's support.",
+            "[person_3] intends to eat and guess the food.",
+            "[person_1] , [person_2] and [person_3] will keep on their training."
+        ],
+        "reason": [
+            "[person_2] is their fitness instructor.",
+            "[person_1] , [person_2] and [person_3] have yet to finish their training.",
+            "[person_3] is blindfolded while eating.",
+            "[person_3] is preparing to play tug of war.",
+            "[person_1] is preparing for a long jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the lights went out?",
+        "answer": [
+            "Maybe the [person_2] didn't meet [person_1].",
+            "The other people will call the hospital.",
+            "[person_1] might stop doing tai chi.",
+            "[person_1] , [person_2] and [person_3] might have to stop their practice.",
+            "[person_1] will stop playing the flute."
+        ],
+        "reason": [
+            "The [person_1] is an adult and can shovel the snow better than the [person_2].",
+            "[person_1] and [person_2] would like it.",
+            "The [person_1] will be tired if the [person_1] is too heavy.",
+            "[person_1] is a small child.",
+            "[person_1] , [person_2] and [person_3] would not be able to see anything in the dark."
+        ]
+    }
+}

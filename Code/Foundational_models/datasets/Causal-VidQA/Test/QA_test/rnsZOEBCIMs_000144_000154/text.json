@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is next to the [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stack the cups on the table?",
+        "answer": [
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "[person_1] is reading book.",
+            "Because [person_1] rests on the table to have a flat surface for easier stacking.",
+            "When [person_1] sits on a chair , [person_1] can hold the guitar.",
+            "Because [person_1] wants to go out but it cannot open the door."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to give the newspaper for [person_1].",
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] is going on a trip.",
+            "[person_1] will throw the weight.",
+            "[person_1] will certainly pull the rope."
+        ],
+        "reason": [
+            "[person_1] wants to see how far the weight can go.",
+            "[person_1] is playing stacking cups.",
+            "To do some strength training.",
+            "[person_1] is kicking with poor techniques.",
+            "[person_1] is playing very enthusiastically."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] would refuse that.",
+            "The other player might not be able to practice properly.",
+            "[person_1] wouldn't be able to knock his pen on the table.",
+            "[person_1] maybe lose.",
+            "Maybe the cups won't be spill."
+        ],
+        "reason": [
+            "[person_1] will be stack it more firmly.",
+            "there are many other people who also want to high jumping.",
+            "[person_1] will have lunch.",
+            "The flute makes an unexpected sound [person_1].",
+            "[person_1] wants to rest himself."
+        ]
+    }
+}

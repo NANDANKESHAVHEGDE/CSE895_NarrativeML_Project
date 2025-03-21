@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons?",
+        "answer": [
+            "The color of [person_3] is green.",
+            "[person_3] is in the clinic.",
+            "[person_3] is sitting close to the camera.",
+            "Four.",
+            "[person_3] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] running?",
+        "answer": [
+            "[person_3] is ice skating.",
+            "Because playing badminton needs a wide space.",
+            "[person_3] wants to keep fit.",
+            "Because [person_3]'s balance is so good.",
+            "[person_3] is reading newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do if the treadmill breaks down?",
+        "answer": [
+            "She will flap them all.",
+            "He's going to photocopy a magazine.",
+            "[person_3]'ll walk towards the direction he's looking.",
+            "[person_3] will rest.",
+            "[person_3] will follow the group."
+        ],
+        "reason": [
+            "[person_3] can't run without a treadmill.",
+            "[person_3] is doing the choreography.",
+            "[person_3] is tired.",
+            "[person_3] is seeing in the certain direction.",
+            "[person_3] stops moving his hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would he do if there was an earthquake?",
+        "answer": [
+            "They will not give a complete dance show.",
+            "He will escape.",
+            "He would shout for help.",
+            "The table will be wet.",
+            "The customer can only choose one."
+        ],
+        "reason": [
+            "The baby is sitting near [person_3].",
+            "A die cannot be shaken without placing on the table first.",
+            "Because he wanted to live.",
+            "[person_3] loves playing swing.",
+            "He may die."
+        ]
+    }
+}

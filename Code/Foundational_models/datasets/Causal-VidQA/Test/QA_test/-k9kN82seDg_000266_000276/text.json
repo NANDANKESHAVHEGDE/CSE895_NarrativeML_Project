@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is purple.",
+            "It's blue.",
+            "it is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the kitchen?",
+        "answer": [
+            "It is snowing there . The hat can protect his head.",
+            "when [person_1] looking at the mirror , the reflection looks like someone else.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is lifting weights.",
+            "Maybe [person_1] is performing in a show."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to back the seat of [person_1].",
+            "[person_1] may stand up and change the chair.",
+            "[person_1] is going to squeeze slowly.",
+            "[person_1] may give the drink to the customer.",
+            "[person_1] is going to sell the orange juice."
+        ],
+        "reason": [
+            "Maybe [person_1] and [person_1] are having a good time.",
+            "[person_1] is taking more oranges and holding a knife.",
+            "[person_1] is just a little girl and [person_1] is learning how to squeeze oranges.",
+            "[person_1] is holding the balloon close to her mouth.",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a rotten orange?",
+        "answer": [
+            "[person_1] and [person_1] would still snap their fingers.",
+            "[person_1] will throw that orange.",
+            "[person_1] will continue play.",
+            "[person_1] will stop playing.",
+            "The girl with long hair will call [person_1] to come and watch."
+        ],
+        "reason": [
+            "[person_1] will only squeeze the oranges that don't rot.",
+            "[person_1] is broken won't have music to sing.",
+            "[person_1] won't be able to play with the break hoop.",
+            "[person_1] will catch the ball.",
+            "[person_1] likes music and dancing."
+        ]
+    }
+}

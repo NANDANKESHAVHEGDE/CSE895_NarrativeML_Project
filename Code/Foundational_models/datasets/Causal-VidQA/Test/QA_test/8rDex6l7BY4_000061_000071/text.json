@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is white.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] come back?",
+        "answer": [
+            "The [person_1] uses the [person_1] to contain the skin of potatoes.",
+            "Because [person_1] has watered all the water in the jar.",
+            "Because [person_1] wants to make bubbles.",
+            "Because [person_1] wants to keep balance.",
+            "[person_1] is excited about playing in the playground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will get the job done.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] will ask someone to add more water to the watering can.",
+            "[person_1] is going to come back home.",
+            "[person_1] will throw the frisbee."
+        ],
+        "reason": [
+            "[person_1] is looking for water.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is holding a glass of water.",
+            "Maybe [person_1] will continue playing.",
+            "Because [person_1] looks very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was still water in the watering can?",
+        "answer": [
+            "[person_1] will go home.",
+            "[person_1] will not need to get extra water.",
+            "Maybe [person_1] will go outside.",
+            "[person_1] will need to get extra water.",
+            "They maybe will feel happy."
+        ],
+        "reason": [
+            "Because the woman in red is dancing , if she accidentally steps on the water , she will easily slip.",
+            "The water in the pot is not still for watering the plants.",
+            "Because bitten by a dog is dangerous.",
+            "The water in the pot is still for watering the plants.",
+            "[person_1] barks to show unexpected accident and attract people to help him."
+        ]
+    }
+}

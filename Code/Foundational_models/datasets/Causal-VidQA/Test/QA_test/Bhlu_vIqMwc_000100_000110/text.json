@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is smoking.",
+            "[person_1] is playing the flute.",
+            "[person_1] is rolling the apple.",
+            "[person_1] is recording his fingers playing an electric guitar.",
+            "[person_1] is doing exercise."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a flute?",
+        "answer": [
+            "Because [person_1] is going to cut the board.",
+            "[person_1] is teaching how to play the flute.",
+            "To ensure a sterile environment.",
+            "[person_1] is hitting [person_1] with the pillow.",
+            "[person_1] wants to praise [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will read the entire comic book.",
+            "[person_1] is going to practice the high kick.",
+            "[person_1] is going to teach you how to get your hands right when you play the flute.",
+            "[person_1] is going to ride the mechanical bull.",
+            "[person_1] is going to play with toys."
+        ],
+        "reason": [
+            "[person_1] is still crawling forward.",
+            "[person_1] needs to clean the window below him.",
+            "[person_1] wants another kind of leaves.",
+            "There is no water in the cup.",
+            "[person_1] is placing his finger on each button on the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room has a power outage?",
+        "answer": [
+            "The performers may stop their performance.",
+            "[person_1] will stop teaching the flute.",
+            "[person_1] would stop snowboarding.",
+            "[person_1] will be hurt.",
+            "They would not dance here."
+        ],
+        "reason": [
+            "The room becomes dark then .",
+            "The power will not work.",
+            "There are two couches.",
+            "The keyboard can't run without power.",
+            "The driver wouldn't be able to see the road."
+        ]
+    }
+}

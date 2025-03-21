@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_1]?",
+        "answer": [
+            "[chair_1] is on the right side of [chair_1].",
+            "[chair_1] is brown.",
+            "It's used for establish the picture of what's been observed by microscope.",
+            "Dancing.",
+            "The color of [chair_1] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing the lute.",
+            "Because [person_1] is practicing standing on hands.",
+            "That is the concert of [person_1].",
+            "Because [person_1] is reading a book.",
+            "[person_1] is interested in playing a game."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will watch TV.",
+            "The [person_1] will pick up the [person_1].",
+            "[person_1] will lay on the floor.",
+            "[person_1] will keep on shaking the bottle.",
+            "Perhaps [person_1] will continue to perform."
+        ],
+        "reason": [
+            "[person_1] is holding the guitar.",
+            "[person_1] wants to join the game.",
+            "Because the iron rod has been twisted by the device , [person_1] needs to check how effective it is.",
+            "[person_1] is in the stage . [person_1] isn't finishing the performance.",
+            "Because [person_1] is already standing on the side of the road and [person_1] is ready to throw the frisbee."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will stop playing.",
+            "[person_1] will stop practicing.",
+            "[person_1] will stop practicing .",
+            "[person_1] will be ashamed.",
+            "[person_1] will be injured."
+        ],
+        "reason": [
+            "[person_4] , [person_3] and [person_2] are looking at [person_1].",
+            "When falling , [person_1] will naturally cling to [person_1].",
+            "[person_1] will feel hurt.",
+            "[person_1] will be wounded.",
+            "[person_2] will help [person_1] stand up."
+        ]
+    }
+}

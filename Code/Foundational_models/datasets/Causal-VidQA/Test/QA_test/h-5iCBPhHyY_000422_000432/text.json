@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room ?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing the harmonica to relax.",
+            "[person_1] and [person_2] is stacking cups.",
+            "[person_1] is playing guitar.",
+            "[person_2] is sitting with his friend and smoking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may clean the inside.",
+            "[person_1] is going to stack three more cups.",
+            "[person_1] going to build a higher cup tower.",
+            "[person_1] may keep shaking ropes.",
+            "[person_1] may stand up."
+        ],
+        "reason": [
+            "[person_1] does it with [person_2] .",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "[person_1] is taking video about how to do the action and [person_1] just finished so [person_1] is going to stop taking the video.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] is lifting weights."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone takes [bottle_2] ?",
+        "answer": [
+            "[bottle_2] might be drown.",
+            "The cup tower will fall.",
+            "[bottle_2] might hit his foot.",
+            "Then there would be another round.",
+            "The person on the far right may drop the tray of food."
+        ],
+        "reason": [
+            "Because if it falls , its sealing becomes worse.",
+            "[bottle_2] can only move on the water with the help of an unbroken parachute.",
+            "Because they cannot see anything.",
+            "[bottle_2] is very important in the structure of the cup tower.",
+            "[bottle_2] is closest to the fish."
+        ]
+    }
+}

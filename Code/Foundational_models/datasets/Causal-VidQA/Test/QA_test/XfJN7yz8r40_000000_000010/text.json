@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_2]'s shirt?",
+        "answer": [
+            "The painting is on the wall.",
+            "It is a wire cage.",
+            "[person_2]'s shirt is red.",
+            "[person_2]'s shirt is black.",
+            "The inscription is NASA."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] not go out?",
+        "answer": [
+            "When [person_1] stack the dice , the dice are first picked up by the cup.",
+            "Because the [person_1] is reading the [person_2].",
+            "Because [person_1] is stacking the dice with a cup.",
+            "The [person_2] is harvesting agricultural products on the ground.",
+            "Maybe [person_1] and [person_2] are having a short break and relaxing in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is the man next to [person_2] going to do next?",
+        "answer": [
+            "[person_1] will be fried.",
+            "[person_1] plans to show others how he feels in the space.",
+            "[person_1] will become stronger than before.",
+            "The man is not going to care about the game which [person_1] and [person_2] are playing.",
+            "The meat is going to be ground."
+        ],
+        "reason": [
+            "It seems that [person_2] is satisfied with his performance.",
+            "Because the bubbles will break sooner or later.",
+            "It seems that [person_2] is quite interested in it.",
+            "As time goes on , the water gets cold.",
+            "The man pays attention to writing something in the book."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slaps in the [keyboard_1]?",
+        "answer": [
+            "She will change a key.",
+            "The phone will break.",
+            "[person_1] will open the package.",
+            "[person_1] may miss the kick.",
+            "The [keyboard_1] can be broken."
+        ],
+        "reason": [
+            "there will be only [person_1] on the floor.",
+            "The [keyboard_1] is an electronic device and it can be broken if falling.",
+            "[person_1] had a hand injury.",
+            "Two cups of candies are not clean when they fall to the ground.",
+            "[person_1] won't want to lose the ball."
+        ]
+    }
+}

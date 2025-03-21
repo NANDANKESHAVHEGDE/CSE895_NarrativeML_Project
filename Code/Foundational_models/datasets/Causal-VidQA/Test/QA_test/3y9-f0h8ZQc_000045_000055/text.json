@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's that on eyes of [person_1]?",
+        "answer": [
+            "[person_1] is a toddler.",
+            "[person_1] is next to [person_1].",
+            "[person_1] is behind the fence , on the road.",
+            "[person_1] is at a car park.",
+            "That's a pair of glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear glasses?",
+        "answer": [
+            "Because [person_1] checks to see if any team cheats.",
+            "Because [person_1] is nearsighted or farsighted.",
+            "Because [person_1] and [person_1] want to build a snowman.",
+            "Because the [person_1] wants to do exercise.",
+            "Maybe [person_1] is \u00a0 practicing the lute - playing skills."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to give feedback about the smart phone.",
+            "[person_1] is going to ride a unicycle forward.",
+            "[person_1] is going to introduce how to adjust the microscope.",
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to shot again."
+        ],
+        "reason": [
+            "Because hands of [person_1] keeps fiddling with the microscope and his mouth keeps talking.",
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] stands outside and watches.",
+            "[person_1] shaved off the bottom part of his beard.",
+            "[person_1] is putting hand on the corner of the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the glasses of [person_1] fall down?",
+        "answer": [
+            "[person_1] cannot see anything clearly.",
+            "[person_1] and [person_1] will stop sword fighting.",
+            "[person_1] may picks the [person_1].",
+            "[person_1] will dismantle the power drill.",
+            "[person_1] will go to another room and bring more playing cards."
+        ],
+        "reason": [
+            "The power will be off.",
+            "[person_1] and [person_1] can't play it without the light.",
+            "Because waving means blessing.",
+            "Because the [person_1] looks like a teacher and should help the injured student.",
+            "Without glasses , there are no tools to help correct vision."
+        ]
+    }
+}

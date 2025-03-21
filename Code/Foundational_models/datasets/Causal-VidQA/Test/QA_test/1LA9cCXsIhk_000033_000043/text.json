@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is doing lunges in front of a mirror.",
+            "[person_1] is making smoke rings.",
+            "[person_1] is playing the flute.",
+            "[person_1] is rolling the apple.",
+            "[person_1] is holding a snowball maker tool."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] hold a snowball maker tool?",
+        "answer": [
+            "The [person_1] wants to keep balance on the unicycle.",
+            "because [person_1] wants to make snowballs for the friends of [person_1].",
+            "Blow the bubbles with [person_1] and [person_1]'s mouths.",
+            "Because [person_1] needs to put the slides on the platform.",
+            "Because the [person_1] wants to explore the parking lot."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to attack [person_1].",
+            "[person_2] is going to adjust the posture of [person_1].",
+            "[person_2] is going to introduce about some dancing skills.",
+            "[person_2] is going to put her leg down.",
+            "[person_2] is going to go to [person_1] and get a new snowball."
+        ],
+        "reason": [
+            "because [person_2] picked a big snowball on the ground.",
+            "[person_2] just tasted it.",
+            "because [person_2] is practicing doing high kick.",
+            "because [person_2] took a snowball from [person_1] before.",
+            "[person_2] is continuing skating."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] does not give [person_2] a new snowball?",
+        "answer": [
+            "[person_2] will make a new snowball with her hands.",
+            "[person_2] would find another person to help her.",
+            "[person_2] will run into the house.",
+            "The [person_1] will make sound through treble keyboard.",
+            "[person_1] will be very awkward."
+        ],
+        "reason": [
+            "because [person_2] does not have the snowball maker tool.",
+            "Because there will be no one guiding them home.",
+            "The [person_1] stands to play accordion.",
+            "Or else [person_2] will get wet.",
+            "Maybe [person_1] and [person_2] are living under the roof."
+        ]
+    }
+}

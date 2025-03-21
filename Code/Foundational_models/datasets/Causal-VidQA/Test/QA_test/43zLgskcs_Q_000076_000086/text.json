@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is brown.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "The shirt is blue.",
+            "The shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is practicing with the weights in the room.",
+            "Because [person_1] is snatching weight lifting.",
+            "Because [person_1] is doing stretching exercises.",
+            "Maybe [person_1] is in the class.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to come back home.",
+            "Maybe [person_1] is going to bow again.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to rest.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "To cut [person_1] into small pieces.",
+            "[person_1] is [person_1]'s partner.",
+            "[person_1] has lifted up the container.",
+            "[person_1] finished his workout.",
+            "[person_1] is going to rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't rest?",
+        "answer": [
+            "[person_1] may stop waving his hands.",
+            "[person_1] will have some rest.",
+            "[person_1] will have a rest.",
+            "[person_1] can take a break.",
+            "[person_1] will be exhausted."
+        ],
+        "reason": [
+            "[person_1] practiced hard.",
+            "It might look old.",
+            "Their is a lot of hair on the ground.",
+            " \b There is a chair near [person_1].",
+            "[person_1] could exchange gifts with [person_1]."
+        ]
+    }
+}

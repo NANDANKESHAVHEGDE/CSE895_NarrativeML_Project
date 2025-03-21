@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It is sunny.",
+            "It's very cold outside.",
+            "It is very sunny.",
+            "It is quite beautiful.",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a helmet?",
+        "answer": [
+            "He wants to try stack the dices one more time.",
+            "Maybe [person_1] and [person_1] are taking a photo.",
+            "[person_1] wants to protect the head.",
+            "Because [person_1] is showing how to play it.",
+            "Because [person_1] is playing stacks of cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue finishing the puzzle.",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] will continue sliding down.",
+            "[person_1] will look at the instructions.",
+            "[person_1] would turn around and dance."
+        ],
+        "reason": [
+            "[person_1] will drop two plates because [person_1]'s done.",
+            "[person_1] is holding the ball.",
+            "[person_1] is still moving.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] is explaining how to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't wear helmet?",
+        "answer": [
+            "[person_1] won't get injured.",
+            "The wall would not cover the wallpaper.",
+            "[person_1] might get injured.",
+            "The game might end.",
+            "This place would be more quiet."
+        ],
+        "reason": [
+            "[person_1]'s head is huge.",
+            "[person_1] punched the ground , which reduced the speed of [person_1].",
+            "[person_1]'s head is protected.",
+            "Others would perhaps take [person_1]'s position.",
+            "[person_1]'s head is not protected."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "The shirt is beige.",
+            "It looks like a hand.",
+            "White.",
+            "The shirt is black.",
+            "It's a white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a razor \u00a0 in his hand?",
+        "answer": [
+            "[person_1] feels comfortable there.",
+            "[person_1] needs to wear a formal suit.",
+            "[person_1] is singing.",
+            "[person_1] is practicing spinning plates.",
+            "[person_1] is shaving."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to a workout.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to clean his face."
+        ],
+        "reason": [
+            "[person_1] finishes showing and thanks the audience.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] is weaving fabric.",
+            "[person_1] needs to do it after shaving.",
+            "Maybe [person_1] is a earthen pot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the razor hits his skin?",
+        "answer": [
+            "The razor blade will make [person_1] bleed.",
+            "[person_1]'s performance would be ruined.",
+            "[person_1] will slow down it's pace.",
+            "[person_1] won't be able to swim.",
+            "[person_1] will be praised."
+        ],
+        "reason": [
+            "[person_1] can't run fast on the muddy land.",
+            "The [person_1] is running on the snow.",
+            "Razor blade is very sharp.",
+            "Because there is no game atmosphere when the light is turned on.",
+            "Maybe [person_1] is making a video about the salad."
+        ]
+    }
+}

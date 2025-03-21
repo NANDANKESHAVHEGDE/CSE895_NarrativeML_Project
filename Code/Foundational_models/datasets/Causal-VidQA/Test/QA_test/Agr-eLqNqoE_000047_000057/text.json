@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing badminton with a friend.",
+            "[person_1] is unwrapping [person_1]'s present.",
+            "[person_1] is opening present.",
+            "[person_1] is teaching yoga.",
+            "[person_1] is leaning on [person_2] back."
+        ]
+    },
+    "explanatory": {
+        "question": "why is both [person_1] and [person_2] leaning on each other?",
+        "answer": [
+            "both [person_1] and [person_2] are creating supportive wall for each other to lean on.",
+            "[person_1] uses a peeling machine to peel the apple.",
+            "[person_1] is playing didgeridoo by blowing air into it.",
+            "[person_1] keeps going back and forth to find a gift [person_1] likes.",
+            "It is to decorate for the celebration."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] might continue reading the newspaper.",
+            "[person_1] will do more sit - ups.",
+            "[person_1] might exhale smoke.",
+            "[person_1] may stand up.",
+            "[person_1] is going to introduce a method."
+        ],
+        "reason": [
+            "[person_1] is bringing his arm forward likely to build up momentum.",
+            "[person_1] is inside a car , ready to go somewhere.",
+            "[person_1] waved goodbye at the camera.",
+            "[person_1] is standing at the center of the carpet while vacuuming.",
+            "[person_1] needs to lean back to keep her balance on the back of the mechanical bull."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] stand up?",
+        "answer": [
+            "[person_2] may continue to record the video.",
+            "[person_2] will fall backward.",
+            "[person_1] will not fall off and still sit on his chair.",
+            "[person_1] may be in danger if there are bad situations.",
+            "[person_1] can only eat liquid food."
+        ],
+        "reason": [
+            "The tree is behind [person_1] . When he raise his head , he is close to the tree.",
+            "[person_2] is leaning on [person_1].",
+            "[person_1] wants to continue to play with the ball.",
+            "[person_1] is right behind [person_2] , so they may crash each other.",
+            "Because [person_2] is a little girl who does not stand as high as the fence."
+        ]
+    }
+}

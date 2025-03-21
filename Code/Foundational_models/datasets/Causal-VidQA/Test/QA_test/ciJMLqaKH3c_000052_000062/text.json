@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "The [person_1] is big.",
+            "[person_1] is next to the windows.",
+            "[person_1] is wearing a black shirt.",
+            "[person_1] is standing on a mattress.",
+            "The [person_1] is long and big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is unwrapping a doll.",
+            "[person_2] is practicing roller skating.",
+            "[person_2] is \u00a0 somersaulting with the sports ball.",
+            "Because [person_2] needs a big room to play musical instruments with friends.",
+            "[person_2] is raising eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_1] next after the full preparation?",
+        "answer": [
+            "[person_1] will lead someone towards [person_1].",
+            "[person_1] will teach others how to roller skate.",
+            "The cutting board may be placed on the table.",
+            "[person_1] might dance.",
+            "[person_1] is still learning how to speak."
+        ],
+        "reason": [
+            "They are probably talking about what they did.",
+            "[person_1] finished playing Amazing Grace on his bagpipe and stopped recording himself.",
+            "Because she looks so interested in the game.",
+            "[person_1] will watch the recording of himself because he will want to see if he did a good job playing the bagpipes.",
+            "[person_1] seems to be the teacher."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the light went out?",
+        "answer": [
+            "[person_1] may not look at the screen.",
+            "[person_1] would move out.",
+            "The music performance would be interrupted.",
+            "[person_1] could not teach others.",
+            "[person_1] will find some bandages."
+        ],
+        "reason": [
+            "The party is over.",
+            "Every one can't dance with music.",
+            "[person_2] will need to refuel [person_2].",
+            "The room is dark.",
+            "This is a very cold lake."
+        ]
+    }
+}

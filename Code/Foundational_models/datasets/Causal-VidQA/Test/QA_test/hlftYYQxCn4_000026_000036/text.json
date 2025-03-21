@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "How are the walls of the room decorated?",
+        "answer": [
+            "[couch_1] wants to avoid injuries.",
+            "Maybe the weather is cold,",
+            "Maybe the weather is so hot.",
+            "With three paintings and a window.",
+            "Because wearing shorts makes [couch_1] be easy to move around."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is possible that [person_1] will go with the man at the door of the room.",
+            "It is possible that [person_1] will play beer pong on the [person_1].",
+            "[person_1] will jump out of the truck.",
+            "[person_1] will sit on the [couch_1].",
+            "[person_1] will stand up."
+        ],
+        "reason": [
+            "[person_1] is checking the belt on the white cloth.",
+            "[person_1] is spreading the shirt to fold.",
+            "Because [person_1] finds herself tired.",
+            "[person_1] is moving towards the man at the door of the room.",
+            "[person_1] is showing the children the way to stand on hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the paintings on the wall fell down?",
+        "answer": [
+            "[person_1] will continue exercising.",
+            "[person_1] will stop milking.",
+            "[person_1] will start exercising.",
+            "[person_1] will put the dishes in the kitchen cabinets.",
+            "[person_1] will stop exercising."
+        ],
+        "reason": [
+            "To pull the paintings off the wall again.",
+            "It's impossible to cross a sea by oneself.",
+            "To put the paintings on the desk again.",
+            "When the holder of the toy vacuum is broken , the toy vacuum will drop on the floor.",
+            "To put the paintings on the wall again."
+        ]
+    }
+}

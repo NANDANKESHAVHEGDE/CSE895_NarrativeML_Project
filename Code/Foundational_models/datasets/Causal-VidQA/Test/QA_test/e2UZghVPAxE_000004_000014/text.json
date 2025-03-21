@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is yellow.",
+            "It is \u00a0 black.",
+            "The shirt [person_1] wearing is white.",
+            "It is black.",
+            "The shirt [person_1] wearing is gray."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have to sit when he starts lifting weights?",
+        "answer": [
+            "She begs her no leaving.",
+            "She has won the prize.",
+            "Because he needs a lot of force to snatch weight lifting.",
+            "[person_1] is teaching how to do a pull - up.",
+            "Perhaps [person_1] does not have a watering can or a source of water far from the garden."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is highly likely to laugh.",
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] will learn more movements.",
+            "[person_1] is going to continue snatch weight lifting.",
+            "[person_1] is going to come back home."
+        ],
+        "reason": [
+            "Because [person_1] has finished measuring the gap.",
+            "Feedback is needed in the classroom.",
+            "[person_1] likes challenge.",
+            "[person_1] is still holding the weight.",
+            "So that [person_1] has a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the gym equipment in front of [person_1] is pour down?",
+        "answer": [
+            "[person_1] won't be hurt.",
+            "[person_1] will tap [person_1]'s shoulder.",
+            "[person_1] will be hurt.",
+            "[person_1] will take [person_1] with him.",
+            "[person_1] will be healthy."
+        ],
+        "reason": [
+            "The gym equipment is very light and have a lot of sharp iron rods.",
+            "[person_1] is old and still has a cough.",
+            "The gym equipment is very heavy and have no sharp iron rods.",
+            "[person_1] wears a lot of clothes.",
+            "The gym equipment is very heavy and have a lot of sharp iron rods."
+        ]
+    }
+}

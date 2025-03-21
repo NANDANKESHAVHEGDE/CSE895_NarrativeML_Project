@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "[person_1] is on the left side of [person_1].",
+            "The [person_1] is lying on the floor.",
+            "The [person_1] is standing behind the fence.",
+            "[person_1] is behind the [person_1].",
+            "The [person_1] stands in front of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [teddy bear_1] bow?",
+        "answer": [
+            "The screen shows the match of 2 players.",
+            "The room is the hall.",
+            "[teddy bear_1] is feeling hot.",
+            "The [teddy bear_1] took the pillow on the floor.",
+            "The mound is fluffy with a little flexibility."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [teddy bear_1] going to do?",
+        "answer": [
+            "[person_1] will drink some water.",
+            "[person_1] will fall down and may injure.",
+            "[teddy bear_1] needs to have a rest.",
+            "The [teddy bear_1] may give the pillow to the [person_1].",
+            "[person_1] will lay down the brick."
+        ],
+        "reason": [
+            "The [person_1] is lying on the floor and the [teddy bear_1] is standing next to the [person_1].",
+            "Maybe [person_1] will try to open another lock because his hand is still raised.",
+            "Because the man next to [person_1] wants to show what he learned.",
+            "Because [person_1] is moving forward slowly.",
+            "Because [person_1] reads a lot of books since she was a child."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [teddy bear_1] were hit by a big pillow?",
+        "answer": [
+            "The friend who is teasing [teddy bear_1] will wash [teddy bear_1].",
+            "[teddy bear_1] would be very far from the archery target board.",
+            "Then [teddy bear_1] will go on dribbling.",
+            "Maybe [teddy bear_1] could be sick.",
+            "The [teddy bear_1] would fall to the floor."
+        ],
+        "reason": [
+            "The [teddy bear_1] is small and the [teddy bear_1] would lose balance.",
+            "When [teddy bear_1] stretching two legs , the upper body of [teddy bear_1] is losing balance.",
+            "Because [teddy bear_1] would need to drink much less.",
+            "There is only [teddy bear_1] on the stage.",
+            "Some bricks of the building can move."
+        ]
+    }
+}

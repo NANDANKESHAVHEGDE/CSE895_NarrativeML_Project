@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What instrument is [person_1] playing?",
+        "answer": [
+            "[person_1] is on the ground and in front of [person_1].",
+            "The [person_1] is next to the [person_1].",
+            "[person_1] is playing the accordion.",
+            "[person_1] is wearing a white hat.",
+            "[person_1] is under [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "For what reason does [person_1] move his body?",
+        "answer": [
+            "[person_1] is bored during class.",
+            "The saber is sharp and hard.",
+            "[person_1] is partaking in the music.",
+            "To sift the tea leaves.",
+            "[person_1] is wearing a traditional Scottish skirt called a kilt to match the Scottish heritage of the bagpipes he plays."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will go on throwing the cards.",
+            "[person_1] may drive by the side of the road.",
+            "[person_1] is going to see the view.",
+            "[person_1] is going to put down the weights.",
+            "[person_1] is going to keep playing music."
+        ],
+        "reason": [
+            "[person_1] is holding the flute and is about to play.",
+            "No sign shows that [person_1] wants to stop , [person_1] is enjoying the music.",
+            "Maybe [person_1] is more comfortable.",
+            "[person_1] is lying on [person_1].",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the suitcase tumbles down?",
+        "answer": [
+            "[person_1] may brush teeth.",
+            "[person_1] may not hear it.",
+            "[person_1] may feel frightened and cry out.",
+            "[person_1] will pick it up.",
+            "It is possible that the two boats will collide."
+        ],
+        "reason": [
+            "[person_1] is helpful.",
+            "The crossbar didn't fall to the ground.",
+            "Because the letter is private and must be put in the mailbox.",
+            "Because the suitcase will tumble on his knee.",
+            "The yard is surrounded by many trees which makes it an ideal place for the people to gather."
+        ]
+    }
+}

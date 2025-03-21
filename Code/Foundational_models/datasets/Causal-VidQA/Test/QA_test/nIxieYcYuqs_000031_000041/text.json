@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a hat.",
+            "[person_1] is wearing a white t - shirt.",
+            "The [person_1] is wearing a red hair band.",
+            "[person_1] has various sports balls on their pajamas.",
+            "The [person_1] is wearing a helmet and black glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] reaching a hand to the right?",
+        "answer": [
+            "[person_1] is reading a newspaper.",
+            "[person_1] is opening presents.",
+            "[person_1] is opening a present.",
+            "[person_1] is reaching a hand to the right to get the bottle cap of the milk bottle.",
+            "[person_1] is instructing [person_1] about the book."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue skiing.",
+            "[person_1] will help the sheep off the table and move on to cutting a different sheep.",
+            "[person_1] will mix something more into the cup [person_1] just poured milk into.",
+            "[person_1] is finished playing his song and will now reach over to turn off the camera.",
+            "[person_1] will go on spraying the wall."
+        ],
+        "reason": [
+            "[person_1] seems to be taking in something else to mix the drink.",
+            "[person_1] sees someone as they're watching TV and begins to crawl over to them to be with them.",
+            "[person_1] seems to quite enjoy it.",
+            "[person_1] will continue because she holds her hands up to the camera like she will play with her hands more.",
+            "[person_1] made instructions on a board next to him , so he will follow those instructions as he cooks."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] accidentally bumped into the milk bottle near the right - hand side of [person_1]?",
+        "answer": [
+            "[person_1] and [person_1] would get injuries on their heads.",
+            "[person_1] would probably spill milk.",
+            "[person_1] would not jump up.",
+            "[person_1] would probably boil milk.",
+            "[person_1] may not say anything."
+        ],
+        "reason": [
+            "[person_1] may close the cap tightly and if the bottle is spilled.",
+            "Maybe she doesn't like this food.",
+            "[person_1] may not close the cap fairly and if the bottle is spilled.",
+            "It takes time to master dynamic plate spinning skill as it involves more than one object and sticks at the same time.",
+            "[person_1] may not close the cap tightly and if the bottle is spilled."
+        ]
+    }
+}

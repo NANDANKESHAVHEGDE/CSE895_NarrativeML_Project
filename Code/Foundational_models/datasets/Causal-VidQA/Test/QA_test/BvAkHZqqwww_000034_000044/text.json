@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "No.",
+            "[person_1] is wearing a ring.",
+            "[person_1] is wearing winter clothes.",
+            "[person_1] is wearing polo shirt.",
+            "[person_1] is wearing a traditional Scottish outfit."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] talking?",
+        "answer": [
+            "The [person_1] is taking part in a show.",
+            "The [person_1] stretches the arms to the right and the left.",
+            "The [person_1] steps forward with one foot and other foot is on his knee.",
+            "[person_1] is trying to tutor about some kinds of tools.",
+            "Because the [person_1] has just bought this machine."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will leave the room.",
+            "[person_1] will stand up.",
+            "[person_1] will shoot another cue ball.",
+            "[person_1] will take the board away.",
+            "[person_1] is going to pull the string."
+        ],
+        "reason": [
+            "[person_1] grabbed the end of a string.",
+            "There are many wine bottles on the table.",
+            "[person_1] pushed the wheelbarrow and then stopped.",
+            "[person_1] must feel sore of his waist.",
+            "Because the paint on the paint roller dries out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not talk?",
+        "answer": [
+            "[person_1] might not like the bow tie on his neck.",
+            "[person_1]'s tutorial would be as demonstrating.",
+            "[person_1] may not drink.",
+            "[person_1]'s tutorial would not be as demonstrating.",
+            "[person_1] would not smile at [person_1]."
+        ],
+        "reason": [
+            "[person_1] would be able to verbally explain what [person_1] doing.",
+            "There is nothing funny happens.",
+            "[person_1] would not be able to verbally explain what [person_1] doing.",
+            "Because [person_1] has another one on [person_1].",
+            "[person_1] would not be able to handly explain what [person_1] doing."
+        ]
+    }
+}

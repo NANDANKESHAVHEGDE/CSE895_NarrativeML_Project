@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wear on his head?",
+        "answer": [
+            "[person_1] is outside , on the right of [person_1].",
+            "[person_1] is wearing a white shirt.",
+            "[person_1] is wearing a hat.",
+            "[person_1] stands in front of [person_1].",
+            "[person_1] is playing the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pull the prong back?",
+        "answer": [
+            "[person_1] pulls the prong back to remove the old apple core.",
+            "[person_1] does squats.",
+            "The [person_1] likes to play accordion in free time.",
+            "[person_1] holds the accordion toy with both her hand.",
+            "[person_1] is looking at someone who is standing near her."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will move the stripping cutting edge to peel an apple.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to sit.",
+            "Maybe [person_1] is going to continue skiing",
+            "[person_1] is certain to spray a painting."
+        ],
+        "reason": [
+            "[person_1] is trying to do the job fast.",
+            "[person_1] has picked the cake up.",
+            "[person_1] attaches a new apple and starts to peel it.",
+            "[person_1] is excited about this book.",
+            "[person_1] cleaned the wood very carefully."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] fails to throw the apple into [bowl_1]?",
+        "answer": [
+            "[bowl_1] may not know where to stand.",
+            "If [person_1] does not stir the food , the food in [bowl_1] will get burnt.",
+            "[person_1] won't be able to win.",
+            "[person_1] has to stand up.",
+            "[person_1] may fall."
+        ],
+        "reason": [
+            "Because [person_1] fell when [person_1] went up at first try . If [person_1] doesn't hold it with hands , [person_1] may fall.",
+            "[bowl_1] is inside the protective net.",
+            "[person_1] needs to take the apple that tumbles on the grass.",
+            "Because if [person_1] didn't step the line , she wouldn't break the rules of the competition.",
+            "Maybe the [person_1] thinks the [person_1]'s hand is too dry."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the fence?",
+        "answer": [
+            "The [person_1] is rectangular.",
+            "[person_1] is in the corner.",
+            "It is lying on the floor.",
+            "[person_1] is black.",
+            "It is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing warm clothes?",
+        "answer": [
+            "[person_1] is using the harp to practice.",
+            "[person_1] practices before the competition.",
+            "Because [person_1] wants to renew the [person_1].",
+            "[person_1] is holding [person_1].",
+            "[person_1] feels cold."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep jumping rope.",
+            "[person_1] will play basic chords.",
+            "[person_1] may go to somewhere else.",
+            "[person_1] may go to finish his job.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "[person_1] has lifted up the container.",
+            "[person_1] is holding the rope and jumping.",
+            "[person_1] is sitting on the floor.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "Because [person_1] is getting the bee box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the weather is going to rain?",
+        "answer": [
+            "Some audience might be hurt.",
+            "[person_1] will bow his head and bend down to eat the donut in front him.",
+            "[person_1] would get wet.",
+            "[person_1] would not frown",
+            "He will buy a new glue to try if it's better."
+        ],
+        "reason": [
+            "Because he has a toy on hand and obviously interests in it.",
+            "The machine may hurt the cat.",
+            "Because people usually will try not to be totally wet.",
+            "The hoop might fall on someone.",
+            "[person_1] is outdoors."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are all people standing?",
+        "answer": [
+            "No.",
+            "[person_1] near [person_1].",
+            "Fire is under the wood.",
+            "A trash can.",
+            "It is made of glass."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] laugh?",
+        "answer": [
+            "[person_2] find it interesting.",
+            "To help do mountain climbers.",
+            "[person_2] places the accordion that leans on her chest with the key buttons confronting away from her.",
+            "[person_2] cannot stand the heavy sledgehammer for long time.",
+            "Because the [person_2] has a performance."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after [person_1] and [person_3] finish running?",
+        "answer": [
+            "It looks like that [person_1]'s hands get tired.",
+            "[person_1] may be a bar's bartender.",
+            "[person_2] may pat the brush with its claws.",
+            "[person_2] will try.",
+            "The dancers will do the next dance move."
+        ],
+        "reason": [
+            "[person_1] bends down to support the bag",
+            "[person_2] finds it interesting.",
+            "[person_1] is not very professional.",
+            "Children are easy to be attracted by fun games.",
+            "It is cold on rink and she wears so little."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "[person_1] will break his leg.",
+            "[person_1] will be injured.",
+            "[person_2] will laugh.",
+            "[person_1] will stand up and practice again.",
+            "[person_1] will get up and continue practicing."
+        ],
+        "reason": [
+            "[person_2] finds it funny.",
+            "Because [person_1] is skiing very fast.",
+            "[person_1] will feel pain.",
+            "[person_1] is standing on the second floor's roof.",
+            "[person_1]'s head may hurt."
+        ]
+    }
+}

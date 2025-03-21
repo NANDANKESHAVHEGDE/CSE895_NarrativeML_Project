@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bottle_1]?",
+        "answer": [
+            "The [bottle_1] is behind [bottle_1].",
+            "The [bottle_1] is next to the shelf.",
+            "[bottle_1] is placed on the drawer.",
+            "[bottle_1] is behind [bottle_1] and on the shelf.",
+            "The [bottle_1] is next to the [cake_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the spray?",
+        "answer": [
+            "[person_1] wants to place the bass guitar on the laps and play it.",
+            "Because [person_1] is playing the cello.",
+            "[person_1] uses a tool to make the bubble.",
+            "[person_1] is playing the lute.",
+            "[person_1] is making the [cake_1] more attractive."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to raise her head a little.",
+            "[person_1] is going to probably have a rest.",
+            "[person_1] is going to keep spraying . ",
+            "[person_1] is going to keep lifting her arms.",
+            "[person_1] is ready to lift weights again."
+        ],
+        "reason": [
+            "Because [person_1] is doing it attentively.",
+            "Because [person_1] just changed the position to let others see more clearly and now [person_1] is going to do the action.",
+            "Because the mouth of [person_1] is moving all the time , maybe singing and dancing.",
+            "Then maybe [person_1] is going to rest.",
+            "[person_1] has gone to the end of the room and [person_1] is still excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone suddenly rings?",
+        "answer": [
+            "[person_4] will be really sad.",
+            "there will be more newspaper for [person_4].",
+            "No one will listen to what [person_4] is saying.",
+            "[person_4] will be very happy.",
+            "Maybe [person_4] will stop spraying temporarily."
+        ],
+        "reason": [
+            "People with anemia will feel unwell after standing for a long time.",
+            "She didn't want to stop the work in half.",
+            "[person_1] uses [person_1] to show his content . If it is broken , [person_1] will repair it.",
+            "If the [person_1] is slipped , [person_1] will lose the fulcrum and fall down.",
+            "[person_1] will need to pick up the phone."
+        ]
+    }
+}

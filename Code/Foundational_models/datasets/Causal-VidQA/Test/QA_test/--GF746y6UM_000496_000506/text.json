@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is fighting with his enemy.",
+            "[person_1] is listening to a man sitting in front of her.",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is pouring the champagne into the goblet.",
+            "[person_1] is playing the bass guitar on his hands."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing the headphones?",
+        "answer": [
+            "[person_1] is playing didgeridoo in front many people.",
+            "[person_1] is teaching something in a book for the baby.",
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello.",
+            "[person_1] is doing exercise with the ball , and she wants to improve her health.",
+            "[person_1] is listening to the music beat through the headphones while playing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep mixing the drink.",
+            "[person_1] will continue to do lunges.",
+            "[person_1] will keep performing music with the bass guitar.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] is going to wash his face."
+        ],
+        "reason": [
+            "[person_1] looks like a bad whistler.",
+            "[person_1] has finished the song.",
+            "[person_1] shaved off the bottom part of his beard.",
+            "[person_1] has fetched another liquor in her hand.",
+            "[person_1] is plucking the bass guitar strings."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not have the headphones?",
+        "answer": [
+            "[person_1] doesn't need to tiptoe.",
+            "[person_1] would not be able to eat.",
+            "[person_1] would continue riding.",
+            "[person_1] will play bass guitar with a different tone.",
+            "[person_1] would feel scary."
+        ],
+        "reason": [
+            "A cramp in the left leg prevents [person_1] from stretching it.",
+            "[person_1] follows the rules when playing.",
+            "The stage is relatively high , and if [person_1] falls off the stage , legs and feet are easily injured.",
+            "[person_1] will not listen to the music beat through the headphones to play bass guitar.",
+            "The [person_1] goes around and checks carefully."
+        ]
+    }
+}

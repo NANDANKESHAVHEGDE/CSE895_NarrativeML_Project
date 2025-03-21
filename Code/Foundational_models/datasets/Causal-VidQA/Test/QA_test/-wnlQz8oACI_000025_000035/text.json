@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the video?",
+        "answer": [
+            "It is red.",
+            "It is floral pattern.",
+            "Three.",
+            "There are 2 people.",
+            "It is dark green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a instrument?",
+        "answer": [
+            "Because they are playing the guessing game.",
+            "People drove here to roast the marshmallows.",
+            "[person_1] didn't want to get entangled with the dress while stomping grapes.",
+            "[person_1] is playing flute.",
+            "[person_1] is waiting for his turn."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep working.",
+            "[person_2] is going to cut something.",
+            "[person_2] is going to playing guitar.",
+            "[person_2] is going to drink.",
+            "[person_2] is going to play another song."
+        ],
+        "reason": [
+            "[person_2] is holding a guitar.",
+            "Because [person_2] is raising his hand and smiling.",
+            "Exercise makes [person_2] stronger.",
+            "[person_2] has already talk to [person_2] and [person_2].",
+            "[person_2] is holding a micro and [person_2] is talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the string of guitar is broken?",
+        "answer": [
+            "[person_2] will stop playing guitar.",
+            "[person_2] can't move.",
+            "[person_2] will be happy.",
+            "Maybe that person will join the game.",
+            "[person_2] will swim up by himself."
+        ],
+        "reason": [
+            "[person_2] will fix it.",
+            "Knife is not better than this tool.",
+            "[person_2] can't use a broken board to lay the deck.",
+            "For a military commander , winning or losing a battle is a common occurrence . ",
+            "[person_2] feels cold."
+        ]
+    }
+}

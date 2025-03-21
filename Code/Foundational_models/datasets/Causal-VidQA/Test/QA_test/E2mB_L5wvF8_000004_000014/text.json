@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a guitar shop.",
+            "[person_1] is on a stage.",
+            "[person_1] is in the workshop.",
+            "[person_1] is sitting next to [person_1].",
+            "[person_1] is in a museum."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a microphone in front of [person_1]?",
+        "answer": [
+            "[person_1] is attracted by what [person_1] is doing.",
+            "That will produce more air in the bottle thus make the champagne spout out.",
+            "Because [person_1] is relaxing.",
+            "There is a microphone in front of [person_1] to record the sound [person_1] makes when playing the guitar.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to decorate the Christmas tree.",
+            "[person_1] will still play the guitar.",
+            "[person_1] will use an electric hair drier to further dry the hair.",
+            "[person_1] will keep on dancing.",
+            "[person_1] is going to enjoy the trip."
+        ],
+        "reason": [
+            "Because [person_1] squats down next to the wheel.",
+            "Because [person_1] has already finished the training and it is [person_1]'s turn.",
+            "Because [person_1] has gone to the helm.",
+            "[person_1]'s dancing video is [person_1] dancing in many different sites.",
+            "[person_1]  will still play the guitar until the song is done because [person_1] is performing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the lights suddenly turned off?",
+        "answer": [
+            "[person_1] would stop performing.",
+            "[person_1] would feel more tired.",
+            "[person_1] would start performing.",
+            "The doctor will hold the patient out of the room.",
+            "[person_1] wouldn't stop performing."
+        ],
+        "reason": [
+            "The partner of [person_1] may not be able to catch her.",
+            "[person_1] would stop performing because the audience could not see [person_1] in the dark.",
+            "Because [person_1] is eating the potato chips , he might finishes those potato chips before someone takes his bag of potato chips.",
+            "[person_1] would start performing because the audience could not see [person_1] in the dark.",
+            "If players cannot keep balanced when hover boarding , they cannot stand on the hover board."
+        ]
+    }
+}

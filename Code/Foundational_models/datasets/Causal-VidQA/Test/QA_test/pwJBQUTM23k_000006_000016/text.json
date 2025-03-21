@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing on his head?",
+        "answer": [
+            "[person_1] uses nothing but another coco.",
+            "[person_1] is standing on a stage.",
+            "There are two apples.",
+            "It's a headphone.",
+            "[person_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pointing at the [skateboard_1]?",
+        "answer": [
+            "because [person_1] is trying to stack a dice.",
+            "Because [person_1] is trying to tell us he's gonna open a beer bottle with [skateboard_1].",
+            "Because [person_1] helps [person_1] to go faster.",
+            "Because [person_1] wants to show the construction of the circular saw.",
+            "[person_1] is rubbing [person_1]'s back."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to put [skateboard_1] down and enjoy the beer.",
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to ski.",
+            "[person_1] may go to the children park."
+        ],
+        "reason": [
+            "[person_1] is running in a certain direction.",
+            "One of the purposes of opening the beer is to drink it.",
+            "[person_1] is going to have a break.",
+            "[person_1] is still performing.",
+            "[person_1] is exercising."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beer spills out?",
+        "answer": [
+            "Maybe they will dance more.",
+            "The [bed_1] will be wet.",
+            "[bed_1] will be startled.",
+            "The [bed_1] will be dry.",
+            "[bed_1] and [bed_1] would stop the roasting."
+        ],
+        "reason": [
+            "The [bed_1] is out of the scope of the spilling beer.",
+            "[bed_1] is a child.",
+            "The [bed_1] is within the scope of the spilling beer.",
+            "Maintenance man can check the power.",
+            "The [person_1] is within the scope of the spilling beer."
+        ]
+    }
+}

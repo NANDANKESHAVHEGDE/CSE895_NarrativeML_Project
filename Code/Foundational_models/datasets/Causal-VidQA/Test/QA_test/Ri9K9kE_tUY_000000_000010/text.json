@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shoes?",
+        "answer": [
+            "It is blue.",
+            "A white vest.",
+            "It is red.",
+            "It is why.",
+            "A bubble machine."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use a yoga mat?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "To help support [person_2] to exercise.",
+            "They want to make tai chi more beautiful and smoothly.",
+            "[person_1] is filming a kind of video.",
+            "The [person_1] sits here to peel the potato."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] will speed up exercising.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] is going to continue sailing."
+        ],
+        "reason": [
+            "[person_1] is jumping very professionally.",
+            "To increase the training volume.",
+            "[person_1] cannot lift the sled.",
+            "[person_1] only used 1 dice.",
+            "[person_1] has already picked one piece up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone entered the room?",
+        "answer": [
+            "[person_1] might get an accident.",
+            "[person_1] would take the cat to another place.",
+            "We can see what these two people are doing.",
+            "[person_1] will stop exercising.",
+            "[person_1] may not shake the hand of [person_1]."
+        ],
+        "reason": [
+            "To receive the person.",
+            "To buy a new bubble machine.",
+            "[person_2] is an instrument in the drill , so it may be replaced by other things.",
+            "Because he wants his wife can eat the cake.",
+            "The things on the table will fall onto the ground and in a mess."
+        ]
+    }
+}

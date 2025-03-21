@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is reading a book for [bicycle_1] and [bicycle_1] on the bed.",
+            "[person_1] is is throwing a stone so that it slides on the river surface.",
+            "[person_1] is trying to jump on the higher platform with [bicycle_1].",
+            "[person_1] is opening the gift.",
+            "[person_1] is putting the apples into the machine."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] fall?",
+        "answer": [
+            "Because [person_1] holds a small gift in the hands and opens the present.",
+            "Because [person_1] failed the maintain balance after jumping with [bicycle_1].",
+            "Because [person_1] is watering the plants in the garden.",
+            "Because [person_1] feels it's so amazing to open a beer bottle by ring - pull can.",
+            "The [person_1] took the hand of the [bicycle_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to ride the his bicycle down the slope.",
+            "[person_3] is going to play in the stadium.",
+            "[person_3] is going to grade [person_3]'s answer.",
+            "[person_3] may walk and stand in the middle.",
+            "[person_3] is going to introduce his book."
+        ],
+        "reason": [
+            "[person_3] finishes landing after the jump.",
+            "[person_3] gets on a bicycle and turns the bicycle around.",
+            "[person_3] stopped on the log.",
+            "[person_3] was staring at [person_3] as [person_3] spoke.",
+            "[person_3] is the leader of this team."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] jumped higher with [bicycle_1]?",
+        "answer": [
+            "[person_1] might not fall.",
+            "[person_1] may be a little upset.",
+            "[person_1] would not celebrate birthday.",
+            "[person_1] will stop playing.",
+            "[person_1] will be sad."
+        ],
+        "reason": [
+            "Because [person_1] somersaults with [person_1] , if [person_1] falls , [person_1] will help [person_1] up immediately.",
+            "Because [person_1] may successfully land on the higher platform.",
+            "Because [person_1]'s duty is to clean the house.",
+            "Because little boys often cry for failures.",
+            "Because the [person_1] has to make the camel move."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "It was a net and a basketball.",
+            "The [person_1] is drinking water.",
+            "[person_1] is wearing a black shirt.",
+            "The shirt is black.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a basketball?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing cymbals.",
+            "[person_1] is playing basketball.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] will continue to play.",
+            "[person_1] is going to a workout.",
+            "[person_1] will huddling with the team.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to pick up the ball again."
+        ],
+        "reason": [
+            "[person_1] was smiling.",
+            "[person_1] wants to shot again.",
+            "[person_1] is standing on [person_1].",
+            "It is very sunny to play.",
+            "[person_1] just started."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a sudden power outage in the room?",
+        "answer": [
+            "[person_1] will pick up the rope.",
+            "[person_1] won't be able to continue playing basketball.",
+            "[person_1] will stop jumping long.",
+            "The room will become very dark.",
+            "[person_1] take [person_1] and try to find a new spot to try to perform."
+        ],
+        "reason": [
+            "[person_1] has to take a break from practice.",
+            "[person_1] is still a child ; he doesn't have a large lung capacity to blow into the bagpipe correctly.",
+            "[person_1] is playing indoor basketball.",
+            "[person_1] wouldn't like getting bit by bugs while he tries to make money playing music , so he will try to find a different spot.",
+            "The light in the room is not good."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_2] and [person_3]?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are in the game room.",
+            "[person_2] and [person_3] are in a photo hang on the wall behind [person_1].",
+            "[person_2] and [person_1] are in the subway station.",
+            "[person_1] and [person_2] are on a snow - covered slope."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stop blowing the clarinet?",
+        "answer": [
+            "Because [person_1] is playing the guitar.",
+            "Maybe [person_1] is under stress.",
+            "Because [person_1] is watering the plants in the garden.",
+            "[person_1] wants to explain how to play the clarinet.",
+            "Because [person_1] is lifting weights."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue using the painting gas.",
+            "[person_1] will continue to blow the clarinet.",
+            "[person_1] will keep dancing.",
+            "[person_1] will continue playing his song for the camera until he finishes it.",
+            "[person_1] will sand sand the rest of the floor until his job is done."
+        ],
+        "reason": [
+            "[person_1] is going to go where the ball was placed before.",
+            "[person_1] is in the process of playing a song and won't want to stop until it's completed.",
+            "Because [person_1] seems to have a lot work to do.",
+            "Presumably [person_1] has not used the bathroom yet so [person_1] will keep walking them until they are done.",
+            "[person_1] has not shown all the techniques."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not good at blowing the clarinet?",
+        "answer": [
+            "[person_1] would be able to teach others how to play the clarinet.",
+            "[person_1] will go to find one.",
+            "[person_1] would not be able to teach others how to play the clarinet.",
+            "The [person_1] may not be broken knees of [person_1].",
+            "[person_1] would not be able to teach others how to avoid the clarinet."
+        ],
+        "reason": [
+            "[person_1] does not know how to play the clarinet.",
+            "The food on the fire is very scalding.",
+            "[person_1] know how to play the clarinet.",
+            "[person_1] would not have anyone to play with.",
+            "[person_1] does not know how to break the clarinet."
+        ]
+    }
+}

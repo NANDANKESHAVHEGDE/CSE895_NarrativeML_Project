@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [couch_1] big?",
+        "answer": [
+            "It is on the grass.",
+            "Yes , it is.",
+            "[couch_1] is on the counter.",
+            "It is on the [couch_1].",
+            "[couch_1] is behind [couch_1]'s back."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] trying to train to change its body.",
+            "[person_1] is playing the lute very professionally.",
+            "[person_1] is somersaulting in the room.",
+            "[person_1] is lifting weights.",
+            "He is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "He is going to turn to the next page to read.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to warm up there.",
+            "[person_1] is going to continue stretching herself .",
+            "[person_1] is going to continue trying to whistle."
+        ],
+        "reason": [
+            "[person_1] is interested in reading this book.",
+            "From other's behavior we can know after practicing the people need to stand in a line.",
+            "It's important for them to remember.",
+            "It can not be eat.",
+            "There is a coming car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] reads 2 books per day?",
+        "answer": [
+            "[person_1] and [person_1] would get falls , which is very dangerous.",
+            "[person_1] may have loose knowledge.",
+            "[person_1] will be rich.",
+            "[person_1] may have broad knowledge.",
+            "[person_1] may continue trying to open the box."
+        ],
+        "reason": [
+            "Books contain useless information.",
+            "[person_1] and [person_1] are listening [person_1]'s speech . When the speech is over , they should applaud.",
+            "Books contain useful information.",
+            "Because [person_1] makes money out of it.",
+            "Books contain no information."
+        ]
+    }
+}

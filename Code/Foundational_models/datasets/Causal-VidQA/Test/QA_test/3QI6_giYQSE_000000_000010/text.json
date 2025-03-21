@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is pointing the champagne to the photographer.",
+            "[person_1] is is throwing a stone so that it slides on the river surface.",
+            "[person_1] is smashing a rubber tire.",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is proposing to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smash the tire?",
+        "answer": [
+            "[person_1] wiped his sweat.",
+            "[person_1] holds a hammer to strike at the tire hard.",
+            "[person_1] cannot stand the liquid or she feels something wrong with the champagne.",
+            "It is a kind of method for body training.",
+            "[person_1] puts marshmallows in the fire."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after she smashes the tire?",
+        "answer": [
+            "[person_1] will slide down very fast.",
+            "[person_1] will continue to play golf.",
+            "[person_1] will make a new turn.",
+            "[person_1] wants to scratch her hair.",
+            "[person_1] will take a shower."
+        ],
+        "reason": [
+            "There must be a lot of sweat on her body.",
+            "Because her hands are dirty.",
+            "Because his face is dirty.",
+            "Because she is more active.",
+            "Because the water is not enough."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] wear a thick coat?",
+        "answer": [
+            "They will be sad.",
+            "The stone would be useless.",
+            "She will ask for some more.",
+            "She would not stand long time training.",
+            "[person_1] would get another match."
+        ],
+        "reason": [
+            "She would feel hot extremely because she is doing strenuous exercise.",
+            "Egg need to be cooked again.",
+            "It can be used only when it is fractured.",
+            "The room will dark then.",
+            "There is no other light here."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather ?",
+        "answer": [
+            "It is very nice.",
+            "Yes.",
+            "It is cloudy.",
+            "[person_1] is in the studio",
+            "[person_1] and [person_1] are the audiences."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting outside ?",
+        "answer": [
+            "Maybe it's hot inside.",
+            "They are having a party.",
+            "[person_1] is watching [person_1].",
+            "[person_1] is showing his talent.",
+            "It's spring."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to share how to apply mascara.",
+            "[person_1] intends to play the cello.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to keep playing drums.",
+            "[person_1] intends to go on singing."
+        ],
+        "reason": [
+            "[person_1] is sitting on the floor and laying tiles.",
+            "[person_1] seems to be very keen on doing so.",
+            "[person_1]'s hand is about to hit the gong's face.",
+            "[person_1] is showing hands up and down and shaking the body.",
+            "[person_1] is playing guitar and singing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forgets the lyrics ?",
+        "answer": [
+            "[person_1] may succeed on flipping the bottle.",
+            "The [person_1] will make the same doll again.",
+            "[person_1] will pretend that nothing happens.",
+            "[person_1] will stop singing.",
+            "[person_1] will fall."
+        ],
+        "reason": [
+            "if [person_1] did not want to be hit , getting hit would upset him.",
+            "[person_1] would want to make everybody happy.",
+            "Because in the process of combing [person_1] has been very gentle.",
+            "Maybe [person_1] will search the lyrics on his smartphone.",
+            "[person_1] didn't get kicked by [person_1] and [person_1] kicked [person_1] back in the leg."
+        ]
+    }
+}

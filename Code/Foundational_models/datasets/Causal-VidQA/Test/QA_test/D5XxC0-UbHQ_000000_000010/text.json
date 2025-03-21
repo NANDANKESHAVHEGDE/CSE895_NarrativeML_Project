@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it bright?",
+        "answer": [
+            "[person_1] is wearing it in front of her.",
+            "[person_1] is placed next to [person_1].",
+            "Yes , it is.",
+            "[person_1] is put on the ground and next to [person_1].",
+            "[person_1] is between [person_1] and [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] give off smoke?",
+        "answer": [
+            "Because this is [person_1] 's job.",
+            "Because [person_1] is smoking hookah.",
+            "Because the camels live in the desert.",
+            "Because the [person_1] is leading the camels to kneel down.",
+            "[person_1] applies plaster on the wall by his trowel."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is certain to spray a painting.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to sit.",
+            "Maybe [person_1] is going to continue give off smoke hookah."
+        ],
+        "reason": [
+            "[person_1] feels hot.",
+            "[person_1] has picked the cake up.",
+            "[person_1] continues to smoke.",
+            "[person_1] needs to recover.",
+            "[person_1] likes sledding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes hookah?",
+        "answer": [
+            "[person_1] will not be able to eat the food.",
+            "[person_1] will have a few anxious moments before landing safely.",
+            "It is possible that [person_1] will be a professional hookah smokers.",
+            "Maybe both of [person_1] and [person_1] will fall down.",
+            "[person_1] and [person_1] would not be able to hang out."
+        ],
+        "reason": [
+            "Smoking hookah will be addictive.",
+            "[person_1] will need to rest.",
+            "[person_1] may need to pick them up.",
+            "[person_1] will have a rest.",
+            "It's easy to faint if you continue to exercise when you're hungry."
+        ]
+    }
+}

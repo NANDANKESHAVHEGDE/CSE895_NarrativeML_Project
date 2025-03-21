@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bird_1]?",
+        "answer": [
+            "[bird_1] is standing in the yard.",
+            "[bird_1] is wearing a suit.",
+            "[bird_1] is wearing a bow tie.",
+            "[bird_1] on the wall.",
+            "[bird_1] is wearing a white T - shirt and glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] is ripping paper ?",
+        "answer": [
+            "[person_1] plays the accordion very enthusiastically.",
+            "Because [person_1] is interested.",
+            "[person_1] is pulling up.",
+            "Because [person_1] made it out of hookah smoke.",
+            "[person_1] trained the dog to skip rope before."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "He may do the kind of jump again.",
+            "[person_1] may go to get a stick.",
+            "[person_1] may be going to take a rest.",
+            "[person_1] will rip the paper.",
+            "[person_1] may not lean on this chair again."
+        ],
+        "reason": [
+            "[person_1] is going to learn how to keep balance so that he can take off 2 spare wheels on the [person_1].",
+            "[person_1] is ripping paper.",
+            "After bandaging the horse , [person_1] stood up and approached to the horse.",
+            "[person_1] held the cup and started swinging it to pick up the first dice.",
+            "When [person_1] drops the rope , the rope shakes but [person_1] manages to continue the walk."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop reading.",
+            "[person_1] maybe stop smiling.",
+            "[person_1] maybe afraid.",
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe stop eating."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "The room will be dark.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [chair_1]?",
+        "answer": [
+            "The [chair_1] is brow.",
+            "It's white.",
+            "[chair_1] and [chair_1] are in the yard.",
+            "No , we can't.",
+            "It's blue and yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_1]?",
+        "answer": [
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "Because [person_1] is instructing the arm stretch.",
+            "Maybe [person_1] is waiting for something.",
+            "[person_1] is watching [person_1] lift weights.",
+            "Maybe [person_1] doesn't want to be tired when playing her favorite violin."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue to stand there.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to take [bottle_1].",
+            "[person_1] is going to keep jumping.",
+            "[person_1] may turn around."
+        ],
+        "reason": [
+            "[person_1] is looking at [bottle_1] and [person_1] wants it.",
+            "According to the rules of baseball , [person_1] will score a run - home after hitting the ball outs of the field , so he can freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] has completed his part of the test.",
+            "[person_1] is a professional.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [bottle_1] is dropped on the floor?",
+        "answer": [
+            "The [bottle_1] will go to chase the camel.",
+            "[bottle_1] will keep observing the time.",
+            "[bottle_1] and [bottle_1] may have to use another shuttlecock.",
+            "[bottle_1] will eat the [bottle_1] faster.",
+            "[bottle_1] will break."
+        ],
+        "reason": [
+            "On the highway , there is traffic that causes an accident.",
+            "[bottle_1] is surrounded by so many competitors.",
+            "The weights are very heavy and can hurt his feet.",
+            "[bottle_1] is made of glass.",
+            "[bottle_1] can not eat cold food."
+        ]
+    }
+}

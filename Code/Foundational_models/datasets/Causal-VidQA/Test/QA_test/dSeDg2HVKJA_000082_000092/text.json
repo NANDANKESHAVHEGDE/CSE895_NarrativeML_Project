@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] ?",
+        "answer": [
+            "[person_1] is on the floor.",
+            "It is in front of the building.",
+            "[book_1] is in the left of [person_1].",
+            "[person_1] is holding it.",
+            "[book_1] is under the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding a bow?",
+        "answer": [
+            "[person_2] is feeling easier to play standing up.",
+            "[person_2] is a little nervous.",
+            "[person_2] is introducing the harmonica.",
+            "[person_2] is planing wood.",
+            "Because it's the instrument for playing the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "It is probable that [person_2] will go to rest.",
+            "It is predicted that [person_1] will play the cello.",
+            "[person_2] is bound to throw the ball into the cups.",
+            "It is probable that [person_2] will try her best to play the game.",
+            "[person_2] will dry [person_1]'s head."
+        ],
+        "reason": [
+            "Because [person_1] is still trying to do it.",
+            "Maybe [person_2] is happy.",
+            "Maybe [person_2] is playing for [person_1].",
+            "[person_2] must defeat [person_1] in this debate.",
+            "To put the pillow on the bed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the string breaks?",
+        "answer": [
+            "[person_1] will stop playing.",
+            "The tire will not be inflated.",
+            "[person_1] will start playing.",
+            "[person_1] may not score extra points for the team.",
+            "[person_1] won't stop playing."
+        ],
+        "reason": [
+            "Using too little strings will break.",
+            "The plate is high.",
+            "Using too many strings will break.",
+            "Because the way [person_1] delivers the express is very rough.",
+            "Using too many strings won't break."
+        ]
+    }
+}

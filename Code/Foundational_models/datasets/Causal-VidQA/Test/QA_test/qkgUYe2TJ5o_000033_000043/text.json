@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is striking the bottle to the wall.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is watering plants.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is doing tai chi moves."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] like watering?",
+        "answer": [
+            "[person_1] teaching [person_1] and [person_1] how to playing chess.",
+            "[person_1] is practicing a move in tai chi.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is shaving for [person_1] .",
+            "He is watching [person_1] unwrapping the present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue watering.",
+            "Maybe [person_1] is going to stop to eat.",
+            "[person_1] is trying to help [person_1] with hand.",
+            "[person_1] won't sit in [person_1] and still stands.",
+            "[person_1] is about to play the glass ball in his hand."
+        ],
+        "reason": [
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "[person_1] was walking towards [person_1] and the right hand of [person_1] touched the leg of [person_1].",
+            "[person_1] has lied down and hold the barbell.",
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will find shelter from the rain.",
+            "[person_1] won't be able to continue his practice.",
+            "[person_1] and [person_1] will get caught in the rain.",
+            "[person_1] will stop watering the plants.",
+            "Maybe [person_1] and [person_1] will not continue playing ball."
+        ],
+        "reason": [
+            "Because the box does not have any cover.",
+            "Plants that are too young will need careful care.",
+            "The lines on the field all disappeared.",
+            "Because none of them has an umbrella and they are all outside.",
+            "The road is very slippery."
+        ]
+    }
+}

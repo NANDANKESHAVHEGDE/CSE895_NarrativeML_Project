@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall ?",
+        "answer": [
+            "The wall is white.",
+            "The wall is yellow.",
+            "The wall is black.",
+            "The wall is blue.",
+            "The flute is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room ?",
+        "answer": [
+            "[person_1] is showing the rest of the yoga class how to perform the yoga techniques.",
+            "[person_1] is sitting in front of the table to tap the pen easier on the table.",
+            "[person_1] is playing cymbals in the room.",
+            "[person_1] is standing up to play his guitar in front of the camera.",
+            "[person_1] is squeezing oranges for juice."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "Perhaps [person_1] will continue listening music.",
+            "[person_1] will knock the cymbals.",
+            "[person_1] may keep trying to play the gong.",
+            "[person_1] will drive the snow blower forward.",
+            "[person_1] will continue to make vases."
+        ],
+        "reason": [
+            "Because there is a new tire on the ground and the tire of [person_1] is broken.",
+            "[person_1] is playing cymbals enthusiastically.",
+            "[person_1] plays the gong very enthusiastically and his hands move non - stop.",
+            "[person_1] is concentrating on playing the keyboard.",
+            "The [person_1] is stopping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cymbals are broken ?",
+        "answer": [
+            "[person_1] will have chance to play the guitar.",
+            "[person_1] will not smile.",
+            "The [person_1] will change his vehicle.",
+            "[person_1] will teach [person_1] to dance .",
+            "The player will stop playing blackjack."
+        ],
+        "reason": [
+            "Because there are two machines on the table.",
+            "There is a guitar in the room.",
+            "Because they've been practicing for a week.",
+            "To find the ring first.",
+            "[person_1] didn't grab the railing."
+        ]
+    }
+}

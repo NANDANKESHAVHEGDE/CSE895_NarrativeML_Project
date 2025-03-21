@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is on the stage.",
+            "Four.",
+            "[person_2] is lying on the table.",
+            "[person_2] is sitting in front of the keyboard.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] laughing?",
+        "answer": [
+            "[person_1] and [person_2] have fun.",
+            "[person_1] is puffing smoke.",
+            "Because [person_1] walks backwards downhill.",
+            "[person_1] and [person_2] may be in a competition.",
+            "This video is documentary about the spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will then lie on the bed.",
+            "[person_2] will jump.",
+            "[person_2] will continue playing checkers.",
+            "[person_2] will not hit the keyboard.",
+            "[person_2] will see how far the ball would go."
+        ],
+        "reason": [
+            "Because there are still several cups left.",
+            "[person_2] is holding the camera.",
+            "[person_2] is putting his hands on the steering wheel.",
+            "[person_2] seems to enjoy it.",
+            "[person_2] is hosting a game show."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays the keyboard?",
+        "answer": [
+            "Maybe [person_1] will hang them up.",
+            "The plate might fly into the body of the [person_1].",
+            "The person who is parasailing may fall and the [person_1] may pick him up.",
+            "Maybe [person_1] will feel confused.",
+            "The [person_1] can see bass buttons of accordion."
+        ],
+        "reason": [
+            "[person_1] will need to be careful.",
+            "[person_1] has not finished the performance.",
+            "[person_1] will appreciate this gift.",
+            "[person_1] doesn't seem to know how to play the keyboard.",
+            "Their is a lot of hair on the ground."
+        ]
+    }
+}

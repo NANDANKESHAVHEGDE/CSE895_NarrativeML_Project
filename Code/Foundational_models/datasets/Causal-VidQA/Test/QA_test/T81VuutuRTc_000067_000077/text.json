@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks old.",
+            "[person_1] is a craftswoman.",
+            "[person_1] is tall.",
+            "It's a beer.",
+            "[person_1] looks good - looking."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look elated?",
+        "answer": [
+            "[person_1] is puffing smoke.",
+            "[person_2] is doing what [person_1] likes.",
+            "Because the fan will keep [person_1] cool when [person_1] is playing musical instruments.",
+            "[person_1] is watching people stomping.",
+            "[person_1] is doing somersaults."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to draw eyeliner.",
+            "[person_1] intends to drink more.",
+            "[person_1] intends to play with the maracas .",
+            "[person_1] intends to weave a vase.",
+            "[person_1] intends to be a master of playing violin."
+        ],
+        "reason": [
+            "[person_1] is hover boarding.",
+            "[person_1] didn't want to put the harmonica down.",
+            "[person_1] looks very focused while playing didgeridoo.",
+            "[person_1] is continue crawling forward.",
+            "There are many flowers that need to be arranged in the room."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is thirsty?",
+        "answer": [
+            "[person_1] would cook food for him.",
+            "[person_1] will cook.",
+            "[person_1] will cook more food.",
+            "[person_1] will stop somersaulting.",
+            "Maybe [person_1] will stop making the vase temporarily."
+        ],
+        "reason": [
+            "[person_1] is more convenient than [person_1] and [person_1] if [person_1] must drive something.",
+            "[person_1] will need to drink water.",
+            "Smoking is very harmful to the lungs.",
+            "There are a lot of flowers in the garden.",
+            "[person_1] wants to get the lost thing back."
+        ]
+    }
+}

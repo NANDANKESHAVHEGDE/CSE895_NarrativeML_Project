@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks old and thin.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks thin.",
+            "[person_1] looks like a professional skier.",
+            "[person_1] looks cute."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_1]?",
+        "answer": [
+            "[chair_1] is enjoying massage.",
+            "[person_1] is curious what happens in front of it.",
+            "[person_1] is playing with some toys",
+            "[person_1] is eating.",
+            "[person_1] is playing the harmonica to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read another page.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to go play somewhere else."
+        ],
+        "reason": [
+            "[person_1] is snowmobiling.",
+            "[person_1] yawned.",
+            "[person_1] is facing [person_1].",
+            "[person_1] has run out of cards",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls asleep on the [dinner table_1] ?",
+        "answer": [
+            "[dinner table_1]'s owner will be very happy.",
+            "[person_1] will be awakened.",
+            "[person_1] will find other cameras.",
+            "[person_1] will take [person_1] and go out.",
+            "[person_1] will transport the next dirt wheelbarrows."
+        ],
+        "reason": [
+            "Because it's [person_1]'s birthday and [person_1] should have a good memory.",
+            "Because [dinner table_1] will be broken after being hit.",
+            "Because [person_1] is working on the construction site.",
+            "Since [person_1] has been tattooed already , he will leave soon.",
+            "[dinner table_1] is not a place to sleep."
+        ]
+    }
+}

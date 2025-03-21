@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is at the side of the road.",
+            "[person_1] is in his home office.",
+            "[person_1] is on the stage.",
+            "[person_1] is outside.",
+            "[person_1] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is stacking cups.",
+            "[person_1] is singing.",
+            "[person_1] is doing exercises to improve his health.",
+            "[person_1] succeeds in doing the technique.",
+            "[person_1] is looking a beautiful space."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to bed.",
+            "[person_1] is going to whistle.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] is still working.",
+            "[person_1] is landing on the street.",
+            "[person_1] wants his song to be more interesting.",
+            "[person_1] stepped forward continuously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sings his song well?",
+        "answer": [
+            "The ball will not bounce out of the sink.",
+            "[person_1] will get a round of applause.",
+            "[person_1] 's performance will be interrupted.",
+            "It will be dark.",
+            "[person_1] may give the microphone to someone else to let him play on the spot."
+        ],
+        "reason": [
+            "[person_1] will not be interviewed.",
+            "Because [person_1] really loves compliments from her close friends.",
+            "Because there is no one pets [person_1] anymore.",
+            "It was hard but [person_1] did it.",
+            "The audience will love the song of [person_1]."
+        ]
+    }
+}

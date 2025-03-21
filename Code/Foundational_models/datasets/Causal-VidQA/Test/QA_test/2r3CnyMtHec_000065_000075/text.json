@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt is [person_1] wearing?",
+        "answer": [
+            "It's a beer.",
+            "[person_1] looks like a baby.",
+            "[person_1] hair is brown.",
+            "It's white shirt.",
+            "[person_1] looks a bit chubby."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] slightly bend over?",
+        "answer": [
+            "Because it is a yoga move.",
+            "[person_1] may not know how to tie a bow for himself.",
+            "Because [person_1] laughs.",
+            "They are practicing saluting.",
+            "[person_1] turns his back on the basket and throws the ball backward."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] probably do after that?",
+        "answer": [
+            "[person_1] will give the marshmallows to [person_1].",
+            "[person_1] is going to perform.",
+            "[person_1] will still be tapping his pen on the table.",
+            "[person_1] is going to burst into laughter.",
+            "[person_1] is going to be watched by the audiences."
+        ],
+        "reason": [
+            "[person_1] will continue to open the gift because [person_1]'s hand is still touching it and trying to open it.",
+            "What [person_1] is doing now is really physically consuming.",
+            "[person_1] will still be tapping his pen on the table because [person_1]'s hands are constantly moving.",
+            "Because [person_1] has been reading book just now.",
+            "The bradawl is being approached the gong."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] tapped too hard?",
+        "answer": [
+            "The pen would probably break.",
+            "Some items would drop to the floor.",
+            "[person_1] would turn it over.",
+            "[person_1] would not know what happens with [person_1].",
+            "[person_1] might stop doing heavy lifting."
+        ],
+        "reason": [
+            "Because [person_1] is made of glass.",
+            "[person_1] is right behind.",
+            "The pen would probably break and [person_1] might stop.",
+            "There would be no chair for [person_1] to use.",
+            "Because the rope is to ensure [person_1]'s safety."
+        ]
+    }
+}

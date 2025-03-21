@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the lake.",
+            "[person_1] is in the garden.",
+            "[person_1] is in wood workshop.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking so serious?",
+        "answer": [
+            "[person_1] is focusing on his work.",
+            "[person_1] wants to stretch the muscles of her body.",
+            "[person_1] is playing chess with her son.",
+            "Because [person_1] doesn't know how to play the clapping game.",
+            "[person_1] is playing sport."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rest.",
+            "[person_1] is going to come back home.",
+            "[person_1] is going to keep playing harmonica.",
+            "[person_1] going to shape the product.",
+            "[person_1] will color in the tail."
+        ],
+        "reason": [
+            "It is very sunny to play.",
+            "[person_1] needs to recover.",
+            "[person_1] is practicing very hard.",
+            "[person_1]'s arms were intertwined.",
+            "[person_1] looks so professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a sudden power outage there?",
+        "answer": [
+            "[person_1] may be hit.",
+            "The talk will be forced to stop.",
+            "The room will be bright.",
+            "[person_1] will help [person_1].",
+            "No problem with [person_1] ."
+        ],
+        "reason": [
+            "[person_1] wants others to help him identify whether it tastes good.",
+            "[person_1] is working by hands so [person_1] doesn't need electricity.",
+            "[person_1] needs the wind to fly the kite.",
+            "The power sockets is a bridge between electricity and the equipment that need electricity.",
+            "[person_1] is next to [person_1] and wants to help [person_1]."
+        ]
+    }
+}

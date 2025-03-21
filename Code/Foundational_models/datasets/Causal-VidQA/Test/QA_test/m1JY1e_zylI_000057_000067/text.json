@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [tv_1]?",
+        "answer": [
+            "There is one cell phone.",
+            "[tv_1] is placed on the desk on the left side of [tv_1].",
+            "The [tv_1] is above the bed.",
+            "The [tv_1] is on the wood shelf next to the wall.",
+            "People on the stage are looking at music sheets."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] fall?",
+        "answer": [
+            "Because [person_1] is the winner of the game.",
+            "[person_1] succeeded at stacking the dice.",
+            "Maybe [person_1] loves the sound of maracas.",
+            "The [person_1] was hit unexpectedly with a big pillow.",
+            "[person_1] is a cute baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may stand up.",
+            "The [person_1] may turn back and walk more.",
+            "The [person_1] may stop playing accordion.",
+            "The [person_1] may keep paying attention to play accordion.",
+            "The [person_1] may keep playing accordion with the person who is playing drum."
+        ],
+        "reason": [
+            "The [person_1] puts the stone down and moves his body to lift it.",
+            "The [person_1] is walking toward the house.",
+            "The [person_1] turns back and looks in front.",
+            "The [person_1] has just been hit and the [person_1] is lying on the bed.",
+            "The [person_1] takes care the [person_1] and has some talk to the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not stand close to the bed?",
+        "answer": [
+            "The [person_1] could not do the sit - ups.",
+            "The [person_1] may fall to the floor and get hurt.",
+            "[person_1] may find other toys to play with.",
+            "It is probable that [person_1] listen to someone reading a book for him.",
+            "[person_1] may keep packing things into [person_1] instead of [person_1]."
+        ],
+        "reason": [
+            "[person_1] can't go through walls.",
+            "Knife cannot deal with short hair.",
+            "Wind outside the window prevents the candle from being lit up.",
+            "The floor is hard and the [person_1] was hit unexpectedly.",
+            "Because his customer might be displeased and his product would be ruined."
+        ]
+    }
+}

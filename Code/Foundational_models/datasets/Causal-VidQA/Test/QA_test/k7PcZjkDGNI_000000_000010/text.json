@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cup_2]?",
+        "answer": [
+            "[person_1] is reading a book.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] just received a gift.",
+            "[person_1] is putting her mouth on [person_1] to blow into it so she can play her bagpipes.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to practice.",
+            "[person_1] is going to squeeze all of the oranges.",
+            "[person_1] may keep trying to stand by hands.",
+            "[person_1] may stand on the [person_1].",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "[person_1] pays attention to her book.",
+            "[person_1] is removing her glasses.",
+            "[person_1] still has 3 or 4 oranges to be squeezed on the table.",
+            "There are many trees in the garden.",
+            "Because there are many circles in the picture."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "[person_1] won't pour orange juice into the [cup_1].",
+            "[person_1] will be happier.",
+            "[person_1] will pour orange juice out the [cup_1].",
+            "[person_1] will fall into the water.",
+            "[person_1] will pour orange juice into the [cup_1]."
+        ],
+        "reason": [
+            "[cup_1] is already under the table.",
+            "[person_1] does not know how to fly a kite.",
+            "[cup_1] is already on the table.",
+            "Children like watching TV.",
+            "[cup_1] is already on the chair."
+        ]
+    }
+}

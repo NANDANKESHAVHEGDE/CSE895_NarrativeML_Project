@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting and reading the book on the [dining table_1].",
+            "[person_1] is turning the body.",
+            "[person_1] is tearing the fruit with his teeth.",
+            "[person_1] is knocking the fruit by palm.",
+            "[person_1] is opening the gift box and happy when seeing the present."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] read the book on the [dining table_1]?",
+        "answer": [
+            "He wants to try stack the dices one more time.",
+            "Because [person_1] learns about animals.",
+            "Because [person_1] is doing leg work out.",
+            "Because [person_1] is learning something in the book.",
+            "Because [person_1] wants to play the drums in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue reading the book on the [dining table_1].",
+            "Perhaps [person_1] is going to jump next.",
+            "Maybe [person_1] is going to jump.",
+            "[person_1] will play with the cat.",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "[person_1] is moving to the chair.",
+            "Because [person_1] seems very interested in reading the book and has not stopped reading the book.",
+            "The cat is sitting next to [person_1].",
+            "Maybe [person_1] was feeling dizzy.",
+            "Maybe [person_1] will clap his hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the book to the ground?",
+        "answer": [
+            "[person_1] will then lie on the [person_1].",
+            "[person_1] will go to the bedroom.",
+            "[person_1] will pick up the book and put it on the [dining table_1] to carry on reading.",
+            "Maybe the [person_1]'s ball will be out of the cup.",
+            "[person_1] will be sit on the chair."
+        ],
+        "reason": [
+            "Because [person_1] may hurt her hands.",
+            "According to the size of the hand , [person_1] is an adult , he will take care of himself.",
+            "Because [person_1] is going for sleep.",
+            "Maybe that's why [person_1] sharpens the pencil.",
+            "Because [person_1] likes reading and [person_1] drops the book."
+        ]
+    }
+}

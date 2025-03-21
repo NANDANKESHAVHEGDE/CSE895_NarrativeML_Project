@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] sits by the curtains.",
+            "She is in school.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] enter the room?",
+        "answer": [
+            "With his two hands.",
+            "[person_1] is getting ready to go somewhere.",
+            "[person_1] wants to play with the ball.",
+            "[person_1] watches [person_1] preform.",
+            "Because it is time to have class."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may take off the clip.",
+            "She may find her position and sit down.",
+            "[person_1] keeps moving with the snake around him.",
+            "[person_1] may divide the cake among others.",
+            "[person_1] will check the honey."
+        ],
+        "reason": [
+            "[person_1] may keep trying to throw.",
+            "[person_1] is going to put the shoe down.",
+            "Because she has to sit in her place during class.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is still working."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] gets a headache?",
+        "answer": [
+            "The room will be dark then.",
+            "[person_2] will get cement on body's [person_2].",
+            "[person_2] will take a rest in a few minutes.",
+            "It is probable that the eyes of [person_2] will be red and swollen.",
+            "He will not have class."
+        ],
+        "reason": [
+            "[person_2] will not practice anymore.",
+            "She will go to the infirmary.",
+            "[person_2] wants to sleep in the bedroom.",
+            "[person_2] will feel more pain if headache.",
+            "Because [person_2] goes with [person_2] and they are looking at each other as they are a team."
+        ]
+    }
+}

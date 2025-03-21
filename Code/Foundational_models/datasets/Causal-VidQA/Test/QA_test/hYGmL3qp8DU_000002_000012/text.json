@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] and [person_2] doing?",
+        "answer": [
+            "[person_1] and [person_2] are opening the presents.",
+            "[person_2] and [person_1] are in a badminton match to compete with each other.",
+            "[person_1] and [person_2] are rollerblading.",
+            "[person_2] is white.",
+            "[person_1] and [person_2] are surveying the area of the parking lot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] skating together?",
+        "answer": [
+            "Because [person_2] wants to water the plants.",
+            "Because [person_1] wants to use the cola to open the beer.",
+            "[person_1] and [person_2] are preparing for a concert.",
+            "Maybe [person_1] does the guitar for fun.",
+            "[person_1] and [person_2] are double roller skating."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop playing the flute.",
+            "[person_1] is going to fall.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] will stand here."
+        ],
+        "reason": [
+            "[person_1] used the tape on the table.",
+            "[person_1] just eats food and then he will drink beer.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] is off balance.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "People will leave to find a place to shelter from the rain.",
+            "[person_1] and [person_2] will get caught in the rain.",
+            "[person_1] and [person_1] will set up a tent.",
+            "[person_1] won't be able to continue his practice.",
+            "[person_1] and [person_2] may stop skating."
+        ],
+        "reason": [
+            "[person_2] and [person_2] will get wet.",
+            "[person_1] and [person_1] are outside and don't have umbrella.",
+            "[person_1] and [person_1] will get wet.",
+            "The roller skating rink is wet.",
+            "This is a picnic."
+        ]
+    }
+}

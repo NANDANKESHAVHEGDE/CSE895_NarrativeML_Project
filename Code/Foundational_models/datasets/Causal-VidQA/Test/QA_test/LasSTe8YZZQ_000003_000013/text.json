@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] tying a water bottle on his back?",
+        "answer": [
+            "Because [person_1] is practicing standing on hands.",
+            "[person_1] is doing prenatal yoga.",
+            "[person_1] is shaving for [person_1] .",
+            "Because it is a tool for weaving and [person_1] is doing it.",
+            "[person_1] is washing his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to put shampoo in his hair."
+        ],
+        "reason": [
+            "[person_1] just looked back.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] was blocked by the door.",
+            "[person_1] is turning the page.",
+            "[person_1] still hasn't used shampoo."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bottle runs out of water?",
+        "answer": [
+            "Perhaps [person_1] will bring to an end the exercising.",
+            "[person_1] and [person_1] will watch TV.",
+            "[person_1] will pour more water into the bottle.",
+            "The pig will be dirty.",
+            "[person_1] will be sad."
+        ],
+        "reason": [
+            "[person_1] will need more water to continue washing his hair.",
+            "[person_1] is too young so he needs an adult to accompany.",
+            "It looks like that [person_1] has been talking on his phone for ages.",
+            "The room will be dark and open the window to light the room.",
+            "The microphone will be off and the kitchen will be dark."
+        ]
+    }
+}

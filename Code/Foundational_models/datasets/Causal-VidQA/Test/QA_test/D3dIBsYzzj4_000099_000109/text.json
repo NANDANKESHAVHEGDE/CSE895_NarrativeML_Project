@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3]?",
+        "answer": [
+            "The [person_2] is placed on the left of [person_1].",
+            "[person_2] is standing on the left hand side of [person_1].",
+            "The [person_1] is between the [person_3] and the wall.",
+            "[person_3] is in between [person_1] and [person_2].",
+            "The [person_1] is in the left of the refrigerator."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people performing the same thing?",
+        "answer": [
+            "For spiting out the bottle cap.",
+            "This is a gym for many people.",
+            "[person_1] is trying to press juice from oranges.",
+            "[person_2] is concentrating on playing the guitar.",
+            "They perform as a team."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] keeps standing there.",
+            "[person_3] may get up from his chair.",
+            "[person_3] will launch his curling.",
+            "[person_3] is going to perform the same as [person_1] and [person_2].",
+            "[person_3] may drink some water."
+        ],
+        "reason": [
+            "[person_3] is holding the bottle cap.",
+            "[person_3] is holding the [person_3]'s hand.",
+            "Because [person_3] is leaving the cart and walking forward.",
+            "Because [person_3] and [person_3] have no sign of stopping dancing.",
+            "They are a team performing together."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no music there?",
+        "answer": [
+            "[person_2] would have a fall.",
+            "The lights will be open.",
+            "The [person_3] will not choose to perform.",
+            "They will dance unevenly.",
+            "[person_2] may fall from the table."
+        ],
+        "reason": [
+            "Steel is sturdy.",
+            "They will dance without feeling the rhythm.",
+            "They can not dance without the music.",
+            "Because the water of onion is spicy.",
+            "[person_3] wants to own all that wine bottles."
+        ]
+    }
+}

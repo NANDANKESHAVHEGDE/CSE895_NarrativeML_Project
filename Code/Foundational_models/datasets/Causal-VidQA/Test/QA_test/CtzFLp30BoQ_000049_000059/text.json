@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the pool.",
+            "[person_1] and [person_2] are in the recording studio.",
+            "[person_1] and [person_2] are in the gym.",
+            "[person_1] and [person_2] are on the schoolyard.",
+            "[person_1] and [person_2] are on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a sword?",
+        "answer": [
+            "[person_1] is feeling shy.",
+            "Because [person_1] is practicing snatching weight lifting.",
+            "Because when [person_1] is snatching weight lifting , [person_1] needs the weight lifting.",
+            "To lift the shirt in [person_1]'s hand to look at it.",
+            "[person_2] is helping [person_1] swallow the sword."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] plays again.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to show more.",
+            "[person_1] is going to lift slowly.",
+            "[person_1] will check the result."
+        ],
+        "reason": [
+            "[person_1] is bowing.",
+            "[person_1] is jumping very high.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] had a very interesting performance.",
+            "[person_1] is not going to stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a boy wants to learn to swallow swords?",
+        "answer": [
+            "The driver will run away immediately.",
+            "[person_1] will be shocked.",
+            "[person_1] will be sent to the hospital.",
+            "[person_1] will refuse to teach.",
+            "[person_1] would keep on shaving."
+        ],
+        "reason": [
+            "Because most children choose to escape in the face of fear.",
+            "[person_2] is still afraid of touching the snake.",
+            "The [person_1] is flat and can not hold a big snow.",
+            "Children should not learn to swallow swords because it is dangerous.",
+            "Maybe the pigeons would fly away from him because [person_2] scares them."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [car_1]?",
+        "answer": [
+            "Black.",
+            "[car_1] and [car_1] are at the workshop.",
+            "[car_1] is white.",
+            "It's green.",
+            "The [car_1] is pink and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is squeezing oranges with a juicer.",
+            "[person_1] is talking about how to tie a bow.",
+            "[person_1] is enjoying the melody of didgeridoo.",
+            "[person_1] is here to tag the graffiti.",
+            "[person_1] is playing kickball with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to kick the ball back to a friend on the opposite side.",
+            "[person_1] is seemingly coming up with team's tactics.",
+            "[person_1] intends to teach [person_1] how to dance.",
+            "[person_1] has an intention of playing with the flute.",
+            "[person_1] intends to take a break."
+        ],
+        "reason": [
+            "The headphone is in [person_1]'s head.",
+            "There is a rope and [person_1] is holding the rope in [person_1]'s hand.",
+            "[person_1] is holding the hula hoop on the hands.",
+            "[person_1] is holding the camera.",
+            "[person_1] kick the ball back to a friend but [person_1] but his feet didn't touch the ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] won't be able to ski.",
+            "[person_1] may not dance anymore.",
+            "[person_1]'s team will lose.",
+            "It is probable that [person_1] will not continue playing kickball with friends.",
+            "[person_1] will be injured."
+        ],
+        "reason": [
+            "[person_1] needs to help.",
+            "[person_1] is a baby.",
+            "[person_1] and [person_1] are a team.",
+            "There is no protective pad on the ground.",
+            "Maybe [person_1]'s leg hurts."
+        ]
+    }
+}

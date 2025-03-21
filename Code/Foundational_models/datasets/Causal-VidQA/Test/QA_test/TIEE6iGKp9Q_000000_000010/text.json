@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on the left of [cup_1].",
+            "[cup_1] is on the [dining table_1].",
+            "[cup_1] is on the table and behind [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] smiling?",
+        "answer": [
+            "[person_3] is looking at [person_2] when he laughs.",
+            "[person_2] does parkour by jump over the balconies.",
+            "[person_3] controls the guitar and feels the music as well.",
+            "[person_3] is about to play didgeridoo.",
+            "[person_2] is playing didgeridoo to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will huddling with the team.",
+            "[person_1] may go back home.",
+            "[person_1] is going to open present.",
+            "[person_1] may continue to tickle [person_2].",
+            "[person_1] is going to need a break."
+        ],
+        "reason": [
+            "[person_1] is holding a candy pack.",
+            "When [person_1] tickles [person_2] , he seems happy so she may continue to do it.",
+            "[person_1] wants to see the pig.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is moving to the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not pay attention to [person_2]?",
+        "answer": [
+            "[person_1] will cook by herself.",
+            "The machine may hit [person_1]'s foot.",
+            "[person_2] may fall from the table.",
+            "[person_1] may find other bags or a suitcase to pack his clothes.",
+            "They'll be nervous."
+        ],
+        "reason": [
+            "[person_1] is using both his hands to keep the banana , so the banana can't tumble on the ground.",
+            "Because [person_1] needs something to put his clothes in.",
+            "Because they can learn from their teacher.",
+            "[person_1] will focus on the road.",
+            "[person_2] is sitting on a very high table so it is important for [person_1] to be careful."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the clothes is [person_1] wearing?",
+        "answer": [
+            "It's orange.",
+            "The shirt is white.",
+            "[person_1] is a male.",
+            "[person_1] is standing to stack the dice.",
+            "[person_1] is holding a pair of cymbals."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the ground?",
+        "answer": [
+            "[person_1] wants to throw the ball higher.",
+            "There some information that the [person_1] can read.",
+            "Because he lost the game.",
+            "[person_1] puts his hand on his eyes because he has eyestrain.",
+            "[person_1] is playing with the maraca."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after losing the game?",
+        "answer": [
+            "[person_1] is going to bed.",
+            "[person_1] will get up to play again.",
+            "[person_1] will continue to install other boards.",
+            "[person_1] will leave and have a rest.",
+            "[person_1] will pick it up first and continue practicing."
+        ],
+        "reason": [
+            "Because the man who is exercising is too tired.",
+            "[person_1] seems to be on a show and does not finish the performance.",
+            "Because [person_1] cannot throw the hammer hard enough.",
+            "No one will lie on the ground for a long time.",
+            "[person_1] seems to be on a competition."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] loses the game?",
+        "answer": [
+            "[person_2] wouldn't be on the news.",
+            "[person_2] would lie on the ground , too.",
+            "[person_2] will practice very hard.",
+            "[person_2] would lie on the building , too.",
+            "[person_2] will not appear on stage."
+        ],
+        "reason": [
+            "This is the rule.",
+            "It's necessary to practice hard before competition.",
+            "This is against the rule.",
+            "It's good to have more people climbing together.",
+            "Because dancing can make person happy."
+        ]
+    }
+}

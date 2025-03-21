@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is introducing the corkscrew.",
+            "[person_1] is tying a bow on [person_2]'s neck.",
+            "[person_1] is playing with a sledgehammer.",
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] is recording his fingers playing an electric guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] need help from [person_1]?",
+        "answer": [
+            "Because they find it interesting.",
+            "[person_1] has a short rope.",
+            "Because [person_1] finished in short time.",
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "[person_2] may not know how to tie a bow for himself."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do next?",
+        "answer": [
+            "[person_2] may have to help [person_1] dig the pit.",
+            "[person_2] is going to keep eating the cake.",
+            "[person_2] is going to help [person_1] pick up the crossbar.",
+            "[person_2] may sing.",
+            "[person_2] is going to wait for [person_1] to help him tie the bow."
+        ],
+        "reason": [
+            "[person_2] always tries to move forward.",
+            "[person_2] has observed the performance of [person_2] and held his hand on the chair to raise his lower body.",
+            "[person_2] is standing here straightly and does not move.",
+            "It appears that it is the regular activity of [person_2] . ",
+            "[person_2] is moving forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not here to help [person_2]?",
+        "answer": [
+            "[person_1] will not cut its nail.",
+            "[person_2] may fall or hit somewhere.",
+            "[person_1] will pick it up.",
+            "The bow tie might turn out to be worse.",
+            "[person_2] will feel hurt."
+        ],
+        "reason": [
+            "Because [person_1] wouldn't be able to water the plant without water.",
+            "Because [person_1] is not happy for not being allowed to eat.",
+            "Because the [person_2] may have some problems that make [person_1] can't zip it up.",
+            "[person_1] and [person_2] could not be able to do the movement they were doing because they couldn't keep their balance.",
+            "Because [person_1] would not be able to help [person_2] in tying his bow."
+        ]
+    }
+}

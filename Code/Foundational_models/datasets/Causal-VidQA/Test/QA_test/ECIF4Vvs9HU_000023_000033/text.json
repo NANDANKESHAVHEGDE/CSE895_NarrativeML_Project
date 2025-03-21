@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym.",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have \u00a0 a pencil \u00a0 in his hand?",
+        "answer": [
+            "[person_1] doesn't have a car.",
+            "[person_1] is curious about the thing inside the box.",
+            "[person_1] wants to sharpen the pencil.",
+            "Because [person_1] is putting a ring on his finger.",
+            "Because it's interesting in winter."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep jumping by her left foot.",
+            "[person_1] is going to continue stretching herself .",
+            "[person_1] is going to put the [person_1] into the [person_1].",
+            "[person_1] is going to sharpen the pencil.",
+            "[person_1] will take out the tiles to fix the floor."
+        ],
+        "reason": [
+            "[person_1] is passing a beer bottle to the man in front of him.",
+            "[person_1] raised his hand with a knife.",
+            "[person_1] is in the middle of his performance.",
+            "[person_1] ground the stone into a shape.",
+            "On his right hand is a pencil sharpener."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes sharpening the pencil ?",
+        "answer": [
+            "[person_1] will throw a picture.",
+            "The baseball may fly over [person_1]'s head.",
+            "[person_1] will draw a picture.",
+            "[person_1] may get hurt.",
+            "[person_1] will draw a king."
+        ],
+        "reason": [
+            "That's not the uses of a pencil.",
+            "Children usually like that.",
+            "That's one of the waste of a pencil.",
+            "[person_1] won't pump gas into the car.",
+            "That's one of the uses of a pencil."
+        ]
+    }
+}

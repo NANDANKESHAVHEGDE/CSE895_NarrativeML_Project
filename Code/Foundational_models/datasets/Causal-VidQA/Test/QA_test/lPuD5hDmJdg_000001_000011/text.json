@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_2] doing?",
+        "answer": [
+            "The [person_2] is on the phone.",
+            "The [person_2] is staring at the [person_2].",
+            "Yes , [person_2] wears a white hat.",
+            "The [person_2] and [person_2] are turning around.",
+            "The [person_2] and [person_2] are playing roller skating."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_3] take the chair?",
+        "answer": [
+            "[person_3] wants to show her pencil.",
+            "[person_3] lean forward to see what [person_3] is doing.",
+            "[person_3] and [person_3] swung the rope for [person_3] to jump.",
+            "To make the snowman more beautiful.",
+            "The [person_3] wants to sit down."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to pour the bottle to the glass.",
+            "The [person_1] may place the [person_1] in the house.",
+            "The [person_1] is going to dry the table.",
+            "The [person_1] may stop walking on the stilts for a while.",
+            "The [person_1] may skate around one more time."
+        ],
+        "reason": [
+            "The [person_1] has just closed the faucet and turned behind.",
+            "The [person_1] , whom the [person_1] is following , is still riding.",
+            "The [person_1] skates in a circle , then turns around as the [person_1] goes.",
+            "The [person_1] has finished washing the square plate.",
+            "The [person_1] sits on the couch for playing accordion."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] rides bike here?",
+        "answer": [
+            "[person_2] will stand up.",
+            "[person_2] will sit down on the chair.",
+            "The [person_2] will not be able to ride because everyone is skating.",
+            "[person_2] will lie on the couch.",
+            "The birds might fly away."
+        ],
+        "reason": [
+            "Because [person_2] and [person_2] seems to be friends.",
+            "In order to prevent [person_2] and [person_2] from colliding , [person_2] will stop moving immediately.",
+            "It is very dark and [person_2] is a child . [person_2] only sits alone.",
+            "The [person_2] has conversations on the phone.",
+            "According to the size of the hand , [person_2] is an adult , he will take care of himself."
+        ]
+    }
+}

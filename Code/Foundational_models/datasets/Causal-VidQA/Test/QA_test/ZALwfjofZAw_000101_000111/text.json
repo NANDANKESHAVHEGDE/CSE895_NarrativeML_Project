@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] and [chair_2]?",
+        "answer": [
+            "The [person_1] is behind [person_1].",
+            "[chair_1] and [chair_2] are behind [person_1].",
+            "The [chair_2] is behind [chair_2].",
+            "[person_1] is directly in front of [person_1].",
+            "The [person_1] is on the grass."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is playing his bagpipes for the people in the room with him.",
+            "The large square is specific for cars.",
+            "[person_1] is playing the songs.",
+            "[person_1] is doing pull - up.",
+            "Because it is cold."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will finish talking and then record himself doing another guitar technique.",
+            "[person_1] will finish playing his song and then leave through the exit next to him.",
+            "[person_1] will continue playing his song on his guitar until he is done.",
+            "[person_1] will finish showing off his musical talent by playing the entire song and then finish.",
+            "[person_1] will instruct the class to hold this yoga position for a little bit longer , then let them relax and release their foot."
+        ],
+        "reason": [
+            "[person_1] is playing his instrument far away from everyone and close to the exit so he can leave when he's done playing.",
+            "[person_1] lost her balance and fell on her face into the sand , so she would want to get back up after falling.",
+            "[person_1] is acting silly playing the bagpipes ; once he's finished , he will get tired and relax on the couch.",
+            "[person_1] would want the camera to get a good view of her work so that it looks tasty and people will book tickets to her show.",
+            "[person_1] could be a sheep farmer so , he would have multiple sheep in need of being sheered."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen the legs of [person_1] started to get tired from standing for so long?",
+        "answer": [
+            "[person_1] wouldn't be able to play.",
+            "[person_1] will stop exercising and sit down on the chair.",
+            "[person_1] will not do his homework.",
+            "[person_1] would go grab [chair_1] and put it behind him to sit on it while he plays.",
+            "[person_1] might have to play alone."
+        ],
+        "reason": [
+            "[person_1] will continue to play then.",
+            "[person_1] would want to be comfortable while he plays if the song he's playing is long.",
+            "[person_1]'s books are all in his bag.",
+            "[person_1] might not want help because he is a child , and doing it alone would make him feel grown.",
+            "[person_1] has no health problems."
+        ]
+    }
+}

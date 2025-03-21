@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is T - shirt of [person_1]?",
+        "answer": [
+            "Four.",
+            "Green.",
+            "[person_1] is on the road.",
+            "The [person_1] is big.",
+            "Orange."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] feel about mowing?",
+        "answer": [
+            "[person_1] is performing skating.",
+            "[person_1] spreads his arms to keep balance.",
+            "[person_1] feels so right.",
+            "[person_1] is in a party.",
+            "To bring the right eye into focus."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to mow the lawn.",
+            "[person_1] will go on drilling.",
+            "Perhaps [person_1] will keep shaking the maracas.",
+            "[person_1] will go on driving the snow blower forward.",
+            "[person_1] will shuffle the cards."
+        ],
+        "reason": [
+            "[person_1] did a stupid action.",
+            "[person_1] is playing very professionally.",
+            "[person_1] is recording a video of mowing.",
+            "[person_1] catch the ball and bounce it to the floor.",
+            "[person_1] is practicing hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "If the lawn mower runs out of power , what will [person_1] do?",
+        "answer": [
+            "The driver of [person_1] will overtake the [person_1] easily.",
+            "Maybe [person_1] will rush to the [person_1].",
+            "The [person_1] will fall off the [person_1].",
+            "[person_1] and [person_1] will be injured.",
+            "[person_1] will go home\uff0e"
+        ],
+        "reason": [
+            "Because the people needs to be examined about the hurt.",
+            "[person_1] wants to have a neat room.",
+            "[person_1] can charge the lawn mower at home.",
+            "The machine held by [person_1] needs electricity to operate.",
+            "[person_1] will check the power supply."
+        ]
+    }
+}

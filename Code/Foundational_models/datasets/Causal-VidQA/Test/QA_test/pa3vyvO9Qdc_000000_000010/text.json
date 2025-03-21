@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [bottle_1] and [bottle_2]?",
+        "answer": [
+            "The bucket of the [bottle_1] is brown.",
+            "The bucket of the [bottle_1] is red.",
+            "[bottle_1] and [bottle_2] are above the sink.",
+            "Yes , the [bottle_2] is . The [bottle_2] is sitting on the floor.",
+            "The [bottle_2] looks big and tall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] repeat that movement over and over?",
+        "answer": [
+            "[person_1] is exercising.",
+            "[person_1] and [person_1] may be in a competition.",
+            "[person_1] does not exhale the smoke.",
+            "To make [person_1]'s voice bigger.",
+            "[person_1] is satisfied with the performance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop practicing.",
+            "[person_1] is going to step forward.",
+            "[person_1] continues to practice.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "To cut [person_1] into small pieces.",
+            "Because [person_1] is getting the bee box.",
+            "Because [person_1] is going to chop something.",
+            "[person_1] has lifted up the container.",
+            "Because [person_1] wants to physical health training."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "[person_1] would fall on the yard.",
+            "[person_1] will never stop practicing.",
+            "[person_1] would fall or crash into the wall.",
+            "[person_1] will probably stop practicing.",
+            "[person_1] will be very sad."
+        ],
+        "reason": [
+            "It is afraid.",
+            "There is enough light to exercise.",
+            "To collect enough golfs for hitting.",
+            "There is not enough light to exercise.",
+            "The shearing machine needs electricity to work."
+        ]
+    }
+}

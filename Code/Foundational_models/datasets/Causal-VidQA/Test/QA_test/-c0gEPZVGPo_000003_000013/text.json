@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of [person_1]'s shirt?",
+        "answer": [
+            "[person_1]'s shirt is white.",
+            "[person_1]'s cup is actually long.",
+            "Black.",
+            "[person_1] is driving [person_1] with no hands.",
+            "[person_1] has a golden brown hair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] lean forward a bit?",
+        "answer": [
+            "[person_1] lean forward to show the camera that [person_1] stuck out [person_1]'s tongue.",
+            "Perhaps [person_1] tiptoes and lunges forward to throw the ball into the cup easier.",
+            "The [person_1] is practicing how to play basketball.",
+            "Maybe [person_1] is the person throwing the ball in cups first.",
+            "Maybe because [person_1] feel cold."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] up to next?",
+        "answer": [
+            "[person_1] will continue to stick his tongue out.",
+            "[person_1] is going to drink beer.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to continue looking at the newspaper.",
+            "[person_1] is planning to play glass ball."
+        ],
+        "reason": [
+            "The [person_1] has just waved to someone.",
+            "[person_1] has good ski technique and is skiing very well.",
+            "[person_1] was about to fall backward so [person_1] needed to keep balanced.",
+            "[person_1] will continue to stick his tongue out because [person_1] has retracted his tongue a little and tend to stick it out.",
+            "[person_1] looks very enjoy swimming with [person_1] and [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't stick out his tongue?",
+        "answer": [
+            "[person_1] would be injured.",
+            "[person_1] would practice once more time.",
+            "[person_1] might be fussy.",
+            "[person_1] might not enjoy the moment there.",
+            "[person_2] wouldn't stick out his tongue."
+        ],
+        "reason": [
+            "[person_1] might be fussy because [person_1] shows extreme pleasure when touching it.",
+            "[person_2] maybe release the air.",
+            "[person_2] wouldn't stick out his tongue because [person_2] found it interesting so he imitated [person_1].",
+            "Because [person_1] feels unhappy that [person_1] cannot eat the cake anymore.",
+            "The [person_1] is on a height above the ground."
+        ]
+    }
+}

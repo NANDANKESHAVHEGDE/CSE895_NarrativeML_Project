@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How's the weather ?",
+        "answer": [
+            "He is with a smiling face.",
+            "[person_1] and [person_1] are in the garden.",
+            "It's sunny.",
+            "[person_2] and [person_2] are on the street.",
+            "[person_1] and [person_1] are in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing in the yard?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] is demonstrating different ways to exercise.",
+            "[person_1] and [person_2] are playing together.",
+            "Because she has to use it to cut the sushi.",
+            "[person_1] wants to increase the friction between his hand and the bottle."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may stand up and clap his hand.",
+            "[person_2] is going to find a place to sit down.",
+            "[person_2] is going to pour water on himself.",
+            "[person_2] is going to stop the rehearsal.",
+            "[person_2] will go on kicking [person_2]."
+        ],
+        "reason": [
+            "[person_2] flipped the cake failed and it splattered all over the table so she has to clean it.",
+            "[person_2] walks very carefully and almost falls down in the end , which means he needs more practice.",
+            "[person_2] is moving towards [person_1].",
+            "[person_1] just did that and [person_1] is pumping the water again.",
+            "Since [person_1] has finished jumping , it may be [person_2]'s turn to jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] play with water for too long?",
+        "answer": [
+            "[person_2] and [person_1] would ask him to come back.",
+            "[person_1]'s team will be upset.",
+            "[person_1] and [person_2] might catch a cold.",
+            "[person_1] will fall on the buoy mattress.",
+            "[person_1] will open the curtain."
+        ],
+        "reason": [
+            "[person_1] and [person_2] shouldn't do that for too long.",
+            "[person_1] is the only worker who is on work now . And if [person_1] does not clean it , she may step on the glass which will be dangerous.",
+            "The weights is heavy.",
+            "It is too hot.",
+            "Because they regard [person_1] as good dance tutor."
+        ]
+    }
+}

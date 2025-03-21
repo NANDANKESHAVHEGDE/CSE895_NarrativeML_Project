@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "White.",
+            "[person_1] hair looks a bit curly.",
+            "[person_1] is in the living room.",
+            "[person_1] is in the textile factory.",
+            "[person_1] is in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing?",
+        "answer": [
+            "[person_1] is jumping to throw the ball.",
+            "[person_1] is playing basketball inside a room.",
+            "[person_1] kicked the sandbag hard.",
+            "[person_1] is watching [person_1].",
+            "[person_1] can't hold the guitar if she's standing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to throw the ball.",
+            "[person_1] is going to share something about riding [person_1].",
+            "To borrow the bubble machine from [person_1].",
+            "[person_1] will stop playing the electric guitar.",
+            "[person_1] is going to squeeze more oranges."
+        ],
+        "reason": [
+            "[person_1] is not stable and makes [person_1] fall off.",
+            "[person_1] needs to wash his face after shaving.",
+            "[person_1] is reloading a gun.",
+            "[person_1] tends to raise his arms and [person_1] is looking at the basketball hoop.",
+            "Maybe [person_1] has woven a lot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is higher?",
+        "answer": [
+            "[person_1] will not be pink.",
+            "[person_1] can throw the ball into the basketball hoop.",
+            "His teeth would be hurt.",
+            "[person_1] would be sad.",
+            "The [person_1] will perform this song."
+        ],
+        "reason": [
+            "the basketball hoop is really short and easy to be reached.",
+            "They have to say goodbye,",
+            "[person_1] needs to rest.",
+            "Because if [person_1] didn't hit the ball , he didn't score in this round.",
+            "Everyone is playing."
+        ]
+    }
+}

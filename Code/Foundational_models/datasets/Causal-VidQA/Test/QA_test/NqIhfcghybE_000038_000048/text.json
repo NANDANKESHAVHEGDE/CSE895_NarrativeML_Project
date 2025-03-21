@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a black T - shirt.",
+            "[person_1] is wearing a white stripes shirt.",
+            "[person_1] is standing behind [person_1].",
+            "Two.",
+            "[person_1] is in a sitting position."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] smile?",
+        "answer": [
+            "[person_2] hit the same cup in beer pong.",
+            "[person_2] is happy.",
+            "[person_2] swings her arms to keep balance.",
+            "[person_2] needed to grab the bar.",
+            "[person_2] is frustrated about stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next after this practice?",
+        "answer": [
+            "[person_1] and [person_2] will dump them in the dirt mound back there.",
+            "[person_1] will eat the them.",
+            "[person_1] will drink coconut water.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] would go to the manager."
+        ],
+        "reason": [
+            "Because those boards are the cabinet doors.",
+            "[person_1] is tired.",
+            "[person_2] has known how to play the clarinet.",
+            "[person_1] sits on [person_1] and uses the legs to pedal.",
+            "[person_1] and [person_2] have to go home for rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] had not known how to play the clarinet?",
+        "answer": [
+            "[person_2] would learn how to wear a sari.",
+            "[person_1] and [person_2] would continue practicing.",
+            "It would get burnt.",
+            "[person_1] will be cheered.",
+            "[person_1] would not be hit."
+        ],
+        "reason": [
+            "When the person who is wearing the number 7 misses the ball , the person who is standing in front of the goal can steal it.",
+            "Because it is a normal human behavior.",
+            "[person_1] wants to practice before recording.",
+            "[person_1] is not be able to play the clarinet.",
+            "[person_1] is playing the harmonica in the bathroom."
+        ]
+    }
+}

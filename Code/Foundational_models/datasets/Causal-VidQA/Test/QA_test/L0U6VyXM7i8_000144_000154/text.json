@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is next to the table.",
+            "It is in front of the yellow curtain.",
+            "[couch_1] is next to the window.",
+            "It is on the table.",
+            "[couch_1] is sitting on the [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] skipping the rope the same as [person_2] and [person_3] do.",
+        "answer": [
+            "[person_1] is concerned about making crafts.",
+            "[person_1] is skipping rope in a team.",
+            "[person_2] is taking care of children.",
+            "[person_1] feels comfortable while exercising.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to do change her foot to jump repeatedly.",
+            "[person_1] is highly likely to enthusiastically perform.",
+            "[person_1] tends to practice the guitar.",
+            "[person_1] tends to keep dancing.",
+            "[person_1] is tends to stop practicing."
+        ],
+        "reason": [
+            "[person_1] is repeating the movements.",
+            "[person_1] looked the cup , raised the ball and tiptoed.",
+            "[person_1] is in the middle of that jumping rope type.",
+            "[person_1] wants to make it perfect.",
+            "[person_1] is still infatuated with the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the rope breaks?",
+        "answer": [
+            "It is possible that [person_1] will stop skipping rope.",
+            "[person_1] will take it away.",
+            "[person_1] would have to turn some lights on near where [person_1] worked.",
+            "[person_1] will be frightened.",
+            "The [person_1] will call the bank to have them come and repair it."
+        ],
+        "reason": [
+            "[person_1] will need another rope to continue jumping rope.",
+            "When the performer rides the jet ski , many people watch attentively.",
+            "There is not enough whipped cream to make a complete cake.",
+            "The saddle of the [person_1] is quite high for the [person_1].",
+            "It is possible that [person_1] will find it."
+        ]
+    }
+}

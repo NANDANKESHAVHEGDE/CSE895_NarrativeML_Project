@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [refrigerator_1]?",
+        "answer": [
+            "[refrigerator_1] is next to [refrigerator_2].",
+            "[refrigerator_1] is in a garage.",
+            "[refrigerator_1] is to [refrigerator_1] right.",
+            "No.",
+            "[refrigerator_1] is parked on the runway behind [refrigerator_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving around?",
+        "answer": [
+            "[person_1] wants to open the box.",
+            "[person_1] is running around to play basketball.",
+            "Because she is watching [person_1] and [person_1].",
+            "Because [person_1] is opening birthday presents.",
+            "They practice a lot."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] may pick the ball fell on the ground.",
+            "[person_1] is going to interpret what the live is saying.",
+            "[person_1] is going to show some hooping skills.",
+            " [person_1] will continue dealing with the sheep.",
+            "[person_1] will rotate the compass."
+        ],
+        "reason": [
+            "Because [person_1] hasn't changed her posture and left the machine.",
+            "The ball is falling onto the ground.",
+            "Because [person_1] still holds the handle of the machine.",
+            "It appears that [person_1] would like to build up the body through this way.",
+            "[person_1] seems to improve his skill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is taller?",
+        "answer": [
+            "The fishes may not care about [person_1].",
+            "He will keep chase the kid.",
+            "[person_1] doesn't need to jump too much to throw the ball.",
+            "[person_1] may not keep playing.",
+            "[person_1] may explore a lot of new things."
+        ],
+        "reason": [
+            "The throat of [person_1] was sore so he couldn't get the breath to play the flute.",
+            "Maybe [person_1] will be injured.",
+            "Because [person_1] doesn't know how to drive and so some bad things may happen.",
+            "When [person_1] feels tired , she needs to take a break and get some energy.",
+            "[person_1] is a child and too short , so [person_1] needs to jump to throw the ball."
+        ]
+    }
+}

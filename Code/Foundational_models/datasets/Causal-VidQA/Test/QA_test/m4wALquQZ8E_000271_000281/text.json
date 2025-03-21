@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [keyboard_1] placed in the room?",
+        "answer": [
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is sitting on the sofa.",
+            "[keyboard_1] is placed on the table beside [person_1].",
+            "[person_1] is in the bathroom.",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a bass guitar?",
+        "answer": [
+            "[person_1] is playing bass guitar.",
+            "[person_1] is sitting on a very high chair , so [person_1] has to stand to clean the shoes easily.",
+            "[person_1] is performing didgeridoo.",
+            "[person_1] always keeps his head down to look at the guitar.",
+            "[person_1] has opened the coco easily with the tool."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "Maybe [person_1] is going to draw a moon.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] will play a bass guitar solo for a while.",
+            "[person_1] may not eat the egg."
+        ],
+        "reason": [
+            "[person_1] fell under the bed.",
+            "[person_1] is a beginner.",
+            "[person_1] is a coach.",
+            "[person_1] is striking bass guitar strings.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is an electricity cutoff in the room?",
+        "answer": [
+            "The computer on the table next to [person_1] will turn off.",
+            "It will turn to many water drops and float in the capsule.",
+            "These people will escape from the house quickly.",
+            "The goat may not be near [person_1] and will be with other people who feed it.",
+            "The [person_1] and [person_1] will ensure the yard's flatness."
+        ],
+        "reason": [
+            "It will not be suitable for the children's play area.",
+            "The computer runs on electricity.",
+            "The dog is very cute.",
+            "To smoke , you must have a smoking pipe.",
+            "Meat with worms cannot be eaten."
+        ]
+    }
+}

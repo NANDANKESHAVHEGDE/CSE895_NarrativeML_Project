@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a checkered shirt.",
+            "[person_1] is wearing a jacket.",
+            "[person_1] is in a room.",
+            "[person_1] is wearing a sunglasses.",
+            "[person_1] is wearing a traditional costume."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a traditional costume?",
+        "answer": [
+            "Maybe [person_1] is \u00a0 practicing the lute - playing skills.",
+            "Because [person_1] is performing bagpipe.",
+            "[person_1] is nearsighted.",
+            "Because [person_1] loves [person_1]'s cap.",
+            "Because [person_1] wants to ski safely."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] will separate the legs.",
+            "[person_1] is going to finish decorating the left ledge.",
+            "[person_1] will massage at [person_1]'s back.",
+            "[person_1] will rotate the compass.",
+            "[person_1] is going to keep performing."
+        ],
+        "reason": [
+            "Because [person_1] hasn't finished.",
+            "[person_1] tries to hula hoop as long as possible.",
+            "[person_1] is still playing bagpipe at the end of the video.",
+            "Because the boat hasn't stopped , the boat still moves away from the dock.",
+            "[person_1] 's bag has been full."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not wear traditional costume?",
+        "answer": [
+            "[person_1]'s performance would not be as complete.",
+            "[person_1] may do housework all the time.",
+            "[person_1]'s performance would be as complete.",
+            "[person_1] may be able to realize the liquid in his cup without tasting it.",
+            "[person_1]'s performance would not be as imcomplete."
+        ],
+        "reason": [
+            "[person_1] is not perform a traditional type of art.",
+            "It is so boring to dance and snap finger alone.",
+            "[person_1] is perform a modern type of art.",
+            "[person_1] jumped in the stadium.",
+            "[person_1] is perform a traditional type of art."
+        ]
+    }
+}

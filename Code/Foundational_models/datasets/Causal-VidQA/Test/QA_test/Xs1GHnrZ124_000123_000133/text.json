@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "No.",
+            "It is on the ground and next to [person_1] right foot.",
+            "The [person_1] is behind [person_1].",
+            "[bottle_1] is next to [person_1].",
+            "[bottle_1] is on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a guitar?",
+        "answer": [
+            "[person_1] thinks the inhaler is interesting.",
+            "[person_1] wears a watch to see the time.",
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] is playing the guitar.",
+            "[person_1] blows the clarinet attentively."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is predicted that [person_1] will go on folding other clothes.",
+            "[person_1] may throw the frisbee on one side of the road to the other.",
+            "[person_1] will pour champagne into the goblet in the man's hand who wears a pair of glasses.",
+            "It is foreseen that [person_1] is going to continue to play.",
+            "[person_1] is likely to hold the ice hockey stick and hit the puck."
+        ],
+        "reason": [
+            "[person_1] is very focused on playing the guitar.",
+            "[person_1] is bound to keep singing/",
+            "[person_1] has removed the foil on the cork.",
+            "[person_1] will raise his right hand to hit the keys above the guitar.",
+            "Because [person_1] prepared to eat the food with a fork."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the guitar is broken?",
+        "answer": [
+            "The [person_1] will not take much time to get the potatoes out of the potatoes rubbish.",
+            "The people beside [person_1] will hold it for [person_1].",
+            "Perhaps [person_1] will buy a new guitar.",
+            "[person_1] will be sad.",
+            "[person_1] will get another knife."
+        ],
+        "reason": [
+            "[bottle_1] may be teased by others.",
+            "The old guitar doesn't sound great.",
+            "[bottle_1] wants to have a good performance.",
+            "The camera is behind the [person_1].",
+            "The cows ruined the barn."
+        ]
+    }
+}

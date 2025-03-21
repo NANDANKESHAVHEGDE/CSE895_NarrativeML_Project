@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] and [person_2]?",
+        "answer": [
+            "It is very clean and neat.",
+            "[person_1] is placed near the sink.",
+            "[person_1] and [person_2] are in the factory.",
+            "No.",
+            "Four people are doing tai chi."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_2] is ripping paper.",
+            "Because [person_1] wants to propose to her.",
+            "[person_2] is skipping rope with other people.",
+            "[person_1] and [person_2] are cutting a big wood.",
+            "Because [person_2] needs a big room to play musical instruments with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to start cutting other woods.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to step forward."
+        ],
+        "reason": [
+            "[person_1] repeats the same action all the time.",
+            "[person_1] has finished making other hair.",
+            "[person_1] is trying to move the wood.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] finishes showing and thanks the audience."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] will stop raising his eyebrows.",
+            "[person_1] will stop raising her eyebrows.",
+            "[person_1] and [person_1] will not see anything.",
+            "[person_1] will wake up.",
+            "[person_1] will stop working."
+        ],
+        "reason": [
+            "Maybe [person_2] will find candles to light.",
+            "The machine will not keep cutting.",
+            "[person_2] will may stop talking.",
+            "[person_1] may go out to find the candle.",
+            "[person_2] will hug the man."
+        ]
+    }
+}

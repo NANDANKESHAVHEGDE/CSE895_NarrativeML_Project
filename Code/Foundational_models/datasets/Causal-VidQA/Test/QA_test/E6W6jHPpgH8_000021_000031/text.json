@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is in [car_1]'s hand.",
+            "[car_1] is near the [car_1].",
+            "[car_1] is parked by the sidewalk and close to [car_1].",
+            "[car_1] is parking near [car_2].",
+            "[car_1] is in front of the house door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing?",
+        "answer": [
+            "[person_1] is talking about his barber shop.",
+            "[person_1] is watching the band.",
+            "Because she is very happy for she successfully opens the beer by her hand.",
+            "Because he wants to open the beer by the stick hold in his hands.",
+            "[person_1] is playing basketball with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do next?",
+        "answer": [
+            "The runner's power goes out.",
+            "[person_1] will go to pick it up.",
+            "The other one will try riding too.",
+            "[person_1] may want to catch the ball.",
+            "[person_1] will clean her face."
+        ],
+        "reason": [
+            "[person_1] is walking toward the ball.",
+            "It interferes with his running.",
+            "Because he hasn't finished counting.",
+            "[person_1] is putting his tool in the lock.",
+            "[person_1] doesn't want to waste time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's raining?",
+        "answer": [
+            "[person_1] may stop playing basketball.",
+            "[person_1] might play basketball in the rain.",
+            "[person_1] will cough.",
+            "[person_1] may just watch [person_1].",
+            "[person_1] could win the game."
+        ],
+        "reason": [
+            "[person_1] is playing outside.",
+            "When the [person_1] falls , it will make a noise.",
+            "The adult will need to answer the phone call.",
+            "Because if [person_1] were not excited , [person_1] had no reason to take off the shirt.",
+            "When [person_1] step back , she almost hit [person_1]."
+        ]
+    }
+}

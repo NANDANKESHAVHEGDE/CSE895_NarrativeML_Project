@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the bed sheet like?",
+        "answer": [
+            "[cup_1] is on [dining table_1].",
+            "The guitar is white.",
+            "They are playing beer pong in the kitchen.",
+            "The background is white.",
+            "It is blue with white flowers."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hit the [person_2]?",
+        "answer": [
+            "[person_2] is smiling because she is excited about the two gifts she got for Christmas.",
+            "[person_1] is using the harp to practice.",
+            "[person_1] is saluting.",
+            "[person_2] has lost the game.",
+            "[person_2] peeled off the patch vigorously in the [person_1]'s chest."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after being hit by [person_1]?",
+        "answer": [
+            "[person_2] will go on playing.",
+            "It is possible that [person_1] is staying at his home.",
+            "[person_1] will keep on dancing.",
+            " [person_1] will have a quicker pace of the dance afterwards.",
+            "[person_1] may be in a working room."
+        ],
+        "reason": [
+            "Dancing could be very tiring.",
+            "If mixed , the color will be not even.",
+            "Because long brush hair will make it uncomfortable.",
+            "Because the rules of the game are agreed in advance.",
+            "That's what [person_1] and [person_2] did just before and there is no sign to change."
+        ]
+    },
+    "counterfactual": {
+        "question": "How does [person_2] feel If [person_2] keeps losing?",
+        "answer": [
+            "[person_2] will help [person_2].",
+            "[person_2] will win.",
+            "[person_2] will be hurt.",
+            "[person_2] might fall down.",
+            "[person_2] wouldn't play anymore."
+        ],
+        "reason": [
+            "To check what's wrong with it.",
+            "To see whether [person_2] gets hurt or not.",
+            "[person_2] loves the baby so much.",
+            "It hurts to be beaten all the time.",
+            "[person_2] got badly injured in the head."
+        ]
+    }
+}

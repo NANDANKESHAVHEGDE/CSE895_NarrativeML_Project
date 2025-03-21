@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is behind [person_1].",
+            "It is next to the [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] jump by [bicycle_1]?",
+        "answer": [
+            "[person_1] stands up to pick up the dice that is flown outside.",
+            "Because it's sunny , so [person_1] can play outside.",
+            "Because [bicycle_1] is tying a bow on his neck.",
+            "By waving the arms.",
+            "[person_1] want to use [bicycle_1] so well."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he makes the preparation?",
+        "answer": [
+            "[person_1] will keep washing the clothes by hands.",
+            "[person_1] will begin to ride [bicycle_1].",
+            "[person_1] will stop skating and leave the rink.",
+            "[person_1] will talk about the candle.",
+            "[person_1] will continue doing this exercise?"
+        ],
+        "reason": [
+            "It seems that [person_1] tries to move forward.",
+            "Because it was well treated with the help of the machine.",
+            "[person_1] has made her speech for a long time.",
+            "[person_1] seems to be trained by his personal trainer.",
+            "because it looks like [person_1] has fixed his hair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were fell?",
+        "answer": [
+            "[bicycle_1] would feel uncomfortable.",
+            "The person will get hurt.",
+            "Cigarettes won't light.",
+            "[person_1] would have difficulty sawing pieces of wood.",
+            "[bicycle_1] could break."
+        ],
+        "reason": [
+            "Because there are not any bubble water.",
+            "Lifting barbell is exhausting.",
+            "[person_1] could just picked it up.",
+            "Whether the performance is good or not depends on its score.",
+            "[person_1] could hurt and fall in the floor."
+        ]
+    }
+}

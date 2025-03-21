@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks old and thin.",
+            "[person_1] looks manly and handsome.",
+            "[person_1] looks thin.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] is so cute."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the [knife_1] ?",
+        "answer": [
+            "[knife_1] is playing the game.",
+            "Because [knife_1] of hand has a problem , maybe [knife_1] of hand is paralyzed and needs [person_1] help.",
+            "[person_1] and [person_1] are opening presents.",
+            "[person_1] and [person_1] are singing.",
+            "[person_1] is shaving himself."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to greet and thank the audience.",
+            "[person_1] is going to jump on [person_1].",
+            "[person_1] is going to proceed to spray all the ceiling.",
+            "[person_1] is going to shave and hang out.",
+            "[person_1] is going to see the gift."
+        ],
+        "reason": [
+            "Maybe [person_1] is getting ready to hang out.",
+            "[person_1] is going to small [person_1].",
+            "Because [person_1] is playing the ball and throwing it is his way to play it.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the [knife_1]?",
+        "answer": [
+            "[person_1] will be able to continue shaving.",
+            "[person_1]'s neck will hurt.",
+            "[person_1] won't be able to stop shaving.",
+            "[person_1] may cut into her hand.",
+            "[person_1] won't be able to continue shaving."
+        ],
+        "reason": [
+            "[person_1] won't need a new one.",
+            "Because the chair is next to [person_1] on the left.",
+            "[person_1] will need a new one.",
+            "[person_1] will turn away.",
+            "[person_1] loves the old one."
+        ]
+    }
+}

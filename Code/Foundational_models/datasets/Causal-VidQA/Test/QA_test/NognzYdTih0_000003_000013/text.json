@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a blue sweatshirt.",
+            "[person_1] is wearing a tank top.",
+            "[person_1] is wearing a superhero costume.",
+            "The mechanical bull is on the stage.",
+            "[person_1] is wearing a glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a tank top?",
+        "answer": [
+            "Because [person_1] needs to be comfortable to swing his arms.",
+            "Because [person_1] is watering the flower pots.",
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "Because [person_1] sees another person looking exactly like him in it.",
+            "When [person_1] sits on a chair , [person_1] can hold the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] will continue to shoot the [person_1].",
+            "[person_1] will sing with people.",
+            "[person_1] is about to receive money from passersby.",
+            "[person_1] is about to land on the surface [person_1] is standing on.",
+            "[person_1] will explain how to do next."
+        ],
+        "reason": [
+            "[person_1] has to obey the rule.",
+            "[person_1] has compressed the bellow.",
+            "[person_1] turned to another direction.",
+            "[person_1] bend down to check the machine.",
+            "[person_1] jumped up to throw discus."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not wear the tank top?",
+        "answer": [
+            "[person_1] will look back.",
+            "[person_1] can't play the accordion.",
+            "The discus may not fly as far.",
+            "[person_1] takes a long time to find the pieces again.",
+            "[person_1] may feel hurt."
+        ],
+        "reason": [
+            "Overheating food can cause it to burn.",
+            "[person_1] is standing beside [person_1] wait for something to do.",
+            "[person_1] would not easily swing [person_1]'s arms for momentum.",
+            "The chessmans is in the the chessboard.",
+            "[person_1] wants to do more exercises."
+        ]
+    }
+}

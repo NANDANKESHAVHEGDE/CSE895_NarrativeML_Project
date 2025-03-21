@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it rainy outside?",
+        "answer": [
+            "The horse fell down.",
+            "Yes.",
+            "The stones are behind the people.",
+            "[horse_1] is behind [horse_1].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] train the horse?",
+        "answer": [
+            "To keep fit.",
+            "To make some bubble water.",
+            "[person_1] is showing how to operate the circular saw.",
+            "[person_1] uses it to exercise . The hammer is heavy.",
+            "By riding it regularly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [horse_1] do after running for a long time?",
+        "answer": [
+            "[horse_1] will help [horse_1] to get off the truck.",
+            "The bubbles may disappear.",
+            "[horse_1] will stop running.",
+            "[horse_1] and [horse_1] will join [horse_1].",
+            "[horse_1] will begin to ride [horse_1] . "
+        ],
+        "reason": [
+            "[horse_1] feels a pain on the leg.",
+            "[horse_1]'s beard is already very long , and [horse_1] combs hair to make himself look neater , so [horse_1] may tidy beard next.",
+            "It seems that [horse_1] is trying to attack.",
+            "It seems that [horse_1] wants to taste it as soon as possible.",
+            "Because [horse_1] put the sticker in the direction of the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the horse feels a pain on the leg?",
+        "answer": [
+            "The car might run.",
+            "The horse will stop.",
+            "They would be scared away.",
+            "The person will keep rolling the wrists.",
+            "It would not be enjoyable anymore."
+        ],
+        "reason": [
+            "[person_1] wants to check.",
+            "It is too dirty.",
+            "The dog is afraid.",
+            "Because [person_1] fails to record his brilliant performance.",
+            "because [person_1] , [person_1] and their teammates needs to huddle together to raise their spirit."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is the shirt [person_2] wearing?",
+        "answer": [
+            "It is black.",
+            "It is a towel.",
+            "The shirt [person_2] is wearing is white.",
+            "It is purple.",
+            "It is a ring box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_4] pushing [chair_1]?",
+        "answer": [
+            "[person_2] is seeing something.",
+            "[person_2] raises [person_2]'s arms to hold the stick.",
+            "Maybe [person_4] is introducing the plate.",
+            "[person_2] is performing circus.",
+            "[person_4] wants [person_2] to be nearer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] continues to feed [person_3].",
+            "[person_3] is going to wear the shoe for [person_2].",
+            "[person_3] is going to play in the stadium.",
+            "[person_3] is going to give signal to [person_3].",
+            "[person_3] is going to defeat [person_3]'s opponents."
+        ],
+        "reason": [
+            "[person_2] has been left behind.",
+            "[person_3] is going to dance like [person_3].",
+            "[person_3] is bending the back towards [person_2].",
+            "[person_3] jumped over the crossbar.",
+            "[person_3] has entered the vat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] weren't there?",
+        "answer": [
+            "[person_2] and [person_2] will still fight.",
+            "Then [person_2] doesn't have to comb the [person_2] hair.",
+            "[person_2] would need to do anything for [person_2].",
+            "[person_2] may help [person_2].",
+            "[person_2] would no be worn the shoe."
+        ],
+        "reason": [
+            "When the chess board falls , the pieces will also fall.",
+            "[person_3] will continue to play.",
+            "[person_2] would not appear in front of [person_3] anymore.",
+            "[person_3] would not appear in the room to talk with.",
+            "[person_3] will need to relax."
+        ]
+    }
+}

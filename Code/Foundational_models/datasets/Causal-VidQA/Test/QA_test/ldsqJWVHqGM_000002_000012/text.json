@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "It is \u00a0 behind and on the right of [car_1].",
+            "[car_1] is in front of table which is blue.",
+            "[car_1] is in a garage.",
+            "[car_1] is parked on the runway behind [car_1].",
+            "It is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is spraying a picture.",
+            "[person_1] is roller skating.",
+            "[person_1] is snowboarding alone.",
+            "[person_1] is enjoying the melody of didgeridoo.",
+            "[person_1] is \u00a0 somersaulting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to tap dancing.",
+            "[person_1] is going to step back and observe [person_2].",
+            "[person_1] is going to play the flute right after that.",
+            "[person_1] is trying to approach [person_3] and [person_2].",
+            "[person_1] will add another liquor."
+        ],
+        "reason": [
+            "[person_1] is going to keep practicing.",
+            "[person_1] has finished the song.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "[person_1] is having his turn next.",
+            "The dish has been done and plated well."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] spin faster?",
+        "answer": [
+            "[person_1] would fell on [car_1].",
+            "[person_1] would not be able to ride [person_1].",
+            "[person_1] and [person_1] will return to the first position.",
+            "[person_1] won't get hurt.",
+            "There is still a taken video."
+        ],
+        "reason": [
+            "To save [person_1] in time.",
+            "Because things would be messy in [person_1].",
+            "Only them three here.",
+            "[person_1] would felt dizzy.",
+            "Pianos play important role in a regular band."
+        ]
+    }
+}

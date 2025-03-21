@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the harp?",
+        "answer": [
+            "[person_1] wants to show her pencil.",
+            "Because [person_1] is practicing playing the harp.",
+            "Maybe [person_1] does the guitar for fun.",
+            "Because [person_1] wants to use the cola to open the beer.",
+            "Because [person_1] is practicing skiing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will thank the audience.",
+            "[person_1] will continue jumping.",
+            "[person_1] will need a break.",
+            "[person_1] will continue to play."
+        ],
+        "reason": [
+            "[person_1] feels tired.",
+            "[person_1] looks very excited.",
+            "[person_1] seems very excited.",
+            "[person_1] seems very proud.",
+            "Maybe [person_1] is afraid of something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the chair on which [person_1] sits is broken?",
+        "answer": [
+            "[person_1] will be injured.",
+            "[person_1] will fail to do what he wants.",
+            "[person_1] will stop playing.",
+            "[person_1] will throw it in the trash.",
+            "It is possible that [person_1] will have tears."
+        ],
+        "reason": [
+            "Because it's dangerous.",
+            "[person_1] fell.",
+            "It floats in the air.",
+            "Servant should take care of the guests.",
+            "[person_1] wouldn't want the orange juice to smell bad."
+        ]
+    }
+}

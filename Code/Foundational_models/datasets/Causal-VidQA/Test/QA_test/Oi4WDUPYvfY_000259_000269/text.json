@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in this video ?",
+        "answer": [
+            "There are two.",
+            "Yes , it is.",
+            "There are 10 people.",
+            "There is one person.",
+            "There are 5 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear glasses ?",
+        "answer": [
+            "Because [person_1] teaches how to shoot marbles.",
+            "Because [person_1] is nearsighted.",
+            "Because [person_1] wants to film the baby , [person_1].",
+            "Because [person_1] is old and does not see clearly.",
+            "Because [person_1] likes the sound of maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will probably continue playing with his guitar.",
+            "[person_1] will continue playing basketball.",
+            "Maybe [person_1] will continue to direct [person_1]'s team to play.",
+            "Maybe [person_1] will shares a pro tip for applying foundation to viewers.",
+            "[person_1] is continuously rolling the glass ball from the right arm to the left arm."
+        ],
+        "reason": [
+            "[person_1] is still playing guitar concentratedly.",
+            "Because [person_1] was opening hands to signal [person_1] to swim towards [person_1].",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference.",
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "It is heavy rainy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "The television on the wall will be off.",
+            "The lamp will be off.",
+            "[person_1] won't find the phone owner anymore.",
+            "The lamp will be on.",
+            "[person_1] may not laugh."
+        ],
+        "reason": [
+            "Because the juicer needs power.",
+            "The room will have light.",
+            "Because [person_1] can see nothing.",
+            "The room will have no light.",
+            "There is no power to let the machine work."
+        ]
+    }
+}

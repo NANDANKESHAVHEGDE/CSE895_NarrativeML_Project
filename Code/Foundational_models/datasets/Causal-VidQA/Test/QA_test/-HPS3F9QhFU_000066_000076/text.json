@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is sitting on the floor.",
+            "It is on the shelf.",
+            "[cup_1] is near [cup_1].",
+            "It is on the table.",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the chess piece?",
+        "answer": [
+            "[person_1] is playing chess with [person_2].",
+            "[person_1] does parkour by jumping over a chair and the [person_1].",
+            "[person_1] is playing with some toys",
+            "[person_1] is playing with cups on the dining table.",
+            "[person_1] is playing the harmonica to relax."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_2] intends to invite [person_2] to play.",
+            "[person_2] intends to drink water.",
+            "[person_2] intends stand up and play the harp.",
+            "[person_2] will probably turn off the phone.",
+            "[person_2] intends to play with everyone."
+        ],
+        "reason": [
+            "[person_2] is pressing on the keyboard.",
+            "[person_2] may try to keep balance.",
+            "[person_2] looks thirsty.",
+            "[person_2] looks very interested in playing it.",
+            "[person_2] is standing up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't play?",
+        "answer": [
+            "[person_1] might talk more.",
+            "[person_1] would not show off his muscle.",
+            "[person_2] wouldn't play too.",
+            "[person_1] wouldn't smoke.",
+            "[person_1] would fall."
+        ],
+        "reason": [
+            "The duck can't go as fast as [person_1].",
+            "[person_1] and [person_2] would play another game together.",
+            "[person_1] can grab his toes on the ladder to keep himself balance.",
+            "Compared to the ground the sofa is a good choice to sleep on.",
+            "There perhaps would be no one else that [person_2] is familiar with."
+        ]
+    }
+}

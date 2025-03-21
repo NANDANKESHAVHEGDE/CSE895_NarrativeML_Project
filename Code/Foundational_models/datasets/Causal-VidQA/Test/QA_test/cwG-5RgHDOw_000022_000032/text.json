@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is standing outside the fence.",
+            "[chair_1] is behind [chair_1].",
+            "[chair_1] is near [person_2].",
+            "[chair_1] is sitting against the white wall.",
+            "[chair_1] is sitting in the living room."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] use fire to roast marshmallows?",
+        "answer": [
+            "[person_2] is excited because he has opened the bottle.",
+            "[person_2] is harvesting apples.",
+            "[person_2] is singing and playing lute in the room.",
+            "[person_2] stands on the yard to play gongs.",
+            "[person_2] puts marshmallows in the fire."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after roasting marshmallows\uff1f",
+        "answer": [
+            "[person_1] will give it to [person_1].",
+            "[person_1] may tell us the details.",
+            "[person_1] will sit down.",
+            "[person_1] would go fetch it.",
+            "[person_1] will turn the screwdriver."
+        ],
+        "reason": [
+            "[person_1] wants to have a break.",
+            "[person_1] will return the gift [person_1] is holding to its place because [person_1]'s body is moving in that direction.",
+            "Because [person_1] is pulling [person_1] up.",
+            "As the parent , [person_1] will take care of the child , [person_1].",
+            "Because [person_1] has cleaned the road with the help of the snow blower."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] sits down?",
+        "answer": [
+            "[person_1] will be angry.",
+            "[person_1] would be injured.",
+            "[person_1] will find a chair to sit down.",
+            "[person_1] would stop attacking [person_1].",
+            "[person_1] would get marshmallows from others."
+        ],
+        "reason": [
+            "To help save him.",
+            "[person_2] will keep listening.",
+            "[person_1] stepped back.",
+            "[person_2] would give some marshmallows to him.",
+            "[person_2] is lying on the sofa."
+        ]
+    }
+}

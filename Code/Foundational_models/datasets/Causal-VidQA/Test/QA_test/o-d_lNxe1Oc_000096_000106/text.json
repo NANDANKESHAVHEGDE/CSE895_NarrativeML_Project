@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is dancing with fire.",
+            "[person_1] is smoking.",
+            "[person_1] is playing the flute.",
+            "[person_1] is recording his fingers playing an electric guitar.",
+            "[person_1] is doing somersaults."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] looking at [person_1]?",
+        "answer": [
+            "[person_2] is rearranging [person_1] position on [person_2].",
+            "Maybe [person_2] is learning fire dance from [person_1].",
+            "[person_1] and [person_2] are family.",
+            "[person_1] is opening present.",
+            "[person_2] is learning how to play the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to start skiing.",
+            "[person_1] is going to crawl.",
+            "[person_1] is going to continue spinning the fire.",
+            "[person_1] will hold the posture for a second.",
+            "[person_1] will ask for a hug."
+        ],
+        "reason": [
+            "Because the [person_1]'s hands are constantly moving.",
+            "[person_1] is still crawling forward.",
+            "This can help [person_1] remember the action.",
+            "[person_1] wants another kind of leaves.",
+            "[person_1] needs to clean the window below him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't teach [person_2] the fire dance?",
+        "answer": [
+            "[person_1] will lose.",
+            "They would become nervous.",
+            "[person_2] won't know how to dance fire.",
+            "[person_1] can not hit the ball into the goal.",
+            "[person_1] would have to stop."
+        ],
+        "reason": [
+            "The shape of the cake is very difficult to make with just one look.",
+            "Because fire dance is a difficult art , it takes a teacher to be able to do it.",
+            "Someone will steal the cows.",
+            "The inappropriate costume will influence the whole play and audience's mood.",
+            "Diving too long is dangerous."
+        ]
+    }
+}

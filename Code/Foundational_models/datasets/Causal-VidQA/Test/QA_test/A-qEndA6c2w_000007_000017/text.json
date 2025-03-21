@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [vase_1]?",
+        "answer": [
+            "[person_1] is sitting on [vase_1].",
+            "It is on the right of [person_1].",
+            "Yes , [vase_1] is.",
+            "[person_1] is the reflect of [person_1] in the mirror.",
+            "It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] exercise in the room?",
+        "answer": [
+            "The [person_1] took a blueberry from the tree.",
+            "Because [person_1] wants to get a thing from the other end of the table.",
+            "[person_1] is rubbing [person_1]'s back.",
+            "Because [person_1] can't afford to go to the gym.",
+            "Because [person_1] is a beginner."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to practice other movements.",
+            "[person_1] will get more cards",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is going to put the plate away.",
+            "Maybe [person_1] is going to move quicker."
+        ],
+        "reason": [
+            "Sled is broken.",
+            "Maybe the action is too boring.",
+            "[person_1] feels excited.",
+            "They are doing a report here.",
+            "[person_1] is fond of doing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] had a coach?",
+        "answer": [
+            "The bar would not fall off.",
+            "[person_1] will scream loudly.",
+            "[person_1] would be practice according to the instructions of the coach.",
+            "The goat may run away from [person_1].",
+            "[person_1] would stand up at once."
+        ],
+        "reason": [
+            "[person_1] looks like a starter.",
+            "[person_1] was guaranteed health.",
+            "It was winter and it was very cold.",
+            "It was winter , it was very cold and snowy.",
+            "Because they need it to work."
+        ]
+    }
+}

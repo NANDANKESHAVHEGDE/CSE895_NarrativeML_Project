@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is raising the feet.",
+            "[person_2] is playing the piano.",
+            "[person_2] is sitting next to the box.",
+            "[person_2] is eating something.",
+            "[person_2] is tossing the ball to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] tossing the ball to [person_1]?",
+        "answer": [
+            "[person_1] wants to exercise.",
+            "Maybe [person_1] comes there to do exercise.",
+            "[person_2] is playing with [person_1].",
+            "[person_1] is playing the lute.",
+            "The [person_1] wants to learn how to play accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next after holding the ball?",
+        "answer": [
+            "[person_1] may toss the ball back to [person_2].",
+            "[person_1] will go on practicing.",
+            "[person_2] will follow what [person_1] does.",
+            "[person_2] will continue dancing.",
+            "[person_2] will keep dancing."
+        ],
+        "reason": [
+            "Because [person_1] used a lot of strength to lift the barbell , from his expression , it is very hard for [person_1] to lift it.",
+            "They are keeping talking during the game and will be thirsty.",
+            "They are having a battle now.",
+            "[person_1] has just received the ball from [person_2].",
+            "It seems that [person_1] cannot wait to open the parcel."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] keeps the ball and does not toss it back to [person_1]?",
+        "answer": [
+            "Maybe [person_1] would not be as happy as now.",
+            "[person_1] will cry.",
+            "Maybe [person_1] will get burned.",
+            "[person_1] will smile.",
+            "It is probable that a man will feel hurt."
+        ],
+        "reason": [
+            "[person_1] is a child.",
+            "[person_1] and [person_2] would not know the right way to shear sheep without instruction.",
+            "[person_1] is an adult.",
+            "Because [person_2] has to ensure that her task is done.",
+            "Because [person_2] is right behind [person_2]."
+        ]
+    }
+}

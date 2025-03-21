@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the bed [person_2] is lying on?",
+        "answer": [
+            "The bed [person_2] is lying on is dark blue.",
+            "The shirt [person_2] wearing is pink.",
+            "The shirt [person_2] wearing is blue.",
+            "It is black.",
+            "It is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] get a massage outdoor?",
+        "answer": [
+            "The accordion is so big , so [person_2] can't play it.",
+            "Because there's nowhere to sit.",
+            "Because the juice isn't as good as using a stomp.",
+            "[person_2] learned to play the keyboard before.",
+            "The weather is fine and the scenery is pleasant."
+        ]
+    },
+    "predictive": {
+        "question": "What is going to happen on [person_2].",
+        "answer": [
+            "[person_2] will become a knowledgeable person in the future.",
+            "[person_2] will change their position and tap them with hands.",
+            "[person_2] may be bitten by mosquitoes.",
+            "[person_2] will think that [person_2] does a good job.",
+            "[person_2] is going to take a ride on a toy car."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are outdoors where there are several trees , so mosquitoes are unavoidable.",
+            "[person_1] doesn't move around for a long time.",
+            "Because the washing needs water.",
+            "Because this is the reason why they come together.",
+            "Because from the movement we can infer that [person_1] is going to drink it all."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [frisbee_1] falls down?",
+        "answer": [
+            "The [frisbee_1] will fall on [person_1]'s head.",
+            "[person_1] will be taken to the hospital.",
+            "[person_1] can not touch his feet.",
+            "[person_1] will call the repair person.",
+            "[frisbee_1] will likely fail."
+        ],
+        "reason": [
+            "[person_1] is a child.",
+            "The person on the right does not want to be involved in the fight.",
+            "The [frisbee_1] stands very close to [person_1].",
+            "If there was not [person_1] in the grassland , the cows would run around or even get lost.",
+            "because [person_1] only has medal if he succeeds in jumping over the bar without making it fall."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the space dark?",
+        "answer": [
+            "There are seven.",
+            "Yes , only one.",
+            "No , it isn't.",
+            "It's in the classroom.",
+            "[person_1] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_1] is swimming.",
+            "[person_1] and [person_2] are opening a present together.",
+            "[person_1] does parkour by jumping over a chair and the [person_2].",
+            "May be [person_2] is a teacher and [person_2] is teaching [person_1] how to play the cello.",
+            "[person_1] might want to know about today's news."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing the box?",
+        "answer": [
+            "[person_1] may take a bath next.",
+            "[person_1] will breathe freely.",
+            "[person_1] will relax his legs.",
+            "[person_1] will keep on exercising.",
+            "[person_1] will try to open it."
+        ],
+        "reason": [
+            "[person_1] can't dance with hands all the time and handstand is just an action of the dance.",
+            "[person_1] seems to be greatly curious about it.",
+            "It seems that [person_1] is recording a video about what he is doing.",
+            "[person_1] has finished the performance.",
+            "[person_1] can't wait to play another round to hit down all the bowling pins again."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets a shirt?",
+        "answer": [
+            "[person_1] may feel sad.",
+            "[person_1] may fall.",
+            "[person_1] may feel wonderful.",
+            "The camera will be knocked down.",
+            "[person_1] may not feel wonderful."
+        ],
+        "reason": [
+            "Children often like new clothes.",
+            "The floor is very hard.",
+            "Adult often like new clothes.",
+            "Because [person_1] should be polite to the guests.",
+            "Children often dislike new clothes."
+        ]
+    }
+}

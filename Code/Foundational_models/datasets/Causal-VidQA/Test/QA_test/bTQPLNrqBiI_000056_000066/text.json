@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are 3 people.",
+            "Three.",
+            "There are 5 people.",
+            "There are two persons.",
+            "There are 7 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "[person_1] might lose his balance.",
+            "[person_1] sees something fun.",
+            "[person_1] is swallowing sword.",
+            "[person_1] has his favorite present.",
+            "The tire is so hard and the huge hammer is heavy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play the cello.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to a workout.",
+            "[person_1] is going to take the sheets away."
+        ],
+        "reason": [
+            "[person_1] is smiling.",
+            "[person_1] is going to rest.",
+            "[person_1] is spraying paint.",
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] is also eager to open presents."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] see a scary thing?",
+        "answer": [
+            "[person_1] will not dig.",
+            "[person_1] will distance [person_1].",
+            "He will drive by himself.",
+            "[person_1] may shout loud and cry.",
+            "[person_1]'ll drop the piggy bank."
+        ],
+        "reason": [
+            "The boat will be shaken.",
+            "Because the machine has no sink.",
+            "Children are very afraid of strange things.",
+            "Because [person_1] had to drop the piggy bank to get her money out.",
+            "[person_1] could not use the machine because it was not working."
+        ]
+    }
+}

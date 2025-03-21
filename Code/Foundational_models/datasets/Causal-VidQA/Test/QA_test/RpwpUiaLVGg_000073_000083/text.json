@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [couch_1]?",
+        "answer": [
+            "It's black.",
+            "[couch_1] is gray.",
+            "[couch_1] is in a kitchen.",
+            "It is a mirror.",
+            "[couch_1] is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have harmonica in his hands?",
+        "answer": [
+            "[person_1] is playing harmonica.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is practicing playing the flute.",
+            "Because near the window there is a lot of natural light.",
+            "[person_1] wants to take others' shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to run.",
+            "[person_1] is going to hold the camera.",
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to turn off the camera."
+        ],
+        "reason": [
+            "[person_1] is going to go back home.",
+            "[person_1] is trying to switch off the camera.",
+            "[person_1] is very excited.",
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] feels that the food is not good."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were more interested in the harmonica?",
+        "answer": [
+            "[person_1] would keep playing the harmonica.",
+            "[person_1] can not play it.",
+            "[person_1] might be ridiculed by the audience for being unprofessional.",
+            "[person_1] may be fined by a policeman.",
+            "[person_1] may have a toothache."
+        ],
+        "reason": [
+            "There is some beverage in the vase.",
+            "[person_1] wants to play with the harmonica more.",
+            "[person_1] is not familiar with riding.",
+            "The tool utilizes the pushing force of the ground.",
+            "Because there would be more weight holding [person_1] down so [person_1] wouldn't be able to jump as high."
+        ]
+    }
+}

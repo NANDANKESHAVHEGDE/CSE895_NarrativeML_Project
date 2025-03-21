@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening a bottle.",
+            "[person_1] is singing.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is breaking an air brick.",
+            "[person_1] is giving [person_1] a white box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use a piece of glass?",
+        "answer": [
+            "The glass piece is sharp . It can deal with the foil.",
+            "To propose to [person_1].",
+            "It is moved to a space it should stay at.",
+            "[person_1] is too young to walk alone without any help.",
+            "Otherwise the water will spill out."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will shoot another cue ball.",
+            "[person_1] will stand up.",
+            "[person_1] will use the small key to remove the cork.",
+            "[person_1] will keep on shaking the bottle.",
+            "[person_1] will leave the room."
+        ],
+        "reason": [
+            "[person_1] is not likely to stop.",
+            "[person_1] is focusing on the game.",
+            "[person_1] has finished cleaning and looks tired.",
+            "[person_1] was just showing what is headbanging to the camera.",
+            "The small key is inside the cage."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] was not careful when holding the piece of glass?",
+        "answer": [
+            "Her head might be hurt.",
+            "The machine will be off.",
+            "Her hand might be hurt.",
+            "The room will be dark.",
+            "Her feet might be hurt."
+        ],
+        "reason": [
+            "The glass piece is sharp , which may hurt her finger.",
+            "There would be nothing else on the table for [person_1] to eat.",
+            "The glass piece is sharp , which won't hurt her finger.",
+            "[person_1] will wait until the electricity comes on.",
+            "The glass piece is sharp , which may hurt her neck."
+        ]
+    }
+}

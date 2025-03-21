@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt is [person_1] wearing?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "It is in a yard.",
+            "Pants.",
+            "The lute is yellow.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a book in his hand ?",
+        "answer": [
+            "[person_1] is picking up fruit.",
+            "[person_1] wants to play with others.",
+            "[person_1] presses the button to increase the volume.",
+            "[person_1] is smoking.",
+            "[person_1] is playing with the book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "Maybe [person_1] is going to jump .",
+            "[person_1] is going to read the book.",
+            "[person_1] is going grind the knife.",
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] will check the container."
+        ],
+        "reason": [
+            "[person_1] has not finished her pumpkin.",
+            "[person_1] holds and flips it.",
+            "[person_1] is in the beach.",
+            "Because [person_1] is hungry.",
+            "[person_1] is breathing deeply and needs a break"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the book?",
+        "answer": [
+            "[person_1] will draw a picture.",
+            "[person_1] will not wear the hat.",
+            "[person_1] may get hurt.",
+            "[person_1] will be tired.",
+            "[person_1] spins around a lot before throwing the hammer away."
+        ],
+        "reason": [
+            "The flute of [person_1] was damaged.",
+            "Because only under a steady and long - term exercise can [person_1] make his muscles so strong.",
+            "The painting color will not be reasonable.",
+            "Children usually like that.",
+            "The book may hit [person_1] in foot."
+        ]
+    }
+}

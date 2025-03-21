@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_2]?",
+        "answer": [
+            "It is on the table.",
+            "[book_2] is on the floor.",
+            "On the main road.",
+            "The [book_2] is white.",
+            "[book_2] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] read the book?",
+        "answer": [
+            "Because [person_1] is making breath to play the flute.",
+            "[person_1] , [person_1] and [person_1] are doing tai chi.",
+            "Because [person_1] is adjusting the slides.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] wants to explain information."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after holding a book?",
+        "answer": [
+            "It is going to run away.",
+            "[person_1] will pick one and then do the same thing as before.",
+            "He will wipe his hands and boards with a cloth.",
+            "[person_1] is going to read it.",
+            "The woman in black top will keep looking at the man who is kicking."
+        ],
+        "reason": [
+            "Because [person_1] eats too much.",
+            "[person_1] and [person_1] seems to be at home and [person_1] and [person_1] looks alike.",
+            "It seems that [person_1] is flipping the book and says something.",
+            "Because [person_1] accepts the proposal.",
+            "[person_1] and [person_1] seems to get along well with each other."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if power is off?",
+        "answer": [
+            "Maybe the athletes won't play.",
+            "The people can't continue practicing.",
+            "The people can't continue practice.",
+            "The room will become dark.",
+            "The people can't see together."
+        ],
+        "reason": [
+            "[person_1] keeps him from sinking into the water.",
+            "The hot dog is dirty.",
+            "Because without light , it is dangerous for some many people to dance.",
+            "[person_1] won't read the book.",
+            "The electricity is very important for recording."
+        ]
+    }
+}

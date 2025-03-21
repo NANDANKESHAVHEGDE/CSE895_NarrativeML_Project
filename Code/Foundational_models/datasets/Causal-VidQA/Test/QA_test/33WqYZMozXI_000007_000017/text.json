@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "It is to the left of the room.",
+            "It is sunny.",
+            "The text is white.",
+            "The [person_1] is under the roof.",
+            "It is rainy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing a wheelchair?",
+        "answer": [
+            "[person_1] and [person_2] are performing circus.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] is helping [person_2].",
+            "[person_2] and [person_1] are daring to skate.",
+            "Because the camels live in the desert."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will push a wheelchair to help [person_2] enter the house to shelter from the rain.",
+            "[person_1] will stick those woods with each others.",
+            "[person_1] will feed these goats.",
+            "[person_1] will put the new tire on the car.",
+            "[person_1] will sing the birthday song."
+        ],
+        "reason": [
+            "Because [person_1] just finished a stroke.",
+            "[person_1] is very focused.",
+            "It is heavy rainy.",
+            "[person_1] is trying to hand up.",
+            "[person_1] has not finished the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] walks normally?",
+        "answer": [
+            "[person_2] will not be in a wheelchair.",
+            "[person_2] might seriously hurt himself.",
+            "Maybe they can't get some water.",
+            "[person_2] can try to build them together.",
+            "The goat may stop sticking its head out and and walk away."
+        ],
+        "reason": [
+            "The mason's line is important and acts as a guide for laying bricks.",
+            "Because [person_2] focused on [person_2] and didn't notice what happened on his head.",
+            "The kids can't do it well enough.",
+            "Wheelchair will not be a means of transportation for [person_2].",
+            "This is the rule of the game."
+        ]
+    }
+}

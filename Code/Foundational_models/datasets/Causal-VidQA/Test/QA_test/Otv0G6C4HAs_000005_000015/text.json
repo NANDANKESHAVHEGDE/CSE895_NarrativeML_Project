@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tv_1]?",
+        "answer": [
+            "The balls are red and blue.",
+            "[tv_1] is on the street.",
+            "[tv_1] is wearing a black dress.",
+            "Six.",
+            "It is on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is wearing makeup.",
+            "[person_1] is raising her eyebrows.",
+            "[person_1] is performing with a guitar.",
+            "[person_1] is eating.",
+            "[person_1] is talking about chess."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will light up a candle.",
+            "Maybe [person_1] will watch TV.",
+            "Perhaps [person_1] will kiss [person_1].",
+            "[person_1] will go to bed.",
+            "[person_1] will go back home."
+        ],
+        "reason": [
+            "[person_1] has to seal many bags because she is a worker of factory.",
+            "The television is showing programs.",
+            "[person_1] jumps in a professional way.",
+            "[person_1] looks at the chessboard attentively.",
+            "[person_1] will continue to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The machine will stop working.",
+            "The television will turn off too.",
+            "The microphone will not work.",
+            "The microphone will not be worked.",
+            "[person_1] will be scared."
+        ],
+        "reason": [
+            "The meeting will be stopped.",
+            "[person_1] won't be able to watch TV.",
+            "The store will be dark.",
+            "The restaurant will be dark.",
+            "[person_1] will stop jumping."
+        ]
+    }
+}

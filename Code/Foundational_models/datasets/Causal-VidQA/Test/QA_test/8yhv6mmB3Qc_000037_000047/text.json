@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [bed_1]?",
+        "answer": [
+            "No [bed_1] open the bottle with hands only.",
+            "The [bed_1] is in the right of the [bed_1].",
+            "The [bed_1] is on the ground.",
+            "The [bed_1] is in the compartment on the [bed_1] door.",
+            "The color of [bed_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] lying on the [bed_1]?",
+        "answer": [
+            "[person_2] feels hurt on his shoulder.",
+            "[person_2] is enjoying massage.",
+            "[person_2] wanted to smell the feet.",
+            "[bed_1] is eating.",
+            "[person_2] is playing in a happy way."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] want to exercise with the exercising ball.",
+            "[person_1] is going to do exercise.",
+            "[person_1] may give [person_2] a glass of water.",
+            "[person_1] is going to continue waxing back for [person_2].",
+            "[person_1] is going to not eat."
+        ],
+        "reason": [
+            "[person_1] has finished [person_1]'s action.",
+            "It is part of the service of massage for [person_2].",
+            "[person_1] is snowmobiling.",
+            "[person_1] is facing [person_2].",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bed_2] goes wrong?",
+        "answer": [
+            "The other children will call the ambulance.",
+            "[person_2] and [person_2] will fall.",
+            "It is probable that [person_1] would be playing outside.",
+            "[person_1] will take [person_2] to another room.",
+            "The meat cannot be eaten by [person_1] any more."
+        ],
+        "reason": [
+            "Because he won the game the first time he played.",
+            "Accident may cause death.",
+            "[person_1] may not finish first.",
+            "[person_1] cannot do massage for [person_2] on the broken [bed_1].",
+            "Tools are better choice than a mouth to open the bottle."
+        ]
+    }
+}

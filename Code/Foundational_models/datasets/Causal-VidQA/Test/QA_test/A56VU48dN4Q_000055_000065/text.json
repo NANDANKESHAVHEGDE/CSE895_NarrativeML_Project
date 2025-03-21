@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [couch_1]?",
+        "answer": [
+            "The color of [couch_1] is mint.",
+            "[couch_1] is staring at the burning marshmallow.",
+            "[couch_1] is placed on the table beside [couch_1].",
+            "[couch_1] is orange.",
+            "[couch_1] is sitting on [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is sitting on the chair and using the piano.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] is having a party.",
+            "[person_1] is able to sing loudly without affecting others.",
+            "[person_1] is practicing playing the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will push a wheelchair to help [person_1] enter the house to shelter from the rain.",
+            "[person_1] will put in contact lenses.",
+            "[person_1] would step back and let others come up and perform.",
+            "[person_1] will continue climbing till her gets to the peak.",
+            "Perhaps [person_1] will kiss [person_3]."
+        ],
+        "reason": [
+            "[person_1] is swimming back.",
+            "[person_1] is so happy . [person_1] received a lovely gift.",
+            "Since the upper part of the device is already completed , [person_1] needs to complete the base.",
+            "[person_1] is introducing the headphone . The headphone is in [person_1]'s head.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "Maybe [person_1] won't dance.",
+            "[person_1] can fall down onto the [person_1].",
+            "[person_1] will get hurt.",
+            "The leg of [person_1] may not hurt.",
+            "[person_1] will need help to stand up."
+        ],
+        "reason": [
+            "[person_1] should be careful.",
+            "[person_1] can jump outside the lines.",
+            "The slope has a dangerous height.",
+            "The floor is hard.",
+            "She will get hurt."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there on the bed?",
+        "answer": [
+            "There are four.",
+            "There are two people.",
+            "There are three people.",
+            "There is only person.",
+            "There is only person in this room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do those people come here?",
+        "answer": [
+            "To relax themselves by massaging feet.",
+            "Because [person_2] catches fire from the firework.",
+            "[person_1] playing the lute for fun.",
+            "Because the juice isn't as good as using a stomp.",
+            "[person_3] doesn't want to."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go home.",
+            "Maybe [person_1] will stand up.",
+            "It is foreseen that [person_1] will join violin club.",
+            "[person_1] will definitely wear a sari for [person_1].",
+            "[person_1] will massage another foot of the person who is lying on [bed_1]."
+        ],
+        "reason": [
+            "Because [person_1] sits on the chair . [person_1]'s head turned towards [person_1].",
+            "Because [person_1] is a kid and no one comes to the side of [person_1].",
+            "Because [person_1] has already massaged the left foot of the person who is lying on the [bed_1].",
+            "Because [bed_1] has already finished the training and it is [person_1]'s turn.",
+            "[person_1] is a child about nine years old."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no electric fan ?",
+        "answer": [
+            "[person_3] may feel a sharp pain on his head.",
+            "[person_3] and [person_4] may not keep on waiting for the massage service.",
+            "The slides will be broken.",
+            "[person_4] could not attend the skating contest.",
+            "They will teach [person_3]."
+        ],
+        "reason": [
+            "The [person_1] follows the music note chart to play accordion.",
+            "From the clothes of [person_1] and [person_2] we can learn that it's in hot summer , so no one could stand waiting in such a small and hot room for too long.",
+            "Because the hat will be stained with food.",
+            "Because [person_1] still holds the first cap.",
+            "Maybe [person_1] will be interested in watering the plants."
+        ]
+    }
+}

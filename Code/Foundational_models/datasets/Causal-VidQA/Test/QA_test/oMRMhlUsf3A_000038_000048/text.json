@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is \u00a0 in the right of the [person_1].",
+            "[chair_1] is the the baby boy.",
+            "It is on the right of [person_1].",
+            "[chair_1] is close to the wall behind [person_1].",
+            "[chair_1] is on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] flipping a newspaper?",
+        "answer": [
+            "Maybe [person_1] is explaining the rules of dominoes game to the others.",
+            "Because [person_1] is trying to throw discus.",
+            "Because [person_1] is showing that there are nothing in the newspaper.",
+            "Because [person_1] is performing cello.",
+            "Because [person_1] is playing the gong in this room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to stop flipping pages.",
+            "[person_1] is going to read another page."
+        ],
+        "reason": [
+            "[person_1] closes the newspaper.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "[person_1] is touching three cups.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "So that [person_1] has a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the newspaper?",
+        "answer": [
+            "[person_1] may stop jumping.",
+            "[person_1] will not attract the birds.",
+            "The birds will not gather around [person_1].",
+            "[person_1] may take another candy on the plate to eat.",
+            "[person_1] will pick it up."
+        ],
+        "reason": [
+            "Because the balloon of [person_1] will be dirty.",
+            "Because [person_1] still needs the newspaper for his magic trick.",
+            "The flute of [person_1] might be broken.",
+            "Because [person_1] needs a full and nice cover to protect himself.",
+            "Because the pencil is not edible."
+        ]
+    }
+}

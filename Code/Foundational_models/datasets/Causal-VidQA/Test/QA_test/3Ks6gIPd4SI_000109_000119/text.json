@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near [person_1].",
+            "[person_1] is outside.",
+            "[person_1] is inside.",
+            "Along the river.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] likes stacking cups.",
+            "[person_1] is practicing for the next performance.",
+            "[person_1] is staying with [person_1].",
+            "[person_1] is taking care of her lips.",
+            "[person_1] is in the room playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to?",
+        "answer": [
+            "[person_1] tends to go out for relaxing with her friends.",
+            "[person_1] tends to play the harp at the end of the song.",
+            "[person_1] may water the flowers then.",
+            "[person_1] intends to draw pictures.",
+            "[person_1] tends to continue playing."
+        ],
+        "reason": [
+            "Because [person_1]'s team is winning.",
+            "After a long time , [person_1] feel a little tired.",
+            "[person_1] is still sitting on the back of the [person_1].",
+            "[person_1] looks very focused while playing didgeridoo.",
+            "[person_1] crouched down at the billiard table and determined the direction of the billiards shot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] practices many times?",
+        "answer": [
+            "[person_1] will put the bass guitar away.",
+            "The organ will make shrill sounds.",
+            "It'll be cooler than it is now.",
+            "It will just float in the air.",
+            "[person_1] will have a good skill."
+        ],
+        "reason": [
+            "When the strength is enough during exercise , [person_1] will give [person_1] no assistance.",
+            "[person_1] now is able to ride alone.",
+            "[person_1] needs to raise his arm to reach his feet.",
+            "Because [person_1] believe that practice makes perfect.",
+            "It is easy for people to get injuries on heads when they do the fencing."
+        ]
+    }
+}

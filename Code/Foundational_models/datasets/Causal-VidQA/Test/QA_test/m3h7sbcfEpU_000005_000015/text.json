@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is [person_1]?",
+        "answer": [
+            "[person_1] is in his sawmill.",
+            "[person_1] is in a small library.",
+            "[person_1] is at a grocery store.",
+            "[person_1] is young.",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] throwing the ball?",
+        "answer": [
+            "[person_1] is opening a bag.",
+            "[person_1] is playing basketball.",
+            "[person_1] has nothing to do.",
+            "[person_1] wants to make the shoes shiny.",
+            "[person_1] is performing for the boy wearing a t - shirt."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to throw another ball.",
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] will get the job done.",
+            "[person_1] is highly likely to laugh.",
+            "[person_1] is going to come back home."
+        ],
+        "reason": [
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is holding the bottle.",
+            "[person_1] is raising his arms and holding a ball.",
+            "[person_1] and [person_1] are friends."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is taller?",
+        "answer": [
+            "[person_1] will be sad.",
+            "Maybe [person_1] will stop long jumping.",
+            "The clothes of [person_1] will be dirty.",
+            "[person_1] can throw the first ball through the hoop.",
+            "The [person_1] will not fly to the right hand of [person_1]."
+        ],
+        "reason": [
+            "[person_1] is too short and small , so [person_1] can not reach the basket.",
+            "[person_1] looks joyous about this action.",
+            "[person_1]'s feet will not be protected.",
+            "[person_1] feels happy when having presents.",
+            "[person_1] is too small and the first ball almost goes through the hoop."
+        ]
+    }
+}

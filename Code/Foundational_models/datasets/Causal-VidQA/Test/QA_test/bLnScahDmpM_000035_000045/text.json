@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather ?",
+        "answer": [
+            "It is very nice.",
+            "Yes.",
+            "It is cloudy.",
+            "[person_1] is in the studio",
+            "[person_1] and [person_1] are the audiences."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside ?",
+        "answer": [
+            "[person_1] is riding a unicycle.",
+            "[person_1] is riding unicycle.",
+            "[person_1] is playing flute . May be [person_1] is doing it for fun.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing with water."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to go on playing with his flute.",
+            "It is probable that [person_1] intends to play the guitar.",
+            "[person_1] intends to keep dancing.",
+            "[person_1] intends to stop eating.",
+            "[person_1] intends to play the keyboard in bed."
+        ],
+        "reason": [
+            "Then maybe [person_1] tends to sit down on the chair.",
+            "Maybe [person_1] knows it's not food.",
+            "[person_1] is in the car - park.",
+            "[person_1] prepares to play the guitar.",
+            "The paper is in [person_1]'s hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains ?",
+        "answer": [
+            "Maybe [person_1] will stop making the basket temporarily.",
+            "[person_1] will not practice there.",
+            "[person_1] maybe stop playing.",
+            "[person_1] will not ride the bicycle fast.",
+            "[person_1] will get wet."
+        ],
+        "reason": [
+            "[person_1] will need to avoid the rain.",
+            "Because [person_1] is lying on the grass , the grass will be wet when there is a rain.",
+            "[person_1] will find the shelter in the rain.",
+            "[person_1] needs to protect [person_1]'s health.",
+            "[person_1] and [person_1] will stop standing outside."
+        ]
+    }
+}

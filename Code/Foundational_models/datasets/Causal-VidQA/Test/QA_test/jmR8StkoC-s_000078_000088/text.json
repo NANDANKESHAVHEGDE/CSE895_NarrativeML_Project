@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is white.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paint can?",
+        "answer": [
+            "Because [person_1] is spraying paint.",
+            "Because [person_1] wants to record how he is skiing.",
+            "Because [person_1] is aiming to shoot marbles.",
+            "Perhaps [person_1] wants to be stronger.",
+            "Maybe [person_1] is recording about pipes and how to smoke."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the barbell.",
+            "[person_1] will start spraying paint.",
+            "[person_1] will stand here.",
+            "[person_1] is going to eat corns.",
+            "[person_1] is turning around to get the comb."
+        ],
+        "reason": [
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] is going to try working faster.",
+            "[person_1] is preparing paper to spray paint.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "[person_1] has put the feet on the tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the paint runs out?",
+        "answer": [
+            "The person will have to grind meat with kitchen knife.",
+            "The [person_1] would take the book and put the book on the table.",
+            "[person_1] maybe stop painting.",
+            "[person_1] will stop two cats.",
+            "They would have to stop what they were doing."
+        ],
+        "reason": [
+            "Maybe [person_1] will stop and go buy paint.",
+            "Maybe [person_1] would win.",
+            "[person_1] [person_1] and [person_1] stomped grapes too long.",
+            "Because [person_1] wants to let his boss play first.",
+            "[person_1] and [person_1]  might meet difficulties to control the boat when it rained."
+        ]
+    }
+}

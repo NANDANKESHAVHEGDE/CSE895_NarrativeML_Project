@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] outside?",
+        "answer": [
+            "It is near [person_1].",
+            "No.",
+            "[person_1] is next to [person_1].",
+            "It is on the wardrobe.",
+            "It is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do people open the light?",
+        "answer": [
+            "For a better environment.",
+            "Maybe the juice isn't as good as using a stomp.",
+            "It's windy.",
+            "They are deciding on something.",
+            "They are here to perform music."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will rest.",
+            "[person_1] may swim.",
+            "[person_1] may turn around.",
+            "[person_1] will ask someone to confirm her good working.",
+            "She will finish her ice cream."
+        ],
+        "reason": [
+            "[person_1] is holding a needle and sewing.",
+            "[person_1] is pointing hand to guide [person_1].",
+            "[person_1] is making a video on how to do poi tricks.",
+            "[person_1] is making cakes.",
+            "[person_1] is very tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_2] faints out?",
+        "answer": [
+            "He will be angry.",
+            "The white pen might be broken.",
+            "[person_2] would not finish her set.",
+            "[person_1] will cry.",
+            "[person_1] will stop running."
+        ],
+        "reason": [
+            "[person_1] will help [person_2].",
+            "Because [person_1] is folding the clothes on the [person_2].",
+            "[person_1] can only carry the [person_1] into the house by the ladder or the stair in the house.",
+            "[person_1] is eating [person_2] on a table.",
+            "Because [person_2] is behind [person_1]."
+        ]
+    }
+}

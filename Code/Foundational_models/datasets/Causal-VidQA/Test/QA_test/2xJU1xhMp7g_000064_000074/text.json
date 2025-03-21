@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a ball.",
+            "[person_1] is wearing a blue shirt.",
+            "[person_1] is holding a shoe polish box.",
+            "It is on the bookshelf.",
+            "[person_1] is holding a bass guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a ball?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is a child.",
+            "Maybe [person_1] is participating in a competition.",
+            "[person_1] wants to throw it into the plastic sink.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may put the right leg back.",
+            "[person_1] is going to sit down.",
+            "[person_1] is likely to hug [person_1].",
+            "[person_1] will look at the carving which has finished.",
+            "[person_1] might want to pick the ball up."
+        ],
+        "reason": [
+            "[person_1] looks happy with this action.",
+            "[person_1] retracts his hand.",
+            "[person_1] is reloading a gun.",
+            "It seems that [person_1] has finished the dance.",
+            "[person_1] looks along the ball rolling on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws the ball slightly?",
+        "answer": [
+            "The bird will move to other places to eat.",
+            "The ball will not bounce out of the sink.",
+            "[person_1] will have to face laughter from others.",
+            "[person_1] will get to play.",
+            "[person_1] will be more confident."
+        ],
+        "reason": [
+            "It is unpleasant to eat this kind of candy.",
+            "The force of collision between [person_1] and [person_1] is very strong . So they would get serious injury on their head is they did not wear helmets.",
+            "Because the factory is dangerous.",
+            "[person_1] may throw the ball too hard , so it bounces out of the sink.",
+            "Because looking back frequently will distract [person_1]."
+        ]
+    }
+}

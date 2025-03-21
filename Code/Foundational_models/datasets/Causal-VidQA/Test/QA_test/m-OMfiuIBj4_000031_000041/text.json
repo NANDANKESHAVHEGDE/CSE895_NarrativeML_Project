@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [bench_1]?",
+        "answer": [
+            "The [bench_1] is orange.",
+            "It's white and red.",
+            "There are nine people in the stage.",
+            "30 years old.",
+            "[bench_1] is wearing a hat on his head."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the weights?",
+        "answer": [
+            "[person_1] is shearing [person_1].",
+            "Because [person_1] needs the chessman to complete the movement of [person_1].",
+            "Because [person_1] is training.",
+            "The [person_1] wanted to put something in the [person_1].",
+            "[person_1] needs [person_1] to hit the ball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to lay concrete.",
+            "[person_1] is going to sit down.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] is going to continue to lift.",
+            "[person_1] will check the container."
+        ],
+        "reason": [
+            "[person_1] is leaning to the left.",
+            "[person_1] just started.",
+            "[person_1] is landing on the street.",
+            "[person_1] is dancing in free style.",
+            "[person_1] spins plates in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [tv_1] is dropped ?",
+        "answer": [
+            "The [tv_1] will be broken.",
+            "[tv_1] would not join the cheer - leading team.",
+            "The boss will be happy.",
+            "[tv_1] will immediately press the crocodile's back so hard that the crocodile wouldn't jump.",
+            "The fried chicken legs will stick together."
+        ],
+        "reason": [
+            "They are afraid that [tv_1] may die.",
+            "The [tv_1] is big so it will make a loud noise when it falls.",
+            "[tv_1] and [tv_1] is listen very carefully for the game",
+            "To check whether [tv_1] gets hurt or not and then have a rest.",
+            "The [tv_1] is very fragile."
+        ]
+    }
+}

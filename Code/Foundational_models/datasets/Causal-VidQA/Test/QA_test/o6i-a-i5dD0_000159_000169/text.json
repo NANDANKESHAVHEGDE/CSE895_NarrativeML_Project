@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [couch_1]?",
+        "answer": [
+            "[couch_1] is on the table.",
+            "The color of [couch_1] is white.",
+            "The [couch_1] and the [couch_1] are on the window sill.",
+            "It is on the table.",
+            "The shirt [couch_1] wearing is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "Because [person_1] wants to see the keyboard more clearly.",
+            "[person_1] is raising her eyebrows.",
+            "Maybe [person_1] is playing chess with [person_2].",
+            "[person_1] is \u00a0 helping his daughter somersaults.",
+            "[person_1] is practicing playing flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to playing.",
+            "[person_1] may clean the bathroom.",
+            "[person_1] will put his foot into his mouth."
+        ],
+        "reason": [
+            "[person_1] is placing his finger on each button on the flute.",
+            "Because [person_1] is cooking.",
+            "Because [person_1] is eating potato chips.",
+            "[person_1] and [person_2] are playing chess.",
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] and [person_2] will stop fighting.",
+            "[person_1] and [person_2] may not keep dancing because there is no music.",
+            "[person_1] and [person_2] will stop playing.",
+            "[person_1] will stop hooping.",
+            "[person_1] maybe afraid."
+        ],
+        "reason": [
+            "The light will be off.",
+            "The machine will be stopped working.",
+            "The light will be on.",
+            "[person_2] will stop jumping.",
+            "The light will be green."
+        ]
+    }
+}

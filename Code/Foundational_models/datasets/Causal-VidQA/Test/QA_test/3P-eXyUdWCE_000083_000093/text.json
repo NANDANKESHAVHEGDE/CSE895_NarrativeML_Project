@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it daytime or is it nighttime currently?",
+        "answer": [
+            "It is a bottle.",
+            "A lot of trees.",
+            "The [person_2] is on the table.",
+            "It is daytime.",
+            "The table is near [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] say \" thank you \" to [person_1]?",
+        "answer": [
+            "Because [person_1] helps him tie a necktie on [person_2]'s neck.",
+            "Because the [person_1] wants to test how well the [person_2] door is sealed.",
+            "[person_2] is helping [person_1] open the lid of the box.",
+            "[person_1] needs a surface smooth and hard to practice on as [person_2].",
+            "[person_1]'s body is trying to keep [person_1]'s balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after seeing the tie of [person_2]?",
+        "answer": [
+            "[person_1] will stop playing.",
+            "[person_1] will get applause.",
+            "[person_1] will ask to get off.",
+            "[person_1] will continue learning how to tie and practicing.",
+            "[person_1] is going to help him tie it again."
+        ],
+        "reason": [
+            "after lifting the extremely heavyweight [person_1] will have to relax for a bit.",
+            "Because [person_1] seems to be quite professional.",
+            "[person_2] is tired and needs relax.",
+            "[person_1] seems to think the tie of [person_2] looks weird.",
+            "[person_1] had a headache."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if even [person_1] did not know how to tie a necktie?",
+        "answer": [
+            "They might have to call someone to help them.",
+            "Perhaps [person_1] will fall and injure.",
+            "[person_1] will call [person_1].",
+            "Perhaps [person_1] would eat [person_1].",
+            "[person_1] might no longer keep the [person_1] moving in the right direction"
+        ],
+        "reason": [
+            "The plate looks heavy . If it's not difficult to stabilize , it may hit [person_1]'s feet.",
+            "[person_1] turned the handle upside down and the cake fell down.",
+            "[person_1] is playing hopscotch and he has to jump by one foot at once time.",
+            "Because the formal outfit of [person_2] would be ruined if the necktie looked so sloppy.",
+            "[person_1] and [person_2] followed [person_2]'s instructions."
+        ]
+    }
+}

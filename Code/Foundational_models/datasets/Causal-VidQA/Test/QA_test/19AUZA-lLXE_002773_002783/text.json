@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [handbag_1]?",
+        "answer": [
+            "In [handbag_1]'s hand.",
+            "White.",
+            "[handbag_1] is sitting in front of the keyboard.",
+            "It is on the floor.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] lying on the floor?",
+        "answer": [
+            "[person_3] is teaching how to do a pull - up.",
+            "[person_3] doing a warm - up before yoga.",
+            "Because [person_3] needs a lot of power to lift the weights.",
+            "Maybe [person_3] doesn't know how to stack all the dice once.",
+            "Because [person_3] needs using a lot of force to snatch weight lifting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] will start push - ups.",
+            "[person_1] is going to continue stretching herself .",
+            "[person_1] is going to warm up there.",
+            "[person_1] is going to keep jumping by her left foot."
+        ],
+        "reason": [
+            "Everyone around is doing push - ups.",
+            "[person_1] is rubbing the shoe over and over again.",
+            "From other's behavior we can know after practicing the people need to stand in a line.",
+            "[person_1] ground the stone into a shape.",
+            "[person_1] holding a water bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [handbag_1] is on the floor?",
+        "answer": [
+            "[handbag_1] would not be able to cheer his favorite team.",
+            "[handbag_1] may be surprised and does not know what to do.",
+            "[handbag_1] will stop hosting this show.",
+            "[handbag_1] and [handbag_1] will stop skipping rope.",
+            "[handbag_1] would be moved to another place."
+        ],
+        "reason": [
+            "Drumsticks are essential for playing drums ; without them , [handbag_1] cannot play drums.",
+            "[handbag_1] was too entangled.",
+            "The old lifts seem to be too heavy for him.",
+            "Because children can't play in the dark.",
+            "Sunshine is good for kid."
+        ]
+    }
+}

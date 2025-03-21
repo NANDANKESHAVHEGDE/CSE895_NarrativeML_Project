@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "The shirt is beige.",
+            "It looks like a hand.",
+            "The shirt is black.",
+            "White.",
+            "It's a white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a trimmer ?",
+        "answer": [
+            "[person_1] is shaving and trimming his beard.",
+            "Because he loses the game.",
+            "[person_1] is filming himself so [person_1] is interacting with the camera.",
+            "[person_1] is excited about his action.",
+            "Because they find it interesting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to get more food for the goats.",
+            "[person_1] is going to shave slowly.",
+            "Maybe [person_1] is going to continue dance.",
+            "[person_1] will add another liquor.",
+            "[person_1] is going to step back and observe [person_1]."
+        ],
+        "reason": [
+            "It can not be eat.",
+            "It's important for them to remember.",
+            "[person_1] doesn't want to ruin his beard.",
+            "From other's behavior we can know after practicing the people need to stand in a line.",
+            "[person_1] is wearing tap dancing shoes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the trimmer runs out of battery?",
+        "answer": [
+            "[person_1] will fall down and be hurt.",
+            "[person_1] would not hit [person_1] with his head.",
+            "[person_1] might just massage [person_1]'s eyes.",
+            "Perhaps [person_1] will be difficult to ride [person_1].",
+            "The trimmer won't be able to keep working."
+        ],
+        "reason": [
+            "[person_1] is quite small to practice alone.",
+            "[person_1] kept looking at the goat and the food so maybe [person_1] would reach out to touch the goat.",
+            "The weight lifting is very heavy . When the floor collapses , the weight lifting may override [person_1].",
+            "It will need to be charged.",
+            "[person_1] can't continue his way with the barrier."
+        ]
+    }
+}

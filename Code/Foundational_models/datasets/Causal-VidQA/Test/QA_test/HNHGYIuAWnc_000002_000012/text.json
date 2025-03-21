@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is behind the [person_1].",
+            "[chair_1] is beside [person_1].",
+            "[chair_1] is next to [person_1].",
+            "[chair_1] is on the stage.",
+            "It is \u00a0 in the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put his hand on his eyes?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] puts his hand on his eyes because he has eyestrain.",
+            "She has won the prize.",
+            "Because [person_1] is showing how to play it.",
+            "Because he lost the game."
+        ]
+    },
+    "predictive": {
+        "question": "What is the cameraman who is recording [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take his T - shirt off.",
+            "[person_1] will have a rest.",
+            "[person_1] is going to mark the performance.",
+            "The cameraman will film the person who sits next to the [person_1].",
+            "[person_1] will tidy up beard."
+        ],
+        "reason": [
+            "Because [person_1] who wears a hat staked to the border of the ice rink.",
+            "Because he hasn't finished counting.",
+            "Because the bowl is too narrow for [person_1] to run and play.",
+            "The cameraman turns the camera to the person who sits next to the [person_1].",
+            "[person_1] is talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [fork_1] falls?",
+        "answer": [
+            "[person_1] will feel pain.",
+            "[person_1] may repair it.",
+            "[person_1] will pick it up.",
+            "[person_1] may call someone to repair it.",
+            "The light bulbs would turn off."
+        ],
+        "reason": [
+            "The [person_1] understands and does what the [person_1] says.",
+            "Because the hat will be stained with food.",
+            "The [person_1] doesn't want to go out of the beach.",
+            "[person_1] is sitting right next to the [fork_1].",
+            "[person_1] will receive a message from someone."
+        ]
+    }
+}

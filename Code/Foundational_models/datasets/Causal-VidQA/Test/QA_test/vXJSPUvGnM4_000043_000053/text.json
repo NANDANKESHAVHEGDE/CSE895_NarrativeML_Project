@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the gym.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym .",
+            "[person_1] is in his house.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [bowl_1]?",
+        "answer": [
+            "[person_1] is reading a book.",
+            "[person_1] is ripping paper.",
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] just received a gift.",
+            "[person_1] is being splashed with water."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to bandage [person_1].",
+            "[person_1] is going to squeeze the orange in his hands.",
+            "[person_1] is going to go home."
+        ],
+        "reason": [
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] has turned away.",
+            "[person_1] is snowmobiling.",
+            "[person_1] is holding it tight on the orange extractor.",
+            "[person_1] has not finished his talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the house of [person_1] suddenly loses power?",
+        "answer": [
+            "Perhaps [person_1] will go home.",
+            "The [person_1] will not take time of other to perform.",
+            "The [person_1] will not meet difficulties in peeling.",
+            "[person_1] will have to squeeze the oranges by hand.",
+            "Perhaps [person_1] will come back home immediately."
+        ],
+        "reason": [
+            "It is dangerous.",
+            "There is no place to sit.",
+            "The orange extractor needs electricity to work.",
+            "Because the weather is not suitable to play.",
+            "Shaving is a way to make [person_1] looks more handsome."
+        ]
+    }
+}

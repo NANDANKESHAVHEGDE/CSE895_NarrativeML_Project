@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] putting down on [dining table_1]?",
+        "answer": [
+            "[person_1] has long hair and white skin",
+            "It is a gong.",
+            "The boy is watching the pen tapping tutorial.",
+            "[person_1] is putting down a cell phone.",
+            "[person_1] is tall and fat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] touching the screen of the cell phone?",
+        "answer": [
+            "because [person_1] is going to turn the [cell phone_1] on.",
+            "Because the [person_1] wants to protect his head.",
+            "Maybe [cell phone_1] feels hurt.",
+            "Because [person_1] plans to propose at the stage.",
+            "[person_1] and [person_1] are working."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] may clean the inside.",
+            "[person_1] has an intention of playing flute.",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to put the pencil into the sharpener machine."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "Because [person_1] has a brush in his hand.",
+            "Because [person_1] is holding a brand new pencil.",
+            "[person_1] is facing [person_1].",
+            "Maybe [person_1] likes to play with toys."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not drop the cell phone?",
+        "answer": [
+            "[person_1] would be sad about it.",
+            "[person_1] may walk faster.",
+            "[person_1] may get sunburned.",
+            "[person_1] may be the one to open it.",
+            "[person_1] would not be able to pick up the pencil."
+        ],
+        "reason": [
+            "[person_1] would not walk on the rope.",
+            "[person_1] wants to know why.",
+            "The plank needs to be fixed.",
+            "[person_1] may bump into furniture in the room.",
+            "[person_1] would not have any hand to hold the pencil."
+        ]
+    }
+}

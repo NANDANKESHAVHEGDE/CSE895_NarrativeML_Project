@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is at the door of a museum.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in a small library.",
+            "[person_1] is near the lake."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] kneeling there?",
+        "answer": [
+            "the mechanical bull moves faster and faster to make [person_1] tired.",
+            "[person_1] is performing circus.",
+            "[person_1] is ripping paper.",
+            "[person_1] is listening to music.",
+            "[person_1] and [person_1] are preparing to do something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] will leave.",
+            "[person_1] going to pull the sword out of his mouth.",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift."
+        ],
+        "reason": [
+            "[person_1] is touching three cups.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "Because [person_1] is wearing a baby bib.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] just swallowed the sword in his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] wants to try that circus technique?",
+        "answer": [
+            "[person_4] may make [person_4] bleed.",
+            "The [person_4] will have power to throw.",
+            "The score in the notebook of [person_4] may change.",
+            "[person_4] may win this fight.",
+            "[person_4] won't be able to do it."
+        ],
+        "reason": [
+            "Because it is a safety standard for the racers.",
+            "[person_4] can't use a broken board to lay the deck.",
+            "[person_4] is just an audience.",
+            "Because [person_4] is doing so well.",
+            "Because kids under the hot sun are liable to sunstroke."
+        ]
+    }
+}

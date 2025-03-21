@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [teddy bear_1] ?",
+        "answer": [
+            "[teddy bear_1] is next to [teddy bear_1].",
+            "[teddy bear_1] is standing between [teddy bear_1] and [teddy bear_1].",
+            "[teddy bear_1] is placed on the black table which is on the right side of [teddy bear_1].",
+            "[teddy bear_1] is next to the boy.",
+            "[teddy bear_1] is in bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting here ?",
+        "answer": [
+            "[person_1] is making a base of the basket.",
+            "[person_1] is playing with the books.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is reading the newspaper and drink milk.",
+            "Because [person_1] wants to unscrew the lid of the beer with his eyelids."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will keep walking.",
+            "[person_1] will probably go on folding the napkin.",
+            "[person_1] will keep playing.",
+            "[person_1] will display his good work of the opening."
+        ],
+        "reason": [
+            "[person_1] is getting the bottle through the chair.",
+            "[person_1] is playing alone.",
+            "[person_1] is concentrating on making the basket deftly.",
+            "[person_1] must keep track of her student's progress.",
+            "[person_1] is still a little kid and impatient."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the book drops ?",
+        "answer": [
+            "[person_1] will pick it up.",
+            "[person_1] will look back.",
+            "[person_1] will put the ice into cold storage.",
+            "[person_1] may not wave the hand.",
+            "[person_1] will strain his muscle."
+        ],
+        "reason": [
+            "Then [person_1] will play with it.",
+            "When [person_1] stands on the board , his father swims in the pool alone.",
+            "Because [person_1] was there to see [person_1] dancing.",
+            "When the cattle are on the farm , [person_1] need to run quickly to drive them in the barn before the evening.",
+            "When [person_1] jumps , she begins to swim right away."
+        ]
+    }
+}

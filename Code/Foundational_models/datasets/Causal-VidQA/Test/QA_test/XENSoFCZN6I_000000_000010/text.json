@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a hockey field.",
+            "[person_1] is in the studio.",
+            "[person_1] is in the bar.",
+            "[person_1] is in bathroom.",
+            "It is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] push the hockey ball?",
+        "answer": [
+            "[person_1] is practicing playing field hockey.",
+            "[person_1] is focusing on the work.",
+            "To finish her exercise.",
+            "[person_1] trained the dog to skip rope before.",
+            "[person_1] wants to water the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] will continue to play drums enthusiastically.",
+            "[person_1] tends to play the guitar while singing.",
+            "It is possible that [person_1] will play with the others.",
+            "[person_1] intends to learn about the harp.",
+            "[person_1] intends to continue snatch the weight lifting."
+        ],
+        "reason": [
+            "[person_1] is snatching weight lifting overhead.",
+            "[person_1] loves playing violin.",
+            "[person_1] is moving the wrong chess piece.",
+            "Because [person_1] dreams of showing off her talent.",
+            "It is a psychological tendency that the more , the merrier."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained heavily?",
+        "answer": [
+            "[person_1] would get injury on his toes.",
+            "The woman would stop picking apples.",
+            "[person_1] might have to stop his training.",
+            "[person_1] would be fine.",
+            "The tap will be turned off."
+        ],
+        "reason": [
+            "Because [person_1] makes a video on [person_1] , the banana can't tumble on the ground.",
+            "The living statue performers are performing on the street without a roof.",
+            "The grasses are wet , so it is dangerous.",
+            "Because there aren't any unfolded clothes here.",
+            "[person_1] might get wet and have a bad cold."
+        ]
+    }
+}

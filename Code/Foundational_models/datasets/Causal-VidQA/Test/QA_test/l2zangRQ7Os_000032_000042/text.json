@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [motorcycle_1]?",
+        "answer": [
+            "The [motorcycle_1] is next to [person_1].",
+            "[person_1] is rubbing [person_1]'s face.",
+            "The accordion of [person_1] is red and white.",
+            "No.",
+            "The [motorcycle_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_4] sitting on the ground?",
+        "answer": [
+            "It's cold and snowy outside.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_4] is confused.",
+            "[person_1] wants to grind them.",
+            "[person_4] is watching [person_1] and [person_3] playing badminton."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do?",
+        "answer": [
+            "[person_3] is likely to buy sari.",
+            "[person_3] will move to hit the shuttlecock back.",
+            "Teach how to do massaging neck.",
+            "[person_3] will keep dough.",
+            "[person_3] may rub hand,"
+        ],
+        "reason": [
+            "[person_1] just hits the shuttlecock toward [person_3].",
+            "[person_3] fills the hole with soil to plant the banana tree.",
+            "[person_3] will straighten [person_3]'s back because [person_1] is tending to straighten [person_1]'s back.",
+            "[person_1] had made [person_3] get down on [person_3]'s knee",
+            "He smiles happily and seems interested in the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has cramps while he is playing?",
+        "answer": [
+            "It will arouse [person_1]'s interest.",
+            "Not much students will find out.",
+            "[person_1] could not play the double bass.",
+            "The plate will be broken down.",
+            "[person_1] may stop playing."
+        ],
+        "reason": [
+            "The [person_1] is near the track of the plate.",
+            "Because [person_1] needed to take the car toy out in order to see it clearly.",
+            "The way [person_1] speaks annoys [person_1] . If [person_1] says something different , it will catch [person_1]'s attention.",
+            "Because [person_1] can't keep playing while having cramps.",
+            "Because [person_1] needed it to walk."
+        ]
+    }
+}

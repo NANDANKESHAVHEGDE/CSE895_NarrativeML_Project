@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1] shorts?",
+        "answer": [
+            "It is black.",
+            "There is a wall cabinet.",
+            "No.",
+            "The [person_1] is behind the [person_1].",
+            "[person_1] is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] exercise?",
+        "answer": [
+            "[person_1] practices before the competition.",
+            "[person_1] wants to improve her performance.",
+            "With many tools.",
+            "[person_1] is practicing playing the cello.",
+            "[person_1] is afraid."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the full preparation?",
+        "answer": [
+            "[person_1] will stop skating and leave the rink.",
+            "[person_1] will pick up [person_1] and hop back past [person_1].",
+            "[person_1] will drink coconut water.",
+            "[person_1] will start to do exercise.",
+            "[person_1] will talk about the candle."
+        ],
+        "reason": [
+            "Because the space of house is limited.",
+            "Because they want to hold an activity together.",
+            "[person_1] went through the effort of making the coffee so she would drink it.",
+            "[person_1] seems to do it frequently.",
+            "[person_1] seems to raise her hands and squat down to stretch her body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "People will not be there.",
+            "[person_1] can stop practice.",
+            "The ceremony will take place as usual.",
+            "The competition may stop.",
+            "[person_1] may not keep running."
+        ],
+        "reason": [
+            "[person_1] may fall.",
+            "[person_1] will go inside.",
+            "The people is outside , if it rains they will get wet.",
+            "[person_1] will not keep standing outside.",
+            "[person_1] will go inside."
+        ]
+    }
+}

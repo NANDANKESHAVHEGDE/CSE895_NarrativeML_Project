@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is beside the grass.",
+            "[person_1] is in the room.",
+            "[person_1] is standing under a tree.",
+            "[person_1] is on the balcony."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] being held while playing the keyboard?",
+        "answer": [
+            "Because [person_1] is in space.",
+            "[person_1] asks [person_1] to play with her.",
+            "Because [person_1] is still young and can't sit and play on [person_1]'s own yet.",
+            "[person_1] is companying [person_1].",
+            "[person_1] is shearing a sheep for wool."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play another games.",
+            "[person_1] intends to teach [person_1] to play chess.",
+            "[person_1] will stop playing the cello.",
+            "[person_1] intends to continue playing the keyboard.",
+            "[person_1] intends to knock on the gong in front of [person_1]."
+        ],
+        "reason": [
+            "[person_1] is holding the chess piece.",
+            "[person_1] is putting [person_1]'s hands on the keyboard.",
+            "[person_1] is holding a chessman.",
+            "[person_1] is still holding and moving the harp.",
+            "[person_1] is preparing for the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down ?",
+        "answer": [
+            "Maybe [person_1] will help [person_1] up.",
+            "[person_1] will go to catch [person_1] right away.",
+            "Perhaps [person_1] may keep playing and be more careful.",
+            "[person_1] will call adults.",
+            "[person_1] will be hurt."
+        ],
+        "reason": [
+            "[person_1] very close to [person_1].",
+            "[person_1] may not run.",
+            "Practice makes perfect.",
+            "The floor is very hard.",
+            "[person_1] may hit her hand against the cabinet."
+        ]
+    }
+}

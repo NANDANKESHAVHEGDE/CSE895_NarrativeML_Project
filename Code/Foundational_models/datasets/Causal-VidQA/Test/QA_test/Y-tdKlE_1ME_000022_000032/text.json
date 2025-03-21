@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is white.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "How are [person_1] , [person_2] and [person_3] doing tai chi moves?",
+        "answer": [
+            "[person_1] is looking at someone who is standing near her.",
+            "[person_1] , [person_2] and [person_3] are moving their arms to the left and to the right in front of their chests.",
+            "[person_1] is playing mahjong on his phone.",
+            "Because [person_1] enjoys hearing the sound of ripping paper.",
+            "[person_1] is playing something with another person."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to straight her legs vertically.",
+            "[person_1] is going to comb his hair.",
+            "[person_1] is going to move her arms backwards while turning around.",
+            "[person_1] is going to become a perfect bodybuilder.",
+            "[person_1] will continue play with water."
+        ],
+        "reason": [
+            "[person_1] is still playing with water.",
+            "[person_1] must have a destination , maybe work place.",
+            "There is a large gap between his body and the bar when he jumps.",
+            "Because [person_1] is holding a comb to comb his hair.",
+            "Moving arms backwards and turning around are the next moves of the drill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] missed a move?",
+        "answer": [
+            "[person_1] will stop the video.",
+            "[person_2] may hold [person_1] back before falling.",
+            "[person_1] won't read the information in the magazine.",
+            "[person_1] on it will break.",
+            "[person_2] and [person_2] would stop for a while and wait for [person_1]."
+        ],
+        "reason": [
+            "Because the bride's ex - husband may find some troubles here.",
+            "A person is talking to [person_1] , and [person_1] stops to start a conversation.",
+            "They are practicing together and they want to make a great performance in which all members can follow the moves.",
+            "[person_1] is just a child and don't know how to squeeze oranges without instruction.",
+            "If they lose their support surface they will fall because of earth's gravity."
+        ]
+    }
+}

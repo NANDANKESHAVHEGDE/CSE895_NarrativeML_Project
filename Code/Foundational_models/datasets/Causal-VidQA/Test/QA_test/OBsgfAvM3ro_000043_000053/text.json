@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What tool is used by [person_1]?",
+        "answer": [
+            "It's a lighter.",
+            "[person_1] is on [person_1].",
+            "The [person_1] is behind [person_1].",
+            "It is on the ground and next to [person_1] right foot.",
+            "[person_1] is circle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving the chair at beginning?",
+        "answer": [
+            "Someone is teasing [person_1].",
+            "[person_1] is trying to keep the safety of [person_1].",
+            "Because the chair will influence his performance.",
+            "Because they're teasing the children.",
+            "[person_1] is a child."
+        ]
+    },
+    "predictive": {
+        "question": "What's is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to open the cap of [bottle_1] with another tool.",
+            "[bottle_1] is going to hop in the first square.",
+            "[person_1] is going to eat the chips.",
+            "[person_1] is going to know what is in the piece of paper of [person_1].",
+            "[person_1] is going to watch [person_1] opening a present."
+        ],
+        "reason": [
+            "[person_1] uses another tool to stick to the [bottle_1] in the end.",
+            "Because [bottle_1] just has a drink and gets excited and moves his bodies ready to dance.",
+            "The rubber cable is [person_1]'s hands.",
+            "Because [person_1] is a referee.",
+            "[person_1] does not know how to fly a kite without [person_1] 's help."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the chair didn't be removed?",
+        "answer": [
+            "[person_1] will not open the cap of [bottle_1] successfully at beginning.",
+            "That the [person_1] falls will startle others in the room.",
+            "[person_1] will open the cap of [bottle_1] successfully at beginning.",
+            "[bottle_1] would be lit up.",
+            "[person_1] will not open the cap of [bottle_1] successfully at endding."
+        ],
+        "reason": [
+            "[person_1] will sit under the chair , which will make [person_1] open the beer bottle with less force",
+            "[person_1] is dancing near the bars.",
+            "[person_1] will sit on the chair , which will make [person_1] open the beer bottle with more force",
+            "Because [person_1] may feel painful on his head.",
+            "[person_1] will sit on the chair , which will make [person_1] open the beer bottle with less force"
+        ]
+    }
+}

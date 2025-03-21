@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the hair of [person_1]?",
+        "answer": [
+            "The paper fan is hanged on the wall.",
+            "[person_1] has curly hair.",
+            "The fire extinguisher is red.",
+            "The floor is white color.",
+            "The main color of the floor is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a basketball ?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing cymbals.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is planing wood.",
+            "[person_1] is playing \u00a0 basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to dunk again.",
+            "[person_1] is going to laugh.",
+            "[person_1] is about to eat.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] will eat the apple on the table."
+        ],
+        "reason": [
+            "The milk needs to be put in the fridge.",
+            "[person_1] is practicing dunk.",
+            "[person_1] has not finished his talking.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is preparing to turn another somersault."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls while practicing dunk?",
+        "answer": [
+            "[person_1] will be happy.",
+            "It is possible that [person_1] will not have attractive eyes.",
+            "[person_1] will be injured.",
+            "The [person_1] would let others know that the [person_1] is a mimic statue.",
+            "[person_1] won't be injured."
+        ],
+        "reason": [
+            "The sun is too shine.",
+            "Dunk is a easy technique and needs to be practiced carefully.",
+            "[person_1] should do it in order not to damage his lungs.",
+            "Dunk is a difficult technique and needs to be practiced carefully.",
+            "The room will be dark."
+        ]
+    }
+}

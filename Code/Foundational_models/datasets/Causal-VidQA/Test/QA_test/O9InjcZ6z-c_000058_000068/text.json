@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What animal is the [person_1] riding?",
+        "answer": [
+            "The [person_1] is riding a camel.",
+            "The shirt [person_1] wearing is blue.",
+            "[person_1] is skipping rope with the dog.",
+            "The shirt [person_1] wearing is gray.",
+            "The [person_1] is handing a piano accordion."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] do this?",
+        "answer": [
+            "Because he wants to have this special experience.",
+            "The knife is too small to cut a coco.",
+            "By using a circular saw.",
+            "It's too shinny outside.",
+            "Because it is very sunny outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do with the camel?",
+        "answer": [
+            "[person_1] will cut the cloth.",
+            "The [person_1] will ride it alone the road.",
+            "The [person_1] will control the phone.",
+            "The [person_1] will pick them up.",
+            "The [person_1] will put it on the ground."
+        ],
+        "reason": [
+            "Because the [person_1] wants it to be clean.",
+            "Because the [person_1] must do these housework today.",
+            "[person_1] will need more ingredients to make a complete salad.",
+            "The treadmill doesn't work.",
+            "Because the [person_1] wants to ride more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the [person_1] does not know how to get off the camel?",
+        "answer": [
+            "The [person_1] will prevent others to help him.",
+            "[person_1] will immediately run to the step to escape the crocodile.",
+            "The [person_1] will ask nobody to help him.",
+            "[person_1] will run away.",
+            "The [person_1] will ask others to help him."
+        ],
+        "reason": [
+            "Because it is the first time for [person_1] to ride a camel.",
+            "There are a lot of balls and [person_1] can kick many times.",
+            "Because it is the last time for [person_1] to ride a camel.",
+            "[person_1] can't keep his balance when the tightrope shakes.",
+            "Because it is the first time for [person_1] to eat a camel."
+        ]
+    }
+}

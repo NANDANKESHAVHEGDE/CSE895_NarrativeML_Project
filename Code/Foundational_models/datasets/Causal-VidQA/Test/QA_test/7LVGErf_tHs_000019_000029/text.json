@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is giving head massage to his customer.",
+            "[person_2] is playing the piano.",
+            "[person_2] is doing massaging neck for [person_1].",
+            "[person_2] is giving massage to [person_1]'s head.",
+            "[person_2] is sing and walking towards [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] go for a massaging neck?",
+        "answer": [
+            "To finish her exercise.",
+            "[person_1] is focusing on the work.",
+            "To relax.",
+            "[person_1] is practicing playing field hockey.",
+            "In order to make bubbles."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand still.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] may keep trying to learn more new skills."
+        ],
+        "reason": [
+            "It's important for them to remember.",
+            "Their stems are too long.",
+            "Because it is too comfortable.",
+            "There is a coming car.",
+            "The window was only half cleaned."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] twisted [person_1]'s neck suddenly?",
+        "answer": [
+            "It will affect [person_1] driving and may cause danger.",
+            "[person_2] will take [person_1] to the hospital.",
+            "[person_1] will focus both eyes.",
+            "[person_2] will not take [person_1] to the hospital.",
+            "The [person_2] will wash the clothes for the [person_1]."
+        ],
+        "reason": [
+            "To do some medical examinations.",
+            "Because they are ready to help each other.",
+            "To do no medical examinations.",
+            "[person_1] is trying to challenge herself.",
+            "To do too much medical examinations."
+        ]
+    }
+}

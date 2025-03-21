@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] and [person_2] are at the roller rink.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are in the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look back?",
+        "answer": [
+            "Maybe [person_1] sees something interesting behind him.",
+            "Because [person_1] wants to be able to unwrap the gift quickly.",
+            "The [person_1] wiped the bed.",
+            "Because [person_1] is not old enough to stand up.",
+            "[person_1] wants to protect the head."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to kiss the woman.",
+            "[person_2] will continue his talk.",
+            "[person_2] is going to whistle.",
+            "[person_2] is going to put his cup away.",
+            "[person_2] is going to continue testifying."
+        ],
+        "reason": [
+            "[person_2] is a new dancer , so [person_2] is going to teach [person_2] dance skill.",
+            "[person_2] has a toy.",
+            "[person_2] is pouting , preparing to whistle.",
+            "[person_2] is looking at [person_2] for help.",
+            "[person_2] will not riding as well as other kids."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the whistle of [person_2] is too loud?",
+        "answer": [
+            "[person_2] won't be scolded by someone.",
+            "[person_2] will stop the pulling and stoop down to pick up the glasses.",
+            "[person_2] will be scolded by no one.",
+            "[person_2] would not throw the ball away.",
+            "[person_2] will be scolded by someone."
+        ],
+        "reason": [
+            "[person_2] should make noise on the bus.",
+            "The juice inside could be enjoyed.",
+            "[person_2] shouldn't make noise on the bus.",
+            "Then [person_2] is easily distracted.",
+            "[person_2] shouldn't make noise off the bus."
+        ]
+    }
+}

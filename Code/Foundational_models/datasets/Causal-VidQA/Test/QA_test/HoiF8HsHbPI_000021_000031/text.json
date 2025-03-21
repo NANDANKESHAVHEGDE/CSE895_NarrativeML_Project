@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] doing ?",
+        "answer": [
+            "[person_1] and [person_2] are opening the presents.",
+            "[person_1] and [person_2] are standing in the middle of the desert.",
+            "The color of [person_2] is yellow.",
+            "[person_1] and [person_2] are shouting.",
+            "[person_1] and [person_2] are playing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] laughing ?",
+        "answer": [
+            "[person_1] is excited about playing with [person_2].",
+            "Perhaps [person_1] is stressed and [person_1] wants to relax.",
+            "Because [person_1] has to shape the sushi.",
+            "Because [person_1] wants to get grape juice.",
+            "[person_1] makes [person_2] laughs."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next after seeing what [person_1] does?",
+        "answer": [
+            "[person_2] is going to burst into laughter.",
+            "[person_1] will rest.",
+            "He is going to take his left hand of the table.",
+            "[person_1] will cheer.",
+            "[person_1] is going to kick it."
+        ],
+        "reason": [
+            "[person_2] is smiling a lot and looks quite happy.",
+            "[person_1] is waiting for medicine totally being absorbed.",
+            "[person_2] is the instructor.",
+            "[person_1] wants to go to the toilet.",
+            "[person_1] opens it because the liquid inside is for drink."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't rip paper ?",
+        "answer": [
+            "It is possible that [person_1] will not have attractive eyes.",
+            "[person_1] will not do exercise.",
+            "[person_1] will hurt his eyes.",
+            "[person_2] will stop laughing.",
+            "[person_2]'s mother would come."
+        ],
+        "reason": [
+            "[person_2] will sleep.",
+            "[person_1] will need to go ashore to warm up.",
+            "To drink some water and relax.",
+            "[person_1] is still trying now.",
+            "[person_2] looks at [person_1] with love."
+        ]
+    }
+}

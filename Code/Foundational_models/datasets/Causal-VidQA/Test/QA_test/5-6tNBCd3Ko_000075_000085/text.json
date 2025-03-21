@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is riding a unicycle.",
+            "[person_1] is collecting grape juice.",
+            "[person_1] is shopping.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is digging pulp from the coco."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] jump on his unicycle?",
+        "answer": [
+            "[person_1] is putting lipstick on her hand to check the color.",
+            "[person_1] jumps on his unicycle to make it goes down the stairs.",
+            "Because in the other hand [person_1] holds another instrument.",
+            "Because [person_1] is outside and the weather is sunny.",
+            "[person_1] used his hand to stop the video."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will certainly spray paint.",
+            "[person_1] is going to approach [person_1] and [person_1].",
+            "[person_1] is trying to approach [person_1] and [person_1].",
+            "[person_1] may continue repairing the chair.",
+            "[person_1] will do some parkour by his unicycle."
+        ],
+        "reason": [
+            "[person_1] is holding tightly the ball and it seems like he is trying break it.",
+            "Raising the lifts is one of the movements of the drill , but the lifts are lowered.",
+            "[person_1] is putting his fingers in the holes of the flute.",
+            "[person_1] has a lot of oranges on the table.",
+            "[person_1] puts the camera on the ground , rides on his unicycle , looks at the camera , and prepares to jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [bicycle_1] slipped out?",
+        "answer": [
+            "[bicycle_1] might get hurt.",
+            "[person_1] will put down her hands.",
+            "[person_1] would fall down the stairs.",
+            "[person_1] would drop his hat.",
+            "[person_1] may get hurt."
+        ],
+        "reason": [
+            "Because water can humidify the mixture.",
+            "[person_1] looks young and must have other toys.",
+            "[person_1] is riding a unicycle on the stairs.",
+            "There are big snows around the [person_1].",
+            "the light is providing light for [person_1] to see."
+        ]
+    }
+}

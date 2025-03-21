@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_2] cover [person_2]'s face with?",
+        "answer": [
+            "[person_2] covers [person_2]'s face with a red cloth.",
+            "[person_2] is giving massage to [person_2]'s head.",
+            "[person_2] is giving head massage to his customer.",
+            "[person_2] is crouching and moving back and forth.",
+            "[person_2] is sing and walking towards [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] cover his face?",
+        "answer": [
+            "Because the woman who sits near [person_2] is happy with the ring and the proposal.",
+            "To show the ring that [person_2] received.",
+            "[person_2] is performing.",
+            "Because [person_2] doesn't want the camera to see [person_2]'s face.",
+            "Because it is sunny and so bright on the road."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] aim to do next?",
+        "answer": [
+            "[person_1] tends to eat a hot dog.",
+            "[person_1] will ask his parents to try.",
+            "[person_1] will spit out gum.",
+            "[person_1] tends to eat all the hot dogs in his hand.",
+            "[person_1] will continue typing."
+        ],
+        "reason": [
+            "[person_1] will continue typing because [person_1] is creating a melody for [person_2] to sing.",
+            "[person_1] feels it boring to play with the inhaler.",
+            "It seems that [person_2] feels tired and does not want to continue.",
+            "[person_1] rides in a circle regularly.",
+            "[person_1] seems to be happy and pays his attention on the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] removed the cloth that was covering [person_2]'s face?",
+        "answer": [
+            "[person_2] would probably still sing normally.",
+            "[person_2] may feel more comfortable.",
+            "[person_2] will hit the ground hard and get hurt.",
+            "The cup will be broken into many pieces.",
+            "[person_2] will still happy."
+        ],
+        "reason": [
+            "The knife is sharp and the wound will be deep.",
+            "The sunshine is strong.",
+            "[person_2] would probably still sing normally because the cloth doesn't affect anything.",
+            "There is still a lot of land to plant.",
+            "The [person_2] and [person_2] notice the result and cherish themselves."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Which material was [chair_1] made from?",
+        "answer": [
+            "[chair_1] is standing on a mattress.",
+            "[chair_1] is standing behind a camera.",
+            "[chair_1] is standing beside the sink.",
+            "[chair_1] was made from dyed leather and styrofoam.",
+            "[chair_1] is next to the windows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look so happy?",
+        "answer": [
+            "The other foot of [person_1] is injured.",
+            "[person_1] looks very concentrated on playing harmonica.",
+            "[person_1] is playing the dice.",
+            "[person_1] is using [person_1] to squeeze oranges.",
+            "Because [person_1] wants to be safe when skiing."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bend his body , reach his feet.",
+            "[person_1] is going to perform other skills.",
+            "[person_1] is going to continue flip the pancake in [person_1].",
+            "[person_1] is going to turn around and keep performing martial art.",
+            "[person_1] will continue to lie down."
+        ],
+        "reason": [
+            "[person_1] is skating while moving with other people in the center.",
+            "[person_1] does not breath out all the smoke when inhaling.",
+            "[person_1] just reached for a piece of food , and is ready to throw.",
+            "[person_1] is performing [person_1]'s skills and there will be plenty more.",
+            "[person_1] is moving the cigar toward the mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] use smaller cup?",
+        "answer": [
+            "[person_1] wouldn't be able to drink.",
+            "It would be hard for [person_1] to stack all 10 dices.",
+            "Perhaps [person_1] will replay the song.",
+            "[person_1] will know first.",
+            "[person_1] , [person_1] and [person_1] will not fall off and lean on the chair comfortably."
+        ],
+        "reason": [
+            "[person_1] is putting the paper on top of [person_1].",
+            "The [person_1] needs to be filled again.",
+            "The program will be stopped for troubleshooting.",
+            "While stacking dice , the cup needs enough space for containing dices.",
+            "Because [person_1] will not want to be hit by the cars."
+        ]
+    }
+}

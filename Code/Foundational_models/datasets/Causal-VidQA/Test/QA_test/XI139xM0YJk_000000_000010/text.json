@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a museum.",
+            "[person_1] is at the gym.",
+            "[person_1] is in a fashion shop.",
+            "[person_1] is in a library.",
+            "[person_1] is outside his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing and doing nothing?",
+        "answer": [
+            "Maybe the harmonica is a toy of [person_1].",
+            "[person_1] is looking at someone who is standing near her.",
+            "[person_1] is shaving and trimming his beard.",
+            "Because [person_2] is tying a bow on his neck.",
+            "[person_2] makes the bubble with a ring."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to get the decorations on the table and continue to decorate the Christmas tree.",
+            "[person_1] is going to finish decorating the left ledge.",
+            "[person_1] is going to wait for [person_2] to help him tie a bow.",
+            "[person_1] is going to continue exercising.",
+            "[person_1] will continue standing here to see them practicing."
+        ],
+        "reason": [
+            "[person_1] is crawling forward.",
+            "Because [person_1] stands straightly and does not move.",
+            "[person_1] is a lover of that beer.",
+            "[person_1] is going to go home.",
+            "[person_1] likes this type of film."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not know how to tie a bow?",
+        "answer": [
+            "The customer will ask to go to the hospital.",
+            "The man will add weight.",
+            "[person_2] and [person_2] would probably get attacked.",
+            "Barbecues will have to stop.",
+            "The fashion shop's revenue would decrease."
+        ],
+        "reason": [
+            "If [person_2] dropped the book she would interrupt herself and pause to pick it up.",
+            "Because dogs can not pull [person_2].",
+            "Because it might be deemed as substandard service quality.",
+            "To help the man exercise well.",
+            "[person_2] and [person_2] would stop dancing because they wouldn't see anything."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_5] and [person_2] playing?",
+        "answer": [
+            "The eyeliner is black.",
+            "The speaker is black.",
+            "[person_5] and [person_2] are playing violins.",
+            "It's black.",
+            "It is an electronic string of a microphone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_4] standing up?",
+        "answer": [
+            "[person_4] is doing a skate movement.",
+            "[person_4] is playing piano and that is the best position.",
+            "[person_4] is picking the poi that he dropped.",
+            "[person_4] is playing chess.",
+            "[person_4] is taking clothes out of the box."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep playing clarinet.",
+            "[person_1] may not eat the egg.",
+            "[person_1] will continue turning over.",
+            "[person_1] will bend back.",
+            "[person_1] is going to stop smoking."
+        ],
+        "reason": [
+            "[person_1] is playing woodwind instruments with [person_3] in the band.",
+            "[person_1] is touching three cups.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "So that [person_1] has a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the painting on the wall dropped down?",
+        "answer": [
+            "[person_4] felt surprised.",
+            "The music performance would be interrupted.",
+            "[person_2] could not teach others.",
+            "[person_2] could not see the ball.",
+            "[person_5]'s feet will be dirty."
+        ],
+        "reason": [
+            "Because the car needs gas to run.",
+            "Because the microphone cannot work without power.",
+            "Music performances need concentration.",
+            "Glass is brittle while rubber is flexible.",
+            "It is too dark for them to continue the performance and spectators cannot see performers."
+        ]
+    }
+}

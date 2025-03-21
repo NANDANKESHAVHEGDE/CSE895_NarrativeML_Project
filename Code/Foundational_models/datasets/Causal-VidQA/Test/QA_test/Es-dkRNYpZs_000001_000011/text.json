@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3] standing?",
+        "answer": [
+            "[person_3] is holding [person_3].",
+            "[person_3] is holding [person_3].",
+            "[person_3] is holding a target pad.",
+            "[person_3] is standing on the grass.",
+            "[person_3] is holding a stick and the wax."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] clapping?",
+        "answer": [
+            "[person_3] is showing his respect towards his country as well as the other athletes.",
+            "[person_1] is standing outside playing his bagpipe for money.",
+            "[person_3] claps his hand to congratulate [person_1].",
+            "[person_3] is playing with his phone.",
+            "It is a relatively big pit on the ground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to eat the potato chips she is holding.",
+            "[person_2] will stand up by herself.",
+            "[person_2] is going to keep crying.",
+            "[person_2] is going to put down the milk and eat the donut in his hand.",
+            "[person_2] is going to pick up the wooden board."
+        ],
+        "reason": [
+            "Because [person_2] is running fastest.",
+            "[person_2] used a ruler to measure wood.",
+            "[person_2] is going to talk with [person_2].",
+            "[person_2] pick the wooden board for others to kick.",
+            "[person_2] always picks up the shuttlecock."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] misses the board?",
+        "answer": [
+            "[person_1] will ask [person_3] for help.",
+            "[person_1] will feel awkward.",
+            "[person_1] will sit on the sofa.",
+            "[person_1] will be very happy.",
+            "[person_3] might not clap his hands."
+        ],
+        "reason": [
+            "When [person_1] stacks the dices , he is so happy that he screams aloud and claps his hands.",
+            "If [person_1] can't catch the ball , the ball will be outbound.",
+            "[person_1] walked to the back in order to quickly find the number of tires , and then better introduce the tires to [person_3].",
+            "[person_3] claps his hands to congratulate [person_1] , if [person_1] missed the board he would not be congratulated.",
+            "[person_3] was sitting next to the legs of [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [truck_1]?",
+        "answer": [
+            "[truck_1] is to the left in the background.",
+            "[truck_1] and [truck_1] are in the living room.",
+            "[truck_1] is parking next to the yard.",
+            "[truck_1] and [truck_1] are in a bathroom.",
+            "They are in roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the firework explode?",
+        "answer": [
+            "[person_1] rides it quite amateurishly.",
+            "Because [person_1] wants to paint the other side.",
+            "[person_1] wants to try riding the mechanical bull.",
+            "[person_1] and [person_1] are double roller skating.",
+            "Because [person_1] lights the firework up."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to the smoke caused by [person_1]?",
+        "answer": [
+            "The smoke will disappear.",
+            "[person_1] is going to turn back and defend.",
+            "They will exchange their ice cream.",
+            "[person_1] and [person_1] will continue to practice.",
+            "[person_1] may want to take a ball he likes better."
+        ],
+        "reason": [
+            "There is a [person_1] which needs to be put in the kitchen.",
+            "There's a [person_1] and a [person_1] nearby.",
+            "The person in yellow is taking photos.",
+            "It is outside and the wind will blow the smoke away.",
+            "Because they have to withdraw the sword to let [person_1] go across."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [dining table_1] was made of easily flammable materials?",
+        "answer": [
+            "[dining table_1] would catch fire from the firework.",
+            "There would be some people could not understand what [dining table_1] was trying to convey.",
+            "[dining table_1] would quickly take his hands out of the running water in [dining table_1].",
+            "[dining table_1] will sleep on the [dining table_1].",
+            "The [dining table_1] will spit beer out."
+        ],
+        "reason": [
+            "Because [dining table_1] and [dining table_1] have never had this experience.",
+            "Because the firework is put directly on [dining table_1].",
+            "He was frightened by the loud noise.",
+            "All the pictures are shown on the screen.",
+            "[dining table_1] would not want to move because it would be too painful."
+        ]
+    }
+}

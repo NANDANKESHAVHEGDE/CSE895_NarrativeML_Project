@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [remote_1]?",
+        "answer": [
+            "The [remote_1] is on the shelf.",
+            "[remote_1] is in the house.",
+            "[remote_1] is on the street.",
+            "[remote_1] is playing in front of his house.",
+            "[remote_1] is in front of the house door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] ride the unicycle?",
+        "answer": [
+            "[person_1] and [person_1] want to catch the bubbles [person_1] made.",
+            "[person_1] is watering each plant in turn.",
+            "[person_1] is nearsighted.",
+            "[person_1] is teaching how to shoot the ball.",
+            "He wants to play better."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he starts to ride?",
+        "answer": [
+            "[person_1] will paint those steel pipes.",
+            "[person_1] will step back and wait for [person_1]'s next turn.",
+            "[person_1] will continue riding.",
+            "[person_1] will try to see if the bike has been repaired.",
+            "[person_1] will continue to walk straight."
+        ],
+        "reason": [
+            "It seems that [person_1] is riding with a rapid speed.",
+            "It seems that [person_1] is recording a video about what he is doing.",
+            "Because after completing this step , [person_1] explained to everyone what the next step is.",
+            " [person_1] seems to enjoy it.",
+            "He turn his direction in an strange angle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will rush into the building.",
+            "Maybe [person_1] will have a makeshift rest.",
+            "[person_1] and [person_1] will not perform.",
+            "[person_1] and [person_1] will stop walking.",
+            "[person_1] is outside , if it rains they will get wet."
+        ],
+        "reason": [
+            "[person_1] may still keep doing.",
+            "[person_1] can't ride the unicycle.",
+            "If it rains concrete not be able to dry.",
+            "The people is outside , if it rains they will get wet.",
+            "[person_1] and [person_1] are now outdoors , in order not to affect the progress , they may carry out indoors."
+        ]
+    }
+}

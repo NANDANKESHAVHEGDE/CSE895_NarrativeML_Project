@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of [person_1]'s T - shirt?",
+        "answer": [
+            "[person_1]'s T - shirt is white.",
+            "[person_1]'s T - shirt is black.",
+            "It's a disk.",
+            "The [person_1] is on the bookshelf behind [person_1].",
+            "It is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding unicycle?",
+        "answer": [
+            "[person_1] is excited about this action.",
+            "Because [person_1] wants to hold the accordion tightly.",
+            "Because [person_1] is playing the cello.",
+            "Because [person_1] wants to propose loudly.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will turn over the body.",
+            "[person_1] will continue interpreting something.",
+            "[person_1] is going to try practicing.",
+            "[person_1] will probably clean [person_1] after a long day.",
+            "[person_1] will fix the tire."
+        ],
+        "reason": [
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "Avoid hitting the tree forward.",
+            "[person_1] is riding in a professional way.",
+            "[person_1] steps back and gains momentum.",
+            "[person_1] is playing stacking cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not keep the balance?",
+        "answer": [
+            "[person_1] won't ride at all.",
+            "[person_1] may not rest at this time.",
+            "[person_1] will ride fast.",
+            "[person_1] would not use [person_1].",
+            "[person_1] will ride slowly."
+        ],
+        "reason": [
+            "[person_1] may fall down.",
+            "[person_1] cannot see anything without the glasses.",
+            "[person_1] may stay there.",
+            "Because the biscuit is broken , the shape is not good.",
+            "Maybe [person_1] will use a scissor to cut wrapping paper instead of the ruler."
+        ]
+    }
+}

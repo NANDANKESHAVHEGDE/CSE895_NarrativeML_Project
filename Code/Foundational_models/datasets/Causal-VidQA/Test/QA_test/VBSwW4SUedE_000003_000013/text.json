@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[person_1] is outside behind [person_1].",
+            "[book_1] is behind the [person_1].",
+            "It is in front of the dog.",
+            "[book_1] is on the bookshelf.",
+            "[book_1] is on the [book_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is reading book.",
+            "[person_1] is reading the newspaper.",
+            "[person_1] is reading a book.",
+            "[person_1] is excited about stacking the cups.",
+            "Because [person_1] is spraying paint on the picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to continue reading.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to keep eating."
+        ],
+        "reason": [
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1] is a beginner.",
+            "[person_1] is bowing.",
+            "There are a lot of newspapers on the chair.",
+            "[person_1] fell under the bed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't like reading newspapers?",
+        "answer": [
+            "[person_1] wouldn't cheer for what he has done.",
+            "[person_1] would be injured.",
+            "[person_1] would do all the things.",
+            "[person_1] may not continue reading.",
+            "[person_1] may fall."
+        ],
+        "reason": [
+            "There would be only [person_1] there.",
+            "[person_1] would perhaps not have a stable bike to ride.",
+            "The duck can't go as fast as [person_1].",
+            "[person_1] may play with someone then.",
+            "[person_1] strongly attacked [person_1]."
+        ]
+    }
+}

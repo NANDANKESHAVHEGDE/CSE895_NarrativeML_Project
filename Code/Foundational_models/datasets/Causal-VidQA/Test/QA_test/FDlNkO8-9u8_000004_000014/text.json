@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons?",
+        "answer": [
+            "One.",
+            "[person_2] is in the clinic.",
+            "[person_2] is on a stage.",
+            "Five.",
+            "[person_2] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_2] wear long trousers ?",
+        "answer": [
+            "[person_2] is doing that to create sound.",
+            "[person_2] must have shook the bottle thus the cork was a little loose.",
+            "Because [person_2] is too short.",
+            "It's not convenient.",
+            "The [person_2] is parked here."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do?",
+        "answer": [
+            "[person_2] will continue to play.",
+            "[person_2] will keep that position.",
+            "[person_2] will go for a rest.",
+            "[person_2] will take a jump.",
+            "[person_2] will try to flip the bottle again."
+        ],
+        "reason": [
+            "[person_2] has run for an hour.",
+            "They have a good time.",
+            "Because it seems that she is going to finish it.",
+            "Because the hands are dirty.",
+            "[person_2] is performing with no music sheet nearby."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_2] do if [person_2] has run for an hour?",
+        "answer": [
+            "[person_2] will start running and have a rest.",
+            "[person_2] will fall into the lake.",
+            "[person_2] will stop running and have a rest.",
+            "[person_2] will be covered with snow.",
+            "[person_2] will stop running and never rest."
+        ],
+        "reason": [
+            "[person_2] may get serious injuries on his head.",
+            "[person_2] won't be tired.",
+            "Because a shop all needs sellers who are always present in the store.",
+            "[person_2] will be tired.",
+            "There are no mistakes on [person_2]'s gestures or stance , so if [person_2] changes [person_2]'s bow , [person_2]'s arrow can fly much further."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of the curtain?",
+        "answer": [
+            "They are playing a game.",
+            "It's purple.",
+            "The room looks bright.",
+            "They are skating.",
+            "Yes , [person_1] is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they playing this game?",
+        "answer": [
+            "Their parents just taught them how to play it.",
+            "[person_1] is raising his arms over his head and then bending his body.",
+            "Because the person shaking his hand wants to attract attention.",
+            "[person_1] is having a rest.",
+            "Because the person is lying down on the bed and pointing the camera upwards."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn left.",
+            "Maybe [person_1] will drink water.",
+            "[person_1] will call the rescue team.",
+            "[person_1] will find another person to play with.",
+            "Bake the dough batch after batch."
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "[person_1] is watering the plants.",
+            "[person_1] failed in the game and [person_1] wants to win.",
+            "Because [person_1] has finished measuring the gap.",
+            "Maybe [person_1] is a earthen pot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] plays again?",
+        "answer": [
+            "[person_1] may stop shaking his head.",
+            "[person_1] can't hit the ball.",
+            "[person_1] may win the game.",
+            "[person_1] would find working with leather difficult.",
+            "[person_1] may complain or leave the room."
+        ],
+        "reason": [
+            "Because the cameraman only stepped back to maintain the distance with [person_1].",
+            "Being helpful is a good personality.",
+            "The running path is too short and [person_1] can pass without any problem.",
+            "There is nobody in the room.",
+            "It's not reasonable that [person_1] loses the game all the time."
+        ]
+    }
+}

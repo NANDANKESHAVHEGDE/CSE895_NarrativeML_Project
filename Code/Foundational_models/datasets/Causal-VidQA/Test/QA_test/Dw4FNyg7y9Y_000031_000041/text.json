@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [car_3]?",
+        "answer": [
+            "It is behind the [car_3].",
+            "[car_3] is white.",
+            "[car_3] is brown.",
+            "[car_3] is placed in front of the wall.",
+            "[car_3] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shaking the dices in a cup?",
+        "answer": [
+            "[person_1] is on the floor because [person_1] is on top of them sheering their fur off.",
+            "Because the [person_1] is the owner of the camels.",
+            "[person_1] wants to stack the dices.",
+            "The [person_1] is still little and the [person_1] is an adult.",
+            "Maybe [person_1] play for passion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to warm up there.",
+            "[person_1] is going to play the game again.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to continue trying to whistle.",
+            "[person_1] is going to contemplate how to shake better."
+        ],
+        "reason": [
+            "[person_1] is looking close to the cup and dices and doesn't move.",
+            "Maybe [person_1] and [person_1] are having a good time.",
+            "[person_1] is taking more oranges and holding a knife.",
+            "[person_1] is doing lunges.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't stack the dices?",
+        "answer": [
+            "[person_1] will fall immediately.",
+            "[person_1] would not be paid.",
+            "[person_1] wouldn't stick out his tongue.",
+            "[person_1] would sit and drink water.",
+            "[person_1] would practice once more time."
+        ],
+        "reason": [
+            "[person_1] can't keep his balance when the tightrope shakes.",
+            "[person_1] would still think about what [person_1] did.",
+            "With audience , she will dance better.",
+            "There is some red wine in the [person_1].",
+            "[person_1] can depend on [person_1] when he feels bad."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] is tall.",
+            "[person_1] is a craftswoman.",
+            "[person_1] looks old.",
+            "[person_1] is quite old.",
+            "[person_1] is holding a pair of cymbals."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_2] is helping [person_1] to trim shrubs.",
+            "[person_1] is helping [person_2] practicing martial arts.",
+            "[person_2] wants to cheer [person_1] on.",
+            "[person_1] is practicing dynamic plate spinning skill.",
+            "[person_1] and [person_2] are working with other people."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue to stand there.",
+            "[person_1] may turn around.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to practice.",
+            "[person_1] is going to push the machine to saw the wood."
+        ],
+        "reason": [
+            "[person_1] finds hopscotch interesting.",
+            "Because the blue is skying at night.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] is jumping very high.",
+            "[person_1] is going to feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will stop the race.",
+            "[person_1] will not have to water the plants.",
+            "[person_1] will get wet.",
+            "[person_1] and [person_1] may stop skating.",
+            "[person_1] will stop watering the plants."
+        ],
+        "reason": [
+            "Rainy day is not fine for washing.",
+            "[person_1] may not keep working.",
+            "[person_1] will go inside.",
+            "[person_1] gets wet.",
+            "[person_1] is outside."
+        ]
+    }
+}

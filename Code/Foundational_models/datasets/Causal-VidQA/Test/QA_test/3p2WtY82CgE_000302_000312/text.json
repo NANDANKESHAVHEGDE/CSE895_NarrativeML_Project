@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_3] wearing?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "A shovel.",
+            "The shoes are pink.",
+            "[person_3] is \u00a0 wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] in the room?",
+        "answer": [
+            "[person_2] is shaving for [person_1] .",
+            "Because [person_3] can be the coach and is teaching [person_1] and [person_2].",
+            "[person_1] is helping [person_2] to do physical therapy exercises.",
+            "Because [person_1] is waiting for the mother.",
+            "Because they want to ski."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to show some skills.",
+            "[person_1] is going to take some photos.",
+            "[person_1] will definitely stop practicing.",
+            "[person_1] is going to introduce about her book.",
+            "[person_1] is going to stand on her hands."
+        ],
+        "reason": [
+            "Maybe [person_1] started weaving fabric.",
+            "[person_1] finishes singing.",
+            "Maybe [person_1] has finished practicing.",
+            "[person_1] looks so excited.",
+            "Maybe [person_1] likes [person_1] outfit."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] did not show up?",
+        "answer": [
+            "The man in red will help him.",
+            "[person_1] may not touch the belly of [person_2].",
+            "[person_1] would use another way to eat the food.",
+            "The [person_1] could not pick the apples.",
+            "[person_1] and [person_2] would not be able to know the exercise."
+        ],
+        "reason": [
+            "That wrapping paper is too big for her.",
+            "Because the man in blue and the man in red work together.",
+            "[person_3] is having fun singing because he remembers all the words to the song ; if he forgot , he would stop to try to remember.",
+            "Because it is already dark , [person_3] is very tired after a day of practice.",
+            "[person_3] is a teacher."
+        ]
+    }
+}

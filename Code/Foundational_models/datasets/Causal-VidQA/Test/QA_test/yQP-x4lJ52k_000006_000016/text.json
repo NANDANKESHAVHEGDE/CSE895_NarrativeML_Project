@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_2] look like?",
+        "answer": [
+            "[person_2] is small.",
+            "[person_2] looks old.",
+            "The color of the shirt is white.",
+            "[person_2] is big.",
+            "The [person_2] is rolling around."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting there?",
+        "answer": [
+            "Because [person_2] sees the bubbles and wants to catch them.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] will show the direction for [person_2].",
+            "[person_1] and [person_2] are playing chess.",
+            "[person_1] is helping [person_2] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to go straight ahead.",
+            "[person_2] is going to go out.",
+            "[person_2] is going to eat.",
+            "[person_2] is going to open the gift.",
+            "[person_2] is going to open it and see what's inside."
+        ],
+        "reason": [
+            "[person_2] is standing in the food section.",
+            "[person_2] keeps his head down and bends forward.",
+            "[person_2] still opens the mouth and shows happiness on the face.",
+            "[person_2] doesn't want to play anymore.",
+            "[person_2] has set up that goal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will get wet.",
+            "The leg of [person_1] may not hurt.",
+            "[person_1] will be hurt.",
+            "Maybe [person_1] will get up and skate again.",
+            "[person_1] will not practice."
+        ],
+        "reason": [
+            "[person_1] is skateboarding very fast.",
+            "[person_1] may have been injured and needed treatment.",
+            "[person_1] could go to the hospital.",
+            "[person_1] cannot complete his challenge.",
+            "[person_1] gets hit by a chess board."
+        ]
+    }
+}

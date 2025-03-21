@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it on the stair?",
+        "answer": [
+            "The [person_1] is on the floor.",
+            "It is an opened coco.",
+            "It is a mirror.",
+            "It is bright.",
+            "The cupboard looks tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why can [person_1] open the coco with his hands easily?",
+        "answer": [
+            "To ensure a sterile environment.",
+            "Because [person_1] can not walk.",
+            "[person_1] has won this round.",
+            "[person_1] is a strong man.",
+            "Because [person_1] is relaxing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to enjoy the trip.",
+            "[person_1] is going to find a tool to eat it.",
+            "[person_1] is going to keep flexing.",
+            "[person_1] will use another hand to shake.",
+            "Maybe after playing the flute [person_1] will go for a drink."
+        ],
+        "reason": [
+            "Maybe [person_1] doesn't want to play it anymore.",
+            "[person_1] walked away leaving the coco on the stair . He opened the coco for eating obviously.",
+            "Maybe [person_1] doesn't like maracas.",
+            "[person_1] is a sommelier.",
+            "[person_1] stood up to accelerate the pace."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't open the coco by hands?",
+        "answer": [
+            "[person_1] would have sore throat.",
+            "[person_1] would look for a tool to close it.",
+            "[person_1] won't have to shine the shoes.",
+            "[person_1] would look for a tool to open it.",
+            "[person_1] will stop running."
+        ],
+        "reason": [
+            "A tool is better than hands and feet.",
+            "Because she is hungry.",
+            "A tool is worse than hands only.",
+            "The [person_1] has the [person_1] and [person_1] here to classify.",
+            "A tool is better than hands only."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is introducing how to slam the tire.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is playing mahjong.",
+            "[person_1] is touching the organ.",
+            "[person_1] is riding the mechanical bull."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the mechanical bull bridle?",
+        "answer": [
+            "[person_1] and [person_1] hope the performance to be more beautiful with the handfans.",
+            "[person_1] needs to be comfortable to move.",
+            "[person_1] is sitting and playing.",
+            "[person_1] wants to greet the spectators.",
+            "Because [person_1] does not want to fall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue watching [person_1] riding the mechanical bull.",
+            "[person_2] is going to continue spinning the fire.",
+            "[person_2] may be going to lift the barbell up and down.",
+            "[person_2] is going to stand on the grass.",
+            "[person_2] is going to dance up and down."
+        ],
+        "reason": [
+            "Because [person_2] is focusing on seeing [person_1].",
+            "At [person_1]'s first bandage , she didn't use the binding clips to bind up the bandage , so at [person_1]'s second bandage , [person_1] will do the same thing.",
+            "There's only one circle on [person_1]'s neck . Beside , [person_1]'s neck is where the \" wound \" at.",
+            "When [person_1] points the blade at [person_2] , [person_2] holds the hilt with both hands and prepares to flip the sword.",
+            "[person_2] held the [person_1]'s head and pressed firmly the wax strip before picking it up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the mechanical bull does not work?",
+        "answer": [
+            "[person_1] can rotate the circle on the mechanical bull.",
+            "The bottle might fall.",
+            "[person_1] can't rotate the circle under the mechanical bull.",
+            "It would make the performance imperfect.",
+            "[person_1] can't rotate the circle on the mechanical bull."
+        ],
+        "reason": [
+            "Because the mechanical bull will not remain stationary and will not rotate.",
+            "Bad food can not be eaten or used.",
+            "Because the mechanical bull will remain stationary and will not rotate.",
+            "To learn how to play golf.",
+            "Because the mechanical bull will remain stationary and will rotate."
+        ]
+    }
+}

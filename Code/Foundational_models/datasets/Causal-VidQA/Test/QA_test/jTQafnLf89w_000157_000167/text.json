@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] is a referee.",
+            "[person_1] looks like a teenager.",
+            "[person_1] is quite fat.",
+            "A little bit fat.",
+            "[person_1] is staring at the burning marshmallow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing near [dining table_1]?",
+        "answer": [
+            "Because [person_1] is stacking cups.",
+            "To give [person_1]'s feet a massage.",
+            "[person_1] is a conductor and [person_1] is leading the band.",
+            "It seems that the [person_1] wants to pick something in the [dining table_1].",
+            "Because [dining table_1] is making him laugh by tickling him."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue stacking cups.",
+            "[person_1] may make the juicer start to work.",
+            "[person_1] may drive by the side of the road.",
+            "[person_1] is going to raise both hands.",
+            "[person_1] will take out the tiles to fix the floor."
+        ],
+        "reason": [
+            "[person_1] holds the button in his hands.",
+            "Because [person_1] holds the cups.",
+            "[person_1] has prepared shovel tool.",
+            "[person_1] touches the gift.",
+            "[person_1] is very satisfied with her research."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups on [couch_1]?",
+        "answer": [
+            "The cups will collapse.",
+            "[couch_1] will ask [person_1] or [person_1] for help.",
+            "[person_1] will pick [person_1] up and keep brushing hair of [person_1].",
+            "[couch_1] would not be able to stack.",
+            "[person_1] will need help to continue."
+        ],
+        "reason": [
+            "[person_1] won't be kept in the air anymore.",
+            "With audience , she will dance better.",
+            "[person_1] will smoke every time.",
+            "[person_1] should wash his hands before eating.",
+            "Because [couch_1] isn't flat."
+        ]
+    }
+}
