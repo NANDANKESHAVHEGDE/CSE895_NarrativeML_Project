@@ -67,6 +67,7 @@ def generate_descriptions(frames_folder_dir, captioner, narrative_csv:str=None, 
     if narrative_csv == None:
         video_ids = os.listdir(frames_folder_dir)
         video_ids = sorted(video_ids)
+        video_ids = video_ids[1:]
         parent_path = os.path.dirname(frames_folder_dir)
         model_name = os.path.basename(captioner_id)
         description_narrative_file = os.path.join(parent_path, dataset_name + "_" + model_name + "_description_narrative.csv")
@@ -78,6 +79,7 @@ def generate_descriptions(frames_folder_dir, captioner, narrative_csv:str=None, 
     elif os.path.isfile(narrative_csv) == False:
         video_ids = os.listdir(frames_folder_dir)
         video_ids = sorted(video_ids)
+        video_ids = video_ids[1:]
         description_narrative_df = pd.DataFrame(columns=["video_id", "description"])
         description_narrative_df['video_id'] = video_ids
         description_narrative_df['description'] = ""
