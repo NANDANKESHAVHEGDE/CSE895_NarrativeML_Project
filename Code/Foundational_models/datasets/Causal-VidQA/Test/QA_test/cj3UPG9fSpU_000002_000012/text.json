@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the [person_1].",
+            "[person_1] is on the bed.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 darts?",
+        "answer": [
+            "[person_1] is staying with [person_1].",
+            "[person_1] is taking care of her lips.",
+            "[person_1] is working out.",
+            "[person_1] is playing \u00a0 darts.",
+            "[person_1] is fond of unwrapping a present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] may continue what he did.",
+            "[person_1] is going to play faster."
+        ],
+        "reason": [
+            "[person_1] is not going to stop.",
+            "[person_1] just looked back.",
+            "[person_1] was blocked by the door.",
+            "[person_1] has good technique.",
+            "[person_1] is bowing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops a dart and hits his leg?",
+        "answer": [
+            "[person_1] will be very happy.",
+            "Arms of the [person_1] will be very strong.",
+            "[person_1] will be hurt.",
+            "[person_1] would keep riding the [person_1].",
+            "The [person_1] can move accordion comfortably."
+        ],
+        "reason": [
+            "[person_1] needs to be more careful with the darts.",
+            "Because [person_1] can't repair the bike.",
+            "The balloon can stretch.",
+            "Because the electrical outlet is not near to use for each room.",
+            "Because band aids can stop bleeding."
+        ]
+    }
+}

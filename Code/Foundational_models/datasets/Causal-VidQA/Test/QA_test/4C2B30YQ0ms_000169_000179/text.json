@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like ?",
+        "answer": [
+            "[person_1] is tall and thin.",
+            "[person_1] looks quite old.",
+            "[person_1] is tall and slim.",
+            "[person_1] looks friendly.",
+            "[person_1] has dark skin."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room ?",
+        "answer": [
+            "[person_1] wants to look at the people traveling.",
+            "Because [person_1] is trying to balance himself.",
+            "[person_1] is holding the flute and playing.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "He wants to see if there is anything outside."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] will probably shake the pan.",
+            "[person_1] is going to keep playing bagpipe.",
+            "[person_1] is going to raise the flute up.",
+            "[person_1] will keep practicing skateboarding.",
+            "[person_1] may get the seeds out of pumpkin."
+        ],
+        "reason": [
+            "Then [person_1] is going to start playing flute.",
+            "Because [person_1] has finished his cooking.",
+            "Then [person_1] is playing with the cups very attentively.",
+            "[person_1] is helping [person_1] train.",
+            "[person_1] is pointing to the present."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the flute is broken ?",
+        "answer": [
+            "[person_1] can play it anymore.",
+            "[person_1] will be scared by that.",
+            "[person_1] can not stop playing it anymore.",
+            "[person_1] will be injured and the appalling.",
+            "[person_1] can not play it anymore."
+        ],
+        "reason": [
+            "Maybe [person_1] will not fix the flute.",
+            "[person_1] needs to find a shelter.",
+            "Maybe [person_1] will break the flute.",
+            "It needs to re - roast.",
+            "Maybe [person_1] will fix the flute."
+        ]
+    }
+}

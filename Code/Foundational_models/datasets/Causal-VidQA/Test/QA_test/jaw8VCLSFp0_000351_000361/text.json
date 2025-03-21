@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_2]?",
+        "answer": [
+            "Two.",
+            "[couch_2] is behind [person_1].",
+            "It is on the wall.",
+            "It is in front of the yellow curtain.",
+            "[person_1] is next to the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] adjust the camera position?",
+        "answer": [
+            "Because [person_1] wants the gas to come out of the bottle.",
+            "because [person_1] is pointing to [person_1].",
+            "[person_1] wanted to focus on the hands of [person_1] with the stick and yarn.",
+            "The [person_1] is holding the items which are on the table.",
+            "The [person_1] is learned how to skate by the [person_1] and [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drink water.",
+            "[person_1] will get up.",
+            "Maybe [person_1] is going to dance again.",
+            "[person_1] will be naughty [person_1].",
+            "[person_1] is going to continue spin the yarn."
+        ],
+        "reason": [
+            "Because [person_1] has not finished spinning the yarn yet.",
+            "Maybe [person_1] loves to read.",
+            "[person_1] is walking very fast.",
+            "Because [person_1] has successfully finished the training.",
+            "Maybe [person_1] looks thirsty and tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not adjust the camera position?",
+        "answer": [
+            "The face of [person_1] may continue being shown in the camera.",
+            "[person_1] would stop playing guitar because he would be interrupted by the woman bumping into him.",
+            "[person_1] would wave back.",
+            "[person_1] may have finished filming.",
+            "[person_1] is not affected."
+        ],
+        "reason": [
+            "The pillows help [person_1] put her legs on the soft surfaces so that her legs won't be painful.",
+            "[person_1] seems to love going to dancing class.",
+            "Because this is the only ball they have.",
+            "Because the machine big like this will have strong power.",
+            "Because [person_1] adjusted the camera position to get the face of [person_1] out of the frame."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the large ground.",
+            "[person_1] and [person_2] are outside.",
+            "[person_1] and [person_2] are in the living room.",
+            "[person_1] and [person_2] are in outside.",
+            "[person_1] and [person_2] are in the kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the chair?",
+        "answer": [
+            "Maybe [person_1] is participating in a competition.",
+            "[person_1] is stacking dice.",
+            "[person_1] is reading book.",
+            "[person_1] is sitting and playing.",
+            "Because [person_1] is playing checkers with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing checkers.",
+            "[person_1] is going to start skiing.",
+            "[person_1] is going to turn to different pages.",
+            "[person_1] is going to crawl.",
+            "[person_1] is going to leave the golf course."
+        ],
+        "reason": [
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] is holding a chessman.",
+            "[person_1] is keeping still.",
+            "Maybe [person_1] likes to play it.",
+            "[person_1] looks like happy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the hand of [person_1] cramps?",
+        "answer": [
+            "The pink shirt girl won't be able to attract the birds.",
+            "[person_1] will stop playing.",
+            "[person_1] will break a chessman down.",
+            "[person_1] would do it again.",
+            "The man in white will change the clothes."
+        ],
+        "reason": [
+            "There is also sauce in the [person_1].",
+            "Because the pen was put on the edge of the table.",
+            "because [person_1] is irritated.",
+            "To clean the snow by manual work.",
+            "[person_1] can't hold a chessman when the hand of [person_1] cramps."
+        ]
+    }
+}

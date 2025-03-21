@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [car_3]?",
+        "answer": [
+            "[car_3] is behind the [person_1].",
+            "The [person_1] is next to [person_1].",
+            "The bed [car_3] is lying on is dark blue.",
+            "No.",
+            "A paper is in [car_3] hands."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there cars there?",
+        "answer": [
+            "[car_3] doesn't want to.",
+            "[car_3] can see things more clearly.",
+            "Because no one turns [person_1] on.",
+            "Because the gymers need to know the time when they practice.",
+            "People drove here to roast the marshmallows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after roasting the marshmallow?",
+        "answer": [
+            "[person_2] will show the next step.",
+            "[person_2] may ask for more.",
+            "[person_2] will stop and have a rest.",
+            "[person_2] will rest and go home.",
+            "[person_2] will taste it."
+        ],
+        "reason": [
+            "Because the rope was originally hung on the handle , but then the rope was no longer on the handle , so [person_2] wanted to untie the rope.",
+            "[person_2] wants to know if the roasted marshmallow is delicious.",
+            "[person_2] is thirsty.",
+            "Because [person_2] hasn't finished brushing teeth.",
+            "Because it's dark outside [person_2] can't see clearly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] gives roasted marshmallows to others?",
+        "answer": [
+            "[person_1] will leave the lecture hall quietly.",
+            "[person_1] would lose his balance.",
+            "[person_2] would be happy about it.",
+            "[person_1] will have to jump again.",
+            "[person_1] would hurt herself."
+        ],
+        "reason": [
+            "[person_1] is right next to [person_1].",
+            "Other people are having fun , if [person_1] goes back home , others would have to go back home , too.",
+            "[person_1] would give some marshmallows to him.",
+            "The building block can't fly.",
+            "[person_1] has good manners and already grown up."
+        ]
+    }
+}

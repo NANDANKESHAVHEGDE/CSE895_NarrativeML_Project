@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is on the right side [person_1].",
+            "[potted plant_1] is behind [person_1].",
+            "The [person_1] is in the [person_1]'s hand.",
+            "[person_1] is on the sidewalk to [person_1]'s right.",
+            "[potted plant_1] is on the table which behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] press the white button?",
+        "answer": [
+            "Because he wants to win the competition.",
+            "[person_1] is too tired.",
+            "[person_1]'s hand moves to tear off the package.",
+            "[person_1] turns off the keyboard.",
+            "To avoid being exposed to the sun."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play the gong below.",
+            "It is predicted that [person_1] intends to stop playing.",
+            "[person_1] intends to continue working.",
+            "[person_1] intends to keep talking.",
+            "[person_1] intends to keep playing."
+        ],
+        "reason": [
+            "Because it is [person_1]'s desire.",
+            "The hoop looks like it is going to be dropped.",
+            "[person_1] is feeling tired.",
+            "[person_1] threw the ball into the beer.",
+            "[person_1] has turned off the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] needs to go out?",
+        "answer": [
+            "[person_1] can throw the first ball through the hoop.",
+            "[person_1] will go out.",
+            "The [person_1] will not fly to the right hand of [person_1].",
+            "The [person_1] will concern about the [person_1].",
+            "The fishes may not care about [person_1]."
+        ],
+        "reason": [
+            "[person_1] has stopped playing the keyboard.",
+            "To relax for a while.",
+            "[person_1] will cut more quickly.",
+            "[person_1]'s head will nod if [person_1] falls asleep , [person_1] can not do the job well.",
+            "[person_1] will keep carving until it is finished."
+        ]
+    }
+}

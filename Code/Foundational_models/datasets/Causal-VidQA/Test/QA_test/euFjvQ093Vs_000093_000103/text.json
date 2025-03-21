@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside his house.",
+            "[person_1] is in the workshop.",
+            "[person_1] is in a house which is not completed yet.",
+            "[person_1] is outside of the house.",
+            "[person_1] is sitting on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in an uncompleted house?",
+        "answer": [
+            "Because [person_1] will plaster the wall to make the house complete.",
+            "[person_1] is playing with the cups on the [person_1].",
+            "[person_1] is performing for the girl.",
+            "[person_1] is interested in hitting the cups on the [person_1].",
+            "[person_1] is reading [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may cheer up.",
+            "[person_1] may close the window.",
+            "[person_1] is going to keep dancing.",
+            "[person_1] is going to take a bucket of mortar.",
+            "[person_1] will bend back."
+        ],
+        "reason": [
+            "Because [person_1] needs to plaster the wall so [person_1] needs mortar.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "Because [person_1] acts as a guide.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] is touching three cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the ladder falls?",
+        "answer": [
+            "The ladder will fall to [person_1].",
+            "[person_1] will hold only one rope.",
+            "[person_1] , [person_1] and [person_1] will stop dancing.",
+            "[person_1] will throw it in the trash.",
+            "The man couldn't drive [person_1] anymore."
+        ],
+        "reason": [
+            "the ashes from the cigarette which [person_1] is smoking will drop down to her clothes.",
+            "Because [person_1] is sitting close to the door.",
+            "Because [person_1] has to learn how to repair the violin.",
+            "Other people are not at home , no one will open the door except [person_1].",
+            "Because [person_1] is near the ladder."
+        ]
+    }
+}

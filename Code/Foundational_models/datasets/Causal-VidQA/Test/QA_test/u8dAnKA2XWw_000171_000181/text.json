@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the room.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] clap their hands together?",
+        "answer": [
+            "[person_1] is stacking dice.",
+            "[person_1] is shaking the dice.",
+            "Because [person_1] is stacking the dice with a cup.",
+            "Because [person_1] and [person_2] are playing a game of clapping.",
+            "[person_1] presses the phone screen to start the timer."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_2] will continue to play clapping with [person_1].",
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] may get out of the pool.",
+            "[person_1] will put her arms on the [person_2]'s left thigh.",
+            "[person_1] might use [person_1] or [person_1] to replace the one [person_1] is currently using."
+        ],
+        "reason": [
+            "To put some better components in the power drill.",
+            "Maybe [person_1] and [person_2] both like to play.",
+            "[person_1] is swimming back.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "Because [person_1] has already assembled a few , [person_1] wants more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops clapping?",
+        "answer": [
+            "[person_2] will also not play.",
+            "Because [person_1] will try on a coat.",
+            "[person_1] would be sad and cry.",
+            "[person_2] maybe lose.",
+            "Bond in [person_1] could be broken."
+        ],
+        "reason": [
+            "Gloves can make [person_1] warm.",
+            "Clothes can make [person_1] feel warm.",
+            "The clapping game must require two players.",
+            "They will fall down.",
+            "[person_1] is teaching."
+        ]
+    }
+}

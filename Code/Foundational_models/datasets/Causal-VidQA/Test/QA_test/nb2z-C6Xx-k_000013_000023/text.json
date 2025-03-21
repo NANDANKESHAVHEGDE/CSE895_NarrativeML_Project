@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying ?",
+        "answer": [
+            "Because [person_1] is playing the toy organ.",
+            "[person_1] is a model for the exercise.",
+            "Because [person_1] is playing the big gong.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is looking at the book and playing flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to splash water.",
+            "[person_1] may continue what he did.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to keep eating."
+        ],
+        "reason": [
+            "[person_1] is attacking [person_1] and [person_1] will win this match.",
+            "[person_1] just looked back.",
+            "[person_1] is very small.",
+            "[person_1] is surrounded by water.",
+            "[person_1] was blocked by the door."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stays in water for too long?",
+        "answer": [
+            "[person_1] might catch a cold",
+            "[person_1] will have strong arm muscles.",
+            "Perhaps the performance will be stopped.",
+            "The goat may run away from [person_1].",
+            "Maybe [person_1]'s muscles will be strained."
+        ],
+        "reason": [
+            "That is the mission of the trainer.",
+            "[person_1] is a child and his resistance is still weak.",
+            "[person_1] breaks the rules of class.",
+            "They are skipping rope in group . When a person steps foot on the rope , the performance will fail.",
+            "Because earthquake usually lead to this result."
+        ]
+    }
+}

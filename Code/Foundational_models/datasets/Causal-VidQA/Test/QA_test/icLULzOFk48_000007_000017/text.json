@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is standing behind the fence.",
+            "The [chair_1] is holding a ribbon.",
+            "The [chair_1] is holding a ski pole.",
+            "[chair_1] is blue.",
+            "The [chair_1] is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the chessman?",
+        "answer": [
+            "Because [person_1] is suffering from eye disease.",
+            "[person_1] is putting her mouth on [person_1] to blow into it so she can play her bagpipes.",
+            "[person_1] is fascinated by coloring the picture.",
+            "Because [person_1] is playing checkers.",
+            "Because his mother asks him to go home."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bandage [person_1].",
+            "[person_1] is going to ask about chess pieces.",
+            "[person_1] has an intention of playing flute.",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to do exercise."
+        ],
+        "reason": [
+            "[person_1] is in the gymnastic.",
+            "[person_1] is ripping paper.",
+            "[person_1] is a hard - working person.",
+            "[person_1] is pointing at the chess piece.",
+            "The message says he should come home for dinner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off?",
+        "answer": [
+            "[person_1] can't read any of the books.",
+            "[person_1] might feel dizzy.",
+            "[person_1] will stop playing checkers.",
+            "[person_1] will stop asking about chess pieces.",
+            "[person_1] won't be able to keep shaving."
+        ],
+        "reason": [
+            "They can not see the dance without light.",
+            "[person_1] can't see the chess pieces without the light.",
+            "Because they can't see anything.",
+            "The swing speed of [person_1] is quite fast so he would fall suddenly if the swing chains broke.",
+            "[person_1] is acting very hard."
+        ]
+    }
+}

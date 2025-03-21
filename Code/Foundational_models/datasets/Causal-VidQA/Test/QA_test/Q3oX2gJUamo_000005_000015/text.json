@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is on the right of [chair_1].",
+            "[chair_1] is in the corner.",
+            "[chair_1] is being seated by [chair_1].",
+            "[chair_1] is being sat by [chair_1].",
+            "[chair_1] is on the left hand side of [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a diaper?",
+        "answer": [
+            "[person_1] is reading a book.",
+            "Maybe [person_1] is participating in a competition.",
+            "[person_1] is a child.",
+            "Because [person_1] really enjoys himself in the game.",
+            "[person_1] wants to throw it into the plastic sink."
+        ]
+    },
+    "predictive": {
+        "question": "What is [dog_1] going to do?",
+        "answer": [
+            "That car will follow the gesture of [dog_1].",
+            "[dog_1] is going to sleep.",
+            "[dog_1] will dive after the first person.",
+            "[dog_1] will feel comfortable of his face.",
+            "[dog_1] may roll in the air."
+        ],
+        "reason": [
+            "The person wearing the red shirt embraced the baby.",
+            "[dog_1] is yawning.",
+            "[dog_1] has aimed at the direction for a long time.",
+            "[dog_1] is walking toward its cave.",
+            "There is some food in the hands of [dog_1] and [dog_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the flute fall on [person_1] feet?",
+        "answer": [
+            "[person_1] will need a bath.",
+            "Maybe [person_1] would feel eat better.",
+            "Then [person_1] may continue to practice.",
+            "[person_1] will hit [person_1].",
+            "[person_1] will cry."
+        ],
+        "reason": [
+            "There are many bottles behind [person_1].",
+            "If there was no music , maybe [person_1] and [person_1] wouldn't like to dance.",
+            "[person_1] feet will hurt.",
+            "[person_1] may take a rest.",
+            "To check whether the person gets hurt or not."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a microphone.",
+            "[person_1] is standing in the yard.",
+            "[person_1] is holding a stick.",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding a pencil."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] holding a pencil?",
+        "answer": [
+            "[person_1] wants to praise [person_1].",
+            "The [person_1] expands the bellows to make the sound loudlier or softer.",
+            "[person_1] is about to smoke.",
+            "[person_1] is try to sharpen it.",
+            "[person_1] is playing with cups."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to hold the shoulder of the mechanical bull tighter.",
+            "[person_1] is going to put the pen back onto the table.",
+            "[person_1] is going to press the carpet to the edge of the wall.",
+            "[person_1] is going to take pencil out of the machine.",
+            "[person_1] is going to put the paper down on [person_1]."
+        ],
+        "reason": [
+            "[person_1] is pushing using the carpet pressing tool.",
+            "because [person_1] only need the iron piece on the pen cap.",
+            "because the pencil will shortly be sharpened.",
+            "[person_1] is loosing balance when turning around.",
+            "[person_1] continues to hold out [person_1] for [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the engine blew up?",
+        "answer": [
+            "[person_1] will sit next to the chair toy and suck the nipple.",
+            "There will be an accident between the [person_1] and the [person_1].",
+            "[person_1] would go out and get some water to put the fire out.",
+            "[person_1] and [person_1] will not know how to play with [person_1].",
+            "[person_1] will not be penalized for drinking all that beer."
+        ],
+        "reason": [
+            "If the billboard suddenly falls down , it will hit the man if the man doesn't stand up.",
+            "To buy a new pair of glasses.",
+            "It has the potential to ignite a larger fire , therefore [person_1] must put it out soon.",
+            "[person_1] can't continue to do squats while having leg cramps.",
+            "The cutting tool is sharper , and [person_1]'s hand is very close to the blade."
+        ]
+    }
+}

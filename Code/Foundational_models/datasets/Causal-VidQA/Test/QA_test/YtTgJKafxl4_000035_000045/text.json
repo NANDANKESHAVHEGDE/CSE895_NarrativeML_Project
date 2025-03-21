@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It is orange.",
+            "It's blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the gong stick?",
+        "answer": [
+            "Perhaps [person_1] wants to play the gong.",
+            "[person_1] does it for fun.",
+            "Because [person_1] wants to water the plants.",
+            "[person_1] needs glasses to improve her vision.",
+            "Because the [person_1] put his hand inside the doll."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably put the food in the cupboard.",
+            "[person_1] will listen to the sound of the gong.",
+            "[person_1] will finish all the food on the plate.",
+            "[person_1] will continue to play basketball.",
+            "[person_1] will sleep on the floor."
+        ],
+        "reason": [
+            "Because [person_1] has already finished the massaging neck.",
+            "[person_1] will keep shaving [person_1]'s left leg until the foam is gone.",
+            "[person_1] must lift all [person_1]'s legs.",
+            "Because [person_1] just touched the gong to test the sound.",
+            "Maybe [person_1] is tearing up the test."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] uses a smaller gong to play?",
+        "answer": [
+            "[person_1] would feel sad.",
+            "It would be easier for him to finish his work.",
+            "He will hurt.",
+            "People in the corridor can hear it.",
+            "The sound will be smaller."
+        ],
+        "reason": [
+            "The [person_1] is near on the right.",
+            "Because [person_1] thinks it's [person_1] 's first time to dye [person_1]'s hair.",
+            "the wall is at the right of [person_1].",
+            "The [person_1] is standing on the ice skates.",
+            "The loudness of the sound is proportional to the size of the gong."
+        ]
+    }
+}

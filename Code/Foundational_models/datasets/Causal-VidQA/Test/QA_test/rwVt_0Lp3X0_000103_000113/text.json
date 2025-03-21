@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "[bottle_1] is square.",
+            "It is on the table.",
+            "It is on the windowsill.",
+            "[bottle_1] is near [bottle_1].",
+            "It is on the [bottle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting there?",
+        "answer": [
+            "[person_1] and [person_2] are playing chess.",
+            "Because [person_2] sees the bubbles and wants to catch them.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] will show the direction for [person_2].",
+            "[person_1] is helping [person_2] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may eat the food on [person_1].",
+            "[person_1] is going to hold a stick.",
+            "[person_1] may keep feeding the goat with [person_1].",
+            "[person_1] is going to bow down to fondle a kangaroo.",
+            "[person_1] is going to move the bishop into position."
+        ],
+        "reason": [
+            "[person_1] seems to analyze this move very carefully.",
+            "Because [person_1] needs it to make juice.",
+            "[person_1] is playing the guitar with zeal.",
+            "[person_1] wants to score.",
+            "[person_1] think that stretching body is a nice thing and she likes it very much . Therefore , she wants to do more ."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] spills the chess board?",
+        "answer": [
+            "[person_2] and [person_3] might get hurt.",
+            "[person_2] will bump into the badminton net.",
+            "[person_1] and [person_2] will stop playing.",
+            "[person_2] will take [person_1] with him.",
+            "[person_1] will feel noisy."
+        ],
+        "reason": [
+            "For a military commander , winning or losing a battle is a common occurrence . ",
+            "[person_1] and [person_2] will start a new chess match.",
+            "When [person_1] falls down , [person_1] run past him quickly.",
+            "Without glass wall , the monkeys outside can reach to [person_1].",
+            "Wear the lenses longer can hurt your eyes."
+        ]
+    }
+}

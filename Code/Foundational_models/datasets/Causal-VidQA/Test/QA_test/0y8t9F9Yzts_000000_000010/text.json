@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_2]'s short pants?",
+        "answer": [
+            "Blue.",
+            "It is gray.",
+            "It's black.",
+            "They are white.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they here?",
+        "answer": [
+            "They are here to practice tackling.",
+            "Because the man is guiding [person_2].",
+            "They are here to practice rugby.",
+            "They are here attending birthday party.",
+            "Because this is the baby's bed."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_2] and [person_1] going to do?",
+        "answer": [
+            "[person_1]'s parent will clean the [person_1]'s face.",
+            "[person_1] will not eat the ice cream up.",
+            "[person_1] will go to pick goods.",
+            "[person_2] and [person_1] are going to tackle the others.",
+            "[person_1] will carry the [person_2] into the truck."
+        ],
+        "reason": [
+            "[person_1] is walking towards the goods shelves.",
+            "The bradawl is being approached the gong.",
+            "Because they eat cake for the birthday.",
+            "[person_2] does not stop carving.",
+            "Because they are currently practicing rugby."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "The fire would be off.",
+            "They would go inside.",
+            "They would come back the tent.",
+            "Their training might be halted.",
+            "[person_1] might come back home."
+        ],
+        "reason": [
+            "The street would be wet.",
+            "The ground would be very slippery.",
+            "[person_2] would have to find a shelter.",
+            "Because the rain would make their training less effective.",
+            "[person_2] would not want to be wet and sick."
+        ]
+    }
+}

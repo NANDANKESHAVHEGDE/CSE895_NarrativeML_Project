@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in front of the shop.",
+            "[person_1] is in his house.",
+            "[person_1] is in the gym.",
+            "[person_1] is \u00a0 in his wood workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding the wood?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] doesn't want to practice with a [person_2].",
+            "[person_2] is holding the target for the kick of [person_1].",
+            "Because [person_1] wants to shave the sheep.",
+            "The [person_1] wants to show the [person_2] to the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_4] do?",
+        "answer": [
+            "[person_4] will tell [person_4] how to blow out the candles.",
+            "[person_4] may go to take another board.",
+            "[person_4] will deliberately lose to the little girl.",
+            "Blow out the candles.",
+            "[person_4] will move up till he get to the top."
+        ],
+        "reason": [
+            "[person_1] broke the wood with just one side kick.",
+            "[person_1] , [person_1] , and [person_1] repeated the moves on the box and added a few knee repeaters and tap steps.",
+            "They are friends who have agreed to eat together , and they will go home after eating.",
+            "Because there are many people.",
+            "The man is holding a squeegee mop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] missed the wood?",
+        "answer": [
+            "[person_1]'s work would be large.",
+            "It would affect the whole appearance.",
+            "[person_1] might hit [person_2] or [person_3].",
+            "The fish will go looking for food elsewhere and [person_2] won't see the fish anymore.",
+            "[person_1] would have to practice more."
+        ],
+        "reason": [
+            "[person_1] needs to search for gold only by his hands.",
+            "because [person_1] can loose balance and fall.",
+            "[person_3] can / t fly away without externally applied force.",
+            "The fish do not come to the surface.",
+            "[person_2] and [person_3] is standing near the target wood."
+        ]
+    }
+}

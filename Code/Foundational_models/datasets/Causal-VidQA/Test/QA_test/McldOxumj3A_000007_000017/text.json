@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bicycle_1]?",
+        "answer": [
+            "the [bicycle_1] is on the floor.",
+            "A handful of mushrooms.",
+            "[bicycle_1] is being controlled by [person_1].",
+            "No.",
+            "[person_1] is wearing a hat on the head of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] can ride [bicycle_1] outdoor?",
+        "answer": [
+            "[person_1] is playing basketball with [bicycle_1].",
+            "[person_1] needs glasses to read newspaper.",
+            "Because it is not rain today.",
+            "[person_1] is helping [bicycle_1] train.",
+            "[person_1] needs a wide space to throw discus."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he starts to ride [bicycle_1]?",
+        "answer": [
+            "[person_1] will eat another.",
+            "[person_1] will stop to take a photo.",
+            "[person_1] will continue riding.",
+            "[bicycle_1] will go home happily.",
+            "[person_1] will go on playing flute."
+        ],
+        "reason": [
+            "The vehicle slows down and [person_1] is descending.",
+            "[person_1] seems so proficient and he must be a professional performer.",
+            "[person_1] rides too fast to stop.",
+            "There are some cups on the table.",
+            "It seems that [person_1] enjoys it a lot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] and [person_1] find a place for a shelter.",
+            "[person_1] would stop riding bicycle.",
+            "[person_1] would stop running to find a shelter.",
+            "[person_1] would stop riding [bicycle_1].",
+            "Soldiers may find a shelter."
+        ],
+        "reason": [
+            "[person_1] have an umbrella.",
+            "[person_1] , [person_1] are playing outside.",
+            "[person_1] doesn't have an umbrella.",
+            "[person_1] is right behind them and the can can prevent rain from the getting the people wet.",
+            "[person_1] doesn't have too many umbrellas."
+        ]
+    }
+}

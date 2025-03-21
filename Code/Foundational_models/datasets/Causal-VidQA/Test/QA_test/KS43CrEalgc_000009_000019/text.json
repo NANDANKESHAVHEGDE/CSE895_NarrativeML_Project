@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is . [person_1]?",
+        "answer": [
+            "[person_1] is wearing a hat on the head of [person_1].",
+            "Yes , the [person_1] and [person_1] are sitting.",
+            "[person_1] is wearing a sunglasses.",
+            "[person_1] is wearing a costume.",
+            "[person_1] is in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on a couch?",
+        "answer": [
+            "Because [person_1] is proud of herself for opening the cap.",
+            "[person_1] is sitting on the carpet.",
+            "Because [person_1] is playing an accordion.",
+            "Because [person_1] of hand has a problem , maybe [person_1] of hand is paralyzed and needs [person_1] help.",
+            "[person_1] is doing tai chi moves."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sing.",
+            "[person_1] is going to keep playing.",
+            "[person_1] continues to read books.",
+            "[person_1] is going to step forward.",
+            "[person_1] may go home."
+        ],
+        "reason": [
+            "Because there is someone just claps his hands to applause.",
+            "[person_1] is holding the bottle.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] jumped into the lake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the microphone isn't working?",
+        "answer": [
+            "These people would put out the fire.",
+            "Someone will go fix it.",
+            "[person_1] would get hurt.",
+            "The woman will do some shoulder and neck exercises.",
+            "The lights will be off."
+        ],
+        "reason": [
+            "The room is quite dark.",
+            "[person_1] will jump very short and unprofessional.",
+            "In case of slipping down.",
+            "[person_1] is upset.",
+            "The microphone needs to be fixed so everyone in the room can hear the accordion."
+        ]
+    }
+}

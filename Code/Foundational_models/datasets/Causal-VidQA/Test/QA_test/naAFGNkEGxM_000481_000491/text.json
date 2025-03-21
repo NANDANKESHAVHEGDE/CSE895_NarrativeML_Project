@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Which chair is [person_1] sitting on?",
+        "answer": [
+            "[person_1] is a cute boy.",
+            "The curtain behind [person_1] is red.",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] looks like a middle - aged man.",
+            "[person_1] is sitting on the [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] putting her left foot on [person_2] right leg?",
+        "answer": [
+            "Because [person_2] accepts the proposal.",
+            "[person_1] is using the harp to practice.",
+            "He wants to try stack the dices one more time.",
+            "[person_1] wants to have a good pose so that [person_2] can shave hair on her leg easier.",
+            "Because [person_1] is playing stacks of cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is the relationship between [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are brothers.",
+            "When people here want to leave.",
+            "They are may mother and son.",
+            "[person_1] and [person_2] may be a couple.",
+            "They may sister and brother."
+        ],
+        "reason": [
+            "Because [person_1] is hugging [person_2] full of love.",
+            "To clean the snow on the road.",
+            "[person_1] may not understand the coach's rules.",
+            "That [person_1] is putting her foot on [person_2]'s leg shows a close - knit relationship between a girlfriend and a boyfriend.",
+            "Because [person_2] is currently a participant in the racing track with his lawn mower."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no chair for [person_2]?",
+        "answer": [
+            "[person_2] won't read the information in the magazine.",
+            "[person_2] will introduce other things.",
+            "[person_2] would sit on the floor.",
+            "[person_2] would dance more energetic.",
+            "[person_2] would find it difficult to do exercise."
+        ],
+        "reason": [
+            "[person_2] has spent much time to set up the dining table . ",
+            "The sun is very strong today.",
+            "Sitting on the floor can also help to the shaving less challenging.",
+            "Maybe sharp nails will poke his eyes.",
+            "[person_2] is an important member of the team."
+        ]
+    }
+}

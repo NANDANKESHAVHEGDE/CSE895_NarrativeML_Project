@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are [person_1]'s shoes?",
+        "answer": [
+            "[person_1]'s shirt is red.",
+            "The space is fantastic.",
+            "[person_1]'s shirt is red.",
+            "Black.",
+            "There are 15 cups on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] move like this?",
+        "answer": [
+            "[person_1] wants to record his clarinet performance.",
+            "[person_1] wants us to see the calibration.",
+            "[person_1] is trying moon walking.",
+            "[person_1]'s legs are hurt .",
+            "Because it can carry him to his destination."
+        ]
+    },
+    "predictive": {
+        "question": "Where will [person_1] go ?",
+        "answer": [
+            "[person_1] will slow down.",
+            "[person_1] is going to running.",
+            "[person_1] will definitely take some photo.",
+            "[person_1] will drink water.",
+            "[person_1] will go back to living room."
+        ],
+        "reason": [
+            "Because [person_1] has finished the performance.",
+            "[person_1] is carrying a backpack",
+            "Because [person_1] wants to study moon walking on the TV.",
+            "[person_1] has completed his part of the test.",
+            "Because [person_1] eats faster."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] is hit?",
+        "answer": [
+            "[person_1] will stop walking.",
+            "[person_1] will be scolded.",
+            "[person_1] will clean it.",
+            "[person_1] will stop playing.",
+            "[person_1] could fold clothes on the table."
+        ],
+        "reason": [
+            "Because [person_1] has to protect him.",
+            "Because [person_1] will have a rest.",
+            "[person_1] could hardly keep her balance while wearing the roller skates.",
+            "Because [person_1] will get hurt.",
+            "Because [person_1] and [person_1] are in a teacher - student relationship."
+        ]
+    }
+}

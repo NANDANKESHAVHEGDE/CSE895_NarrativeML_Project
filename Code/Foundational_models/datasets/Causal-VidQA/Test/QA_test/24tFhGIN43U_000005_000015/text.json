@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is purple.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in the room dancing with fire?",
+        "answer": [
+            "He wants to see if there is anything outside.",
+            "Maybe [person_1] is practicing fire dance.",
+            "[person_1] is shaving for [person_1] .",
+            "Because [person_1] is taking care of the plants.",
+            "[person_1] and [person_1] are doing yoga."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to keep dancing with fire.",
+            "[person_1] will check the result.",
+            "[person_1] will turn off the camera."
+        ],
+        "reason": [
+            "Maybe [person_1] will read the whole [person_1].",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is keeping still.",
+            "The milk needs to be put in the fridge.",
+            "The hands of [person_1] are moving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the fire hits the [tv_1]?",
+        "answer": [
+            "The [tv_1] can't throw the shot by using foot.",
+            "[tv_1] is going to a repair shop.",
+            "[tv_1] will not fall off the chair in this humorous way.",
+            "Maybe [tv_1] will fall.",
+            "[tv_1] will be burned."
+        ],
+        "reason": [
+            "They all stand in front the shelf and they will be hit when it falls down.",
+            "Because TV is electronics , it's so flammable.",
+            "The [tv_1] needs electricity to turn on.",
+            "[tv_1] will catch the ball.",
+            "[tv_1] is using a manual orange extractor."
+        ]
+    }
+}

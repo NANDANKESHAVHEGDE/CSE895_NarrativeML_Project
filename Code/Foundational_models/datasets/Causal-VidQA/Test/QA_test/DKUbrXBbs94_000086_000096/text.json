@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the left of [cup_1].",
+            "The [cup_1] is near the picture.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is on the desk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stacking cups?",
+        "answer": [
+            "[person_1] is holding flute and playing it.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] is smoking.",
+            "[person_1] is training martial arts.",
+            "Because shoes helps [person_1] keeps his feet clean."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will separate the two legs.",
+            "[person_1] will introduce the things on the table.",
+            "[person_1] will stop stacking cups.",
+            "[person_1] will look at the instructions.",
+            "[person_1] will keep on dancing."
+        ],
+        "reason": [
+            "Because the ball is coming from the left again , [person_1] wants to catch the ball.",
+            "[person_1] is moving towards the man at the door of the room.",
+            "[person_1] is spreading the shirt to fold.",
+            "[person_1] stops touching [cup_1] and [cup_2].",
+            "[person_1] is showing the children the way to stand on hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no desk?",
+        "answer": [
+            "[person_1] won't be able introducing.",
+            "[person_1] will continue to teach him.",
+            "[person_1] will have to stack cups on the floor.",
+            "[person_1] would fall or get hurt.",
+            "[person_1] will propel yourself forward."
+        ],
+        "reason": [
+            "Because [person_1] likes catching mice.",
+            "Because [person_1] may not be able to move the boxes alone.",
+            "In order to stack cups , [person_1] needs flat terrain.",
+            "The bookshelf is behind [person_1] .",
+            "[person_1] is injured , so it's impossible to ask anyone to take off [person_1]'s bandage."
+        ]
+    }
+}

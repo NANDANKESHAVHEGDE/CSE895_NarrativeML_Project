@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside.",
+            "[person_1] is \u00a0 outside.",
+            "[person_1] is on the street.",
+            "[person_1] is in bathroom.",
+            "[person_1] is on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing lute.",
+            "[person_1] is playing harmonica.",
+            "[person_1] is playing with paper.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is showing [person_1] the doll."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go away.",
+            "Maybe [person_1] will stand up.",
+            "[person_1] will pour the champagne in to the goblet.",
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "[person_1] is continuously rolling the glass ball from the right arm to the left arm."
+        ],
+        "reason": [
+            "Because [person_1] doesn't want to play on [person_1] anymore.",
+            "[person_1] stands near [person_2] to perform.",
+            "[person_1] looks very excited.",
+            "[person_1] seems very excited.",
+            "It seems that [person_2] is far from [person_1]'s reach."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the didgeridoo falls?",
+        "answer": [
+            "Then [person_2] will be very tired.",
+            "[person_2] will stop performing.",
+            "[person_2] will enhance stacking the glasses.",
+            "The tire will not be inflated.",
+            "[person_2] may interact with the audience."
+        ],
+        "reason": [
+            "[person_2] will take another didgeridoo to continue performing.",
+            "Because the plaster in eyes will harm to [person_2].",
+            "[person_2] is walking backwards so he can't see behind and he will fall.",
+            "Then [person_2] will find a way to fix it.",
+            "[person_2] spins around a lot before throwing the hammer away."
+        ]
+    }
+}

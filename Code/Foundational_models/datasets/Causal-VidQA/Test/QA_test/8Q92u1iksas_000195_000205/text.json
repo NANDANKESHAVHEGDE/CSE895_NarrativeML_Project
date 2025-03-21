@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are the [person_2] and [person_3] sitting?",
+        "answer": [
+            "[person_2] is wearing a hat on the head of [person_2].",
+            "[person_3] is wearing a sunglasses.",
+            "The [person_2] is behind [person_2].",
+            "Yes , the [person_2] and [person_3] are sitting.",
+            "[person_2] is wearing polo shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] skate alone?",
+        "answer": [
+            "[person_1] can't reach the horse without the steps.",
+            "Because the [person_1] has a performance.",
+            "[person_1] is trying to pick it up.",
+            "[person_1] places the accordion that leans on her chest with the key buttons confronting away from her.",
+            "[person_1] swings the cup back and forth to pick up the dice."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may take a bow and finish the performance.",
+            "The [person_1] may take turn to throw.",
+            "[person_1] may hit the ball with a bat.",
+            "[person_1] may tell them when to jump.",
+            "[person_1] is likely to fall."
+        ],
+        "reason": [
+            "Because the [person_1] is continue to step forward with one foot and other foot is on his knee.",
+            "The [person_1] is still raising the bottle and holding the vase while the vase is not full yet.",
+            "The [person_1] spins , skates around and then bend body to finish.",
+            "The [person_1] is washing the spoon under the water and there is a shelf nearby.",
+            "The [person_1] shoots the ball to the basket and wants to go ahead to catch the ball back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_2] does not go for walk there?",
+        "answer": [
+            "Maybe [person_2] will stand up and continue skiing.",
+            "[person_2] may love the sea.",
+            "[person_2] would understand [person_2] and let [person_2] go.",
+            "[person_2] will call adults.",
+            "The [person_2] may not fall down because it is slippery."
+        ],
+        "reason": [
+            "The [person_2] sits down and enjoys the performance.",
+            "[person_2] won't give up just because of one fall.",
+            "[person_2] has been chopped for a while.",
+            "[person_2] may bleed.",
+            "[person_2] will stop dancing."
+        ]
+    }
+}

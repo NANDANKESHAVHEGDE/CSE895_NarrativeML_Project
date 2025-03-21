@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the picture ?",
+        "answer": [
+            "[person_1] is in the corner of the room.",
+            "[person_1] is near the tree.",
+            "It is hung on the wall.",
+            "The pyramids.",
+            "[person_1] is placed far away behind three people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing in the room ?",
+        "answer": [
+            "Maybe [person_1] is an expert.",
+            "Perhaps [person_1] and [person_2] are learning playing instrument.",
+            "[person_1] is holding a flute and playing.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "That would be the best position in [person_1]'s accommodation."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play the cello.",
+            "[person_1] intends to kick the ball back to a friend on the opposite side.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to keep playings drums.",
+            "[person_1] has an intention of playing with the flute."
+        ],
+        "reason": [
+            "[person_1] is going to concentrate on learning playing flute.",
+            "[person_1] is feeling tired.",
+            "[person_1] is still sitting still and looking at the sheet music.",
+            "[person_1] is walking away from the keyboard.",
+            "[person_1] is still standing and holding the gong and gong sticks."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] hated playing flute ?",
+        "answer": [
+            "[person_1] would not learn how to play it.",
+            "[person_1] would hit [person_1].",
+            "[person_1] won't win",
+            "[person_1]'ll stop climbing and go home.",
+            "[person_1] may not somersault."
+        ],
+        "reason": [
+            "Maybe [person_1] goes to work after meal.",
+            "Maybe [person_1] would learn playing piano.",
+            "The [person_1] is big while the [person_1] is small so the [person_1] can draw the [person_1] and make the [person_1] fall.",
+            "The secret will be revealed.",
+            "Because [person_1] needs to have a rest."
+        ]
+    }
+}

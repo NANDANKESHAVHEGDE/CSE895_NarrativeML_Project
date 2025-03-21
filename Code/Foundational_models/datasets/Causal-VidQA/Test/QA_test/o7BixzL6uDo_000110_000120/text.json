@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is pink.",
+            "It is white.",
+            "There is a large - sized black speaker behind [person_1].",
+            "It is black.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] paint [bowl_1]?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "The [person_1] uses the [bowl_1] to contain the skin of potatoes.",
+            "[person_1] paints [bowl_1] to decorate it and make it prettier.",
+            "[person_1] and [bowl_1] are practicing a piece of music.",
+            "[person_1] is learning how to swallow the sword."
+        ]
+    },
+    "predictive": {
+        "question": "What is going to happen with [person_1] next?",
+        "answer": [
+            "[person_1] is going to continue playing with the baby.",
+            "It looks like that [person_1] is the teacher of [person_1].",
+            "[person_1] and [person_1] will taste the beer they poured.",
+            "[person_1] is going to continue spraying the object.",
+            "[person_1] may be a trainer in the gym who helps [person_1] to squat."
+        ],
+        "reason": [
+            "[person_1] and [person_1] seem to be in a rush to go do something else so perhaps they really want to play with each other.",
+            "[person_1] is watching [person_1] and [person_1] fencing.",
+            "Because [person_1] seems to be immersed in what he is doing.",
+            "[person_1] and [person_1] are going toward [person_1].",
+            "[person_1] looks more professional than [person_1] and she is guiding [person_1] to moving the sword."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color on [bowl_1]?",
+        "answer": [
+            "[person_1] would have to re - colorize [pizza_1] from the beginning or , in the worst case , break [bowl_1].",
+            "[bowl_1] would stay at home instead of skiing.",
+            "[person_1] would have to cut [pizza_1] from the beginning or , in the worst case , recreate [bowl_1].",
+            "[person_1] will be hit by the bookshelves.",
+            "[person_1] would have to re - colorize [pizza_1] from the beginning or , in the worst case , recreate [bowl_1]."
+        ],
+        "reason": [
+            "Because his product would be built if he did so.",
+            "Because when the customers take dishes , the meat has to be prepared.",
+            "Because his product would be ruined if he did so.",
+            "[bowl_1] moves the legs faster and gains momentum by putting pressure on the wheels.",
+            "Because his product would be ruined if she did so."
+        ]
+    }
+}

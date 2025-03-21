@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is on the shelf behind [person_1].",
+            "[person_1] is behind [person_1] and hung on the wall.",
+            "It is on the right of [person_1].",
+            "[person_1] is sitting between [couch_1] and [person_1].",
+            "[person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] approaching [person_1]?",
+        "answer": [
+            "Maybe [person_1] and [person_2] are playing together.",
+            "Because [person_2] is is watering the plants.",
+            "[person_2] wants to know exactly what [person_1] is doing.",
+            "[person_1] is excited about something.",
+            "Because [person_1] looks like the father of [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to back the seat of [person_1].",
+            "Perhaps [person_1] is going to sleep.",
+            "[person_1] will continue kite surfing.",
+            "[person_1] may do exercise.",
+            "[person_1] is going to give [person_1] something."
+        ],
+        "reason": [
+            "[person_1] is empty.",
+            "Maybe [person_1] is more comfortable.",
+            "[person_1] is having something in her hands.",
+            "There is no bar of soap there.",
+            "There are still many places that have not been concreted."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't like the thing that [person_1] gives him?",
+        "answer": [
+            "[person_1] will give him another thing.",
+            "[person_2] won't be anxious.",
+            "[person_1] will score 50 points.",
+            "[person_1] will practice wrongly.",
+            "Maybe they can't sit."
+        ],
+        "reason": [
+            "There are many things in the box which is in front of [person_1].",
+            "[person_1] may ask other to hold the cat.",
+            "Every soldier needs a gun.",
+            "Because behind [person_1] is a cliff.",
+            "Dance makes them tired if they want to sit , they have nowhere to sit."
+        ]
+    }
+}

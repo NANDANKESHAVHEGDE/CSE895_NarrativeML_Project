@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it bright?",
+        "answer": [
+            "[person_1] is wearing it in front of her.",
+            "[person_1] is placed next to [person_1].",
+            "[person_1] is put on the ground and next to [person_1].",
+            "[person_1] is between [person_1] and [person_1].",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] is sitting on the chair.",
+            "[person_1] is playing the guitar by tapping on the notes with 1 finger.",
+            "[person_1] is trying roller - skating.",
+            "[person_1] wants to open the box."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to dismantle the power drill.",
+            "[person_1] is going to watch [person_1] open all the presents.",
+            "[person_1] will spray paint.",
+            "[person_1] is going to continue teaching."
+        ],
+        "reason": [
+            "[person_1] is spraying paint.",
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] is having his turn next.",
+            "To ask for [person_1]'s agreement with the proposal.",
+            "There are many other goats waiting for food from [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't spray paint ?",
+        "answer": [
+            "Perhaps [person_1] will feel it lacks vitality.",
+            "The [person_1] can eat properly.",
+            "[person_1] will open the [person_1] on.",
+            "Then [person_1] will stopped his dancing movement.",
+            "[person_1] can tell the teacher and goes to pee."
+        ],
+        "reason": [
+            "They think they are stars.",
+            "It is very sharp.",
+            "The picture will lack color.",
+            "It is metal that will rust.",
+            "Because this machine is very safe."
+        ]
+    }
+}

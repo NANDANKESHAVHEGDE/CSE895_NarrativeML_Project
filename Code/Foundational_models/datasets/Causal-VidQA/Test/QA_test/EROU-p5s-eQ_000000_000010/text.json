@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the sawmill.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is lying in a hammock.",
+            "[person_1] is near the lake.",
+            "[person_1] is in a small library."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] splashing [person_1] with a bucket of water?",
+        "answer": [
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is looking for fun.",
+            "[person_1] is excited about her book.",
+            "[person_1] can not play the piano while standing.",
+            "[person_2] is splashing the water for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to looking for some information.",
+            "[person_1] intends to pull the rope.",
+            "[person_1] has an intention of trying to do chin - ups as long as possible.",
+            "[person_1] intends to wipe the water from his face.",
+            "[person_1] intends to continue securing the other side of the gift box with tape."
+        ],
+        "reason": [
+            "[person_1] didn't want to put the harmonica down.",
+            "[person_1] is showing his strength to friends.",
+            "[person_1] is continue crawling forward.",
+            "It seems that [person_1] likes to play didgeridoo.",
+            "[person_1]'s hand is touching his \b forehead and wiping the water down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [dog_1] didn't run away?",
+        "answer": [
+            "[person_2] will scream like what [dog_1] did.",
+            "The score will be 2 - 0 for the Red team.",
+            "Perhaps [dog_1] would get wet again if [person_2] poured another bucket of water.",
+            "The police will stopped the car.",
+            "[person_2] will move forward."
+        ],
+        "reason": [
+            "[dog_1] would catch the ball and throw it back.",
+            "That friend fell to the ground and his face hurt.",
+            "[dog_1] was below the hammock.",
+            "Because she is so little that she can't eat by herself.",
+            "To replace the ring for the proposal."
+        ]
+    }
+}

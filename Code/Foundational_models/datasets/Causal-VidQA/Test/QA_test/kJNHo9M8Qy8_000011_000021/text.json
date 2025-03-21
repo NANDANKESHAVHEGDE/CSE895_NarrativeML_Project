@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "It is a grey shirt.",
+            "The color of the shirt is green.",
+            "[person_1] wears a blue plaid shirt.",
+            "It is white and red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cup_1]?",
+        "answer": [
+            "[person_1] is reading a book.",
+            "[person_1] is putting her mouth on [person_1] to blow into it so she can play her bagpipes.",
+            "[person_1] is a cute baby.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will go on throwing the cards.",
+            "[person_1] is going to raise both hands.",
+            "[person_1] is going to pour orange juice into a glass.",
+            "[person_1] is going to tie a knot on [person_1]'s back.",
+            "[person_1] may drive by the side of the road."
+        ],
+        "reason": [
+            "Because [person_1] is reaching out the hand.",
+            "[person_1] holds the button in his hands.",
+            "[person_1] is holding the flute and is about to play.",
+            "Food burnt.",
+            "[person_1] needs a glass to hold and drink orange juice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "[person_1] will serve orange juice to the guests.",
+            "[person_1] will continue stomping other grapes.",
+            "[person_1] will enjoy orange juice.",
+            "[person_1] may give up doing exercise.",
+            "[person_1] will show his orange juice to his family."
+        ],
+        "reason": [
+            "Because [person_1] is humble.",
+            "Because it is very effective to exercise arms of the [person_1] after a long time of training.",
+            "[person_1] and [person_1] are alternately practicing on [person_1].",
+            "Maybe the noodle bowl is delicious.",
+            "It is the favorite drink of [person_1]."
+        ]
+    }
+}

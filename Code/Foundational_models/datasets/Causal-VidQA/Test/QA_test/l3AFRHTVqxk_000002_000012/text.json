@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather like?",
+        "answer": [
+            "It is sunny and hot.",
+            "It is on the wall.",
+            "The weather is sunny.",
+            "It is cool.",
+            "[person_1] is in the large room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a helmet?",
+        "answer": [
+            "[person_1] protects himself against the injury.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_1] came to open presents.",
+            "[person_1] is planing wood.",
+            "[person_1] may want to drink water."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will chase [person_2].",
+            "[person_2] is going to set up the game.",
+            "[person_2] is going to continue filling the eyebrows for [person_2].",
+            "Imitate [person_2] shaking the bottle.",
+            "[person_2] is going to play hurling."
+        ],
+        "reason": [
+            "They are following one another.",
+            "[person_2] would like to do this activity.",
+            "[person_2] just finished the jump.",
+            "[person_2] took the food from the plate at [person_2].",
+            "[person_2] both pushes and runs to move as fast as possible."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will not play baseball outside.",
+            "The dancer will keep dancing.",
+            "Maybe [person_1] will play baseball outside.",
+            "[person_1] will run under the tree.",
+            "Maybe [person_1] will not play baseball inside."
+        ],
+        "reason": [
+            "Plants will die without water.",
+            "[person_1] will need to find a shelter.",
+            "[person_1] will get wet if he still rides [person_1].",
+            "[person_1] will need to find a basketball.",
+            "Because it's dangerous to play outside on rainy days."
+        ]
+    }
+}

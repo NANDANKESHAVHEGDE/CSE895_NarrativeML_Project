@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite dark.",
+            "It is nicely decorated.",
+            "It is narrow.",
+            "The room is large.",
+            "It is in a rugby training field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is able to sing loudly without affecting others.",
+            "[person_1] is having a party.",
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is practicing cello.",
+            "[person_1] is raising eyebrows in front of the mirror."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will begin to dance.",
+            "[person_1] will go on practicing.",
+            "[person_1] will tattoo the right leg of [person_1].",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "Maybe after playing the flute [person_1] will go for a drink."
+        ],
+        "reason": [
+            "[person_1] looks very excited.",
+            "Maybe [person_1] is practicing.",
+            "Because after [person_1] dealing the cards , [person_1] picked the cards up and prepared to see the cards.",
+            "Because of the snow , the road is frozen . Maybe [person_1] does it for fun.",
+            "[person_1] feels dry throat after playing the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a sore throat?",
+        "answer": [
+            "[person_1] may go to comfort him at once time.",
+            "[person_1] will not be able to play the flute.",
+            "[person_1] may continue trying to open the box.",
+            "[person_1] will take a break to relax and back to work later.",
+            "[person_1] may taste other kinds of beer."
+        ],
+        "reason": [
+            "Because if [person_1] doesn't like this kind of beer , she won't drink it more and change to other kinds of beer.",
+            "[person_1] will need to relax.",
+            "[person_1] plays the flute when [person_1]'s sore throat is gone.",
+            "Because when [person_1] keeps pulling the rope , her arms can get effective training which will make her arms more powerful.",
+            "When [person_1] coughs , taking in medicine will be influenced."
+        ]
+    }
+}

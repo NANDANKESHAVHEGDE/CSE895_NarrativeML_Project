@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are three people.",
+            "There are two chairs.",
+            "There are two chair.",
+            "There are two vases.",
+            "The room is clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting there?",
+        "answer": [
+            "Because [person_1] is playing the gong in front of [person_1].",
+            "[person_2] is reading newspaper with [person_1].",
+            "Because [person_2] is helping [person_1] move.",
+            "Because [person_1] has to pick up his slipper.",
+            "[person_1] is riding a mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "Maybe [person_1] will sit on the chair.",
+            "[person_1] intends to read all the newspapers on the table.",
+            "[person_2] intends to let [person_1] know about the newspaper.",
+            "[person_1] intends to take his billiard shot.",
+            "Maybe [person_1] intends to use onions to cook."
+        ],
+        "reason": [
+            "However , [person_2] is just a baby.",
+            "[person_1] is in a position about to lift weights.",
+            "[person_1] is still holding the harmonica and pressing the lips on the harmonica.",
+            "It looks like [person_1] will be going around the gongs.",
+            "[person_1] is holding the rope tight."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] go out?",
+        "answer": [
+            "[person_1] needs [person_3] look after [person_2].",
+            "[person_1] will then lie on the [person_1].",
+            "[person_1] will go to the bedroom.",
+            "[person_1] will rest on [person_3].",
+            "The [person_1] will go out."
+        ],
+        "reason": [
+            "Because a rest can help [person_1] recover her energy.",
+            "Because [person_3] hasn't finished his performance yet.",
+            "[person_1] jumped very quickly.",
+            "[person_3] will sit next to [person_2].",
+            "Because [person_1] runs so fast . The floor is so hard."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bottle_1]?",
+        "answer": [
+            "A teacher.",
+            "[bottle_1] is behind [bottle_1].",
+            "The [bottle_1] is on the [dining table_1].",
+            "He is a student.",
+            "The [bottle_1] is placed on the right of the screen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "[person_1] is tearing the paper for fun.",
+            "[person_1] is feeling enjoyment about the game that [person_1] is looking at.",
+            "[person_1] wants to show the audience how to use the tool.",
+            "[person_1] is playing hand clapping with another person happily.",
+            "[person_1] wants to climb over the pole."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to take out contact lenses.",
+            "[person_1] is likely to crawl below the rope.",
+            "It is anticipated that [person_1] will run to [person_1] and help him up.",
+            "[person_1] has an intention of seeing the game.",
+            "[person_1] has an intention of playing with the flute."
+        ],
+        "reason": [
+            "[person_1] is snatching weight lifting overhead.",
+            "[person_1] is interested in this game.",
+            "[person_1] has finished some similar movements.",
+            "There are many guitars in the shop.",
+            "[person_1] turned the box around and creased the triangle - shaped folds."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electricity is cut off?",
+        "answer": [
+            "Maybe people in the room will not participate in the game.",
+            "[dining table_1] will put back the tools.",
+            "The bottom of the pot will paste.",
+            "[bottle_1] may stop tap dancing.",
+            "[bottle_1] will feel tired."
+        ],
+        "reason": [
+            "Cook something else to eat.",
+            "The room will be dark then.",
+            "The fan will turn off.",
+            "Earthquake is dangerous.",
+            "It will be too dark to see much."
+        ]
+    }
+}

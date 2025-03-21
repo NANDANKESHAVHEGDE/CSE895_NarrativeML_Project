@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is under [person_1].",
+            "[chair_1] is next to [person_1] .",
+            "It is on the right of [person_1].",
+            "[chair_1] is behind [person_1] and [chair_1].",
+            "It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] is playing spinning poi.",
+            "[person_1] wants to train to change its body."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will do an exercise with weights.",
+            "[person_1] maybe will give food to customers.",
+            "[person_1] will watch out the motion of [person_1].",
+            "[person_1] is going to collect all the cardboard and throw into the [person_1].",
+            "[person_1] is about to play the glass ball in his hand."
+        ],
+        "reason": [
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "Because [person_1] is giving [person_1] instructions.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] is about to do it.",
+            "Because [person_1] looked at the person standing beside [person_1] and reached out the boards toward the standing person."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "[person_1] can still continue to guide people to practice.",
+            "[person_1] cannot continue to practice.",
+            "He may increase his income.",
+            "[person_1] will check the machine.",
+            "He will go back home."
+        ],
+        "reason": [
+            "[person_1] might cry.",
+            "[person_1] need to peel the cocos firstly.",
+            "[chair_1] was only practicing.",
+            "Because it will be very hot when there is no electricity.",
+            "Because it will be very dark in the gym."
+        ]
+    }
+}

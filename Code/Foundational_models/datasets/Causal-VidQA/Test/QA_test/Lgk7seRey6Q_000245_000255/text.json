@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are suits?",
+        "answer": [
+            "It is on the floor.",
+            "[person_1] is next to the table.",
+            "[person_1] on the cupboard.",
+            "The suits hung on a clothes hanger.",
+            "[person_1] is next to the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside?",
+        "answer": [
+            "[person_1] is showing the way shining shoes.",
+            "[person_1] is playing drums.",
+            "[person_1] is about to stop performing.",
+            "[person_1] is shredding the paper.",
+            "[person_1] is playing lute alone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep showing.",
+            "[person_1] is going to begin slowly walking forward.",
+            "[person_1] is going to lift the barbell.",
+            "[person_1] will stop playing the flute.",
+            "[person_1] will stand here."
+        ],
+        "reason": [
+            "[person_1] eats too much.",
+            "Lowering the lifts is one of the movements of the exercise , but the lifts are raised now.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground.",
+            "[person_1] is going to put the shoe down.",
+            "[person_1] is whistling for example."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the shoe?",
+        "answer": [
+            "[person_1] will need to fix it.",
+            "The shoe will get clean.",
+            "[person_1] will get burned.",
+            "The shoe will get dirty.",
+            "[person_1] will stop singing."
+        ],
+        "reason": [
+            "[person_1] will start shining shoe.",
+            "If it rains , the snow will be slippery.",
+            "[person_1] will stop shining shoe.",
+            "[person_1] can't play checkers in the rain.",
+            "[person_1] will start cleanning shoe."
+        ]
+    }
+}

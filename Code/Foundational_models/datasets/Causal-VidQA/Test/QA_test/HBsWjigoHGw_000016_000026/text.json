@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the bathroom.",
+            "[person_1] and [person_2] are in the gym.",
+            "[person_1] and [person_2] are in an ice cream shop.",
+            "[person_1] and [person_2] are on their room.",
+            "[person_2] and [person_2] are in a photo hang on the wall behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] there?",
+        "answer": [
+            "[person_1] is using a single - wheel electric vehicle so she does not have to ride.",
+            "To propose to [person_2].",
+            "[person_1] and [person_2] are watching [person_2]'s performance.",
+            "It is moved to a space it should stay at.",
+            "[person_1] and [person_2] are the staff at this ice cream shop."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] is going to keep watching [person_2].",
+            "[person_2] may keep learn to ride the scooter.",
+            "[person_2] is going to keep playing cello.",
+            "[person_2] is going to give the ice cream to a certain customer."
+        ],
+        "reason": [
+            "At [person_2]'s first bandage , she didn't use the binding clips to bind up the bandage , so at [person_2]'s second bandage , [person_2] will do the same thing.",
+            "Because [person_2] is so happy.",
+            "Because [person_2] is still holding the left board and [person_2] is staring at the left board.",
+            "[person_2] is already holding an ice cream in her hand.",
+            "[person_2] is a cellist."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] whistles too loudly?",
+        "answer": [
+            "Customers will complain about noise.",
+            "His head will be easily hit by the stones.",
+            "[person_1] will startle.",
+            "Maybe [person_1] and [person_1] will win the competition.",
+            "[person_1] would fall off the stage."
+        ],
+        "reason": [
+            "Moving too fast is hardly safe for skiers.",
+            "[person_1] will feel hurt.",
+            "[person_1] and [person_2] need to avoid making noise while working.",
+            "when [person_1] wears a helmet , the helmet will be reflected on the mirror.",
+            "[person_1] might want to sleep when [person_1] gets drunk."
+        ]
+    }
+}

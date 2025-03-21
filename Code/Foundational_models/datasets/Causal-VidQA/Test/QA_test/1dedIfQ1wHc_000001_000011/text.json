@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the video?",
+        "answer": [
+            "There are 6 people.",
+            "White.",
+            "There is a guitar.",
+            "There are three.",
+            "It seems like a small plate."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] , [person_3] and [person_5] gathering together?",
+        "answer": [
+            "[person_2] and [person_3] are reading book.",
+            "Because the [person_1] wants the others to ride the scooter.",
+            "because [person_1] is trying to stack a dice.",
+            "[person_1] , [person_2] , [person_3] and [person_5] are rehearsing before official performance.",
+            "[person_1] and [person_2] are looking for a way to knock the opponent down."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] , [person_2] , [person_3] and [person_5] going to do?",
+        "answer": [
+            "[person_1] and [person_1] are practicing fencing.",
+            "[person_3] will dance together.",
+            "[person_1] is going to keep singing.",
+            "[person_1] , [person_2] , [person_3] and [person_5] are going to organize a flash mob.",
+            "[person_1] will go to skiing."
+        ],
+        "reason": [
+            "Because everyone else is wearing very thin clothes , but [person_1] is wearing very thick clothes.",
+            "The [person_1] didn't cry when [person_1] fell down , and [person_1] stands up right away to show that [person_1] likes the game and enjoys herself.",
+            "[person_1] does not wear clothes and it looks like home.",
+            "[person_1] , [person_2] , [person_3] and [person_5] are dancing together.",
+            "[person_2] seems to be a trainer and looks professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [traffic light_1] rolls down?",
+        "answer": [
+            "[traffic light_1] may be broken into pieces.",
+            "[traffic light_1] 's performance will become bad.",
+            "[traffic light_1] may not be broken into pieces.",
+            "[traffic light_1] will see himself wearing a helmet in the mirror.",
+            "[traffic light_1] may be broken into a whole."
+        ],
+        "reason": [
+            "[traffic light_1] is in low position . When [traffic light_1] drops , it may hit the stage and break.",
+            "Because [traffic light_1] is the youngest.",
+            "[traffic light_1] is in high position . When [traffic light_1] drops , it may not hit the stage and break.",
+            "[traffic light_1] is a sentimental person and he will feel sad when he faces sad things.",
+            "[traffic light_1] is in high position . When [traffic light_1] drops , it may hit the stage and break."
+        ]
+    }
+}

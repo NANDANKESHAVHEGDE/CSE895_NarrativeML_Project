@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the workshop.",
+            "[person_1] is on a stage.",
+            "[person_1] is at a grocery store.",
+            "[person_1] is sitting on the table.",
+            "[person_1] is outside his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding darts in his hands?",
+        "answer": [
+            "To exercise better.",
+            "[person_1] is playing darts.",
+            "[person_1] is fond of playing with cups.",
+            "Because [person_1] is producing a table.",
+            "[person_1] is putting the wheelchair in the car."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "She may go to a party.",
+            "[person_1] going to take a few steps back.",
+            "[person_1] is going to join the game.",
+            "[person_1] will certainly skiing.",
+            "[person_1] is going to lift the donuts box on the [person_1]."
+        ],
+        "reason": [
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] is standing too close to the dartboard.",
+            "[person_1] is having his turn next.",
+            "[person_1] raised his hand with a knife.",
+            "Because it's a better way to show [person_1]'s strength."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets hit by a dart?",
+        "answer": [
+            "[person_1] will attract the birds.",
+            "[person_1] may take another candy on the plate to eat.",
+            "[person_1] may stop jumping.",
+            "[person_1] will bleed.",
+            "Then the people behind will help [person_1] pick it up."
+        ],
+        "reason": [
+            "The weights is heavy.",
+            "The darts is sharp.",
+            "The weights is very heavy .",
+            "The weights is very heavy.",
+            "Using lenses for swimming can increase the risk of infection."
+        ]
+    }
+}

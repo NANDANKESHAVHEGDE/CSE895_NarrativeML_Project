@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is gray.",
+            "The shirt is black.",
+            "It's green.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The shirt is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [person_2]?",
+        "answer": [
+            "Because [person_1] just received a gift.",
+            "[person_1] wants to throw the ball higher.",
+            "Because [person_1] looks like the father of [person_2].",
+            "There some information that the [person_1] can read.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take [person_2] around the house.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to continue to comb his hair with this comb."
+        ],
+        "reason": [
+            "[person_1] was blocked by the door.",
+            "Because the blue is skying at night.",
+            "Maybe [person_2] likes to be held.",
+            "[person_1] is turning the page.",
+            "[person_1] gave a loud , silly laugh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't hold [person_2] anymore?",
+        "answer": [
+            "He will run about.",
+            "[person_1] might cry.",
+            "[person_2] will play the [person_2].",
+            "[person_2] might cry.",
+            "[person_2] will ask [person_1] to stand by."
+        ],
+        "reason": [
+            "A child like [person_2] loves to be held.",
+            "[person_1] will greet someone.",
+            "A child like [person_1] loves to be held.",
+            "[person_2] wouldn't like it if [person_2] didn't smile when [person_2] opened it.",
+            "A child like [person_2] loves to be dropped."
+        ]
+    }
+}

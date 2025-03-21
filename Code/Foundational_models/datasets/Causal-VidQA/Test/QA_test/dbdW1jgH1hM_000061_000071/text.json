@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [dining table_1]?",
+        "answer": [
+            "The bookshelf is behind [person_1].",
+            "A trash can.",
+            "Fire is under the wood.",
+            "The [dining table_1] is in front of [person_1].",
+            "There is a convex mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] likes stacking cups.",
+            "[person_1] is taking care of her lips.",
+            "[person_1] is staying with [person_1].",
+            "[person_1] is practicing for the next performance.",
+            "[person_1] is working out."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after standing here?",
+        "answer": [
+            "[person_1] will play these cups.",
+            "[person_1] will give the patient the tool.",
+            "It will be collected to recycle.",
+            "[person_1] will yank [person_1] to [person_1] feet.",
+            "[person_1] will call a doctor."
+        ],
+        "reason": [
+            "It seems that [person_1] often does it and enjoys the game.",
+            "[person_1] needs it to promote his products.",
+            "[person_1] just threw a blue one so he may like the blue color.",
+            "[person_1] seems to enjoy skateboarding.",
+            "It seems that [person_1] is riding with a rapid speed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels sleepy?",
+        "answer": [
+            "Maybe [person_1] will take a nap.",
+            "The [person_1] will hit the [person_1]'s head.",
+            "The [person_1] will not touch the lattice fence.",
+            "[person_1] will go to the toilet.",
+            "[person_1] and [person_1] will be hurt."
+        ],
+        "reason": [
+            "[person_1] didn't focus on eating.",
+            "Because it is difficult to push a car in a rain , they can wait in the car until the rain stops.",
+            "The grass is clean where [person_1] passed.",
+            "There is still much noodle in [person_1].",
+            "[person_1] needs to rest."
+        ]
+    }
+}

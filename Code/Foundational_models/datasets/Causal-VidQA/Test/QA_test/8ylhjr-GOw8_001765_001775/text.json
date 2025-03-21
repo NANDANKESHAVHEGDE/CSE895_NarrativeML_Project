@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is on the floor.",
+            "It is in the room.",
+            "It is in front of the wall.",
+            "It is in front of the window.",
+            "[chair_1] is near [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smoke hookah?",
+        "answer": [
+            "Maybe [person_1] likes to smoke.",
+            "[person_1] is playing the accordion.",
+            "To help [person_1] exercise better.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "[person_1] raises [person_1]'s arms to hold the stick."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will definitely stop smoking.",
+            "[person_1] is going to rip paper.",
+            "[person_1] will sit there and curve.",
+            "[person_1] will spray paint.",
+            "[person_1] is going to turn left."
+        ],
+        "reason": [
+            "Maybe [person_1] is a earthen pot.",
+            "Maybe [person_1] finds it interesting to smoke.",
+            "[person_1] is going close [person_1].",
+            "[person_1] has finished making other hair.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes hookah?",
+        "answer": [
+            "[person_1] will turn back.",
+            "[person_1] will be addicted.",
+            "The machine may hit [person_1]'s foot.",
+            "[person_1] will pick them up.",
+            "The hoop would drop."
+        ],
+        "reason": [
+            "Smoking increases the risk of cancer.",
+            "Because broken bicycles are prone to danger.",
+            "[person_1] seems to be happy to show his work , and the progress of [person_1] is still very slow.",
+            "It is likely for [person_1] and [person_1] to get hurt.",
+            "[person_1] does not want to be washed."
+        ]
+    }
+}

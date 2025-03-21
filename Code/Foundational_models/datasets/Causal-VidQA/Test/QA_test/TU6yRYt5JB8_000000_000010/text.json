@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [sport ball_2]?",
+        "answer": [
+            "The [sport ball_2] is on the shelve behind [sport ball_2].",
+            "The [sport ball_2] is on the floor.",
+            "The [sport ball_2] is beside the [sport ball_2].",
+            "The [sport ball_2] is on the sideboard behind the [sport ball_2].",
+            "[sport ball_2] is on the [sport ball_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding the gong stick?",
+        "answer": [
+            "[person_2] presses the handles and the cork is pulled out.",
+            "To keep warm.",
+            "[person_2] is playing the gong.",
+            "To avoid being exposed to the sun.",
+            "Because the parking lot is too big to measure with a tape measure."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to continue playing the gongs.",
+            "[person_1] and [person_2] are going to continue marching.",
+            "[person_1] and [person_2] are going to dance to the end of Gang Nam style.",
+            "[person_1] and [person_2] are going to keep throwing ball.",
+            "[person_1] and [person_2] are going to try to eat burgers."
+        ],
+        "reason": [
+            "[person_1] and [person_2] gripped the handle of the saw and pulled forth and back.",
+            "[person_1] and [person_2] stop hitting each other.",
+            "[person_1] and [person_2] are still holding gong sticks and sitting behind the gongs.",
+            "[person_1] and [person_2] are taking their helmets out after the signal from the [person_1].",
+            "[person_2] throws the ball to the basket again and [person_1] still waits to support him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would [person_2] do if the gong in front of [person_2] is high?",
+        "answer": [
+            "[person_2] can't stack dice.",
+            "[person_2] would have to stand up.",
+            "The kite may not fall down",
+            "[person_2] can't know what is inside the gift box.",
+            "[person_2] would be fine."
+        ],
+        "reason": [
+            "Since [person_2] is trying to step on the chair , so he will fall down if the chair falls down.",
+            "The gong is below so [person_2] is sitting down to play the gong.",
+            "The [person_2] is next to the [person_2] and the [person_2] can open the box.",
+            "When the donut is small , [person_2] can hold it in one hand . If the donut is big , [person_2] has to hold the donut with two hands.",
+            "Because he did it too fast and [person_2] spilled the cup."
+        ]
+    }
+}

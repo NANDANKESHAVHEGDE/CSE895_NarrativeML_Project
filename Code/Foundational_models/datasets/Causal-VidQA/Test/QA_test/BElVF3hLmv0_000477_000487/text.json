@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the gym .",
+            "[person_1] is in a room with various musical instruments.",
+            "[person_1] is in the gym.",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] go from the bottom up?",
+        "answer": [
+            "when [person_1] looking at the mirror , the reflection looks like someone else.",
+            "[person_1] wants people to see him clearly when [person_1] plays the guitar.",
+            "[person_1] wants to shave hair on [person_1]'s leg.",
+            "[person_1] is playing the guitar by tapping on the notes with 1 finger.",
+            "The ball of [person_1] is small to fit hands of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will stand in front of the drums and play the guitar.",
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will continue to jump long distances.",
+            "[person_1] will continue singing and playing.",
+            "[person_1] will continue to raise [person_1]'s leg."
+        ],
+        "reason": [
+            "[person_1]'s hands is touching the string.",
+            "[person_1] is still in front of the blank and hasn't left.",
+            "Because hands of the [person_1] are still on the handle and [person_1] is ready for the next pulling.",
+            "[person_1] is holding the first page.",
+            "[person_1] will raise his right hand to hit the keys above the guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone is playing drums in the room?",
+        "answer": [
+            "[person_1] will play a song with that person.",
+            "[person_1] may help [person_1].",
+            "[person_1] will be startled.",
+            "It is easier for [person_1] to wash the dog.",
+            "[person_1] would continue running away without turning round."
+        ],
+        "reason": [
+            "[person_1] can only hold on side of the cabinet if the other side isn't held by [person_1].",
+            "It is not safe on beach in rainy weather.",
+            "[person_1] wants to practice guitar.",
+            "Because there would be no force to push [person_1] up.",
+            "When the cow does not move , [person_1] walks over to help."
+        ]
+    }
+}

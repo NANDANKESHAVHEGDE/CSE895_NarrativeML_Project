@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is plastering in a careful way.",
+            "[person_1] is smashing something.",
+            "[person_1] is sitting in a hammock.",
+            "[person_1] is slamming a tire.",
+            "[person_1] is opening the box of a gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit down?",
+        "answer": [
+            "Because [person_1] wants to be able to unwrap the gift quickly.",
+            "Because [person_1] wants to tell us that she opened the [person_1] successfully.",
+            "Maybe [person_1] is taking part in a competition on playing the lute.",
+            "Maybe [person_1] likes to water plants.",
+            "Because [person_1] is watering the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to break.",
+            "[person_1] is going to fall.",
+            "[person_1] is going to keep opening the present.",
+            "[person_1] is going to ski.",
+            "[person_1] is going to keep enjoying."
+        ],
+        "reason": [
+            "[person_1] is going to have a break.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is exercising.",
+            "Because [person_1] has not finished opening the present yet.",
+            "Maybe [person_1] is allergic to something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] keeps standing and holding the box of the gift?",
+        "answer": [
+            "[person_1] might pick it up with a dance move.",
+            "The apple will be deeply stripped.",
+            "[person_1] can still unwrap the gift.",
+            "[person_1] will come here the next day.",
+            "[person_1] would have a fall."
+        ],
+        "reason": [
+            "[person_1] is just a baby , and babies are very vulnerable to physical injuries.",
+            "[person_1] can use one hand to hold the present , and the other hand to open the present.",
+            "[person_1] may feel tired after cutting the apple.",
+            "The table can be used as the [person_1] to put the tool on.",
+            "[person_1] and [person_1] seem to know each other a long time ago."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [tv_1]?",
+        "answer": [
+            "[tv_1] is near the window.",
+            "[tv_1] is near the window.",
+            "[tv_1] is on the table.",
+            "[tv_1] is near the door.",
+            "The [tv_1] is on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a sword?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] is learning how to swallow the sword.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is performing circus.",
+            "[person_1] raises [person_1]'s head to say something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep working until it finishes.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to swallow the sword through the mouth.",
+            "[person_1] will return to the starting position.",
+            "[person_1] may continue to stand there."
+        ],
+        "reason": [
+            "[person_1] is talking something.",
+            "The message says he should come home for dinner.",
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] is in the gymnastic.",
+            "[person_1] kept the sword in his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't know how to swallow?",
+        "answer": [
+            "[person_1] would be sad about it.",
+            "[person_1] would be injured.",
+            "[person_1] would drop his hat.",
+            "The car wouldn't be able to run.",
+            "[person_1] should stay away from [person_1]."
+        ],
+        "reason": [
+            "[person_1] is a little boy so there's risk of dangerous.",
+            "[person_1] is also dancing with the music and he will leave the playground when he's done.",
+            "Current transports would not give way to pedestrian.",
+            "There is a bookshelf in the room.",
+            "It might look old."
+        ]
+    }
+}

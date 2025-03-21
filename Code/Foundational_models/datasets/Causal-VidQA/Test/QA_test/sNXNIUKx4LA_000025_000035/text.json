@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the bedroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a cup?",
+        "answer": [
+            "Maybe [person_1] and [person_1] are having a short break and relaxing in the room.",
+            "Because the [person_1] is reading the [person_1].",
+            "[person_1] is shaking the dice.",
+            "Because [person_1] is stacking the dice with a cup.",
+            "The [person_1] is keen on the game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to roll the dice on the table.",
+            "[person_1] will collect honey.",
+            "[person_1] is going to drink water.",
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "[person_1] is going to bow down to fondle a kangaroo."
+        ],
+        "reason": [
+            "[person_1] is stacking the dice.",
+            "To ask for [person_1]'s agreement with the proposal.",
+            "[person_1] runs and jumps toward the sand pit.",
+            "[person_1] is still on the couch.",
+            "[person_1] is returning to the starting point of the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the cup?",
+        "answer": [
+            "The dirty water would flow to the man's body.",
+            "[person_1] will put the napkin away.",
+            "The cup will be fallen down on the table.",
+            "[person_1] will then go to the hospital.",
+            "[person_1] will go home."
+        ],
+        "reason": [
+            "The cup is not in the hands of [person_1].",
+            "[person_1] is holding the cup.",
+            "The [person_1] has a small ball to play.",
+            "The [person_1] trains her dog with many activities.",
+            "There was water under the lawn , and [person_1] could have hurt himself in a fall."
+        ]
+    }
+}

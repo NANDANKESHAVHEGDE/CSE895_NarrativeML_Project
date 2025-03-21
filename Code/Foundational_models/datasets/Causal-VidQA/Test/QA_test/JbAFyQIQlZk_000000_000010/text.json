@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the swimming pool.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are on the bed.",
+            "[person_1] and [person_2] are in the children's play area."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing on the floor?",
+        "answer": [
+            "[person_1] and [person_2] are trying to open the gift.",
+            "[person_1] is practicing a move in tai chi.",
+            "[person_1] and [person_2] are playing mahjong.",
+            "[person_1] is adjusting the amount of water to water the plants.",
+            "[person_1] and [person_2] are playing roller skating."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "They will go swimming in the sea.",
+            "[person_1] and [person_2] will move [person_2] out of the room.",
+            "[person_1] and [person_2] will continue to practice.",
+            "They will keep on laying those bricks on each other.",
+            "[person_1] and [person_2] will work together again to pull the iron sheet out of the machine."
+        ],
+        "reason": [
+            "[person_1] and [person_2] dance on the roller skates in a professional way.",
+            "[person_1] and [person_2] are paying attention to this game a lot.",
+            "[person_2] is backing into the truck.",
+            "[person_1] and [person_2] are performing a long dance.",
+            "[person_1] and [person_2] are completing the performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] and [person_2] will stop stretching arm.",
+            "[person_1] and [person_2] will stop roller skating.",
+            "[person_1] and [person_2] maybe afraid.",
+            "[person_1] will stop hooping.",
+            "[person_1] and [person_2] will not see anything."
+        ],
+        "reason": [
+            "[person_1] will stop skating.",
+            "[person_2] may not keep presenting.",
+            "[person_1] will hug the man.",
+            "[person_2] will stop smoking.",
+            "The roller skating rink will be dark then."
+        ]
+    }
+}

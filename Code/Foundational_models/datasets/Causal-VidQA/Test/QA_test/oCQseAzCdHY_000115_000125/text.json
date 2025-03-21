@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is sharpening a pencil.",
+            "[person_1] is smoking through a bong.",
+            "[person_1] is making the shoes.",
+            "[person_1] is roasting the marshmallows while crouching.",
+            "[person_1] is doing side lunges on a bench"
+        ]
+    },
+    "explanatory": {
+        "question": "why are [person_1] [person_2] [person_3] sharpening pencils?",
+        "answer": [
+            "[person_1] is lifting weights.",
+            "Because [person_1] , [person_2] and [person_3] are in sharpening competition.",
+            "[person_1] trying to train to change its body.",
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to fight back [person_2].",
+            "[person_2] will return to the first position.",
+            "[person_2] may take a break.",
+            "[person_2] may put down his cell phone.",
+            "[person_2] is going to raise his hand up."
+        ],
+        "reason": [
+            "To show the correct example for [person_2].",
+            "because [person_2] is on the match of football.",
+            "Because the cart hits something and stops moving.",
+            "because [person_2] appears to be the winner of the competition.",
+            "The [person_2] reaches out to touch his knees to sit up."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] broke the pencil?",
+        "answer": [
+            "[person_1] would have wine to drink.",
+            "[person_1] will break a chessman down.",
+            "[person_1] would throw the sharpener away.",
+            "[person_1] will practice again.",
+            "[person_1] would put the meat on the plate."
+        ],
+        "reason": [
+            "[person_1] is just a kid and loves that book.",
+            "because laying on the ground makes [person_1] feel more at ease.",
+            "[person_1] would continue competitions.",
+            "A real statue doesn't move.",
+            "because [person_1] is irritated."
+        ]
+    }
+}

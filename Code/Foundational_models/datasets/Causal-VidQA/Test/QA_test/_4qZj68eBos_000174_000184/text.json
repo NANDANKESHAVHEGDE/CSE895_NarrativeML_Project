@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is standing near the base of the staircase.",
+            "The [person_1] is next to the curtain.",
+            "The [person_1] is in a garden.",
+            "The [person_1] is sitting on the legs of the [person_1].",
+            "[person_1] is spinning the plate near a big tree."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] throwing the blueberries to the basket?",
+        "answer": [
+            "[person_1] is holding the target for the kick of [person_1].",
+            "The [person_1] is harvesting the blueberries.",
+            "[person_1] wants to ride the mechanical bull.",
+            "[person_1] nips the bottle between his legs.",
+            "He hitches the tire from the inside with the hammer and lifts them."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to carry on polishing the mirror.",
+            "The [person_1] is going to continue to clean the snow on the roof.",
+            "The [person_1] may go around the skateboard room.",
+            "The [person_1] is going to wash the bowl with water.",
+            "The [person_1] may carry on harvesting."
+        ],
+        "reason": [
+            "[person_1]'s next move is to walk backward.",
+            "The [person_1] turns back and moves.",
+            "The [person_1] tries to peel the potato by himself.",
+            "The [person_1] turns backs and hopes to see.",
+            "There are still blueberries on the tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the basket of the [person_1] were holed?",
+        "answer": [
+            "The blueberries would drop to the ground.",
+            "[person_1] will catch a cold.",
+            "They would buy some snacks.",
+            "The lens will be broken.",
+            "[person_1]'ll give up."
+        ],
+        "reason": [
+            "The blueberries are small.",
+            "The [person_1] is putting the agricultural products in the bucket.",
+            "[person_1] needs electricity to broadcast the news on the screen.",
+            "[person_1] , [person_1] and [person_1] want to perform for audience.",
+            "If [person_1] breaks , it is useless."
+        ]
+    }
+}

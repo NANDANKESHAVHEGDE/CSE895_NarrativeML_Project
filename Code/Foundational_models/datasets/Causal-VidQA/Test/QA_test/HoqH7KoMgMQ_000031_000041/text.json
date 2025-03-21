@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [knife_2]?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "It is white.",
+            "Blue.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] squeezing oranges?",
+        "answer": [
+            "[person_1] is playing the lute.",
+            "[person_1] wants to strip the apple quicker.",
+            "[person_1] is doing the exercise.",
+            "[person_1] wants to make a cup of orange juice.",
+            "That is the concert of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will get more cards",
+            "Maybe [person_1] is going to move quicker.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] will come up the stairs.",
+            "[person_1] is going to throw orange peel and squeeze another one."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "Because there are steps next to [person_1].",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] turns to a bowl of orange peels."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the house suddenly lost power?",
+        "answer": [
+            "The interview will stop.",
+            "They would stop the game.",
+            "The match will continue.",
+            "[person_1] would stop squeezing.",
+            "The audience will shrink."
+        ],
+        "reason": [
+            "That is the rules of the contest.",
+            "[person_1] is working indoor.",
+            "The squeezer can not work without power.",
+            "Because it's not safe in the trees at rainy days.",
+            "Because no matter how good a game is , they can't play it in the rain."
+        ]
+    }
+}

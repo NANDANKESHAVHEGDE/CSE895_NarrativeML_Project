@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the object that is hung on the wall behind [person_1]?",
+        "answer": [
+            "It is next to [person_1].",
+            "[person_1] is holding a gong and a gong stick.",
+            "[person_1] is holding a shoe cleaner bottle.",
+            "A bass guitar is hung on the wall behind [person_1].",
+            "[person_1] is in the back of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in the room?",
+        "answer": [
+            "[person_1] is playing music with the bass guitar that [person_1] is holding.",
+            "[person_1] is standing to open a present.",
+            "Because [person_1] is playing the accordion on his chest.",
+            "Perhaps [person_1] wants to warm up comfortably.",
+            "[person_1] is looking down to see [person_1]'s hand."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to hoop better.",
+            "[person_1] may finish the song that [person_1] is playing and stop filming himself.",
+            "[person_1] is going to rest.",
+            "[person_1] will color in the tail.",
+            "[person_1] is going to come back home."
+        ],
+        "reason": [
+            "[person_1] has eaten the apple in the hand.",
+            "[person_1] is playing very attentively.",
+            "[person_1] is talking with his friend.",
+            "[person_1] just covers the camera by his hand.",
+            "[person_1] cuts off the flower's stem."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no light in the room?",
+        "answer": [
+            "[person_1] will lose balance and fall into aquarium.",
+            "[person_1] could play guitar in the room and film the performance.",
+            "[person_1] will be pretty happy.",
+            "[person_1] could not play guitar in the room and film the performance.",
+            "[person_1] will have to move to a brighter place to play bass guitar."
+        ],
+        "reason": [
+            "Without light , [person_1] cannot see anything to play music.",
+            "The [person_1] stands up to stretch the carpet.",
+            "Without light , [person_1] can see anything to play music.",
+            "Because [person_1] will get hurt by the basketball.",
+            "With light , [person_1] cannot see anything to play music."
+        ]
+    }
+}

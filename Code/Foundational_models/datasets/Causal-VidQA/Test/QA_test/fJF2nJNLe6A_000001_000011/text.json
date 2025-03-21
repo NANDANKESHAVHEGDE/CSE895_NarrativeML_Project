@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [car_1]?",
+        "answer": [
+            "[car_1] is in front of the house door.",
+            "[car_1] is in the house.",
+            "[car_1] is playing in front of his house.",
+            "[car_1] is on the street.",
+            "The [car_1] is in front of the [car_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] do parkour?",
+        "answer": [
+            "[person_2] tears off the wrapping paper outside the gift.",
+            "Because it's sunny , so [person_2] can play outside.",
+            "Because [person_2] is afraid of falling down.",
+            "The swords are essential equipment in their drill.",
+            "[person_2] does parkour by jump over the balconies."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may wash his hands.",
+            "[person_2] is going to take a short rest.",
+            "[person_2] is going to give interview to [person_2].",
+            "[person_2] may keep dancing.",
+            "[person_2] is going to run towards another balcony to do parkour."
+        ],
+        "reason": [
+            "[person_2] moves to another place.",
+            "[person_2] is speaking very attentively.",
+            "[person_2] is a new dancer , so [person_2] is going to teach [person_2] dance skill.",
+            "[person_2] is running.",
+            "[person_2] is taking the food from the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] falls while he is running?",
+        "answer": [
+            "[person_2] may not be able to do parkour.",
+            "[person_2] will be more confident.",
+            "It is possible that [person_2] will be more beautiful.",
+            "[person_2] will get angry.",
+            "The bird will move to other places to eat."
+        ],
+        "reason": [
+            "Because [person_2] must inflate the balloons again.",
+            "He fell down while trying to ride backward.",
+            "[person_2] is a woman.",
+            "Because after falling , [person_2] may have injuries in his legs.",
+            "[person_2] is wearing headphones to listen to music."
+        ]
+    }
+}

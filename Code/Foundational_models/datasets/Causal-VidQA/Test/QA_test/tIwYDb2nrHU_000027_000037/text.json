@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does the hair of [person_1] look like?",
+        "answer": [
+            "It's red.",
+            "[person_1]'s pants is white.",
+            "Two.",
+            "It's long black hair.",
+            "It is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the hand of [person_1] keep pointing at the microscope?",
+        "answer": [
+            "Because [person_1] is talking about microscopes.",
+            "The [person_1] tries to work out properly and keeps her balance.",
+            "[person_1] is curious about the harmonica.",
+            "Maybe [person_1] feels happy because of a successful somersault.",
+            "Perhaps [person_1] is performing for passersby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to introduce how to use the microscope.",
+            "[person_1] is going to rip paper.",
+            "[person_1] may go to the children park.",
+            "[person_1] is going to lunges."
+        ],
+        "reason": [
+            "[person_1] has eaten the apple in the hand.",
+            "Her hand was ready to twist the knobs on the microscope to further introduce it to practical use",
+            "Maybe have run out of water.",
+            "[person_1] stops shaking the rope.",
+            "[person_1] drinks all the wine in the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] didn't introduce the basic knowledge about microscope?",
+        "answer": [
+            "The enemy team would be very happy.",
+            "Student cannot understand.",
+            "[person_1] might stop sailing.",
+            "[person_1] would sit on the rink and cry.",
+            "It is probable that [person_1] would be playing outside."
+        ],
+        "reason": [
+            "It's better to understand the basic information of a device before using it.",
+            "They could become the experts.",
+            "Because the part of dance just looks hard , if one practices it , it is easy to master.",
+            "Because the juicer can not make juice if it is out of power.",
+            "Cameras are fragile objects and can be broken easily with enough force."
+        ]
+    }
+}

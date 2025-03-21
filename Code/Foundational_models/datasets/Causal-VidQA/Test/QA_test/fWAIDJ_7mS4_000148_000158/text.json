@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside.",
+            "[person_1] is in a fashion shop.",
+            "[person_1] is in a park.",
+            "[person_1] is in a classroom.",
+            "[person_1] is training at a gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2]'s mouth move?",
+        "answer": [
+            "Because [person_2] wants the gas to come out of the bottle.",
+            "Because the [person_2] wants to keep warm in the snow.",
+            "The [person_2] is holding the items which are on the table.",
+            "Maybe [person_2] is a soldier.",
+            "Because [person_2] is singing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will scoop the wet sands into the groove.",
+            "[person_1] will continue to pull the rope as hard as possible.",
+            "[person_1] will continue to knock on the table with his right hand.",
+            "[person_1] is going to find a tool to eat it.",
+            "[person_1] will turn the iron pipe around and repeat the behavior of twisting the iron pipe."
+        ],
+        "reason": [
+            "[person_1] will continue to knock on the table with his right hand because [person_1] is constantly tapping and has no intention of stopping.",
+            "Because it seems that [person_1] would like to adjust it.",
+            "[person_1] will continue to look at [person_1] and write what [person_1] says.",
+            "[person_1] will feel tired after the game.",
+            "[person_1] will keep tapping the pen down and get closer to the camera because [person_1] is moving towards the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] stopped tapping?",
+        "answer": [
+            "Maybe [person_2] would sing anymore.",
+            "The party would be stop.",
+            "Maybe [person_2] wouldn't dance anymore.",
+            "Then the person here can't shoot the goal.",
+            "Maybe [person_2] wouldn't sing anymore."
+        ],
+        "reason": [
+            "Maybe [person_2] would sing anymore because [person_1] is tapping his pen to create tempo for [person_2].",
+            "[person_2] is following the lead of [person_1].",
+            "Maybe [person_2] wouldn't sing anymore because [person_1] is tapping his pen to create tempo for [person_2].",
+            "[person_2] is made of glass.",
+            "Maybe [person_2] wouldn't sing anymore because [person_1] isn't tapping his pen to create tempo for [person_2]."
+        ]
+    }
+}

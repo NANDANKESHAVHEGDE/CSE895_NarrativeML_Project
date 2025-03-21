@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is skating in a stage.",
+            "[person_1] is outside.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in his garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [knife_1]?",
+        "answer": [
+            "[person_1] is brushing [knife_1].",
+            "[person_1] is planing wood.",
+            "[person_1] is being shaved.",
+            "[knife_1] puts his hands on the floor and stretches the resistance band",
+            "[person_1] pour plaster on the [person_1] to take the plaster easily."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] probably will ride the bike straight to the house.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] is going to shape the wood slowly.",
+            "[person_1] is going to eat corns."
+        ],
+        "reason": [
+            "The reflection in the ball is not the same as his own appearance , which will arouse his curiosity.",
+            "[person_1] is very meticulous and precise.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "He seems like this kind of jump.",
+            "[person_1] has just been covered by a little whipped cream."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes that product?",
+        "answer": [
+            "[person_1] maybe addicted.",
+            "He may get new things.",
+            "[person_1] will have a high quality product.",
+            "The plaster on the hawk may pour out on the floor and [person_1] may have to clean it.",
+            "[person_1] will be more interested."
+        ],
+        "reason": [
+            "Books contain a wide variety of information.",
+            "[person_1] is just holding a spoon of food.",
+            "[person_1] spins around a lot before throwing the hammer away.",
+            "[person_1] does the wrong step.",
+            "It's the result of his efforts."
+        ]
+    }
+}

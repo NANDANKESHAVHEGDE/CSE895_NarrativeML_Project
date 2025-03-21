@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] running by himself?",
+        "answer": [
+            "A trash can.",
+            "The bookshelf is behind [person_1].",
+            "[person_1] and [person_1] are doing measurement work.",
+            "There is a convex mirror.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_2] run?",
+        "answer": [
+            "[person_2] is a trainer.",
+            "[person_2] is planing wood.",
+            "[person_2] is unboxing the present.",
+            "[person_2] would like to hit the ball.",
+            "There are so many performers."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after running?",
+        "answer": [
+            "[person_2] will rest.",
+            "[person_2] will serve the tennis ball first.",
+            "[person_2] will try again.",
+            "[person_2] will give some advice.",
+            "[person_2] will take a rest."
+        ],
+        "reason": [
+            "[person_2] enjoys running.",
+            "[person_2] is a trainer.",
+            "[person_2]'s hands are with the sauce.",
+            "There are many people seating back with the same clothes [person_2] is wearing.",
+            "[person_2] has her hands inside the box and is looking at the talking globe , so she will probably remove it from the box soon."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] runs not very well?",
+        "answer": [
+            "The [person_1] will stop at once.",
+            "[person_2] will give some advice.",
+            "[person_1] may stop practicing.",
+            "[person_1] will be proud of herself.",
+            "[person_1] might leave the room."
+        ],
+        "reason": [
+            "Because life is so short and no one will ignore it.",
+            "[person_2] is a trainer.",
+            "[person_1] will have a rest.",
+            "[person_1] wants to take a rest.",
+            "Lying on the ground is the quickest way."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "He is a student.",
+            "The [person_1] is big.",
+            "A teacher.",
+            "[person_1] is wearing casual clothes.",
+            "[person_1] is wearing a blue shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] know the way to play the harmonica?",
+        "answer": [
+            "Because he has no other tools.",
+            "Because they don't want to hurt their peace.",
+            "It is possible that someone taught [person_1].",
+            "[person_1] needs a target for the kick.",
+            "Mushrooms live in the dark environment."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will stop.",
+            "[person_1] will continue pulling the weights.",
+            "[person_1] will go downhill.",
+            "[person_1] may keep on skateboarding.",
+            "[person_1] will definitely play the harmonica."
+        ],
+        "reason": [
+            "[person_1] is holding the harmonica.",
+            "After [person_1] finished the dance , [person_1] will walk directly to the rest area.",
+            "[person_1] holds gong sticks and looks at the sleeping people.",
+            "Maybe [person_1] is afraid of something.",
+            "Because [person_1] is picking up the cloth to the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] took part in a music class?",
+        "answer": [
+            "[person_1] may not sew.",
+            "[person_1] may prepare things before constructing.",
+            "[person_1] might be a musician.",
+            "[person_1] could not practice.",
+            "[person_1] would hang the poster of [person_1] back up once he's is done playing."
+        ],
+        "reason": [
+            "[person_1] can not see where to put the tool.",
+            "[person_1] has a great talent for music.",
+            "because there was no one preventing [person_1] from attacking [person_1].",
+            "[person_1] needs [person_1] to co - practice.",
+            "There is no power."
+        ]
+    }
+}

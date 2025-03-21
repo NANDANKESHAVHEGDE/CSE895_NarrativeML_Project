@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "It is orange.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the cup?",
+        "answer": [
+            "[person_1] is shaking the dice.",
+            "The [person_1] is tickled by the [person_1].",
+            "To wait for the bubbles around [person_1].",
+            "[person_1] is stacking dice.",
+            "The [person_1] could not keep balance while walking stilts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to stack with more dice.",
+            "[person_1] is going to hit the ball.",
+            "[person_1] is going to kneel on the ground.",
+            "[person_1] will throw the dumbbell up.",
+            "Maybe [person_1] is going to shoot a video."
+        ],
+        "reason": [
+            "[person_1] has good technique.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "Because he just drunk strong wine and he looks terrible and run away with hands covered his mouth.",
+            "[person_1] is wearing tap dancing shoes.",
+            "Because it's a better way to show [person_1]'s strength."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the 6 dice do not line up?",
+        "answer": [
+            "The movement will be the same.",
+            "[person_1] won't see anything.",
+            "[person_1] will continue to ride.",
+            "The cooking show will be interrupted.",
+            "[person_1] will continue to practice."
+        ],
+        "reason": [
+            "[person_1] still hasn't reached his goal.",
+            "The room will be dark then.",
+            "Lights are needed for the show to take place.",
+            "The room will be dark.",
+            "It is jumping all the time."
+        ]
+    }
+}

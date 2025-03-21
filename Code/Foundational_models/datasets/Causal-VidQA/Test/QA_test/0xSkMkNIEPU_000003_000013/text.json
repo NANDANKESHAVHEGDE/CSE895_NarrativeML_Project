@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the rack?",
+        "answer": [
+            "The floor is brown.",
+            "It is pink.",
+            "It is cyan.",
+            "Balls is on the rack.",
+            "The [person_1] is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising his arm?",
+        "answer": [
+            "[person_1] is doing exercises.",
+            "[person_1] found a funny man.",
+            "[person_1] is ripping paper to make the boy laugh.",
+            "[person_1] is playing the bagpipes in front of a store to attract customers with his music.",
+            "[person_1] learned to play the keyboard before."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will show off his dancing skills.",
+            "[person_1] will perform magic tricks for passersby.",
+            "[person_1] will keep doing exercise.",
+            "[person_1] will take a shower.",
+            "[person_1] may spit toothpaste out."
+        ],
+        "reason": [
+            "Because [person_1] is hungry.",
+            "[person_1] has not finished painting yet.",
+            "Looks like [person_1] is not tired yet.",
+            "[person_1] is intended to finish lawn mowing.",
+            "[person_1] finds somersaults fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it rains?",
+        "answer": [
+            "[person_1] will continue doing his exercises.",
+            "[person_1] may find shelter.",
+            "[person_1] will stop filming.",
+            "[person_1] will continue his part of the competition.",
+            "[person_1] will keep dancing."
+        ],
+        "reason": [
+            "When [person_1] throws away the present , the present will be far from [person_1].",
+            "Because [person_1] is in the yard.",
+            "[person_1] is indoor.",
+            "[person_1] would look back because [person_1] was startled.",
+            "Because this is an outdoor gym."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the study room.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym.",
+            "[person_1] is in the gym .",
+            "[person_1] is on the right hand side of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_3]?",
+        "answer": [
+            "[person_1] and [person_1] are playing laser tag.",
+            "[person_1] is [person_1]'s friend.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is stacking dice.",
+            "Because [person_1] doesn't have an other chair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to keep squeezing oranges.",
+            "[person_1] is going to continue sailing."
+        ],
+        "reason": [
+            "[person_1] seems to enjoy playing it very much.",
+            "Because the machine is on.",
+            "The orange is not yet squeezed out.",
+            "[person_1] cuts off the flower's stem.",
+            "[person_1] is playing with one hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "[person_1] may not keep eating.",
+            "[person_1] will drink orange juice.",
+            "[person_1] would stop playing the harmonica.",
+            "[person_1] will be broken.",
+            "[person_1] may run away."
+        ],
+        "reason": [
+            "The [person_1] carries the mini one in hands of [person_1].",
+            "[person_1] is already on the [person_1].",
+            "The harder [person_1] and [person_1] stomp , the more water comes out.",
+            "[person_1] looks happy while squeezing oranges.",
+            "The [person_1] who is practicing riding the bicycle is little."
+        ]
+    }
+}

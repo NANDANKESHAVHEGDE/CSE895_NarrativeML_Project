@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [handbag_1]?",
+        "answer": [
+            "[person_1] is the furthest chair behind [person_1].",
+            "It is messy.",
+            "The room looks like the store.",
+            "It is next to [person_1].",
+            "It is clean and tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] nodding his head?",
+        "answer": [
+            "Because it is smoother.",
+            "[person_2] would like to show his enjoyment.",
+            "[person_2] is playing a bass guitar solo.",
+            "Empty - handed.",
+            "To make it easy to operate."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is about to learn pirouetting.",
+            "[person_1] will start to ride again.",
+            "[person_1] will go back to the game.",
+            "[person_1] is about to demonstrate how the machine work.",
+            "[person_1] is about to play with [person_2]."
+        ],
+        "reason": [
+            "It looks painful.",
+            "Because they will continue to have classes in this classroom.",
+            "[person_1] wants to be stronger.",
+            "[person_1] is feeling pleasure when playing with [person_2].",
+            "It seems that [person_1] turns the shot to the boy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is turned off?",
+        "answer": [
+            "[person_1] would be sorrow.",
+            "The [person_1] will check the current source first and ask for help.",
+            "Maybe [person_1] and [person_2] will go to bed.",
+            "Maybe [person_1] will stop completing this work temporarily.",
+            "The [person_1] can not copy the card."
+        ],
+        "reason": [
+            "It gets dark.",
+            "[person_1] falls easily if she dances on the slippery floor.",
+            "Because there wouldn't be any sunlight going into the room.",
+            "There is a lock on the door of the fence so that all the children are kept inside.",
+            "The net is much taller than [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool does [person_1] use?",
+        "answer": [
+            "Key pendant.",
+            "His false tooth.",
+            "It is purple.",
+            "A pyramid.",
+            "It's brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wave his two hands?",
+        "answer": [
+            "Because [person_1] wants to make sure the photographer is ready to start shooting.",
+            "[person_1] is trying to play the harmonica.",
+            "[person_1] wants to shave hair on [person_1]'s leg.",
+            "[person_1]'s body is bouncing because the [person_1] is bouncing.",
+            "Because [person_1] is playing the gong in this room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to wash his face.",
+            "[person_1] is going to put the beer bottle back to the basket.",
+            "[person_1] is going to continue trying to spray paint.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] will continue to do lunges."
+        ],
+        "reason": [
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] shaved off the bottom part of his beard.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] approaches the basket with the bottle in his hand.",
+            "[person_1] is putting hand on the corner of the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the false tooth is broken by prying the beer bottle?",
+        "answer": [
+            "[person_1] will fail in this panning.",
+            "[person_1] will be startled.",
+            "[person_1] and others will have to buy other net to play.",
+            "[person_1] would still throw the maraca.",
+            "[person_1] cannot eat anything."
+        ],
+        "reason": [
+            "Maracas are cylinder objects and they have handles , children would easily think it was a weapon.",
+            "[person_1] has no teeth of his own and uses false teeth to chew his food.",
+            "[person_1] can't see anything in the dark.",
+            "Because there would be no cake for him to have.",
+            "Because the dog caught a cold taking a bath at home this time."
+        ]
+    }
+}

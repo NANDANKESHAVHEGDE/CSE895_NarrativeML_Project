@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the yard.",
+            "[person_2] is in the garden.",
+            "Twelve.",
+            "[person_2] is sitting next to the [person_2].",
+            "[person_2] is in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in a room?",
+        "answer": [
+            "The [person_2] is talking to the [person_2].",
+            "[person_2] is trying something like clothes.",
+            "[person_2] is holding a piece of the orange.",
+            "[person_2] is practicing a clarinet.",
+            "Because the [person_2] does not want to walk."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will continue saluting.",
+            "[person_2] will continue practicing with [person_1] .",
+            "[person_2] will continue to open the newspaper.",
+            "[person_2] may drink more.",
+            "[person_2] will probably stand up."
+        ],
+        "reason": [
+            "[person_2] has not finished practicing yet.",
+            "[person_2] is walking towards the camera.",
+            "[person_2] is aiming to shoot.",
+            "[person_2] used a lipstick to apply on [person_2]'s lips.",
+            "Because [person_2] likes to ride a bike."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not there?",
+        "answer": [
+            "[person_1] might injure herself.",
+            "[person_2] may not walk.",
+            "[person_2] would have difficulties in lighting up the candles.",
+            "[person_2] would not practice the clarinet.",
+            "[person_2] might not be able to do front raise properly."
+        ],
+        "reason": [
+            "[person_1] and [person_2] have nothing to cheer.",
+            "[person_2] is tapping his foot in sync with the beat.",
+            "Kelly won't understand what [person_2] and [person_2] are saying.",
+            "[person_2] would feel demotivated very quickly if [person_2] danced alone.",
+            "[person_2] wants to practice with [person_1]."
+        ]
+    }
+}

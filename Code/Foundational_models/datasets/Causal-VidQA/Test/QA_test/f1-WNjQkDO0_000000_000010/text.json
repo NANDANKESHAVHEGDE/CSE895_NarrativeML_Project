@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are the [person_1] , the [person_2] and the [person_3] doing?",
+        "answer": [
+            "The books are behind [person_1].",
+            "It is in a wine factory.",
+            "Empty bottles.",
+            "The [person_1] , the [person_2] and the [person_3] are playing in the snow.",
+            "It is in the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] wearing a scarf?",
+        "answer": [
+            "[person_1] is showing how to peel a banana easily.",
+            "The [person_1] and [person_1] are excited.",
+            "The [person_1] has a conversation with a girl.",
+            "[person_1] wants to know something inside the [person_1].",
+            "Because the [person_1] wants to keep warm in the snow."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_3] going to do?",
+        "answer": [
+            "The [person_3] may get more concrete materials by using the wheelbarrow.",
+            "The [person_3] may try to balance on the tightrope.",
+            "The [person_3] may skate backward on the way of [person_3].",
+            "The [person_3] may throw the snowball that the [person_3] is holding.",
+            "The [person_3] may keep waving the arms."
+        ],
+        "reason": [
+            "The [person_3] is standing on the tightrope.",
+            "[person_3] threw the ball and had to watch closely to know if it went in the basket.",
+            "[person_3] is taking something out of his pocket.",
+            "The [person_3] is raising the hand and running.",
+            "[person_3] is wearing nothing in the water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_3] did not wear a woolen cap?",
+        "answer": [
+            "[person_3] would have a bad fall.",
+            "The hair of the [person_3] might stick snow.",
+            "The room would be smelly.",
+            "[person_3] would fall to the floor.",
+            "[person_3] wouldn't make the cake fall down."
+        ],
+        "reason": [
+            "The [person_2] is performing on the platform which is small.",
+            "The [person_2] has just hit a snowball toward the [person_3].",
+            "The [person_2] is talking based on the papers.",
+            "The headphones help [person_3] to listen to the music beat.",
+            "It is possible that [person_3] and [person_2] are sister and brother and they were playing together in the room before [person_3] found the phone."
+        ]
+    }
+}

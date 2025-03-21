@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room ?",
+        "answer": [
+            "The room is quite small.",
+            "The room is small.",
+            "The room is quite large.",
+            "The room is large.",
+            "It is beautiful."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a tie?",
+        "answer": [
+            "Because [person_1] is showing that there are nothing in the newspaper.",
+            "Maybe [person_1] is in a solemn ceremony.",
+            "Maybe [person_1] is explaining the rules of dominoes game to the others.",
+            "Maybe [person_1] likes it.",
+            "[person_1] is having an interview."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] will put more bricks on block.",
+            "He will continue to exercise.",
+            "It is possible that [person_1] will play with the flute.",
+            "Maybe [person_1] can sing.",
+            "[person_1] is bound to playing guitar."
+        ],
+        "reason": [
+            "[person_1] is going to look at the book in front of him.",
+            "[person_1] is very excited.",
+            "[person_1] is going to sleep.",
+            "[person_1] is still looking at the same point and laughing.",
+            "[person_1] will lift the stick because he's done checking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lamp is off ?",
+        "answer": [
+            "Perhaps [person_1] will start practicing.",
+            "The player who wears number 75 will probably get a score.",
+            "Perhaps [person_1] won't stop practicing.",
+            "[person_1] will throw [person_1] away.",
+            "Perhaps [person_1] will stop practicing."
+        ],
+        "reason": [
+            "Shards of glasses are very sharp.",
+            "The room will be very bright.",
+            "Because it is not safe for him to collect garbage with bare hands.",
+            "The room will be very dark.",
+            "The plate contains food and is easily overturned when placed on the edge of the table . Food is what the baby likes to eat , so if the plate is turned over , the baby will cry."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the [handbag_1]?",
+        "answer": [
+            "It is black.",
+            "Yes.",
+            "No.",
+            "[handbag_1] is on the corner behind [handbag_1]'s back.",
+            "The [handbag_1] is behind [handbag_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] do mountain climbers?",
+        "answer": [
+            "Because [person_1] is making the beat.",
+            "With the help of the [bowl_1].",
+            "[person_1] is playing spinning poi.",
+            "It can help [person_1] keep fit.",
+            "The [person_1] is opening the gift."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will come up the stairs.",
+            "[person_1] will put [bowl_1] away.",
+            "Maybe [person_1] is going to move quicker.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will check the result."
+        ],
+        "reason": [
+            "[person_1] is ripping paper.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "Because [person_1] doesn't want to do mountain climbers anymore.",
+            "[person_1] is touching three cups.",
+            "The message says he should come home for dinner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] gets hurt while exercising?",
+        "answer": [
+            "[person_1] may not be able to help [person_1].",
+            "[person_1] will go to the clinic.",
+            "[person_1] will want more water.",
+            "[person_1] will go to the toilet.",
+            "An accident may happen."
+        ],
+        "reason": [
+            "To do some examinations.",
+            "Because there is no gravity.",
+            "The injuries may prevent [person_1] from keep sharpening the knife.",
+            "To help cure the hurt.",
+            "Practice makes perfect."
+        ]
+    }
+}

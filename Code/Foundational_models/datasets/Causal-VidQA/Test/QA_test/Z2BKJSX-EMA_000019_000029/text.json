@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is outside.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "Because [person_1] is a music star.",
+            "Because [person_1] gives the ring to [person_2].",
+            "[person_1] and [person_2] are performing.",
+            "Because [person_1] and [person_2] have gifts.",
+            "Because [person_2] fell from the wheelbarrow and hit [person_2]'s back to the ground."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_1] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to stop dancing.",
+            "[person_1] and [person_2] are going to have a rest.",
+            "[person_1] and [person_2] is going to perform together.",
+            "[person_1] and [person_2] will keep talking.",
+            "[person_1] and [person_2] will leave the room."
+        ],
+        "reason": [
+            "[person_1] is playing the cello while [person_2] is playing the harp.",
+            "[person_1] and [person_2] are still holding gong sticks and sitting behind the gongs.",
+            "[person_1] and [person_2] are family members and are squeezing oranges to drink.",
+            "[person_1] and [person_2] are stacking a layer of bread on top of each other at once.",
+            "[person_1] and [person_2] think that it is dangerous to stand on top of the car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if one of them misfires?",
+        "answer": [
+            "[person_2] will stop practicing.",
+            "[person_1] and [person_2] will ignore that mistake and continue playing.",
+            "[person_2] will go inside.",
+            "[person_2] will stop doing exercise.",
+            "[person_2] won't be able to do it."
+        ],
+        "reason": [
+            "It is dangerous for [person_1] to use the knife.",
+            "[person_1] are [person_2] are in the room.",
+            "[person_1] and [person_2] are performing.",
+            "[person_1] is standing on the high chair.",
+            "All bottles are directly standing on the [person_1]."
+        ]
+    }
+}

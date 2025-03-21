@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "Along the river.",
+            "[person_1] is in the room",
+            "[person_1] is on the balcony.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting here?",
+        "answer": [
+            "[person_1] is learning to play chess.",
+            "[person_1] is going out with his family.",
+            "[person_1] is talking about chess.",
+            "[person_1] is lighting a pipe.",
+            "[person_1] is smoking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cross the street.",
+            "[person_1] will read another book.",
+            "[person_1] is going to do some tricks.",
+            "[person_1] will leave.",
+            "[person_1] is about to eat."
+        ],
+        "reason": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] is preparing to turn another somersault.",
+            "[person_1] is facing [person_1].",
+            "[person_1] is snowmobiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is given a pack of cigarettes?",
+        "answer": [
+            "[person_1] will be in danger.",
+            "[person_1] will be very happy.",
+            "The [person_1] can carry the big accordion to play.",
+            "[person_1] will be sent to hospital.",
+            "[person_1] and [person_1] will continue to pull the sword."
+        ],
+        "reason": [
+            "The water in the pool will be cold.",
+            "[person_1] loves smoking.",
+            "[person_1]'s hands will be hurt by the machine.",
+            "The aim of showing people how to bandage is to teach them . So , when people ask [person_1] to do it again , [person_1] will definitely do it again.",
+            "[person_1] can not practice lifting weights without the weights."
+        ]
+    }
+}

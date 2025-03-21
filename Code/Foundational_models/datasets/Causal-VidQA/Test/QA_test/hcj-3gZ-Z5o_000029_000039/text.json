@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bowl_1]?",
+        "answer": [
+            "The [bowl_1] is in the hands of the [bowl_1].",
+            "the [bowl_1] is above the [bowl_1].",
+            "The [bowl_1] is next to the [cup_1] and they are on the floor.",
+            "[cup_1] is brown.",
+            "The [cup_1] is near the door."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] apply the plaster on the wall?",
+        "answer": [
+            "[person_1] holds a sledgehammer with one hand and and strikes at the tire with the hammer.",
+            "[person_1] turns his back on the basket and throws the ball backward.",
+            "The nose of a knife is sharper than other parts.",
+            "The cork must give off a fragrant perfume.",
+            "[person_1] shovels the plaster on the floor and throw it on the wall."
+        ]
+    },
+    "predictive": {
+        "question": "what will [person_1] do?",
+        "answer": [
+            "[person_1] will will rake the sand to make it smooth.",
+            "[person_1] will hit the ball back after [person_1] serves the ball first.",
+            "[person_1] may continue to use the razor to shave head after cleaning it.",
+            "[person_1] will throw the plaster on the shovel to the wall.",
+            "[person_1] will continue to move the knife up and down on the whetstone bar."
+        ],
+        "reason": [
+            "[person_1] just shovels the plaster.",
+            "[person_1] is startled when the insect bites his chest.",
+            "[person_1] finishes cleaning the top.",
+            "[person_1] is using a tool to tie a string around the fly.",
+            "Because [person_1] didn't move for a long time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] uses all the plaster on the floor?",
+        "answer": [
+            "[person_1] will dismantle it.",
+            "[person_1] may mix new plaster to continue his work.",
+            "[person_1] will be broken on the floor.",
+            "[person_1]'ll send the pottery to be calcined.",
+            "People wouldn't understand what scarf [person_1] is talking about."
+        ],
+        "reason": [
+            "Because the [person_1] does not know how to repair it.",
+            "the light is providing light for [person_1] to see.",
+            "[person_1] looks young and must have other toys.",
+            "Because the [person_1] wants to wash by herself.",
+            "Because [person_1] needs the plaster to finish plastering the wall."
+        ]
+    }
+}

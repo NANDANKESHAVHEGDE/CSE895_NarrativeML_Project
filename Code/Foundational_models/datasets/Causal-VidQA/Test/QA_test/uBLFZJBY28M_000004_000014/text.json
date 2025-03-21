@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [dinning table_1]?",
+        "answer": [
+            "The [dinning table_1] is near [dinning table_1].",
+            "The [dinning table_1] is big.",
+            "It is lying on the ground.",
+            "The [dinning table_1] is in the room.",
+            "[dinning table_1] is rectangular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting?",
+        "answer": [
+            "[person_1] and [person_2] are skipping rope.",
+            "Because [person_1] wants to weave to make sweaters.",
+            "[person_2] and [person_1] are preparing to do something.",
+            "Because gym equipment needs a place to be stored.",
+            "The gong is big so that the sound is produced louder."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to sit down and have a drink.",
+            "[person_1] and [person_2] are going to continue laughing and dancing.",
+            "[person_2] and [person_1] are going to clap their hands.",
+            "[person_1] and [person_2] are going to continue their performance.",
+            "[person_1] and [person_2] are going to continue the rehearsal."
+        ],
+        "reason": [
+            "To complete the project.",
+            "[person_2] seems to be excited , [person_2] smiles when [person_1] spins [person_2]'s hands.",
+            "[person_2] is helping [person_1] to flip the pancake.",
+            "[person_1] and [person_2] need to pick the ball back.",
+            "[person_1] and [person_2] look hungry."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] didn't like playing anymore?",
+        "answer": [
+            "[person_2] would not be able to perform cheer - leading.",
+            "[person_1] would be famous.",
+            "[person_2] would eat a little .",
+            "[person_1] would drop the strainer onto the floor.",
+            "[person_1] and [person_2] would go out to chill."
+        ],
+        "reason": [
+            "Practicing how to bandage on a toy shows that [person_1] is not very skilled at it . Bandaging will influence the speed of healing , so . if [person_1] didn't practice first , [person_1] would get complaints and distrust.",
+            "The car of [person_1] would be stuck there.",
+            "[person_1] would make a sense of humor.",
+            "[person_2] needs more practicing.",
+            "Because [person_1] did not need to hold the hand of [person_2] if [person_1] did not want to shake hands."
+        ]
+    }
+}

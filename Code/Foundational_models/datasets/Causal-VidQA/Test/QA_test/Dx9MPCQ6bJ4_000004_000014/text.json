@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the weight training field.",
+            "They are in a room.",
+            "[person_1] and [person_2] are in the garden.",
+            "[person_1] and [person_2] are in the street.",
+            "In front of a house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Because [person_1] is amused.",
+            "Maybe [person_1] is guiding her how to ride unicycle.",
+            "[person_1] enjoys playing maracas and dancing happily.",
+            "Because [person_1] has to smash a box outside.",
+            "Maybe [person_1] wants to be there."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] is going to do?",
+        "answer": [
+            "[person_2] is going to ride a unicycle.",
+            "[person_2] will rake the concrete.",
+            "The snow will be much thinner.",
+            "[person_2] is going to ice swimming.",
+            "[person_2] tends to continue playing the flute."
+        ],
+        "reason": [
+            "[person_2] is making flute movements.",
+            "[person_2] is introducing the glasses with enthusiasm.",
+            "[person_2] is looking at the gift and smiling.",
+            "[person_2] is riding a unicycle.",
+            "[person_2] is very passionate about playing the guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't help [person_2]?",
+        "answer": [
+            "Then some food may fall on the ground.",
+            "[person_2] and [person_2] will not know how to play with [person_1].",
+            "Maybe [person_2] will maintain professional and productive relationships with colleagues.",
+            "Then [person_1] and [person_2] won't get the express.",
+            "It is possible that [person_2] will not know to how ride bike"
+        ],
+        "reason": [
+            "Because [person_1] may be painful when he falls from the chair.",
+            "Because [person_2] is next to [person_1].",
+            "[person_1] clearly has the knowledge that [person_2] needs.",
+            "Because falling hurts [person_1].",
+            "Because [person_1] really likes balloons."
+        ]
+    }
+}

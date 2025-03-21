@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are they that on [truck_1]?",
+        "answer": [
+            "There are some tools and chargers.",
+            "No , it isn't.",
+            "It is on the in the bookcase.",
+            "Four.",
+            "[truck_1] is on the bookshelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the circular saw on [truck_1]?",
+        "answer": [
+            "[person_1] is throwing it at [person_1].",
+            "[person_1] is playing the gong for fun.",
+            "Because [person_1] wants to charge the circular saw.",
+            "Because [person_1] wants to play the keyboard.",
+            "[person_1] and [truck_1] are practicing the clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may be going to have a taste.",
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to bring some boards.",
+            "[person_1] may go home.",
+            "[person_1] is going to play the harp."
+        ],
+        "reason": [
+            "To prepare for the cut of the board.",
+            "She is looking forward to playing.",
+            "Because the floor needs fixing.",
+            "Their stems are too long.",
+            "[person_1] looks have a lot of energy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if there is a sudden power failure?",
+        "answer": [
+            "[person_1] will stop painting.",
+            "[person_1] will call the repair man.",
+            "[person_1] will take a broom.",
+            "[person_1] will stop operating the power drill.",
+            "It is probable that [person_1] will be very angry."
+        ],
+        "reason": [
+            "Because it's in the room , the thunders will not bother.",
+            "The oven won't work without electricity.",
+            "If he is tired , he may put down the guitar , sit on the [truck_1] to have a rest.",
+            "[person_1] is standing there and watching her carefully.",
+            "To fix the power."
+        ]
+    }
+}

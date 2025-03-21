@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there two persons running?",
+        "answer": [
+            "[person_2] near [person_2].",
+            "No.",
+            "The newspaper is being held by a person.",
+            "The bookshelf is behind [person_2].",
+            "There is a convex mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_2] run?",
+        "answer": [
+            "[person_2] doesn't like running.",
+            "The cork is really tight.",
+            "Because they don't want to hurt their peace.",
+            "To protect herself from the sun.",
+            "[person_2] puts much strength on the cup and screws it."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running?",
+        "answer": [
+            "[person_1] will invite [person_2] to run together.",
+            "[person_1] will hit his left hand down and then his right hand down.",
+            "[person_1] cannot wait to open it.",
+            "[person_1] will take a photo.",
+            "[person_1] will go back to the start."
+        ],
+        "reason": [
+            "[person_1] wants to have some water.",
+            "[person_1] wants [person_2] to run.",
+            "[person_1] will continue to hit the ball because [person_1] has continued to raise the baseball hat.",
+            "Because [person_1] is still working.",
+            "This is a cake shop and [person_1] can be the owner so [person_1] will sell [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is broken?",
+        "answer": [
+            "[person_1] will go back home.",
+            "The actors on the stage will panic.",
+            "[person_1] might ask [person_1]'s mother to add water.",
+            "[person_1] will turn off the tap.",
+            "The house will be dark and [person_1] will use [person_1] for light."
+        ],
+        "reason": [
+            "It will be too dark to see much.",
+            "Because [person_1] indulges himself in making faces , so an alarm will catch his attention.",
+            "[person_1] won't be able to work while the power is off.",
+            "Because being bitten by a dog will make the [person_1] infected.",
+            "[person_1] can see nothing here."
+        ]
+    }
+}

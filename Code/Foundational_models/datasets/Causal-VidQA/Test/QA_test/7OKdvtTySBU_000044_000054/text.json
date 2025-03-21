@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [sink_1] ?",
+        "answer": [
+            "[sink_1] is next to the wall.",
+            "[sink_1] is behind the girl.",
+            "It is in front of the wall.",
+            "It is on the right hand of [sink_1].",
+            "[sink_1] is the first chair in the row."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] ripping in the room ?",
+        "answer": [
+            "[person_1] found a funny man.",
+            "[person_1] is skiing.",
+            "[person_1] is in the performance.",
+            "[person_1] is ripping paper to make the boy laugh.",
+            "[person_1] learned to play the keyboard before."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do ?",
+        "answer": [
+            "[person_1] intends to continue ripping paper.",
+            "[person_1] intends to drink beer.",
+            "[person_1] intends to continue play the music.",
+            "[person_1] intends to go out.",
+            "[person_1] intends to put on lipstick."
+        ],
+        "reason": [
+            "Maybe [person_1] is trying to get dressed as fast as possible.",
+            "Maybe [person_1] can move on his own.",
+            "[person_1] is going forward to the [person_1].",
+            "[person_1] looks very interested and wants to try folding clothes . [person_1] doesn't fold clothes.",
+            "The paper is in [person_1]'s hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't rip paper ?",
+        "answer": [
+            "[person_2] will stop laugh.",
+            "[person_2] may not dance anymore.",
+            "[person_1] will get down the next stop.",
+            "[person_1] will greet with them.",
+            "[person_1] will send the makeup video to public."
+        ],
+        "reason": [
+            "[person_1] and [person_2] will go out.",
+            "[person_1] thinks he can not make [person_2] feel tired and [person_2] will feel tired because of the absence of [person_2].",
+            "Because [person_2] accompany [person_1] when [person_1] is knitting.",
+            "[person_1] needs to get another subway.",
+            "Because [person_1] makes money out of it."
+        ]
+    }
+}

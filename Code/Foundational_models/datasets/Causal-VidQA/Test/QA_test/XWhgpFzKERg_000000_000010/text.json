@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is blue.",
+            "It's white.",
+            "[person_1] is wearing a black shirt.",
+            "The shirt is pink.",
+            "The shirt is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting next to [keyboard_2] ?",
+        "answer": [
+            "The [person_2] is used to cut the potatoes.",
+            "To mash the tea leaves.",
+            "[keyboard_2] is playing the accordion.",
+            "[person_2] is interested in it.",
+            "[person_2] is playing mahjong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep skating.",
+            "[person_2] is going to throw a dart.",
+            "Maybe [person_2] is going to continue punching [person_2].",
+            "[person_2] is going to put all the mahjong pieces in the hole.",
+            "Maybe [person_2] will jump over that pole."
+        ],
+        "reason": [
+            "[person_2] is moving forward.",
+            "[person_2] bent down and held the patch.",
+            "It is a mahjong machine.",
+            "[person_2] is bringing the wine glass to his mouth.",
+            "[person_2] likes the show."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the house of [person_2] suddenly loses power?",
+        "answer": [
+            "The mahjong machine will not be able to work.",
+            "The room might be full of darkness.",
+            "The bottle will break.",
+            "[person_2] could not continue to play drums.",
+            "The lights will be off."
+        ],
+        "reason": [
+            "It needs electricity to work.",
+            "Because bitten by a dog will make the [person_2] infected.",
+            "The pancake may not fall if [person_2] doesn't change his hand.",
+            "[person_2] seems to be a beginner and hoops quite slowly.",
+            "[person_2] needs a vase to put bouquet in her hand."
+        ]
+    }
+}

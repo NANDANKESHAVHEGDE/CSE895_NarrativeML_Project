@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[person_1] is next to [chair_1].",
+            "[chair_1] is behind [chair_1].",
+            " [chair_1] is behind [person_1].",
+            "[person_1] is sitting on it.",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room?",
+        "answer": [
+            "[person_1] is checking to see if [person_1] fine motor skills are still functioning.",
+            "[person_1] is weaving fabric.",
+            "Because [person_1] is watering the plants and saying something.",
+            "Because [person_1] is trying to balance himself.",
+            "[person_1] is playing flute in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] is going to continue securing the paper to the box.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] will continue weaving fabric."
+        ],
+        "reason": [
+            "[person_1] was holding the tool in the hands and [person_1] was talking.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] is weaving fabric.",
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will stop singing.",
+            "[person_1] will stop eating.",
+            "[person_1] will doing sports outside.",
+            "[person_1] and [person_1] will stop eating.",
+            "[person_1] will stop working."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "The room will be dark.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

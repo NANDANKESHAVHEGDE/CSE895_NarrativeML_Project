@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many book are there in the bed?",
+        "answer": [
+            "The floor is made of ice.",
+            "That is [person_1].",
+            "It is white.",
+            "[person_1] is in bed.",
+            "There are two."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the bed?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing basketball.",
+            "The view at the window is beautiful.",
+            "[person_1] cannot stand up.",
+            "[person_1] is practicing standing on his hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] probably will shake the pan again.",
+            "[person_1] will play basic chords.",
+            "It seems that [person_1] may choose to pick up [person_1].",
+            "[person_1] may continue to sharpen the knife after checking it.",
+            "[person_1] may go to get a stick."
+        ],
+        "reason": [
+            "[person_1] is playing with one hand.",
+            "[person_1] moved the ball to the right.",
+            "[person_1] moved some steps slowly and gently.",
+            "[person_1] reaches out and pulls the plate on the table in front of him to take the food and pushes the plate aside.",
+            "[person_1] eats too much."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if [person_1] presses the wrong key?",
+        "answer": [
+            "[person_1] may be suffered from backache.",
+            "[person_1]'s reflection will also touch the mirror.",
+            "[person_1] won't move.",
+            "[person_1] will play that tune again.",
+            "[person_1] will come and save [person_1]."
+        ],
+        "reason": [
+            "Because there is still milk in the cup when [person_1] is drinking.",
+            "Because the [person_1] is empty now.",
+            "The manhole cover is made of iron.",
+            "[person_1] is practicing.",
+            "The [person_1] touches the keyboard of accordion."
+        ]
+    }
+}

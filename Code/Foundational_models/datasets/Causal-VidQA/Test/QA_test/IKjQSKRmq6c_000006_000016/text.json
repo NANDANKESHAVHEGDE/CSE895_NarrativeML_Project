@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of the cloth of [person_1]?",
+        "answer": [
+            "It is purple.",
+            "It's blue.",
+            "It is pink.",
+            "It is green.",
+            "It is \u00a0 light brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shaking his hands?",
+        "answer": [
+            "Because she is very happy for she successfully opens the beer by her hand.",
+            "[person_1] is working out at the gym.",
+            "[person_1] is talking about his barber shop.",
+            "Because he wants to open the beer by the stick hold in his hands.",
+            "[person_1] is watching the band."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to kick high.",
+            "[person_1] is trying to crawl.",
+            "He is going to drink all beers.",
+            "[person_1] may keep trying to play.",
+            "[person_1] will catch the frisbee."
+        ],
+        "reason": [
+            "[person_1] wants to see the pig.",
+            "[person_1] may keep raising eyebrows.",
+            "[person_1] keeps his hand at such an altitude , which indicates he will drink all the beers until the bottle is empty.",
+            "The tire is fully inflated.",
+            "[person_1] is moving to the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dinning table_1] breaks?",
+        "answer": [
+            "[person_1] will still work , but the movement will be more limited.",
+            "[person_1] will deal with the [dinning table_1] first rather than open the beer.",
+            "[person_1] may let him sit on the [dinning table_1].",
+            "[person_1] will deal with the [dinning table_1] first rather than close the beer.",
+            "Then the person might spit out the cookies."
+        ],
+        "reason": [
+            "The machine may hurt the cat.",
+            "People are tend to deal with the problem which is the last urgent.",
+            "Running helps [dinning table_1] to get high position in the air.",
+            "People are tend to deal with the problem which is the most urgent.",
+            "All the sands would be shook away into the water."
+        ]
+    }
+}

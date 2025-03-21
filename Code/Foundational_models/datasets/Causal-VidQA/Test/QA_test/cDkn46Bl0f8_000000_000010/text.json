@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_3]?",
+        "answer": [
+            "The [person_3] is standing in a garden.",
+            "The [person_3] is in a garden.",
+            "The [person_3] is standing behind the fence.",
+            "The [person_3] is sitting outside.",
+            "The [person_3] is sitting on the legs of the [person_6]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_3] sitting on the legs of the [person_6]?",
+        "answer": [
+            "[person_3] is taking a bath.",
+            "[person_3] wanna show how to peel the potato faster.",
+            "[person_6] is on the floor because [person_3] is on top of them sheering their fur off.",
+            "Because it is [person_3]'s present.",
+            "The [person_3] is still little and the [person_6] is an adult."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_6] and the [person_2] do?",
+        "answer": [
+            "Perhaps [person_2] is in a park.",
+            "[person_2] is going to play with the little boy.",
+            "[person_2] and [person_2] will finish the lollipops and move onto tasting different lollipops.",
+            "The [person_6] and the [person_2] may open the box together.",
+            "The [person_6] may open the red box."
+        ],
+        "reason": [
+            "There are many trees behind the fence on the left of [person_2] which is the right of [person_2].",
+            "There are many other people who are either doing tai chi or doing exercise around him.",
+            "[person_2] may not like the red ball in his hand , so [person_2] put it in the box and prepared to take out another one.",
+            "Although the cookies was stuck on the plate , [person_6] took a shovel , and [person_6] could shovel it off if [person_6] insisted.",
+            "The [person_6] and the [person_2] are holding and looking at the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_6] and the [person_2] did not rip the wrapper?",
+        "answer": [
+            "The [person_3] would not be curious about the box.",
+            "[person_2] would not be able to move [person_2]'s legs as much.",
+            "The [person_3] would be curious about the box.",
+            "[person_2] will call others to help.",
+            "The [person_3] would be sad about the box."
+        ],
+        "reason": [
+            "The [person_3] is old and the [person_3] is not able to open the box.",
+            "If [person_3] and [person_2] hug each other , they will feel warmer.",
+            "The [person_3] is little and the [person_3] is not able to open the box.",
+            "The weights is very heavy.",
+            "The [person_3] is little and the [person_3] is able to open the box."
+        ]
+    }
+}

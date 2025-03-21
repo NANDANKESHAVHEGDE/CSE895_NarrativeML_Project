@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is white.",
+            "it is black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [bench_1] put there?",
+        "answer": [
+            "Each dice has its own color.",
+            "[bench_1] is put there for [person_1] to sit on.",
+            "[person_1] is here to help [person_1] practicing tackling.",
+            "He wants to test emotion when he plays.",
+            "Because [person_1] wants to stack the dice up."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep playing the harp.",
+            "[person_2] is going to fall down.",
+            "[person_2] is going to continue testifying.",
+            "[person_2] is going to try to make bubbles again.",
+            "[person_2] is going to have fun with the gift."
+        ],
+        "reason": [
+            "[person_2] has stood there from the beginning.",
+            "[person_2] thinks it is too dangerous.",
+            "There are many bottles of wine in the room.",
+            "[person_2] is still moving fingers on it.",
+            "[person_2] moved the snake higher."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [bench_1] weren't there?",
+        "answer": [
+            "[person_1] will stop the snow blower.",
+            "Products from that tube would be wasted.",
+            "[person_1] will find other power drills.",
+            "[person_1] would not sit on it.",
+            "[person_1] will need to fix it."
+        ],
+        "reason": [
+            "There would be only [bench_1] there to sit.",
+            "To help the work go smoothly.",
+            "Pressure increasing suddenly would produce explosion if the temperature was not steady.",
+            "[bench_1] could not use a broken bat to practice.",
+            "Because the machine big like this will have strong power."
+        ]
+    }
+}

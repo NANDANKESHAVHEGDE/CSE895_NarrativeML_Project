@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is pink.",
+            "There is a large - sized black speaker behind [person_1].",
+            "It is black.",
+            "It is white.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they here?",
+        "answer": [
+            "They are here to practice martial arts.",
+            "Because [person_1] is playing a song with multiple beats.",
+            "It's cold outside in winter.",
+            "The people are practicing roller skating.",
+            "[person_1] wants to protect himself while working."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will go on practicing.",
+            "[person_2] will jump with [person_2].",
+            "[person_2] will land on her back.",
+            "[person_2] will make a speech.",
+            "[person_2] will jump."
+        ],
+        "reason": [
+            "[person_1] doesn't eat the whole food yet and is holding it.",
+            "Because it seems that [person_1] is preparing for attacking again.",
+            "Because it's more exciting to play together.",
+            "[person_2] has just turned a new page of the music sheet.",
+            "Maybe it is not pretty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] kicked [person_1]?",
+        "answer": [
+            "[person_1] might be badly hurt.",
+            "Audience would not comprehend maraca function completely.",
+            "The stage play cannot continue.",
+            "[person_2] would have nothing to drop money in.",
+            "She would be sad."
+        ],
+        "reason": [
+            "There are many weights on the floor , the weights are on her right side.",
+            "Because [person_2] is just a child , so his kick would not be so strong.",
+            "[person_1] needs to pick up [person_2] and place [person_2] in the correct place on the bookshelf.",
+            "Because the tree were not high enough to cover the eyesight.",
+            "Because [person_2] kick can deliver such a powerful blow to break the wooden bar , it might injure [person_2] seriously."
+        ]
+    }
+}

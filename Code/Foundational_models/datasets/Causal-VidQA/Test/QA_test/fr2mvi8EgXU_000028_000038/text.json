@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the floor in a bedroom.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is near the lake."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding a razor?",
+        "answer": [
+            "There are many tourists at the shore.",
+            "The [person_1] does not know how to use the bass buttons.",
+            "[person_2] is shaving [person_1]'s leg.",
+            "Because [person_1] wanted to knock the end of his pen on the table.",
+            "[person_1] puts the dice into the cup to stack easier."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will answer the question.",
+            "[person_2] is going to shave up.",
+            "[person_2] is going to use binding clips to bind the bandage.",
+            "[person_2] is going to wipe his mouth.",
+            "[person_2] is going to have another kick."
+        ],
+        "reason": [
+            "The bricks need to be aligned to complete a wall.",
+            "[person_2] turns back and lifts his foot to walk.",
+            "[person_2] is smiling and looks very excited.",
+            "[person_2] is shaving the area which is near the [person_1]'s foot.",
+            "Because [person_1] is looking at [person_2] and waiting for the opinion."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were not a razor?",
+        "answer": [
+            "Perhaps [person_2] would use no hair cream.",
+            "[person_2] could not take part in the dancing performance.",
+            "Perhaps [person_2] would use some hair cream.",
+            "She would be injured.",
+            "Perhaps [person_2] would waste some hair cream."
+        ],
+        "reason": [
+            "Because the dough in this state is enough to make cookies.",
+            "Hair cream is thought to be ineffective to move hair on legs away.",
+            "The electric bass guitar of [person_2] runs on electricity.",
+            "Hair cream is thought to be effective to move hair on legs away.",
+            "Hair cream seems to need rubber gloves to wash dishes."
+        ]
+    }
+}

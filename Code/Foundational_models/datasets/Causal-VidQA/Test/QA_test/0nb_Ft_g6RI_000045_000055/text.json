@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] wearing a beanie and yellow shoes.",
+            "[person_1] is wearing a glasses.",
+            "[person_1] is wearing a traditional uniform.",
+            "[person_1] is wearing a helmet.",
+            "[person_1] is wearing a t - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stepping back and forth?",
+        "answer": [
+            "[person_1] needs a jacket to keep himself warm.",
+            "[person_1] jumps on his unicycle to make it goes down the stairs.",
+            "[person_1] keeps going back and forth to find a gift [person_1] likes.",
+            "[person_1] wears shorts to wax the legs easier.",
+            "[person_1] is having a pillow fight with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is about to get up.",
+            "[person_1] is about to do a tutorial about the printer.",
+            "[person_1] is about to defense with his pillow.",
+            "[person_1] is about to bend the materials to form a structure.",
+            "[person_1] is about to do other moves of the progress."
+        ],
+        "reason": [
+            "[person_1] raised the [person_1] and was about to dip it in the pot.",
+            "[person_1] places his pillow in front of his body when [person_2] raises the pillow up.",
+            "He wakes up early to go jogging.",
+            "[person_1] was looking at the accordion then he looked forward.",
+            "[person_1] is doing it carefully."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not use both hands?",
+        "answer": [
+            "[person_2] won't be able to play.",
+            "[person_2] will not play guitar anymore.",
+            "[person_2] would not be able to hit as strong.",
+            "[person_2] may not talk anything.",
+            "[person_2] would not stop at the right place that [person_2] wanted."
+        ],
+        "reason": [
+            "[person_2] might get hit by the sword.",
+            "Because the dye is not easily to get off.",
+            "[person_2] would not be able to balance herself with the hit.",
+            "Because without the auto - capture mode activated , the camera will not capture any photo by itself.",
+            "Because if something was broken , the camera would not function properly."
+        ]
+    }
+}

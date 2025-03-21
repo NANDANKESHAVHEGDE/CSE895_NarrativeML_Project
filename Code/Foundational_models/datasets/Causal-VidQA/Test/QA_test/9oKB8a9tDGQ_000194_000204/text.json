@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt does [person_1] wear ? i",
+        "answer": [
+            "It is red.",
+            "It is red and white points.",
+            "[person_1] wears a blue and white shirt.",
+            "It is a watch.",
+            "The room is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise sheep?",
+        "answer": [
+            "[person_1] is holding the target for the kick of [person_1].",
+            "[person_1] wants to ride the mechanical bull.",
+            "[person_1] is teaching how to play the flute.",
+            "Because [person_1] wants to play the big gong.",
+            "Because [person_1] wants to shave the sheep."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cross the street.",
+            "[person_1] will leave.",
+            "[person_1] is about to eat.",
+            "[person_1] going to become a boss.",
+            "[person_1] will read another book."
+        ],
+        "reason": [
+            "[person_1] is taking the fleece fluently.",
+            "[person_1] may go on reading.",
+            "There are many sand on his feet.",
+            "[person_1] is very small.",
+            "[person_1] has many other bottles on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no sheep?",
+        "answer": [
+            "[person_2] would not play with the hoverboard.",
+            "[person_2] would feel sad.",
+            "[person_2] could be flipped by the strong wind.",
+            "[person_2] would find help from divers.",
+            "[person_2] could not persist for long time without the earphone."
+        ],
+        "reason": [
+            "[person_1] would still make sound if [person_1] did not take his mouth off the pipe.",
+            "Because the weather outside the window seems good , there is no need to stay indoors.",
+            "The gun isn't [person_1]'s personal belongs.",
+            "[person_1] could not shave and [person_1] could have no money.",
+            "[person_1] can only move on the water with the help of an unbroken parachute."
+        ]
+    }
+}

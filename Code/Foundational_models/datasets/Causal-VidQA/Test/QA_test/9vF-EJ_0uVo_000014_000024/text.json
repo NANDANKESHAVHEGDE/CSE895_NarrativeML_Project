@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many guitars are there in the video?",
+        "answer": [
+            "White.",
+            "It is black hair.",
+            "Two.",
+            "The shirt is red.",
+            "There is a guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_1] sitting?",
+        "answer": [
+            "[person_1] is playing bagpipes.",
+            "[person_1] is a pianist.",
+            "[person_1] is playing basketball with friends.",
+            "[person_1] prefers standing to play the guitar than sitting.",
+            "They are in the class break and want to have some fun."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] is likely to dance to the music.",
+            "[person_1] tends to crawl out of the room.",
+            "[person_1] tends to tear the paper.",
+            "[person_1] has an intention of playing tug of war.",
+            "[person_1] tends to do somersaults again."
+        ],
+        "reason": [
+            "[person_1] is still intoxicated with the flute.",
+            "The bottle near [person_1].",
+            "[person_1] would like to continue another round of the game.",
+            "[person_1] is interested in this action.",
+            "[person_1] is on the move."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "The audience will be in panic.",
+            "The television will be off.",
+            "Espresso will be stop working.",
+            "The baby may be afraid.",
+            "A person will stop roasting."
+        ],
+        "reason": [
+            "The television won't work without power.",
+            "The fan will be off , too.",
+            "[person_1] can not cook without power.",
+            "The piano will not work.",
+            "[person_1] is a kid."
+        ]
+    }
+}

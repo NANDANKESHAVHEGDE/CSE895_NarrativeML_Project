@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is cleaning a leather boot.",
+            "[person_1] is practicing field hockey.",
+            "[person_1] is taking mortar.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is watering plants."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear so many gears?",
+        "answer": [
+            "Because it seems to be loaded with batteries.",
+            "[person_1] is a goalkeeper.",
+            "[person_1] is watching [person_1] and [person_1] playing badminton.",
+            "Maybe [person_1] is in a competition.",
+            "The feet of [person_1] got stuck with the rope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to start taking photo.",
+            "It is possible that [person_1] will prevent the ball from getting into the goal.",
+            "[person_1] will pick up the baby.",
+            "[person_1] is highly likely to laugh.",
+            "Maybe [person_1] is going to jump again."
+        ],
+        "reason": [
+            "[person_1] is a baby lying on the floor.",
+            "It is the role of [person_1] in a field hockey game.",
+            "[person_1] wants to increase the difficulty.",
+            "[person_1] and [person_1] are friends.",
+            "[person_1] is crawling on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained heavily?",
+        "answer": [
+            "He will go for a shower.",
+            "Both of them would run out of the room.",
+            "[person_1] might have to stop playing.",
+            "They would be sad.",
+            "[person_1] would find her parents."
+        ],
+        "reason": [
+            "Hurling can be played under the rain.",
+            "[person_1] still needs it to work.",
+            "The [person_1] is comfortable to hold this instrument.",
+            "[person_1] could not play field hockey under the rain.",
+            "The hammer cannot be used for delicate carving work , the hammer will destroy the sculpture."
+        ]
+    }
+}

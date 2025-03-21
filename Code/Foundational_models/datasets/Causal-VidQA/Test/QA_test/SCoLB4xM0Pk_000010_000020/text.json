@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it bright?",
+        "answer": [
+            "[person_1] is wearing it in front of her.",
+            "Yes , it is.",
+            "[person_1] is placed next to [person_1].",
+            "[person_1] is put on the ground and next to [person_1].",
+            "[person_2] is between [person_2] and [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] feel when practicing standing on hands?",
+        "answer": [
+            "Maybe [person_1] likes it.",
+            "[person_1] wants to practice playing the harmonica.",
+            "when [person_1] looking at the mirror , the reflection looks like someone else.",
+            "[person_1] is practicing playing field hockey.",
+            "Maybe [person_1] finds it difficult."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to dance up and down.",
+            "[person_2] is going to cook.",
+            "[person_2] is going to continue enjoying this trip.",
+            "[person_2] will certainly stand on the hand.",
+            "[person_2] is going to start reading."
+        ],
+        "reason": [
+            "Maybe [person_2] likes to stand with his hands",
+            "[person_2] is holding a scissor and paper.",
+            "Continue their conversation.",
+            "[person_2] is still moving fingers on it.",
+            "[person_2] is going to make a dramatic match."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] has a headache?",
+        "answer": [
+            "They can't observe their body and consider their moves.",
+            "[person_2] will take a rest in a few minutes.",
+            "[person_2] might catch a cold",
+            "He can not sing if there is no music.",
+            "[person_2] won't practice anymore."
+        ],
+        "reason": [
+            "[person_2] will feel more pain if headache.",
+            "[person_2] cannot do only one body position.",
+            "She will go to the infirmary.",
+            "[person_2] performed very well.",
+            "[person_2] will not practice anymore."
+        ]
+    }
+}

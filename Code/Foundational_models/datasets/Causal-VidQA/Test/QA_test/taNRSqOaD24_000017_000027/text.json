@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks old and thin.",
+            "[person_1] looks cute.",
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks thin.",
+            "[person_1] looks like a professional skier."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [bed_1]?",
+        "answer": [
+            "[person_1] is playing something.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is excited about his action.",
+            "They are holding a party and really having fun.",
+            "[person_1] , [person_1] and [bed_1] are moving their arms to the left and to the right in front of their chests."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] is going to use more dice.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to play with [banana_1]."
+        ],
+        "reason": [
+            "Maybe [banana_1] is a earthen pot.",
+            "[person_1] is going to continue feeding fish.",
+            "[banana_1] is the toy of [person_1].",
+            "[person_1] repeats the same action all the time.",
+            "Maybe [person_1] is practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [banana_1] falls on [person_1]?",
+        "answer": [
+            "People may move to other side.",
+            "The goat will go to [person_1].",
+            "Perhaps his father will be angry.",
+            "Nothing will happen.",
+            "The [banana_1] will throw shot put really far."
+        ],
+        "reason": [
+            "[person_1] wants to watch it more.",
+            "[person_1] was reporting.",
+            "It's very sunny.",
+            "[banana_1] very light and not dangerous.",
+            "Tsunami is dangerous."
+        ]
+    }
+}

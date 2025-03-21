@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cup_2]?",
+        "answer": [
+            "[person_1] is helping [person_1] on practicing roller skating.",
+            "Because [person_1] wants to make bubbles.",
+            "[person_1] is using [cup_2] to squeeze oranges.",
+            "Because [person_1] wants to hang it for convenience and this plant should hang.",
+            "[person_1] is bathing in [cup_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue riding.",
+            "[person_1] is going to keep smoking.",
+            "[person_1] continues to read books.",
+            "[person_1] is going to squeeze all the oranges.",
+            "[person_1] is going to skate."
+        ],
+        "reason": [
+            "[person_1] has finished the body color.",
+            "[person_1] has a lot of unsqueezed oranges on the table.",
+            "[person_1] just started.",
+            "People are interested in the story behind [person_1].",
+            "[person_1] needs to recover."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "[person_1] may not keep eating.",
+            "[person_1] would stop playing the harmonica.",
+            "[person_1] will drink orange juice.",
+            "[person_1] will be broken.",
+            "[person_1] may run away."
+        ],
+        "reason": [
+            "[person_1] is the waiter here.",
+            "Standing on hand is very beneficial for health.",
+            "If the drink tastes bad , the customer will complain.",
+            "The room is dark ; therefore , [person_1] cannot do anything without electricity.",
+            "[person_1] is interested in squeezing oranges because he likes orange juice."
+        ]
+    }
+}

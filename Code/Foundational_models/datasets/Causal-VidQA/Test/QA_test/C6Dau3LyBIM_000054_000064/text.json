@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3]?",
+        "answer": [
+            "[person_3] is skating on the stage.",
+            "[person_3] is \u00a0 standing on stage.",
+            "[person_3] is standing on the grass.",
+            "[person_3] is sitting next to the [person_3].",
+            "[person_3] is in his room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] inside?",
+        "answer": [
+            "[person_3] finds playing drums interesting.",
+            "Because [person_3] sees the bubbles.",
+            "[person_3] is teaching [person_3] to play chess.",
+            "Because [person_3] is going to roller skating.",
+            "[person_3] is showing talent playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] will get off at the stop.",
+            "[person_3] may have a rest.",
+            "[person_3] is going to take notes.",
+            "[person_3] may keep trying to show his talent.",
+            "[person_3] is going to laying concrete to the floor."
+        ],
+        "reason": [
+            "[person_3] is going to receive everyone's cheers.",
+            "[person_3]'s body looks great.",
+            "[person_3] is close the [person_3] and ready to shoot it.",
+            "Because [person_3] wants to score points.",
+            "[person_3] is bigger the others."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] finishes his performance?",
+        "answer": [
+            "[person_3] may get ill.",
+            "[person_3] will not be happy.",
+            "[person_3] will not look back.",
+            "[person_3] will be happy.",
+            "[person_3] may drink water."
+        ],
+        "reason": [
+            "Because there are many steps.",
+            "Everyone will clap for him.",
+            "Expired food is bad for the health of human being.",
+            "Nobody will clap for him.",
+            "They can't disturb others."
+        ]
+    }
+}

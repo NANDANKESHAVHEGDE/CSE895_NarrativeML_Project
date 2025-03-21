@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is skating in a stage.",
+            "[person_1] is in the church.",
+            "[person_1] is outside.",
+            "[person_1] is in his garage.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the church?",
+        "answer": [
+            "[person_1] is playing guitar.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing lute for everyone.",
+            "[person_1] is using the piano.",
+            "[person_1] is recording a video."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to whistle.",
+            "[person_1] may tickle [person_1] again.",
+            "[person_1] is going to replace the sack full of shredded paper with a new one."
+        ],
+        "reason": [
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] finished the song.",
+            "Lowering her hip is the next movement in the squat and it helps to tighten the muscles on her belly.",
+            "[person_1] is sharpening the knife."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stand up?",
+        "answer": [
+            "[person_1] will come and help the [person_1].",
+            "[person_1] and [person_1] will get wet.",
+            "[person_1] will be worry.",
+            "[person_1] will bow to the audience.",
+            "[person_1] will stand up and ride his bicycle."
+        ],
+        "reason": [
+            "[person_1] will go inside.",
+            "The floor is made of concrete.",
+            "[person_1] is a kid and the floor is hard.",
+            "Bottles are on his arm . And all the bottles will fall on the ground when he falls.",
+            "[person_1] turn back after stop playing."
+        ]
+    }
+}

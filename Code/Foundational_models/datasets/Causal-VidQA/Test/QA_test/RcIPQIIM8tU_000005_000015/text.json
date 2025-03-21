@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is turning his leg to the right.",
+            "[person_1] is opening the door.",
+            "[person_1] is smashing a tire.",
+            "[person_1] is stacking the dice.",
+            "[person_1] is sitting on the ground."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] place the tire on the plate?",
+        "answer": [
+            "For fear of breaking the ground.",
+            "[person_1] makes it easy to see.",
+            "Because they're playing a game.",
+            "[person_1] is practicing the guitar.",
+            "[person_1]'s leg has something wrong."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will take a break.",
+            "[person_1] will introduce the things on the table.",
+            "[person_1] will turn over the body.",
+            "[person_1] will separate the two legs.",
+            "[person_1] will calcine [person_1]."
+        ],
+        "reason": [
+            "The saw has easily opened the coco.",
+            "It seems that [person_1] has ran out of his energy.",
+            "Mopping the floor with such a big mop is tiring for a child.",
+            "To do some headstand scissors.",
+            "To clean the snow forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] struck at the ground?",
+        "answer": [
+            "The grass would be destroyed.",
+            "[person_1] might break [person_1].",
+            "[person_1] may notice [person_1].",
+            "The speaker could fall down.",
+            "[person_1] could fall."
+        ],
+        "reason": [
+            "[person_1] had been interrupted and had to reply.",
+            "The impact from the heavy hammer is destructive.",
+            "[person_1] can not breathe underwater without air.",
+            "[person_1] needs hands to answer the phone.",
+            "Because the horror movie is so scary."
+        ]
+    }
+}

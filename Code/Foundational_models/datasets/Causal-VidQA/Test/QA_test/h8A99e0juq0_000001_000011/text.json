@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3] ?",
+        "answer": [
+            "[person_3] is in the garden.",
+            "[person_3] is in the room.",
+            "[person_3] is in the yard.",
+            "[person_3] is behind [person_3].",
+            "[person_3] is standing on the grass."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_6] standing on the shoulders of [person_1] ?",
+        "answer": [
+            "Because [person_1] wants to show that it's easy to open the cap.",
+            "Maybe [person_1] was afraid of pain and didn't want to see waxing legs.",
+            "Maybe [person_1] is being treated for insomnia.",
+            "[person_1] is taking [person_1] and [person_1].",
+            "Because [person_6] and [person_1] are rehearsing for the show."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will continue to practice stretching arm",
+            "[person_2] will shoot another ball.",
+            "[person_2] is going to pull the back of [person_2].",
+            "[person_2] is going to flip the sword.",
+            "[person_2] is going to try to make bubbles again."
+        ],
+        "reason": [
+            "[person_2] has a toy.",
+            "Because [person_2] doesn't watch [person_2] do the exercise and has been prepared to do his own exercising.",
+            "[person_2] keeps an eye on [person_2].",
+            "[person_2] is stretching arm.",
+            "[person_2] is taking the food from the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_6] falls?",
+        "answer": [
+            "It is possible that [person_6] will stop practicing.",
+            "[person_6] will get hurt.",
+            "It is possible that [person_6] won't stop practicing.",
+            "A few others will fall as well.",
+            "It is possible that [person_6] will start practicing."
+        ],
+        "reason": [
+            "[person_6] gets hit by a chess board.",
+            "[person_6] won't be traumatized.",
+            "[person_6] can fall while fighting for the ball.",
+            "[person_6] will be traumatized.",
+            "[person_6] could go to the hospital."
+        ]
+    }
+}

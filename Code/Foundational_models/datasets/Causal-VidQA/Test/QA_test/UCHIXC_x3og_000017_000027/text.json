@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on a sled.",
+            "[person_1] is in a guitar shop.",
+            "[person_1] is at a grocery store.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is in a small library."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on a sled?",
+        "answer": [
+            "[person_1] is playing luge sport.",
+            "[person_1] did it carefully and attentively.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is playing chess with her son.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep running.",
+            "[person_1] will stop smoking.",
+            "[person_1] will stop playing luge sport.",
+            "[person_1] will practice more.",
+            "[person_1] will receive the bill."
+        ],
+        "reason": [
+            "[person_1] is riding horses and throwing ropes very professionally.",
+            "Because there is a tool on the ground.",
+            "In the video , [person_1] stopped tattooing once to take a break and clean his pattern and he will probably do that again.",
+            "[person_1] switched the hammer into another hand.",
+            "[person_1] seems to have injuries after the accident."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] managed to slow down?",
+        "answer": [
+            "[person_1] would not crash into the fence.",
+            "[person_1] would not be able to use the computer.",
+            "[person_1] will not throw the ball.",
+            "The [person_1]'s hand will touch the floor.",
+            "[person_1] could be in danger if [person_1] fell into water."
+        ],
+        "reason": [
+            "Because the water is very cold.",
+            "[person_1] can stop the sled.",
+            "[person_1] might win the next competition.",
+            "The melody of the song would not be true.",
+            "[person_1] would not need the help."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [laptop_1]?",
+        "answer": [
+            "It is on the [dining table_1].",
+            "It is a blue room.",
+            "It is on the windowsill.",
+            "[laptop_1] is sitting on the floor.",
+            "It is on the box near [laptop_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the cups?",
+        "answer": [
+            "[person_1] is practicing snatching weight lifting.",
+            "Maybe [person_1] is playing cup - stacking game.",
+            "Because [person_1] finds the game interesting.",
+            "[person_1] is showing up to other people",
+            "[person_1] is working out."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] will then bend the legs.",
+            "[person_1] will stop painting for a while.",
+            "[person_1] may keep making the pottery.",
+            "[person_1] will stop and say something to the camera."
+        ],
+        "reason": [
+            "[person_1] is practicing stacking.",
+            "[person_1] has just succeeded to throw all the plates on the sticks.",
+            "[person_1] needs to use the machine to copy something.",
+            "[person_1] is carrying the bed with another man coming to the warehouse.",
+            "Because [person_1] wants to win."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups quickly?",
+        "answer": [
+            "[person_1] will be lose.",
+            "[person_1] will be happy.",
+            "[person_1] will then stand up and go home.",
+            "[person_1] and [person_1] may collide.",
+            "None will know."
+        ],
+        "reason": [
+            "[person_1] is not defensive.",
+            "[person_1] will enjoy seeing the game more interesting.",
+            "Because it's easy to be half hearted while driving and sending express.",
+            "The broadsword seems so sharp.",
+            "The flute makes an unexpected sound [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [chair_1]?",
+        "answer": [
+            "The shirt is white.",
+            "The color of the shirt is white.",
+            "[chair_1]'s shirt is black.",
+            "The color of [chair_1]'s camisole is green.",
+            "The [chair_1] is dark brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is standing on the [chair_1] by hands.",
+            "Maybe [person_1] is taking part in a competition on playing the lute.",
+            "[person_1] is talking about the placement of eating utensils on [chair_1].",
+            "Because [person_1] is playing the violin with his friends in the room.",
+            "[person_1] is directing [person_1] to put the disk in the right place on the table."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may take off the clip.",
+            "[person_1] may keep trying to standing.",
+            "[person_1] does a workout.",
+            "[person_1] may stop recording.",
+            "[person_1] will play basic chords."
+        ],
+        "reason": [
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] is dancing in free style.",
+            "[person_1] is keeping his balance very well.",
+            "[person_1] likes sledding.",
+            "[person_1] is leaning to the left."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will lose the turn.",
+            "[person_1] can fall down onto the [person_1].",
+            "[person_1] will be sad.",
+            "[person_1] will be afraid.",
+            "[person_1] may not keep standing by his hands."
+        ],
+        "reason": [
+            "[person_1] is closest to [person_1].",
+            "The concrete has not yet dried.",
+            "[person_1] will sit on the floor to rest.",
+            "Maybe the skateboard hit the leg so [person_1] was injured.",
+            "[person_1] will be hurt."
+        ]
+    }
+}

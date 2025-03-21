@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [chair_3]?",
+        "answer": [
+            "[chair_3] is the furthest chair behind [person_1].",
+            "[chair_3] is on the carpet.",
+            "[person_1] is next to [chair_3].",
+            "[chair_3] is on the table.",
+            "The room looks like the store."
+        ]
+    },
+    "explanatory": {
+        "question": "how is [person_1] sitting?",
+        "answer": [
+            "[person_1] wants to wrap presents.",
+            "[person_1] is jumping to throw the ball through the basket.",
+            "[person_1] is sitting on the floor.",
+            "Because [person_1] was working out.",
+            "[person_1] is jumping to throw the ball."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue riding the mechanical bull.",
+            "[person_1] is going to take the pencil out of the sharpener.",
+            "[person_1] is going to exhale out all the smoke.",
+            "[person_1] may end the video.",
+            "[person_1] is going to make a new snowball."
+        ],
+        "reason": [
+            "[person_1] is exhaling smoke from smoking.",
+            "[person_1] is skating while moving with other people in the center.",
+            "[person_1] is moving the cigar toward the mouth.",
+            "[person_1] just reached for a piece of food , and is ready to throw.",
+            "because [person_1]'s body prepare to do this movement."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if someone is sitting on [chair_1].",
+        "answer": [
+            "[chair_1] may get hurt.",
+            "[chair_1] should go to hospital.",
+            "that person will have cigarette smell.",
+            "[chair_1] will stop recording.",
+            "There would be more water splashed at [chair_1]."
+        ],
+        "reason": [
+            "[chair_1] will keep listening.",
+            "[person_1] is smoking and there will be cigarette smell all over the place.",
+            "[person_1] will be a football enthusiast.",
+            "Babies tend to be more popular with adults . And they don't want to see they cry.",
+            "Lights can make the room light."
+        ]
+    }
+}

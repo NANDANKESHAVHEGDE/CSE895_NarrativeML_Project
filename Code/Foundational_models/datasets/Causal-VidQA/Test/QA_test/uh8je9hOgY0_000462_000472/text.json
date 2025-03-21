@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in this room?",
+        "answer": [
+            "There are three people doing tai chi in the room.",
+            "There are five people doing tai chi in the room.",
+            "[person_2] is placed near the sink.",
+            "It is an opened coco.",
+            "It is messy."
+        ]
+    },
+    "explanatory": {
+        "question": "How are [person_1] and [person_3] standing.",
+        "answer": [
+            "[person_3] has finished his drill and he is leaving for home.",
+            "[person_1] wants to improve his physical strength.",
+            "[person_1] and [person_3] are standing back to back together and slowly moving.",
+            "[person_1] is enjoying the music that [person_1] is playing.",
+            "[person_1] is slowly moving her hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is the relationship among [person_1] , [person_2] and [person_3]?",
+        "answer": [
+            "He may continue to play.",
+            "They may be friends.",
+            "They may stop playing.",
+            "[person_1] may be a girl.",
+            "[person_1] who appears at the end of the video is able to run."
+        ],
+        "reason": [
+            "It writes \" Flair Style Session \" .",
+            "[person_1] is translating [person_2]'s words.",
+            "Frisbee is flying to her side.",
+            "If the girl does not keep the fish in a cold box , the fish will not be fresh.",
+            "They look like a team and they are practicing tai chi together."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] forgot a tai chi move?",
+        "answer": [
+            "[person_2] and [person_2] might help [person_1].",
+            "[person_1] will answer the phone first.",
+            "The card will pollute the environment.",
+            "Maybe the picture will be broken.",
+            "[person_1] will put down the stuff in her hand on the table."
+        ],
+        "reason": [
+            "Because the task of the staff is not only to score , but also to protect the safety of athletes.",
+            "They are in a team and they hope all members can do well.",
+            "[person_1] would not have air storage if he did not make the duck face.",
+            "[person_1] is enjoying the performance.",
+            "The hoop would lose its acceleration and stop spinning around [person_1] before gravity pulled it down."
+        ]
+    }
+}

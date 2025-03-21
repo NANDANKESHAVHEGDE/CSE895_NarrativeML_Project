@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is bright.",
+            "It is large.",
+            "It is small.",
+            "The room has many objects.",
+            "The room is very bright."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is doing the challenge.",
+            "[person_1] is recording the video.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is introducing about the lute.",
+            "[person_1] is roller skating with his partner."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to turn off the camera.",
+            "[person_1] will catch the frisbee.",
+            "[person_1] will spray paint.",
+            "[person_1] is going to keep diving."
+        ],
+        "reason": [
+            "[person_1] is upset.",
+            "[person_1] is touching the camera.",
+            "[person_1] is standing in the class.",
+            "[person_1] is so serious.",
+            "[person_1] walks away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] turns off the camera.",
+        "answer": [
+            "the camera man would make [person_1] restart the song for his recording.",
+            "Then [person_1] may not fall.",
+            "[person_1] will stop playing the lute.",
+            "[person_1] could not get any score for his team.",
+            "[person_1] or [person_1] could be injured badly."
+        ],
+        "reason": [
+            "There would be nothing for [person_1] to eat.",
+            "Maybe [person_1] will put down the lute.",
+            "Because the mirror is lower to [person_1] , [person_1] can not see the head in the mirror.",
+            "It is very dangerous to fence without helmets.",
+            "Most children are not able to open a champagne bottle."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite bright.",
+            "The room is dark.",
+            "There are two vases.",
+            "It is a big room.",
+            "It is nice - decorated."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people in the room?",
+        "answer": [
+            "[person_1] is practicing playing piano.",
+            "[person_1] is playing stacking cups.",
+            "[person_2] is seeing a drawing.",
+            "They are playing chess.",
+            "[person_2] has the guitar on his lap so he can inspect it and make sure everything is in order."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the donut in his mouth.",
+            "[person_1] is going to jump over a chair.",
+            "[person_1] is going to jump after [person_1] finish her test.",
+            "[person_1] is going to attack [person_2].",
+            "[person_1] is going to continue the snaps."
+        ],
+        "reason": [
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1] is sharpening the knife.",
+            "[person_1] has an advantage.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] shouted loudly?",
+        "answer": [
+            "People around will focus on [person_1].",
+            "[person_1] will be tired.",
+            "The dumbbell on [person_1]'s hand will hurt him.",
+            "[person_1] will be very nervous.",
+            "[person_1] may be asked to do his homework."
+        ],
+        "reason": [
+            "Maybe [person_1] will lose.",
+            "[person_1] is sitting on high chair.",
+            "[person_1] is looking at where [person_1] got hurt.",
+            "Obviously [person_1] is a student.",
+            "[person_1] wants [person_1] to keep happy."
+        ]
+    }
+}

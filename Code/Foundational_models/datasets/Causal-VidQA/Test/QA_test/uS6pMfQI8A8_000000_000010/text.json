@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "It is sunny.",
+            "On the ceiling.",
+            "The text is white.",
+            "[person_1] is playing with the present box.",
+            "It is cloudy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the street?",
+        "answer": [
+            "[person_1] watches [person_4] preform.",
+            "Maybe it is hot.",
+            "[person_1] must to train to change its body.",
+            "Maybe the weather is hot.",
+            "The weather is hot."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "Perhaps [person_4] is going to start tapping dancing.",
+            "[person_4] will pick up the ball on the ground.",
+            "Perhaps [person_4] is going to start another practice.",
+            "Maybe [person_4] will pass by some challenges.",
+            "[person_4] will huddling with the team."
+        ],
+        "reason": [
+            "[person_4] can get knowledge and [person_4] wants to learn knowledge.",
+            "Because they are currently practicing tackling for the future match.",
+            "Dancing never stops.",
+            "[person_4] just instruct [person_4] how to drink beer in the bottle.",
+            "There are several cone objects on the way [person_4] gliding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] touch orange objects?",
+        "answer": [
+            "[person_4] will go out .",
+            "[person_4]'s head may be injured by hitting the floor",
+            "[person_4] will continue to practice.",
+            "[person_4] will continue not jumping.",
+            "A few others will fall as well."
+        ],
+        "reason": [
+            "[person_4] needs to wait for [person_4] to finish the performance.",
+            "[person_4] is worried about [person_4].",
+            "Because this is a way to comfort children.",
+            "[person_4] and [person_4] were spinning very fast then.",
+            "[person_4] is trying to avoid the orange objects."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is next to [person_1].",
+            "[person_2] is in the big yard.",
+            "No.",
+            "[person_1] is behind [person_2].",
+            "[person_2] is on the left hand of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is opening present.",
+            "[person_1] is playing with cups.",
+            "[person_1] is looking at the book and playing flute.",
+            "Maybe [person_1] is listening to music.",
+            "He wants to see if there is anything outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep spraying.",
+            "[person_1] will have a rest.",
+            "[person_1]'ll change the tire.",
+            "[person_1] may hold the bear.",
+            "[person_1] will perform with the harp."
+        ],
+        "reason": [
+            "[person_1] is enjoying it.",
+            "[person_1] is holding newspaper.",
+            "[person_1] looks very professionally.",
+            "[person_1] is running to find.",
+            "[person_1] is focusing on this toy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't like to play with wrapping paper anymore?",
+        "answer": [
+            "The person who has the arm held tightly by [person_1] will get angry.",
+            "No one would take others' shoes.",
+            "Perhaps [person_2] will give [person_1] the bear.",
+            "[person_1] will feel uncomfortable.",
+            "[person_1] would not be able to dance with [person_2]."
+        ],
+        "reason": [
+            "There would be only [person_1] and [person_1] who are talking with.",
+            "There would be no one else except for [person_1] introducing what is happening.",
+            "[person_1] has to drink to know the taste.",
+            "[person_1] will drop the paper and take the bear.",
+            "The helmet protects [person_1]'s head."
+        ]
+    }
+}

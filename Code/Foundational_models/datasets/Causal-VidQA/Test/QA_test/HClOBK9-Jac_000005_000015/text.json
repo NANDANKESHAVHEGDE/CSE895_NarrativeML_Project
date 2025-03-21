@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_3] and [person_4]?",
+        "answer": [
+            "[person_3] is on stage.",
+            "The [person_3] is quite big.",
+            "[person_3] and [person_4] are outside.",
+            "[person_3] is in the room.",
+            "[person_3] is in his room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand next to [person_3]?",
+        "answer": [
+            "[person_1] wants to have a rest.",
+            "[person_1] is going to put it onto the current domino string on the mat.",
+            "Because [person_1] made it out of hookah smoke.",
+            "[person_1] leans the tire against the wall and strikes at one side of the tire with a sledgehammer.",
+            "Because [person_1] and [person_3] talk to each other."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to stand up and put the chair up.",
+            "[person_2] is going to return to the waiting position.",
+            "[person_2] is going to put the bandage on [person_2]'s body again.",
+            "[person_2] is going to continue sitting on the wheelbarrow.",
+            "[person_2] is going to heat a pot of water first."
+        ],
+        "reason": [
+            "The man is worrying for [person_2].",
+            "To look whether [person_2] is right.",
+            "Food is being placed on the [person_2].",
+            "The wheelbarrow is going uphill and [person_2] is holding onto the wheelbarrow.",
+            "Because [person_2] is bending forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the wheelbarrow was derailed?",
+        "answer": [
+            "[person_2]'ll walk.",
+            "They would cry.",
+            "The wheelbarrow would be fixed.",
+            "[person_2] will take the lead.",
+            "Students will leave early."
+        ],
+        "reason": [
+            "Because the clay bar is needed for shaping of the pottery.",
+            "In order for the wheelbarrow to work , the wheels must be strong.",
+            "It seems that the shooting is about to the end , so [person_1] and [person_1] will ask for several minutes.",
+            "Because otherwise [person_2] wouldn't be able to keep working.",
+            "[person_3]'s hands are right below [person_3]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is white.",
+            "It is \u00a0 black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] play clapping?",
+        "answer": [
+            "Because [person_1] and [person_2] love to play this game.",
+            "[person_1] feels that sitting is easier to play and it's more comfortable.",
+            "Because [person_1] is outside and the weather is sunny.",
+            "[person_1] wanna make comfortable feels.",
+            "[person_1]'s voice could be heard far away."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will continue to play checkers with the movement of [person_2].",
+            "[person_2] will serve her customers with the wine.",
+            "[person_2] will continue to throw the ball up.",
+            "[person_2] will continue to play clapping with [person_1].",
+            "[person_2] will continue working with his partners."
+        ],
+        "reason": [
+            "Because [person_2] tried twice without success , it may be too heavy for [person_2].",
+            "Because [person_2] seems to be not likely to stop and tries to say something.",
+            "[person_2] is very happy and in the middle of doing the next move.",
+            "Maybe [person_1] finds the game very interesting.",
+            "It seems that [person_2] needs to finish the all work with his partners."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't know how to clap?",
+        "answer": [
+            "[person_1] will need a microphone in front.",
+            "[person_2] will teach [person_1] to clap.",
+            "[person_2] will try to find other types of pillows.",
+            "[person_2] will stay there and take more pictures.",
+            "That biscuit will take longer to bake."
+        ],
+        "reason": [
+            "[person_2] bent down to eat and held a knife and a fork when eating.",
+            "Under the Christmas tree , there are a lot of gifts.",
+            "Because [person_2] is shaving on the balloon before it explodes.",
+            "[person_2] will feel happy if [person_1] plays together.",
+            "[person_2] is the youngest person and has not yet developed complete motor skills."
+        ]
+    }
+}

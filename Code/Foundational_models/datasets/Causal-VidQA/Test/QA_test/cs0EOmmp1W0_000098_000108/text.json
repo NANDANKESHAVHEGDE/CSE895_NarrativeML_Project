@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bed_1]?",
+        "answer": [
+            "It is \u00a0 on the bookshelf.",
+            "No , it isn't.",
+            "[bed_1] is behind [person_1].",
+            "It is in front of the building.",
+            "[person_1] is outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] create the ball?",
+        "answer": [
+            "Maybe because the weather is cold.",
+            "[person_1] is going to put it onto the current domino string on the mat.",
+            "Maybe [person_1] wants to challenge his ability.",
+            "Because [person_1] made it out of hookah smoke.",
+            "Because [person_1] wants the plants to be watered all the time."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will ask for a hug.",
+            "[person_1] will add another liquor.",
+            "[person_1] is going to continue to sit on the steps.",
+            "[person_1] is going grab something.",
+            "[person_1] will make a ball out of smoke."
+        ],
+        "reason": [
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "[person_1] is going to small [person_1].",
+            "Maybe [person_1] finds it very interesting.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes hookah?",
+        "answer": [
+            "[person_1] will be very tired.",
+            "[person_1] will be very happy.",
+            "It is possible that [person_1] will probably have lung cancer.",
+            "[person_1] will hurry back home.",
+            "[person_1] and [person_1] will get drunk."
+        ],
+        "reason": [
+            "[person_1] will need to rest.",
+            "[person_1] may need to pick them up.",
+            "[person_1] will have a rest.",
+            "Smoking hookah will be addictive.",
+            "It's easy to faint if you continue to exercise when you're hungry."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in a roller skating floor.",
+            "[chair_1] is on the left hand side of [chair_1].",
+            "The dog is behind [person_2].",
+            "No.",
+            "[person_2] is sitting on [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] play the guitar?",
+        "answer": [
+            "perhaps [person_1] wants to record himself playing guitar to send the video to someone to impress them.",
+            "To show the ring that [person_3] received.",
+            "[person_1] feels that sitting is easier to play and it's more comfortable.",
+            "[person_3] is assisting [person_1] in performing the song.",
+            "[person_1] used his hand to stop the video."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] and [person_1] do next?",
+        "answer": [
+            "They will ask more people to play with us.",
+            "[person_1] and [person_1] will laugh and hug each other.",
+            "[person_3] and [person_1] will continue playing together.",
+            "[person_1] and [person_3] will play another game.",
+            "[person_1] and [person_3] will put the two snowballs together."
+        ],
+        "reason": [
+            "[person_1] and [person_1] are moving all the time , without stopping.",
+            "They think the game is interesting.",
+            "To record the moment.",
+            "[person_3] and [person_1] have not finished the performance yet.",
+            "Because dancing is tiring and [person_1] and [person_1] have danced a while."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] were not there?",
+        "answer": [
+            "[person_1] and [person_3] might not be able to perform.",
+            "There would be only [person_3] and [person_3] on stage.",
+            "[person_1] might not be able to use the phone.",
+            "[person_1] would have to perform alone.",
+            "[person_1] may not do the greeting."
+        ],
+        "reason": [
+            "Skiing alone may be boring.",
+            "[person_3] does not assist [person_1].",
+            "Because carrying heavy can put [person_1] off balance and fall.",
+            "[person_1] has no instructions to practice.",
+            "Because [person_1] moved to get close to [person_1]."
+        ]
+    }
+}

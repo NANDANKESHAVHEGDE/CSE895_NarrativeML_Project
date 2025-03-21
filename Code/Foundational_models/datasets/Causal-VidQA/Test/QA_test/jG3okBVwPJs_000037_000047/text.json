@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt which [person_1] is wearing ?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "It is white.",
+            "Blue.",
+            "The [person_1] is on the phone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] paint the chair?",
+        "answer": [
+            "[person_1] wants the chair to have a better color.",
+            "[person_1] spinning the poi with good techniques.",
+            "Because there is light next to the window.",
+            "[person_1] is making a scene in a TV program.",
+            "Because they feel much more comfortable while playing dominoes with it on their head."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may have a rest.",
+            "[person_1] will have a rest next.",
+            "[person_1]'ll count the money.",
+            "[person_1]'ll pull the bike out of the snow.",
+            "[person_1] will keep paint the entire side of the chair white."
+        ],
+        "reason": [
+            "[person_1] is spreading the napkin to fold.",
+            "[person_1] is a baker and [person_1] is adding flour into cake pan to bake.",
+            "[person_1] loves this subject.",
+            "Because only the big wood in front has not been cut.",
+            "[person_1] will finish painting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "He may have to go home.",
+            "[person_1]'s feet will frostbite.",
+            "[person_1] will have a break.",
+            "[person_1] will not be angry.",
+            "[person_1] can sit on [person_1]."
+        ],
+        "reason": [
+            "[person_1] needs to wait for [person_1] to finish the performance.",
+            "[person_1] will drink water.",
+            "[person_1] will need to be free from pain.",
+            "[person_1] will sleep.",
+            "[person_1] will no longer have the strength to play the flute."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the house.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the competition.",
+            "[person_1] is on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a chessman?",
+        "answer": [
+            "Because [person_1] is playing checkers with [person_2].",
+            "[person_2] is happy because of playing football.",
+            "Because [person_1] is suffering from eye disease.",
+            "[person_2] wants to know exactly what [person_1] is doing.",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will keep running.",
+            "[person_2] will continue to watch the movement of [person_1].",
+            "[person_2] will give a speech after [person_1].",
+            "[person_2] will make a speech.",
+            "[person_2] will then go back to [person_1]."
+        ],
+        "reason": [
+            "[person_2] is doing it enthusiastically.",
+            "[person_2] looks at the chessboard attentively.",
+            "[person_2] is hosting a game show.",
+            "[person_2] is practicing balance on [person_2].",
+            "Because if [person_2] jumps , it'll bounce [person_2] up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the hand of [person_1] cramps?",
+        "answer": [
+            "The man in white will change the clothes.",
+            "[person_1] will stop playing.",
+            "[person_1] would be in a great danger.",
+            "The pink shirt girl won't be able to attract the birds.",
+            "[person_1] will break the chessman."
+        ],
+        "reason": [
+            "[person_1] keeps talking and wants to come down from the chair , maybe [person_1]'s mother in front of [person_1].",
+            "[person_1] will fix the loom.",
+            "[person_1] will be in the way of [person_1].",
+            "The black dog is close to the [person_1].",
+            "When the hand of [person_1] cramps , [person_1] feels very hurt and the hand of [person_1] can't hold the chessman."
+        ]
+    }
+}

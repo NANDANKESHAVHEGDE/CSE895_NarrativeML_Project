@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the bedroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the bedroom?",
+        "answer": [
+            "[person_1] is practicing his skating skills.",
+            "[person_1] is playing chess.",
+            "[person_1] wants to keep fit.",
+            "Because the person who is lying on [person_1] is enjoy massaging.",
+            "[person_1] wants to put some cream on her legs."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to read all the newspapers on the table.",
+            "Maybe [person_1] intends to use onions to cook.",
+            "Maybe [person_1] will sit on the chair.",
+            "[person_1] intends to take his billiard shot.",
+            "[person_1] intends to move the chess piece."
+        ],
+        "reason": [
+            "Because onions are used for cooking.",
+            "[person_1] wears [person_1] in [person_1]'s ear.",
+            "[person_1] is putting [person_1]'s hands on the keyboard.",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s brother comes here?",
+        "answer": [
+            "It is probable that [person_1] will be sad.",
+            "[person_1] will invite brother to play chess.",
+            "[person_1] will be a little bit hurt.",
+            "[person_1] would be injured.",
+            "[person_1] will cry."
+        ],
+        "reason": [
+            "Because [person_1] is afraid of dogs.",
+            "Because the [person_1] does the task of [person_1] far away from everyone.",
+            "[person_1] loves the headphone.",
+            "[person_1] and his brother will play chess together.",
+            "[person_1] will feel annoyed to answer too many questions."
+        ]
+    }
+}

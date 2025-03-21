@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is purple.",
+            "It is black.",
+            "It is pink.",
+            "The socks are white.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they here?",
+        "answer": [
+            "They are here to perform music.",
+            "They are here to practice side - kicking.",
+            "Because they're having some fun.",
+            "It seems that they are celebrating something.",
+            "Because the gymer needs to know their training schedule."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after the preparation?",
+        "answer": [
+            "[person_1] will eat it but can't finish it.",
+            "[person_1] will clap and cheer for himself.",
+            "[person_1] will begin to kick the punching bag.",
+            "[person_1] will review the video content.",
+            "[person_1] will use the orange juice to make some cake."
+        ],
+        "reason": [
+            "Because [person_1] seems to practice and does the exercise.",
+            "[person_1] is tired.",
+            "Because the [person_1] wants it to be clean.",
+            "Because the [person_1] must do these housework today.",
+            "[person_1] will need more ingredients to make a complete salad."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2]'s kick missed [refrigerator_1]?",
+        "answer": [
+            "[person_2] might slip and fall.",
+            "[person_2] may come to take her job.",
+            "[refrigerator_1] would turn on the TV.",
+            "[person_2] will change a new one.",
+            "[person_2] would play with the toy car."
+        ],
+        "reason": [
+            "[person_2] hasn't mastered the somersault technique.",
+            "that's [person_2] good strategy.",
+            "Because [person_2]'s might lose her balance.",
+            "The screen is a flat panel on which images and data are displayed.",
+            "There is a bookshelf in the room."
+        ]
+    }
+}

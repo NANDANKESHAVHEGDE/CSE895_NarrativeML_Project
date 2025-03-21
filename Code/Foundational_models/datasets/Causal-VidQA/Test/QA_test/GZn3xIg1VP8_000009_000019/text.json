@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "The brown hat is on [person_1] head.",
+            "It is next to [person_1].",
+            "[cup_1] is in [person_1]'s hand.",
+            "[person_1] gave [cup_1] a greetings card.",
+            "[person_1] is in the kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is doing weightlifting.",
+            "The boy couldn't move the guitar out.",
+            "[person_1] is reading newspaper.",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "[person_1] is fond of stacking the cups on the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat the donut on the plate in front him.",
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] is going to continue having breakfast.",
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to read something in a newspaper."
+        ],
+        "reason": [
+            "[person_1] is [person_1]'s partner.",
+            "Because [person_1] will be tired.",
+            "Because [person_1] is getting the bee box.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is drinking a cup of coffee."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is disturbed by noises?",
+        "answer": [
+            "[person_1] will walk to the left.",
+            "[person_1] have to commute by himself.",
+            "[person_1] will have to put up with slightly more sluggish performance in the next times.",
+            "[person_1] will find a chair to sit on.",
+            "[person_1] may keep calm."
+        ],
+        "reason": [
+            "Using lenses for swimming can increase the risk of infection.",
+            "[person_1] is focusing on reading the newspaper.",
+            "They will fall down.",
+            "[person_1] must have something to eat.",
+            "There is a glass of water next to the plate of noodle."
+        ]
+    }
+}

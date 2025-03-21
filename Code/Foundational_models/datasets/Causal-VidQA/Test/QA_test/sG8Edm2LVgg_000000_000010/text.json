@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is brown.",
+            "The shirt is green.",
+            "The shirt is black.",
+            "The shirt is red.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the sporting event hall?",
+        "answer": [
+            "[person_1] is helping [person_1] to have right hand position when [person_1] is doing tai chi.",
+            "Maybe [person_1] is playing kickball with some friends.",
+            "Because [person_1] needs to outside.",
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1]'s body is trying to keep [person_1]'s balance."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to show the iron from different angles.",
+            "[person_1] is likely to kick the ball towards some friends on the opposite side.",
+            "[person_1] will continue running with other athletes.",
+            "[person_1] will upload some photos to the Internet.",
+            "[person_1] may go to add some weights of the equipment."
+        ],
+        "reason": [
+            "[person_1] is leaving there.",
+            "The competition starts . [person_1] is in a prepared position.",
+            "Because [person_1]'s mother was sick and needed money.",
+            "[person_1] kicked the ball into the face of a friend on the opposite side.",
+            "The butterfly is unfinished."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not kick the ball into the face of a friend?",
+        "answer": [
+            "[person_1] would not have to chase after the ball.",
+            "The plank will be moved easily.",
+            "[person_1] would not be hit as much.",
+            "That friend would continue playing kickball.",
+            "[person_1] might not perform some moves."
+        ],
+        "reason": [
+            "[person_1] is not familiar with it.",
+            "[person_1] would be able to hide or defend himself better.",
+            "[person_1] is not so excited.",
+            "[person_1] would catch the ball and throw it back.",
+            "That friend fell to the ground and his face hurt."
+        ]
+    }
+}

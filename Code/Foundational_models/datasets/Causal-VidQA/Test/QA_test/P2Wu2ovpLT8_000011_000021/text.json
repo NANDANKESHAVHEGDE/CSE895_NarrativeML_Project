@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s vest?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "It is a towel.",
+            "It is black.",
+            "Blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] give a ring to [person_1]?",
+        "answer": [
+            "[person_2] is a conductor and [person_2] is leading the band.",
+            "Because [person_1] needs a lot of power to lift the weights.",
+            "He wants to try stack the dices one more time.",
+            "Because [person_1] is holding a sleeping baby.",
+            "Because [person_2] wants to ask for [person_1]'s agreement with the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put on the ring.",
+            "[person_1] may spray water on the flowers.",
+            "Maybe [person_1] is going to stop running.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] may get out of the recording room."
+        ],
+        "reason": [
+            "[person_1] finishes singing.",
+            "Maybe [person_1] started weaving fabric.",
+            "Maybe [person_1] will continue playing.",
+            "[person_1] looks so excited.",
+            "Because [person_1] accepts the marriage proposal."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] is dissatisfied with the ring?",
+        "answer": [
+            "[person_1] will feel pretty confused and sad.",
+            "[person_2] will then take [person_1] to the shop.",
+            "None will know.",
+            "[person_1] will then take [person_2] to the shop.",
+            "[person_1] will coax [person_1] to let [person_1] eat."
+        ],
+        "reason": [
+            "To choose a old ring that [person_1] likes.",
+            "Because of without the wind , the kite can not fly.",
+            "To choose a new ring that [person_2] likes.",
+            "The toy car is next to [person_1].",
+            "To choose a new ring that [person_1] likes."
+        ]
+    }
+}

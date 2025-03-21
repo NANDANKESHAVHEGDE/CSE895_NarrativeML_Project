@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is next to the wall.",
+            "The [chair_1] is in the living room and in front of the TV.",
+            "[chair_1] is sitting on the [chair_1].",
+            "The [chair_1] is in the left of the refrigerator.",
+            "The [chair_1] is behind the gong."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play the gong?",
+        "answer": [
+            "Maybe [person_1] comes there to do exercise.",
+            "[person_1] plays the gong for fun.",
+            "[person_1] feels bored after work.",
+            "[person_1] wanted to show people how to do yoga.",
+            "[person_1] is ripping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to keep playing the harp.",
+            "[person_1] intends to hit on the gong.",
+            "[person_1] intends to play the harp.",
+            "[person_1] intends to teach [person_1] how to dance.",
+            "[person_1] intends to stop playing the organ."
+        ],
+        "reason": [
+            "Maybe [person_1] wants to pluck the strings above.",
+            "[person_1] and [person_1] look very cheerful.",
+            "[person_1] is raising the right hand is holding a bradawl and towards the gong.",
+            "[person_1] is holding the cards.",
+            "[person_1] is playing the harp."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] knocks on the gong?",
+        "answer": [
+            "[person_1] would be defeated by [person_1].",
+            "[person_1] and [person_1] may have to use another shuttlecock.",
+            "The cup will be easily broken on the ground.",
+            "The gong will ring.",
+            "The [person_1] would fall with the [person_1]."
+        ],
+        "reason": [
+            "There is no space behind [person_1] to move.",
+            "Because the gong is a musical instrument.",
+            "There is some beverage in the vase.",
+            "Because the scooter still has electricity.",
+            "The [person_1] is in the meadow and it only moves when [person_1] runs towards it."
+        ]
+    }
+}

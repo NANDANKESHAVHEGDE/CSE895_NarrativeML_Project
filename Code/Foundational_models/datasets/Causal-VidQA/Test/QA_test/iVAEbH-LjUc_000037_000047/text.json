@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] , [person_2] , [person_3] and [person_4] doing?",
+        "answer": [
+            "[person_1] is wearing the white shirt.",
+            "[person_1] uses a driller to hold the potato.",
+            "The [person_3] has long straight hair.",
+            "They are performing tai chi on the street.",
+            "The [person_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] , [person_3] and [person_4] holding handfans?",
+        "answer": [
+            "[person_1] and [person_2] are reading the newspaper.",
+            "[person_1] wanted to show people how to do yoga.",
+            "[person_4] wants to give [person_2] a present.",
+            "They want to make their performance more beautiful.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do next?",
+        "answer": [
+            "[person_2] is going to start stomp the grapes.",
+            "[person_2] is going to stand up.",
+            "[person_2] will do other things to make himself happy.",
+            "[person_2] is going to continue doing Tai Ji.",
+            "[person_2] is going to continue dancing."
+        ],
+        "reason": [
+            "[person_2] did not succeed.",
+            "[person_2] seems to do it often and enjoy the exercise.",
+            "[person_2] gathered with the others secretly.",
+            "Because [person_2] seems to need to record the practice in different occasions.",
+            "It seems that [person_2] is curious about what it is."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it were in daytime?",
+        "answer": [
+            "[person_1] , [person_2] , [person_3] and [person_4] might not perform under the street.",
+            "The voice of the two could not be heard clearly.",
+            "[person_1] , [person_2] , [person_3] and [person_4] might perform on the street.",
+            "Cigarettes won't light.",
+            "[person_1] , [person_2] , [person_3] and [person_4] might not perform on the street."
+        ],
+        "reason": [
+            "There are many people walking on the street , so there is no space for [person_1] , [person_2] , [person_3] and [person_4] to do tai chi.",
+            "[person_3] has to drink to know the taste.",
+            "There are no people walking on the street , so there is no space for [person_1] , [person_2] , [person_3] and [person_4] to do tai chi.",
+            "[person_1] and [person_2] would have to wait for another one.",
+            "There are many people walking on the street , so there is space for [person_1] , [person_2] , [person_3] and [person_4] to do tai chi."
+        ]
+    }
+}

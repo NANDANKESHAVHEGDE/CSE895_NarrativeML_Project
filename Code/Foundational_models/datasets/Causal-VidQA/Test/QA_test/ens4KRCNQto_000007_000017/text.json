@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1] ?",
+        "answer": [
+            "[cup_1] is sitting on the floor.",
+            "It is on the shelf.",
+            "[cup_1] is on the table.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in this room ?",
+        "answer": [
+            "[person_1] is opening present.",
+            "Because [person_1] is practicing sport.",
+            "[person_1] is playing the flute to the baby.",
+            "Because [person_1] and [person_1] are watering the plants?",
+            "[person_1] is playing with cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will stop playing with the cups.",
+            "Perhaps [person_1] will continue to fold the napkin.",
+            "[person_1] will continue playing basketball.",
+            "[person_1] is going to turn the iron.",
+            "[person_1] will try to dig out the pulp inside the fruit."
+        ],
+        "reason": [
+            "Because it seems that he likes it a lot.",
+            "Because [person_1] made a mistake.",
+            "[person_1] finished arranging the cups.",
+            "The main part of the sculpture has been completed , and [person_1] must replace the detailed tools.",
+            "Under the guidance of [person_1] , [person_1] may do the next set of more accurate movements."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains outside ?",
+        "answer": [
+            "[person_1] will not be affected.",
+            "[person_1] will fall down.",
+            "[person_1] will be very happy.",
+            "The cows will be hungry.",
+            "[person_1] and [person_1] will be adjusted soon."
+        ],
+        "reason": [
+            "Bad milk has bacteria.",
+            "[person_1] and [person_1] are attached to the same rope.",
+            "Because bees belong to the nature.",
+            "[person_1] will receive a message from someone.",
+            "[person_1] is in the room."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a room.",
+            "[person_1] is in front of a door.",
+            "[person_1] is in a gym.",
+            "[person_1] is in his room.",
+            "[person_1] is at the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a pair of glasses?",
+        "answer": [
+            "Because they are tagging them.",
+            "Because they're having some fun.",
+            "They are here to practice side - kicking.",
+            "It's cold outside in winter.",
+            "[person_1] can see things more clearly with it."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "[person_1] will put down the inhaler.",
+            "[person_1] will throw the inhaler.",
+            "[person_1] will invite some volunteers to experience golf.",
+            "[person_1] will follow the instructions.",
+            "[person_1] will take himself as an example to use the inhaler."
+        ],
+        "reason": [
+            "It seems that [person_1] is more familiar with this work.",
+            "[person_1] seems to quite enjoy it.",
+            "[person_1] has finished using the inhaler.",
+            "[person_1] is still holding the micro and singing.",
+            "[person_1] thinks it's boring to dance alone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the inhaler falls into a rubbish bin?",
+        "answer": [
+            "[person_1]'ll be sad and remake the pottery.",
+            "[person_1] will buy a new one.",
+            "[person_1] will be dangerous and hurt.",
+            "[person_1] will end up folding clothes.",
+            "[person_1] may go to clean it up."
+        ],
+        "reason": [
+            "After a long time of exercise , [person_1] must sweat a lot and needs to get a shower , which is good for his health.",
+            "The old one is dirty and can't be used.",
+            "[person_1] can't let the concrete get damaged.",
+            "Because polishing a bigger piece of metal takes long time , cleaning small pieces can help [person_1] save his time.",
+            "Because when moving with high speed , [person_1] creates strong pressure which may destroy the fence."
+        ]
+    }
+}

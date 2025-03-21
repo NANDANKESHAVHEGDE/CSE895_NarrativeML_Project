@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the orange garden.",
+            "[person_1] is next to a conveyor belt.",
+            "[person_1] is sitting on the sofa.",
+            "[person_1] is in his house.",
+            "[person_1] is in the bedroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing guitar?",
+        "answer": [
+            "Because [person_1] wants to get grape juice.",
+            "Because [person_1] hobby is playing guitar.",
+            "[person_1] is helping [person_1] train martial arts.",
+            "Because she has to use it to cut the sushi.",
+            "[person_1] wants to increase the friction between his hand and the bottle."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to sing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to step forward."
+        ],
+        "reason": [
+            "[person_1] tricked the opponent by attacking a specific target.",
+            "[person_1] is still working.",
+            "[person_1] has towel in the hand.",
+            "[person_1] is going to put the shoe down.",
+            "[person_1] is reciting the lyrics to the music."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits the wrong beat?",
+        "answer": [
+            "The accordion sound that [person_1] played would not be audible.",
+            "Maybe [person_1] will replay that beat.",
+            "[person_1] will be upset.",
+            "The [person_1] would get hurt.",
+            "Then the person here can't shoot the goal."
+        ],
+        "reason": [
+            "There is no light provided in the gym.",
+            "[person_1] will break.",
+            "[person_1] must hit the right beat.",
+            "The machine may hurt the cat.",
+            "The broken bed can not be laid on."
+        ]
+    }
+}

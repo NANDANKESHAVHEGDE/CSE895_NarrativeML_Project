@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] l?",
+        "answer": [
+            "[person_1] is holding two sticks.",
+            "[person_1] is in the room.",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding a microphone.",
+            "[person_1] is holding [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "The boy couldn't move the guitar out.",
+            "[person_1] is doing weightlifting.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is doing a handstand."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will check the result.",
+            "[person_1] is going to sit on the [bicycle_1] and ride.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to stack these cups."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] is touching three cups.",
+            "Maybe [person_1] wants to change his practice.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops cycling?",
+        "answer": [
+            "[person_1] will look muscular.",
+            "[person_1] might be shy.",
+            "[person_1] , [person_1] , [person_1] , [person_1] and [person_1] will gather around [person_1].",
+            "The ball doesn't appear.",
+            "[person_1] might come home."
+        ],
+        "reason": [
+            "Because the pole helps him to stay there still.",
+            "[person_1] finished practicing today.",
+            "[person_1] will take care of [person_1].",
+            "[person_1]'s technique will get better.",
+            "[person_1] would like to see clearly."
+        ]
+    }
+}

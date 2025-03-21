@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_1]?",
+        "answer": [
+            "It is on the wooden box.",
+            "[laptop_1] is behind the [laptop_1].",
+            "It is in the parking lot.",
+            "[laptop_1] is on the road and next to the [laptop_1].",
+            "It is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting in the room?",
+        "answer": [
+            "May be [person_2] is a teacher and [person_2] is teaching [person_1] how to play the cello.",
+            "To protect the head.",
+            "[person_2] is practicing playing the cello.",
+            "[person_1] wants to throw the ball higher.",
+            "[person_2] is playing the ukulele with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sing a song.",
+            "[person_1] is going to continue skateboarding.",
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to swim."
+        ],
+        "reason": [
+            "[person_1] feels hot.",
+            "[person_1] likes sledding.",
+            "[person_1] needs to recover.",
+            "[person_1] is opening his mouth.",
+            "[person_1] has finished the body color."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] didn't play the maracas?",
+        "answer": [
+            "[person_3] would sing a song with [person_3].",
+            "[person_3] will look towards the door.",
+            "They might learn to talk like robots.",
+            "[person_3] is going to lose [person_3].",
+            "[person_3] will be startled."
+        ],
+        "reason": [
+            "[person_3] passed the ball to [person_3].",
+            "Knocking on the cup also makes sounds.",
+            "[person_3] doesn't have any ball.",
+            "It seems that [person_3] cannot play the ukulele or other instruments.",
+            "Because it wasn't recorded just now."
+        ]
+    }
+}

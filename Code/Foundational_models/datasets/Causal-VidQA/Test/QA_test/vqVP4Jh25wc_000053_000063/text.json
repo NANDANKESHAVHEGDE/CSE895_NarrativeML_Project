@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What object is there behind [person_1] and [person_2] ?",
+        "answer": [
+            "It is a towel.",
+            "There are fifteen punching bags.",
+            "[person_1] is wearing the hat.",
+            "It is \u00a0 on the cabinet.",
+            "There is a drum set behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a bass guitar?",
+        "answer": [
+            "[person_1] is sitting on a very high chair , so [person_1] has to stand to clean the shoes easily.",
+            "[person_1] is playing bass guitar.",
+            "[person_1] is performing didgeridoo.",
+            "[person_1] always keeps his head down to look at the guitar.",
+            "[person_1] has opened the coco easily with the tool."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is about to continue dancing.",
+            "[person_2] may practice playing a bass guitar duet with [person_1].",
+            "Maybe [person_2] will jump over that pole.",
+            "Perhaps [person_2] is going to throw basketball.",
+            "Give the bubble machine to [person_1]."
+        ],
+        "reason": [
+            "[person_2] is standing beside [person_1] and holding a bass guitar.",
+            "Because [person_2] is adjusting the small parts.",
+            "Since [person_1] has finished jumping , it may be [person_2]'s turn to jump.",
+            "[person_2] is turning her head and look at [person_1] , [person_2] is putting her lips close to [person_1].",
+            "[person_1] and [person_2]'s movements are the same , [person_1] runs , so [person_2] may run after [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is another person who comes to play the drum set?",
+        "answer": [
+            "The other person will help him.",
+            "The three people can make a band if they play music together.",
+            "[person_2] may touch the fish.",
+            "[person_2] will run , hit the ball , and pass to the teammate.",
+            "The parents of [person_1] will teach her."
+        ],
+        "reason": [
+            "[person_1] is practicing pen tapping.",
+            "Stretching the arms to the left and the right helps the [person_2] keep balance.",
+            "If he is tired , he may put down the guitar , sit on the [person_1] to have a rest.",
+            "There will be two bass guitar players and one drum player.",
+            "[person_1] would do this with only one arm bearing the weight."
+        ]
+    }
+}

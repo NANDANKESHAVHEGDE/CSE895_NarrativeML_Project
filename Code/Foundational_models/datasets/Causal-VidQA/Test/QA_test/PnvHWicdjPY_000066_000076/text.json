@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the balcony.",
+            "[person_1] is sitting behind [person_1].",
+            "Along the river.",
+            "[person_1] sits by the curtains.",
+            "[person_1] is in the competition."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cup_1]?",
+        "answer": [
+            "[person_1] is watering the plants.",
+            "Because [person_1] wants to be safe when skiing.",
+            "[person_1] is ripping paper.",
+            "[person_1] is using [person_1] to squeeze oranges.",
+            "Because [cup_1] of hand has a problem , maybe [cup_1] of hand is paralyzed and needs [person_1] help."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] might stand up.",
+            "She is going to go to bed.",
+            "[person_1] will stop watering.",
+            "[person_1] will stop kicking high.",
+            "[person_1] may stop recording."
+        ],
+        "reason": [
+            "Water in [cup_1] has run out.",
+            "[person_1] is weaving fabric.",
+            "[person_1] wants to be a good batter.",
+            "Maybe [person_1] finds it strange.",
+            "[person_1] is going close [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will not have to water the plants.",
+            "The [person_1] will stay here.",
+            "[person_1] maybe stop working.",
+            "Maybe [person_1] will go to the hotel to rest.",
+            "Maybe [person_1] will stop skateboarding."
+        ],
+        "reason": [
+            "The [person_1] is also holding a flag and the [person_1] is standing outside.",
+            "[person_1] will go into the house.",
+            "The [person_1] is outside the building.",
+            "[person_1] will save water if it rains.",
+            "[person_1] , [person_1] and [person_1] have to find shelter from the rain."
+        ]
+    }
+}

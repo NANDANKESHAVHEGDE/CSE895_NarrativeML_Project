@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1] ?",
+        "answer": [
+            "[bottle_1] is square.",
+            "It is on the windowsill.",
+            "[bottle_1] is near [bottle_1].",
+            "It is on the [bottle_1].",
+            "It is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paint can?",
+        "answer": [
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] is skipping the rope.",
+            "[person_1] is running around to play basketball.",
+            "[person_1] wants to open the box.",
+            "[person_1] is shaking the dices."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going grind the knife.",
+            "Maybe [person_1] is going to jump .",
+            "Maybe [person_1] is going to start spray paint.",
+            "[person_1] is going to eat the donut on the plate in front him.",
+            "[person_1] may put the flowers in [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] has reached for the phone , it looks like the recording is finished.",
+            "[person_1] is leaving.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "[person_1] is drawing on the board."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will not have to water the plants.",
+            "[person_1] maybe stop working.",
+            "Maybe [person_1] will go to the hotel to rest.",
+            "The [person_1] will shelter in the building.",
+            "[person_1] and [person_1] may move to another position."
+        ],
+        "reason": [
+            "[person_1] does not have an umbrella.",
+            "[person_1] couldn't go out skateboarding.",
+            "[person_1] will get wet if it rains.",
+            "[person_1] has no umbrella at hand.",
+            "[person_1] will stop running."
+        ]
+    }
+}

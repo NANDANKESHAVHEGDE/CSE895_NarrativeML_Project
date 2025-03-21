@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is beside [person_1].",
+            "[chair_1] is behind the [person_1].",
+            "[chair_1] is next to [chair_1].",
+            "[chair_1] is on the stage.",
+            "It is \u00a0 in the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] gather the brows?",
+        "answer": [
+            "[person_1] wanna show how to peel the apple faster.",
+            "[person_1] wants me to look at her eyebrows.",
+            "[person_1] is fascinated to stand on her hands.",
+            "[person_1] is talking about his work.",
+            "Because [person_1] is playing [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going raise eyebrows on both sides.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to climb into bed."
+        ],
+        "reason": [
+            "[person_1] is ripping paper.",
+            "[person_1] is a hard - working person.",
+            "[person_1] is touching three cups.",
+            "[person_1] is trying to squint to raise eyebrows.",
+            "[person_1] is sitting on the snowmobile."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no light?",
+        "answer": [
+            "The room will be dark then.",
+            "Then the people here will in a panic.",
+            "It will be weird.",
+            "He will not have class.",
+            "[chair_1] will take a rest in a few minutes."
+        ],
+        "reason": [
+            "[person_1] can not see anything in the dark.",
+            "The painting color will not be reasonable.",
+            "The road will not be frozen.",
+            "[person_1] can't see anything and can't record video.",
+            "[person_1] will have a rest."
+        ]
+    }
+}

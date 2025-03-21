@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [dog_1] doing?",
+        "answer": [
+            "[dog_1] is attacking the mirror.",
+            "[dog_1] is looking at itself in the mirror.",
+            "It's a bottle of cola.",
+            "[dog_1] is in a [dog_1]'s left.",
+            "[dog_1] is holding two gong sticks."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cell phone_1]?",
+        "answer": [
+            "[person_1] raises [person_1]'s head to look directly at the camera.",
+            "Perhaps [person_1] is demonstrating how to shine shoes.",
+            "[person_1] , [person_1] , [dog_1] and [dog_1] are talking together.",
+            "Because [person_1] is playing maracas.",
+            "Because [person_1] wants to capture the moment [dog_1] look at itself in the mirror."
+        ]
+    },
+    "predictive": {
+        "question": "What is [dog_1] going to do?",
+        "answer": [
+            "[dog_1] may be used to hold food.",
+            "[dog_1] will use that machine to fix them tightly.",
+            "The person in red striped shirt will start to run.",
+            "[dog_1] is going to come back.",
+            "I think [dog_1] will be better."
+        ],
+        "reason": [
+            "Because [dog_1] just patted it with right hand then [dog_1] needs to use left hand to pat.",
+            "Because [dog_1] is so happy.",
+            "Because [dog_1] is curious and wants to check again.",
+            "[dog_1] is getting wet.",
+            "[dog_1] is following close behind [dog_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drop the [cell phone_1]?",
+        "answer": [
+            "[person_1] will pick [cell phone_1] up and keep brushing hair of [person_1].",
+            "[person_1] cannot move [cell phone_1] anymore.",
+            "[person_1] will pick [cell phone_1] up and keep recording.",
+            "[person_1] will not hug [person_1] anymore.",
+            "[person_1] will hurt."
+        ],
+        "reason": [
+            "Because [person_1] is in the middle of filming [dog_1].",
+            "[person_1] is close to [person_1] and on the verge of the table.",
+            "Because the [dog_1] will hurt him.",
+            "The [person_1] is little and ran towards the [person_1].",
+            "[person_1] may lull [person_1] , then put the baby in the blue crib behind."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it a gym?",
+        "answer": [
+            "There is one person.",
+            "There are two.",
+            "There are a lot of cars.",
+            "Yes , it is.",
+            "It is on a road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [bottle_1] near [person_3]?",
+        "answer": [
+            "[person_3] to keep close to easily get it.",
+            "They are doing exercises.",
+            "[person_3] practices slacklining very hard.",
+            "This game requires so.",
+            "[bottle_1] is playing water slide."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] will continue to lift weights.",
+            "[person_3] may be ready to take pictures.",
+            "[person_3] is going to heel the command.",
+            "[person_3] is going to paint the metal panel.",
+            "[person_3] is going to cling to the chair."
+        ],
+        "reason": [
+            "Perhaps [person_3] is referee.",
+            "The wedding's host always asks the bridegroom to kiss his bride.",
+            "People did alternating fast and slow rhythms.",
+            "[person_3] is lifting weights.",
+            "Because that's basic etiquette."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "Everyone will be leave the practice room.",
+            "The floor would be ugly.",
+            "[bottle_1] will get a knife.",
+            "[person_3] may not keep fighting.",
+            "[bottle_1] will be sad."
+        ],
+        "reason": [
+            "The rope is not long enough to play.",
+            "Due to not enough light to practice.",
+            "The weights is very heavy.",
+            "The rope is rubber band so the rope has elasticity.",
+            "Because dogs can not pull [bottle_1]."
+        ]
+    }
+}

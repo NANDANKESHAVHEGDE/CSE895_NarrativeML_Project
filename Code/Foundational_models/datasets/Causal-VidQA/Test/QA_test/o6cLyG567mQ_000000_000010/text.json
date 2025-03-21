@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in front of the shop.",
+            "[person_1] is in his house.",
+            "[person_1] is in the gym.",
+            "[person_1] is \u00a0 in his wood workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the shelf placed in the room?",
+        "answer": [
+            "Because [person_1] wants to water the plants.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] is touching her belly.",
+            "Her father is not in company with her.",
+            "Because the gym equipment needs a place to store it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack three more cups.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to continue snatching weight lifting.",
+            "[person_1] is going to cross the street.",
+            "[person_1] may clean the inside."
+        ],
+        "reason": [
+            "[person_1] is in the gymnastic.",
+            "[person_1] is a hard - working person.",
+            "[person_1] is ripping paper.",
+            "[person_1] has not turned down the water.",
+            "[person_1] is holding up the weight lifting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] decreases the weight of weight lifting?",
+        "answer": [
+            "[person_1] will practice quicker.",
+            "[person_1]'ll be happy.",
+            "[person_1] will practice shorter.",
+            "The [person_1] may fall.",
+            "[person_1] will practice longer."
+        ],
+        "reason": [
+            "Maybe [person_1] didn't follow the correct technique.",
+            "The weight of the weight lifting has lightened.",
+            "Perhaps the girl broke her leg.",
+            "The weight of the weight lifting hasn't lightened.",
+            "Because it will clutter the space if it is not picked up."
+        ]
+    }
+}

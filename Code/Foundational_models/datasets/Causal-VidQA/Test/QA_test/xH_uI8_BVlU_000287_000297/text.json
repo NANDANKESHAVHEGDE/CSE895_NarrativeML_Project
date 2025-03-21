@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a microphone.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is sitting on a chair.",
+            "[person_1] is holding a guitar.",
+            "[person_1] is holding a stick."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the stick?",
+        "answer": [
+            "Perhaps [person_1] is checking the wax before waxing.",
+            "The [person_1] wants to learn how to play accordion.",
+            "[person_1] wants to help [person_1] shave.",
+            "Because the automatic machine will peel the apples.",
+            "The [person_1] puts accordion on legs of [person_1] to have right position when playing accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to straight her legs vertically.",
+            "[person_1] will continue play with water.",
+            "[person_1] is going to become a perfect bodybuilder.",
+            "[person_1] is going to apply the wax in the direction that the hair grows.",
+            "[person_1] is going to turn a somersault."
+        ],
+        "reason": [
+            "[person_1] rows faster and faster.",
+            "The floor isn't finished sweeping.",
+            "[person_1] used the stick to press firmly and rubbed over the wax going in the same direction that the hair grows.",
+            "To have another try.",
+            "The floor is too dirty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] waxes above the brows?",
+        "answer": [
+            "The eyebrows will become unnatural.",
+            "The balloon won't explode.",
+            "The dog will help pick ball.",
+            "The water would splash into the [person_1].",
+            "They would not be broken."
+        ],
+        "reason": [
+            "The [person_1] is so happy that [person_1] likes [person_1]'s owner very much . The owner also gets a response , so he will feel very happy",
+            "Because the pole helps him to stay there still.",
+            "Should only wax under and between the brows , never over them . Waxing above the brows can result in an unnatural look.",
+            "[person_1] would like to see clearly.",
+            "Because the weather outside the window seems good , there is no need to stay indoors."
+        ]
+    }
+}

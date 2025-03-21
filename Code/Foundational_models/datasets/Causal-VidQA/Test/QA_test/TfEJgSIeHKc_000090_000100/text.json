@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [skateboard_1]?",
+        "answer": [
+            "It is nice - decorated.",
+            "There is only one.",
+            "The [skateboard_1] is next to the couch.",
+            "The [skateboard_1] is in place under the feet of [person_2].",
+            "[person_2] is playing a cello."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the [person_1] and [person_2] hold hands?",
+        "answer": [
+            "Because there is light next to the window.",
+            "Because the [person_1] wants to pick up this skill.",
+            "[person_2] is a singer.",
+            "[person_1] is losing weight . It is a fitness room.",
+            "Because the [person_1] and [person_2] are performing."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] may have a rest.",
+            "The [person_1] and [person_2] may go around and around.",
+            "They may go back home.",
+            "Eating the sushi.",
+            "[person_1] and [person_2] intend to open the gift boxes."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are smiling happily.",
+            "[person_1] and [person_2] feel tired after dancing for a long time.",
+            "[person_1] and [person_2] completed the mission.",
+            "[person_1] and [person_2] look so happy.",
+            "The [person_1] and [person_2] spin around in the hopes of rolling around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] follows the action of [person_1]?",
+        "answer": [
+            "[person_1] and [person_2] will clap.",
+            "The [person_2] would fall into the snow.",
+            "[person_1] and [person_1] will get hurt.",
+            "[person_2] would be blamed by the others.",
+            "The [person_2] will receive the correct performance action."
+        ],
+        "reason": [
+            "The one side of the [person_1] is full.",
+            "The running children may hit some bottles and may make trouble to the work.",
+            "[person_1] would not provide any solid ground for [person_1] to play hula hooping.",
+            "The [person_2] is following the action of [person_1] correctly.",
+            "[person_2] will not have a kite to fly there."
+        ]
+    }
+}

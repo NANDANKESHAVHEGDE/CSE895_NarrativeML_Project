@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting and laughing.",
+            "[person_1] is throwing the ball at the girl in front of her.",
+            "[person_1] is reading the alphabet.",
+            "[person_1] is sitting on the table.",
+            "[person_1] is sitting and reading the book on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] read the alphabet?",
+        "answer": [
+            "[person_1] is playing basketball with [person_1].",
+            "[person_1] is helping [person_1] train.",
+            "[person_1] is learning the letters of the alphabet.",
+            "Because they want to ski.",
+            "[person_1] and [person_1] are playing luge sport."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to lift slowly.",
+            "[person_1] is going to play there.",
+            "[person_1] will continue read aloud the letters of the alphabet.",
+            "[person_1] plays again."
+        ],
+        "reason": [
+            "[person_1] buries his face in a box containing donuts and eats wildly.",
+            "[person_1] has not finished learning the letters of the alphabet yet.",
+            "[person_1] is leaning forward to take the camera.",
+            "[person_1] is a coach.",
+            "[person_1] has walked outside."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not learn the alphabet?",
+        "answer": [
+            "[person_1] may want to go with him.",
+            "They would continue competing to get the ball.",
+            "[person_1] will not recognize different letters of the alphabet.",
+            "[person_1] would not be able to lift the the piece of the carpet up.",
+            "Hot dogs don't taste good."
+        ],
+        "reason": [
+            "Because [person_1] is small and doesn't notice the dog running too fast.",
+            "[person_1] is a small child and may not know about the alphabet.",
+            "Because [person_1] is afraid of heatstroke.",
+            "If [person_1] put too much strength on removing the bandage , [person_1]'s wound may get hurt again.",
+            "Because carts are moving very fast , if a cart hit another one , the accident may be serious and lead to injuries."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the child's hair?",
+        "answer": [
+            "[person_1] is in the sawmill.",
+            "[person_1] is at a kindergarten",
+            "[person_1] is white.",
+            "[person_1] is skating in a stage.",
+            "Black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is playing chess with his friend.",
+            "[person_1] wants to play.",
+            "[person_1] is doing for fun.",
+            "[person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running?",
+        "answer": [
+            "[person_1] will rest and go home.",
+            "[person_1] may ask for more.",
+            "[person_1] will rest and drink water.",
+            "[person_1] will show the next step.",
+            "[person_1] and [person_1] are going to talking together."
+        ],
+        "reason": [
+            "There are always chairs in the house.",
+            "[person_1] feels it boring.",
+            "[person_1] is tired and thirsty.",
+            "He turn his direction in an strange angle.",
+            "[person_1] will hit his left hand down and then his right hand down because his left hand goes down first."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] is sick?",
+        "answer": [
+            "[person_1] will continue running.",
+            "It is not allowed.",
+            "[person_1] will start running.",
+            "[person_1] will praise [person_1].",
+            "[person_1] will stop running."
+        ],
+        "reason": [
+            "He will keep awake.",
+            "The cups would be spilled.",
+            "He will sleep.",
+            "Little girl could hardly play the game . The hammer is heavy.",
+            "He won't sleep."
+        ]
+    }
+}

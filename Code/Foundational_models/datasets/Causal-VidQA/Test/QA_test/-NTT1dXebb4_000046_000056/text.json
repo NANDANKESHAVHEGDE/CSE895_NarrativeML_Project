@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is wearing a T - shirt and jeans.",
+            "The [person_1] is looking for the eggnog.",
+            "The [person_1] is presently playing a accordion.",
+            "The [person_1] is introducing how to make the doll to the audience.",
+            "The [person_1] is riding a camel."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] on his knees?",
+        "answer": [
+            "[person_1] wants to show her pencil.",
+            "Because the [person_1] is looking for something.",
+            "[person_1] lean forward to see what [person_1] is doing.",
+            "Because [person_1] is practicing playing the harp.",
+            "Maybe [person_1] does the guitar for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may go around and look for the shot put ball.",
+            "[person_1] will stretch the body.",
+            "The [person_1] may keep pressing the buttons at the same time.",
+            "The [person_1] may take another snowball to throw toward the [person_1].",
+            "The [person_1] will continue to look for things in the [refrigerator_1]."
+        ],
+        "reason": [
+            "The [person_1] looks ahead and determines where the shot put ball is.",
+            "To challenge a more difficult position.",
+            "The [person_1] is holding the handlebars of the [person_1].",
+            "Because the [person_1] doesn't seem to have found what he was looking for.",
+            "The [person_1] has put the left foot of the [person_1] down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if something falls out of the [refrigerator_1]?",
+        "answer": [
+            "The [person_1] will go to the hospital.",
+            "Maybe [person_1] will fall.",
+            "Then [person_1] may take more time.",
+            "The [person_1] will be hit by falling things.",
+            "[person_1] will pick up the comb and wash it."
+        ],
+        "reason": [
+            "Because [person_1] stepped on the skirt , the center of gravity was unstable.",
+            "Since [person_1] is trying to step on the chair , so he will fall down if the chair falls down.",
+            "Because the [person_1] was kneeling , and could not react in time.",
+            "The [person_1] threw the blue pillow toward the face of the [person_1].",
+            "When [person_1] picks up the first dice , [person_1] must swing the cup back and forth , alternating similar angles."
+        ]
+    }
+}

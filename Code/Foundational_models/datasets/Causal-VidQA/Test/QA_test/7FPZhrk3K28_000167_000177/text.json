@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is performing on a stage.",
+            "[person_1] is outside.",
+            "[person_1] is on the stage.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in his home office."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding a bat?",
+        "answer": [
+            "Because the competition doesn't start.",
+            "[person_2] would like to hit the ball.",
+            "The room is the hall.",
+            "[person_2] is waiting for his turn.",
+            "Because no one turns [person_2] on."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will certainly continue playing with the ball.",
+            "[person_2] will celebrate.",
+            "It is probable that [person_2] will try her best to play the game.",
+            "[person_2] is bound to throw the ball into the cups.",
+            "It is probable that [person_2] will go to rest."
+        ],
+        "reason": [
+            "[person_2] is staring at this ball.",
+            "[person_2] is holding the string tied to the sword.",
+            "[person_2] looks tired.",
+            "Because [person_2] wants to try.",
+            "[person_2] wants to be a winner in this game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] practices playing cricket everyday?",
+        "answer": [
+            "Maybe [person_2] will be bad at playing this game.",
+            "[person_2] will play on stage.",
+            "Maybe [person_2] will not be good at playing this game.",
+            "[person_2] will bake a new one.",
+            "Maybe [person_2] will be good at playing this game."
+        ],
+        "reason": [
+            "[person_2] won't improve this skill.",
+            "[person_2] will not need help.",
+            "[person_2] will decrease this skill.",
+            "[person_2] will continue playing.",
+            "[person_2] will improve this skill."
+        ]
+    }
+}

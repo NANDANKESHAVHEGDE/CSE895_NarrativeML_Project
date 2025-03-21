@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s hair?",
+        "answer": [
+            "White.",
+            "The shirt is beige.",
+            "It is black hair.",
+            "It's a white plaid shirt.",
+            "The shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] somersault on the floor?",
+        "answer": [
+            "[person_1] is feeling hot.",
+            "Because they want to visit the desert.",
+            "Perhaps [person_1] does it for fun.",
+            "That strip is one of the chest waxing supplies.",
+            "[person_1] wants to protect himself while working."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will play basic chords.",
+            "[person_1] may take off the clip.",
+            "[person_1] may go to somewhere else.",
+            "[person_1] is going to continue trying to \u00a0 playing.",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "[person_1] is going to rest.",
+            "[person_1] is leaving.",
+            "[person_1] is going to be tired.",
+            "[person_1] is standing in the class.",
+            "[person_1] finds hopscotch interesting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will reduce the strength of [person_1]'s holding and rock [person_1] gently.",
+            "[person_1] will stop folding.",
+            "The [person_1] will continue to be used normally.",
+            "[person_1] will not play the flute anymore.",
+            "[person_1] will stop somersaulting."
+        ],
+        "reason": [
+            "Because it may struck someone.",
+            "Practice is the important thing.",
+            "Wiping glass consumes energy.",
+            "The feet of [person_1] will be in direct contact with the ground.",
+            "[person_1] may have a break."
+        ]
+    }
+}

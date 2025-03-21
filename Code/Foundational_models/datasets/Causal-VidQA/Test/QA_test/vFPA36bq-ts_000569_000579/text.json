@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [cat_1] close his eyes?",
+        "answer": [
+            "Maybe [cat_1] wants to help [cat_1] open the gift.",
+            "Because the [cat_1] wants to test how well the [cat_1] door is sealed.",
+            "Because [cat_1] is sleeping.",
+            "Maybe [cat_1] is waiting for something.",
+            "Because [cat_1] is learning something in the book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "Maybe [person_1] is going to stop playing the gong.",
+            "[person_1] is going to bow down to fondle a kangaroo.",
+            "[person_1] is going to hold a stick.",
+            "[person_1] is going to pick the ball up and then throw it again."
+        ],
+        "reason": [
+            "[person_1] put his hand down.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "To relax for several minutes.",
+            "[person_1] has fetched another liquor in her hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues playing the gong?",
+        "answer": [
+            "The card will pollute the environment.",
+            "[person_1] would hang the poster of [person_1] back up once he's is done playing.",
+            "[person_1] and [cat_1] will stop playing.",
+            "[cat_1] will wake up.",
+            "[person_1] and [cat_1] have to change places to play musical instruments."
+        ],
+        "reason": [
+            "Because [cat_1] was interested in looking the reflection in the mirror.",
+            "Because [person_1] wants her mother to buy the shirt for him.",
+            "Because the sound of the gong affects [cat_1].",
+            "Staying at the road is dangerous if a car passed by.",
+            "To let [person_1] go to the toilet first."
+        ]
+    }
+}

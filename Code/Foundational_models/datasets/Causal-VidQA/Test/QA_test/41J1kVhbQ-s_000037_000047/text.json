@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bowl_1]?",
+        "answer": [
+            "[bowl_1] is wearing the jeans.",
+            "[bowl_1] is near [bowl_1].",
+            "It is on the shelf.",
+            "It is in front of the [bowl_1].",
+            "It is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] clean the shoes?",
+        "answer": [
+            "[person_1] do the massage at [person_1]'s neck.",
+            "[person_1] wants to make the shoes cleaner.",
+            "[person_1] presses the head from ear to hair.",
+            "[person_1] toys are all in a basket.",
+            "[person_1] places the accordion on his knee with the key buttons facing away from him."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to maintain shining shoes.",
+            "[person_1] is going to continue playing badminton without a net with [person_1] on the grass.",
+            "[person_1] is going to lift the barbell.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to stand up to get more stones."
+        ],
+        "reason": [
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] is going to feel tired.",
+            "[person_1] used the tape on the table.",
+            "[person_1] looks tired and has put the barbell back.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the shoe were scratched?",
+        "answer": [
+            "[person_1] could not perform cheer - leading in public.",
+            "Then that audience will throw the ball back to the player.",
+            "The man in the yellow hat will have a rest.",
+            "[person_1] might polished it with more shoe cream.",
+            "[person_1] will stop play the hoop."
+        ],
+        "reason": [
+            "Because [person_1] is still a kid and [person_1] is small.",
+            "The cream would heal part of the scratch.",
+            "Because the audience can't take away it and the player needs to use it.",
+            "Because [bowl_1] would still run to the finish and leave [bowl_1] behind.",
+            "[person_1] is made of glass."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is the [car_3]?",
+        "answer": [
+            "It is red.",
+            "It's white.",
+            "The [person_1] is outside the house and close to the lobby.",
+            "White.",
+            "[car_3] is outside , on the right of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "why does the mechanical bull move?",
+        "answer": [
+            "The [person_1] was hit with a pillow and flew out.",
+            "the mechanical bull is the game machine that makes [person_1] can not keep balance and fall.",
+            "[person_1] is performing taekwondo.",
+            "The [person_1] reduces the tone of accordion.",
+            "[person_1] is playing the drums."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do one more high kick.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to rest a little bit.",
+            "[person_1] will talk some more.",
+            "[person_1] is going to go away."
+        ],
+        "reason": [
+            "[person_1] is putting her hand together.",
+            "[person_1] moved the right hand up earlier.",
+            "[person_1] waved goodbye at the camera.",
+            "[person_1] fell from the back of the mechanical bull.",
+            "[person_1] is moving to the right."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] could keep his balance?",
+        "answer": [
+            "[person_1] could continue playing that game.",
+            "Everyone would help him solve his problem.",
+            "[person_1] can not throw the ball into the basket.",
+            "[person_1] will have a rest.",
+            "[person_1] will pick it up."
+        ],
+        "reason": [
+            "It's impossible to cross a sea by oneself.",
+            "[person_1] can still sit on the back of the mechanical bull to ride it.",
+            "Because if so , the place is not attractive.",
+            "Because the cup is a container , in which dice are shaken to give them a random position.",
+            "[person_1] is free and watching [person_1] practicing high kicking."
+        ]
+    }
+}

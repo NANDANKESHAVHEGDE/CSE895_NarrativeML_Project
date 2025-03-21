@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_3]?",
+        "answer": [
+            "[person_2] is sitting on [person_2].",
+            "[person_3] is standing between [person_1] and [person_2].",
+            "The [person_2] is in the left of the refrigerator.",
+            "[person_2] is at the basketball court.",
+            "[person_2] is \u00a0 in the swimming pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] look at the music sheet?",
+        "answer": [
+            "[person_3] is very hard - working.",
+            "[person_3] wants to make sure [person_3] knows this song.",
+            "[person_3] uses it to exercise . The hammer is heavy.",
+            "To fill up his lungs.",
+            "[person_3] wants to make some orange juice."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] and [person_3] next after stopping for a moment?",
+        "answer": [
+            "[person_1] will roll the sushi up.",
+            "[person_1] and [person_3] will join [person_2].",
+            "[person_1] will stop running.",
+            "The [person_1] will rinse the clothes.",
+            "[person_1] will show the snake to others."
+        ],
+        "reason": [
+            "Because [person_1] seems to practice and does the exercise.",
+            "[person_1] and [person_3] have finished preparation.",
+            "Because the [person_1] wants it to be clean.",
+            "Because [person_1] cannot handle the snake all by himself.",
+            "Because [person_1] cannot handle the snake all by himself but gets help from another person."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] did not look at the music sheet before playing?",
+        "answer": [
+            "[person_3] might play the clarinet.",
+            "[person_3] can not throw the ball into the basket.",
+            "[person_3] cannot misplay the clarinet.",
+            "[person_3] will immediately come forward to catch the baby.",
+            "[person_3] might misplay the clarinet."
+        ],
+        "reason": [
+            "[person_3] does know what song it is.",
+            "The cow run very fast and [person_3] is a child.",
+            "[person_3] does not know what song it is.",
+            "Reaching out to pick up what is about to fall is an instinctive reaction of the body.",
+            "[person_3] does not know what song it isn't."
+        ]
+    }
+}

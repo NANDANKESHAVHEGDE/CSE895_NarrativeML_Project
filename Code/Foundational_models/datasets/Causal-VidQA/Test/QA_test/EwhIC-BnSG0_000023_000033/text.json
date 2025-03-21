@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks thin.",
+            "[person_1] looks young and pretty.",
+            "A little bit fat.",
+            "[person_1] is quite fat.",
+            "[person_1] looks beautiful and simple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_1] and [person_2] are whistling.",
+            "[person_2] is playing chess with [person_2].",
+            "[person_2] feels hurt on his shoulder.",
+            "cleaning the shoe with shoe polish is cleaner than cleaning with hands.",
+            "[person_1] does parkour by jumping over a chair and the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to lift heavier weights.",
+            "[person_1] is going to put the legs down.",
+            "[person_1] is going to use tissue to wipe her mouth.",
+            "[person_1] is going to keep whistling."
+        ],
+        "reason": [
+            "Because [person_1] also wants to make some bubbles.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is making noodles thin and long.",
+            "Maybe [person_1] has woven a lot.",
+            "[person_1] is holding the flute and is about to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] leaves?",
+        "answer": [
+            "[person_1] will keep her fit.",
+            "The audience will clap their hands.",
+            "[person_1] won't whistle anymore.",
+            "[person_2] will eat the pickled cucumber in the jar of pickled cucumbers.",
+            "Then [person_1] can't go on practicing."
+        ],
+        "reason": [
+            "[person_1] will only whistle when someone whistles with her , that's more fun.",
+            "[person_1] only has a small piece of burger left.",
+            "Because the baby is too small , the baby may not want to be left alone.",
+            "[person_2] is just a kid , and [person_2] need the mother's help.",
+            "[person_1] is just a kid."
+        ]
+    }
+}

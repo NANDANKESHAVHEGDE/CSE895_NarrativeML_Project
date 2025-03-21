@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is skating with the [person_2]'s son.",
+            "The shirt [person_1] wearing is black.",
+            "[person_1] is touching [person_1]'s hair.",
+            "Between [person_1] and [person_2].",
+            "The [person_2] is above the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] touch [person_1]'s hair?",
+        "answer": [
+            "[person_1] is opening the gift and [person_2] wanna see the gift inside.",
+            "Maybe [person_2] get his clothes wet.",
+            "[person_1] is learning how to stack cups.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is giving massage to [person_1]'s head."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_1] feel after the massage?",
+        "answer": [
+            "[person_1] and [person_1] are going to give their ideas after [person_1].",
+            "[person_1] is going to comb her hair.",
+            "They will continue to spectate the match.",
+            "[person_1] may crash into the house.",
+            "[person_1] will feel really relaxed."
+        ],
+        "reason": [
+            "Her expression tells everything.",
+            "Dancing consumes much energy.",
+            "There is a link to register.",
+            "It seems that [person_1] enjoys it a lot and wants to improve his skill.",
+            "The cameraman turns to his left and film the Christmas tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the wind was stormy?",
+        "answer": [
+            "They would leave there.",
+            "They would not be injured.",
+            "They would not leave there.",
+            "He'll call a doctor.",
+            "They would stauy there."
+        ],
+        "reason": [
+            "Everyone likes to have a massage in storm.",
+            "They have to stretch their arms and legs while dancing.",
+            "No one likes to have a massage in storm.",
+            "The dog is playing with the snow.",
+            "No one likes to loss a massage in storm."
+        ]
+    }
+}

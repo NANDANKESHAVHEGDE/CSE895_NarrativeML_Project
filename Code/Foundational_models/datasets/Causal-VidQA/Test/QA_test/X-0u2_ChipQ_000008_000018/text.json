@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "A blanket.",
+            "An laboratory technician.",
+            "It is cylindrical.",
+            "It is yellow.",
+            "It's opposite [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] practice handstand on the grass?",
+        "answer": [
+            "[person_1] wants to sell his work.",
+            "It is soft on the grass.",
+            "[person_1] is practicing the guitar.",
+            "It's more convenient.",
+            "For fear of breaking the ground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to land on the sand pit.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to swim his best to the other side of the pool.",
+            "He is going to enjoy the beer.",
+            "[person_1] is going to straight her legs vertically."
+        ],
+        "reason": [
+            "[person_1] is having his turn next.",
+            "[person_1]'s legs raised already.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] just has started his work.",
+            "[person_1] is returning to the starting point of the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] falls down?",
+        "answer": [
+            "The frisbee may fly to other directions.",
+            "[person_1] will stop jumping.",
+            "[person_1] would not be hurt.",
+            "[person_1] would feel giddy.",
+            "[person_1] would be scared about that."
+        ],
+        "reason": [
+            "[person_1] is too short and small , so [person_1] can not reach the basket.",
+            "[person_1] wears protective gear.",
+            "Because [person_1] falls when she has not finished her turn.",
+            "There is no water around [person_1].",
+            "[person_1] is safe."
+        ]
+    }
+}

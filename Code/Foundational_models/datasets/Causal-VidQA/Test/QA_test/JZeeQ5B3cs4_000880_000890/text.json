@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] holding in their hands?",
+        "answer": [
+            "[person_1] is using the left hand to hold the cigarette.",
+            "[person_2] is looking at the cap of [person_1].",
+            "The [person_2] is wearing checked pants.",
+            "[person_1] and [person_2] are holding red handfans.",
+            "[person_2] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] holding red handfans?",
+        "answer": [
+            "[person_1] and [person_2] are opening presents.",
+            "[person_1] and [person_2] hope the performance to be more beautiful with the handfans.",
+            "[person_2] is shaving for [person_1] .",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "[person_1] , [person_2] and [person_2] are a band and [person_1] , [person_2] and [person_2] are playing music."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to continue tap dancing.",
+            "[person_1] may go to the toilet.",
+            "[person_1] is going to slowly move the handfan to his right side.",
+            "[person_1] is going to form a pretty shape."
+        ],
+        "reason": [
+            "[person_1] stops shaking the rope.",
+            "Moving the handfan to his right side is the next movement in the performance.",
+            "Maybe have run out of water.",
+            "[person_1] is going to enjoy the melody.",
+            "[person_1] cuts off the flower's stem."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no handfans?",
+        "answer": [
+            "if [person_2] was not prepared , he could hurt his back and stop instructing the rest of the day.",
+            "[person_1] probably just pinched the clay with [person_1]'s hands.",
+            "[person_1] and [person_2] might use a tai chi ruler or a sword in their performance.",
+            "[person_1] has to run away and find place to avoid the snowstorm.",
+            "[person_1] would fall back onto the floor and drop his guitar , causing him to stop playing."
+        ],
+        "reason": [
+            "Tai chi rulers or swords are popular equipments in tai chi performances.",
+            "The dice on the right of the cup are at the edge of the table and easy to drop by the impact.",
+            "Snowstorm is very dangerous and can cause bad consequences.",
+            "[person_2] is a person who is willing to share.",
+            "Because they just jumped around the center."
+        ]
+    }
+}

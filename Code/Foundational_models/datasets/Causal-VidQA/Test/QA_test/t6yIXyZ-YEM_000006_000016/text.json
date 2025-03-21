@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cup_2]?",
+        "answer": [
+            "It is tall.",
+            "It is black.",
+            "Yes.",
+            "The [cup_2] is near [person_1].",
+            "The [cup_2] is sporty."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is play didgeridoo.",
+            "[person_1] is talking about the newspapers.",
+            "Because [person_1] can somersault.",
+            "Because [person_1] remembers what [person_1] needs to speak.",
+            "Perhaps [person_1] is taking part in a game with the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may turn around.",
+            "[person_1] may change another tool.",
+            "[person_1] is going to do an entertaining activity.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to keep practicing."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is putting the hand of [person_1] onto the cups.",
+            "[person_1] is snowmobiling.",
+            "Because [person_1] is lifting the beehive."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] may stop reading.",
+            "[person_1] may stop playing.",
+            "[person_1] may go out to play.",
+            "Someone can not see the film.",
+            "The room will be bright."
+        ],
+        "reason": [
+            "The lights are off , too.",
+            "The television will be turned off.",
+            "The room will be dark.",
+            "The microphone and the music will be off.",
+            "The music will be turned off."
+        ]
+    }
+}

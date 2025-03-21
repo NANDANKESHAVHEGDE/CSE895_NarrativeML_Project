@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is watching [person_1].",
+            "The shirt is gray.",
+            "A T - shirt and a helmet.",
+            "[person_2] is holding a gift box.",
+            "[person_2] is lying on a pillow."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_2] watching [person_1]?",
+        "answer": [
+            "[person_1] is talking about the placement of eating utensils on [person_2].",
+            "[person_1] is directing [person_2] to put the disk in the right place on the table.",
+            "Because [person_1] is playing in the room.",
+            "[person_2] is watching [person_1] very closely.",
+            "Because [person_1] is playing the violin with his friends in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] is going to listen to [person_2].",
+            "[person_1] will eat the apple on the table.",
+            "[person_1] is trying to touch [person_1].",
+            "Perhaps [person_1] is going to come home."
+        ],
+        "reason": [
+            "[person_1] is still performing.",
+            "[person_1] is huddling with the team.",
+            "[person_2] is about to coach [person_1] about throwing discus.",
+            "[person_1] is off balance.",
+            "[person_1] is going to have a break."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not swing his body a few times before actually throw the discus?",
+        "answer": [
+            "[person_1] would not have to stand at it.",
+            "[person_1] wouldn't feed them anymore.",
+            "The discus would not go that far.",
+            "The toy car will slow down.",
+            "[person_1] would pick it up."
+        ],
+        "reason": [
+            "[person_1] sucked up the egg yolk to put into the second plate.",
+            "Maracas are cylinder objects and they have handles , children would easily think it was a weapon.",
+            "[person_1] would not be expecting the heavyweight to fall off so he would be caught off guard and drop the heavy weight.",
+            "Because cars have to avoid [person_1].",
+            "[person_1] is taking a run - up for his throw."
+        ]
+    }
+}

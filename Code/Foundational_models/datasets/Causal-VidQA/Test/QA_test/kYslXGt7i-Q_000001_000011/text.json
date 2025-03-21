@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his room.",
+            "[person_1] is in a museum.",
+            "[person_1] is at the gym.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is sitting at a table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] is playing spinning poi.",
+            "[person_1] wants to train to change its body."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will do a squat with weights on his shoulders . .",
+            "[person_1] is going to a workout.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] may go home.",
+            "[person_1] is going to start eating."
+        ],
+        "reason": [
+            "Maybe [person_1] will continue playing.",
+            "[person_1] finishes singing.",
+            "[person_1] is holding a glass of water.",
+            "[person_1] looks so excited.",
+            "So that [person_1] has a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] doesn't have the correct posture?",
+        "answer": [
+            "[person_1] will be muscle aches.",
+            "[person_1] will record it again.",
+            "[person_1] will be muscle sensitive.",
+            "[person_1] can't raise the body with both hands and skip the rope.",
+            "[person_1] will be muscle healthy."
+        ],
+        "reason": [
+            "Because it does not affect the hand muscle.",
+            "[person_1] doesn't like to eat.",
+            "Because it does affect the muscle group.",
+            "Because the power drill will fall down and hurt [person_1].",
+            "Because it does not affect the muscle group."
+        ]
+    }
+}

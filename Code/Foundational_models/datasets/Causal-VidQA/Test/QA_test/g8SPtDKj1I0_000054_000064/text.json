@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are in the recording studio.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are in the game room.",
+            "[person_1] and [person_2] are on the bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_2]?",
+        "answer": [
+            "[person_1] is stacking dice.",
+            "There some information that the [person_1] can read.",
+            "[person_1] wants to throw the ball higher.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to stack dice.",
+            "[person_3] is going to catch the balloon back.",
+            "Maybe [person_3] is going to join them.",
+            "[person_3] is going sit on the red couch.",
+            "[person_3] is going to sit down."
+        ],
+        "reason": [
+            "[person_3] likes clapping.",
+            "[person_3] is playing against [person_1].",
+            "[person_3] pointed arms to the right.",
+            "[person_3] is a judge.",
+            "[person_1] gave the microphone to [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3]'s dice have a larger number of buttons than [person_1]'s dice?",
+        "answer": [
+            "[person_3] will win.",
+            "[person_3] will be hurt.",
+            "[person_1] will feel hurt.",
+            "[person_3] doesn't need his father to hold him to eat.",
+            "[person_3] will stop talking."
+        ],
+        "reason": [
+            "Because [person_1] doesn't want her table be dirty.",
+            "[person_1] is not familiar with riding.",
+            "Because [person_1] will startle.",
+            "Goal keepers are allowed to using hands to catch the ball.",
+            "That's the rule of this game."
+        ]
+    }
+}

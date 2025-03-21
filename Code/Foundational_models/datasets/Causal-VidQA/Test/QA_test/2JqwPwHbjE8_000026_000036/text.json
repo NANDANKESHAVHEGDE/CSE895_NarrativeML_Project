@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is in the corner.",
+            "It is in the parking lot.",
+            "[potted plant_1] is opening the door consistently.",
+            "It is on the wooden box.",
+            "It is lying on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear the glasses?",
+        "answer": [
+            "The [person_1] is looking for something in the refrigerator.",
+            "Maybe [person_1] wants to make sound.",
+            "Because [person_1] is playing the guitar.",
+            "Because [person_1] is lifting weights.",
+            "[person_1] has nearsightedness."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "It is foreseen that [person_1] tends to continue to play the flute.",
+            "[person_1] does a workout.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] is going to introduce about her book.",
+            "[person_1] might put her glasses down somewhere."
+        ],
+        "reason": [
+            "[person_1] hands are moving very professional on the flute.",
+            "[person_1] controls the board very professionally.",
+            "[person_1] has bent back.",
+            "[person_1] is excited about this book.",
+            "[person_1] has picked the cake up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room is dark?",
+        "answer": [
+            "The [person_1] will fall.",
+            "[person_1] will call the owner of [person_1].",
+            "[person_1] will take [person_1] to the shop later.",
+            "[person_1] will find another machine to do the exercise.",
+            "[person_1] will stop playing the flute."
+        ],
+        "reason": [
+            "To replace the broken one.",
+            "The sky will be covered with dark clouds.",
+            "Because the grinder is powered by the generator.",
+            "The food will be inedible.",
+            "[person_1] will go find the reason why the room is dark."
+        ]
+    }
+}

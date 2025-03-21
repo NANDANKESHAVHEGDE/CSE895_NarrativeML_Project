@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is in the class.",
+            "[person_1] is on the street.",
+            "[person_1] is in the studio.",
+            "[person_1] is in bathroom.",
+            "[person_1] is in his home office."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the class ?",
+        "answer": [
+            "[person_1] is sitting on chair and playing instrument.",
+            "[person_1] is performing a trick with his tongue.",
+            "[person_1] is doing a gymnastics move.",
+            "[person_1] is swallowing sword.",
+            "The hand of [person_1] is supporting the back of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] is going to continue cooking.",
+            "[person_1] is going to do some action to let others learn.",
+            "[person_1] is going to keep playing flute.",
+            "[person_1] will still sit on the machine and do the exercise.",
+            "[person_1] is going to continue tagging the graffiti."
+        ],
+        "reason": [
+            "It seems that [person_1] wants to be skillful.",
+            "Because after [person_1] opens the bottle , [person_1] will continue to serve them.",
+            "[person_1] turns around and waits for [person_1].",
+            "Then [person_1] intends to rest.",
+            "Because [person_1] is ready to open the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops playing flute ?",
+        "answer": [
+            "Maybe [person_1] will stop playing.",
+            "The finger of [person_1] will bleed.",
+            "[person_1] and [person_1] will feel hot.",
+            "[person_1] will feel frustrated.",
+            "[person_1] will put the flute down on the table."
+        ],
+        "reason": [
+            "The injury needs to be stopped bleeding.",
+            "Maybe [person_1] will clear the board.",
+            "Maybe [person_1] or [person_1] wants to stand up and talk something.",
+            "Because [person_1] is only has one bag of chips.",
+            "[person_1] should bring more water."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It is orange.",
+            "It is brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing chess with [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] want to catch the bubbles [person_1] made.",
+            "Because [person_1] is happy.",
+            "[person_1] feels happy.",
+            "Because [person_1] and [person_2] practice roller skating.",
+            "Maybe [person_1] is wanting to help [person_2] play better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to record a video about herself.",
+            "[person_1] is going to continue hugging.",
+            "[person_1] may go home.",
+            "[person_1] is going to keep playing."
+        ],
+        "reason": [
+            "Maybe [person_1] is going to practice more.",
+            "When [person_1] jumps off the pool , he floats and prepares to swim.",
+            "[person_1] is talking with [person_2].",
+            "Maybe [person_1] likes to play it.",
+            "[person_1] opens the [person_1] to put the [person_1] in."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] leaves?",
+        "answer": [
+            "[person_1] will play alone.",
+            "[person_1] and [person_1] may keep jumping.",
+            "[person_1] will rummage in the box.",
+            "[person_1] will keep on working.",
+            "[person_1] will stop playing."
+        ],
+        "reason": [
+            "[person_1] is in a competition.",
+            "The match will be end.",
+            "[person_1] needs to have a rest.",
+            "[person_1] looks a bit exhausted.",
+            "The wheels on the skates are circle and easy to grovel."
+        ]
+    }
+}

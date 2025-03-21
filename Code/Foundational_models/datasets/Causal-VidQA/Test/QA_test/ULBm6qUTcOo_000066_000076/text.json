@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is jumping on the couch.",
+            "[person_2] is holding a gift box.",
+            "[person_2] is fixing a bottle on the table.",
+            "[person_2] is lying on a pillow.",
+            "[person_2] is taking photos."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] fix the bottle?",
+        "answer": [
+            "To make it convenient for [person_1] to open it.",
+            "[person_1] is playing to see how the guitar sounds.",
+            "[person_1] is playing the accordion.",
+            "Maybe [person_1] does it for fun.",
+            "The membrane will prevent her from opening the bottle."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] in the video do?",
+        "answer": [
+            "They may feel strange.",
+            "It will show the moment of William.",
+            "[person_1] will walk away from the camera.",
+            "[person_1] will rest.",
+            "[person_1] will rest."
+        ],
+        "reason": [
+            "She thinks herself block the view.",
+            "Because [person_1] walked towards the table.",
+            "Because she's done it twice before and may be she will continue to do it.",
+            "A nice show worth it.",
+            "To record the happy moment."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] was not careful?",
+        "answer": [
+            "[person_1] might hurt [person_2]'s hands by the stick he is holding.",
+            "Perhaps [person_1] and [person_2] would have some gossip.",
+            "[person_1] will pick up the [person_1] and eat it.",
+            "The [person_1] will ask others to help him.",
+            "[person_1] would tell [person_1] how to do the roasting correctly."
+        ],
+        "reason": [
+            "Because the limit comb helps [person_1] to limit the length of hair to shave.",
+            "[person_1] shakes his head because he is disappointed with the result.",
+            "The stick might slide out and fall down to [person_2]'s hand hardly.",
+            "[person_1] would not know the data precisely.",
+            "It might look old."
+        ]
+    }
+}

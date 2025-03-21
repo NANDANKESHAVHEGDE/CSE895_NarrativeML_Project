@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there?",
+        "answer": [
+            "Yes , it is.",
+            "There are three chairs in the room.",
+            "There are two.",
+            "There are four.",
+            "There are a lot of cars."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting outside?",
+        "answer": [
+            "[person_1] lies on the ground , lifting the hammer from the ground and switch it between his two hands.",
+            "[person_1] is not able to walk yet.",
+            "[person_1] takes each cup and arranges them higher and higher.",
+            "[person_1] does it to playing the gongs.",
+            "[person_1] is playing the guitar for everyone to hear."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will let the maracas down.",
+            "[person_1] is going to pull the fish up.",
+            "[person_1] will have a rest.",
+            "[person_1] will use another hand to shake.",
+            "[person_1] may play another song."
+        ],
+        "reason": [
+            "[person_1] will continue to play.",
+            "[person_1]'s guitar skills are very good.",
+            "[person_1] looks at the chessboard attentively.",
+            "It seems that [person_1] is manufacturing something made from cocos.",
+            "[person_1] will feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will get wet in the rain.",
+            "[person_1] will get wet if it rains.",
+            "[person_1] will enter the house.",
+            "[person_1] will have to find shelter from the rain.",
+            "[person_1] maybe stop playing."
+        ],
+        "reason": [
+            "The [person_1] would not let the furniture be wet.",
+            "The guitar and speakers are wet.",
+            "They can't exercise because of the rain.",
+            "Because [person_1] can't practice at rainy days.",
+            "[person_1] will not continue skating outside."
+        ]
+    }
+}

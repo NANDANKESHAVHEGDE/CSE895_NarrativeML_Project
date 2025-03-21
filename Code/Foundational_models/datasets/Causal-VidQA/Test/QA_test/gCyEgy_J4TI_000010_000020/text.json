@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cellphone_1]?",
+        "answer": [
+            "The [cellphone_1] is on the wall.",
+            "[cellphone_1] is on the wall.",
+            "The [cellphone_1] is above the bed.",
+            "There are four players.",
+            "[cellphone_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is somersaulting in the room.",
+            "[person_1] can only play the drums in this room.",
+            "[person_1] is lifting weights.",
+            "[person_1] is playing the lute very professionally.",
+            "He is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go home.",
+            "[person_1] is going to lie on [bed_1] and rest.",
+            "[person_1] may continue what he did.",
+            "[person_1] is going to dance.",
+            "[person_1] is going to bandage [person_1]."
+        ],
+        "reason": [
+            "It seems they are not going to stop now.",
+            "[person_1] likes it.",
+            "[person_1] is tired after lifting weights.",
+            "Because the blue is skying at night.",
+            "[person_1] is jumping very high."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] still tries to lift heavy weights?",
+        "answer": [
+            "[person_1] will get angry.",
+            "Maybe [person_1] will take a break.",
+            "[person_1] may have to start from the starting line.",
+            "[person_1] will not be allowed to participate in doing Zumba.",
+            "[person_1] will be injured."
+        ],
+        "reason": [
+            "It is not too heavy for [person_1].",
+            "Because there are two person around [person_1] who will catch [person_1].",
+            "It's too heavy for [person_1].",
+            "[person_1] opened the next pages and read so quickly.",
+            "[person_1]'s violin almost touches [person_1]."
+        ]
+    }
+}

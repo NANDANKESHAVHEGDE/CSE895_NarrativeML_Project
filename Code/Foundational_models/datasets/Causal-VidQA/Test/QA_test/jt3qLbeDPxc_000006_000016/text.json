@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bed_1]?",
+        "answer": [
+            "The [bed_1] is beside the window , behind the [person_1].",
+            "It is next to [person_1].",
+            "[bed_1] is behind [person_1].",
+            "That's a pair of glasses.",
+            "It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a [person_2]'s arm?",
+        "answer": [
+            "Maybe [person_1] is waiting for something.",
+            "[person_1] is watching [person_2] lift weights.",
+            "Because the [person_1] wants to test how well the [person_2] door is sealed.",
+            "[person_1] is showing that the fruit is so hard.",
+            "Maybe [person_2] feels hurt."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stretch the [person_2]'s arm.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] may continue what he did."
+        ],
+        "reason": [
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] is snowmobiling.",
+            "[person_1] is keeping still.",
+            "[person_1] has turned away.",
+            "[person_1] tries to help [person_1] from pain."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] does not lie here?",
+        "answer": [
+            "You will have a better beard.",
+            "[person_2] will put off his scarf.",
+            "[person_2] will be kicked out of the golf cart.",
+            "[person_2] may go to work.",
+            "[person_2] may block the way of [person_2]."
+        ],
+        "reason": [
+            "They are going to decide on a champion.",
+            "[person_2] would be somewhere else doing something else.",
+            "It can memorize better.",
+            "Usually if a child doesn't want to have a class the child will tell his parents.",
+            "[person_2] will not feel tired."
+        ]
+    }
+}

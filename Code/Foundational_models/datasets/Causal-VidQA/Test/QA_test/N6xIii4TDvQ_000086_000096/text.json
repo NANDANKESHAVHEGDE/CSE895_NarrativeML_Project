@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the car?",
+        "answer": [
+            "[person_1] is red.",
+            "The car is white.",
+            "The keyboard is white.",
+            "Black.",
+            "The [person_1] is on a window sill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] lie?",
+        "answer": [
+            "[person_1] is a kid.",
+            "[person_1] is playing chess with her son.",
+            "[person_1] is horizontal.",
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello.",
+            "[person_1] is swimming."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will show off [person_1]'s headphones.",
+            "[person_1] will put the pottery on the ground.",
+            "[person_1] will go on teaching someone how to play cymbals.",
+            "[person_1] will change another foot of the customer.",
+            "[person_1] will continue to lie on the luge."
+        ],
+        "reason": [
+            "[person_1] is lying on the luge.",
+            "Because [person_1] still walks forward and the introduction regarding the earbuds is not over.",
+            "The towel isn't finished folding and [person_1] is holding the napkin.",
+            "Because [person_1] is the referee.",
+            "Because [person_1] still has a lot of cards in her hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not have a car?",
+        "answer": [
+            "The party would get messed up.",
+            "[person_1] would not go out.",
+            "[person_1] will have eye pain.",
+            "[person_1] might miss a key.",
+            "[person_1] may call a technician for help."
+        ],
+        "reason": [
+            "Playing the accordion is very complicated and requires concentration.",
+            "[person_1] will need to be careful.",
+            "[person_1] can not see where to put the tool.",
+            "[person_1] might go slowly.",
+            "[person_1] doesn't seem to know how to play the keyboard."
+        ]
+    }
+}

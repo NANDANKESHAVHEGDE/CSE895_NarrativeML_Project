@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on a stage.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is in a small library.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is at a grocery store."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is excited about the newspaper.",
+            "[person_1] is feeling happy.",
+            "The man who wears a gray t - shirt wants to move the chair to another place.",
+            "[person_1] is stacking dice.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to get more food for the goats.",
+            "[person_1] is going to step back and observe [person_1].",
+            "[person_1] will continue to turn off the faucet.",
+            "[person_1] will add another liquor.",
+            "[person_1] is going to sell the orange juice."
+        ],
+        "reason": [
+            "[person_1] is wearing a uniform and is squeezing oranges.",
+            "[person_1] put many bottle on [person_1] , which indicates that she wants to show how she opens different kind of bottles.",
+            "[person_1] holding a water bottle.",
+            "She is looking forward to playing.",
+            "[person_1] is still happy when constantly giving a soft caress to the kangaroo."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "[person_1] will be shy for a long time.",
+            "[person_1] will serve orange juice.",
+            "[person_1] will be happier.",
+            "[person_1] will serve orange.",
+            "[person_1] and [person_1] will have a lot of grape juice."
+        ],
+        "reason": [
+            "The stage would be very dark.",
+            "It's the result of [person_1]'s practice.",
+            "That's what the customer not ordered.",
+            "Because the machine can only be opened by pulling the handle upwards , if the handle is broken , the inside of the machine cannot be opened.",
+            "That's what the customer ordered."
+        ]
+    }
+}

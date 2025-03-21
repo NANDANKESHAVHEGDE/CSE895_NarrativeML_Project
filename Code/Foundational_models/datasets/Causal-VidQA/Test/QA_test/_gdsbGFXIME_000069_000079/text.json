@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear red?",
+        "answer": [
+            "The [person_1] is behind [person_1].",
+            "[person_1] is wearing polo shirt.",
+            "No.",
+            "[person_1] is wearing a ring.",
+            "[person_1] is wearing winter clothes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear glasses?",
+        "answer": [
+            "[person_1] likes that.",
+            "Because no one turns [person_1] on.",
+            "They just have free time and want to eat marshmallows.",
+            "[person_1] is practicing stacking dices",
+            "[person_1] can see things more clearly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after talking?",
+        "answer": [
+            "[person_1] will give the patient the tool.",
+            "[person_1] will stop skating.",
+            "[person_1] will touch the bricks.",
+            "[person_1] will use the inhaler slowly.",
+            "[person_1] will begin to play these cups."
+        ],
+        "reason": [
+            "Because she needs to grab the rock above to let her go up.",
+            "[person_1] has shown the way to use it and [person_1] wants to try.",
+            "The bradawl is being approached the gong.",
+            "[person_1] and [person_1] wants to have fun.",
+            "It appears that [person_1] concentrates on the painting and uses the bottles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a big dog runs into the room?",
+        "answer": [
+            "[person_1] might not practice tai chi.",
+            "[person_1] will gently touch it.",
+            "[person_1] will fix the pole lower.",
+            "It will affect [person_1] driving and may cause danger.",
+            "The bucket may not be spilled out."
+        ],
+        "reason": [
+            "[person_1] is the babysitter of [person_1] and [person_1] would like to make [person_1] happy.",
+            "[person_1] and [person_1] are brothers and they are at home.",
+            "[person_1] loves dogs.",
+            "The children always love animals and wanna touch them.",
+            "To fix the curtains first."
+        ]
+    }
+}

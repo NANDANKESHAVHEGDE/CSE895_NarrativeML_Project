@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "[couch_1] is on the sidewalk to [person_1]'s right.",
+            "The [couch_1] is next to [person_1].",
+            "The [couch_1] is to the right of the [person_1].",
+            "The [couch_1] is behind the [person_1].",
+            "[person_1] is directly in front of [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] laugh?",
+        "answer": [
+            "Because [person_1] is too short.",
+            "[person_1] is playing a bass guitar solo.",
+            "Because the [person_1] put his hand inside the [person_1].",
+            "The [person_1] wears glasses to see small bass buttons easier.",
+            "The [person_1] laughs because the cameraman makes fun of him."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to squeeze more oranges.",
+            "[person_1] is going to put the dressing on the cake.",
+            "[person_1] is going to put down the weights.",
+            "[person_1] is going to pick up the ball.",
+            "[person_1] will pick up the torn piece of paper."
+        ],
+        "reason": [
+            "[person_1] looks on the floor , outstretches his hand , grabs the paper.",
+            "[person_1] is going to step out of the line.",
+            "[person_1] knows that once the gas in the [person_1] is empty then it will be save for her . And that process needn't much time.",
+            "[person_1] is instructing for [person_1].",
+            "The hammer and chisels are on [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] picks the paper up again?",
+        "answer": [
+            "The television can be turned off.",
+            "[person_1] would have to go back to get the glasses.",
+            "The cameraman will grab it again.",
+            "[person_1] will change another cloth.",
+            "Then the eyebrows will be dyed also."
+        ],
+        "reason": [
+            "To wash [person_1]'s eyes.",
+            "Because [person_1] doesn't know what's going on.",
+            "The cameraman fears that the [person_1] will put the paper into his mouth.",
+            "Because the helmet is the key to the driver's safety.",
+            "[person_1] is on bed."
+        ]
+    }
+}

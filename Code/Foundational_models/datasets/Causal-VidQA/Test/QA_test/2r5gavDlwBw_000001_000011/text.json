@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is behind the [person_1].",
+            "[chair_1] is beside [person_1].",
+            "[chair_1] is next to [person_1].",
+            "[chair_1] is on the stage.",
+            "It is \u00a0 in the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play the keyboard so well?",
+        "answer": [
+            "Because pressing a button and a key at the same time can create unique rhythm.",
+            "[person_1] is training her skills of spinning poi.",
+            "[person_1] is working out at the gym.",
+            "Because [person_1] has practiced playing the piano before.",
+            "[person_1] is skillful."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] won't sit in [person_1] and still stands.",
+            "[person_1] is going to eat all the cakes on the [person_1].",
+            "Maybe [person_1] will sing.",
+            "Maybe [person_1] is going to stop to eat.",
+            "[person_1] is going to yell at [person_1]."
+        ],
+        "reason": [
+            "[person_1] eats too much.",
+            "[person_1] reaches out and pulls the plate on the table in front of him to take the food and pushes the plate aside.",
+            "[person_1] uses her hands to squeeze and pulls the sausage slowly and gently.",
+            "There is a microphone in front of him.",
+            "[person_1] holds the beer and holds out his hand to his friend."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] misses the beat?",
+        "answer": [
+            "Perhaps [person_1] will not replay the song.",
+            "[person_1] will be so tired.",
+            "Perhaps [person_1] will replay the song.",
+            "The song would miss the bass layer.",
+            "Perhaps [person_1] will stop playing the song."
+        ],
+        "reason": [
+            "[person_1] is practicing.",
+            "The power will be off.",
+            "[person_1] is enough.",
+            "Without glasses , there are no tools to help correct vision.",
+            "[person_1] is happy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cup_1]?",
+        "answer": [
+            "[person_1] is holding a guitar.",
+            "The [person_1] is black.",
+            "The chair to [person_1]'s left is blue.",
+            "The [cup_1] is next to [person_1].",
+            "[person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is moving through the crowd by roller skates.",
+            "[person_1] is doing his work.",
+            "[person_1] is whistling.",
+            "[person_1] is trying to raise his eyebrows.",
+            "[person_1] is raising her eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to spray white color from the faucet.",
+            "[person_1] is going to skate.",
+            "[person_1] is going to step forward.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "[person_1] is in the beach.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is huddling with the team.",
+            "Something is making [person_1] happy.",
+            "[person_1] is painting the wall."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is weary?",
+        "answer": [
+            "Maybe [person_1] will want to be a flautist.",
+            "[person_1] won't be able to continue practicing.",
+            "Maybe [person_1] will stop spreading the liquid temporarily.",
+            "Maybe [person_1] will go to the [person_1].",
+            "Maybe [person_1] will stop spending time playing baseball."
+        ],
+        "reason": [
+            "[person_1] will feel difficult to play harp.",
+            "because [person_1] can't treat her injury by herself.",
+            "Because [person_1] looks like an engineer and [person_1] only does his job after [person_1] talks and shows some gestures.",
+            "[person_1] need to take food.",
+            "[person_1] will need to take a rest."
+        ]
+    }
+}

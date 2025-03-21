@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting and reading the book on the [bed_1].",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is holding the maracas.",
+            "[person_1] is teaching [person_1] how to throw the ball to the basket.",
+            "[person_1] is sitting on a chair near the [bed_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does not [person_1] sit on the [bed_1]?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] may prefer sitting on the [chair_1] than on the [bed_1].",
+            "[person_1] is playing lute for everyone.",
+            "[person_1] is playing guitar.",
+            "[person_1] sits on a chair to play the drums better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue sitting on [chair_1] and read the book which [person_1] is holding.",
+            "[person_1] is going to level the concrete into the pipes.",
+            "[person_1] will continue kite surfing.",
+            "[person_1] may give the drink to the customer.",
+            "[person_1] may stand up and change the chair."
+        ],
+        "reason": [
+            "[person_1] is holding a book and has not finished reading it.",
+            "[person_1] is lifting light weights.",
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] shaved off the bottom part of his beard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls to the ground?",
+        "answer": [
+            "[person_1] will go get it.",
+            "It will be easily ripped or crinkled during the gift wrapping process.",
+            "The audience will clap.",
+            "[person_1] would try other way.",
+            "[person_1] may cry."
+        ],
+        "reason": [
+            "[person_1] is still a little child and may cry when falling to the ground.",
+            "Because the [person_1] is made from glass so it may break when fall to the floor.",
+            "[person_1] plays ball mainly depends on his balance ability.",
+            "Because if [person_1] does not clean up debris , those who steps on it will get hurt.",
+            "Because the blades in the meat grinder are very sharp."
+        ]
+    }
+}

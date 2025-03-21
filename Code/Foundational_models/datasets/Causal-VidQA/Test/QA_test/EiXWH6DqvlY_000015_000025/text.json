@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing ?",
+        "answer": [
+            "[person_1] is standing on a garden.",
+            "[person_1] is outside standing on the sidewalk.",
+            "[person_1] is standing in a parking lot.",
+            "[person_1] is standing on a footbridge.",
+            "[person_1] is standing next to a wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a [suitcase_1] in front of [person_1]?",
+        "answer": [
+            "[person_1] raises the feet to jump with both hands.",
+            "[person_1] strikes the two cocos against each other violently.",
+            "[person_1] is trying to make money from playing bagpipe.",
+            "[person_1] is splashing water at [suitcase_1].",
+            "[person_1] and [person_1] make bubbles with their mouth."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is about to open the [person_1].",
+            "[person_1] is about to scan the card.",
+            "[person_1] is about to receive money from passersby.",
+            "[person_1] is about to raise the dumbbells up.",
+            "[person_1] is about to put [person_1] into the pot."
+        ],
+        "reason": [
+            "[person_1] close his leg and put the dumbbells above his shoulder.",
+            "[person_1] placing [suitcase_1] in front of him playing bagpipe to take donation of listeners.",
+            "[person_1] wants to talk with the other people.",
+            "[person_1] is going to unlock the lock because [person_1] is inserting the iron rod into the lock.",
+            "[person_1] lowers the body of [person_1] and directs the stone to the wall."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not put any thing in front of him to receive money?",
+        "answer": [
+            "[person_1] would be have leg pain.",
+            "[person_1] may raise the bottle in his right hand.",
+            "[person_1] might leave the place.",
+            "The life of the deck will not be long.",
+            "[person_1] would not be able to collect money."
+        ],
+        "reason": [
+            "[person_1]'s husband disturbs her.",
+            "People would have nothing to throw money in.",
+            "The paper may also carry the smaller piece of paper out.",
+            "Sugar is sweet.",
+            "[person_1] would not be able to throw anything and thus got bored."
+        ]
+    }
+}

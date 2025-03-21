@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is in front of table which is blue.",
+            "It is \u00a0 behind and on the right of [car_1].",
+            "[car_1] is in a garage.",
+            "[car_1] is to [car_1] right.",
+            "It is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on hand?",
+        "answer": [
+            "[person_1] is doing weightlifting.",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "[person_1] wants to stretch the muscles of her body.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may throw the peel into trash can.",
+            "[person_1] may keep trying to stand on the hand.",
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] may turn off the fire.",
+            "[person_1] may swim in the pool."
+        ],
+        "reason": [
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "Maybe [person_1] set has not reached.",
+            "[person_1] is picking up the [person_1] and using a spoon to mix the ingredients.",
+            "Because [person_1] is playing the ball and throwing it is his way to play it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happens if [person_1] trains regularly?",
+        "answer": [
+            "It is probable that [person_1] will have a strong body.",
+            "Then the boat may continue to drift forward.",
+            "The mirror would break.",
+            "It should be passed to the back.",
+            "The eyebrows will become unnatural."
+        ],
+        "reason": [
+            "[person_1] will get used to the spinning motion.",
+            "[person_1] and [person_1] don't want to get.",
+            "It should be recycled.",
+            "[person_1] will succeed if he practice hard.",
+            "Standing on hand is very beneficial for health."
+        ]
+    }
+}

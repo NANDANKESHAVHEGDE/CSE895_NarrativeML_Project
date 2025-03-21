@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] running alone?",
+        "answer": [
+            "The [person_1] is behind [person_1].",
+            "It is on the ground and next to [person_1] right foot.",
+            "No.",
+            "[person_1] is on [person_1].",
+            "[person_1] is in a kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_1] run alone?",
+        "answer": [
+            "[person_1] is avoiding falling.",
+            "Because [person_2] lost the game.",
+            "This will improve the relationship with [person_1].",
+            "It's funny to run together with [person_2].",
+            "They may want to decide who is eating."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running?",
+        "answer": [
+            "[person_1] will play with the dog.",
+            "[person_1] will go out of the room.",
+            "[person_1] will pick up the small ball.",
+            "[person_1] will get off the horse quickly.",
+            "[person_1] and [person_1] are going to have a drink."
+        ],
+        "reason": [
+            "[person_1] feels it boring.",
+            "[person_1] need to have a rest.",
+            "[person_1] needs to rest.",
+            "[person_1] will hit his left hand down and then his right hand down because his left hand goes down first.",
+            "He turn his direction in an strange angle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's 12 o'clock at noon?",
+        "answer": [
+            "[person_1] might be able to sit on it.",
+            "[person_1] may go and place it close to him.",
+            "Everyone will run away immediately.",
+            "The person will be upside down again.",
+            "[person_1] will go for lunch."
+        ],
+        "reason": [
+            "If it was too far , [person_2] will have to stand up and go back and forth to get the glue , which is inconvenient for him.",
+            "[person_2] and [person_2] are performing on stage now . If one of them makes a mistake , the performance will be incomplete.",
+            "Because the fire is dangerous.",
+            "[person_2] feels amazing.",
+            "12 at noon is time for lunch."
+        ]
+    }
+}

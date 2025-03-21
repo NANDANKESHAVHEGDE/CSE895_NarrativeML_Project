@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the street?",
+        "answer": [
+            "It is small.",
+            "It is large.",
+            "It is quite small.",
+            "The room is very bright.",
+            "It is clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why can [person_1] ride unicycle?",
+        "answer": [
+            "[person_1] would like to show his enjoyment.",
+            "[person_1] practices many times.",
+            "Because it is smoother.",
+            "[person_1] is playing music with the bass guitar.",
+            "Make a snowball first."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to come back home.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to put the donut in his mouth.",
+            "[person_1] may tickle [person_1] again."
+        ],
+        "reason": [
+            "He seems like this kind of jump.",
+            "[person_1] has just been covered by a little whipped cream.",
+            "[person_1] , [person_1] , [person_1] and [person_1] jumped up and shook their hips together.",
+            "It is very sunny.",
+            "[person_1] picks up plaster on the hawk board to plaster the wall."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were younger?",
+        "answer": [
+            "[person_1] can not play it.",
+            "[person_1] could ride slow.",
+            "[person_1] might be ridiculed by the audience for being unprofessional.",
+            "[person_1] could ride fast.",
+            "[person_1] may have a toothache."
+        ],
+        "reason": [
+            "Young people is not stronger.",
+            "[person_1] might feel shy.",
+            "Young people is stronger.",
+            "Because the slurry primer wouldn't be pushed into the gaps.",
+            "Young people is weaker."
+        ]
+    }
+}

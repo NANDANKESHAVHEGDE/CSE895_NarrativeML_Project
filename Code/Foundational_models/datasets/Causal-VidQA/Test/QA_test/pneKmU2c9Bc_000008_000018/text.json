@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bench_1]?",
+        "answer": [
+            "[bench_1] is next to [person_1].",
+            "[bench_1] is behind [person_1].",
+            "The [bench_1] is next to the [bench_1].",
+            "[bench_1] is next to [person_1].",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the dumbbell?",
+        "answer": [
+            "They practice a lot.",
+            "[person_1] is working out.",
+            "Because [person_1] lost the game.",
+            "Because it's dark inside.",
+            "This will improve the relationship with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to raise the dumbbell",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] is going to sit down.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] is going to run through the golf courses and back to the batter box\u2019s."
+        ],
+        "reason": [
+            "[person_1] finds hopscotch interesting.",
+            "It is very sunny to play.",
+            "[person_1] is standing in the class.",
+            "[person_1] is upset.",
+            "[person_1] raised the dumbbell and moved forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the dumbbell were too heavy?",
+        "answer": [
+            "They might be scolded by their parents.",
+            "[person_1] will try her best to clean it and takes a lot of time.",
+            "[person_1] would not able to left his spot on the stage.",
+            "The fingers of [person_1] may be injured and bleed.",
+            "Maybe [person_1] wouldn't raise the dumbbell."
+        ],
+        "reason": [
+            "[person_1] needs to walk to go somewhere else because he had not other transportations.",
+            "The more up and down [person_1] and [person_1] move , the better a workout [person_1] and [person_1] will get . And the more [person_1] and [person_1] will feel the burn and the sense of accomplishment.",
+            "Because there won't be enough space to do the challenge.",
+            "Watcher could see [person_1]'s both hands.",
+            "[person_1] is not strong enough to raise."
+        ]
+    }
+}

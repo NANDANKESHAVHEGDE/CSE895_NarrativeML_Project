@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is beside the grass.",
+            "[person_1] is in the room.",
+            "[person_1] is standing under a tree.",
+            "[person_1] is on the balcony."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] using two hands to hold the flute?",
+        "answer": [
+            "Because [person_1] is making breath to play the flute.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] is weaving fabric.",
+            "Because when playing the flute , you need to put your fingers in the correct position of the flute.",
+            "To make the snowman more beautiful."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop playing the flute.",
+            "[person_1] is going to change a new candle.",
+            "[person_1] may put down the salt.",
+            "[person_1] will clean all the wall.",
+            "[person_1] is going to turn left."
+        ],
+        "reason": [
+            "The cat is sitting next to [person_1].",
+            "[person_1] is holding the bottle.",
+            "Maybe [person_1] was feeling dizzy.",
+            "[person_1] took the flute and was about to go.",
+            "Maybe [person_1] will clap his hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room had a power outage?",
+        "answer": [
+            "Maybe [person_1] is going in to play.",
+            "The room will become dark and [person_1] and [person_1] can not play in the dark.",
+            "Maybe [person_1] is not going out to play.",
+            "[person_1] with the yellow t - shirt might be bumped into by other person.",
+            "Maybe [person_1] is going out to play."
+        ],
+        "reason": [
+            "The room has too much light.",
+            "Because a hard box needs a harder stick to break.",
+            "The room has no light.",
+            "Because the falling tiles line would be interrupted.",
+            "The room is bright."
+        ]
+    }
+}

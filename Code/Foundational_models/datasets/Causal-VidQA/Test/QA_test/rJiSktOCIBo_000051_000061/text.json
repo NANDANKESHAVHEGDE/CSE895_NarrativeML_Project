@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_4]?",
+        "answer": [
+            "It is black.",
+            "[person_4] is lying on a bed.",
+            "[person_4] is sitting on the snow.",
+            "Yes.",
+            "The mirror is behind [person_4]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep talking?",
+        "answer": [
+            "Because [person_1] is teaching [person_3] how to massage.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] and [person_3] are practicing playing the cello.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] wants to teach this exercise to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to talk about coffee roasting.",
+            "[person_1] is going to drive the truck.",
+            "[person_1] will ask [person_2] to do the massage for [person_4].",
+            "[person_1] will play the flute all the songs.",
+            "Maybe [person_1] is going to start a new performance."
+        ],
+        "reason": [
+            "[person_1] has just taken some selfies with the clarinet.",
+            "Because [person_3] has already finished the training and it is [person_2]'s turn.",
+            "Because [person_1] has already unloaded the small car.",
+            "Because the man tore the paper in front of [person_1].",
+            "[person_1] is holding a guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_4]'s feet twisted?",
+        "answer": [
+            "[person_1] will do massage for [person_4].",
+            "[person_1] would help her.",
+            "The cows would be running.",
+            "[person_1] would get shocked.",
+            "[person_1] wouldn't be invited to the TV show."
+        ],
+        "reason": [
+            "Because [person_1] is professional and [person_1] can relieve [person_4]'s hurt.",
+            "Because the [person_1] wants to have some special experience.",
+            "There would be only [person_1] for [person_1] to play.",
+            "[person_1] could get hurt and that would make [person_1] angry.",
+            "There would be no light for [person_1] to see the drums."
+        ]
+    }
+}

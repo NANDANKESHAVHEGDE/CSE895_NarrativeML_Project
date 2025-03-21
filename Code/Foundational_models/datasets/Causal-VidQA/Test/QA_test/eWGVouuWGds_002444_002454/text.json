@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks young.",
+            "[person_1] looks pretty.",
+            "[person_1] looks like cute.",
+            "[person_1] looks old and thin.",
+            "[person_1] is so cute."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting next to [bed_1]?",
+        "answer": [
+            "[person_1] is looking.",
+            "[person_1] is participating in a roller skating competition.",
+            "[person_1] is feeling shy.",
+            "Because the [bed_1] is the owner of the camels.",
+            "Because [person_1] is doing lunges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep watching.",
+            "[person_1] is going to see the gift.",
+            "She is going to play with her toys.",
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] is going to proceed to spray all the ceiling."
+        ],
+        "reason": [
+            "[person_1] doesn't stop looking at [bed_1].",
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "To change a drill bit.",
+            "[person_1] looks have a lot of energy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [bed_1] weren't there?",
+        "answer": [
+            "[person_1] would buy orange juice instead of making it.",
+            "[person_1] would be there?",
+            "[person_1] would have to stand.",
+            "[person_1] would not be there?",
+            "[person_1]'ll be in a hurry."
+        ],
+        "reason": [
+            "There would be [bed_1] for [person_1] to look.",
+            "There would be only [person_1] there to sit.",
+            "There would not be [bed_1] for [person_1] to look.",
+            "Because [person_1] is silent when he is alone.",
+            "There would not be [bed_1] for [person_1] to sleep."
+        ]
+    }
+}

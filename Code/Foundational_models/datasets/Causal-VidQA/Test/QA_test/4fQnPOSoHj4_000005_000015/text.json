@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the boy sitting on the [chair_1] watching?",
+        "answer": [
+            "[chair_1] is tall and slim.",
+            "The boy is watching the pen tapping tutorial.",
+            "[chair_1] is tall and thin.",
+            "[chair_1] is putting down a cell phone.",
+            "[chair_1] looks quite old."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the boy sitting on the chair turn his head?",
+        "answer": [
+            "Because he wants to watch [person_2] tap [person_2]'s pen on the table.",
+            "Because [person_2] likes the sound of maracas.",
+            "When [person_2] stack the dice , the dice are first picked up by the cup.",
+            "Because [person_2] teaches how to shoot marbles.",
+            "[person_2] sets fence to separate his house from outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will keep slamming [person_2]'s hand on the table and then knocking [person_2]'s pen down.",
+            "[person_2] may also want to try to bend the iron rod with the neck.",
+            "[person_2] will definitely throw again.",
+            "[person_2] will introduce more about what he did.",
+            "[person_2] will keep tapping the pen on the table."
+        ],
+        "reason": [
+            "[person_2] is sitting on the [person_2].",
+            "[person_2] is performing in public.",
+            "[person_2] opened up the bin.",
+            "Because [person_2] has been tapping continuously and [person_2]'s hand still shows signs of movement.",
+            "[person_2] is learning sign language."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] sat on [chair_1]?",
+        "answer": [
+            "[person_2] would make a mess all over [person_2] and would start trying to clean it up quickly before it got on the floor.",
+            "[person_2] may bump into [chair_1].",
+            "The goal keeper who is a teammate of [person_2] would try to touch the ball.",
+            "It would be harder for [person_2] to tap his pen on the table.",
+            "[person_2] should sit on [chair_1]."
+        ],
+        "reason": [
+            "Because park is very big so it can stay lots of people.",
+            "Because [chair_1] is higher than the table top.",
+            "Because it's [person_2]'s birthday.",
+            "[person_2] will help [chair_1].",
+            "To check what's wrong with it."
+        ]
+    }
+}

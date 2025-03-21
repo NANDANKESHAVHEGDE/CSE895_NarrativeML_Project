@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[person_2] is next to [person_2].",
+            "[chair_1] is sitting on [chair_1].",
+            "The [chair_1] is next to the [person_2].",
+            "[chair_1] is in a roller skating floor.",
+            "The [chair_1] is on the left of the [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] do the exercises?",
+        "answer": [
+            "The [person_1] is taking the dog out.",
+            "Because [person_1] and [person_1] are opening [person_1] together.",
+            "Perhaps [person_1] wants to be stronger.",
+            "Because [person_1] is spraying paint.",
+            "Because [person_1] is spraying paint the door."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will take out the tiles to fix the floor.",
+            "[person_1] may clean the boot one more time.",
+            "[person_1] may drive by the side of the road.",
+            "[person_1] is going to keep jumping by her left foot.",
+            "[person_1] is going to stop doing gym."
+        ],
+        "reason": [
+            "There is only one square on the course to put one foot in.",
+            "The dish has been done and plated well.",
+            "When [person_1] lies back down , [person_1] raises her hands and prepares to tickle.",
+            "The [person_1] pulls up for a while and gets tired.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will stop the practice.",
+            "Maybe [person_1] will get up and skate again.",
+            "Maybe [person_1] will be shy.",
+            "[person_1] will get wet.",
+            "[person_2] will come and help the [person_1]."
+        ],
+        "reason": [
+            "The [person_2] is standing near the [person_1].",
+            "[person_1] is performing in the middle of the stage.",
+            "[person_1] won't have a good performance.",
+            "[person_1] is a baby.",
+            "[person_1] laughed and leaned back."
+        ]
+    }
+}

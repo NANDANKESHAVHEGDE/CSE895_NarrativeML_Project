@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] placed?",
+        "answer": [
+            "[person_1] is looking at [book_1].",
+            "[book_1] is placed on the white bookshelf hung on the wall behind [person_1].",
+            "[person_1] is in front of [person_1].",
+            "[person_1] is holding a drill machine.",
+            "[book_1] is parking in front of the house?"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding an electric bass guitar?",
+        "answer": [
+            "Maybe [person_1] is in a competition.",
+            "[person_1] is playing electric bass guitar.",
+            "Perhaps [person_1] is doing it for fun.",
+            "[person_1] is watching [person_1] and [person_1] playing badminton.",
+            "[person_1] goes out."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may play bass guitar on different volume and tone.",
+            "[person_1] is going to squeeze more oranges.",
+            "[person_1] is going to rest for a while.",
+            "[person_1] is going to put the dressing on the cake.",
+            "[person_1] may take a photo of [person_1]."
+        ],
+        "reason": [
+            "Many people , who may be students in the tai chi class , are sitting on the floor , watching [person_1] and waiting for their turns.",
+            "[person_1] has finished the song.",
+            "[person_1] shaved off the bottom part of his beard.",
+            "[person_1] just adjusts the volume and tone knobs on the bass guitar.",
+            "[person_1] is putting hand on the corner of the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cannot hold the bass guitar with the left hand?",
+        "answer": [
+            "The position of the electric bass guitar will not be balanced.",
+            "The goat may run away from [person_1].",
+            "The [person_1] may shout for help.",
+            "The other two will continue to record videos.",
+            "[person_1]'s leg will break."
+        ],
+        "reason": [
+            "They are fighting swords alternately to find the winner.",
+            "There are a lot of knives on the [person_1].",
+            "[person_1] will jump right after that.",
+            "They think it is interesting.",
+            "Left hand of [person_1] needs to hold the fretboard of the bass guitar."
+        ]
+    }
+}

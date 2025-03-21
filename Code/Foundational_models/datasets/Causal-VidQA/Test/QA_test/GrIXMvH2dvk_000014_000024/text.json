@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the floor?",
+        "answer": [
+            "The sofa is black.",
+            "[person_1] is on the sand.",
+            "The window is near [person_1].",
+            "The bicycle machine is on the floor.",
+            "[person_1] is throwing the discus towards [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pointing her leg?",
+        "answer": [
+            "Because [person_1] is painting picture.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is talking about an exercise.",
+            "[person_1] is learning to play chess.",
+            "[person_1] is guiding the lunge."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will sit down while his hands are putting on the [person_1].",
+            "[person_1] will wash his hands.",
+            "[person_1] will go home.",
+            "Maybe [person_1] will practice cycling on the machine.",
+            "Maybe [person_1] will sit down and study ."
+        ],
+        "reason": [
+            "[person_1] is lifting his left leg up.",
+            "[person_1] is putting his hand out.",
+            "[person_1] is too young to finish it alone.",
+            "[person_1] doesn't look tired.",
+            "[person_1] is training near the bicycle machine."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] finishes her lunges?",
+        "answer": [
+            "[person_1] will instruct other exercises.",
+            "Teammates will not get the ball to score.",
+            "[person_1] won't instruct other exercises.",
+            "[person_1] may fail.",
+            "[person_1] will instruct all exercises."
+        ],
+        "reason": [
+            "A training session will have many same exercises.",
+            "Since the hammer is very heavy and thick , anyone got hit by that would receive grievous injuries.",
+            "A training session will have no different exercises.",
+            "[person_1]'s hand could be injured because the baseball bat could hit [person_1]'s hand.",
+            "A training session will have many different exercises."
+        ]
+    }
+}

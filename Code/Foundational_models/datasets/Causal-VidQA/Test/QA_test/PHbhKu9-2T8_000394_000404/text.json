@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [dining table_1]?",
+        "answer": [
+            "[dining table_1] is near [dining table_1] on [dining table_1].",
+            "The [dining table_1] is behind the [dining table_1].",
+            "[dining table_1] is orange.",
+            "The [dining table_1] is on the grass.",
+            "[dining table_1] and [dining table_1] are behind [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] jump in a chair and the [dining table_1]?",
+        "answer": [
+            "[person_1] does parkour by jumping over a chair and the [dining table_1].",
+            "cleaning the shoe with shoe polish is cleaner than cleaning with hands.",
+            "It makes [person_1] sad.",
+            "Because it is convenient to open and close the door of the [dining table_1].",
+            "[person_1] and [dining table_1] are whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to need a break.",
+            "[person_1] is going to follow the camera.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to do parkour from the position he lands after the first parkour.",
+            "[person_1] is going to keep seeing."
+        ],
+        "reason": [
+            "[person_1] bents his knee just now.",
+            "[person_1] is still performing.",
+            "[person_1] is huddling with the team.",
+            "[person_1] wants to try it again.",
+            "[person_1]'s eyes are following it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a cramp while he is doing parkour?",
+        "answer": [
+            "It is possible that [person_1] will get drunk.",
+            "[person_1] may fall.",
+            "[person_1] may stand still.",
+            "[person_1] may fail.",
+            "[person_1] will stop the game and the winner is [person_1]."
+        ],
+        "reason": [
+            "[person_1] needs to recharge the battery of the phone.",
+            "Because [person_1] use strength in his arm to do parkour , if his arm have cramp , he may fall.",
+            "[person_1] might dance without the embarrassment of being watched while dancing.",
+            "Because [person_1] use strength in his legs to do parkour , if his legs have cramp , he may fall.",
+            "[person_1] is a woman."
+        ]
+    }
+}

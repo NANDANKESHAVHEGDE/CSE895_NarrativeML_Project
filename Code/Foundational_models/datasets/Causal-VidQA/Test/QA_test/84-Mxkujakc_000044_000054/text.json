@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a black vest.",
+            "[person_1] is wearing jeans and a black jacket.",
+            "[person_1] is wearing a vest.",
+            "[person_1] is wearing a beanie.",
+            "[person_1] is wearing a dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the chair?",
+        "answer": [
+            "Because [person_1] is not tall enough.",
+            "[person_1] repairs the shoes.",
+            "[person_2] is stretching her arms.",
+            "[person_1] wants to be high to throw the ball into [person_2].",
+            "May be [person_2] is a teacher and [person_2] is teaching [person_1] how to play the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to use gestures to let the people next to him understand.",
+            "[person_1] will keep this gesture for a while and then change to another.",
+            "[person_1] will probably continue practice.",
+            "[person_1] will celebrate.",
+            "[person_1] will go home."
+        ],
+        "reason": [
+            "Because [person_1] has a sense of saving money.",
+            "[person_1] is telling us about the composition of bicycle wheels.",
+            "Because [person_1] is focus on shaping it.",
+            "Because the new tire is used to fix the car.",
+            "[person_1] is learning how to play the cello."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [chair_1] breaks?",
+        "answer": [
+            "[chair_1] would try other way.",
+            "[person_2] may fall.",
+            "[chair_1] may continue to read.",
+            "[person_2] would put the fire on his hand out by sticking his whole hand into the bucket.",
+            "[person_2] will find a wall to lean against."
+        ],
+        "reason": [
+            "To find the golf club.",
+            "He doesn't want to appear on the public.",
+            "Because alcohol can't make people's brain awake.",
+            "[person_2] sits on [chair_1].",
+            "It is convenient for the next time."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is placed beside the yellow sofa?",
+        "answer": [
+            "It is on the roadside.",
+            "It is on the shelf.",
+            "It is on the table.",
+            "[person_1] is on the table.",
+            "There is a computer hardware CPU."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] hold the accordion toy?",
+        "answer": [
+            "Maybe the harmonica is a toy of [person_1].",
+            "[person_1] holds the accordion toy with both her hand.",
+            "Maybe [person_1] likes the sound it makes.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "Because [person_1] likes the sound of ripping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play with the toy.",
+            "[person_1] will come closer.",
+            "[person_1] is going to continue practicing.",
+            "[person_1] is going to change a new candle.",
+            "[person_1] is going to turn left."
+        ],
+        "reason": [
+            "[person_1] is standing and waiting.",
+            "The performance has not finished yet.",
+            "Frisbee is flying to him",
+            "[person_1] looks so excited with the accordion toy.",
+            "The result is not perfect."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't like the accordion toy anymore?",
+        "answer": [
+            "[person_1] will recommend the hand cream to [person_1].",
+            "[person_1] will place it in the chair or floor.",
+            "[person_1] will stop running.",
+            "[person_1] would look for a tool to open it.",
+            "[person_1] will not be seriously hurt."
+        ],
+        "reason": [
+            "[person_1] is a toddler , so she will put the toy aside when she doesn't like it anymore.",
+            "The screen is a flat panel on which images and data are displayed.",
+            "[person_1] is also dancing with the music and he will leave the playground when he's done.",
+            "[person_1] is holding the target pad.",
+            "They will stop to clean it."
+        ]
+    }
+}

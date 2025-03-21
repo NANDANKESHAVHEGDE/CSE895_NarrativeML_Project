@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in this video?",
+        "answer": [
+            "There are 5 people.",
+            "There are six people.",
+            "There are eight people.",
+            "There are 4 people.",
+            "There are seven people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] , [person_3] and [person_4] standing in front of the tomb?",
+        "answer": [
+            "[person_1] , [person_2] , [person_3] , and [person_4] are practicing together as a band.",
+            "Perhaps [person_1] , [person_2] , [person_3] and [person_4] are saluting and expressing their gratitude.",
+            "[person_1] , [person_2] , [person_3] , [person_4] are opening Christmas presents.",
+            "[person_1] , [person_2] and [person_3] are a band and [person_1] , [person_2] and [person_3] are playing music.",
+            "Because [person_2] is [person_1] in the mirror."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep put the piece of plastic in his mouth.",
+            "[person_2] is going to push [person_2] into his chair.",
+            "[person_2] may walk toward [person_2].",
+            "[person_2] is going to go back and line up with others.",
+            "[person_2] is going to to take [person_2] to the pile of flooring tiles."
+        ],
+        "reason": [
+            "[person_2] is waving his hands.",
+            "[person_2] wants the fish come to the surface.",
+            "[person_1] has not finished cutting the nails.",
+            "To make the women lying on the bed more comfortable.",
+            "[person_1] , [person_3] and [person_4] stood a straight in a line."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] may keep practicing.",
+            "[person_1] , [person_2] , [person_3] and [person_4] will get in the car.",
+            "[person_1] will not stop jumping high.",
+            "[person_1] may not keep running.",
+            "[person_1] will stop playing lute."
+        ],
+        "reason": [
+            "[person_1] , [person_2] , [person_3] and [person_4] get in the car to avoid getting wet.",
+            "The [person_2] is outside the house.",
+            "[person_1] will go home.",
+            "[person_1] will go to another place.",
+            "Many people will get wet."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a white shirt.",
+            "[person_1] is in a sitting position.",
+            "[person_1] is wearing an orange shirt.",
+            "It is being sat by [person_1].",
+            "[person_1] is in a hospital bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shaking the maracas?",
+        "answer": [
+            "To help hold [person_1]'s head.",
+            "[person_1] is showing how to play maracas.",
+            "He is taking photos.",
+            "[person_1] is curious about the maracas.",
+            "[person_1] is performing outdoor on the street."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next after the preparation?",
+        "answer": [
+            "[person_1] will join in dancing.",
+            "[person_1] will continue to speak.",
+            "[person_1] may crash into the house.",
+            "[person_1] will continue playing the maracas.",
+            "[person_1] and [person_1] are going to give their ideas after [person_1]."
+        ],
+        "reason": [
+            "[person_1] will watch the recording of himself because he will want to see if he did a good job playing the bagpipes.",
+            "[person_1]'s action is a little violent.",
+            "Because they are currently in the middle of their training with an instructor.",
+            "[person_1] has not finished the performance.",
+            "It can be seen from the video that there are some things on his bed . He should tidy them up after completing his task."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the maracas suddenly dropped?",
+        "answer": [
+            "[person_1] will call a repairman to fix it.",
+            "[person_1] wouldn't be in this competition.",
+            "[person_1] would catch the maracas at once.",
+            "[person_1] may cry.",
+            "[person_1] will not clean it."
+        ],
+        "reason": [
+            "If [person_1] and [person_1] are not allowed to dance here , these people will choose other places.",
+            "The elephant is too huge.",
+            "The micro is very important for [person_1]'s performance.",
+            "[person_1] is concentrating on playing the maracas.",
+            "There are some items on the margin of the table."
+        ]
+    }
+}

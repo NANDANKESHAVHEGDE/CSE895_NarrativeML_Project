@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the yard.",
+            "[person_2] is at the spa.",
+            "[person_2] is in the clinic.",
+            "[person_2] is on a stage.",
+            "[person_2] is in his room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] hold the Popsicle stick?",
+        "answer": [
+            "Because [person_2] wants to make his performance impressive and attractive.",
+            "[person_1] shovels the plaster on the floor and throw it on the wall.",
+            "[person_1] strikes the two cocos against each other violently.",
+            "[person_1] used the Popsicle stick to glide the wax on the [person_2]'s eyebrow.",
+            "Because the [person_1] wants to keep balance while riding an unicycle."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] is going to jump next.",
+            "Maybe [person_1] is going to jump.",
+            "[person_1] will play with the cat.",
+            "[person_1] is going to set the wax for a few seconds.",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "[person_1] feels excited.",
+            "[person_1] put down the weight lifting.",
+            "[person_1] may keep raising eyebrows.",
+            "[person_1] has a camera.",
+            "[person_1] put the Popsicle stick away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] puts wax in the [person_2]'s eyes?",
+        "answer": [
+            "Maybe [person_2] will have eye blind.",
+            "The [person_1] will do shooting the ball through the basket more.",
+            "Maybe [person_2] will have eye pain.",
+            "[person_1] will not drink it out.",
+            "Maybe [person_2] won't have eye pain."
+        ],
+        "reason": [
+            "Because [person_1] stood on the black area , where can jump.",
+            "The wax won't heat up after applying and it is very dangerous if it touches the eyes.",
+            "The dumbbell is heavy and hard.",
+            "The wax will heat up after applying and it is very dangerous if it touches the eyes.",
+            "Because the fire is so hot."
+        ]
+    }
+}

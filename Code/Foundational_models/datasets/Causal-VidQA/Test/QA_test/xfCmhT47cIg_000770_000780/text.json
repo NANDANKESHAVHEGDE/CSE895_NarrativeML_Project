@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the house.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is sitting at the [person_1].",
+            "[person_1] is outside the house.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is seeing a drawing.",
+            "[person_1] is going out with his family.",
+            "[person_1] is seeing [person_1]'s gifts.",
+            "[person_1] is eating.",
+            "[person_1] is playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to draw pictures.",
+            "[person_1] intends to teach [person_1] how to dance.",
+            "[person_1] intend to turn one round.",
+            "[person_1] intends to use a stick to hit someone's leg on the other team.",
+            "[person_1] intends to arrange the chess board."
+        ],
+        "reason": [
+            "[person_1] is holding the chess pieces.",
+            "[person_1] will shake his head.",
+            "[person_1] is pressing on the keyboard.",
+            "[person_1] is touching and moving strings of the harp.",
+            "[person_1] is playing cello very well."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the chess board loses a piece?",
+        "answer": [
+            "[person_1] will won't be able to play.",
+            "The hat on [person_1]'s head will be blown away.",
+            "[person_1] would not use her hands.",
+            "The [person_1] will cry.",
+            "[person_1] would have to use hand or other tools but he will open it anyway."
+        ],
+        "reason": [
+            "There were no one to cheer them up.",
+            "[person_1] will find it.",
+            "Many people will come to see his performance.",
+            "[person_1] is a warm heart.",
+            "[person_1] didn't save the work he had done."
+        ]
+    }
+}

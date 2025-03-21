@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it sunny?",
+        "answer": [
+            "[person_1] is on the chair.",
+            "[person_1] is wearing it in front of her.",
+            "[person_1] is placed next to [person_1].",
+            "Yes , it is.",
+            "It is \u00a0 behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a rope?",
+        "answer": [
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] wants to open the box.",
+            "[person_1] is skipping the rope.",
+            "[person_1] is shaking the dices."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue jump rope.",
+            "[person_1] is going to whistle.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "Take the fruit out of pumpkin and throw it away.",
+            "[person_1] will use the ball to observe his surroundings."
+        ],
+        "reason": [
+            "[person_1] is jumping rope very fast.",
+            "The car [person_1] is waiting for hasn't come yet.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] looks tired and has put the barbell back.",
+            "[person_1] of face is very satisfied."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it were going to rain?",
+        "answer": [
+            "There would be much juice splashed out.",
+            "Maybe she won't eat then.",
+            "The competition might be stopped.",
+            "The remaining cups will be arranged again.",
+            "People will check the problem."
+        ],
+        "reason": [
+            "Everyone is outside.",
+            "The competition is outside.",
+            "The people here will have more fun with more people together.",
+            "To hang on the painting first.",
+            "[person_1] was falling down then."
+        ]
+    }
+}

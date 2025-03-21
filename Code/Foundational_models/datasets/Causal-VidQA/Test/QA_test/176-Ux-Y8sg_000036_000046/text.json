@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_2]?",
+        "answer": [
+            "[person_5] is standing on the grass.",
+            "[person_2] is on the right hand of [person_2].",
+            "[person_2] is wearing a white clothes.",
+            "[person_2] is sitting on lap of [person_5].",
+            "[person_2] is in a hospital bed."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_3] look at [person_4]?",
+        "answer": [
+            "Because [person_4] feels excited.",
+            "Because [person_4] knows the person giving the gift that [person_4] is opening teases him.",
+            "Because [person_3] is watering the plants.",
+            "Because [person_3] wants to hold the breath.",
+            "because [person_3] is seeing [person_4] throwing snowball."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to jump up bar.",
+            "[person_2] is going to spin the hoop around.",
+            "[person_2] is going to exercise the other arm.",
+            "[person_2] is going to flip the bottle.",
+            "[person_2] is going to gnaw the smartphone."
+        ],
+        "reason": [
+            "The [person_2] reaches out to touch his knees to sit up.",
+            "because [person_2] is bending down.",
+            "because [person_2] joins a contest.",
+            "because [person_2] brought the smartphone to her mouth.",
+            "because [person_2] is on the match of football."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_4] hits [person_3]?",
+        "answer": [
+            "[person_3] will go inside.",
+            "[person_3] will cry.",
+            "[person_3] will not go inside.",
+            "[person_3] will find out if it's taken away.",
+            "[person_3] will go outside."
+        ],
+        "reason": [
+            "because [person_3] is too old and can be hurt or scared.",
+            "Each pumpkin has its own use.",
+            "because [person_3] is too young and can be hurt or scared.",
+            "Maybe he had a bleeding leg.",
+            "because [person_3] is too young and cannot be hurt or scared."
+        ]
+    }
+}

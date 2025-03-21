@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "It is a plastic bag.",
+            "It is white.",
+            "[person_1] is using a corkscrew.",
+            "[person_1] is holding a hammer.",
+            "[person_1] uses a goblet to open the bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] use that plastic bag to open the bottle?",
+        "answer": [
+            "With the help of a chair in front of [person_1].",
+            "[person_1] uses several bottles to catch the juice.",
+            "[person_1] wants to keep the kitchen table clean.",
+            "[person_1] uses [person_1] to make roasted marshmallows.",
+            "[person_1] sticks it with the cork and pulls it."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will take advantage of the chair to open.",
+            "[person_1] will continue singing.",
+            "[person_1] will continue to play.",
+            "[person_1] will continue to jump long distances.",
+            "[person_1] will keep crawling."
+        ],
+        "reason": [
+            "[person_1] is playing stacking cups.",
+            "[person_1] is jumping to catch it.",
+            "[person_1] is concentrating on playing.",
+            "[person_1] is not pumping gas into his car.",
+            "[person_1] is getting the bottle through the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the plastic bag was broken?",
+        "answer": [
+            "[person_1] would stop what he was doing.",
+            "The environment here would be terrible.",
+            "[person_1] would get hurt.",
+            "The tool could not open it.",
+            "[person_1] would have to try other ways."
+        ],
+        "reason": [
+            "The machine is to seal the bags if only the bags mouth catch its operation part.",
+            "Because the ball will be outbound.",
+            "[person_1] would fall to the ground.",
+            "[person_1] wants to play with another toy.",
+            "[person_1] couldn't pull the tail of the plastic bag which can help uncorking."
+        ]
+    }
+}

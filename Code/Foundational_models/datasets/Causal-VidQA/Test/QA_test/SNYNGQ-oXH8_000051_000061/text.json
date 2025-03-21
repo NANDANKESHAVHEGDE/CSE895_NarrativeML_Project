@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt that [person_1] is wearing?",
+        "answer": [
+            "[person_1] is wearing a white outfit.",
+            "It was a net and a basketball.",
+            "[person_1] is wearing a black shirt.",
+            "There is a shovel.",
+            "It's a white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is feeding [person_1].",
+            "[person_1] is using the piano.",
+            "[person_1] is doing tai chi in the room with some of his friends.",
+            "The boy couldn't move the guitar out."
+        ]
+    },
+    "predictive": {
+        "question": "What is the relationship among between [person_1] and other people in the room?",
+        "answer": [
+            "The [person_1] will turn on the tap.",
+            "[person_1] will go home.",
+            "The tall man is going to pick up the basketball.",
+            "[person_1] and other people may be members of a tai chi club.",
+            "The [person_1] will practice the skills of riding a scooter."
+        ],
+        "reason": [
+            "[person_1] is a herder , he needs to lead the cows safely to fields they can graze in.",
+            "Because [person_1] has to pressure his opponent when he has advantages.",
+            "They are practicing tai chi together in a room , which may be a dancing room in a sports club.",
+            "Because he has had enough to eat and drink and it's time for bed.",
+            "[person_1] arrives at the end of the lawn , so [person_1] needs to change a direction."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room were closed for repair?",
+        "answer": [
+            "[person_1] may not jump up.",
+            "They might be attracted by [person_1]'s dance.",
+            "[person_1] would go away and find other place to dance.",
+            "[person_1] will stop exercising.",
+            "[person_1] and his friends may do tai chi outside , in a garden or in a park."
+        ],
+        "reason": [
+            "[person_1] is not paying attention to the animal and [person_1] may not avoid its attacks.",
+            "[person_1] would be curious what interrupted him , so he would look behind him to see what caused the noise.",
+            "Because the plant wouldn't get much nutrition to feed on.",
+            "The movements of dancer must be strong and decisive , so [person_1] would be fall if the floor got wet.",
+            "Tai chi may be done outside and a lot of space is needed for all people in the videos."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] a child or an adult?",
+        "answer": [
+            "It is yellow.",
+            "It's cleaner.",
+            "Flowers.",
+            "A child.",
+            "The are in a training room."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] try to mow the lawn?",
+        "answer": [
+            "Because [person_1] is a beginner.",
+            "Maybe [person_1] and [person_1] are performing on the stage.",
+            "Because [person_1] is using the rule to stack.",
+            "With the help of the toy machine.",
+            "[person_1] is testing [person_1]'s helmet."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after failing to mow the lawn?",
+        "answer": [
+            "[person_1] will stop try to mow the lawn.",
+            "It will be eaten.",
+            "He might be the coach.",
+            "The woman wearing a white hat is going to mark the score of [person_1] on the sand.",
+            "[person_1] will feel a lot of fatigue in his shoulders and thighs."
+        ],
+        "reason": [
+            "[person_1] finds that his machine can't mow the lawn actually.",
+            "It is rather dark to wear sunglasses indoor , so [person_1] can't see clearly now.",
+            "Climbing is excited for [person_1].",
+            "The curtains were blown up by the wind , it seems to rain.",
+            "[person_1] starts talking to the person recording after she finishes sucking her ice pop."
+        ]
+    },
+    "counterfactual": {
+        "question": "If [person_1] mow with a true machine , what will happen?",
+        "answer": [
+            "The machine won't hurt [person_1].",
+            "The panels will collapse if they are not secured.",
+            "The machine may keep [person_1] safe.",
+            "[person_1] had to cease to play drums.",
+            "The machine may hurt [person_1]."
+        ],
+        "reason": [
+            "Because there is no alcohol in fruit juice.",
+            "The machine is somehow dangerous for a child like [person_1].",
+            "[person_1] must observe before turning.",
+            "The machine is somehow safe for a child like [person_1].",
+            "To continue to wash clothes."
+        ]
+    }
+}

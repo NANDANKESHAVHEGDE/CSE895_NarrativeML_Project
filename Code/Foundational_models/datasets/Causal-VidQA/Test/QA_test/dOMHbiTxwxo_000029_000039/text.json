@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is in a restaurant.",
+            "[person_1] is on the right side [person_1].",
+            "The [person_1] is sitting on the legs of the [person_1].",
+            "The [person_1] is in front of the [person_1].",
+            "The [person_1] is sitting outside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] put on a beanie?",
+        "answer": [
+            "By massaging [person_1]'s neck.",
+            "Because it's cold.",
+            "It's a habit.",
+            "[person_1] is trying to get the dices into the cup.",
+            "[person_1] is filming and reading newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may wait for the bus.",
+            "The [person_1] may still pull the bellows of mini accordion.",
+            "The [person_1] may jump off the tightrope.",
+            "The [person_1] may keep wiping the feet of the [person_1].",
+            "The [person_1] may see the throwing result."
+        ],
+        "reason": [
+            "The [person_1] stands behind the [person_1] and waits for his turn.",
+            "The [person_1] spends time on playing accordion when sitting here.",
+            "The [person_1] is holding the bowl and there is much foam on the surface of the bowl.",
+            "The [person_1] has just thrown the snow to the ground and the [person_1] is bowing.",
+            "The [person_1] is still saying and there is a weather map behind the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] does not go home early?",
+        "answer": [
+            "The [person_1] will feel warm.",
+            "Maybe [person_1] can not read book.",
+            "The [person_1] will feel happy.",
+            "Maybe [person_1] and [person_1] will look at [person_1].",
+            "The [person_1] will feel cold."
+        ],
+        "reason": [
+            "The [person_1] is now sitting on sidewalk when it is so cold.",
+            "Because when [person_1] and [person_1] are talking with each other , that [person_1] yawns makes [person_1] and [person_1] lean back.",
+            "The [person_1] is now standing on sidewalk when it is so cold.",
+            "[person_1] is standing quite far away from the ball.",
+            "The [person_1] is now sitting on sidewalk when it isn't so cold."
+        ]
+    }
+}

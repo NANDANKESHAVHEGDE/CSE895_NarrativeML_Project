@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does the hair of [person_1] looks like?",
+        "answer": [
+            "It's a white plaid shirt.",
+            "It looks like a hand.",
+            "It's short curly hair.",
+            "White.",
+            "The white bucket is placed on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] remove the film from the bottle?",
+        "answer": [
+            "Because [person_1] wants to prove he has cracked the cap.",
+            "The membrane will prevent her from opening the bottle.",
+            "[person_1] is playing the accordion.",
+            "To make it convenient for [person_1] to open it.",
+            "The [person_1] wants to pick some blueberries."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] wants to get in the car and drive.",
+            "[person_1] is going to hit the ball.",
+            "[person_1] is going to high jump.",
+            "[person_1] is going to lower the kite.",
+            "[person_1] is about to thrust the corkscrew into the cork of the [bottle_1]."
+        ],
+        "reason": [
+            "[person_1] is getting out of the playing area.",
+            "At the last of the video , [person_1] is slowing down , so [person_1] may not want to go on skating.",
+            "[person_1] kissed the screen with the image of [person_1].",
+            "[person_1] doing the process of stomping grapes.",
+            "At the end of the video , we can see that the lady has put something like a bottle opener on the top of the [bottle_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bottle_1] is broken suddenly?",
+        "answer": [
+            "Maybe [person_1] will go to sleep.",
+            "The [person_1] will get wet.",
+            "Maybe [person_1] will take a nap.",
+            "The [person_1] won't get wet.",
+            "[person_1] and [bottle_1] will drink orange juice."
+        ],
+        "reason": [
+            "The liquid in the bottle won't spill out when it is broken.",
+            "It needs electricity to work.",
+            "The liquid in the bottle will spill in when it is broken.",
+            "[bottle_1] wouldn't be able to work without a wood planer.",
+            "The liquid in the bottle will spill out when it is broken."
+        ]
+    }
+}

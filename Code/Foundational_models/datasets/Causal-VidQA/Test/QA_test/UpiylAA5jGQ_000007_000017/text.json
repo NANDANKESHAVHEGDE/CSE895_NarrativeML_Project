@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] doing?",
+        "answer": [
+            "[person_3] is jogging.",
+            "[person_1] is holding a yellow balloon.",
+            "[person_3] is kissing [person_1].",
+            "[person_3] is supporting [person_1] to hold the lanyard.",
+            "[person_3] is behind [person_3]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] have to support [person_1]?",
+        "answer": [
+            "Because [person_1] is trying to keep the balance , she can't grab the lanyard without support.",
+            "Because helmet keeps [person_1] from getting hurt.",
+            "[person_1] raises [person_1]'s head to look directly at the camera.",
+            "Because [person_1] needs the weight lifting to practice snatching.",
+            "Because [person_1] tries to clamp the beer cap with his belly meat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to move forward.",
+            "[person_1] is going to take a break.",
+            "[person_1] will probably stop pirouetting.",
+            "[person_1] is going to sit there.",
+            "[person_1] is going to keep hooping."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "Because [person_1] is sitting on toboggan.",
+            "[person_1] drinks all the wine in the bottle.",
+            "[person_1] is exercising.",
+            "[person_1] stops shaking the rope."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't support [person_1]?",
+        "answer": [
+            "[person_1] will tumble down the toboggan.",
+            "[person_1] will not do exercise .",
+            "[person_2] and [person_1] could not perform.",
+            "[person_2] may express his impatience and annoyance.",
+            "[person_1] may cry."
+        ],
+        "reason": [
+            "When the strength is not enough during exercise , [person_1] will ask for help.",
+            "[person_1] can't use both hands to keep the balance.",
+            "[person_2] can not tolerate long time exercising and needs to appropriate rest.",
+            "When [person_1] is doing lifting , [person_1] and [person_1] are standing by [person_1] and protecting [person_1].",
+            "[person_1] is a little high from the ground and it will hurt her when falling down."
+        ]
+    }
+}

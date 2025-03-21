@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing glasses?",
+        "answer": [
+            "Because [person_1] is suffering from eye disease.",
+            "Because [person_1] is snatching weight lifting.",
+            "Because [person_1] is practicing with the weights in the room.",
+            "Because [person_1] is playing with her brother.",
+            "Because [person_1] is playing checkers."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will check the result.",
+            "[person_1] is going to drive snowmobile.",
+            "Maybe [person_1] is going to introduce the flute.",
+            "[person_1] will stop skiing."
+        ],
+        "reason": [
+            "After playing the flute , [person_1] spoke and picked up the flute.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is very small.",
+            "[person_1] may go on reading.",
+            "There are many sand on his feet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room becomes dark?",
+        "answer": [
+            "[person_1] won't be able to see things clearly.",
+            "[person_1] foot may step on his foot.",
+            "The room will be dark.",
+            "They will eat the food together.",
+            "[person_1] won't be able to play."
+        ],
+        "reason": [
+            "The gift box is not packed carefully as [person_1] wants.",
+            "Because [person_1] and [person_1] have never had this experience.",
+            "Because [person_1] did not wear the football player's uniform.",
+            "[person_1] will have to charge [person_1].",
+            "[person_1] has an eye disease."
+        ]
+    }
+}

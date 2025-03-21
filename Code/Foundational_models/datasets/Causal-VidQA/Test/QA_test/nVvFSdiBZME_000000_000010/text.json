@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [cup_1]?",
+        "answer": [
+            "[cup_1] is in the studio",
+            "[cup_1] and [cup_1] is at a musical event.",
+            "The [cup_1] is white.",
+            "[cup_1] is in the bathroom.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the weight lifting ?",
+        "answer": [
+            "Because the [person_1] is looking for something in the [person_1].",
+            "Because [person_1] does not in time to hit the badminton ball.",
+            "The [person_1] seems to be looking for something in the [person_1].",
+            "[person_1] is practicing snatching weight lifting.",
+            "Perhaps [person_1] is demonstrating how to shine shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] is going to jump over a chair.",
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to continue lifting.",
+            "[person_1] is going to move his knife from the left whetstone bar to the right whetstone bar."
+        ],
+        "reason": [
+            "Lowering the lifts is one of the movements of the exercise , but the lifts are raised now.",
+            "[person_1] holds the beer and holds out his hand to his friend.",
+            "[person_1] is whistling for example.",
+            "[person_1] eats too much.",
+            "[person_1] is holding the weights."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down ?",
+        "answer": [
+            "[person_1] will be hurt.",
+            "Maybe [person_1] will help [person_1] up.",
+            "Perhaps [person_1] may keep playing and be more careful.",
+            "[person_1] will call adults.",
+            "The children will laugh."
+        ],
+        "reason": [
+            "There is only [person_1] himself here.",
+            "The floor is very hard.",
+            "[person_1] may not run.",
+            "Practice makes perfect.",
+            "The weights is very heavy."
+        ]
+    }
+}

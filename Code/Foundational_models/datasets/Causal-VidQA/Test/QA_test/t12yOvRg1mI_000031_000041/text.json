@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is pointing the champagne to the photographer.",
+            "[person_1] is reading a book for [person_1] and [person_3] on the bed.",
+            "[person_1] is proposing to [person_3].",
+            "[person_1] is playing the accordion.",
+            "[person_1] is opening the gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_6] give the microphone to [person_3]?",
+        "answer": [
+            "To do massaging neck for [person_3].",
+            "[person_6] and [person_3] may be in a competition.",
+            "[person_3] is exercising.",
+            "It's a part of the traditional costume.",
+            "To make [person_3]'s voice bigger."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will try to put [person_1] in a paper box.",
+            "[person_1] will put the ring on [person_3]'s finger.",
+            "Maybe [person_1] will continue playing ice hockey with friends.",
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "[person_1] will bake a cake."
+        ],
+        "reason": [
+            "It seems [person_1] cannot stand anymore.",
+            "Because [person_3] has already agreed with the proposal.",
+            "[person_1] is swimming back.",
+            "To put some better components in the power drill.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the microphone doesn't work?",
+        "answer": [
+            "[person_3] will stop dancing.",
+            "[person_3] will stop jumping long.",
+            "[person_3] will speak loud.",
+            "[person_3] would drop the ball.",
+            "[person_3] would not nod head."
+        ],
+        "reason": [
+            "In the gift box there is only one card.",
+            "Because they're a team.",
+            "To make herself clear.",
+            "The bar level is currently 1m74 , which is a high level.",
+            "[person_3] will not stop jumping high."
+        ]
+    }
+}

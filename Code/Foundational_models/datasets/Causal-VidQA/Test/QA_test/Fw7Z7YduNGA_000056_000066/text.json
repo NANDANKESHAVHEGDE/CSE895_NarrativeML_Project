@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the chair?",
+        "answer": [
+            "The color of the chair is blue.",
+            "It's orange.",
+            "It is brown.",
+            "The color of the chair is black.",
+            "[person_1] is holding it."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] in the room?",
+        "answer": [
+            "[person_3] is playing chess with her son.",
+            "She is reading books.",
+            "[person_3] and [person_3] are practicing the didgeridoo.",
+            "Maybe [person_3] is a staff.",
+            "[person_3] is practicing playing the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to spit out watermelon seeds.",
+            "[person_2] is going to jump high.",
+            "[person_2] is going to continue to play the cello.",
+            "[person_2] is going to continue playing the guitar.",
+            "[person_2] will likely stomp the grapes."
+        ],
+        "reason": [
+            "Maybe [person_1] hasn't finished the performance yet.",
+            "Because it can't be eaten.",
+            "[person_2] is an employee of the gas station.",
+            "[person_2] is still moving fingers on it.",
+            "Continue their conversation."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cello falls?",
+        "answer": [
+            "[person_3] will be seriously injured.",
+            "[person_1] will have to remove the picture.",
+            "[person_2] will bump into the badminton net.",
+            "The cello will break.",
+            "[person_1] will fall down to the trampoline."
+        ],
+        "reason": [
+            "[person_3] will not use the the bass guitar anymore after playing music.",
+            "Because [person_3] is a man , he doesn't wear dress.",
+            "Because [person_2] needs to use the cell phone to shoot.",
+            "[person_2] will not notice.",
+            "The cello is made of wood."
+        ]
+    }
+}

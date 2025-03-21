@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are two chairs.",
+            "There are two chair.",
+            "There are three people.",
+            "There are two vases.",
+            "The room is clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] , and [person_3] in a room?",
+        "answer": [
+            "[person_3] is talking with his parents about playing chess.",
+            "[person_1] is playing with her toy.",
+            "[person_1] is doing massage for [person_2].",
+            "[person_2] is taking care of [person_1] and [person_3].",
+            "Because [person_1] has to prevent the noise from smoothing machine."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do next?",
+        "answer": [
+            "Maybe [person_3] will continue practicing.",
+            "[person_3] will do mountain climbers.",
+            "[person_3] will leave the place [person_3] is standing.",
+            "[person_3] will ask [person_2] to blow out the candles.",
+            "[person_3] will try her best to make [person_2] laugh."
+        ],
+        "reason": [
+            "[person_3] is throwing herself around.",
+            "To see the process of the proposal.",
+            "[person_3] is kicking high.",
+            "[person_3] bought it from [person_3].",
+            "Because we could see that at the end of this video that [person_3] was holding something and ready to throw."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_3] will stop dancing.",
+            "[person_3] and [person_3] will stop singing karaoke.",
+            "It is probable that [person_3] won't see contact lenses to put in.",
+            "[person_3] will stop singing.",
+            "Maybe [person_3] will stop stacking."
+        ],
+        "reason": [
+            "It is hurt and [person_1] can not move",
+            "He can't work without this equipment.",
+            "There is no light in the room.",
+            "[person_1] and [person_1] won't be able to see anything.",
+            "The room will be quite dark."
+        ]
+    }
+}

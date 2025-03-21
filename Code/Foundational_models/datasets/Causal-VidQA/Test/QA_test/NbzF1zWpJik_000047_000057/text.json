@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting on the ground.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is holding a newspaper.",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is spinning two plates."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] spinning the [frisbee_1]?",
+        "answer": [
+            "Maybe [person_1] is introducing the plate.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is playing the accordion.",
+            "[person_1] needs to strip the apple speedier.",
+            "[person_1] is throwing it at [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will read another book.",
+            "[person_1] is going to go forward with the [frisbee_1].",
+            "[person_1] is going to cross the street.",
+            "[person_1] may clean the inside.",
+            "[person_1] may continue to stand there."
+        ],
+        "reason": [
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] has not finished his talking.",
+            "[person_1] has started spinning plates."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [frisbee_1] falls down?",
+        "answer": [
+            "[person_1] will catch the [frisbee_1].",
+            "The cameraman will pull it out.",
+            "[person_1] will lose balance.",
+            "The boss will reward [person_1].",
+            "[person_1] will overbalance."
+        ],
+        "reason": [
+            "Because his father thinks breaking something is not good.",
+            "[person_1] spun two plates at the same time.",
+            "The [person_1] sits behind the microphone.",
+            "[person_1] spun four plates at the same time.",
+            "Putting on mascara will make your eyelashes curl more."
+        ]
+    }
+}

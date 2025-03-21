@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] sitting?",
+        "answer": [
+            "[person_1] and [person_2] are sitting on a bed.",
+            "[person_1] and [person_2] are sitting in the bathroom.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_1] is holding 4 apples.",
+            "[person_1] is holding a long sword."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] hold his face?",
+        "answer": [
+            "[person_1] is playing didgeridoo in front many people.",
+            "[person_1] was in pain after pulling the patch himself.",
+            "[person_1] is moving his arms to the left and to then to the right.",
+            "[person_1] is moving his arms to the left and then to the right after a short stop in front of his chest.",
+            "Because she thinks the game is interesting."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after holding his face?",
+        "answer": [
+            "[person_1] will ask [person_1] to walk off the machine.",
+            "[person_1] will scream and shout.",
+            "[person_1] and [person_1] are going to fall down.",
+            "[person_1] and [person_1] are going to change a new board.",
+            "[person_1] will record what another boy is doing."
+        ],
+        "reason": [
+            "The kite did not fly.",
+            "It looks painful.",
+            "It seems that [person_1] turns the shot to the boy.",
+            "[person_1] and [person_1] are going to take many photos.",
+            "The video shows that [person_1] is cutting something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] pulls the patch successfully?",
+        "answer": [
+            "The turn of [person_1] wouldn't be counted.",
+            "Perhaps the plants will be die.",
+            "[person_1] will dare to continue waxing his legs by himself.",
+            "[person_1] might be annoyed by the sunlight.",
+            "Perhaps the tree will die."
+        ],
+        "reason": [
+            "After the first failure , people often feel afraid if they have to continue.",
+            "It is dangerous if [person_1] does not pull it out.",
+            "The trekking pole is setting aside and [person_1] walks slowly and carefully.",
+            "Whatever the gift , [person_1] still loves it.",
+            "Because [person_1] wants to practice more."
+        ]
+    }
+}

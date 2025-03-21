@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is slapping [person_1]'s head.",
+            "[person_2] is opening the presents.",
+            "[person_2] is sitting on the [person_2].",
+            "[person_2] is holding [person_1] in his arms.",
+            "[person_1] is standing beside of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking at [person_3]?",
+        "answer": [
+            "[person_3] and [person_3] are judges of a tai chi contest.",
+            "[person_3] is a conductor and [person_3] is leading the band.",
+            "[person_1] , [person_3] , [person_3] are gathering to open Christmas presents.",
+            "To lift the shirt in [person_1]'s hand to look at it.",
+            "Because [person_3] is making him laugh by tickling him."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to stop [person_3].",
+            "[person_3] will not let [person_1] pinch [person_3] 's cheek.",
+            "[person_3] is going to stop skating.",
+            "[person_3] will walk off the stage.",
+            "[person_3] may talk something to [person_1]."
+        ],
+        "reason": [
+            "Because [person_3] is leaving the cart and walking forward.",
+            "[person_3]'s hand and eyes are towards the snack bag of [person_2].",
+            "When [person_3] stops tickling , he looks at [person_2].",
+            "Because [person_3] may be a teacher and he wants to see how [person_2] plays.",
+            "Because [person_3] seems so happy and enjoying the dance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] does not hold [person_1]?",
+        "answer": [
+            "[person_1] may put the toothbrush in mouth.",
+            "[person_1] may not be able to sit properly.",
+            "The man will get shocked and check what's wrong.",
+            "[person_2] will cry.",
+            "[person_1] may build this snowman again."
+        ],
+        "reason": [
+            "[person_2] holds [person_1] in his hands because [person_1] is too small.",
+            "The sword of [person_1] is near the neck of [person_2] and it is sharp enough to cause deep cuts.",
+            "Because [person_1] can not keep sitting without gravity.",
+            "Or [person_1] will feel uncomfortable.",
+            "[person_2] is too tiny for [person_1] to continue riding,"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [remote_1]?",
+        "answer": [
+            "The glasses are on [person_2] eyes.",
+            "[remote_1] is next to [person_2].",
+            "[remote_1] is in front of the garage.",
+            "It is a mirror.",
+            "[remote_1] is a street artist."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_3] holding the magazine?",
+        "answer": [
+            "[person_3] is reading news in a magazine.",
+            "To make it easy to operate.",
+            "Because he take part in the competition.",
+            "To show it's flexibility.",
+            "It will be easy to feed by staying at higher place."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to taste other wines.",
+            "[person_2] is going to read the newspaper.",
+            "[person_2] is going to continue to feed the bird.",
+            "Maybe [person_2] is going to eat the food.",
+            "Maybe [person_2] is going to continue unboxing."
+        ],
+        "reason": [
+            "Because [person_2] is cutting too slowly.",
+            "To put away the clothes.",
+            "Both [person_2] and [person_3] read magazines.",
+            "Because [person_2] gave him another ball.",
+            "[person_2] has just completed the high jump."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] doesn't wear glasses?",
+        "answer": [
+            "[person_3] would laugh harder.",
+            "[person_3] will read the information in the magazine.",
+            "[person_3] will not dance.",
+            "[person_3] won't read the information in the magazine.",
+            "[person_3] may feel sad."
+        ],
+        "reason": [
+            "Bandage helps [person_3] stop the bleeding.",
+            "[person_3] is wearing glasses.",
+            "[person_3] is sitting on the chair.",
+            "[person_3] isn't wearing glasses.",
+            "[person_3] has something emergent to do."
+        ]
+    }
+}

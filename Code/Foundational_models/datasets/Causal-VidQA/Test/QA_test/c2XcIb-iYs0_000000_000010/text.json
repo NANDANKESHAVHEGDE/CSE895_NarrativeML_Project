@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] wearing?",
+        "answer": [
+            "[person_3] is wearing a red T - shirt.",
+            "[person_3] is wearing a pink T - shirt.",
+            "He is a figure in the picture on the wall.",
+            "No , the [person_3] is not . The [person_3] is looking down the keyboard.",
+            "[person_3] is wearing a black dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] wear a pink bag?",
+        "answer": [
+            "The [person_3] is playing basketball here.",
+            "[person_3] is performing circus and [person_3] is checking.",
+            "[person_3] is performing a trick with his tongue.",
+            "[person_3] tries to keep balance a plate.",
+            "[person_3] wears a pink bag in order to keep her stuff in this bag."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drink some water.",
+            "[person_1] is going to continue using the badminton racket that [person_1] is holding to play badminton.",
+            "[person_1] may carve the back.",
+            "[person_1] is going to smash [person_1].",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "[person_1] looks very happy.",
+            "Because [person_1] is very interested in playing badminton with [person_3] on the street.",
+            "Maybe [person_1] is tired.",
+            "[person_1] looks thirsty after doing exercise.",
+            "Maybe [person_1] will clap his hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a car passing by?",
+        "answer": [
+            "[person_1] will not be able to smoke.",
+            "[person_1] will lull [person_1] to sleep.",
+            "[person_3] will take [person_1] away.",
+            "[person_1] will change pants.",
+            "[person_1] and [person_3] may have accident."
+        ],
+        "reason": [
+            "Because [person_1] and [person_3] are playing on the street and do not pay attention to the car.",
+            "Because [person_1] need use the pen to mark drill holes.",
+            "The [person_3] tries to add water before [person_1] moves to the right side.",
+            "[person_1] will re - draw again.",
+            "Maybe [person_1] is his son , they go together."
+        ]
+    }
+}

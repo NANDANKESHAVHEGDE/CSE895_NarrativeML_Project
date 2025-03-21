@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's that on the wrist of [person_1]?",
+        "answer": [
+            "There are drinks and some food.",
+            "No , it isn't.",
+            "There is nothing on [person_1].",
+            "It's a watch.",
+            "No , he didn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does left hand of [person_1] rest on the base of microscope?",
+        "answer": [
+            "The [person_1] seems to be looking for something in the [person_1].",
+            "Perhaps [person_1] wants to check the quality of the gong.",
+            "Because [person_1] will plaster the wall to make the house complete.",
+            "Maybe [person_1] is playing kickball with some friends.",
+            "To make sure the microscope can be stable."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take a break.",
+            "[person_1] is going to leave the chair.",
+            "[person_1] is going to continue tap dancing.",
+            "[person_1] is going to continue play.",
+            "[person_1] is going to move forward."
+        ],
+        "reason": [
+            "[person_1] gives a thumbs - up to prove that his presentation was finished.",
+            "[person_1] is holding a exercise equipment.",
+            "[person_1] has made it to the most left.",
+            "[person_1] feels dark.",
+            "The performance has not finished yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the left hand of [person_1] doesn't hold the base?",
+        "answer": [
+            "The microscope may tilt.",
+            "It will be ruined.",
+            "[person_1] will stop what she is doing now and go to pick the glasses up.",
+            "Traffic jams would occur.",
+            "The teacher of [person_1] may stop [person_1]."
+        ],
+        "reason": [
+            "[person_1] would trip and fall to the ground.",
+            "Maybe [person_1] go out.",
+            "Because [person_1] loses balance and easily falls when [person_1] steps on the dress.",
+            "His other hand is turning the eyepiece , so he is afraid the microscope would lose its balance.",
+            "The elephants will no longer be kept within the enclosure."
+        ]
+    }
+}

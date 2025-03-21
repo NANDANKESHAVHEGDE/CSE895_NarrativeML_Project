@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is tying a bow on [person_1]'s neck.",
+            "[person_1] is introducing the corkscrew.",
+            "[person_1] is smiling.",
+            "[person_1] is riding the bike with one leg.",
+            "[person_1] is shooting basketball."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] spread his arms?",
+        "answer": [
+            "[person_1] can hit the right tune.",
+            "The man is taking the [person_1] for a walk.",
+            "[person_1] feels cold.",
+            "[person_1] is interested in the gifts on the [person_1].",
+            "Because pedaling with one foot is difficult so [person_1] spread his arms to keep balance."
+        ]
+    },
+    "predictive": {
+        "question": "Where is [person_1] going to head to?",
+        "answer": [
+            "[person_1] is going to continue doing the exercise.",
+            "Maybe they will go to swim.",
+            "They are going to eat the apple.",
+            "[person_1] will ride his bike straight along the sidewalk.",
+            "She is going to continue to pump the balloon."
+        ],
+        "reason": [
+            "[person_1] will ride his bike straight along the sidewalk , because [person_1] shows no sign of wanting to stop.",
+            "[person_1] dresses in pink , so [person_1] may be a girl.",
+            "[person_1] is talking to the camera.",
+            "Because [person_1] is demonstrating his martial art's skills by kicking a wooden bar.",
+            "Maybe [person_1] found the toy more attractive than the toothbrush."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] couldn't control the bike?",
+        "answer": [
+            "[person_1]'s product may not be popular.",
+            "[person_1] might have to stop playing field hockey.",
+            "[person_1] might hit the pole.",
+            "[person_1]'ll ask someone to help him to hold it.",
+            "[person_1] would stand up by herself."
+        ],
+        "reason": [
+            "Because nobody can help her.",
+            "Because then the car may hit [person_1].",
+            "[person_1] might hit the pole and fall down.",
+            "There would be no one here to help [person_1].",
+            "It is so dangerous if the dashing vehicle stop abruptly."
+        ]
+    }
+}

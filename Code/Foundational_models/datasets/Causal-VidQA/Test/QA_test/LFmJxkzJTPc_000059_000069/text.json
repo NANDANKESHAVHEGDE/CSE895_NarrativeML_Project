@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "It is in front of the [person_1].",
+            "It is on the yard.",
+            "An ad for medicine called UPMC.",
+            "[person_1] is in front of [person_1].",
+            "The [book_1] is in front of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] was given the [book_1]?",
+        "answer": [
+            "[person_1] is opening present.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] wants to strip the apple quicker.",
+            "Because that day is him birthday.",
+            "Because [person_1] is waiting for the mother."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing the present?",
+        "answer": [
+            "[person_1] is going to open it.",
+            "[person_1] will probably shrug his leg.",
+            "[person_1] will get off.",
+            "[person_1] will wait for several seconds.",
+            "[person_1] may bow."
+        ],
+        "reason": [
+            "It seems that [person_1] is eager to know what it is.",
+            "[person_1] thinks it's boring to dance alone.",
+            "After cutting the apple , the knife becomes dirty.",
+            "The pot next to [person_1] is boiling like she's about to put her vegetables in it to cook them.",
+            "There are some plants nearby."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if power is off?",
+        "answer": [
+            "The hand of [person_1] will blood.",
+            "[person_1] can smile.",
+            "[person_1] can't open the [person_1].",
+            "[person_1] can cry.",
+            "Maybe [person_1] will turn off the [person_1]."
+        ],
+        "reason": [
+            "The room will become bigger then.",
+            "[book_1] will complete her work.",
+            "The room will become bright then.",
+            "The hot dog is dirty.",
+            "The room will become dark then."
+        ]
+    }
+}

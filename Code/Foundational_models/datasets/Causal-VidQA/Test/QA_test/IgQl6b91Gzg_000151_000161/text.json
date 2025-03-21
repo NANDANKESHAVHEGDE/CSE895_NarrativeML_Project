@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there only one person here?",
+        "answer": [
+            "[person_3] near [person_3].",
+            "No.",
+            "Fire is under the wood.",
+            "The cabinet is on the right and behind [person_3].",
+            "A trash can."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand on the ground?",
+        "answer": [
+            "[person_1] will show the direction for [person_3].",
+            "[person_1] wants to place the bass guitar on the laps and play it.",
+            "[person_1] is playing the accordion.",
+            "Maybe [person_1] is introducing the gong to the other person.",
+            "Because the [person_1] wants to explore the parking lot."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after talking?",
+        "answer": [
+            "[person_1] will play these cups.",
+            "[person_1] will show the direction.",
+            "[person_1] will keep riding the bike",
+            "[person_1] will crawl away.",
+            "[person_1] will keep riding [person_1]."
+        ],
+        "reason": [
+            "[person_1] is the guide.",
+            "Because [person_1] seems to think it is funny.",
+            "[person_1] feels ashamed.",
+            "[person_1] is still closing his eyes at the end of the video.",
+            "[person_1] is still cycling until the end of the video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s wife ask him to have lunch?",
+        "answer": [
+            "[person_1] will not go back home.",
+            "[person_1] will change a microphone.",
+            "[person_1] will pick up the phone.",
+            "[person_1] will be sad.",
+            "Maybe [person_1] will be surprised."
+        ],
+        "reason": [
+            "The window can't be clean without water.",
+            "[person_1] hasn't finished his work.",
+            "To give the arms a medical examination.",
+            "They are close friends.",
+            "The room is not spacious enough for a lot of people to dance together."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding an orange?",
+        "answer": [
+            "[person_1] is shaking the dices.",
+            "[person_1] is skipping the rope.",
+            "[person_1] is raising the sports ball up and down in front of his chest.",
+            "[person_1] wants to show something.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is certain to spray a painting.",
+            "Maybe [person_1] is going to continue skiing",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] is going to squeeze all the oranges on the table.",
+            "[person_1] may get out of the recording room."
+        ],
+        "reason": [
+            "[person_1] is crawling on the floor.",
+            "[person_1] jumped into the lake.",
+            "[person_1] is holding the bottle.",
+            "There are still a lot of unsqueezed oranges on the table.",
+            "[person_1] is a baby lying on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [cup_1] is full of orange juice?",
+        "answer": [
+            "Maybe [cup_1] will be happy.",
+            "[person_1] will run into the room.",
+            "Maybe [person_1] will stop playing.",
+            "The [person_1] will catch the pancake with her hand.",
+            "[person_1] will pour orange juice into a glass."
+        ],
+        "reason": [
+            "Because [person_1] threw the comb to [cup_1] . So if [person_1] wants to comb her hair , [person_1] has to get a comb from [cup_1].",
+            "It will take [person_1] a few minutes to remember.",
+            "It is a habit for [person_1] do not stop doing exercise until he has no water to drink.",
+            "[person_1] needs [cup_1] empty.",
+            "The ground will be slippery if it rains , the competitors will fall down."
+        ]
+    }
+}

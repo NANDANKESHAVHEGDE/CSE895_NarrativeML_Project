@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is in a garage.",
+            "[car_1] is parked on the runway behind [person_1].",
+            "It is next to the [person_1].",
+            "[car_1] is in front of table which is blue.",
+            "[car_1] is in front of the garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] squatting on the ground?",
+        "answer": [
+            "[person_1] is smoking.",
+            "[person_1] is playing with his flute.",
+            "[person_1] is preparing a firework.",
+            "[person_1] is opening her Christmas presents.",
+            "[person_1] is really into getting involved in an activity with another person."
+        ]
+    },
+    "predictive": {
+        "question": "What is going to happen to the firework next?",
+        "answer": [
+            "The firework is going to be shot off.",
+            "[car_1] will fall down from the horse.",
+            "[car_1] will finish the food by herself.",
+            "[person_1] and [person_1] will continue performing.",
+            "[person_1] will show [person_1] how to put the salad together."
+        ],
+        "reason": [
+            "Their weapons and military uniform look similar to those of World War I soldiers.",
+            "The firework is already lit.",
+            "Because the audience recognizes [car_1]'s speech.",
+            "Their award is owe to their fan's support partly.",
+            "Because the sandwiches are in the plate just in front of him and it looks like his plate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen to [person_1] if she didn't run away after setting up the firework?",
+        "answer": [
+            "[person_1] may get burnt and injured.",
+            "The sheep might die of cold.",
+            "[person_1] may not get burnt and injured.",
+            "Then the big car may knock him down.",
+            "[person_1] may keep healthy."
+        ],
+        "reason": [
+            "Because there was a chance that the firework wouldn't shoot up towards [person_1].",
+            "[person_1] , [person_1] and [person_1] are friends of [person_1] so he will help them.",
+            "Because there was a chance that the firework would shoot up towards [person_1].",
+            "[person_1] is too young to play alone.",
+            "Because there wasn't a chance that the firework would shoot up towards [person_1]."
+        ]
+    }
+}

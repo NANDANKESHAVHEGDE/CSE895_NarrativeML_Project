@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the gender of [person_1]?",
+        "answer": [
+            "Female.",
+            "The [person_1].",
+            "They are black.",
+            "Yes.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] adjust the objective lens?",
+        "answer": [
+            "[person_1] wants to use it as a guidance tool.",
+            "[person_1] is filming [person_1].",
+            "[person_1] wants to increase the friction between his hand and the bottle.",
+            "[person_1] wants to help [person_1] shave.",
+            "To find the best magnification times."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use the harp.",
+            "[person_1] is going to tell the reason why we need to choose objective lens.",
+            "[person_1] will continue to play.",
+            "[person_1] is going to start eating.",
+            "[person_1] intends to spend his time playing."
+        ],
+        "reason": [
+            "Riding a mechanical bull is hot.",
+            "High kick is a movement exercise.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is weaving fabric.",
+            "[person_1] keeps talking and her hand keeps turning the objective lens."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dining table_1] is broken?",
+        "answer": [
+            "The [keyboard_1] will fall down but can still be used.",
+            "[dining table_1] will cry aloud.",
+            "[keyboard_1] will be very sad.",
+            "[dining table_1] and [dining table_1] may get injured.",
+            "[dining table_1] will lead the [keyboard_1] to leave here."
+        ],
+        "reason": [
+            "[dining table_1] stands on the [dining table_1].",
+            "[dining table_1] stand straightly on the [dining table_1].",
+            "The keyboard is strong enough to survive a fall.",
+            "Because [dining table_1] has another one on [dining table_1].",
+            "Work progress will be delayed."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] do?",
+        "answer": [
+            "[person_1] is parked next the walking road.",
+            "It is white.",
+            "[person_1] is opening the door consistently.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is parking near the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] opening the door consistently?",
+        "answer": [
+            "[person_1] is talking about his work.",
+            "[person_1] is reading news on the computer.",
+            "Because he thinks it is fun.",
+            "[person_1] and [person_1] are in the same team.",
+            "[person_1] is \u00a0 preparing to somersault."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may take off the clip.",
+            "[person_1] keeps moving with the snake around him.",
+            "[person_1] will play basic chords.",
+            "[person_1] may hurt himself.",
+            "[person_1] will check the honey."
+        ],
+        "reason": [
+            "It is very sunny to play.",
+            "[person_1] is dancing in free style.",
+            "[person_1] walks away.",
+            "It is too dark.",
+            "Because he might get caught by the door."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wants to pee?",
+        "answer": [
+            "[person_1] will stop hula hooping right away and runs to the building.",
+            "[person_1] will scream for help.",
+            "[person_1] will have eye pain.",
+            "[person_1] will ask his mother for help.",
+            "[person_1] will feel it lacks vitality."
+        ],
+        "reason": [
+            "[person_1] needs to stop and thinks about it.",
+            "There is no canteen or stall on the street.",
+            "[person_1] needs to use both hands to play bass guitar.",
+            "[person_1] falls to the ground from the high height.",
+            "Because his mother will take him to the toilet."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting with [person_2].",
+            "[person_1] is playing badminton with [person_2] in a room which has the wall painted green.",
+            "[person_1] is opening present.",
+            "[person_1] is opening [person_1].",
+            "[person_1] is reading a book for [person_2] and [person_1] on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there only [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] is performing music on the street . .",
+            "Because there is no one here except for [person_1] and [person_2].",
+            "[person_1] places the accordion on his knee with the key buttons facing away from him.",
+            "[person_1] is doing his work.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to hit the badminton ball that [person_2] is holding.",
+            "[person_2] is going to keep skating.",
+            "[person_2] is going to stand aside and keep watching [person_2] being bandaged.",
+            "[person_2] is going to push her foot against the play ground.",
+            "[person_2] may be going to lift the barbell up and down."
+        ],
+        "reason": [
+            "Because [person_2] is moving feet and trying to support the body with hands and ready to get up.",
+            "[person_2] feels happy and is holding the thing of [person_2].",
+            "When [person_2] turns to the area where the [person_2] is , [person_2] looks and prepares to touch.",
+            "When [person_2] finishes tickling [person_2] and [person_2] , she raises her hands and prepares to do the next joke.",
+            "Because [person_2] has just taken the badminton ball from the net."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lights on the wall are off?",
+        "answer": [
+            "The room will become dark and [person_1] and [person_2] can play in the dark.",
+            "People including [person_1] and [person_2] have to leave this dangerous place as quickly as possible.",
+            "The room will become bright and [person_1] and [person_2] can not play in the dark.",
+            "[person_1] will wear a mask.",
+            "The room will become dark and [person_1] and [person_2] can not play in the dark."
+        ],
+        "reason": [
+            "Because the lights are illuminating the whole room.",
+            "If he does not wear a mask , he will contaminate the meat.",
+            "Because the lights aren't illuminating a part of the room.",
+            "The child's teeth are corroded.",
+            "Because the lights are illuminating a part of the room."
+        ]
+    }
+}

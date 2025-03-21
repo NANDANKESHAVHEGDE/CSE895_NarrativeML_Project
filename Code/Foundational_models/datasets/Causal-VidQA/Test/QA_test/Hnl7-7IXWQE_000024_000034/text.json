@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s pant?",
+        "answer": [
+            "[person_1] is the thing [person_1] is sitting on.",
+            "[person_1]'s pant is white.",
+            "[person_1]'s jacket is yellow.",
+            "The car is white.",
+            "[person_1] is looking at the metal bass strings of the bass guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look exactly like [person_2]?",
+        "answer": [
+            "[person_1] is watching [person_2] lift weights.",
+            "Because [person_2] is [person_1] in the mirror.",
+            "Maybe [person_1] doesn't know how to stack all the dice once.",
+            "[person_1] , [person_2] , [person_1] , and [person_2] are practicing together as a band.",
+            "Because [person_1] is instructing the arm stretch."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to throw paper away.",
+            "[person_1] is going to plate the food.",
+            "[person_1] is going to play.",
+            "[person_1] will go on working.",
+            "[person_1] will probably hit his head in the mirror."
+        ],
+        "reason": [
+            "[person_1] is holding a pen and paying attention on the paper.",
+            "Because [person_1] is very young and lifting weights is not so easy for [person_1].",
+            "Because it seems that the video is stopping recording.",
+            "[person_1] will probably hit his head in the mirror because [person_1] is leaning forward.",
+            "[person_1] is going to go home."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't put his hands against the mirror as [person_1] leans forward?",
+        "answer": [
+            "The [person_1] would be broken.",
+            "[person_1] would bang his head in the mirror.",
+            "The driver of [person_1] will take [person_1] to the hospital soon.",
+            "The [person_1] will take photos with the camels.",
+            "[person_1] will encourage [person_1]."
+        ],
+        "reason": [
+            "[person_1] would bang his head in the mirror because he were off balance.",
+            "[person_1] scored 1 goal.",
+            "[person_1] would not walk on the rope.",
+            "To check what's wrong with it.",
+            "[person_1] blew the balloon."
+        ]
+    }
+}

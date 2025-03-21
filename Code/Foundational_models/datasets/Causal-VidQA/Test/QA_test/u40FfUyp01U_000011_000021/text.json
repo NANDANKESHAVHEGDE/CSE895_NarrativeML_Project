@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is giving head massage to his customer.",
+            "It is a grey shirt.",
+            "[person_2] is sitting and opening the gift.",
+            "[person_2] is playing the piano.",
+            "[person_2] is crouching and moving back and forth."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is riding a unicycle.",
+            "[person_1] is playing with paper.",
+            "[person_1] is playing the lute.",
+            "[person_1] is performing cello.",
+            "[person_1] is raising eyebrows in front of the mirror."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will share his work with the camera.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] will continue playing in the room.",
+            "[person_1] will ask her parents for help.",
+            "[person_1] will keep dancing."
+        ],
+        "reason": [
+            "Because [person_1] needs to finish the piece.",
+            "[person_1] needs to use the machine to copy something.",
+            "Because [person_1] is finding some tools to help to make pottery.",
+            "Because [person_1] is too tired now.",
+            "[person_1] needs to introduce the tied balloon."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cello string breaks?",
+        "answer": [
+            "[person_1] , [person_1] and [person_1] would stop dancing and talking together.",
+            "[person_1] will be stuck halfway.",
+            "[person_1] will have to stop playing.",
+            "[person_1] will smile.",
+            "[person_1] has to fill it up."
+        ],
+        "reason": [
+            "[person_1] can't leave because the car is broken.",
+            "[person_1] and [person_1] are standing near the wall.",
+            "[person_1] can have only a pack of potato chips.",
+            "[person_1] can't treat wood in the dark.",
+            "[person_1] uses the cello string to play the cello."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there many cats?",
+        "answer": [
+            "No.",
+            "[person_1] is in the big yard.",
+            "Yes.",
+            "[person_1] is sit on [person_1].",
+            "The dog is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there no bears here?",
+        "answer": [
+            "Maybe the weather is cold,",
+            "Maybe the weather is cold.",
+            "Bears don't live here.",
+            "[person_1] wants to avoid injuries.",
+            "[person_1] is playing luge sport."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after riding?",
+        "answer": [
+            "[person_1] will get off slowly.",
+            "[person_1] will remove the cage.",
+            "[person_1] will have a rest.",
+            "[person_1] will have dinner.",
+            "[person_1] will enjoy it very much."
+        ],
+        "reason": [
+            "Base on her emotion.",
+            "[person_1] needs to rest.",
+            "[person_1] need to have a rest.",
+            "It's 5 pm.",
+            "[person_1]'s family faints out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s mom ask [person_1] to have lunch?",
+        "answer": [
+            "[person_1] will not eat the pig.",
+            "[person_1] will trip over [person_1]?",
+            "She will be happy and content.",
+            "[person_1] will go back home.",
+            "[person_1] will talk to the person."
+        ],
+        "reason": [
+            "In order to keep [person_1] fresh.",
+            "Because [person_1] wouldn't be able to move [person_1].",
+            "When [person_1] pays attention to mopping , the mouse might scared [person_1].",
+            "[person_1] wants to show affection to [person_1].",
+            "[person_1] will obey [person_1]'s mother."
+        ]
+    }
+}

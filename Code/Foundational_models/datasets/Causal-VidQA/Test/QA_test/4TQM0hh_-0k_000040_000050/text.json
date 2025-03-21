@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is holding a card.",
+            "[person_1] is opening the bottle.",
+            "[person_1] is breaking a concrete block.",
+            "[person_1] is shaking the cup.",
+            "[person_1] is riding a horse."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] split the dices in to two line?",
+        "answer": [
+            "[person_1] prepares to discover the gifts.",
+            "[person_1] is teaching [person_1] how to arrange tableware.",
+            "[person_1] is opening present.",
+            "He wants to make more dice stacks.",
+            "Because [person_1] is applying medical ointment."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] is going to jump next.",
+            "Maybe [person_1] is going to jump.",
+            "[person_1] is going to sit on the chair.",
+            "[person_1] is going to make another dice stack.",
+            "[person_1] will play with the cat."
+        ],
+        "reason": [
+            "Maybe [person_1] will clap his hands.",
+            "[person_1] is resting.",
+            "[person_1] is doing lunges.",
+            "When [person_1] swings the cup , he splits the dices into two lines and prepares to make two different dice stacks.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops?",
+        "answer": [
+            "[person_1] and [person_1] will lose the other's hand.",
+            "The dices will fall out of the cup.",
+            "The birds will fly away.",
+            "Maybe [person_1] will be good at doing the baskets.",
+            "[person_1] would not be given any food."
+        ],
+        "reason": [
+            "Because [person_1] would have no reasons to make fun of [person_1].",
+            "When [person_1] drags the cup , the dices continues to move inside it.",
+            "Because [person_1] and [person_1] will fall into the sea.",
+            "[person_1] is just a baby , and [person_1] is too young to be alone.",
+            "When [person_1] coming close to [person_1] , [person_1] is standing back."
+        ]
+    }
+}

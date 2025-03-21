@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the garden.",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in a small library.",
+            "[person_1] is \u00a0 playing in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the flowers on the table?",
+        "answer": [
+            "People are playing a group game.",
+            "The boy avoided the pillow fight from the [person_2].",
+            "The room is living room.",
+            "The space outside is more open than in the house.",
+            "The flowers are for decoration."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will move the chess pieces.",
+            "Maybe [person_1] will continue to direct [person_1]'s team to play.",
+            "[person_1] will practice typing the pen on the table.",
+            "Maybe [person_1] will continue to raise his eyebrows.",
+            "[person_1] will also focus on watching TV."
+        ],
+        "reason": [
+            "Maybe [person_1] will talking with [person_2].",
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference.",
+            "Maybe [person_1] is afraid of something.",
+            "Because [person_1] divides the money into piles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries?",
+        "answer": [
+            "If [person_1] cries , [person_1] will stop lifting.",
+            "[person_1] and [person_1] will be very nervous.",
+            "[person_1] will stop playing and [person_1] will coax [person_2].",
+            "It is probable that [person_1] will stop skiing.",
+            "[person_1] will fall in a very painful way."
+        ],
+        "reason": [
+            "[person_2] is a baby.",
+            "The explosion has very strong damage.",
+            " It will be more difficult to ride if it snows.",
+            "The machine shows exactly what metrics they need to measure , so [person_2] and [person_2] would have to stop their survey work if the technical machine broke.",
+            "[person_2] loves [person_2]."
+        ]
+    }
+}

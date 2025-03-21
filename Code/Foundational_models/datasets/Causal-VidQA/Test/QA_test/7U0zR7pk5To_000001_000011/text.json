@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting between [person_1] and [person_1].",
+            "[person_1] is \u00a0 in the classroom.",
+            "[person_1] is on the right hand side of [person_1].",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the floor?",
+        "answer": [
+            "[person_1] is a model for the exercise.",
+            "[person_1] is doing prenatal yoga.",
+            "[person_1] is practicing to play didgeridoo.",
+            "[person_1] is playing with cups.",
+            "[person_1] wants to build a cup tower on the floor."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to jump .",
+            "[person_1] is about to play the glass ball in his hand.",
+            "Maybe [person_1] is going to play with his friends.",
+            "Maybe [person_1] is going to sit.",
+            "[person_1] is going on presenting."
+        ],
+        "reason": [
+            "[person_1] likes sledding.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is dancing in free style.",
+            "[person_1] is landing on the street.",
+            "[person_1] is very attentive."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out ?",
+        "answer": [
+            "The performance will not continue.",
+            "[person_1] maybe afraid.",
+            "[person_1] will be scared.",
+            "[person_1] will go out.",
+            "[person_1] will wake up."
+        ],
+        "reason": [
+            "The light will be off.",
+            "[person_1] won't be able to see the strings clearly.",
+            "[person_1] may not keep speaking.",
+            "[person_1] won't be able to continue to pluck.",
+            "[person_1] will stop jumping."
+        ]
+    }
+}

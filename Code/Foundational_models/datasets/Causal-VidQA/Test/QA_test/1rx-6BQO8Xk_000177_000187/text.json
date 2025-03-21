@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the weather now?",
+        "answer": [
+            "It's next to [person_2].",
+            "[person_1] is rectangular.",
+            "It's sunny.",
+            "The [person_2] is long and big.",
+            "[person_1] is next to the windows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_2] holds a bubble machine in the hand?",
+        "answer": [
+            "To make bubbles.",
+            "By riding it regularly.",
+            "Make a snowball first.",
+            "7 people are judges.",
+            "[person_2] is not familiar with this kind of fruit."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "To borrow the bubble machine from [person_2].",
+            "[person_1] will throw the dumbbell up.",
+            "[person_1] is going to hit the ball.",
+            "[person_1] will open the box.",
+            "[person_1] may brush stains on the shoe."
+        ],
+        "reason": [
+            "Because [person_1] is reaching out the hand.",
+            "[person_1] has prepared shovel tool.",
+            "Maybe [person_1] likes to play it.",
+            "Because [person_1] also wants to make some bubbles.",
+            "Food burnt."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bubble water runs out?",
+        "answer": [
+            "The [person_2] will fall.",
+            "[person_1] and [person_2] won't find some foam and water.",
+            "[person_2] would need [person_1] 's help.",
+            "[person_1] and [person_2] will find some foam and water.",
+            "[person_2] will stop too."
+        ],
+        "reason": [
+            "The person on the right side seems to be responsible for sieving the soil.",
+            "To make new bubble water.",
+            "They are next to her.",
+            "To make old bubble water.",
+            "Because it's dark outside at night and you can't see things clearly."
+        ]
+    }
+}

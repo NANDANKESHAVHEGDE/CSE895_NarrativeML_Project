@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_1]?",
+        "answer": [
+            "[person_1] is outside the room and it is in front of [person_1]?",
+            "[person_1] is in front of the house.",
+            "[laptop_1] is in the back of [person_1].",
+            "[laptop_1] is in front of [person_1].",
+            "[laptop_1] is in front of the garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting?",
+        "answer": [
+            "[person_2] is playing the piano.",
+            "[person_2] wants to exercise in his house",
+            "[person_2] is still a child.",
+            "Because the person is lying down on the bed and pointing the camera upwards.",
+            "[person_2] is performing a sad song for the person recording him."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] tend to do?",
+        "answer": [
+            "[person_2] tends to continue to accompany [person_1].",
+            "[person_1] tends to continue holding the flute.",
+            "[person_1] tends to participate in a game.",
+            "[person_1] tends to become a winner.",
+            "The person will put another piece of meat into [person_1]."
+        ],
+        "reason": [
+            "[person_1] doesn't like the present.",
+            "[person_1] doesn't move around for a long time.",
+            "[person_1] looks unprofessional and the hand of [person_1] is holding the dumbbell.",
+            "[person_1] is performing.",
+            "There are many books behind [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] faints?",
+        "answer": [
+            "[person_1] will put the guitar on the dining table.",
+            "[person_1] will stop playing.",
+            "[person_2] will get hurt.",
+            "[person_2] will get hurt.",
+            "[person_1] will stop dancing."
+        ],
+        "reason": [
+            "[person_1] was wearing full protective clothing.",
+            "[person_1] feels pain and be taken to the hospital.",
+            "[person_1] will have to take [person_2] to the hospital to check.",
+            "[person_1] wants to play with [person_2].",
+            "Because they need to save person first."
+        ]
+    }
+}

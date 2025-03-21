@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a necklace?",
+        "answer": [
+            "[person_1] is behind the [person_1].",
+            "The hat which [person_1] is wearing is black.",
+            "The short [person_1] wearing is blue.",
+            "[person_1] is on the floor.",
+            "Yes , [person_1] wears a necklace."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have brush in her hands?",
+        "answer": [
+            "Because [person_1] finds the game interesting.",
+            "[person_1] is both skating and raising her hands and a leg up like a ballet dancer.",
+            "Maybe the weather is cold,",
+            "[person_1] is applying make - up for [person_2].",
+            "[person_1] is performing in public."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will continue to introduce the headphone.",
+            "Maybe [person_1] will watch TV.",
+            "[person_1] will apply foundation for [person_2].",
+            "[person_1] will continue sitting on the chair.",
+            "It is predicted that [person_1] will play keyboard."
+        ],
+        "reason": [
+            "[person_1] must feel sore of his waist.",
+            "[person_1] used a brush to apply powder on face of [person_2].",
+            "[person_1] pushed the wheelbarrow and then stopped.",
+            "The television is showing programs.",
+            "Because [person_1] has raised up his hands on the top of the pottery."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't apply foundation for [person_2]?",
+        "answer": [
+            "[person_1] will enjoy it.",
+            "[person_1] and [person_2] would come back their places.",
+            "[person_1] would stop skiing to find a place to stay and wait.",
+            "[person_1] wouldn't be able to make the sound [person_1] wants.",
+            "Perhaps [person_2] will be less beautiful."
+        ],
+        "reason": [
+            "Applying foundation will make [person_2] whiter and more beautiful.",
+            "They are too young to complete difficult skating action.",
+            "Because it will clutter the space if it is not picked up.",
+            "Because there's no cake left to eat.",
+            "Because [person_1] will not supervise every action of [person_2]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "[person_1] is standing behind [person_1].",
+            "[person_1] is wearing a white stripes shirt.",
+            "[person_1] is wearing a black T - shirt.",
+            "[person_1] is standing behind [person_1].",
+            "They are on the beach."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the maracas?",
+        "answer": [
+            "The [person_1] touches the bass buttons to play accordion.",
+            "Maybe [person_1] is under stress.",
+            "Because [person_1] likes smoking in his room.",
+            "[person_1] wants to explain how to play the clarinet.",
+            "[person_1] is trying playing maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sit down.",
+            "[person_1] is introducing the tool.",
+            "[person_1] will check whether there are something wrong with his posture.",
+            "[person_1] is going to recheck the positions of the rectangular mirror and the round mirror.",
+            "She may try on her new shirt."
+        ],
+        "reason": [
+            "[person_1]'s hands is shaking.",
+            "[person_1] is finding a seat.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] is going to try working faster.",
+            "[person_1] used the tape on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the maracas dropped?",
+        "answer": [
+            "The maracas would be kept.",
+            "[person_1] will give the kid.",
+            "The maracas would be broken.",
+            "It would fall down the floor.",
+            "The maracas would be green."
+        ],
+        "reason": [
+            "The maracas is made of wood.",
+            "Because the liquid would cover the surface of the table.",
+            "The maracas is made of plastic.",
+            "Because the dog caught a cold taking a bath at home this time.",
+            "The maracas is made of glass."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many cell phones are there in the room?",
+        "answer": [
+            "[person_2] is in a [person_2]'s left.",
+            "The [person_4] is behind the [person_4].",
+            "[person_4] is in the room.",
+            "The [person_6] is on the wood shelf next to the wall.",
+            "There is one cell phone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_4] holding their hands?",
+        "answer": [
+            "It will be more comfortable for [person_2] to practice field hockey in them.",
+            "Because [person_2] is watering the plants.",
+            "[person_2] and [person_4] may want to show their respect.",
+            "Because the [person_4] wants to do exercise.",
+            "Maybe [person_4] is recording about pipes and how to smoke."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_6] going to do?",
+        "answer": [
+            "[person_6] is going to start the knee kick exercise.",
+            "[person_6] is going to take photos.",
+            "[person_6] is going to continue trying to stomp the grapes.",
+            "[person_6] is going to stand up.",
+            "[person_6] is going to ride a horse."
+        ],
+        "reason": [
+            "[person_6]'s body is leaning forward and his center of gravity is unstable.",
+            "[person_6]'s clothes are the same as others and do the same actions as others , so [person_6] may dance with them.",
+            "There is a step in front of [person_6].",
+            "[person_6] is holding the ladder , [person_6] tends to go up to the path.",
+            "[person_6] is holding her cell phone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_4] didn't give the salute to [person_2]?",
+        "answer": [
+            "[person_2] won't see the fish.",
+            "[person_4] would not feel tired and he would not have to open his mouth to breath.",
+            "Maybe [person_2] will swallow the smoke and cause gurgling in the pipe.",
+            "The mixture in the [person_2] will spill out.",
+            "It is possible that [person_4] will not receive the honor."
+        ],
+        "reason": [
+            "The room is untidy.",
+            "Everyone is doing the honor ceremony.",
+            "[person_2] didn't know how to wear sari.",
+            "[person_2] can't control his somersault.",
+            "[person_2] will need to repair the wood planer to continue working."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "The [person_1] is holding a ribbon.",
+            "It is next to the [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "It is near [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is having a party.",
+            "[person_1] is teaching how to soften the hand muscles of a paralyzed person.",
+            "[person_1] is performing cello.",
+            "[person_1] is talking about the didgeridoo.",
+            "[person_1] is practicing playing the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to sit.",
+            "[person_1] is going to stretching arm.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to continue skiing",
+            "[person_1] will keep cleaning the dog."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] will continue playing.",
+            "[person_1] is [person_1]'s partner.",
+            "Maybe [person_1] is instructing his patient.",
+            "Maybe [person_1] started weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not teach ?",
+        "answer": [
+            "[person_1] would be have anyone to study.",
+            "[person_1] and [person_1] would get injuries on their heads.",
+            "[person_1] would play alone.",
+            "The picked apples would drop to the ground.",
+            "[person_1] would refuse to interview."
+        ],
+        "reason": [
+            "Because [person_1] is walking weirdly with crutches.",
+            "Because [person_1] could not lean the back of [person_1] in the chair.",
+            "because if [person_1] continues to practice , her bones will be fractured.",
+            "[person_1] appears to be in a recording studio , and [person_1] has spoken on the phone before.",
+            "Maybe [person_1] is a body expert."
+        ]
+    }
+}

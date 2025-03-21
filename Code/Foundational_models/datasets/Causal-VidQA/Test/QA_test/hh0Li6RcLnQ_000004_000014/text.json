@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is on the right side [person_1].",
+            "[potted plant_1] is to [person_1] right.",
+            "[potted plant_1] is behind [person_1].",
+            "[person_1] is on the table which behind [person_1].",
+            "[person_1] is on the sidewalk to [person_1]'s right."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book.",
+            "[person_1] is reading the newspaper.",
+            "Because [person_1] is doing her music homework.",
+            "[person_1] is putting utensils on [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to introduce the book to friends.",
+            "She is going to play with her toys.",
+            "[person_1] is going to see the gift.",
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] is going to land on the sand pit."
+        ],
+        "reason": [
+            "[person_1] is passing a beer bottle to the man in front of him.",
+            "[person_1] has already changed styles two times and he wants to challenge other exercising styles.",
+            "[person_1] shows the name of the book and reads loudly.",
+            "Because she is leaving the house and locking the door.",
+            "Maybe [person_1] likes skiing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the power went out?",
+        "answer": [
+            "[person_1] would not keep reading the book.",
+            "The battle would end.",
+            "They would be surprised.",
+            "[person_1] may be unhappy.",
+            "The lamp would be off."
+        ],
+        "reason": [
+            "[person_1] will feel tired.",
+            "Because they cannot see anything.",
+            "Many people will come to see his performance.",
+            "[person_1] can not read anything without light.",
+            "Because there is strength in numbers."
+        ]
+    }
+}

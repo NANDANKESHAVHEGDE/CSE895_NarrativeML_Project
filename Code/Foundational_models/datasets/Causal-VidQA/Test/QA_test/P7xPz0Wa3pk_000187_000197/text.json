@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall behind [person_1]?",
+        "answer": [
+            "[person_1] is on the right hand of [person_1].",
+            "It is black.",
+            "The wall behind [person_1] is red.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] and [person_1] are in the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the room bright?",
+        "answer": [
+            "It's cold and snowy outside.",
+            "[couch_1] is watching [couch_1] and [couch_1] playing badminton.",
+            "Perhaps [person_1] is doing it for fun.",
+            "It's daytime outside.",
+            "Because he wants to speak loudly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to keep jumping.",
+            "It is possible that [person_1] will lie down on [couch_1].",
+            "[person_1] is going to climb into bed.",
+            "[person_1] may continue to stand there."
+        ],
+        "reason": [
+            "Maybe [person_1] likes to play with toys.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] will feel tired and [person_1] is sitting on [couch_1].",
+            "[person_1] is sitting on the snowmobile.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is sad?",
+        "answer": [
+            "[person_1] will not stand on the stage.",
+            "It is possible that [person_1] will continue to play the guitar.",
+            "[person_1] will stand up by himself.",
+            "It is possible that [person_1] will stop to play the guitar.",
+            "[person_1] may have some injuries."
+        ],
+        "reason": [
+            "[person_1] is still trying now.",
+            "Playing the guitar can help [person_1] relieve her sadness.",
+            "[person_1] will enjoy a dish to be full.",
+            "Playing the guitar can help [person_1] relieve her happiness.",
+            "Because [person_1] is still a baby and [person_1] is taking care of [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What tool does [person_1] use?",
+        "answer": [
+            "It's an electric saw.",
+            "They are in the yard.",
+            "[person_1] and [person_1] are in their yard.",
+            "Black.",
+            "Sushi."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] go back?",
+        "answer": [
+            "Because [person_1] holds a mirror and [person_1] looks down to look at the mirror.",
+            "Because [person_1] is playing the flute to the song in the book.",
+            "[person_1] looks down to watch the step of [person_1].",
+            "Because [person_1] is thinking about the next movement of [person_1].",
+            "Because [person_1] wants to leave enough space for his success - the open [bottle_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to open the box.",
+            "[person_1] is going to crawl forward , go far from [person_1].",
+            "[person_1] is going to play the flute.",
+            "[person_1] is going to turn the electric saw back.",
+            "[person_1] is going to show off the fish [person_1] catches."
+        ],
+        "reason": [
+            "[person_1] may be tired and need a rest.",
+            "Because [person_1] is almost full.",
+            "[person_1] jumped over the crossbar.",
+            "Because [person_1] has got many fish.",
+            "The usage of electric saw is to open the [bottle_1] and it's finished . So there is no need to use it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen is [person_1] keeps using the electric saw on the [bottle_1]?",
+        "answer": [
+            "Maybe [person_1] will swallow the smoke and cause gurgling in the pipe.",
+            "The beer [bottle_1] will keep still.",
+            "[person_1] won't see the fish.",
+            "The beer [bottle_1] will break.",
+            "Maybe [person_1] will not be able to introduce and talk about tires to [person_1]."
+        ],
+        "reason": [
+            "Electric saw is very powerful and is easy to break the [bottle_1] because of careless.",
+            "Because that [bottle_1] falls to the ground will cause attention.",
+            "Electric saw is very powerless and is easy to break the [bottle_1] because of careless.",
+            "The drink will taste strange if [person_1] does wrong.",
+            "Electric saw is very powerful and is hard to break the [bottle_1] because of careless."
+        ]
+    }
+}

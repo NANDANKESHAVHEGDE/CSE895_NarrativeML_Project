@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [handbag_1]?",
+        "answer": [
+            "[handbag_1] is in front of [person_1].",
+            "[person_1] is wearing it in front of her.",
+            "It is \u00a0 behind the [person_1].",
+            "[person_1] is on the chair.",
+            "Yes , [person_1] is very depressed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there many bags?",
+        "answer": [
+            "To keep healthy.",
+            "Using the mobile phone.",
+            "They taste good.",
+            "Because [person_1] uses [suitcase_1] and [handbag_1] to contain a big musical instrument.",
+            "Because this is an outdoor training ground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to have a meal.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] may hug others.",
+            "[person_1] is going to continue opening the gift.",
+            "[person_1] is going to play a piece of music."
+        ],
+        "reason": [
+            "[person_1] is exercising.",
+            "[person_1] moves his fingers on the accordion's keyboard.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is going to have a break.",
+            "[person_1] is trying to make it more beautiful."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "The competition may stop.",
+            "[person_1] will stop kicking high.",
+            "People will not be there.",
+            "[person_1]'s accordion may be out of order.",
+            "The festival will be stop."
+        ],
+        "reason": [
+            "[person_1] will go to another place.",
+            "Because [person_1] may not get ready to go home , the water can make his accordion wet and unable to use.",
+            "[person_1] will go home.",
+            "Plants will die without water.",
+            "[person_1] in the sports venue."
+        ]
+    }
+}

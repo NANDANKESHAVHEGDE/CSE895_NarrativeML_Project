@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [couch_2]?",
+        "answer": [
+            "It is yellow.",
+            "It is nicely decorated.",
+            "A mirror\u3002",
+            "Female.",
+            "The text is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is seeing a drawing.",
+            "[person_1] is going out with his family.",
+            "[person_1] is learning to play chess.",
+            "[person_1] is seeing [person_1]'s gifts.",
+            "[person_1] is talking about chess."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will activate the printer.",
+            "[person_1] is going to turn the iron.",
+            "[person_1] will introduce about the chess.",
+            "[person_1] will stop.",
+            "[person_1] will continue explaining."
+        ],
+        "reason": [
+            "[person_1] is a baker and [person_1] is adding flour into cake pan to bake.",
+            "Because if [person_1] squats for a long time , [person_1] will be very tired.",
+            "Because only the big wood in front has not been cut.",
+            "[person_1] is talking.",
+            "[person_1] is a service , who cannot join in the customers."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the camera turn off?",
+        "answer": [
+            "[person_1] will propel yourself forward.",
+            "[person_1] would see clearly what [person_1] is going.",
+            "[person_1] won't be able introducing.",
+            "Then we don't know how many years [person_1] has worked.",
+            "[person_1] will have to stack cups on the floor."
+        ],
+        "reason": [
+            "It's completely dark inside the hospital and you can see nothing.",
+            "[person_1] will do other things.",
+            "[person_1] will check the camera.",
+            "[person_1] will jump very short and unprofessional.",
+            "There would be nothing except for the blindfold preventing the view there."
+        ]
+    }
+}

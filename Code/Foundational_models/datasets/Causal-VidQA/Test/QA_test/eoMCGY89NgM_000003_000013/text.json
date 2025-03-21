@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s hair?",
+        "answer": [
+            "[person_1] is wearing a black shirt with some black line.",
+            "[person_1] has a golden brown hair.",
+            "The color of [person_1]'s camisole is green.",
+            "There is a shovel.",
+            "[person_1] is wearing a black shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside the room?",
+        "answer": [
+            "[person_1] is doing a handstand.",
+            "Because [person_1] is doing her music homework.",
+            "[person_1] is sitting on the [couch_1].",
+            "The boy couldn't move the guitar out.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will light up a candle.",
+            "[person_1] will go back home.",
+            "[person_1] will stop and say something to the camera.",
+            "[person_1] will start eating.",
+            "[person_1] will ask someone for help."
+        ],
+        "reason": [
+            "[person_1] is holding the baby bottle.",
+            "[person_1] is sitting on the boat.",
+            "[person_1] is teaching [person_1] and [person_1] how to play didgeridoo.",
+            "[person_1] is so happy . [person_1] received a lovely gift.",
+            "Because [person_1] has already finished the training and it is [person_1]'s turn."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels asleep?",
+        "answer": [
+            "[person_1] will fall backwards.",
+            "[person_1] will go to bed.",
+            "[person_1] will be sit on the chair.",
+            "[person_1] won't go to bed.",
+            "[person_1] will then lie on the [person_1]."
+        ],
+        "reason": [
+            "[person_1] may die.",
+            "[person_1] will need to rest.",
+            "[person_1] may laugh.",
+            "[person_1] will take a rest.",
+            "[person_1] may cry."
+        ]
+    }
+}

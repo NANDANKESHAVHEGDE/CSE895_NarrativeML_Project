@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [remote_1]?",
+        "answer": [
+            "The light is red.",
+            "The house is white.",
+            "The [remote_1] is placed on the ground.",
+            "The [remote_1] is red.",
+            "A blanket."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting down?",
+        "answer": [
+            "The [person_1] wiped the bed.",
+            "Because [person_1] is not old enough to stand up.",
+            "Because [person_1] is showing how to play it.",
+            "[person_1] is moving many dirt with the wheelbarrow.",
+            "Maybe [person_1] is in the game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing.",
+            "[person_1] will bend back.",
+            "[person_1] may put the milk in the fridge.",
+            "[person_1] may not eat the egg.",
+            "[person_1] may close the window."
+        ],
+        "reason": [
+            "Because [person_1] seems happy when playing with the book.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] has turned away.",
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] has not finished his talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were older?",
+        "answer": [
+            "[person_1] would not put fingers in his mouths.",
+            "[person_1] won't be able to make the cake.",
+            "[person_1] would stop practicing.",
+            "[person_1] may stand up.",
+            "[person_1] would not be shy."
+        ],
+        "reason": [
+            "[person_1] has a talent in playing the maracas.",
+            "[person_1] looked at [person_1] and was laughing too hard that [person_1] stopped dancing.",
+            "[person_1] loses if [person_1] doesn't stack cups at a fast speed.",
+            "[person_1] is also dancing with the music and he will leave the playground when he's done.",
+            "Because [person_1] has tried to stand up by the feet several times."
+        ]
+    }
+}

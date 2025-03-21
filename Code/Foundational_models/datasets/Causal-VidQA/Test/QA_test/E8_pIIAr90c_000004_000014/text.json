@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] run slowly?",
+        "answer": [
+            "[person_1] is cylinder.",
+            "It is near [person_1].",
+            "There is a wall cabinet.",
+            "No.",
+            "It is on the wardrobe."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] run so fast?",
+        "answer": [
+            "[person_1] is enjoying the music that [person_1] plays.",
+            "[person_1] likes to play with maracas.",
+            "[person_1] wants to be strong.",
+            "[person_1] is playing with water.",
+            "[person_1] is showing talent playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do when he starts to run?",
+        "answer": [
+            "[person_1] is going to stick the floor stickers in a parallel line.",
+            "[person_1] is going to keep riding.",
+            "[person_1] wants to play the harmonica and dance at the same time.",
+            "[person_1] will speed up.",
+            "[person_1] will put the screws inside the wholes."
+        ],
+        "reason": [
+            "[person_1] has fallen down and didn't get up.",
+            "The [person_1] hasn't found what he wants.",
+            "Because there are many hair on the floor.",
+            "[person_1] wants to know how fast he could run.",
+            "[person_1] wants to look better after braiding her hair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone faints out?",
+        "answer": [
+            "[person_1] will stop the people.",
+            "[person_1] will put the dumbbells next to him.",
+            "[person_1] won't help the people.",
+            "[person_1] will be upset.",
+            "[person_1] will help the people."
+        ],
+        "reason": [
+            "[person_1] is helpful.",
+            "Because there were no obstacle , so [person_1] did not need to jump up.",
+            "[person_1] is helpless.",
+            "To do some medical tests.",
+            "[person_1] is happy."
+        ]
+    }
+}

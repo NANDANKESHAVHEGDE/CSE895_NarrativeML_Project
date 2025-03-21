@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is in the bath.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is standing under a tree.",
+            "[person_1] is on the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] tearing the box?",
+        "answer": [
+            "[person_1] is stretching the whole body.",
+            "Because [person_1] won the game.",
+            "[person_1] wants to take the toy car out of the box.",
+            "Because [person_1] wants to show his performance to all audiences.",
+            "[person_1] is in the competition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going to continue skateboarding.",
+            "[person_1] is going to take toy car out of the box and play.",
+            "[person_1] is going to swim."
+        ],
+        "reason": [
+            "[person_1] is interested in that toy car.",
+            "[person_1] starts the meal.",
+            "[person_1] is paying attention to the book.",
+            "[person_1] is playing very attentively.",
+            "[person_1] cuts off the flower's stem."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the toy car breaks down?",
+        "answer": [
+            "[person_1] will cry.",
+            "[person_1] will pick [person_1] up immediately.",
+            "It will break.",
+            "[person_1] will be happy.",
+            "They would fall into exhausting."
+        ],
+        "reason": [
+            "To make up a ring for [person_1] later.",
+            "Because [person_1] doesn't want [person_1] broken.",
+            "Players often use dirty words to vent their emotions.",
+            "Children love toys and get upset if they break.",
+            "Because [person_1] \b is practicing on this carpet."
+        ]
+    }
+}

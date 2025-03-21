@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "There is a large - sized black speaker behind [person_1].",
+            "It is black.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "Because [person_1] is teaching [person_1] how to massage.",
+            "Because the [person_1] wants to ride the mechanical bull.",
+            "[person_1] is helping [person_2] to open the gift.",
+            "Because the stage on which [person_2] is standing is in the shape of round.",
+            "[person_1] is helping [person_2] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do next?",
+        "answer": [
+            "[person_2] is going to keep performing.",
+            "[person_2] is planning to play glass ball.",
+            "[person_2] is going to jump over the hurdle.",
+            "[person_2] is going to jog to the archery target boss.",
+            "[person_2] is going to swing her hip in the opposite direction."
+        ],
+        "reason": [
+            "Because [person_2] seems to need to record the practice in different occasions.",
+            "[person_2] seems to do it often and enjoy the exercise.",
+            "[person_2] has observed the performance of [person_2] and held his hand on the chair to raise his lower body.",
+            "Because [person_2] lay down there to be drunk so after drinking he may stand up.",
+            "The crossbar fell to the ground and [person_2] picked up it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] kicked [person_1]?",
+        "answer": [
+            "Audience would not comprehend maraca function completely.",
+            "The stage play cannot continue.",
+            "[person_2] would have nothing to drop money in.",
+            "She would be sad.",
+            "[person_1] might be badly hurt."
+        ],
+        "reason": [
+            "There are many weights on the floor , the weights are on her right side.",
+            "Because [person_2] is just a child , so his kick would not be so strong.",
+            "[person_1] needs to pick up [person_2] and place [person_2] in the correct place on the bookshelf.",
+            "Because the tree were not high enough to cover the eyesight.",
+            "Because [person_2] kick can deliver such a powerful blow to break the wooden bar , it might injure [person_2] seriously."
+        ]
+    }
+}

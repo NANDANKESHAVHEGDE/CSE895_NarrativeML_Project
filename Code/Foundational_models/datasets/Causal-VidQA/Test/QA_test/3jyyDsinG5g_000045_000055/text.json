@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is sitting on the sofa.",
+            "The [chair_1] is next to the wall.",
+            "[person_1] is sitting on [chair_1].",
+            "[chair_1] is behind the [person_1].",
+            "[person_1] is in a roller skating floor."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] hold the accordion?",
+        "answer": [
+            "[person_1] places the accordion on his knee with the key buttons facing away from him.",
+            "[person_1] is putting his mouth on a hole in the flute and blowing air into it.",
+            "[person_1] presses the head from ear to hair.",
+            "[person_1] toys are all in a basket.",
+            "[person_1] is guiding [person_1] , [person_1] and [person_1] to stand on hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep mixing the drink.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] is going to wash his face.",
+            "[person_1] is going to continue to sing a song.",
+            "[person_1] will continue to dance."
+        ],
+        "reason": [
+            "[person_1] is singing when he plays the accordion.",
+            "[person_1] has finished the song.",
+            "Many people , who may be students in the tai chi class , are sitting on the floor , watching [person_1] and waiting for their turns.",
+            "[person_1] is putting hand on the corner of the page.",
+            "[person_1] shaved off the bottom part of his beard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] doesn't put his finger on the key buttons?",
+        "answer": [
+            "The discus may not fly as far.",
+            "[person_1] will play bass guitar with a different tone.",
+            "The [person_1] can ensure the safety of the construction site.",
+            "The metal sheet will be rolled in by the machine and destroyed.",
+            "[person_1] can't play the accordion."
+        ],
+        "reason": [
+            "Because the machine runs very fast , it is easy to roll the metal sheet in.",
+            "[person_1] touching his nose while helping with the salad wouldn't be sanitary , so that he would get in trouble with the adults.",
+            "It is difficult to fold if the wrapping paper easily rips or crinkles during the gift wrapping process.",
+            "Focusing on the hoop is an important technique.",
+            "[person_1] uses his finger to press the key buttons."
+        ]
+    }
+}

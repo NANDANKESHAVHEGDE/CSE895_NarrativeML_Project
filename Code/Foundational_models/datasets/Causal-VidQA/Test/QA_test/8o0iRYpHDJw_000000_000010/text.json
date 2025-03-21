@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is giving massage to her customer.",
+            "[person_1] is working out at a gym.",
+            "[person_1] is peeling the coco.",
+            "[person_1] is skate boarding.",
+            "[person_1] is skating and spinning."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising his legs so high?",
+        "answer": [
+            "Because [person_1] is aiming to shoot marbles.",
+            "Perhaps [person_1] wants to be stronger.",
+            "Because [person_1] is spraying paint.",
+            "[person_1] is a child so [person_1] may like reading a fairy tale book.",
+            "Because [person_1] is doing a leg exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to do another dance.",
+            "[person_1] is going to show facial expression.",
+            "[person_1] is going to do exercise in the opposite direction.",
+            "[person_1] is going to keep playing flute.",
+            "[person_1] will continue practicing the spinning poi."
+        ],
+        "reason": [
+            "[person_1] doesn't know how to shear sheep and just watches [person_1] work.",
+            "[person_1] seems to still hold the phone with his hands.",
+            "[person_1] seems to enjoy it a lot.",
+            "[person_1] is approaching the end of the path and will need to turn around to keep doing the exercise.",
+            "[person_1] seems to be a trainer from where she stands and she needs to teach other how to do."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn\u2019t raise his legs high?",
+        "answer": [
+            "[person_1]'s legs will not be exercised as much.",
+            "[person_1] would hurt herself.",
+            "[person_1] would be sleeping then.",
+            "[person_1] would not feel afraid.",
+            "[person_1] may be attacked by the monkeys."
+        ],
+        "reason": [
+            "The ball is too heavy.",
+            "The audience should leave the lecture hall quietly.",
+            "The ball has a great impact.",
+            "Knife is dangerous and [person_1] is too young to use that well.",
+            "The exercise will be less effective."
+        ]
+    }
+}

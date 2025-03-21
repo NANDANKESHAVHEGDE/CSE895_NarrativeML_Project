@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a microphone.",
+            "[person_1] is holding a stick.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is sitting on a chair.",
+            "[person_1] is holding a guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the stick?",
+        "answer": [
+            "It is possible that [person_1] need guiding to get to his team.",
+            "[person_1] wants to train the horse.",
+            "Since the [person_1] is playing pillow fighting.",
+            "[person_1] want to ride the [person_1] so well.",
+            "[person_1] is holding the stick to knock the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going on a trip.",
+            "It is probable that [person_1] will join his team and the team is taking a break.",
+            "[person_1] will continue to give the newspaper for [person_1].",
+            "[person_1] will continue running with other athletes.",
+            "[person_1] is going to show the iron from different angles."
+        ],
+        "reason": [
+            "[person_1] has just taken some selfies with the clarinet.",
+            "[person_1] is holding the hoop to play.",
+            "Maybe [person_1] doesn't like this game.",
+            "[person_1] is with his team.",
+            "Because [person_1]'s mother was sick and needed money."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the light went out?",
+        "answer": [
+            "[person_1] can not deal with the music.",
+            "[person_1] would start snowboarding.",
+            "[person_1] cannot film the solo in the room.",
+            "[person_1] would stop snowboarding.",
+            "The meat will not be cooked."
+        ],
+        "reason": [
+            "The keyboard requires a power source to operate.",
+            "It will be bright then and no one can snowboard.",
+            "There would be no electricity to iron the clothes.",
+            "It will be dark then and no one can snowboard.",
+            "[person_1] is focus on [person_1]'s movement."
+        ]
+    }
+}

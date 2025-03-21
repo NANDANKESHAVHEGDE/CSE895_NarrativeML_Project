@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [chair_1]?",
+        "answer": [
+            "The [chair_1] is near the window and close to the wall.",
+            "[chair_1] is on the ground.",
+            "[chair_1] is in the left of [person_1].",
+            "The [chair_1] is on the left side of the road.",
+            "[chair_1] is on the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paper?",
+        "answer": [
+            "It makes [person_1] sad.",
+            "[person_1] does parkour by jumping over a chair and the [person_1].",
+            "Because [person_1] is taking care of flowers",
+            "Because it is convenient to open and close the door of the [person_1].",
+            "To witness the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip the paper.",
+            "[person_1] is going to run.",
+            "[person_1] is going to hold the camera.",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to go home."
+        ],
+        "reason": [
+            "[person_1] stood next to the [chair_2] and tore the paper.",
+            "[person_1] is looking at the plate of food.",
+            "Because [person_1] acts as a guide.",
+            "[person_1] holds the hoop before hooping.",
+            "Maybe [person_1] will read the whole [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "Maybe [person_1]'s mother will coax [person_1].",
+            "The birds will fly away.",
+            "[person_1] will not keep playing.",
+            "Maybe [person_1] will have dust blocked his nose.",
+            "[person_1] will be angry."
+        ],
+        "reason": [
+            "[person_1] is a little baby.",
+            "[person_1] will see a doctor.",
+            "[person_1] is a little boy.",
+            "The blanket is covered on [person_1]'s face.",
+            "[person_1] is sad."
+        ]
+    }
+}

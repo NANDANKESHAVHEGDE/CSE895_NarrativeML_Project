@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_1]?",
+        "answer": [
+            "[person_1] is standing under a tree.",
+            "The [laptop_1] is in front of the [laptop_1].",
+            "The [laptop_1] is in the [person_1]'s hand.",
+            "[laptop_1] is on the right side [person_1].",
+            "[laptop_1] is on the table which behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] seeing around?",
+        "answer": [
+            "Maybe the harmonica is a toy of [person_1].",
+            "[person_1] holds the accordion toy with both her hand.",
+            "[person_1] is filming himself so [person_1] is interacting with the camera.",
+            "[person_1] is looking at someone who is standing near her.",
+            "[person_1] is shaving and trimming his beard."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after reading the newspaper?",
+        "answer": [
+            "[person_1] and [person_1] will continue to practicing.",
+            "[person_1] will throw off the megaphone.",
+            "[person_1] will throw the quilt back.",
+            "[person_1] will share what she reads.",
+            "[person_1] and [person_1] will finish eating their hotdogs and then go do something else."
+        ],
+        "reason": [
+            "[person_1] skateboards quite well and enjoys it.",
+            "[person_1] is looking around and saying something.",
+            "[person_1] wants to see whether the megaphone is effective.",
+            "[person_1] is backing into the truck.",
+            "[person_1] and [person_1] are spinning the hoop by hands in the professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room lost power suddenly?",
+        "answer": [
+            "[person_1] would cry and shout.",
+            "[person_1] will call more people to [person_1]'s house.",
+            "[person_1] wouldn't cry and shout.",
+            "[person_1] would get frustrated and try again.",
+            "[person_1] would laugh and shout."
+        ],
+        "reason": [
+            "[person_1] is holding a replica weapon much larger than themselves , which may drop it.",
+            "[person_1] can see anything around her without electricity.",
+            "Because the riding speed is fast enough now.",
+            "[person_1] cannot see anything around her without electricity.",
+            "[person_1] is in the room , too."
+        ]
+    }
+}

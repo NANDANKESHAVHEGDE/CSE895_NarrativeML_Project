@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is sitting on the [chair_1]?",
+        "answer": [
+            "[person_1].",
+            "White.",
+            "A pyramid.",
+            "It is blue.",
+            "It is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they so happy?",
+        "answer": [
+            "To keep a good health.",
+            "They are watching a funny performance.",
+            "Because they're playing rock - paper - scissors.",
+            "Because they want to visit the desert.",
+            "Because they might catch a cold if they wear shorts."
+        ]
+    },
+    "predictive": {
+        "question": "[person_4] and [person_5] are sitting there . Will they join in the game?",
+        "answer": [
+            "[person_5] will continue to play with [person_4].",
+            "[person_5] will drink.",
+            "Maybe [person_5] and [person_4] may keep watching [person_4] playing lute.",
+            "No.",
+            "[person_4] would then continue to dig the hole."
+        ],
+        "reason": [
+            "The person who hold the phone has held up his arms . And he does not put it down , the screen is always on , so he may keep taking video.",
+            "Because if they can't control the fire in time , it will be very dangerous.",
+            "The bricks contain these colors.",
+            "Because he walks with a fast speed.",
+            "Because they're not attracted to it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would they do if the meal comes?",
+        "answer": [
+            "They would not play.",
+            "[person_1] will applaud.",
+            "The car may not be driven on the road.",
+            "The [person_5] might get hurt.",
+            "The beehive might be stolen."
+        ],
+        "reason": [
+            "There is no bike - repairing shop on the road.",
+            "Because it's time to eat.",
+            "[person_4] can't continue his way with the barrier.",
+            "Because [person_4] is talented.",
+            "[person_4] will feel down and shocked , and can't play the music anymore."
+        ]
+    }
+}

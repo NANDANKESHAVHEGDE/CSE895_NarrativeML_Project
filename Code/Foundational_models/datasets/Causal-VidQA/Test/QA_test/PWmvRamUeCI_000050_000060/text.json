@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is on the [dining table_1].",
+            "[cup_1] is in the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on the left of [cup_1].",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing games?",
+        "answer": [
+            "[person_1] is taking care of her little brothers.",
+            "[person_1] is practicing his skating skills.",
+            "[person_1] is practicing roller skating.",
+            "[person_1]'s left hand is raised to hold the guitar.",
+            "[person_1] was bored before."
+        ]
+    },
+    "predictive": {
+        "question": "What will they do after playing so many rounds?",
+        "answer": [
+            "They will keep playing until there is a winner.",
+            "The woman in the long dress may start dancing.",
+            "[dining table_1] , [dining table_1] and [dining table_1] will decorate the snowman's face.",
+            "[dining table_1] will continue to take care of the cat.",
+            "[person_1] will lift up the big dumbbell."
+        ],
+        "reason": [
+            "[dining table_1] is delivering her speech.",
+            "[cup_1] can not see road when turning around.",
+            "[cup_1] has not finished the performance.",
+            "Because the woman in front kept reminding others of dance movements , which showed that she was familiar with them , so she is a teacher.",
+            "Because they need a winner to decide what to play next."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if they accidentally turn over the table?",
+        "answer": [
+            "He would call for help to find a doctor.",
+            "The waiters would come to help with that.",
+            "The painter will open other lights.",
+            "The lights will be off.",
+            "Their training might be halted."
+        ],
+        "reason": [
+            "[person_1] didn't know how to wear sari.",
+            "This is the rule of the game.",
+            "The kids can't do it well enough.",
+            "The doctor will give him medicine.",
+            "The mason's line is important and acts as a guide for laying bricks."
+        ]
+    }
+}

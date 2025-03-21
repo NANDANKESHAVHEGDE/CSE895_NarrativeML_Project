@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of clothes of [person_1]?",
+        "answer": [
+            "No.",
+            "White and black.",
+            "There is a wall cabinet.",
+            "The sweater is white.",
+            "[person_1] is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] rip the wrapper off the [bottle_1]?",
+        "answer": [
+            "because it's comfortable.",
+            "For better open the bottle.",
+            "[person_1] repairs the shoes.",
+            "[person_1] is reading newspaper.",
+            "[person_1] sits on a chair to play the drums better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to start eating.",
+            "[person_1] is talking about his opinion.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to pour beer to the glass bottle.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "[person_1] stepped forward continuously.",
+            "[person_1] is talking with his friend.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is tilting the beer bottle on top of the glass bottle.",
+            "[person_1] controls the board very professionally."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beer is split out when [person_1] pouring it?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "[person_1] will pick up the food and rinse it with water.",
+            "The [person_1] will not make the tree broken and died.",
+            "[person_1] will find some tissue to clean it.",
+            "Someone else will take it away."
+        ],
+        "reason": [
+            "The birds are only attracted when someone has food.",
+            "To have a more try.",
+            "They are all on the tablecloth.",
+            "There is no other people will help [person_1].",
+            "People often don't like clean things to get dirty."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the dress [person_1] wearing ?",
+        "answer": [
+            "It is green.",
+            "It is blue.",
+            "It is red.",
+            "The carpet is blue.",
+            "The dress is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear jewelry ?",
+        "answer": [
+            "The [person_1] enjoys the music with the view of beach.",
+            "Because [person_1] is rich.",
+            "To help [person_1] exercise better.",
+            "He wants to ride [person_1] outside.",
+            "The [person_1] is used to cut the potatoes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] has an intention of playing flute.",
+            "[person_1] may stir the dishes in [person_1].",
+            "[person_1] is going to pass the broken boards to the person beside [person_1].",
+            "[person_1] is going to dance another move.",
+            "[person_1] is going to move his knife from the left whetstone bar to the right whetstone bar."
+        ],
+        "reason": [
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] looks so excited when she plays hopscotch.",
+            "[person_1] is going to try working faster.",
+            "[person_1] is enjoying playing flute.",
+            "[person_1]'s hands is shaking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electric is off ?",
+        "answer": [
+            "[person_1] will finish her performance.",
+            "[person_1] will be blew to the ground.",
+            "[person_1] couldn't do it anymore.",
+            "[person_1] , [person_1] , [person_1] and two people there will run as quickly as they can.",
+            "[person_1] may not fall down into the floor."
+        ],
+        "reason": [
+            "The room becomes dark.",
+            "[person_1] will go out.",
+            "Because the [person_1] feels the danger.",
+            "Because it's usually not safe in the building when there is an earthquake.",
+            "Because [person_1] can help [person_1] keep balance."
+        ]
+    }
+}

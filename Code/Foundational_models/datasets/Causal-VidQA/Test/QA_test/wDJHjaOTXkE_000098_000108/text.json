@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the green chair\uff1f",
+        "answer": [
+            "Yes.",
+            "The are in a training room.",
+            "[person_1] is on the [person_1].",
+            "It is black.",
+            "The green chair is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] not wearing any clothes in the top?",
+        "answer": [
+            "[person_1] injured his left hand.",
+            "[person_1] is relaxing himself in an informal occasion.",
+            "[person_1] is supporting the guitar.",
+            "[person_1] is standing and stacking cups.",
+            "[person_1] is raising her eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play in the room.",
+            "[person_1] may go other place.",
+            "[person_1] will continue to hug [person_2].",
+            "[person_1] is going to continue to play with [person_2].",
+            "[person_1] is going to bed."
+        ],
+        "reason": [
+            "[person_1] walks away.",
+            "[person_1] needs water to recover.",
+            "[person_1] wants to practice better.",
+            "[person_1] has lifted up the beehive.",
+            "Because [person_1] is in his high time and doesn't want to stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] wants to have a rest?",
+        "answer": [
+            "[person_1] might fall.",
+            "[person_1] would be genius.",
+            "[person_1] and [person_2] will persuade [person_1].",
+            "[person_1] would agree with that.",
+            "[person_2] and [person_1] will quarrel."
+        ],
+        "reason": [
+            "The audiences adore him.",
+            "The dish is too salty to eat.",
+            "Visual is an important element for watchers.",
+            "[person_1] would play with [person_2] after the rest , [person_1] doesn't want to win at the time of the opponent's tiredness.",
+            "With more people , working hours are shortened."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening a champagne bottle.",
+            "[person_1] who wears a pink dress , is holding a book.",
+            "[person_1] is stripping [person_1].",
+            "[person_1] is teaching [person_1] how to throw the ball to the basket.",
+            "[person_1] is punching a punching bag."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] on the ring?",
+        "answer": [
+            "Because it is very sunny outside.",
+            "Because they're playing a game.",
+            "[person_2] and [person_2] is playing a duet.",
+            "[person_2] enjoys riding horse.",
+            "[person_2] is having a practice match."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go to get a stick.",
+            "[person_1] may finish his performance on the tightrope.",
+            "[person_1] may not lean on this chair again.",
+            "He may do the kind of jump again.",
+            "[person_1] is going to practice by himself."
+        ],
+        "reason": [
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] used the tape on the table.",
+            "[person_1] doesn't have competitor.",
+            "[person_1] of face is very satisfied."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] finishes the match?",
+        "answer": [
+            "[person_2] will rest to recover.",
+            "The audience may dislike [person_2].",
+            "They may hurt.",
+            "[person_2] may defend [person_2].",
+            "She will try another time."
+        ],
+        "reason": [
+            "[person_2] looks tired after the match.",
+            "The balls have water inside and it will make [person_2] wet.",
+            "[person_2] is the youngest person and has not yet developed complete motor skills.",
+            "[person_2] and [person_2] are more calm.",
+            "[person_2] seems to be old so she may endure the pattern which she is not fond of."
+        ]
+    }
+}

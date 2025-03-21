@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [handbag_1]?",
+        "answer": [
+            "In front of the house.",
+            "The television is on the wall.",
+            "[handbag_1] is near [person_3].",
+            "[handbag_1] is on the shelf.",
+            "The bag is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is sitting on the carpet.",
+            "[person_2] is playing with paper.",
+            "[person_2] is opening her present.",
+            "[person_2] is playing with [person_2].",
+            "[person_2] and [person_2] are just starting to play chess."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "Maybe [person_1] and [person_2] are going to try to eat something new.",
+            "[person_1] and [person_2] are going to keep throwing ball.",
+            "[person_1] and [person_2] are going to play hand clapping game.",
+            "Perhaps [person_1] and [person_3] are going to go out.",
+            "[person_1] and [person_2] are going out."
+        ],
+        "reason": [
+            "[person_1] and [person_2] feel pleasant to share about their love life.",
+            "[person_1] and [person_2] want to complete the project.",
+            "[person_1] and [person_2] are going in the same direction.",
+            "Because the last step in making cookies has been completed.",
+            "There are so many burgers in front of them."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "It is probable that [person_3] won't see contact lenses to put in.",
+            "[person_3] and [person_3] will stop singing karaoke.",
+            "[person_3] will stop dancing.",
+            "[person_3] and [person_3] may cry.",
+            "[person_3] may stop opening the present."
+        ],
+        "reason": [
+            "The internet will be off , too.",
+            "The lights are off , too.",
+            "The microphone and the music will be off.",
+            "The microphone will be off.",
+            "The room will be dark then."
+        ]
+    }
+}

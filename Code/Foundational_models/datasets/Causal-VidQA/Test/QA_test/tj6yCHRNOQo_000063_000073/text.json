@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a black shirt.",
+            "The shirt is black and white.",
+            "The shirt is white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "[person_1] is wearing a gray shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the floor?",
+        "answer": [
+            "[person_2] is watching the performance of [person_1].",
+            "[person_1] is playing basketball.",
+            "[person_2] is opening a bag.",
+            "[person_1] is practicing standing on her hands.",
+            "[person_1] and [person_2] are practicing together."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to pick up the ball on the floor.",
+            "[person_1] intends to continue to sit and play the harp.",
+            "[person_1] has an intention of play the cello until [person_1] gets tired.",
+            "[person_1] intends to continue snatch the weight lifting.",
+            "[person_1] has an intention of playing flute."
+        ],
+        "reason": [
+            "Maybe [person_1] is trying to get dressed as fast as possible.",
+            "[person_1] is in the car - park.",
+            "Because [person_1] is performing for [person_2] to see.",
+            "Then maybe [person_1] tends to sit down on the chair.",
+            "Maybe [person_1] knows it's not food."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forgets the melody of the piece?",
+        "answer": [
+            "[person_1] will have to stop playing cello for a while.",
+            "Maybe [person_1] will agree.",
+            "[person_1] will be seriously injured and need to go to the hospital.",
+            "[person_1] will get wet.",
+            "[person_1] will likely fail."
+        ],
+        "reason": [
+            "Because [person_2] is just a baby and falling off may hurt him so [person_2] may cry.",
+            "When [person_2] slides to the cushion , [person_2] is climbing to the cushion.",
+            "Because [person_1] is performing for [person_2] to see.",
+            "Because [person_1] may lose the [person_2] if he doesn't find it.",
+            "The [person_1] is sitting and the [person_2] is throwing a snowball toward the [person_1]."
+        ]
+    }
+}

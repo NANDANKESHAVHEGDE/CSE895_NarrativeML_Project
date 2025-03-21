@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is on the right of [person_1].",
+            "[chair_1] is on the left hand side of [person_1].",
+            "[chair_1] is under [person_1].",
+            "[chair_1] is in the corner.",
+            "[chair_1] is behind [person_1] and [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing exercise?",
+        "answer": [
+            "[person_1] wants to improve his health.",
+            "[person_1] is not familiar with this kind of fruit.",
+            "[person_1] wants to improve her health.",
+            "Because [person_1] is weaving and wants the threads to be close together.",
+            "[person_1] is rubbing [person_1]'s back."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drink some water.",
+            "[person_1] is going to break.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to continue practicing."
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "[person_1] is looking at [person_1].",
+            "Maybe [person_1] is a earthen pot.",
+            "The body of [person_1] needs water after doing exercise.",
+            "Riding a mechanical bull is hot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room lost power suddenly?",
+        "answer": [
+            "[person_1] would find it very difficult to play drums while standing.",
+            "[person_1] will call more people to [person_1]'s house.",
+            "[person_1] would get frustrated and try again.",
+            "[person_1] would stop doing exercise and go out.",
+            "[person_1] would not be able to write anything."
+        ],
+        "reason": [
+            "[person_1] can't see or do exercise without light in this room.",
+            "[person_1] and [person_1] need electricity to reading news on the computer.",
+            "[person_1] has two hockey balls.",
+            "[person_1]'s mouth is very close to clothes . If [person_1] doesn't shut up in time , it may fall on clothes.",
+            "If [person_1] reaches the finish point first , [person_1] will be the winner . In a competition , the winner will get the reward."
+        ]
+    }
+}

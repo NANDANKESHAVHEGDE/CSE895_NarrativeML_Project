@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the t - shirt [person_3] wearing?",
+        "answer": [
+            "It is red.",
+            "It is \u00a0 orange.",
+            "A rose.",
+            "It is blue.",
+            "They are playing a game."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_3] standing in the room?",
+        "answer": [
+            "Because they want to ski.",
+            "[person_1] is checking to see if [person_3] fine motor skills are still functioning.",
+            "[person_1] teaching [person_1] and [person_3] how to playing chess.",
+            "[person_1] and [person_1] are trying to open the gift.",
+            "[person_1] and [person_3] are practicing saluting."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do ?",
+        "answer": [
+            "[person_1] intends to keep smoking.",
+            "[person_1] intends to drink beer.",
+            "[person_1] intends to stop eating.",
+            "[person_1] intends to be a perfect violin player.",
+            "[person_1] intends to stop saluting."
+        ],
+        "reason": [
+            "[person_1] is putting hand down.",
+            "[person_1] is instructing.",
+            "[person_1] put down the weight.",
+            "[person_1] stops somersaulting.",
+            "[person_1] is currently monitoring their performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electricity is off?",
+        "answer": [
+            "The room might be full of darkness.",
+            "The lights will be off.",
+            "[person_1]'ll find a place to hide from the snow.",
+            "The room would be brighter.",
+            "The speech made by [person_1] and [person_1] will be interrupted."
+        ],
+        "reason": [
+            "[person_1] would most likely turn his back and stop unwrapping presents.",
+            "The lights need electricity to run.",
+            "The dart is very sharp.",
+            "It will be more difficult for [person_3] to work.",
+            "The dumbbell is very heavy."
+        ]
+    }
+}

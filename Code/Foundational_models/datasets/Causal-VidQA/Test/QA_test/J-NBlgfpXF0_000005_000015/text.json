@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "It is behind the [person_1].",
+            "No , the [person_1] is not . The [person_1] is sitting down on the chair.",
+            "[person_1] is wearing a bow tie.",
+            "[person_1] is wearing a suit.",
+            "[person_1] is wearing glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] make the video?",
+        "answer": [
+            "Because [person_1] 's purpose is to relax.",
+            "[person_1] has to do so in order to create sound from drums.",
+            "[person_1] uses a stick to make the video.",
+            "Because [person_1] is a gong maker and wants to check the product [person_1] has made.",
+            "Because [person_1] is playing an accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is the man who wears a white shirt going to do?",
+        "answer": [
+            "Maybe the man in white is a doctor.",
+            "[person_1] is a singer.",
+            "The [person_1] is going to run into its cage.",
+            "The man who wears a white shirt is going to continue to talk with the two women.",
+            "[person_1] in the TV is going to broadcast the next news."
+        ],
+        "reason": [
+            "The person wearing the number 22 run around and looked toward the audience after scoring.",
+            "The man who wears a white shirt is looking at two women and talking.",
+            "[person_1] has a ring on his right hand.",
+            "Because the person is wearing gloves folds the flower - shape napkin.",
+            "[person_1] is a news reporter , and [person_1] is going to broadcast the next news."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] leans back?",
+        "answer": [
+            "[person_1] will save more time.",
+            "[person_1] may feel sad.",
+            "[person_1] will not see anything clearly.",
+            "[person_1] will lose.",
+            "Maybe the bottle tumbles down."
+        ],
+        "reason": [
+            "Because [person_1] is uncomfortable.",
+            "Because that would be so funny.",
+            "Because shaking his head can make [person_1] feel dizzy and uncomfortable.",
+            "It is so boring to dance and snap finger alone.",
+            "Because the bottle is placed behind [person_1]."
+        ]
+    }
+}

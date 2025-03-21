@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [bed_1] big?",
+        "answer": [
+            "[bed_1] is kicking a ball.",
+            "[bed_1] is on the street.",
+            "[bed_1] is sitting close to the camera.",
+            "Four.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room ?",
+        "answer": [
+            "Because [person_2] is sitting chair.",
+            "Because [person_2] is reading a book.",
+            "[person_2] and [person_2] are family.",
+            "[person_2] is rearranging [person_2] position on [person_2].",
+            "[person_2] is talking about something on [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will put on lipstick for [person_2].",
+            "[person_2] will keep running.",
+            "[person_2] will continue to read the book.",
+            "[person_2] will definitely perform on stage.",
+            "[person_2] will change her clothes."
+        ],
+        "reason": [
+            "To see [person_2] make bubbles.",
+            "[person_2] is reading a book.",
+            "[person_2] felt after joining the competition.",
+            "[person_2] hit the ball into the beer.",
+            "[person_2] has finished arranging the chessboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop reading.",
+            "[person_1] maybe afraid.",
+            "[person_1] maybe stop smiling.",
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe stop eating."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

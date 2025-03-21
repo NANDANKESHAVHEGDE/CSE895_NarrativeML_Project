@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is in front of [person_1] . [person_1] is holding [book_1] in hand.",
+            "[book_1] is under [person_1].",
+            "[book_1] is behind [person_1].",
+            "[book_1] is on the left of [person_1]?",
+            "[book_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the bed?",
+        "answer": [
+            "[person_1] is sitting and playing.",
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "Because [person_1] helps him tie a necktie on [person_1]'s neck.",
+            "[person_1] is reading book.",
+            "Because [person_1] wants to go out but it cannot open the door."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to do lunges.",
+            "[person_1] is going to wash his face.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] may keep mixing the drink.",
+            "[person_1] is going to keep sticking the wallpaper."
+        ],
+        "reason": [
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] is wearing a uniform and is squeezing oranges.",
+            "[person_1] has hit the ball away.",
+            "[person_1] took the book in hand and opened it.",
+            "[person_1] shaved off the bottom part of his beard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "Maybe [person_1] will go to another place to play.",
+            "Maybe [person_1] will go out.",
+            "Perhaps [person_1] will bring to an end the exercising.",
+            "[person_1] will go to another place.",
+            "[person_1] will not continue reading book."
+        ],
+        "reason": [
+            "The music will be turned off.",
+            "The microphone will be off.",
+            "The room is dark without light.",
+            "The light will be turned off.",
+            "[person_1] has food for them."
+        ]
+    }
+}

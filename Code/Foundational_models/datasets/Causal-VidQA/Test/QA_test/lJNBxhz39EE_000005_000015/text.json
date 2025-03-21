@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] spinning the fire?",
+        "answer": [
+            "[person_1] is plastering the ceiling.",
+            "because [person_1] does it for fun.",
+            "Because [person_1] wants to relieve stress.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] is fire - dancing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may plan to push [person_1] ahead.",
+            "[person_1] is going to keep performing.",
+            "[person_1] going to have a date with someone?",
+            "[person_1] probably will shake the pan again.",
+            "[person_1] is going to slowly opening his arms."
+        ],
+        "reason": [
+            "The car [person_1] is waiting for hasn't come yet.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "[person_1] is still dancing with fire.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] touches the fire?",
+        "answer": [
+            "[person_1] will maybe get sick.",
+            "[person_1] may feel more comfortable.",
+            "[person_1] will find [person_1] a band aid.",
+            "[person_1] will get burned.",
+            "[person_1] won't be able to keep squeezing oranges."
+        ],
+        "reason": [
+            "[person_1] is afraid that he would fall too.",
+            "Because the fruits are over and the juicer is too small.",
+            "The knife is sharp and the wound will be deep.",
+            "The snack may fall everywhere.",
+            "Because the fire is so hot."
+        ]
+    }
+}

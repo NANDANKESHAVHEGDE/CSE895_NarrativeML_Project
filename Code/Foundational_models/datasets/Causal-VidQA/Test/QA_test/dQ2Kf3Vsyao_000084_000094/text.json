@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is inside.",
+            "[person_1] is on the stage.",
+            "[person_1] is on the basketball court.",
+            "[person_1] is near the window.",
+            "[person_1] is in the room"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a basketball ?",
+        "answer": [
+            "[person_1] wants to listen to music through the headphone.",
+            "[person_1] is shooting basketball.",
+            "[person_1] is playing basketball with his son.",
+            "[person_1] does not want to fall.",
+            "[person_1] wants to improve his physical strength."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to not eat.",
+            "[person_1] is going to catch the ball and continue to practice shooting.",
+            "[person_1] is going to continue waxing back for [person_1].",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to continue jumping jacks."
+        ],
+        "reason": [
+            "[person_1] wants to shoot in the basket.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] is snowmobiling.",
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] has turned away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] dunks?",
+        "answer": [
+            "[person_1] would get hurt on his hands.",
+            "[person_1] will not achieve results in a short time.",
+            "[person_1]'s teammates will feel happy.",
+            "[person_1] might talk in front of the camera.",
+            "[person_1] will easily do it."
+        ],
+        "reason": [
+            "[person_1] wants to rest himself.",
+            "[person_1] will need to be careful.",
+            "They can't work without a table",
+            "[person_1] is tall.",
+            "Because people always talk a lot about things they like."
+        ]
+    }
+}

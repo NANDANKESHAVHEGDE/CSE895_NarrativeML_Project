@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is reading a fairy tale book.",
+            "[person_1] is playing drums.",
+            "[person_1] is picking an apple.",
+            "[person_1] is holding a badminton racket and playing alone.",
+            "[person_1] is playing basketball."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play alone?",
+        "answer": [
+            "He prepares before the competition.",
+            "Maybe [person_1] is playing lute for the [person_1].",
+            "Because there is no one here to play with [person_1].",
+            "Because the dog wants to find water outside.",
+            "[person_1] contains water to keep the apples fresh."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is certain to continue playing flute.",
+            "[person_1] is going to play alone in the sporting event hall.",
+            "Maybe [person_1] can sing.",
+            "[person_1] is going to throw paper away.",
+            "It is probable that [person_1] will continue playing flute to the end of the performance."
+        ],
+        "reason": [
+            "It seems that there are some cups on the table and [person_1] pays attention on it.",
+            "Or [person_1] is going to home.",
+            "Because [person_1] still stands there and holds the rope of the machine.",
+            "Because [person_1] seems to have a lot work to do.",
+            "Because [person_1] is still playing alone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no badminton ball in the sporting event hall?",
+        "answer": [
+            "[person_1] might come and help [person_1].",
+            "Then [person_1] will not know how [person_1] does.",
+            "[person_1] would not hold the board high enough for [person_1].",
+            "Maybe [person_1] will go home.",
+            "They will be curious about what [person_1] is doing."
+        ],
+        "reason": [
+            "Because [person_1] can not play badminton without a badminton ball.",
+            "[person_1] is in the middle already.",
+            "It will cause pollution.",
+            "[person_1] wants to do it himself to show off his skills.",
+            "He can be ill if he still practices."
+        ]
+    }
+}

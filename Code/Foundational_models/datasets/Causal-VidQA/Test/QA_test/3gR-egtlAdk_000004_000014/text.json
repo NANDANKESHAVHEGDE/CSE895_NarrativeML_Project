@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [clock_1] ?",
+        "answer": [
+            "It is being sat by [clock_1].",
+            "[clock_1] is on the top of wardrobe.",
+            "It is white.",
+            "[clock_1] is in a hospital bed.",
+            "A white vest."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room ?",
+        "answer": [
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing with someone.",
+            "[person_1] is stacking the cups quickly.",
+            "because [person_1] pretends to play the zither.",
+            "[person_1] is practicing playing the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] is going to turn the iron.",
+            "[person_1] will try to dig out the pulp inside the fruit.",
+            "[person_1] will continue playing basketball.",
+            "[person_1] will play with the paper.",
+            "[person_1] will pick up the large piece of wood in front of it and cut it."
+        ],
+        "reason": [
+            "[person_1] is at the door.",
+            "[person_1] is swimming back.",
+            "[person_1] is holding the paper.",
+            "To put some better components in the power drill.",
+            "Because [person_1] really wants to win this game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] will not practice anymore.",
+            "[person_1] will stop laughing.",
+            "[person_1] can not deal with her hair.",
+            "[person_1] will stop playing chess.",
+            "[person_1] will stop playing chess."
+        ],
+        "reason": [
+            "[person_1] will be afraid.",
+            "[person_1] will go out.",
+            "Because the juicer needs power.",
+            "Because [person_1] can see nothing.",
+            "Because television needs electricity to work."
+        ]
+    }
+}

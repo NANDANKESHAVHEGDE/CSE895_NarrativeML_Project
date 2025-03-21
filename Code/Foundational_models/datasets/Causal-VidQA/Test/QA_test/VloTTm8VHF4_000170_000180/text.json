@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is looking at her leg after waxing.",
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] intends to open the bottle.",
+            "[person_1] is exercising.",
+            "[person_1] is slamming a tire."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] hold the patch forward?",
+        "answer": [
+            "[person_1] is not good at roller skating.",
+            "With the soap in [person_1] and [person_2]'s hands.",
+            "[person_1] lifts a sledgehammer upon his head and strikes at the tire heavily.",
+            "[person_2] wanna show the results after waxing the legs of [person_1].",
+            "[person_1] uses the percussion mallets to produce sound."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep laughing.",
+            "[person_2] is going to throw the old wax strip away.",
+            "[person_2] may take off the sunglasses.",
+            "[person_2] is going to move around by foot.",
+            "[person_2] is going to keep playing."
+        ],
+        "reason": [
+            "[person_2]'s hand reaches [person_2].",
+            "[person_2] is dancing very skillfully.",
+            "That wax strip has already been used and can't use again.",
+            "[person_2] is going to start slacklining again.",
+            "[person_2] couldn't flip the cake the first time , then put the cake in the pan and tried to flip it again."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] leg has any pimples or open sores?",
+        "answer": [
+            "[person_1] and [person_1] might do it again.",
+            "The leg of [person_1] may be infected after waxing.",
+            "The baby will cry.",
+            "The headphone will break.",
+            "The others would be happy for [person_1]."
+        ],
+        "reason": [
+            "Waxing can make the problem worse if the skin has any pimples , open sores , or infections.",
+            "[person_1]'s a lefty and he is used to using his left hand.",
+            "It's normal that there's some disputes between lovers . So [person_1] and [person_1] will be fine if the problems are solved.",
+            "If [person_1] is in a higher place , it will be on the balcony's wall and fall.",
+            "[person_1] wants to take a photo that [person_1] is satisfied with , and may retake it if he is not satisfied."
+        ]
+    }
+}

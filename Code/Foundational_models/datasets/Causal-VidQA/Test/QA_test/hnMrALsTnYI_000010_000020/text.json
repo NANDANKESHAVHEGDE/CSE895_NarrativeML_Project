@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_2] wear a shirt?",
+        "answer": [
+            "The hair is yellow.",
+            "The shirt [person_2] wearing is black.",
+            "The [person_2] is being held by the [person_2].",
+            "No.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stay there?",
+        "answer": [
+            "Because paint is very toxic.",
+            "To help pile up the snow.",
+            "[person_1] has to take care of [person_2].",
+            "People are having interviews on [person_1].",
+            "Because the rugby falls behind [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after [person_2] finishes running?",
+        "answer": [
+            "[person_1] and [person_2] are going to keep dancing.",
+            "[person_1] will continue walking.",
+            "[person_1] and [person_2] are keep hugging.",
+            "[person_1] and [person_2] are going to surf slowly.",
+            "[person_1] will ask [person_2] to walk off the machine."
+        ],
+        "reason": [
+            "They are a couple.",
+            "[person_1] wants to see if [person_1] can ride while sitting.",
+            "It's dangerous.",
+            "He slows down.",
+            "[person_1] is on the middle of the road."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is hungry?",
+        "answer": [
+            "[person_2] will have something to eat.",
+            "[person_2]'ll be sad.",
+            "[person_2] will have nothing to eat.",
+            "[person_2] will making the video by herself.",
+            "[person_2] will have something to drink."
+        ],
+        "reason": [
+            "[person_2] has no security measures.",
+            "It's time for dinner.",
+            "No one shut it down.",
+            "It's time for lunch.",
+            "Doing sports without warm - up will strain your muscles."
+        ]
+    }
+}

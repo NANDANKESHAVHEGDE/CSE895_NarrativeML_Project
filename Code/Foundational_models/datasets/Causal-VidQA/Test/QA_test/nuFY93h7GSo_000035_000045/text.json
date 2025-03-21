@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_3]?",
+        "answer": [
+            "[person_1] is holding a trimmer.",
+            "It is behind the [person_1].",
+            "[person_1] is holding two sticks.",
+            "[person_1] is holding two dumbbells.",
+            "They are on the beach."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] kneel on one knee on the sand?",
+        "answer": [
+            "Because [person_1] wants to spend much time with his violin in a quiet place.",
+            "Because [person_1] completes playing the accordion successfully.",
+            "Because [person_1] is doing a fire dance on the street.",
+            "Because [person_1] need it to sort things out.",
+            "To propose to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to ask someone nearby to take a photo of [person_1] and [person_3].",
+            "[person_1] is going to practice some new skills.",
+            "[person_1] is going to practice by himself.",
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] is going to have a meal."
+        ],
+        "reason": [
+            "[person_1] is not likely to stop.",
+            "To record the happy moment.",
+            "[person_1] may take a rest.",
+            "[person_1] may keep raising eyebrows.",
+            "It seems the concert is not over."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the ring prepared by [person_3] went missing?",
+        "answer": [
+            "[person_3] might get serious injuries.",
+            "[person_3] will put off the proposal.",
+            "[person_3] will record again.",
+            "[person_3] won't be able to brag anymore.",
+            "[person_3]'s song would be worse."
+        ],
+        "reason": [
+            "[person_3] would get bad hurt.",
+            "To find the ring first.",
+            "Because they can't see other things.",
+            "[person_3] didn't take care of the pumping process.",
+            "The wine inside would splash out."
+        ]
+    }
+}

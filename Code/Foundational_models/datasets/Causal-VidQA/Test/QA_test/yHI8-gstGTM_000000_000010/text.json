@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] and [person_2]?",
+        "answer": [
+            "The [person_2] and [person_1] are close to the wall.",
+            "The fire is on the left of the place.",
+            "[person_1] and [person_2] are in the room.",
+            "It is to the left of [person_1].",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] genuflecting in front of [person_1]?",
+        "answer": [
+            "[person_1] is clapping his hand with someone.",
+            "Maybe [person_2] wants to express the respect.",
+            "[person_1] is picking the poi that he dropped.",
+            "[person_2] is practicing stretching arm.",
+            "[person_1] is doing physical exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to salute to [person_1].",
+            "[person_2] may stand up and clap his hand.",
+            "[person_2] may making cookies by herself.",
+            "[person_2] is holding his forehead with his hand.",
+            "[person_2] may plan to correct false actions."
+        ],
+        "reason": [
+            "[person_2] wants to be good at baseball.",
+            "To introduce another kind of exercise.",
+            "Maybe [person_2] is going to start a new game.",
+            "[person_2] left with the rope so [person_2] may just want to play the rope in another room.",
+            "[person_2] raised his hand in front of the head to salute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't salute [person_2]?",
+        "answer": [
+            "[person_1] may forget to put something in [person_2].",
+            "[person_1] would feel sad.",
+            "[person_1] will sit on the [person_1] and have a rest.",
+            "The shirt will be broken.",
+            "Maybe [person_2] would feel uncomfortable."
+        ],
+        "reason": [
+            "[person_2] may think [person_1] doesn't respect [person_2].",
+            "[person_1] lost his balance and slipped down.",
+            "Caring for the teammates is our nature.",
+            "There are some bowls in the cupboard now.",
+            "[person_1] can depend on [person_2] when he feels bad."
+        ]
+    }
+}

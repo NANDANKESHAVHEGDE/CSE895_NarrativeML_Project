@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the wall?",
+        "answer": [
+            "The inscription is NASA.",
+            "[sports ball_1]'s shirt is red.",
+            "[sports ball_1]'s shirt is red.",
+            "[person_1]'s shirt is black.",
+            "The painting is on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] throwing [sports ball_1] to the wall?",
+        "answer": [
+            "[person_1] and [person_1] is stacking cups.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing guitar.",
+            "[person_1] is recording a video.",
+            "[person_1] is doing exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] won't let the kids eat candy.",
+            "[person_1] will sit on the canoe after diving.",
+            "[person_1] will play a game.",
+            "[person_1] will keep practicing.",
+            "[person_1] will teach the boy how to do head stand."
+        ],
+        "reason": [
+            "[person_1] is climbing on the canoe from the water.",
+            "[person_1] just landed on the mattress and he is training high jumping.",
+            "To drop the small snowball on [person_1].",
+            "Looks like [person_1] is not tired yet.",
+            "[person_1] will divide the candy equally among two groups of children."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] throws the ball too strong?",
+        "answer": [
+            "[person_1] probably will not catch the ball.",
+            "They might play the game somewhere else.",
+            "[person_1] probably will catch the ball.",
+            "The letter may be torn.",
+            "[person_1] probably will not lose the ball."
+        ],
+        "reason": [
+            "The [person_1] can not reach the [sports ball_1] if the [sports ball_1] is next to the [person_1].",
+            "[sports ball_1] can move too fast to catch.",
+            "[person_1] will go to the dentist.",
+            "[sports ball_1] can move too slow to catch.",
+            "[person_1] could do not know the way."
+        ]
+    }
+}

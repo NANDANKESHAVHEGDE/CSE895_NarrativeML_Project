@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is purple.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book.",
+            "Because [person_1] is doing her music homework.",
+            "[person_1] is interested in hitting the cups on the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] may walk out.",
+            "[person_1] is going to drink orange juice.",
+            "[person_1] may keep working.",
+            "Maybe [person_1] is going to draw a moon."
+        ],
+        "reason": [
+            "[person_1] just finished squeezing oranges",
+            "[person_1] is in the gymnastic.",
+            "They are doing a report here.",
+            "Sled is broken.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops [cup_1] ?",
+        "answer": [
+            "[person_1] would come out of the farm.",
+            "All the orange juice in [cup_1] will be spilled.",
+            "[cup_1] will have time to relax.",
+            "[person_1] will invite him to join the game.",
+            "[person_1] would burn her hand."
+        ],
+        "reason": [
+            "[person_1] needs [person_1] to be able to surf.",
+            "Maybe the pigeons would fly away from him because [person_1] scares them.",
+            "Because [cup_1] may run to something and not stop.",
+            "The [person_1] would bump into [cup_1] while running , so [person_1] would probably get hurt.",
+            "[person_1] needs to be careful when [person_1] holds the cup."
+        ]
+    }
+}

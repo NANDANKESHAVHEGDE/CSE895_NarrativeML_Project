@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is it?",
+        "answer": [
+            "It is on a stage.",
+            "It is sunny.",
+            "It is in a yard.",
+            "It is at a concert.",
+            "The lute is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] kneel on the stage?",
+        "answer": [
+            "[person_1] asks [person_1] to play with her.",
+            "[person_1] is taking a bath.",
+            "Because [person_1] plans to propose at the stage.",
+            "Maybe [person_1] feels hurt.",
+            "Because [person_1] does not want to be tackled and falls to the ground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will continue dancing.",
+            "[person_2] is going to continue to shave head for [person_2] by moving the electric razor up to down.",
+            "[person_2] is going to stretch the left hand.",
+            "[person_2] may plan to correct false actions.",
+            "[person_2] is going to continue dancing."
+        ],
+        "reason": [
+            "Because [person_1] is holding [person_2]'s hands.",
+            "To let [person_1] put the ring on the finger.",
+            "[person_2] is about to take the image and stick it into the papers under [person_1]'s hands.",
+            "At [person_1]'s first bandage , she didn't use the binding clips to bind up the bandage , so at [person_1]'s second bandage , [person_1] will do the same thing.",
+            "[person_2] aimed at the target for a long time , so [person_2] could be aiming at the bull's eye."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] feels unhappy?",
+        "answer": [
+            "[person_2] would take a rest.",
+            "[person_2] may intervene in to stop the fight.",
+            "[person_2] would lie down on the ground.",
+            "His body could not be exercised.",
+            "All the people at the concert will clap their hands and cheer for [person_2]."
+        ],
+        "reason": [
+            "To make [person_2] happy and satisfied.",
+            "[person_2] is standing nearest the pan.",
+            "Because the dumbbell is too heavy for [person_2].",
+            "[person_2] is practicing playing the keyboard.",
+            "Men are always good at physical persistence."
+        ]
+    }
+}

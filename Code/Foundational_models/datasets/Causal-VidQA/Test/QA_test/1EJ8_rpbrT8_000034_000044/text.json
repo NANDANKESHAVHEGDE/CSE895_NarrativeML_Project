@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2]?",
+        "answer": [
+            "[person_1] is near the dining table.",
+            "[chair_2] is under [person_1].",
+            "[person_1] is behind [person_1] and [chair_2].",
+            "[chair_2] is next to [person_1].",
+            "[person_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is talking about the placement of eating utensils on [dining table_1].",
+            "[person_1] is standing on the [person_1] by hands.",
+            "Because [person_1] is playing in the room.",
+            "[person_1] is trying to stand by hands and being hurt.",
+            "Maybe [person_1] is taking part in a competition on playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "He will stop.",
+            "[person_1] is probably continue to ride the surfboard.",
+            "[person_1] will change the exercise.",
+            "[person_1] is probably going to serve food and drinks.",
+            "He will find somewhere cooler to sit."
+        ],
+        "reason": [
+            "[person_1] is arranging a table for four people.",
+            "[person_1] cannot see it clearly because the sky is dark.",
+            "[person_1] is running towards one of his teammates.",
+            "Juggle the poi is one of the skills in spinning poi.",
+            "Because [person_1] needs a fulcrum to keep his balance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if no one came to have meal with [person_1]?",
+        "answer": [
+            "[person_1] will feel uncomfortable and cough.",
+            "[person_1] might be very sad.",
+            "[person_1] will turn off the screen.",
+            "[person_1] may tell the parents of [person_1] that [person_1] doesn't want to do this.",
+            "[person_1] may give [person_1] a try."
+        ],
+        "reason": [
+            "They are going to decide on a champion.",
+            "[person_1] is mixing music between guitar and trumpet.",
+            "To relieve the pain.",
+            "[person_1] has spent much time to set up the dining table . ",
+            "Usually if a child doesn't want to have a class the child will tell his parents."
+        ]
+    }
+}

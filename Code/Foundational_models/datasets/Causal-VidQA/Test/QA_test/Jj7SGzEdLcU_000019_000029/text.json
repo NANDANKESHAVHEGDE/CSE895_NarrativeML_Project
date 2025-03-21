@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what color is [car_2]?",
+        "answer": [
+            "It is black.",
+            "The [car_2] is near the [car_2].",
+            "It is white.",
+            "[car_2] is behind the [car_2].",
+            "The lute is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] ride [bicycle_1]?",
+        "answer": [
+            "[person_1] makes beautiful shoes to sell them to customers.",
+            "[person_1] is tired.",
+            "Because [person_1] is rich.",
+            "He wants to ride [bicycle_1] outside.",
+            "[person_1] is instructing how to spin the yarn."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he starts to ride [bicycle_1]?",
+        "answer": [
+            "[person_1] will eat another.",
+            "[person_1] will stop to take a photo.",
+            "[person_1] will go home happily.",
+            "[person_1] will continue riding.",
+            "[person_1] will go on playing flute."
+        ],
+        "reason": [
+            "Because things need to be added according to the recipe.",
+            "now that [person_1] retrieved the object ; she can go back to the start to win the game.",
+            "It seems that [person_1] enjoys it and is moving forward quickly.",
+            "Because the painter just gets to start.",
+            "Because [person_1] is hungry."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] can wash it another day.",
+            "[person_1] maybe enter the house.",
+            "[person_1] will get wet if it rains.",
+            "[person_1] can't continue.",
+            "[person_1] will stop playing harp."
+        ],
+        "reason": [
+            "[person_1] will need to avoid raining.",
+            "[person_1] needs to find shelter from the rain.",
+            "[person_1] needs to find a shelter.",
+            "[person_1] is outside , if it rains he will get wet.",
+            "The roller skating rink is wet."
+        ]
+    }
+}

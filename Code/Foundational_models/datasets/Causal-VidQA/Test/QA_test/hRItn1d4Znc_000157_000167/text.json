@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "It is lying on the ground.",
+            "The [bottle_1] is in the outdoor.",
+            "[bottle_1] is in the table.",
+            "It is near door.",
+            "It is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing with [person_1] and [person_1] .",
+            "[person_1] is doing arm stretching exercises.",
+            "[person_1] is excited about her book.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is excited about holding her gift."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Take the fruit out of pumpkin and throw it away.",
+            "[person_1] is going to slowly opening his arms.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] will try to continue practicing.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "Maybe [person_1] is tired.",
+            "Because [person_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "It is dirty after taking shower for [person_1].",
+            "Because [person_1] is giving [person_1] instructions.",
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has resistance bands?",
+        "answer": [
+            "[person_1] will be exercise better muscles.",
+            "[person_1] has nothing to drink.",
+            "[person_1] will not run anymore.",
+            "[person_1] will not sad and may continue playing other badminton match.",
+            "[person_1] will not vacuum the carpet."
+        ],
+        "reason": [
+            "Because [person_1] would like to take revenge for [person_1].",
+            "To take some medical examinations.",
+            "Maybe it will help [person_1] episode better.",
+            "Because they will be using [person_1] later in the show.",
+            "Shaving makes you look younger and more handsome."
+        ]
+    }
+}

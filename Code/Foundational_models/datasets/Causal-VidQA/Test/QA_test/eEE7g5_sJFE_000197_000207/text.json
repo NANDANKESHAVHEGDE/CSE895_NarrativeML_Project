@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather ?",
+        "answer": [
+            "[person_1] is lying on the floor.",
+            "Yes , only one.",
+            "No , there isn't.",
+            "There are two wheelchairs.",
+            "The weather is sunny."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside ?",
+        "answer": [
+            "Maybe adults are shooting a video.",
+            "[person_1] is stacking the cups on the table.",
+            "[person_1] is unboxing the present.",
+            "[person_1] playing the lute for fun.",
+            "[person_1] is happy to do the roasting."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] is continue stacking cups.",
+            "[person_1] will continue playing in the room.",
+            "[person_1] will keep dancing.",
+            "[person_1] will use another hand to shake.",
+            "[person_1] will share his work with the camera."
+        ],
+        "reason": [
+            "[person_1] will practice harder.",
+            "[person_1] is stacking cups in a professional way.",
+            "They have not started yet . They are standing there.",
+            "Because if you lose , you will be punished . This is the rule.",
+            "[person_1] needs to use the machine to copy something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains ?",
+        "answer": [
+            "Maybe [person_1] will stop making the basket temporarily.",
+            "[person_1] will not practice there.",
+            "[person_1] maybe stop playing.",
+            "[person_1] will get wet.",
+            "The rain has little effect on them."
+        ],
+        "reason": [
+            "[person_1] will go into the house.",
+            "The competition will not be held.",
+            "Because [person_1] is outside.",
+            "[person_1] cannot skate outside.",
+            "It will be very uncomfortable to surf in the rain."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the current time?",
+        "answer": [
+            "Behind [person_1].",
+            "[person_1] on the side of the badminton court.",
+            "It is daytime.",
+            "The [person_1] is on the table.",
+            "They are red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] may just take up skating.",
+            "[person_1] is squeezing oranges with a juicer.",
+            "[person_1] is training spinning poi.",
+            "[person_1] is here to tag the graffiti.",
+            "[person_1] is introducing how to do massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] will take more food.",
+            "[person_1] is going to keep bouncing the ball into the wall.",
+            "[person_1] is going to check the files in the box.",
+            "[person_1] is going to continue spraying the graffiti.",
+            "[person_1] is going to take the toys."
+        ],
+        "reason": [
+            "[person_1] is doing it perfectly and does not arrive at the destination.",
+            "[person_1] is paying all attention on the painting.",
+            "Because it seems that there is still some work that needs to do.",
+            "[person_1] still holds drumsticks and moves hands.",
+            "[person_1] really likes dancing and is not done for the day."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color on the graffiti?",
+        "answer": [
+            "[person_1] doesn't have to compensate for what [person_1] had done.",
+            "Maybe [person_1] will toss it in the trash.",
+            "[person_1] might have to compensate for what [person_1] had done.",
+            "The house will be dark and [person_1] will use [person_1] for light.",
+            "[person_1] might have to compensate for what [person_1] hadn't done."
+        ],
+        "reason": [
+            "Because it might ruin the graffiti.",
+            "[person_1] and [person_1] combined between jumping rope and somersaulting . It is easy to fall.",
+            "Because it might build the graffiti.",
+            "[person_1] can't work without electricity.",
+            "Because it won't ruin the graffiti."
+        ]
+    }
+}

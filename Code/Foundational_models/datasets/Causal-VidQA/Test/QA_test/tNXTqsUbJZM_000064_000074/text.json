@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] doing?",
+        "answer": [
+            "[person_3] is giving massage to [person_2]'s arm.",
+            "[person_3] is holding a clarinet.",
+            "[person_2] is holding a cup.",
+            "The pictures are on the wall behind [person_3].",
+            "[person_3] is sitting and watching them playing a game."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] paint something on the [person_2]'s arm\uff1f",
+        "answer": [
+            "[person_3] wants to improve the knowledge.",
+            "To reduce the friction.",
+            "[person_3] is doing a circus.",
+            "[person_3] is doing exercises.",
+            "[person_3] does parkour by jumping over a chair and the [person_3]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after the massage?",
+        "answer": [
+            "[person_2] will remind [person_2] to hurry up.",
+            "[person_2] will drink coconut water.",
+            "[person_2] will not slip into the meadow.",
+            "[person_2] has to pay for the massage.",
+            "[person_2] will do according to what [person_2] says."
+        ],
+        "reason": [
+            "It seems that [person_2] cannot wait to open it with a rapid speed.",
+            "After [person_2] picks up the object located by [person_2] , she begins to hop over to where she came from.",
+            "Because the [person_2] is practically burrowed into the the [person_2].",
+            "[person_2] must pay for the service he has received.",
+            "Because [person_2] feels it boring."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] scratched too hard?",
+        "answer": [
+            "[person_2] would not know what's exactly inside the bag.",
+            "[person_2] would feel not good.",
+            "Grime , residue , and moisture will prevent the wax from sticking.",
+            "The legs of [person_1] may get hurt after finishing the high kick.",
+            "[person_1] will have to remove the wrapping paper and wrap it again."
+        ],
+        "reason": [
+            "[person_2] is only a child , he can't flip the cake himself.",
+            "[person_1] is in the kitchen , she can take a knife easily.",
+            "[person_2] cannot hold the bottle and wine glass at the same time.",
+            "[person_1] turned around to dance in another direction.",
+            "[person_2] would feel hurt on his head skin."
+        ]
+    }
+}

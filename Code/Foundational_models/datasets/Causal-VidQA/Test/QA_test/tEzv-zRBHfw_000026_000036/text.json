@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The shirt [person_2] wearing is yellow",
+            "[person_2] is wearing a black shirt.",
+            "The [person_2] is wearing a cap.",
+            "The shirt is a black shirt with flowers.",
+            "[person_2] is wearing a red shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] point at the chess piece?",
+        "answer": [
+            "[person_2] is trying to get as many dices stacked in the bottle as possible.",
+            "[person_2] and [person_2] are excited about something.",
+            "Because [person_2] prepares for the next move.",
+            "It is easy for [person_2] to rub [person_2]'s shoulders.",
+            "[person_2] lined up the dice on the table and swung the cup to pick up the dice and stack."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will stop hooping.",
+            "[person_2] will practice more.",
+            "[person_2] will continue playing checkers.",
+            "It is possible that [person_2] will run forward.",
+            "[person_2] will stop kicking high."
+        ],
+        "reason": [
+            "Because [person_2] wants to do well.",
+            "[person_2] is showing how to use roller skate.",
+            "Maybe [person_2] has stopped kicking high.",
+            "[person_2] dropped the hoop and went away.",
+            "[person_2] is pointing at the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the chessboard breaks down?",
+        "answer": [
+            "The chess piece will be broken down.",
+            "[person_2] would lost his finger.",
+            "The lamp will not work.",
+            "The party would be stop.",
+            "[person_2] would see more clearly."
+        ],
+        "reason": [
+            "[person_2] could not see anything and lose direction without light.",
+            "The chess piece is on the chessboard.",
+            "Because the fence is made of wood.",
+            "There is a barbell beside him.",
+            "[person_2] tries to complete his performance."
+        ]
+    }
+}

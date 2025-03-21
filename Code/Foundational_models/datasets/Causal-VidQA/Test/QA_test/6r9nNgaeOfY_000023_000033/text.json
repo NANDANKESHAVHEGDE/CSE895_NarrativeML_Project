@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a tank top.",
+            "[person_1] is wearing a superhero costume.",
+            "[person_1] is wearing a blue sweatshirt.",
+            "[person_1] is wearing a white shirt.",
+            "The mechanical bull is on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep going back and forth?",
+        "answer": [
+            "[person_1] keeps going back and forth to find a gift [person_1] likes.",
+            "both [person_1] and [person_1] are creating supportive wall for each other to lean on.",
+            "[person_1] is playing didgeridoo by blowing air into it.",
+            "It is to decorate for the celebration.",
+            "[person_1] is playing bagpipe - a traditional instrument."
+        ]
+    },
+    "predictive": {
+        "question": "Next , what will [person_1] do?",
+        "answer": [
+            "[person_1] will let the dog go.",
+            "[person_1] is going to drink the beer.",
+            "[person_1] will taste the marshmallows.",
+            "[person_1] will return the gift [person_1] is holding to its place.",
+            "[person_1] will taste the marshmallow."
+        ],
+        "reason": [
+            "It seems that [person_1] is paying attention on [person_1] and flipping it.",
+            "[person_1] will return the gift [person_1] is holding to its place because [person_1]'s body is moving in that direction.",
+            "[person_1] wants to experience high speed.",
+            "It appears that [person_1] is running toward the ball.",
+            "Because [person_1] just fell to the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] didn't like the gift?",
+        "answer": [
+            "The machine will not move.",
+            "[person_2] wouldn't hug it.",
+            "[person_2] can't understand how to move.",
+            "[person_2] would leave.",
+            "Maybe they can't sit."
+        ],
+        "reason": [
+            "[person_2] wouldn't hug it to the front to show off.",
+            "[person_2] would master this type of dancing.",
+            "[person_2]'s smile is so beautiful.",
+            "[person_2] couldn't continue performing without a working microphone.",
+            "[person_2] was arriving at the table however [person_2] halted her."
+        ]
+    }
+}

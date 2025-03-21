@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a hacker mask.",
+            "[person_1] is skating on the floor.",
+            "[person_1] is in the corner of the gym.",
+            "[person_1] is wearing a coat.",
+            "[person_1] is wearing a dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the harmonica?",
+        "answer": [
+            "[person_1] wants to water the plants.",
+            "because [person_1] must do so in order to sharpen the pencil.",
+            "[person_1] is excited about making the basket.",
+            "when [person_1] looking at the mirror , the reflection looks like someone else.",
+            "Maybe [person_1] is learning how to play the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sit down.",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may dance with [person_1].",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] is going to practice more and more."
+        ],
+        "reason": [
+            "[person_1] is going to rest.",
+            "[person_1] is spraying paint.",
+            "[person_1] is relaxing by playing the harmonica.",
+            "[person_1] is finishing the product.",
+            "[person_1] is also eager to open presents."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops playing the harmonica?",
+        "answer": [
+            "[person_1] will lead the cows to the barn.",
+            "It is possible that [person_1] will catch a cold.",
+            "[person_1] will drink a cup of water.",
+            "The [person_1] will not try his best to perform.",
+            "The pencil head would be broken."
+        ],
+        "reason": [
+            "It is very cold and there is snow on the ground.",
+            "[person_1] will need to do that to keep practicing.",
+            "There is a cup of water on the table.",
+            "Because [person_1] likes flowers , when he holds the flower he will happy and this will make him more handsome.",
+            "[person_1] will cry then."
+        ]
+    }
+}

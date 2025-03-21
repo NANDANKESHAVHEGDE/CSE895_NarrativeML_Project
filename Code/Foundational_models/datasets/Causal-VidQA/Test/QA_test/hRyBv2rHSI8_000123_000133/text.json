@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "It is black.",
+            "The shorts are red.",
+            "The shirt [person_1] is wearing is white.",
+            "The socks are white.",
+            "The shirt [person_1] wearing is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] talking?",
+        "answer": [
+            "[person_1] is playing the drums.",
+            "The [person_1] stretches the arms to the right and the left.",
+            "Because [person_1] crouched down and got tangled in the rope.",
+            "Perhaps [person_1] is teaching the way to play the harmonica.",
+            "Because [person_1] tries to clamp the beer cap with his belly meat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] is going to stand still.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] will show his skills with the harmonica.",
+            "[person_1] is going to warm up there."
+        ],
+        "reason": [
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "[person_1] is holding a harmonica.",
+            "[person_1] is holding a big bag of food in the goat barn.",
+            "[person_1] opens the [person_1] to put the [person_1] in.",
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the harmonica?",
+        "answer": [
+            "[person_1] will go inside.",
+            "[person_1] may have to find the [person_1].",
+            "[person_1] can't wear the shoe.",
+            "[person_1] will have to wait for his turn to play.",
+            "[person_1] will pick it up."
+        ],
+        "reason": [
+            "[person_1] needs a harmonica to play.",
+            "Weights are very heavy.",
+            "It is too hot.",
+            "[person_1] can't stay outside with a headache.",
+            "The hot weather makes [person_1] ill."
+        ]
+    }
+}

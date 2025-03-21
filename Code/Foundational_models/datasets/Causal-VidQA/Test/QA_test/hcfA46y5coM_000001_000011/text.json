@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is lifting the sledgehammer.",
+            "[person_1] is doing lunges in front of a mirror.",
+            "[person_1] is recording his fingers playing an electric guitar.",
+            "[person_1] is removing the cork with her teeth.",
+            "[person_1] is playing with a sledgehammer."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing lunges at the same time with [person_2].",
+        "answer": [
+            "Because [person_1] and [person_2] are watering the plants?",
+            "Because [person_2] is the reflection of [person_1].",
+            "[person_2] wants to praise [person_1].",
+            "Maybe [person_1] is dancing.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to roll the ruler back.",
+            "[person_1] is going to keep smoking.",
+            "[person_1] is going to keep doing lunges in front of the mirror.",
+            "[person_1] is going to skate.",
+            "[person_1] is going to sing."
+        ],
+        "reason": [
+            "[person_1] is going to enjoy the melody.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is still holding the weight on his hands.",
+            "[person_1] is playing very attentively.",
+            "Because he finished his work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not have the mirror?",
+        "answer": [
+            "[person_1] would be lose.",
+            "There would not be [person_2].",
+            "[person_2] will overbalance.",
+            "The plate might fly into the body of the [person_1].",
+            "The [person_1] might get sunburned."
+        ],
+        "reason": [
+            "Because if she did not pick the tile up , she would be considered cheating in the game.",
+            "[person_1] would not have any reflection",
+            "The lifts are too heavy for [person_1] to hold for a long time.",
+            "[person_1] spun two plates at the same time.",
+            "Because his father thinks breaking something is not good."
+        ]
+    }
+}

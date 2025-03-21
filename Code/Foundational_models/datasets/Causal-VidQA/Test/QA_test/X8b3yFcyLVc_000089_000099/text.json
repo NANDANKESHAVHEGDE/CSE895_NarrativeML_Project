@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are stones?",
+        "answer": [
+            "No.",
+            "It is black.",
+            "The stones are behind the people.",
+            "Yes.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] give [person_1] something to eat?",
+        "answer": [
+            "[person_1] is singing.",
+            "[person_1] , [person_3] and [person_3] are playing together.",
+            "[person_3] is giving a massage to [person_1]'s head.",
+            "[person_1] is too young to to the roasting well.",
+            "It's the break time and [person_1] is having fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do after helping [person_1]?",
+        "answer": [
+            "[person_3] will roast another marshmallow for [person_1].",
+            "[person_3] will continue playing.",
+            "[person_3] will continue toss rope.",
+            "[person_3] will take a rest.",
+            "[person_3] will put his hand down."
+        ],
+        "reason": [
+            "Because [person_3] doesn't more and changes his posture to continue the observation of [person_1] and [person_1].",
+            "Because others danced well , it aroused his interest.",
+            "[person_1] can't do that by himself.",
+            "[person_3] will feel tired.",
+            "To set an example for the children."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] drops marshmallows in the fire?",
+        "answer": [
+            "[person_3] would tell [person_1] how to do the roasting correctly.",
+            "[person_1] would feel proud.",
+            "[person_1] might bump into the [person_1].",
+            "The [person_1] will learn it.",
+            "[person_1] will pick up that ball."
+        ],
+        "reason": [
+            "[person_1] did not notice.",
+            "Because dogs love picking balls.",
+            "[person_1] didn't follow the instruction.",
+            "[person_1] will stop playing.",
+            "[person_1] is just a starter and needs guidance."
+        ]
+    }
+}

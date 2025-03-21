@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_3]?",
+        "answer": [
+            "[person_3] is at the basketball court.",
+            "[person_3] is at the sheep sheering facility.",
+            "[person_3] is sitting on the bed.",
+            "The [person_3] is near the window and close to the wall.",
+            "[person_3] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] put his hands on [person_1]?",
+        "answer": [
+            "[person_1] is stacking the cups quickly.",
+            "[person_1] is enjoying the music that [person_1] is playing.",
+            "[person_1] is playing harmonica.",
+            "[person_1] and [person_2] are standing back to back together and slowly moving.",
+            "[person_2] is grabbing [person_1] to move them to a different spot."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_2] next?",
+        "answer": [
+            "[person_2] will laugh and forgive [person_1] for smacking him so hard.",
+            "[person_1] will continue to play guitar until his fingers star to hurt him.",
+            "The hands of [person_1] will turn black from the newspaper ink.",
+            "[person_1] will wash all the dishes in [person_2].",
+            "[person_2] will move [person_1] to a different spot where he's not in the way of [person_3] trying to work."
+        ],
+        "reason": [
+            "[person_1] is pressing the buttons on the accordion.",
+            "[person_1] is looking on the ground to land off.",
+            "[person_1] is playing the harmonica for money.",
+            "Because [person_1] seems to have a lot work to do.",
+            "[person_1] is standing close to the work area of [person_3] , that's why [person_2] moves him."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the cutter [person_3] was using broke?",
+        "answer": [
+            "The plastic rod will suddenly pop up and hit [person_3] on the face.",
+            "[person_3] can't open the [person_3].",
+            "The person on the far right may drop the tray of food.",
+            "The [person_3] would get a cold.",
+            "[person_3] would stop cutting and have to find a replacement tool so he could finish trimming the sheep's fur."
+        ],
+        "reason": [
+            "the job of [person_3] is to cut the sheep's hair ; he would need to find a replacement cutter to continue his work.",
+            "There is no electricity so all the lights are off.",
+            "[person_3] fell off to the floor because [person_3] leaned on a small chair which is not firm.",
+            "They are very excited now.",
+            "Because an injured hand touching metal is prone to infection."
+        ]
+    }
+}

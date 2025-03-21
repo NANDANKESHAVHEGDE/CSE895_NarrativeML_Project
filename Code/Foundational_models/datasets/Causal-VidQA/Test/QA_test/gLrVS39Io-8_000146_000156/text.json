@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing ?",
+        "answer": [
+            "[person_1] is both singing and cleaning his shoes.",
+            "[person_1] is kissing her husband.",
+            "[person_1] is playing cymbals.",
+            "[person_1] is playing basketball.",
+            "[person_1] is decorating the snowman."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing cymbals ?",
+        "answer": [
+            "[person_1] is practicing.",
+            "Because [person_1] can somersault.",
+            "[person_1] is playing the accordion.",
+            "Because [person_1] wants to water the plants.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do ?",
+        "answer": [
+            "[person_1] intends to continue playing the gong.",
+            "[person_1] will continue to play drums enthusiastically.",
+            "[person_1] will continue playing the drums.",
+            "[person_1] intends to continue playing cymbals.",
+            "[person_1] intends to pull with two hands."
+        ],
+        "reason": [
+            "[person_1] is playing very well.",
+            "[person_1] needs a ball to keep on practicing.",
+            "Because it is her dream for many years.",
+            "[person_1] reaches out towards the camera.",
+            "The blackjack game is over."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cymbals is broken ?",
+        "answer": [
+            "[person_1] would stop working.",
+            "[person_1] would be drunk fast.",
+            "[person_1] will play other instrument.",
+            "[person_1] might borrow [person_1]'s phone.",
+            "The hour and second hands of the [person_1] will not run."
+        ],
+        "reason": [
+            "Because it's the rules of the game.",
+            "Because the weight would hit very hard.",
+            "There are many instruments around.",
+            "[person_1] would feel very craving for candy.",
+            "The rapid current makes it easy to stand unsteady."
+        ]
+    }
+}

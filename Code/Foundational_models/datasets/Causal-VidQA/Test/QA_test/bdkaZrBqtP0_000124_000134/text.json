@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "The dog is behind [chair_1].",
+            "[person_2] is sit on [chair_1].",
+            "[person_2] is behind [chair_1].",
+            "[person_2] is in the big yard.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [chair_1] put there?",
+        "answer": [
+            "[chair_1] is put there for [person_2] to sit on.",
+            "The mechanic bull is rotating very fast.",
+            "Because winner will use [person_2] punch loser's head.",
+            "[chair_1] is training spinning poi.",
+            "[person_2] is roller skating."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to rest.",
+            "[person_3] is going to counterattack.",
+            "[person_3] is going to ask them to stop fighting swords.",
+            "[person_3] is going to stop the drill.",
+            "[person_3] is going to keep watching."
+        ],
+        "reason": [
+            "[person_3] look very professional.",
+            "[person_3] doesn't move the head around.",
+            "[person_3] put the scissors into the bandage on the horse's leg.",
+            "[person_3] guided and asked [person_3] to lower the plate.",
+            "Because the hole is not been full."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] weren't there?",
+        "answer": [
+            "[person_2] would not be received a piece of snack from [person_2].",
+            "[chair_1] would not have anyone to sit on.",
+            "[chair_1] would find it difficult to prepare food with hard shells.",
+            "[person_2] would be angry.",
+            "The balloon would still be in it's original shape."
+        ],
+        "reason": [
+            "[person_2] will ask other people.",
+            "There would be only [person_2] sitting on [chair_1] at the beginning.",
+            "[person_2] is a young and new horse rider.",
+            "The [chair_1] is professional when touching buttons.",
+            "The [person_2] wants to throw the snowball into the [chair_1]."
+        ]
+    }
+}

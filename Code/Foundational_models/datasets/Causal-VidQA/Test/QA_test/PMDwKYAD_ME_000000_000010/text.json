@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is looking for the eggnog.",
+            "The [person_1] is wearing a bucket and sunglasses.",
+            "[person_1] is lying on the [refrigerator_1].",
+            "The [person_1] is riding the camel.",
+            "The [person_1] is looking for something in the [refrigerator_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] try to open the [refrigerator_1] door?",
+        "answer": [
+            "To lift the shirt in [person_1]'s hand to look at it.",
+            "[person_1] is shearing [refrigerator_1].",
+            "Because the [person_1] wants to look for something in the [refrigerator_1].",
+            "Because [person_1] is a barber.",
+            "Because when [person_1] is snatching weight lifting , [person_1] needs the weight lifting."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will look at the screen.",
+            "The [person_1] will open the TV.",
+            "The [person_1] will get off then.",
+            "The [person_1] will dry the hair for the dog.",
+            "The [person_1] is going to something in the [refrigerator_1]."
+        ],
+        "reason": [
+            "Because the [person_1] hasn't found what she wants.",
+            "Because the [person_1] doesn't seem to be very good at operating the ATM.",
+            "Because the [person_1] needs to be trained several times before they will understand their owner's commands.",
+            "Because another tool is left somewhere else.",
+            "Because [person_1] is asked to show the procedures."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [refrigerator_1] door is closed while she is looking for something?",
+        "answer": [
+            "The [person_1] will be trapped between the [refrigerator_1] and the door of the [refrigerator_1].",
+            "[person_1] would invite the person who is on [person_1] to join the class.",
+            "The [person_1] will be trapped outside the [refrigerator_1] and the door of the [refrigerator_1].",
+            "Maybe [person_1] will injure.",
+            "The [person_1] will be trapped between the [refrigerator_1] and the door of the room."
+        ],
+        "reason": [
+            "To take medical examinations.",
+            "Because the door of the [refrigerator_1] has a certain inertia will close on its own.",
+            "There are many cymbals behind [refrigerator_1].",
+            "Because the door of the [refrigerator_1] has a certain inertia will open on its own.",
+            "[refrigerator_1] and others didn't have a game plan."
+        ]
+    }
+}

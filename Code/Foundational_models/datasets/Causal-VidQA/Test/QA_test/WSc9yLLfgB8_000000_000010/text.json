@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is wearing a black cap.",
+            "the [person_1] is wearing a pink shirt.",
+            "The [person_1] is introducing how to make the doll to the audience.",
+            "The [person_1] is opening the [refrigerator_1] door.",
+            "The [person_1] is wearing a bucket and sunglasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the [refrigerator_1] door?",
+        "answer": [
+            "[person_1] he is shaving [person_1].",
+            "Because [person_1] is practicing snatching weight lifting.",
+            "The [person_1] seems to be looking for something in the [refrigerator_1].",
+            "Because the [person_1] is introducing the arrangement of the items in the [refrigerator_1].",
+            "Because [person_1] tries to eat it."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may place the square plate somewhere.",
+            "The [person_1] will tuck his legs down.",
+            "The [person_1] may open the faucet to wash the cup.",
+            "The [person_1] is going to point at the screen and keep presenting.",
+            "The [person_1] will return to the [person_1] by skating."
+        ],
+        "reason": [
+            "The [person_1] is still putting the cloth on the feet of the [person_1].",
+            "Because the [person_1] closes the refrigerator door as if he is going somewhere.",
+            "The [person_1] is performing the best and wants to move around.",
+            "The [person_1] tries to hold dog leash of the [person_1].",
+            "The [person_1] has just picked the apple and the [person_1] is saying."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the [refrigerator_1] door does not close?",
+        "answer": [
+            "If there is no donut on the plate , [person_1] will stop eating.",
+            "The [person_1] will arrange the items in the refrigerator again and then try to close the door again.",
+            "Maybe [person_1] will tie a knot on the dummy's head directly.",
+            "Then people have to sit on the floor to have a rest.",
+            "[person_1] will sit on the floor."
+        ],
+        "reason": [
+            "[refrigerator_1] would have to do the work of [refrigerator_1] too if [refrigerator_1] wasn't there.",
+            "Because [refrigerator_1] wants to keep the little boy happy.",
+            "Extending arms helps [refrigerator_1] keep balance and slow down.",
+            "Because they will fall down from the camel.",
+            "Because if you do not close the refrigerator door , then the refrigerator cooling effect becomes worse."
+        ]
+    }
+}

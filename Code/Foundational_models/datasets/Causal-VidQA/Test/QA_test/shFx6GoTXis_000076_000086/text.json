@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing the white shirt.",
+            "It's pink.",
+            "It's yellow.",
+            "It's green.",
+            "The shirt [person_1] wearing is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play the organ?",
+        "answer": [
+            "The [person_1] is leaning on the tree to keep balance on the stilts.",
+            "The [person_1] is opening the gift.",
+            "The [person_1] wants to pick some blueberries.",
+            "[person_1] is practicing.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to keep playing the organ.",
+            "[person_1] intends to playing guitar.",
+            "[person_1] intends to play the guitar.",
+            "[person_1] will share tips to apply beautiful lipstick to viewers."
+        ],
+        "reason": [
+            "[person_1] just folded half the napkin.",
+            "[person_1] is holding a lipstick in her hand.",
+            "The the hand of [person_1] is facing the chess piece.",
+            "[person_1] still holds the harmonica.",
+            "[person_1] is putting her fingers on the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off?",
+        "answer": [
+            "It won't be sunny.",
+            "[person_1] will not see anything.",
+            "[person_1] will stop playing the keyboard.",
+            "Maybe he will find a new one.",
+            "[person_1] won't be able to keep shaving."
+        ],
+        "reason": [
+            "[person_1] can't see anything without the light.",
+            "Because the machine big like this will have strong power.",
+            "The players can't play blackjack in the dark.",
+            "[person_1] is acting very hard.",
+            "The swing thrust is quite fast so it could make the children fall suddenly if the swing chains broke."
+        ]
+    }
+}

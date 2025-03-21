@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a lake?",
+        "answer": [
+            "The green chair is behind [horse_1].",
+            "There are three wheelbarrows.",
+            "No.",
+            "Yes.",
+            "It is on the right hand side of [horse_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a lake?",
+        "answer": [
+            "[person_1] is jumping to throw the ball.",
+            "For horses to drink water.",
+            "[person_1] is playing.",
+            "Maybe [horse_1] loves the sound of maracas.",
+            "[horse_1] is sitting on the floor."
+        ]
+    },
+    "predictive": {
+        "question": "What will [horse_1] do after running for a while?",
+        "answer": [
+            "[horse_1] will go to the lake.",
+            "[horse_1] is going to light the candle.",
+            "The [horse_1] will take good care of the [horse_1].",
+            "[horse_1] will move the tire to another place.",
+            "[horse_1] will start to hide."
+        ],
+        "reason": [
+            "The horse wants to drink water.",
+            "Because the [horse_1] is the mother of the [horse_1].",
+            "The lady is going to keep ripping the paper to make [horse_1] happy.",
+            "[horse_1] has a headache.",
+            "[horse_1] is pushing [horse_1] towards [horse_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a cow coming here?",
+        "answer": [
+            "[person_1] will stop.",
+            "[person_1] will be a normal person.",
+            "[person_1] may float.",
+            "[person_1] will be wet.",
+            "[person_1] will do other activities on the floor."
+        ],
+        "reason": [
+            "Because they will feel tired from training.",
+            "The audience wants to see a good live performance without mistake.",
+            "[person_1] can run freely without limitation.",
+            "Because he had to stick the boards together.",
+            "[person_1] doesn't want to hurt the cow."
+        ]
+    }
+}

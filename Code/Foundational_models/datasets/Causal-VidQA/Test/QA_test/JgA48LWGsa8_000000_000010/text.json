@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there two cups on the table?",
+        "answer": [
+            "There are four.",
+            "There is only one.",
+            "Yes , there are.",
+            "The room is very big.",
+            "He runs at a slow speed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there two cups?",
+        "answer": [
+            "Because they may be thirsty.",
+            "Because the ball tumble to the bush.",
+            "Because [person_2] can't snatch weight lifting without the weight lifting.",
+            "The feet of [person_1] got stuck with the rope.",
+            "Because [person_1] likes the sound of ripping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will work together again to pull the iron sheet out of the machine.",
+            "They will keep playing.",
+            "After all the lettuce is shredded by hand , they will put the vegetables into their salad.",
+            "It is predicted that [person_1] and [person_2] will use the ball to play with one another.",
+            "They will go swimming in the sea."
+        ],
+        "reason": [
+            "They have a good time.",
+            "It is clear that they enjoy the game a lot.",
+            "Because they hasn't decided a winner.",
+            "[person_1] and [person_2]'s movements did not stop.",
+            "To make the dance varied."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would [person_2] do if the water in [cup_1] is spilled?",
+        "answer": [
+            "[person_2] would cry when [person_2] wakes up.",
+            "[person_2] will continue playing.",
+            "[person_2] will do again.",
+            "[person_2] will stop playing.",
+            "[person_2] can leave first."
+        ],
+        "reason": [
+            "They will continue to clean it.",
+            "To prevent going bad.",
+            "They will continue and won't clean it.",
+            "To relax first.",
+            "They will stop to clean it."
+        ]
+    }
+}

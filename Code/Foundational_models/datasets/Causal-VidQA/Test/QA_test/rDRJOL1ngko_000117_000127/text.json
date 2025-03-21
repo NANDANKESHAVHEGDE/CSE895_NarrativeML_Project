@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the room.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is on board."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] having \u00a0 a lot of cup in his hand?",
+        "answer": [
+            "[person_1] is playing roller skating.",
+            "[person_1] is stacking cups.",
+            "[person_1] is playing the harmonica to relax.",
+            "[person_1] would like to do a handstand safely.",
+            "Because there is something wrong with her mind."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack these cups.",
+            "[person_1] will check the result.",
+            "[person_1] will build a higher cup tower.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will stop skiing."
+        ],
+        "reason": [
+            "[person_1] is fond of doing it.",
+            "[person_1] feels excited.",
+            "[person_1] took more cups.",
+            "Sled is broken.",
+            "[person_1] is jumping very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone takes [cup_1] ?",
+        "answer": [
+            "The cup tower will fall.",
+            "[cup_1] may not move stone out.",
+            "He will be sad.",
+            "They will be bitten by worms.",
+            "Frisbee may change its direction."
+        ],
+        "reason": [
+            "[cup_1] is too short to reach the sink.",
+            "Because the organ cannot be used as it was in the beginning.",
+            "To make sure the performance goes smoothly.",
+            "[cup_1] is very important in the structure of the cup tower.",
+            "[cup_1] would not want to get wet."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the lake.",
+            "[person_1] is in the garden.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the [refrigerator_1] ?",
+        "answer": [
+            "[person_1] needs [person_1] to hit the ball.",
+            "[person_1] is doing something with [refrigerator_1] .",
+            "Because [person_1] might fall.",
+            "because [person_1] has to do that or [person_1] will fall.",
+            "To give [person_1]'s feet a massage."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to not eat.",
+            "[person_1] is going to move the product to the warehouse.",
+            "[person_1] is going to continue waxing back for [person_1].",
+            "[person_1] is going to go home.",
+            "[person_1] want to exercise with the exercising ball."
+        ],
+        "reason": [
+            "[person_1] just finished his work.",
+            "Because the blue is skying at night.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] is going to feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the product on the floor?",
+        "answer": [
+            "[person_1] will pick it up without any damage.",
+            "[person_1] will relax on the sofa.",
+            "[person_1] will lose his strong muscles.",
+            "Someone might be hurt badly.",
+            "[person_1] may change the body position."
+        ],
+        "reason": [
+            "That's how the truck works.",
+            "[person_1]'s master worker will help him.",
+            "[person_1] is standing on hard ground.",
+            "[person_1] cannot do only one body position.",
+            "Wood products are very durable."
+        ]
+    }
+}

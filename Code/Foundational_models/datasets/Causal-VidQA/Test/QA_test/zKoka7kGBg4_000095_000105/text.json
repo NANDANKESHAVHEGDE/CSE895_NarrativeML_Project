@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_3]?",
+        "answer": [
+            "The [person_2] is parked in the yard in front of the house.",
+            "The [person_2] is in the yard and next to the gate of the house.",
+            "The [person_3] is in the garden and behind the [person_2].",
+            "[person_2] is white and dark.",
+            "The [person_3] is dark brown and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_2] holding the branch?",
+        "answer": [
+            "The [person_2] is trying to pick blueberries.",
+            "[person_2] and [person_2] are doing it for fun.",
+            "Because [person_2] has to shape the sushi.",
+            "[person_2] is demonstrating different ways to exercise.",
+            "The [person_2] is eating."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to wash the blue plate with water.",
+            "The [person_1] is going to go through all the bottles and jars in the refrigerator.",
+            "The [person_1] is going to kick the last ball.",
+            "The [person_1] is going to keep seeking blueberries.",
+            "the [person_1] is going to move on the next step."
+        ],
+        "reason": [
+            "The [person_1] is putting the bottle of white wine down.",
+            "The [person_1] is almost done one potato.",
+            "Because the [person_1] seems to be looking for something in the [person_1].",
+            "The [person_1] almost finishes the tile installation.",
+            "The [person_1] is pulling the branch down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_2] did not pull the branch down?",
+        "answer": [
+            "The fish will go looking for food elsewhere and [person_2] won't see the fish anymore.",
+            "[person_2] will scream loud.",
+            "Motorcycles get lost.",
+            "[person_2] would not be able to recreate the vibe of traditional performance.",
+            "The [person_2] could not pick blueberries."
+        ],
+        "reason": [
+            "The [person_2] has enough building materials to flatten.",
+            "The branch of blueberries is taller than the [person_2].",
+            "[person_2] might bump into the chair.",
+            "The fish don't come to the surface.",
+            "[person_2] scored after kicking the ball into the goal."
+        ]
+    }
+}

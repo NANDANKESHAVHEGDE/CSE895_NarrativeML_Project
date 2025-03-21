@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a picture?",
+        "answer": [
+            "The microphone is in front of [person_2].",
+            "[person_2] is on the left hand of [person_2].",
+            "The picture is hanging on the wall.",
+            "The light is hanged on the ceiling.",
+            "The mirror is hung on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is able to sing loudly without affecting others.",
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is sitting on the chair and using the piano.",
+            "[person_1] is opening a gift.",
+            "[person_1] is practicing cello."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue a party.",
+            "[person_1] probably will ride the bike straight to the house.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] will stop playing the flute.",
+            "[person_1] is turning around to get the comb."
+        ],
+        "reason": [
+            "[person_1] moved the ball to the right.",
+            "It is probable that [person_1] is talking about a hurling match [person_1] has just seen and [person_1] loves the match.",
+            "Because [person_1] needs more stones to finish the wall and there is no stone left in the hand of [person_1].",
+            "Because [person_1] cannot believe in the eyes of [person_1].",
+            "There are a lot of people here."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] and [person_1] won't be able to performing.",
+            "[person_1] can light candles to continue the party.",
+            "[person_1] and [person_1] will stop singing karaoke.",
+            "Maybe she will open the window.",
+            "[person_1] , [person_1] , [person_1] and [person_1] will stop sing and dance."
+        ],
+        "reason": [
+            "There is no light in the room.",
+            "Because [person_2] will struck the ground and she will feel painful.",
+            "[person_1] might get a sunburn.",
+            "[person_2] and [person_2] won't be able to see anything.",
+            "The room will be quite dark."
+        ]
+    }
+}

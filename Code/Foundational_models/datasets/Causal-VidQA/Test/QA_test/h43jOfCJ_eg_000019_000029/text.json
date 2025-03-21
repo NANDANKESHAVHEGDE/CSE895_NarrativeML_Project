@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room has many objects.",
+            "It is spacious.",
+            "The room is a bit dark.",
+            "The room is very bright.",
+            "The room is quite big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the keyboard?",
+        "answer": [
+            "Because [person_1] finds the game interesting.",
+            "[person_1] wants to challenge himself.",
+            "Because wearing shorts makes [person_1] be easy to move around.",
+            "[person_1] is practicing to improve his skills.",
+            "By using a circular saw."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to wrap the gift again.",
+            "[person_1] will continue to instruct the field hockey players.",
+            "[person_1] intends to practice the keyboard.",
+            "[person_1] intends to fold over the other side of the paper and tape it down.",
+            "[person_1] intends to lift himself up and move to the wheelchair next to him."
+        ],
+        "reason": [
+            "[person_1] seems to be very keen on doing so.",
+            "[person_1]'s hand is about to hit the gong's face.",
+            "[person_1] is sitting on the floor and laying tiles.",
+            "[person_1] is still playing the keyboard.",
+            "[person_1] is playing the piano very attentively."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the keyboard breaks?",
+        "answer": [
+            "[person_1] will continue playing.",
+            "They will change the milk bucket immediately.",
+            "[person_1] won't pause playing.",
+            "All the dancers may stop dance.",
+            "[person_1] will pause playing."
+        ],
+        "reason": [
+            "[person_1] needs to fix it.",
+            "The bowstring is near [person_1]'s face.",
+            "[person_1] needs to break it.",
+            "Because [person_1] needs the truck to carry the garbage for him.",
+            "[person_1] needs to keep it still."
+        ]
+    }
+}

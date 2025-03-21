@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is on the floor.",
+            "It is in the room.",
+            "[chair_1] is seated by [person_2].",
+            "[chair_1] is next to the wall.",
+            "It is on the right hand of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_3] fall down?",
+        "answer": [
+            "[person_3] is frustrated about stacking cups.",
+            "Because they're having fun.",
+            "The accordion is so big , so [person_3] can't play it.",
+            "Because palm fruit is a kind of hard fruit.",
+            "[person_3] might lose his balance."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to let [person_1] know about the newspaper.",
+            "[person_1] has an intention of holding [person_4] in her arm.",
+            "Maybe [person_1] intends to lower your hand.",
+            "[person_1] intends to move the chess piece.",
+            "[person_1] intends to do boxing."
+        ],
+        "reason": [
+            "[person_1] is thinking to win the match.",
+            "[person_1]'s hands are on [person_4].",
+            "[person_1] looks ahead and holds up gong sticks.",
+            "[person_1] is playing the flute very focused.",
+            "[person_1] has turned off the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the rope [person_3] jumping were longer ?",
+        "answer": [
+            "The [person_1] would be beaten with a pillow.",
+            "The [person_1] will call for help.",
+            "Maybe [person_1] would not fall down.",
+            "[person_1] and [person_3] would stop shearing to chase [person_1] down.",
+            "The [person_1] will move fast among the buttons."
+        ],
+        "reason": [
+            "[person_3] , [person_3] , [person_3] and [person_3] has finished the performance.",
+            "[person_3] hasn't finished the tattoo pattern.",
+            "If [person_3] gets scalded , it will hurt so much that [person_3] won't hold the hot dog with [person_3]'s hand.",
+            "Because the jacket was still on the body of [person_3].",
+            "The rope is too short for [person_3] to jump."
+        ]
+    }
+}

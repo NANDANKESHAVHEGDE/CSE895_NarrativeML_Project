@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many pens does [person_1] hold?",
+        "answer": [
+            "[person_1] is holding the [person_1].",
+            "It is to the left of [person_1].",
+            "[person_1] is wearing a pair of glasses on her face.",
+            "The [person_1] is climbing the fence.",
+            "There are two pens."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] suddenly stop?",
+        "answer": [
+            "[person_1] is sitting on the [person_1].",
+            "It was a punishment for the loser.",
+            "Because [person_1] dropped her pen.",
+            "To do some exercises.",
+            "[person_1] is practicing walking with crutches after illness."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] would put the money in the box.",
+            "[person_1] will keep on dancing.",
+            "[person_1] will look at the instructions.",
+            "[person_1] will slam her pen on the table.",
+            "[person_1] will have to clean up the floor."
+        ],
+        "reason": [
+            "[person_1] is a child about nine years old.",
+            "[person_1] will slam her pen on the table with both hands because [person_1] keeps doing it.",
+            "Because [person_1] is a kid and no one comes to the side of [person_1].",
+            "Maybe [person_1] finished the song.",
+            "Because [person_1] sits on the chair . [person_1]'s head turned towards [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't drop her pen?",
+        "answer": [
+            "[person_1] might get toothpaste.",
+            "[person_1] would step on the white dog.",
+            "[person_1] would be able to play continuously.",
+            "Maybe [person_1] will prepare these tools immediately.",
+            "[person_1] will hug the dog."
+        ],
+        "reason": [
+            "Because [person_1] needed a wine glass to drink wine.",
+            "Maybe [person_1] will learn how to play it.",
+            "The [person_1] is awake to play [person_1].",
+            "[person_1] would be able to play continuously without interruption because [person_1] had to pick up the pen.",
+            "Because the [person_1] has to jump over the bar without making the bar fall."
+        ]
+    }
+}

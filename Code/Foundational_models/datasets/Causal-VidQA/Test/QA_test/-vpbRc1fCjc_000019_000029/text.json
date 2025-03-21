@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [dining table_1]?",
+        "answer": [
+            "[dining table_1] is orange.",
+            "[dining table_1] is red.",
+            "The [dining table_1] is black.",
+            "[dining table_1] is in the room.",
+            "It is a blue room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing flute alone.",
+            "Because [person_1] can somersault.",
+            "[person_1] is playing flute in the room.",
+            "[person_1] is opening present.",
+            "[person_1] is riding a mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift the barbell.",
+            "[person_1] is going to eat corns.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] will stand here.",
+            "[person_1] is going to continue playing there."
+        ],
+        "reason": [
+            "[person_1] eats too much.",
+            "[person_1] moved some steps slowly and gently.",
+            "[person_1] uses her hands to squeeze and pulls the sausage slowly and gently.",
+            "Because the legs of [person_1] have been lifted up a little and are going to be more.",
+            "[person_1] loves this action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will come back home.",
+            "All the people there will get wet.",
+            "[person_1] and [person_1] maybe stop working.",
+            "Perhaps [person_1] will get wet.",
+            "[person_1] and [person_1] will have to pause work."
+        ],
+        "reason": [
+            "[person_1] will go home as he finishes a hard - working day.",
+            "[person_1] is outdoors.",
+            "Because they all don't have umbrellas.",
+            "Plants will die without water.",
+            "[person_1] will go back his home."
+        ]
+    }
+}

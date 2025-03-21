@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt color is yellow.",
+            "The shirt is blue.",
+            "The shirt is \u00a0 black.",
+            "The shirt is black.",
+            "[person_1] is wearing a blue and white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] hugging [person_1]?",
+        "answer": [
+            "Because [person_1] is playing with her brother.",
+            "Because [person_1] was working out.",
+            "Maybe [person_2] loves [person_1].",
+            "[person_1] is playing.",
+            "Because [person_2] is teasing [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue jumping.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will check the children's movement.",
+            "[person_1] will probably continue to lift the dumbbell.",
+            "[person_1] will continue to open presents."
+        ],
+        "reason": [
+            "[person_1] is opening presents.",
+            "Because [person_1] is picking up the cloth to the camera.",
+            "Because [person_1] really wants to win this game.",
+            "It seems that [person_1] opened the fruit successfully.",
+            "Because [person_1] divides the money into piles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe afraid.",
+            "[person_1] maybe stop reading.",
+            "[person_1] maybe stop smiling.",
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe stop eating."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

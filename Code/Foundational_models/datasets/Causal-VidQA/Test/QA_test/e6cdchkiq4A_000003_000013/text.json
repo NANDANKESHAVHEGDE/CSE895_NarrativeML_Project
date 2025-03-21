@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the bed.",
+            "[person_1] is in the yard.",
+            "[person_1] is at the house.",
+            "[person_1] is in his house.",
+            "[person_1] is standing behind the flower pot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding maracas?",
+        "answer": [
+            "Because whoever loses will invite guests to dinner.",
+            "[person_1] feels excited and interesting.",
+            "[person_1] is playing maracas.",
+            "[person_1] is roller skating after [person_1].",
+            "[person_1] is waiting for his turn to cut his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] is going to jump over a chair.",
+            "[person_1] is going to continue play.",
+            "[person_1] is going to eat the next slice of potato chips."
+        ],
+        "reason": [
+            "Because [person_1] is giving [person_1] instructions.",
+            "[person_1] looks very excited.",
+            "[person_1] is feeling angry and being upset , [person_1] will keep crying and scream loudly.",
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "When [person_1] opens the box , [person_1] takes out a beautiful pink shirt."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is sleepy?",
+        "answer": [
+            "[person_1] will find someone to help her open the door.",
+            "[person_1] will start playing maracas.",
+            "He will light it on again.",
+            "[person_1] will stop playing maracas.",
+            "[person_1] will fried dumplings."
+        ],
+        "reason": [
+            "This is the bedroom.",
+            "[person_1] will lie down on the bed.",
+            "Because [person_1] will feel tired after long training session.",
+            "[person_1] will lie down on the desk.",
+            "The cameraman fears that the [person_1] will put the paper into his mouth."
+        ]
+    }
+}

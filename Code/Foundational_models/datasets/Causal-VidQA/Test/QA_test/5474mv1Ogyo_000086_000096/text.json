@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the window.",
+            "Along the river.",
+            "[person_1] is in bathroom.",
+            "[person_1] is in the studio.",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there [bottle_1] on the table?",
+        "answer": [
+            "[person_1] and [person_1] are warming up together.",
+            "There is the grape stomp.",
+            "Maybe [person_1] and [person_1] are practicing the army salute.",
+            "When [person_1] is thirsty , [person_1] can drink.",
+            "Perhaps [person_1] loves it."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the gong.",
+            "[person_1] will continue to play drums enthusiastically.",
+            "[person_1] will continue playing the drums.",
+            "[person_1] intends to pull with two hands.",
+            "[person_1] intends to continue playing cymbals."
+        ],
+        "reason": [
+            "[person_1] is playing cymbals very enthusiastically.",
+            "[person_1] holds the ball and juggles balls.",
+            "[person_1] looks very focused while playing didgeridoo.",
+            "[person_1] is in the library.",
+            "The mouth of [person_1] is still holding his pipe."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it\u2019s sunny?",
+        "answer": [
+            "[person_1] might have to compensate for what [person_1] had done.",
+            "[person_1] will not have to move somewhere else.",
+            "[person_1] will go home and ask his parents for money.",
+            "[person_1] will have to move somewhere else.",
+            "[person_1] would cry."
+        ],
+        "reason": [
+            "There is only enough space for one fire in the candle.",
+            "The sun will not shine into the room.",
+            "The sun feels uncomfortable with a heavy hat on.",
+            "The sun will shine into the room.",
+            "Because it would ruin the graffiti."
+        ]
+    }
+}

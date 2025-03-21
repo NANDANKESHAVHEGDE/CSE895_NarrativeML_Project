@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "It's a beer.",
+            "[person_1] looks like a baby.",
+            "[person_1] looks friendly.",
+            "[person_1] looks so pretty in her dress.",
+            "[person_1] looks big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] touch the organ?",
+        "answer": [
+            "[person_1] does it to play the gong easier.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] blows air into the mouthpiece and presses the keys at the same time.",
+            "[person_1] wants to keep balance.",
+            "[person_1] wants to greet everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] has an intention of turning the harp.",
+            "[person_1] intends to stop touching the organ.",
+            "[person_1] intends to play the harp.",
+            "[person_1] intends to play the guitar.",
+            "[person_1] intends to continue to fold the napkin."
+        ],
+        "reason": [
+            "[person_1] holds his arms forward.",
+            "[person_1] is hover boarding.",
+            "[person_1] intends to sing a song while playing piano.",
+            "[person_1] looks very interested in playing it.",
+            "[person_1] is holding a lipstick in her hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] damaged the organ?",
+        "answer": [
+            "[person_1] would jump again at a higher level.",
+            "[person_1]'s parents would have to take the organ to repair or buy another one.",
+            "[person_1] will be taken to the hospital.",
+            "[person_1]'s parents wouldn't have to take the organ to repair or buy another one.",
+            "[person_1] will call the manager of the park."
+        ],
+        "reason": [
+            "Because the organ cannot be used as it was in the endding.",
+            "[person_1] falls from the height which is relatively high.",
+            "Because the organ can be used as it was in the beginning.",
+            "There are many people around , many people are practicing curling , so curling should be a compulsory course for them.",
+            "Because the organ cannot be used as it was in the beginning."
+        ]
+    }
+}

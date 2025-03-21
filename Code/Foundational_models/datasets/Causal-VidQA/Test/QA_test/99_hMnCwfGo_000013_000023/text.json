@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing spinning poi.",
+            "[person_1] is opening present.",
+            "Because [person_1] is weaving fabric",
+            "[person_1] is looking at the present with [person_3] and [person_2].",
+            "Because [person_1] is playing the accordion on his chest."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will check the result.",
+            "Maybe [person_1] is going to start opening.",
+            "[person_1] will stop skiing.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to stack these cups."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is curious about the presents.",
+            "[person_1] holds the hoop before hooping.",
+            "Because [person_1] is wearing a baby bib.",
+            "Maybe [person_1] will read the whole [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can not open that present?",
+        "answer": [
+            "[person_1] would stop the game and tell her mother.",
+            "[person_1] would also left as well.",
+            "[person_1] will get hurt.",
+            "[person_1] may fly to the opposite way.",
+            "[person_1] will keep trying to open."
+        ],
+        "reason": [
+            "Because it is watercolor.",
+            "[person_3] will help [person_1].",
+            "Because no one interviews a person who is not talking.",
+            "[person_1] takes [person_1] to the hospital.",
+            "Because maybe [person_3] has something urgent."
+        ]
+    }
+}

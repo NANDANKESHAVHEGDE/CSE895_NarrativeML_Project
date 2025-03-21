@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is pink.",
+            "It is white.",
+            "There is a large - sized black speaker behind [person_1].",
+            "It is black.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put [person_2] gently on the ground?",
+        "answer": [
+            "Because [person_1] does not want to hurt [person_2].",
+            "Because [person_1] is imitating [person_2].",
+            "Because [person_1] is instructing the arm stretch.",
+            "[person_1] is watching [person_2] lift weights.",
+            "Because [person_1] doesn't want [person_2]'s help."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue to comb his hair with this comb.",
+            "[person_1] is going to keep on playing with [person_2].",
+            "[person_1] may cut the leaf on her hand.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to run."
+        ],
+        "reason": [
+            "[person_1] is jumping very high.",
+            "[person_1] is fond of doing it.",
+            "Because they seems to be very affectionate and intimate towards the others.",
+            "[person_1] is a beginner.",
+            "Sled is broken."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2]'s tackle missed [person_1]?",
+        "answer": [
+            "the ball could fall on the ground.",
+            "[person_2] might fall to the ground and hurt himself.",
+            "[person_1] would change the weights.",
+            "the alarm for [person_2] might scare [person_1] , and she would cover her ears because the noise would be too loud.",
+            "The [person_1] would be waken up."
+        ],
+        "reason": [
+            "Because the [person_1] can't keep calm and balance when it was bitten.",
+            "The legs of [person_2] would be caught up on the hoop.",
+            "Because [person_2] may trip over the hockey stick as [person_2] was skating fast.",
+            "Because [person_1] might not be able to stop [person_2] from falling.",
+            "Because birds need wings to fly."
+        ]
+    }
+}

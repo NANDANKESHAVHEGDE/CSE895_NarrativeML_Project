@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [chair_1]?",
+        "answer": [
+            "The [chair_1] is black.",
+            "[chair_1] and [chair_1] are on the basketball court.",
+            "[chair_1] and [chair_1] are at the roller rink.",
+            "[chair_1] and [chair_1] are in the barber shop.",
+            "[chair_1] and [chair_1] are on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] motionless?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] leans back to look up another person who is ripping the paper.",
+            "Because this is a mind training game.",
+            "[person_1] is being shaved.",
+            "[person_1] puts his hands on the floor and stretches the resistance band"
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to move his head to the other side.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "[person_1] is still dancing with fire.",
+            "[person_1] needs to shave both sides.",
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is very excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] finishes his work?",
+        "answer": [
+            "[person_1] will be more confident.",
+            "[person_1]'s clothes will be dirty.",
+            "[person_2]'s feet may get sunburned.",
+            "[person_2] 's performance will be interrupted.",
+            "[person_1] may not find useful things."
+        ],
+        "reason": [
+            "Shaving makes you look younger and more handsome.",
+            "When [person_2] combs his hair , he looks at the mirror for several times.",
+            "Laughing is good for health.",
+            "Because the space is too small and he will fly randomly.",
+            "Food can not be wasted."
+        ]
+    }
+}

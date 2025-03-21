@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] is using a spoon.",
+            "[person_1] is using a electric saw.",
+            "[person_1] is brown.",
+            "[person_1] uses a metal claw.",
+            "[person_1] is using a towel."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] cut the fruit from many angles?",
+        "answer": [
+            "It helps to preserve the pulp as much as possible.",
+            "[person_1] is showing how to squeeze oranges with a juicer.",
+            "Because [person_1] likes to make noises.",
+            "The opposing team threw it out the cup.",
+            "[person_1] blows the clarinet powerfully."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            " \b It is foreseen that [person_1] will keep running.",
+            "[person_1] will continue doing the pirouette.",
+            "[person_1] will enjoy the coco.",
+            "[person_1] will keep practicing.",
+            "[person_1] will peel the coco."
+        ],
+        "reason": [
+            "[person_1] wants everyone to know about it.",
+            "[person_1] has finished one set.",
+            "[person_1] is running very fast and in a professional way.",
+            "The saw has easily opened the coco.",
+            "Because [person_1] has a tendency to jump at the end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] could not peel it?",
+        "answer": [
+            "[person_1] would cut in deeper.",
+            "[person_1] would cry.",
+            "[person_1] will drink the milk.",
+            "Then [person_1] will lie down.",
+            "[person_1] might faint out."
+        ],
+        "reason": [
+            "It would be easier for [person_1] to open it if it was cut in deeper.",
+            "It looks like that [person_1] is a two - year old kid who may get frightened if he is left alone in the room.",
+            "Because [person_1] hits the shuttlecock to this position.",
+            "[person_1] wants to his ironing to be more challenging.",
+            "[person_1] is not supposed to sit down after heavy action."
+        ]
+    }
+}

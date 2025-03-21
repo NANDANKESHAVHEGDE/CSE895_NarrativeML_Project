@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [chair_1]?",
+        "answer": [
+            "The [chair_1] is near [person_1].",
+            "The [chair_1] is next to the wall.",
+            "The [chair_1] is on the table.",
+            "It is on the right of [person_1].",
+            "[person_1] is on the left of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is feeding [person_1].",
+            "[person_1] is doing a handstand.",
+            "[person_1] is fond of stacking the cups on the [dining table_1].",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "[person_1] is doing arm stretching exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will get up.",
+            "[person_1] will eat the apple on the table.",
+            "[person_1] will pick up the baby.",
+            "Maybe [person_1] is going to rest.",
+            "Maybe [person_1] is going to continue skiing"
+        ],
+        "reason": [
+            "Feedback is needed in the classroom.",
+            "Because [person_1] has finished measuring the gap.",
+            "Maybe [person_1] is a earthen pot.",
+            "High kick is a movement exercise.",
+            "[person_1] looks happy and excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] will not continue reading book.",
+            "Maybe [person_1] will go out.",
+            "[person_1] will not read book.",
+            "[person_1] and [person_1] will stop singing together.",
+            "The birds will come close to [person_1]."
+        ],
+        "reason": [
+            "It will be too dark to see much.",
+            "The lights are off , too.",
+            "The room will be dark.",
+            "The television will be turned off.",
+            "The microphone and the music will be off."
+        ]
+    }
+}

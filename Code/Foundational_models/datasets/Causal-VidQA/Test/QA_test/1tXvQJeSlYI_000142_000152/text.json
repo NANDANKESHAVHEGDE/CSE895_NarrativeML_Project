@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "Along the river.",
+            "[person_1] is outside of the house.",
+            "[person_1] is in a wood workshop.",
+            "[person_1] is in a darts room.",
+            "[person_1] is near the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing there?",
+        "answer": [
+            "[person_2] is giving the boy a gift.",
+            "[person_2] is playing darts.",
+            "Maybe [person_2] receives present from someone.",
+            "[person_2] and [person_2] are watching [person_2] paint a picture.",
+            "[person_2] is joining the game that [person_2] likes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] will get more cards",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to switch places with [person_2]."
+        ],
+        "reason": [
+            "[person_2] finished his turn.",
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_2]'s wound.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] has finished the outside.",
+            "Because [person_1] acts as a guide."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] scores more points than [person_2] ?",
+        "answer": [
+            "[person_2] might fell off the yoga ball.",
+            "[person_2] will lose.",
+            "It is possible that [person_1] would put the weights on the floor.",
+            "[person_1] would be tired.",
+            "[person_1] would not be able to play the accordion while standing."
+        ],
+        "reason": [
+            "[person_2] , [person_2] and [person_1] are put on the table near [person_1].",
+            "Perhaps the sunglasses hide his beautiful eyes.",
+            "[person_1] and [person_2] are playing darts together.",
+            "It's hard for [person_1] to bandage [person_1] right leg with [person_1] right hand.",
+            "[person_1] would not teach [person_2] how to read the words."
+        ]
+    }
+}

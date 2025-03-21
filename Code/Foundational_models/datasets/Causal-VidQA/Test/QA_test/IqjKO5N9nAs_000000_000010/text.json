@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are there 11 people in the gym?",
+        "answer": [
+            "A trash can.",
+            "No.",
+            "[person_1] and [person_1] are watching two teams playing badminton.",
+            "The [person_1] is in front of [person_1].",
+            "There is a convex mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do people have different speed?",
+        "answer": [
+            "People are accustomed to different speed.",
+            "Because there are too tired to do mountain climbers.",
+            "Children need to read books.",
+            "Because they don't want to hurt their peace.",
+            "To show polite."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running?",
+        "answer": [
+            "[person_1] will take out his phone.",
+            "[person_1] will rest after running.",
+            "[person_1] and [person_1] are going to talking together.",
+            "[person_1] will go to the toilet.",
+            "[person_1] and [person_1] are going to keep discussing."
+        ],
+        "reason": [
+            "[person_1] seems serious and professional.",
+            "[person_1] need to have a rest.",
+            "[person_1] drank to much water.",
+            "[person_1] wants t check his grades.",
+            "[person_1] really wants to rest."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a sudden earthquake?",
+        "answer": [
+            "The [person_1] will go to a hospital and have a check.",
+            "[person_1] will run out of the room.",
+            "Maybe [person_1] will go to sleep.",
+            "[person_1] and [person_1] would get serious injury on their chests.",
+            "[person_1] will lay on the ground first."
+        ],
+        "reason": [
+            "[person_1] is scared.",
+            "The room will be too dark to play in.",
+            "It is too dark outside , if it snows now , [person_1] couldn't ride.",
+            "They are curious about the plane.",
+            "The room will be dark."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [backpack_1]?",
+        "answer": [
+            "[backpack_1] is next to the window.",
+            "[backpack_1] is on the road and next to the [backpack_1].",
+            "[person_2] is on the table.",
+            "[backpack_1] is on the table.",
+            "[backpack_1] is next to [person_2]'s legs."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] sitting on the floor?",
+        "answer": [
+            "Because [person_3] needs using a lot of force to snatch weight lifting.",
+            "Because [person_3] wants to protect the head if [person_3] falls.",
+            "He wants to try stack the dices one more time.",
+            "[person_3] is watching [person_3] lift weights.",
+            "Because [person_3] is holding a sleeping baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] is going to stop filming.",
+            "[person_4] will put his hands inside the present.",
+            "[person_4] is going to take photos.",
+            "[person_4] is going to turn left.",
+            "[person_4] may be going to lift up the barbell."
+        ],
+        "reason": [
+            "Because [person_4] is standing up and stepped forward which is a sign that [person_4] is going to break the board.",
+            "Because [person_4] had a microphone in [person_4]'s hand and he is still holding the microphone.",
+            "Because [person_4] is smiling and closing the eyes.",
+            "Because [person_4] finishes his high kick so [person_4] doesn't need to stand on the shoulders of [person_4] and [person_4] anymore.",
+            "When [person_4] tears his present , he looks curiously at the inside of the gift and prepares to put his hand in."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_5] has difficulties in opening the box?",
+        "answer": [
+            "[person_1] and [person_2] will leave.",
+            "[person_1] will have to go ashore and change clothes.",
+            "Maybe [person_2] will be blamed.",
+            "[person_1] will sink.",
+            "[person_2] and [person_1] may offer to help."
+        ],
+        "reason": [
+            "When [person_2] holds the rope , it is steady enough for [person_1] to walk on.",
+            "When [person_1] hugs the column , [person_1] will stand still.",
+            "When [person_1] get hurt , he has to go to the hospital to receive treatment.",
+            "[person_1] has just fell of the chair because [person_1] leaned on the chair strongly.",
+            "When [person_5] is opening the box , [person_2] and [person_1] look at her."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [motorcycle_1]?",
+        "answer": [
+            "[person_1] is on the wall.",
+            "[motorcycle_1] is the reflect of [person_1] in the mirror.",
+            "[person_1] is behind [person_1] and next to the door.",
+            "[motorcycle_1] is on the left of [person_1].",
+            "It is on the right of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] touching and circling their arms?",
+        "answer": [
+            "[person_1] and [person_2] are practicing attacks and self - defense in tai chi.",
+            "Because [person_1] and [person_2] are happy with the proposal.",
+            "Because [person_2] is playing a xylophone.",
+            "[person_2] is showing [person_1] how to play the clarinet.",
+            "[person_1] is blowing air into the hole in the flute."
+        ]
+    },
+    "predictive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "Then [person_2] will step back and kick out another foot.",
+            "It is likely that [person_1] and [person_2] are on a pavement outside a park.",
+            "Maybe [person_1] is playing a teacher.",
+            "The [person_2] will get off the camel quickly.",
+            "[person_2] is going to sit down."
+        ],
+        "reason": [
+            "There are many trees behind the fence on the left of [person_1] which is the right of [person_2].",
+            "There are many other people who are either doing tai chi or doing exercise around him.",
+            "The [person_1] and the [person_2] are holding and looking at the box.",
+            "The [person_1] has taken the red box and the [person_1] is looking at the red box.",
+            "[person_1] may not like the red ball in his hand , so [person_1] put it in the box and prepared to take out another one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] had a fall after the [person_1]'s attack?",
+        "answer": [
+            "[person_1] or [person_2] could be injured badly.",
+            "[person_1] and [person_2] might stop the drill.",
+            "[person_1] would not leave the playground.",
+            "[person_1] or [person_2] will help [person_2] eat.",
+            "[person_1] would still throw the maraca."
+        ],
+        "reason": [
+            "[person_1] will get on the swing and start playing.",
+            "[person_2] needs to study marine lives.",
+            "[person_1] and [person_2] are partners and they may stop if a person is defeated.",
+            "Because there would not be enough space in the box to put [person_2].",
+            "[person_1] will need a new one."
+        ]
+    }
+}

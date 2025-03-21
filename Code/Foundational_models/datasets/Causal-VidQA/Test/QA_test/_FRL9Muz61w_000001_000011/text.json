@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How young is [person_1]?",
+        "answer": [
+            "[person_1] is an baby.",
+            "[person_1] is inside.",
+            "It is brown.",
+            "[person_1] is in the room",
+            "[person_1] is performing on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why the holding maraca's handle is exiguous?",
+        "answer": [
+            "[person_1] seems to have a leg disability.",
+            "It is fit for baby's hands.",
+            "Because [person_1] wants to see the keyboard more clearly.",
+            "Because [person_1] wants to take it for a walk.",
+            "[person_1] must rest the guitar on his thighs."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to have a rest for a moment.",
+            "[person_1] is going to continue writing.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going stop standing on hands.",
+            "[person_1] is going to cry."
+        ],
+        "reason": [
+            "[person_1] has just dropped the maraca.",
+            "[person_1] is helping [person_1] train.",
+            "[person_1] needs to land after flying.",
+            "Because [person_1] keeps doing the exercise and he has to pull the rope when he uses the machine.",
+            "[person_1] still keep moving and holding hands with [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not drop the maraca?",
+        "answer": [
+            "[person_1] would keep playing.",
+            "People on the bus will complain.",
+            "[person_1] would feel uncomfortable.",
+            "The dog will run away.",
+            "the dog will get punished by the owner."
+        ],
+        "reason": [
+            "Because the gong can't stand on its own.",
+            "Other people were looking at them.",
+            "[person_1] would get bored.",
+            "[person_1] does not want to be recorded.",
+            "[person_1] was still enjoying playing."
+        ]
+    }
+}

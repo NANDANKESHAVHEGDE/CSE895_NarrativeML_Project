@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s jacket?",
+        "answer": [
+            "The shirt [person_1] is wearing is white.",
+            "It is pink.",
+            "Two snowballs.",
+            "It is black.",
+            "The socks are white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] tackle [person_2]?",
+        "answer": [
+            "Because [person_1] might fall.",
+            "[person_1] is helping [person_2] to shear sheep.",
+            "Because [person_1] wants to tease [person_2].",
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "Because [person_1] is training."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may tackle [person_2].",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may get out of the recording room.",
+            "Maybe [person_1] is going to stop running.",
+            "Maybe [person_1] is going to continue skiing"
+        ],
+        "reason": [
+            "[person_1] has eaten the apple in the hand.",
+            "[person_1] is holding a title.",
+            "Because they are teasing each other.",
+            "[person_1] is talking with his friend.",
+            "[person_1] is playing very attentively."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] tripped and fell before successfully tackled [person_2]?",
+        "answer": [
+            "[person_1] would fall to the ground and become a laughing stock for the others.",
+            "[person_1] will save some time.",
+            "[person_1] may go to have a drink.",
+            "[person_2] may continue fighting.",
+            "[person_1] may be eaten by the wolf."
+        ],
+        "reason": [
+            "When [person_2] leaves , [person_2] still has sword in his hand.",
+            "[person_1] might fall and get serious injuries because [person_1] is quite high above the ground.",
+            "[person_2] does not know what mistake she makes.",
+            "Because if [person_1] fell , he would have a taste of his own medicine.",
+            "[person_1] is a decisive person and he will insist on doing the other thing when he gives up one thing"
+        ]
+    }
+}

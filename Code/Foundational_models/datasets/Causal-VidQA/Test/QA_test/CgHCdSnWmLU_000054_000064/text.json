@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the door?",
+        "answer": [
+            "The shirt is green.",
+            "The shirt is black.",
+            "White.",
+            "The shirt is red.",
+            "The shirt is gray."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] opening the door?",
+        "answer": [
+            "He wants to see if there is anything outside.",
+            "[person_1] wants to look at the people traveling.",
+            "Because [person_1] is weaving fabric",
+            "Because [person_1] is playing the big gong.",
+            "[person_1] is shaving for [person_1] ."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may divide the cake among others.",
+            "[person_1] keeps moving with the snake around him.",
+            "[person_1] may close the door.",
+            "[person_1] may take off the clip.",
+            "[person_1] may bend over."
+        ],
+        "reason": [
+            "It is late.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] has picked the cake up.",
+            "Because there is no one outside.",
+            "[person_1] walks away."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is someone outside the door?",
+        "answer": [
+            "It will be a little difficult to wax his chest.",
+            "[person_1] may have to find other way to try.",
+            "The competition might be postponed.",
+            "All of the papers will fall to the ground.",
+            "[person_1] will let him in."
+        ],
+        "reason": [
+            "[person_1] is sitting behind the [person_1] back.",
+            "Without [person_1]'s family , [person_1] will feel helpless.",
+            "[person_1]'s mom can comfort and calm [person_1] down so [person_1] will feel better and stop crying.",
+            "Because [person_1] is friendly.",
+            "Because [person_1] only has one bowl chips to eat."
+        ]
+    }
+}

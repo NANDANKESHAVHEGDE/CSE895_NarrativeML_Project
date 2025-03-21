@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s T - shirt?",
+        "answer": [
+            "[person_1]'s T - shirt is white.",
+            "[person_1]'s T - shirt is black.",
+            "It is on the table.",
+            "It's a disk.",
+            "On the main road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is reading newspaper.",
+            "[person_1] is \u00a0 trying to somersault.",
+            "[person_1] is stacking dices.",
+            "[person_1] feels comfortable.",
+            "[person_1] is a baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to get more dices.",
+            "To borrow the bubble machine from [person_1].",
+            "[person_1] is going to share something about riding [person_1].",
+            "[person_1] is going to return and check the [person_1].",
+            "[person_1] is going to rest for a while."
+        ],
+        "reason": [
+            "[person_1] retracts his hand.",
+            "[person_1] wants to stack as many dices as possible.",
+            "[person_1] is still holding the pen.",
+            "[person_1] is taking more oranges and holding a knife.",
+            "Maybe [person_1] and [person_1] are having a good time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] wasn't interested in stacking the dices?",
+        "answer": [
+            "[person_1] might get hurt.",
+            "[person_1] wouldn't be sitting on the floor.",
+            "The toy car will slow down.",
+            "[person_1] would get that box back.",
+            "The cup may break."
+        ],
+        "reason": [
+            "They want to eat.",
+            "There are many weights on the floor , the weights are on her right side.",
+            "According to the rules of baseball , a batter only get a maximum of 3 strikes before being eliminated from the round , so [person_1] might be disqualified if he had 3 strikes.",
+            "Because the crutches slows [person_1] down.",
+            "[person_1] won't want to stack the dices."
+        ]
+    }
+}

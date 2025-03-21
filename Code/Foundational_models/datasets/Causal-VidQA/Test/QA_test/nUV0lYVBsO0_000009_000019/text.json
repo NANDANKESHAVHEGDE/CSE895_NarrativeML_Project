@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the door?",
+        "answer": [
+            "The door is white.",
+            "The shirt is white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The color of the shirt is green.",
+            "[person_1] is wearing a black shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn around?",
+        "answer": [
+            "Because [person_1] wants to sharpen the pencil.",
+            "Because [person_1] wants to play the gong.",
+            "Because [person_1] is arranging the cups.",
+            "There is a microphone in front of [person_1] to record the sound [person_1] makes when playing the guitar.",
+            "[person_1] turns around to go to the mirror."
+        ]
+    },
+    "predictive": {
+        "question": "Next , which direction will [person_1] shake her shoulders?",
+        "answer": [
+            "Point out the advantages and disadvantages.",
+            "[person_1] likes birds standing his hands and he enjoy this scenery very much.",
+            "[person_1] will keep working.",
+            "[person_1] will ask to get off.",
+            "[person_1] will probably shake her shoulder to the left."
+        ],
+        "reason": [
+            "because [person_1] wants her students to improve their dancing skills.",
+            "Because [person_1] and [person_1] are in a gym.",
+            "Because [person_1] and [person_1] are in the gym.",
+            "Because [person_1] and [person_1] are in a gym.",
+            "[person_1] will probably shake her shoulder to the left because [person_1] already shakes her shoulder to the right."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the bag hanging by the door fell down?",
+        "answer": [
+            "[person_1] would not be injured.",
+            "[person_1] will not jump on [person_1].",
+            "[person_1] and [person_1] would continued the show.",
+            "[person_1] would turn around.",
+            "He'll call a doctor."
+        ],
+        "reason": [
+            "The audience can't see them , they use this method to attract the audience's attention and calm the audience's emotions.",
+            "Because she is immersed in explaining how to make hair style.",
+            "Because the shockproof cushion can block part of the impact force.",
+            "[person_1] is in the room and it may be too dark for some more tai chi moves.",
+            "[person_1] would turn around to hook it up."
+        ]
+    }
+}

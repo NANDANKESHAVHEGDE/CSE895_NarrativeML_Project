@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1] shirt?",
+        "answer": [
+            "There is a wall cabinet.",
+            "Yes.",
+            "No.",
+            "It is black.",
+            "[person_1] is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is practicing baseball in the stadium.",
+            "The weather outside is beautiful.",
+            "[person_1] is playing with a scooter.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing in the snow field."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue playing basketball.",
+            "[person_1] will probably continue to be outdoor and play the guitar.",
+            "[person_1] will pick up the hoop.",
+            "[person_1] will continue explaining.",
+            "[person_1] is going to turn the iron."
+        ],
+        "reason": [
+            "The bottle has been opened.",
+            "Because [person_1] does not finish.",
+            "It seems [person_1] cannot stand anymore.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "The weather is very nice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it\u2019s rain?",
+        "answer": [
+            "[person_1] will get wet.",
+            "[person_1] will continue to eat.",
+            "Maybe the picture will be soaked.",
+            "[person_1] will stop working.",
+            "[person_1] will find a shelter."
+        ],
+        "reason": [
+            "The laboratory needs a clean environment , and falling hair will affect the experiment.",
+            "Exhaustion would prevent [person_1] from continuing doing front raise.",
+            "[person_1] would attack [person_1].",
+            "[person_1] can't apply foundation evenly without a mirror.",
+            "It can rain a lot."
+        ]
+    }
+}

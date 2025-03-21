@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bathroom.",
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on a public bus.",
+            "[person_1] is in the snow field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] scream?",
+        "answer": [
+            "Because [person_1] dropped something on the ground.",
+            "[person_1] wants to find a stone.",
+            "To give [person_1]'s feet a massage.",
+            "Since [person_1] is performing to bring in cash.",
+            "[person_2] peeled off the patch vigorously in the [person_1]'s chest."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to burst out laughing.",
+            "[person_1] is going to continue talking.",
+            "[person_1] and [person_2] are going to stop dancing.",
+            "[person_1] and [person_2] are going to do exercise on the yoga ball.",
+            "[person_1] and [person_2] are going to sing."
+        ],
+        "reason": [
+            "After [person_1] had screamed , [person_1] and [person_2] looked at each other and laughed.",
+            "[person_1] and [person_2] are feeling exhausted after making high - five and chest bumping.",
+            "[person_1] and [person_2] are looking straight into the camera and [person_1] is talking.",
+            "[person_1] is waiting for the ball to continue.",
+            "They have just finished all of the movements of the dance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [cell phone_1] is dropped?",
+        "answer": [
+            "[cell phone_1] will be very delighted.",
+            "[cell phone_1] would be angry.",
+            "[cell phone_1] may start bicycling.",
+            "[cell phone_1] will be broken down.",
+            "The person will go check what's wrong with it."
+        ],
+        "reason": [
+            "Because [person_2] wants to see all the cups stacked up successfully.",
+            "Because [person_1] licks [person_2]'s face and it is dirty.",
+            "Because [person_1] is very happy.",
+            "The [person_1] is at the sea.",
+            "[person_1] might get startled and drop his phone when [person_2] tugs the patch too hard."
+        ]
+    }
+}

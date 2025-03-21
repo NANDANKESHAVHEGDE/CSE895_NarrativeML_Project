@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is reading the newspaper.",
+            "The [person_1] is talking about accordion.",
+            "Riding the scooter.",
+            "The [person_1] is playing with the doll.",
+            "Riding a scooter."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] walk to the bookshelves?",
+        "answer": [
+            "Because [person_1] with the pink shirt have to grab the edge of the ring.",
+            "The [person_1] holds a ball to play basketball.",
+            "Because the [person_1] seems to pick something from the bookshelves.",
+            "The person rips the paper to have the [person_1]'s attention.",
+            "Another person fixes the bottle , and [person_1] pulls the cork with the pliers."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will continue trying to pet the dog.",
+            "The [person_1] will pick something from the bookshelves.",
+            "The [person_1] will look to continue counting the money.",
+            "The [person_1] will check how many money left on his account.",
+            "The [person_1] will continue counting the money."
+        ],
+        "reason": [
+            "Because the [person_1] has reached his destination.",
+            "Because the [person_1] seems to look for something from the bookshelves.",
+            "Because the [person_1] doesn't seem to have introduced the rest of the Muppet bunny.",
+            "Because the [person_1] is calming the dog down.",
+            "Because the [person_1] seems to be beating a rhythm with the door of the refrigerator."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the books in the bookshelves fall over?",
+        "answer": [
+            "[person_1] will call for other's help.",
+            "Perhaps [person_1] will go somewhere else.",
+            "The [person_1] will be hurt by the books.",
+            "Maybe [person_1] will buy another one.",
+            "[person_1] will get a knife."
+        ],
+        "reason": [
+            "[person_1] would not be scared.",
+            "Many people will come here for [person_1]'s show.",
+            "Because there are many books in the bookshelves.",
+            "The old does not go , the new does not come.",
+            "When the rope is broken , there is inertia which makes [person_1] unable to keep balance and [person_1] will fall down."
+        ]
+    }
+}

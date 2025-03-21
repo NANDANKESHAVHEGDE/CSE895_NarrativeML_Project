@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[person_1] is standing in the yard.",
+            "It is on the table.",
+            "[couch_1] is behind the [person_1].",
+            "[couch_1] is the reflect of [person_1] in the mirror.",
+            "[person_1] is holding a black guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_1] stomp grapes with her hands?",
+        "answer": [
+            "[person_1] is shaking the dices.",
+            "Because [person_1] can't crush grapes with bare hands.",
+            "Because [person_1] wants the wheelbarrow not to fall when no one is holding it.",
+            "Maybe [person_1] wants to play kickball.",
+            "[person_1] is a woman."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will read another book.",
+            "[person_1] is going to put the dice and the cup on [person_1].",
+            "[person_1] is about to eat.",
+            "[person_1] is going to cross the street.",
+            "[person_1] is looking down at the feet of [person_1]."
+        ],
+        "reason": [
+            "[person_1] is lowering the head of [person_1].",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] is paying attention to other things.",
+            "[person_1] is going to go back home."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happens if [person_1] falls?",
+        "answer": [
+            "[person_1] will get dirty clothes.",
+            "[person_1] will put down the rope.",
+            "Maybe [person_1] will have dust blocked his nose.",
+            "[person_1] will get hurt.",
+            "Maybe [person_1] will help [person_1] up."
+        ],
+        "reason": [
+            "Because [person_1] feels scared when staying alone.",
+            "Because [person_1] is stand next to [person_1].",
+            "The hoop dropped on [person_1]'s feet , which may make [person_1] fall.",
+            "Grape juice stains [person_1]'s clothes.",
+            "Because there are cushions on the floor."
+        ]
+    }
+}

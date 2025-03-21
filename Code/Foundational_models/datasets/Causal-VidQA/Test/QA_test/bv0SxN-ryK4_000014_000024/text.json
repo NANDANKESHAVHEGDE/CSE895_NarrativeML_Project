@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it in [person_1]'s hand?",
+        "answer": [
+            "It is a towel.",
+            "The shorts are red.",
+            "It is black.",
+            "A watch.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a towel to rub [person_2]'s head?",
+        "answer": [
+            "Maybe [person_1] is recording about pipes and how to smoke.",
+            "Because [person_1] is spraying paint.",
+            "[person_1] is drying [person_2]'s hair.",
+            "Because [person_1] is spraying paint on the iron frame.",
+            "[person_1] , [person_2] and [person_2] are performing with the trumpets."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may rest on the rocking chair next to [person_1] for a while.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will continue to raise [person_1]'s leg.",
+            "[person_1] will continue celebrating with friends.",
+            "[person_1] will use an electric hair drier to further dry the hair."
+        ],
+        "reason": [
+            "[person_1] finishes mopping and leaves.",
+            "[person_1] wants to keep the body.",
+            "[person_1] will keep shaving [person_1]'s left leg until the foam is gone.",
+            "To show how [person_1] performs.",
+            "It is not enough to dry the hair only by a towel."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't use a towel to dry firstly?",
+        "answer": [
+            "Maybe [person_1] won't be able to knock on the gong.",
+            "[person_1] will correct her fault.",
+            "There would be many water drops flying anywhere.",
+            "The [person_1] may be hit.",
+            "Perhaps [person_1] would cry."
+        ],
+        "reason": [
+            "[person_2] is not tall enough to tough the ground.",
+            "Because the tiles is on top of the mortar layer.",
+            "The gong is too heavy to knock with hands.",
+            "He can not control himself to keep away from others.",
+            "There is still much water on [person_2]'s hair."
+        ]
+    }
+}

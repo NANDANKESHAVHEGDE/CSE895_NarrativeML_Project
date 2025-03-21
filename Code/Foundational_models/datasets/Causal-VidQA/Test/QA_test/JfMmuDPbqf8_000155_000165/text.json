@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in his house ?",
+        "answer": [
+            "[person_1] wants to master this action.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] is going to have a massage.",
+            "[person_1] is talking to everyone.",
+            "[person_1] is jumping and playing guitar ?"
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] is going to stack the cups again.",
+            "[person_1] is going to feel shy.",
+            "[person_1] is going to continue writing something . ",
+            "[person_1] is going to jump.",
+            "[person_1] is going to continue answering the phone."
+        ],
+        "reason": [
+            "Because [person_1] doesn't leave the equipment.",
+            "[person_1] is moving his hip to one side.",
+            "[person_1] put the hands on the ground and prepare to stand up.",
+            "[person_1] may lean towards to touch himself in the mirror.",
+            "[person_1] is very excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] will stop running.",
+            "[person_1] won't be happy.",
+            "[person_1] will start jumping.",
+            "[person_1] will be panic.",
+            "[person_1] will stop jumping."
+        ],
+        "reason": [
+            "The room is dark and there is no light.",
+            "[person_1] will go out because the home will be dark.",
+            "[person_1] is practicing very hard.",
+            "[person_1] will stay inside because the home will be dark.",
+            "The room will still bright."
+        ]
+    }
+}

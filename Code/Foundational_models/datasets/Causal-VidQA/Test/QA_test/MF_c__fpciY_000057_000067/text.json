@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many dogs are there?",
+        "answer": [
+            "There are three dogs.",
+            "[sheep_1] is on the [sheep_1].",
+            "[person_1] is white.",
+            "It is on the [person_1].",
+            "[person_2] is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [sheep_1]?",
+        "answer": [
+            "[person_1] is helping [person_2] to shear sheep.",
+            "To lift the shirt in [person_1]'s hand to look at it.",
+            "Because [person_1] is proposing.",
+            "[person_2] is helping [person_1] swallow the sword.",
+            "because [person_1] is reading [person_1] for [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will take the [person_2] and turn it over.",
+            "Perhaps [person_2] is going to throw basketball.",
+            "[person_2] is going to keep her hand in front of [person_2] to high five with [person_2].",
+            "He may come close to [person_2] and watch him playing.",
+            "[person_2] is going to shear the sheep from the bottom to the head."
+        ],
+        "reason": [
+            "Maybe he is a professional trainer.",
+            "[person_1] and [person_2] are working together.",
+            "[person_2]'s body curled back.",
+            "[person_2] looks tired and cannot to lift the barbell again.",
+            "[person_1] looks very excited and his mouth keeps talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't hold [sheep_1]?",
+        "answer": [
+            "[person_2] would cut [sheep_1]'s skin.",
+            "[person_2] would cry.",
+            "The tightrope will break.",
+            "[person_1] would try to fix [sheep_1] if he cannot , he would have to throw out the coffee.",
+            "[person_1] will ask them some questions to answer."
+        ],
+        "reason": [
+            "Because [person_1] lost [person_1].",
+            "To check the condition of the finger.",
+            "[sheep_1] thinks that [person_1]'s finger is food.",
+            "because when [person_1] hits the ground will create a counterforce which impacts the seed on [person_1].",
+            "Moving sheep is hard to shear safely."
+        ]
+    }
+}

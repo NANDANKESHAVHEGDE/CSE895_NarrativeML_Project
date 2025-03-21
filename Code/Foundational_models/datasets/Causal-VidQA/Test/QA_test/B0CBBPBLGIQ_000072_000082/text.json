@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [motorcycle_1]?",
+        "answer": [
+            "[person_3] is on an oven.",
+            "[motorcycle_1] is in front of [person_3].",
+            "It is being sat by [motorcycle_1].",
+            "[motorcycle_1] is skating in a roller rink.",
+            "It is lying on the ground in front of [motorcycle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] looking over to [person_1]?",
+        "answer": [
+            "Because [person_1] is trying to walk down the stairs with a wheelchair , [person_2] looks at [person_1].",
+            "When [person_1] sits on a chair , [person_1] can hold the guitar.",
+            "because [person_1] is talking to [person_2] about the object in [person_1]'s hand.",
+            "Because [person_1] is proud of herself for opening the cap.",
+            "Because [person_1] has a sore hand."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] may try the object on the hand of [person_1].",
+            "[person_1] and [person_2] will continue to dance.",
+            "[person_1] and [person_2] will continue singing.",
+            "[person_1] and [person_2] will continue to huddling.",
+            "[person_1] and [person_2] will kiss."
+        ],
+        "reason": [
+            "[person_1] and [person_2] has not finished practicing yet.",
+            "[person_1] and [person_2] have not finished practicing.",
+            "To make a full snowman.",
+            "because that object seems pretty new to [person_1].",
+            "[person_1] and [person_2] seem to enjoy playing with the fish."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [dog_1] took [motorcycle_1] away?",
+        "answer": [
+            "[dog_1] will feel hurt.",
+            "[person_3] would chase [dog_1] .",
+            "[dog_1] will take other bradawls to playing the gong.",
+            "[dog_1] will pick [person_3] up and put it into [dog_1].",
+            "[person_3] will soon go to the hospital."
+        ],
+        "reason": [
+            "[motorcycle_1] is just a kid and loves teddy bears.",
+            "Thousands of balls are much more than the bowling pins so will hit down all.",
+            "[motorcycle_1] is too agressive to have a talk with [motorcycle_1].",
+            "[person_3] and [person_3] don't have enough time to run away.",
+            "[person_3] is closest to [motorcycle_1]."
+        ]
+    }
+}

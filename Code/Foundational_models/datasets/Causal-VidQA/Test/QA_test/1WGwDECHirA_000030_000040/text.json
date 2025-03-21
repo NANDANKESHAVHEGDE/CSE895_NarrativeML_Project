@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [chair_1]?",
+        "answer": [
+            "[chair_1] is next to [person_1].",
+            "It is on the right of [person_1].",
+            "The [chair_1] is on the left of the [person_1].",
+            "[chair_1] is on the left of [person_1].",
+            "[chair_1] is under [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the magazine?",
+        "answer": [
+            "[person_1] wants to keep the kitchen table clean.",
+            "[person_1] holds a hammer to strike at the tire hard.",
+            "[person_1] is looking for information in a magazine.",
+            "That part is sharper.",
+            "[person_1] roasts marshmallows with other's help."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat the donut on the plate in front him.",
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] is going to continue having breakfast.",
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to read something in a newspaper."
+        ],
+        "reason": [
+            "[person_1] loves reading.",
+            "Because there are many circles in the picture.",
+            "Because this can express respect.",
+            "The tap is still on.",
+            "Maybe the weights are too heavy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "The birds will fly away.",
+            "Maybe [person_1]'s parents will coax into smiling.",
+            "[person_1] will be sad.",
+            "Maybe [person_1] will have dust blocked his nose.",
+            "Maybe [person_1] will not ride."
+        ],
+        "reason": [
+            "[person_1] feels sad.",
+            "[person_1] is reading books.",
+            "[person_1] absolutely adores [person_1].",
+            "[person_1] may train for competition.",
+            "[person_1] loves [person_1]."
+        ]
+    }
+}

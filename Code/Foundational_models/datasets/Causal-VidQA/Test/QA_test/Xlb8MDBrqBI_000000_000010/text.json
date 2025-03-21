@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the house?",
+        "answer": [
+            "It is red.",
+            "The [person_1] is red.",
+            "It is yellow.",
+            "The house is white.",
+            "The [person_1] is in front of the store."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] bending his knees?",
+        "answer": [
+            "[person_1] wants to play chess.",
+            "[person_1] is really into getting involved in an activity with another person.",
+            "[person_1] wants to catch the spinning poi.",
+            "[person_1] is playing with his flute.",
+            "[person_1] is playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep practicing.",
+            "[person_1] is going to do some tricks with the poi.",
+            "[person_1] may hug others.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] may close the window."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is enjoying playing flute.",
+            "The egg is not cooked yet.",
+            "[person_1] is practicing poi spinning.",
+            "[person_1] is paying attention to other things."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't catch the poi?",
+        "answer": [
+            "[person_1] would try more times.",
+            "The camera could film his nose.",
+            "The room would be quiet.",
+            "[person_1] may hit the bar.",
+            "[person_1] will bring his laptop."
+        ],
+        "reason": [
+            "Because apparently , [person_1] cannot stand up without crutches.",
+            "[person_1] have to run to take momentum to a further jump.",
+            "[person_1] is training his ability.",
+            "[person_1] just stood on one foot on the floor and raised one.",
+            "[person_1] did not pay attention to the road."
+        ]
+    }
+}

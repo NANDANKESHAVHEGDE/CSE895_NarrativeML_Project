@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the yard.",
+            "[person_1] is at the house.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] like to water plants?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] fixes the awl on the cork and uses the wooden stick to hit the awl.",
+            "[person_1] and [person_1] are preparing for a concert.",
+            "[person_1] wants to use it as a guidance tool.",
+            "[person_1] wants to help [person_1] shave."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep mopping the microscope.",
+            "To find more snow.",
+            "[person_1] is going to put the cans down.",
+            "[person_1] will stop watering.",
+            "[person_1] is going to bring the cup in his hand to his mouth and drink beer."
+        ],
+        "reason": [
+            "Maybe have run out of water.",
+            "[person_1] just performed a piece of ball - playing skills , and he might watch the video effect.",
+            "[person_1] moved the ball to the right.",
+            "[person_1] picks up plaster on the hawk board to plaster the wall.",
+            "The hands of [person_1] are still holding the cleaning cloth and he sees to be looking for the next place to wipe."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will get wet.",
+            "Maybe [person_1] and [person_1] will not continue playing ball.",
+            "[person_1] will not have to water the plants.",
+            "All the people there will get wet.",
+            "[person_1] will find shelter from the rain."
+        ],
+        "reason": [
+            "[person_1] will get wet if he still rides [person_1].",
+            "[person_1] won't get wet because [person_1] is inside.",
+            "Plants will die without water.",
+            "[person_1] is at outside and [person_1] does not have an umbrella.",
+            "The concrete gets wet."
+        ]
+    }
+}

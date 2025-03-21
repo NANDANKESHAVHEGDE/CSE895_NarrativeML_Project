@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are in the big room.",
+            "[person_1] and [person_2] are in the children's play area.",
+            "[person_1] and [person_2] are in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a basketball ?",
+        "answer": [
+            "[person_1] is tuning the harp.",
+            "[person_1] does not want to fall.",
+            "[person_1] is opening her Christmas presents.",
+            "[person_1] is shooting.",
+            "Because [person_1] is playing a xylophone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may not talk to [person_1].",
+            "[person_2] is going to try to make bubbles again.",
+            "[person_2] is going to rebound and pass the ball back to [person_1].",
+            "[person_2] may making cookies by herself.",
+            "[person_2] is going to try on a long sleeve shirt."
+        ],
+        "reason": [
+            "When [person_2] finishes tickling [person_1] and [person_2] , she raises her hands and prepares to do the next joke.",
+            "[person_2] is going out because of the kicking and [person_2] needs to go back to continue.",
+            "[person_2] is helping [person_1] practice shooting basketball.",
+            "[person_1] is in the safe zone and [person_2] can control [person_1].",
+            "[person_1] has helped [person_2] to bandage [person_2]'s hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a basketball is deflated?",
+        "answer": [
+            "[person_1] and [person_2] will use another ball.",
+            "[person_1] will pour more water into the bottle.",
+            "Perhaps [person_1] will turn back.",
+            "[person_2] can stop opening [person_1].",
+            "[person_1] will hold the xylophone into the house."
+        ],
+        "reason": [
+            "[person_1] and [person_2] have 1 more ball on the floor.",
+            "[person_1] is standing on [person_1] and [person_1] may not move quickly enough to catch the pancake.",
+            "Because no one would be able to see through the darkness to continue playing.",
+            "[person_1] wants to comfort the horse.",
+            "Because there is water in the bottle [person_1] and [person_2] are flipping."
+        ]
+    }
+}

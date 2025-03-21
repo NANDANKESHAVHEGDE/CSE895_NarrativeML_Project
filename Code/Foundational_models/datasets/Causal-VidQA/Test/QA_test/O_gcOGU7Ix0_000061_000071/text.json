@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the bed.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the yard?",
+        "answer": [
+            "Because [person_1] was not interested in looking the reflection.",
+            "[person_1] has arrived at home.",
+            "[person_1] is explaining how to tie a necktie properly.",
+            "[person_1] wants to do sports.",
+            "[person_1] doesn't know how to swim."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may turn around.",
+            "[person_1] may continue to stand there.",
+            "[person_1] is going to do a movement with exercise equipment . .",
+            "[person_1] may cheer up."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "[person_1] is touching three cups.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it rains?",
+        "answer": [
+            "[person_1] won't have to go to the practice house.",
+            "The balloons will be exploded and [person_1] will feel sad.",
+            "[person_1] will have to leave to the practice house.",
+            "[person_1] will continue to exercise.",
+            "[person_1] will have to go to the practice house."
+        ],
+        "reason": [
+            "Because [person_1] is in the yard.",
+            "When the [person_1] fall , [person_1] is already busy with talking and [person_1] is busy laying carpet so no one can react to this action.",
+            "Because [person_1] is out of the yard.",
+            "[person_1] and [person_1] will come back home.",
+            "Because [person_1] is making up the yard."
+        ]
+    }
+}

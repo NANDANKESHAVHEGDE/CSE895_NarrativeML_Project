@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "It is black.",
+            "The shirt is yellow.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a sword?",
+        "answer": [
+            "[person_1] wants to improve riding skill.",
+            "[person_1] is performing circus.",
+            "Because [person_1] is using the trowel to plaster.",
+            "Because [person_1] is preparing the usage of microscope.",
+            "[person_1] , [person_1] and [person_1] are practicing together."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to show more skills.",
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to sit down.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] is going to run through the golf courses and back to the batter box\u2019s."
+        ],
+        "reason": [
+            "It is very sunny to play.",
+            "Because other people is jumping.",
+            "[person_1] is dancing in free style.",
+            "[person_1] has great technique.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] performs more circus acts?",
+        "answer": [
+            "[person_1] might catch a cold",
+            "[person_1] will not be able to create proper rhythms with the bass guitar.",
+            "[person_1] could fall.",
+            "The audience will be delighted.",
+            "The baby would laugh happily."
+        ],
+        "reason": [
+            "[person_1] will feel more pain if headache.",
+            "Tsunami is dangerous.",
+            "[person_1] was reporting.",
+            "[person_1] performed very well.",
+            "Because the heavy weights will fall to [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall in front of [person_1] ?",
+        "answer": [
+            "They are blue and red.",
+            "[person_1] uses his elbow.",
+            "It's orange.",
+            "It is all white.",
+            "The fire extinguisher is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear t - shirt ?",
+        "answer": [
+            "Maybe [person_1] wants to practice carefully.",
+            "[person_1] got a gift.",
+            "The weather is hot.",
+            "They are practicing rugby.",
+            "For the convenience of controlling her hair."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to finish her performance.",
+            "[person_1] intends to practice spinning again.",
+            "[person_1] intends to celebrate [person_1]'s victory.",
+            "[person_1] intends to keep playing piano.",
+            "[person_1] intends to participate in the competition."
+        ],
+        "reason": [
+            "[person_1] may try to keep balance.",
+            "[person_1] is hover boarding.",
+            "[person_1] will feel tired after playing.",
+            "[person_1] got a lot of momentum.",
+            "[person_1] looks very interested in playing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "The room will be dark.",
+            "Espresso will be stop working.",
+            "The room will be bright.",
+            "The sport hall will be dark.",
+            "[person_1] maybe afraid."
+        ],
+        "reason": [
+            "The piano will not work.",
+            "The fan will be off , too.",
+            "[person_1] is a kid.",
+            "[person_1] is a kid.",
+            "The sport hall will be dark."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is reading a fairy tale book.",
+            "[person_1] is listening to a man sitting in front of her.",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is playing basketball.",
+            "[person_1] is pouring beer into two glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pour beer into two glasses?",
+        "answer": [
+            "Maybe [person_1] is an examiner and [person_1] is counting the jump of [person_1].",
+            "Because [person_1] wants to have two glasses of beer for two people.",
+            "Because [person_1] wants to keep the bottle stable for [person_1].",
+            "The [person_1] is holding a basketball to play.",
+            "[person_1]'s body is bouncing because the [person_1] is bouncing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to serve beer to the other person.",
+            "[person_1] is going to lift slowly.",
+            "[person_1] is going to continue to comb his hair with this comb."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "Because [person_1] has poured two glasses of beer fully.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "Because [person_1] acts as a guide."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops two glasses of beer?",
+        "answer": [
+            "[person_1] will see a lot of new things.",
+            "Others will help him call the family doctor.",
+            "The three persons would escape to the wayside.",
+            "[person_1] may brush in the mirror for a long time.",
+            "Two glasses of beer will be broken on the ground."
+        ],
+        "reason": [
+            "Because two glasses are made of glass so they are easily broken.",
+            "[person_1] is a cook and cooking is his job.",
+            "[person_1] may hit back.",
+            "[person_1] is full of water.",
+            "The birds will be scared."
+        ]
+    }
+}

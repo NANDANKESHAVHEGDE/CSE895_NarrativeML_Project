@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] running?",
+        "answer": [
+            "The [person_1] is behind [person_1].",
+            "It is on the ground and next to [person_1] right foot.",
+            "[person_1] is on [person_1].",
+            "[person_1] is in a kitchen.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_1] run?",
+        "answer": [
+            "[person_1] is having a rest.",
+            "Because the person shaking his hand wants to attract attention.",
+            "They are the audience watching the performance of [person_1].",
+            "Their parents just taught them how to play it.",
+            "[person_1] is still a child."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the rest?",
+        "answer": [
+            "[person_1] will clear the table.",
+            "[person_1] will run.",
+            "[person_1] will turn off the camera",
+            "[person_1] will get another board.",
+            "[person_1] will give comments for everyone."
+        ],
+        "reason": [
+            "[person_1] has been refreshed.",
+            "Because it is a good mix of slow and fast dancing.",
+            "[person_1] needs it to promote his products.",
+            "They love playing this game.",
+            "[person_1] goes to his chair and starts sitting down ; once he sits down , he will continue to eat with [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] still feels tired?",
+        "answer": [
+            "The baby will be sad.",
+            "[person_1] will get her hair wet.",
+            "All the others will look at him.",
+            "[person_1] may stop dancing.",
+            "[person_1] will continue resting."
+        ],
+        "reason": [
+            "There is no guardian at the pool.",
+            "[person_1] should do it in order not to damage his lungs.",
+            "[person_1]'s legs are soft.",
+            "[person_1]'s feet don't smell good.",
+            "[person_1] will run after a good rest."
+        ]
+    }
+}

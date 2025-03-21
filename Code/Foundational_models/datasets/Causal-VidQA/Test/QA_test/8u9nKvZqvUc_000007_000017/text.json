@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is ripping paper.",
+            "[person_1] is knocking the fruit by palm.",
+            "[person_1] is covering his head.",
+            "[person_1] is roller blading.",
+            "[person_1] is sitting and reading the book on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear glasses?",
+        "answer": [
+            "Because [person_1] teaches how to shoot marbles.",
+            "Because [person_1] wants to film the baby , [person_1].",
+            "Because [person_1] is old and does not see clearly.",
+            "Because [person_1] is nearsighted.",
+            "Because [person_1] likes the sound of maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go to get a stick.",
+            "He may do the kind of jump again.",
+            "[person_1] may not lean on this chair again.",
+            "[person_1] may finish his performance on the tightrope.",
+            "[person_1] is highly likely to ripping paper."
+        ],
+        "reason": [
+            "[person_1] is going to learn how to keep balance so that he can take off 2 spare wheels on the [person_1].",
+            "Because [person_1] made a small mark with it and the carpet is big.",
+            "Because [person_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "Because [person_1] cannot believe in the eyes of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop reading.",
+            "[person_1] maybe stop smiling.",
+            "[person_1] maybe afraid.",
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe stop eating."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more.",
+            "The room will be dark."
+        ]
+    }
+}

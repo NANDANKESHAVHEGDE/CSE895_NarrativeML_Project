@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "[person_1] is standing in a parking lot.",
+            "[person_1] is outside standing on the sidewalk.",
+            "[person_1] is standing on a field.",
+            "[person_1] is on the picture on the wall.",
+            "[person_1] is standing in front of the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing a field",
+        "answer": [
+            "[person_1] is required to play field hockey.",
+            "[person_1] is helping [person_1] on practicing roller skating.",
+            "[person_1] is watching [person_1] lift weights.",
+            "Maybe [person_1] is learning fire dance from [person_1].",
+            "[person_1] needs a wide space to throw discus."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue to stand there.",
+            "[person_1] may turn around.",
+            "[person_1] may keep shaking ropes.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to talk to someone in the back."
+        ],
+        "reason": [
+            "[person_1] was blocked by the door.",
+            "[person_1] turned around and smiled at someone behind.",
+            "[person_1] is not going to stop.",
+            "[person_1] is bowing.",
+            "[person_1] almost dropped the plate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not throw discus at field?",
+        "answer": [
+            "[person_1] will sleep.",
+            "The discus would not have space to fly.",
+            "Then the people behind [person_1] will encourage [person_1] to jump quickly.",
+            "[person_1] would walk instead of skiing.",
+            "[person_1] might forget the rhyme."
+        ],
+        "reason": [
+            "Throwing discus requires a large range of space.",
+            "Sometimes it's useful to drink water to stop burping.",
+            "If a car comes in the back , it will hit [person_1].",
+            "[person_1] becomes energetic after [person_1] notices process of contest.",
+            "Because [person_1] feels unhappy that [person_1] cannot eat the cake anymore."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "He is a student.",
+            "The [person_1] is big.",
+            "A teacher.",
+            "[person_1] is wearing casual clothes.",
+            "[person_1] is wearing a blue shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] is clapping?",
+        "answer": [
+            "[person_2] is waiting for his turn.",
+            "The boy avoided the pillow fight from the [person_1].",
+            "[person_2] would like to hit the ball.",
+            "[person_1] may hit [person_1].",
+            "[person_2] is applauding [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go downhill.",
+            "[person_1] will plant a tree on the ground.",
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will continue playing the harmonica.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "[person_1] must keep track of her student's progress.",
+            "Because it takes some time for the dye to dry.",
+            "They clap for [person_1].",
+            "The harmonica is still on [person_1]'s mouth.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] weren't in the room?",
+        "answer": [
+            "[person_1] and [person_2] will enjoy it.",
+            "[person_1] would shout and cry.",
+            "All the athletes will continue the competition.",
+            "The video may be paused.",
+            "The people can't continue."
+        ],
+        "reason": [
+            "When the ball hits the glass , the glass will break.",
+            "Everyone is happy if they can eat their favorite food.",
+            "Because [person_1] does not hold the bag of the present.",
+            "She would show her kindness to that baby as a mother.",
+            "[person_1] is too young to stay alone."
+        ]
+    }
+}

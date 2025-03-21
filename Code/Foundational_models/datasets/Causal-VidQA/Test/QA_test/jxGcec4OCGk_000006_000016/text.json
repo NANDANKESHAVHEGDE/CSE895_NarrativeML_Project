@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [chair_1]?",
+        "answer": [
+            "It is white.",
+            "It is green with many trees.",
+            "It is gray.",
+            "It is black.",
+            "Blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on [chair_1]?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] just received a gift.",
+            "[person_1] wants to throw the ball higher."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may dance with [person_1].",
+            "[person_1] may straighten his arms.",
+            "[person_1] may keep squeezing more oranges.",
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] is going to show some skills."
+        ],
+        "reason": [
+            "Maybe [person_1] is a earthen pot.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is looking at [person_1].",
+            "Riding a mechanical bull is hot.",
+            "[person_1] wants to make a cup of orange juice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no [chair_1]?",
+        "answer": [
+            "[chair_1] would be lit up.",
+            "[person_1] would watch [chair_1] easier.",
+            "[person_1] would be hurt.",
+            "[person_1] would call his parents to squeeze oranges for him.",
+            "[person_1]'ll be sad and angry."
+        ],
+        "reason": [
+            "Because [chair_1] fell right onto the moving direction of [person_1].",
+            "[person_1] is a kid who is not high enough to reach the juicer.",
+            "Because if [person_1] were tackled by the other person , [person_1]'s head would impact with the ground.",
+            "Because they are currently singing a duet , so if one failed to sing correctly , the other would also suffer.",
+            "[person_1] would not be able to save his food from getting ruined because everything would fall."
+        ]
+    }
+}

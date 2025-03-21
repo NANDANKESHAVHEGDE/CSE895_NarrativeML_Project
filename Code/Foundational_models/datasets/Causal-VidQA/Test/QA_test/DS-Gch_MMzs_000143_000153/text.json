@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [book_1]?",
+        "answer": [
+            "It is on the wall.",
+            "[book_1] is a wood cutting board.",
+            "The [book_1] is on the shelf.",
+            "No , it isn't.",
+            "[book_1] is on the road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is aligning tissues and forks to the correct positions on [person_1].",
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is reading the newspaper.",
+            "Because [person_1] is doing her music homework."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after standing here?",
+        "answer": [
+            "[person_1] is going to play these cups.",
+            "It is foreseen that the weather will be rain.",
+            "[person_1] is going to fall.",
+            "[person_1] is going to post this video.",
+            "[person_1] will land down."
+        ],
+        "reason": [
+            "[person_1] seems to enjoy it a lot.",
+            "[person_1] has finished this practice and may have a rest.",
+            "Nobody touches the [person_1].",
+            "Because there are many expresses on [person_1].",
+            "[person_1] is starring at [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is thirsty?",
+        "answer": [
+            "Maybe [person_1] will stop making the vase temporarily.",
+            "[person_1] will drink water.",
+            "Maybe [person_1] will not pull the rope.",
+            "Maybe [person_1] will stop playing with the cups.",
+            "[person_1] will find somewhere to hide from the rain."
+        ],
+        "reason": [
+            "[person_1] is more convenient than [person_1] and [person_1] if [person_1] must drive something.",
+            "Smoking is very harmful to the lungs.",
+            "There are a lot of flowers in the garden.",
+            "[person_1] will need to drink water.",
+            "[person_1] wants to get the lost thing back."
+        ]
+    }
+}

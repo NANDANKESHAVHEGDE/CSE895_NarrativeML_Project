@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it sunny?",
+        "answer": [
+            "[person_2] is on the chair.",
+            "[person_1] is wearing it in front of her.",
+            "[person_2] is placed next to [person_2].",
+            "Yes , it is.",
+            "It is \u00a0 behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [people_1] and [person_2] standing in the yard?",
+        "answer": [
+            "[person_1] is helping [person_2] pump water to water plants.",
+            "Because [person_1] wants to cut the board.",
+            "[person_1] is skating.",
+            "Because [person_1] wants to shave the sheep.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will read another book.",
+            "[person_1] will return to [person_2].",
+            "[person_1] may keep clapping with [person_2].",
+            "[person_1] is going to cross the street.",
+            "[person_1] is going to put the dice and the cup on [person_1]."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "[person_1] is touching three cups.",
+            "Because [person_1] acts as a guide.",
+            "Maybe [person_1] runs away to find a way to help [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] stands in the sun for too long?",
+        "answer": [
+            "Maybe [person_2] will not get skin cancer.",
+            "The broken [person_2] will make a loud noise.",
+            "Maybe [person_2] will get heart cancer.",
+            "[person_2] will be seriously injured and need to go to the hospital.",
+            "Maybe [person_2] will get skin cancer."
+        ],
+        "reason": [
+            "Standing in the sun for too long is good for your health.",
+            "The cello stick is made of plastic.",
+            "Standing in the sun for too long is not good for your health.",
+            "[person_2] is a child and can't drink beer.",
+            "Standing in the sun for too short is not good for your health."
+        ]
+    }
+}

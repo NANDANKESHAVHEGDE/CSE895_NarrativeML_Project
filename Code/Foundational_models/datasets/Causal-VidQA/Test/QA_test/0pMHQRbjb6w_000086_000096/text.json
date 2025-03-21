@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is black.",
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is reading newspaper.",
+            "[person_1] is doing weightlifting.",
+            "The boy couldn't move the guitar out.",
+            "It's quieter in the room than outside.",
+            "[person_1] can only play the drums in this room."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to playing guitar.",
+            "[person_1] intends to keep playing the organ.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to turn the camera to another direction."
+        ],
+        "reason": [
+            "[person_1] is holding a lipstick in her hand.",
+            "[person_1] doesn't know the dance steps.",
+            "[person_1] hands are on the strings.",
+            "[person_1] is playing very attentively.",
+            "[person_1] continuously goes forward and the hand moves continuously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it\u2019s sunny?",
+        "answer": [
+            "[person_1] on one side will tell [person_1] how to work correctly.",
+            "[person_1] can't continue.",
+            "[person_1] will continue to play the guitar.",
+            "[person_1] could not see clearly.",
+            "[person_1] won't continue."
+        ],
+        "reason": [
+            "If there are not enough ingredients , [person_1] can't make cookies , then she won't be happy.",
+            "[person_1] will be so tired.",
+            "Because [person_1] and [person_1] is a team , so [person_1] can take over the duty.",
+            "This is a race.",
+            "[person_1] is in the room."
+        ]
+    }
+}

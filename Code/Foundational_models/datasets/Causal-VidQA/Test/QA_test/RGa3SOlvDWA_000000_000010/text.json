@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] looking at?",
+        "answer": [
+            "[tv_1] is placed on the white bookshelf hung on the wall behind [person_2].",
+            "[person_2] is holding a drill machine.",
+            "A picture is hanging on the wall.",
+            "[person_2] is looking at [tv_1].",
+            "[person_2] is staring at a mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] turn to look at [person_1]?",
+        "answer": [
+            "Because [person_1] is a barber.",
+            "[person_1] needs [person_1] to hit the ball.",
+            "The [person_1] wanted to walk by the [person_2].",
+            "Because [person_1] laughs so loud.",
+            "Because [person_1] might fall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2]  going to do next?",
+        "answer": [
+            "[tv_1] is going to wait to his turn to play the game.",
+            "[person_2] is going to jog to the archery target boss.",
+            "[person_2] is going to jump over the hurdle.",
+            "[person_2] is going to look at [tv_1] again after laughing.",
+            "[person_2] is going to continue playing."
+        ],
+        "reason": [
+            "because the performance has not ended yet.",
+            "[person_2] is doing a task on [tv_1].",
+            "[person_2] is not likely to stop.",
+            "[person_2] has a smile on her face and kisses her hand . It seems that she is very satisfied with the man's manicure technology.",
+            "[person_2] moves along the route , stops singing and stops at the end of the route to look around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't laugh?",
+        "answer": [
+            "[person_1] will say sorry.",
+            "The [person_2] will not feel happy when he plays in this room.",
+            "[person_1] will get hurt.",
+            "[person_2] wouldn't stop to turn to [person_1].",
+            "The liquid in [person_2] will flow out."
+        ],
+        "reason": [
+            "[person_1] is a child.",
+            "Because [person_1] was not careful , [person_1] fell . .",
+            "Falling in front of other people is a little shy.",
+            "Falling too hard will hurt the boy in black.",
+            "Because there would be nothing that distracted and caught her attention."
+        ]
+    }
+}

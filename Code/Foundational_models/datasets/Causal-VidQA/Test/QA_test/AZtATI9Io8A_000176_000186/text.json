@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's blue.",
+            "It is pink.",
+            "It is orange.",
+            "It is yellow.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shaking maracas?",
+        "answer": [
+            "Because they want to visit the desert.",
+            "Because [person_1] uses maracas to play music.",
+            "They are practicing roller - skating.",
+            "Because the fan will cool the room.",
+            "Because they are practicing roller - skating."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will ask to exercise.",
+            "[person_1] will talk with the people behind the camera.",
+            "[person_1] will dip in more paint.",
+            "It is anticipated that [person_1] will continue to play maracas.",
+            "[person_1] will move forward probably."
+        ],
+        "reason": [
+            "[person_1] wants to keep the body.",
+            "[person_1] looks very excited.",
+            "[person_1] is practicing maracas.",
+            "Maybe [person_1] is practicing.",
+            "That bottle of champagne is for cheering , not drinking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the maracas don't have the stones?",
+        "answer": [
+            "Maybe [person_1] and his teammates will smile.",
+            "[person_1] will be able to make sound.",
+            "Maybe [person_1] may weave it again.",
+            "[person_1] won't be able to make sound.",
+            "He will be knocked down by [person_1]."
+        ],
+        "reason": [
+            "The maracas will make sound.",
+            "It is impossible to remove the cork with a laundry rack.",
+            "The maracas will not be quite.",
+            "There must be a winner and no one wants to lose.",
+            "The maracas will not make sound."
+        ]
+    }
+}

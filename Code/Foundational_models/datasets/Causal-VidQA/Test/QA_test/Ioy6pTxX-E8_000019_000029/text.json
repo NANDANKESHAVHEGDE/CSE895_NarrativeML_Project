@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] in an open area?",
+        "answer": [
+            "They are black.",
+            "It is black.",
+            "No.",
+            "It is cloudy.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stay in the open area?",
+        "answer": [
+            "[person_1] wants to sell his work.",
+            "To ride the horse.",
+            "Because [person_1] is playing.",
+            "[person_1] plays bass buttons and right - hand chords at the same time.",
+            "[person_1] is old."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after walking with the horse?",
+        "answer": [
+            "[person_1] will go inside.",
+            "[person_1] may have a short rest.",
+            "[person_1] will have a rest.",
+            "[person_1] will lift the hamburger to his mouth and take a bite out of it.",
+            "[person_1] will start to teach how to do."
+        ],
+        "reason": [
+            "To have the massaging neck for another side.",
+            "Because she needs to clean the whole kitchen.",
+            "To exchange their marriage rings.",
+            "Because babies are always messy when eating.",
+            "[person_1] is hungry."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will not play anymore.",
+            "[person_1]'ll be sad.",
+            "[person_1] will go inside.",
+            "[person_1] will stop playing.",
+            "[person_1] may get wet."
+        ],
+        "reason": [
+            "[person_1] will be wet.",
+            "The guitar and speakers are wet.",
+            "The [person_1] would not let the furniture be wet.",
+            "[person_1] needs to protect [person_1]'s health.",
+            "The newly poured concrete is wet and cannot be dried."
+        ]
+    }
+}

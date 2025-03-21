@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his home office.",
+            "[person_1] is on the street.",
+            "[person_1] is in bathroom.",
+            "[person_1] is in the studio.",
+            "[person_1] is at the side of the road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the mirror?",
+        "answer": [
+            "[person_1] wants to exercise the body.",
+            "Maybe [person_1] is taking a short break.",
+            "[person_1] wants to exercise physical health.",
+            "[person_1] is shaving himself.",
+            "Because this is a butt exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] will check the result.",
+            "[person_1] is going to continue practicing.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will show the bees to [person_1].",
+            "[person_1] is going to shave slowly."
+        ],
+        "reason": [
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "Because other people is jumping.",
+            "[person_1] is dancing in free style.",
+            "It is late.",
+            "[person_1] doesn't look professional."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes shaving?",
+        "answer": [
+            "[person_1] feels more comfortable.",
+            "[person_1] would not be as happy as he is now.",
+            "The child will call his parents.",
+            "[person_1] and [person_1] will clap their hands.",
+            "[person_1] will be more confident."
+        ],
+        "reason": [
+            "All racers are driving at a high speed.",
+            "Because no one can open the door.",
+            "[person_1] will have a nice beard.",
+            "The [person_1] was placed on the high and the people on the low , it is easy to get hurt.",
+            "It is a challenge , so there are presents and punishment."
+        ]
+    }
+}

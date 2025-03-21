@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is on the bookshelves.",
+            "[book_1] is under the table.",
+            "[book_1] is on [dining table_1].",
+            "[book_1] is on the floor.",
+            "[book_1] is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] opening [book_1]?",
+        "answer": [
+            "The [person_1] reduces any chance of injury.",
+            "The [person_1] seems to have finished showing the interior of the [book_1].",
+            "[person_1] wants to read [book_1].",
+            "Because [person_1] wants to get a thing from the other end of the table.",
+            "[person_1] raises [person_1]'s head to look directly at the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop kicking high.",
+            "Maybe [person_1] is going to bow.",
+            "[person_1] is going to yell at [person_1].",
+            "[person_1] is going to read [book_1] carefully.",
+            "[person_1] may put the flowers in [person_1]."
+        ],
+        "reason": [
+            "[person_1] showed the snake and kept stepping forward.",
+            "[person_1] is finishing the product.",
+            "[person_1] looks happy when she read.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is pouring concrete."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room lost power suddenly?",
+        "answer": [
+            "[person_1] would clean it with a lot of water.",
+            "[person_1] would have to put out the fire.",
+            "[person_1] would finds something to eat or drink.",
+            "[person_1] could continue practicing with the other ball.",
+            "It is possible that [person_1] will feel scared."
+        ],
+        "reason": [
+            "The bad smell of flowers means that they are beginning to rot.",
+            "Because the riding speed is fast enough now.",
+            "[person_1] is in the room , too.",
+            "[person_1] can not read without electricity in the room.",
+            "[person_1] falls from the high height in comparison with the ground."
+        ]
+    }
+}

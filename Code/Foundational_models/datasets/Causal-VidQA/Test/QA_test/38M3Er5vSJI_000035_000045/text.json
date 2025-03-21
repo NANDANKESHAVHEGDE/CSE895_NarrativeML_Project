@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "[person_2] is wearing a white shirt and tie.",
+            "The shirt is red.",
+            "It's a white plaid shirt.",
+            "It is black hair.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] touch the machine on the table?",
+        "answer": [
+            "[person_1] wants to sharpen the pencil.",
+            "[person_1] touches to calculate the score.",
+            "Because the camel is very bumpy.",
+            "[person_1] is surprising the dices that are double stacked.",
+            "the golf cart is being driven by [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will run.",
+            "[person_1] may move to the left.",
+            "[person_1] will prepare himself before going for another goal.",
+            "[person_1] will move the knight.",
+            "[person_1] will continue to deal cards."
+        ],
+        "reason": [
+            "[person_1] is showing the children the way to stand on hands.",
+            "[person_1] is moving towards the man at the door of the room.",
+            "May be [person_1] can guess the move of [person_2].",
+            "Because the ball is coming from the left again , [person_1] wants to catch the ball.",
+            "Because [person_1] just turned half."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] only has a king left?",
+        "answer": [
+            "[person_2] may be able to realize the liquid in his cup without tasting it.",
+            "[person_2] may feel sad.",
+            "[person_2] will lose.",
+            "Maybe [person_2] couldn't continue the competition.",
+            "[person_2] may complain or leave the room."
+        ],
+        "reason": [
+            "The atmosphere will be non - intimidating when all people dance with psychological comfort.",
+            "Because [person_2] is showing the whites of his eyes occasionally.",
+            "[person_2] does things which cause many traffic problems.",
+            "[person_2] will wear his clothes because he doesn't want to be awkward in a public place.",
+            "Or may be [person_2] turns the tables."
+        ]
+    }
+}

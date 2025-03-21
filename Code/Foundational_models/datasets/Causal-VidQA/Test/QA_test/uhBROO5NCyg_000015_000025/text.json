@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is behind [person_2] and on the table.",
+            "[couch_1] is behind [person_2]'s back.",
+            "[person_2] is behind [person_2] and hung on the wall.",
+            "[person_2] is holding a black guitar.",
+            "[couch_1] is located to the right of the back of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] reach out her hand?",
+        "answer": [
+            "Because [person_2] rotates two strings at the same time.",
+            "By using the scooter.",
+            "[person_1] reaches out her hand to help [person_2].",
+            "[person_1] is feeling easier to play standing up.",
+            "[person_1] needs it to promote his products."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] aim to do next?",
+        "answer": [
+            "[person_1] tends to eat a hot dog.",
+            "[person_1] will tear the gift.",
+            "[person_1] will ask his parents to try.",
+            "[person_1] will spit out gum.",
+            "[person_1] will begin to sing the song."
+        ],
+        "reason": [
+            "[person_1] wants to try the inhaler.",
+            "Because the [person_2] wants to learn that.",
+            "[person_1] is tired.",
+            "[person_1] will tear the gift and give it to [person_2].",
+            "[person_1] and [person_2] have finished showing how to use the inhaler."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] already knew how to unwrap the gift?",
+        "answer": [
+            "[person_2] would have no idea with the fruits in front of him.",
+            "[person_2] can't perform dance this time.",
+            "[person_2] would be able to open faster.",
+            "[person_2] would not be able to play the accordion while standing.",
+            "The fiber will tumble down the table."
+        ],
+        "reason": [
+            "[person_2] would be able to open faster without help from [person_1].",
+            "[person_1] would have to do normal lunges.",
+            "Wealth and beauty can be gained through diligent study.",
+            "[person_1] is hopping on the jumping course and can not keep his balance well.",
+            "It is not easy for people to climb on their head for a long time."
+        ]
+    }
+}

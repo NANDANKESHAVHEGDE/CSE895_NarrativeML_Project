@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is covering his head.",
+            "[person_1] is roller blading.",
+            "[person_1] is showing the inhaler.",
+            "[person_1] is stacking the dice on the [toothbrush_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pick up the cup slowly?",
+        "answer": [
+            "Because [person_1] wants to get a beer from it.",
+            "[person_1] is on the floor because [person_1] is on top of them sheering their fur off.",
+            "Because [person_1] is weaving and wants the threads to be close together.",
+            "[person_1] picks up the cup slowly to avoid falling the dice.",
+            "[person_1] prepares to throw it into cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to level the concrete into the pipes.",
+            "[person_1] is going to clap for joy.",
+            "[person_1] is likely to learn how to make a basket.",
+            "[person_1] is going to blow more air into the balloon.",
+            "[person_1] is going to play the flute right after that."
+        ],
+        "reason": [
+            "[person_1] picked a new pen.",
+            "The door is half closed.",
+            "[person_1] has fetched another liquor in her hand.",
+            "Many people , who may be students in the tai chi class , are sitting on the floor , watching [person_1] and waiting for their turns.",
+            "[person_1] smiled and congratulated himself because of stacking dice perfectly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the dice weren't stacked on the [toothbrush_1]?",
+        "answer": [
+            "[person_1] and [toothbrush_1] would not see anything.",
+            "[person_1] would find it very difficult to play drums while standing.",
+            "[person_1] would get frustrated and try again.",
+            "[toothbrush_1] will struck someone.",
+            "[person_1] would cry and shout."
+        ],
+        "reason": [
+            "Because mixing two colors up , and then you can get another color.",
+            "All the dice weren't stacked on the [toothbrush_1] which means [person_1] failed.",
+            "[person_1] may hit on [person_1].",
+            "[person_1] is just a newbie.",
+            "Because the intention of [person_1] is reading something from the [toothbrush_1] in front of the camera."
+        ]
+    }
+}

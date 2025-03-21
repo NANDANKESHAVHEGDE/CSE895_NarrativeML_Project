@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [donut_1]?",
+        "answer": [
+            "Yes , [person_1] wears a white hat.",
+            "[donut_1] is black.",
+            "[donut_1] is on the table.",
+            "[donut_1] is behind [person_1].",
+            "It is on the right hand side of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "Maybe someone is talking with [person_1].",
+            "[person_1] catched the ball on the rebound and drive the ball to the hoop.",
+            "Because [person_1] successfully turned the plate.",
+            "[person_1] is opening presents.",
+            "Because [person_1] amazes when the apple is peeled so fast."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play with the gift.",
+            "[person_1] probably will ride the bike straight to the house.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] will stop playing the flute.",
+            "[person_1] is turning around to get the comb."
+        ],
+        "reason": [
+            "[person_1] does not want to eat the food which was head - butted by [person_2].",
+            "[person_1] has just fell off the small chair and waited for a person to help him stand.",
+            "Because [person_1] is warming up her body and standing next to [person_2] on the running track.",
+            "[person_2] is also eager to open presents.",
+            "[person_1] can push the meat into the machine with a stick."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries?",
+        "answer": [
+            "The [person_2] will change the rope.",
+            "The man next to [person_1] will get [person_1] up.",
+            "[person_1] and [person_2] will get cold.",
+            "Maybe [person_1] will hold the [person_2].",
+            "[person_1] will get injured"
+        ],
+        "reason": [
+            "Because no one nearby can catch her.",
+            "[person_1] is the adult.",
+            "Because [person_1] can't see anything and [person_1] will call her mother for help.",
+            "Because it's late.",
+            "[person_1] is near [person_2]."
+        ]
+    }
+}

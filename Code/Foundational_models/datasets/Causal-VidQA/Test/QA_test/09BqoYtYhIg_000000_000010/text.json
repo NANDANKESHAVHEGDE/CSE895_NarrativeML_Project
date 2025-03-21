@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_2] wearing?",
+        "answer": [
+            "The [person_2] is wearing a red hair band.",
+            "The [person_2] is wearing a helmet and black glasses.",
+            "[person_2] is wearing a black shirt.",
+            "The shirt [person_2] wearing is yellow",
+            "The [person_2] is wearing a cap."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are the [person_1] and the [person_2] taking the [person_3]?",
+        "answer": [
+            "[person_3] and [person_2] are wrestling.",
+            "Running can prolong life.",
+            "[person_3] is observing the game.",
+            "[person_1] is saluting.",
+            "The [person_3] is smaller."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_2] going to do?",
+        "answer": [
+            "The [person_2] may stop posing.",
+            "The [person_2] is going to hit the [person_3] with a pillow on the bed.",
+            "The [person_2] may stop taking photos.",
+            "The [person_2] is going to keep taking the [person_3].",
+            "The [person_2] may pour the snow into the toy."
+        ],
+        "reason": [
+            "The [person_2] is holding the pillow and getting closer to the [person_2].",
+            "The [person_2] is still holding the hand of the [person_3] and walking by the [person_3].",
+            "The [person_2] fixes the carpet then gets the power stretcher.",
+            "The [person_2] is standing next to the [person_3] and holding a shovel as well.",
+            "The [person_2] is holding a plate and moving toward the [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] and [person_2] did not hold the hands of the [person_3]?",
+        "answer": [
+            "The [person_1] will fall off the bike.",
+            "The hand of [person_2] will blood.",
+            "The [person_1] will not play another instrument called a piano.",
+            "The [person_3] would be left behind.",
+            "The cup will be easily broken on the ground."
+        ],
+        "reason": [
+            "So that they can see the show clearly.",
+            "The [person_3] walks slower than the [person_1] and the [person_2].",
+            "Because the barbecue grill is in front of [person_1] and is easy to touch.",
+            "The [person_1] holds accordion on his legs.",
+            "Because we saw the shadows in the mirrors."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [dinning table_1]?",
+        "answer": [
+            "It is blue.",
+            "The scene is wonderful.",
+            "The [dinning table_1] is yellow.",
+            "Two.",
+            "The [dinning table_1] is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the chessman?",
+        "answer": [
+            "[person_1] finds stomping the grapes funnier than [person_1] does.",
+            "Because [person_1] wants to weave the fabrics herself.",
+            "Because [person_1] needs the chessman to complete the movement of [person_1].",
+            "Maybe [person_1] wants to try smoke hookah.",
+            "[person_1] is helping [person_1] swallow the sword."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will continue to play clapping with [person_2].",
+            "[person_2] will continue to play checkers with the movement of [person_2].",
+            "[person_2] will continue to boxing.",
+            "[person_2] will serve her customers with the wine.",
+            "[person_2] will continue to throw the ball up."
+        ],
+        "reason": [
+            "[person_1] moved the chessman.",
+            "Because it is more comfortable.",
+            "[person_2] must complete all the legs.",
+            "[person_1] has shown some great high kicks.",
+            "[person_2] has completed his part of the test."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't move the chessman?",
+        "answer": [
+            "[person_2] will lose.",
+            "The concert had to be canceled.",
+            "The [person_2] will save time when peeling by bare hands.",
+            "Perhaps [person_2] would have a good performance.",
+            "[person_2] won't know what to do."
+        ],
+        "reason": [
+            "[person_2] will get hit in the head.",
+            "The game will end if [person_2] doesn't move the chessman.",
+            "Because this is [person_2] and [person_2]'s work and must be completed.",
+            "The [person_2] is little and trying to play hopscotch.",
+            "Because [person_2] is stretching , slipping makes she can't react immediately and fall down."
+        ]
+    }
+}

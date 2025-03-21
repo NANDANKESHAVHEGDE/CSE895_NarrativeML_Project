@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is \u00a0 white.",
+            "It is purple.",
+            "It is pink.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing diapers?",
+        "answer": [
+            "Because [person_1] is producing a table.",
+            "Because [person_1] needs using a lot of force to snatch weight lifting.",
+            "He wants to try stack the dices one more time.",
+            "Because [person_1] is holding maracas playing.",
+            "Because [person_1] is a baby."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sleep.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to stand up."
+        ],
+        "reason": [
+            "It seems they are not going to stop now.",
+            "[person_1] gain momentum to stand up.",
+            "[person_1] is shaking the arms.",
+            "Because the blue is skying at night.",
+            "[person_1] is going to feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if no one is keeping an eye on [person_1]?",
+        "answer": [
+            "[person_1] will refuse the proposal.",
+            "[person_1] will change a good one.",
+            "[person_1] would blame him for that.",
+            "[person_1] may be in danger.",
+            "[person_1] will insist on doing it again."
+        ],
+        "reason": [
+            "Because children in this stage need to pay attention.",
+            "Hot weather will cause dehydration.",
+            "There would be only [person_1] holding the shoes.",
+            "More people make the game funnier.",
+            "the floor will be flat then and [person_1] can just install the carpet normally."
+        ]
+    }
+}

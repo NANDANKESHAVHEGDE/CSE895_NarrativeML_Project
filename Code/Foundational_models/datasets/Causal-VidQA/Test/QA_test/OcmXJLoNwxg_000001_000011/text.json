@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the space?",
+        "answer": [
+            "It is sunny.",
+            "It's hang in the wall.",
+            "It is nicely decorated.",
+            "It is very large.",
+            "It is daytime."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] skipping rope in front of other people?",
+        "answer": [
+            "Because the [person_1] is reading the [person_2].",
+            "The [person_2] is tickled by the [person_1].",
+            "[person_2] wants to see the present.",
+            "[person_1] and [person_2] are performing.",
+            "The [person_2] and [person_2] are excited."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] might change position.",
+            "[person_1] and [person_2] will continue to jumping the rope.",
+            "[person_1] and [person_2] may continue training.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] and [person_2] will keep watching TV."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are completing the performance.",
+            "[person_1] and [person_2] are performing a long dance.",
+            "[person_2] is backing into the truck.",
+            "[person_1] and [person_2] are dancing in the kitchen.",
+            "[person_1] and [person_2]'s actions are not over yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will hurt his legs.",
+            "[person_1] will continue shoot dance.",
+            "[person_1] will hurt his leg.",
+            "[person_1] will stop jumping.",
+            "[person_1] will help [person_1]."
+        ],
+        "reason": [
+            "[person_1] feels okay.",
+            "[person_1] will get hurt when he falls.",
+            "[person_1] needs to help.",
+            "[person_1] will get hurt legs.",
+            "[person_1] was injured after doing dangerous moves."
+        ]
+    }
+}

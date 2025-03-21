@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the bath.",
+            "[person_1] is at the tennis court.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] spread his arms?",
+        "answer": [
+            "[person_1] spreads his arms to keep balance.",
+            "Because he wants to practice stacking dices.",
+            "[person_1] is performing skating.",
+            "[person_1] feels so right.",
+            "[person_1] is the coach of this basketball team."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to turn."
+        ],
+        "reason": [
+            "[person_1] stepped forward continuously.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is very interested in what he says.",
+            "[person_1] is going to turn because there is no way in the front.",
+            "To make it look more fresh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] stopped cycling?",
+        "answer": [
+            "[person_1] will have to bring the guitar in for repair.",
+            "[person_1] will be disqualified from the competition.",
+            "[person_1] will bang his head on the floor.",
+            "[person_1] may not play with drink cans anymore.",
+            "[person_1] would jump off the bike."
+        ],
+        "reason": [
+            "The weight lifting is very heavy . It can make [person_1] if the weight lifting was broken down when [person_1] snatches weight lifting fail.",
+            "[person_1] would jump off the bike because the bike has stopped.",
+            "[person_1] could not see anything and lose direction without light.",
+            "[person_1] will repair it.",
+            "[person_1] falls from a high distance."
+        ]
+    }
+}

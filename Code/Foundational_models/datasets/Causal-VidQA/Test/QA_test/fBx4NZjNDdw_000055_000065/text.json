@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many vases are there in the room?",
+        "answer": [
+            "There are three.",
+            "There are 4 trees.",
+            "There is only one.",
+            "[person_2] wears a black shirt.",
+            "It is warm and tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in this room?",
+        "answer": [
+            "[person_2] roasts marshmallows for his friends.",
+            "It is possible that [person_1] and [person_2] are performing.",
+            "[person_1] and [person_2] are opening their Christmas gifts.",
+            "[person_1] feels that sitting is easier to play and it's more comfortable.",
+            "Because riding camel is a common way of transportation there."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to try on the new sweater.",
+            "[person_1] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "[person_1] finished the action successfully and smiled",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [person_1].",
+            "[person_1] is leaning forward to take the camera.",
+            "[person_1] wants to know whether it suits her or not."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the sweater doesn't suit [person_1]?",
+        "answer": [
+            "[person_1] will not wear it but will hang it in her wardrobe.",
+            "[person_1] would be able to high - five with [person_1].",
+            "The stuff in the suitcase may be disordered when [person_1] moves.",
+            "[person_1] would gradually lose the skills to throw the ball into the basket.",
+            "[person_1] could not drink orange juice in the bottles after a few days."
+        ],
+        "reason": [
+            "[person_1] is just a normal person.",
+            "The [person_1] is playing pillow fighting.",
+            "[person_1] can not return it , that would be impolite.",
+            "Because the gong is a musical instrument.",
+            "The [person_1] is the only bike in the yard."
+        ]
+    }
+}

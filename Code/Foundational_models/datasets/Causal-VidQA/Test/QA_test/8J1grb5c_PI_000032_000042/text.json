@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bench_1]?",
+        "answer": [
+            "[bench_1] is on the ground.",
+            "[bench_1] is on the shelf.",
+            "It is in front of the building.",
+            "[bench_1] is on the floor.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] practice the [bicycle_1]?",
+        "answer": [
+            "[bicycle_1] wants to help [person_1] shave.",
+            "He wants to ride the [bicycle_1] better.",
+            "Because [person_1] likes riding unicycle.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "Because [person_1] is playing the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he starts to ride?",
+        "answer": [
+            " [person_1] will continue riding.",
+            "[person_1] will paint those steel pipes.",
+            "[person_1] will step back and wait for [person_1]'s next turn.",
+            "[person_1] will try to see if the bike has been repaired.",
+            "[person_1] will continue to walk straight."
+        ],
+        "reason": [
+            "Because [person_1] installed everything he needed.",
+            "Because it seems that [person_1] has cleaned out the snow on the main road.",
+            "He turn his direction in an strange angle.",
+            " [person_1] seems to enjoy it.",
+            "[person_1] slows down gradually."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it becomes dark?",
+        "answer": [
+            "[person_1] won't continue.",
+            "[person_1] will keep playing to the end.",
+            "[person_1] would be injured.",
+            "[person_1] would find difficulties in blowing the clarinet.",
+            "[person_1] can stop."
+        ],
+        "reason": [
+            "[person_1] can come back home and rest.",
+            "[person_1] is standing below the wire.",
+            "[person_1] would drink a lone.",
+            "Because it will clutter the space if the dolls fall over.",
+            "The clarinet is too long for [person_1] to hold while standing."
+        ]
+    }
+}

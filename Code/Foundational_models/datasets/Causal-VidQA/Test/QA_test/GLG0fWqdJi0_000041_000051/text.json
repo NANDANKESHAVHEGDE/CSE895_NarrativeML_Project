@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [vase_1]?",
+        "answer": [
+            "[person_1] is playing now.",
+            "[vase_1] is next to [person_1].",
+            "[person_1] is wearing winter clothes.",
+            "[vase_1] is on the [vase_1] behind the [person_1].",
+            "The [person_1] is skating."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "[person_2] also wants to play the keyboard.",
+            "[person_2] is helping [person_1] not to fall.",
+            "[person_2] prepares to discover the gifts.",
+            "[person_1] and [person_2] are opening presents.",
+            "[person_1] and [person_2] are just starting to play chess."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to continue playing swing.",
+            "[person_1] and [person_2] are going to begin dancing.",
+            "[person_1] and [person_2] are going to play with presents together.",
+            "[person_1] and [person_2] are going to stop snapping their fingers.",
+            "[person_1] and [person_2] are going to hover - boarding together."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are going to feel tired.",
+            "[person_1] and [person_2] look great and fresh.",
+            "[person_1] and [person_2] are holding wine glasses.",
+            "[person_1] and [person_2] turn around , and there are chairs behind [person_1] and [person_2] to rest.",
+            "[person_1] and [person_2] are paying a lot of attention to the drill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a cat suddenly jumps onto the [vase_1]?",
+        "answer": [
+            "[vase_1] will cook again.",
+            "[vase_1] may fall.",
+            "[vase_1] would be very sad.",
+            "[vase_1] would stand up.",
+            "[vase_1] may look straight at the camera."
+        ],
+        "reason": [
+            "People are easily infected by emotions.",
+            "[vase_1] is quite small.",
+            "The crossbar is heavy.",
+            "[vase_1] could not control her body.",
+            "[vase_1] had to go at once."
+        ]
+    }
+}

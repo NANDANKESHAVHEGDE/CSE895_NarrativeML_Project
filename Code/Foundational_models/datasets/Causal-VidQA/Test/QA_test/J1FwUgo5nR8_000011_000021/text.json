@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It is cool.",
+            "[person_3] is on the street.",
+            "[person_1] is in the large room.",
+            "[person_2] is kicking a ball.",
+            "It is sunny and hot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] standing there one another?",
+        "answer": [
+            "[person_1] plays chess by holding pieces and moving according to the rules.",
+            "There is a microphone in front of [person_1] to record the sound [person_1] makes when playing the guitar.",
+            "Because [person_3] is stomping grapes in the tank.",
+            "[person_1] , [person_2] and [person_3] want to improve their physical health.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will stand up.",
+            "[person_1] will go home.",
+            "It is possible that [person_1] will instruct how to play cricket for [person_2] and [person_3].",
+            "[person_1] would stop crying and be picked up by [person_1]'s parents.",
+            "[person_1] will put the device in a suitable position before starting to work."
+        ],
+        "reason": [
+            "Because [person_1] is too young to keep so much money.",
+            "[person_3] is teaching [person_1] and [person_2] how to play didgeridoo.",
+            "[person_2] and [person_3] are young children.",
+            "Because [person_1] squats down next to the wheel.",
+            "Because [person_1] has tried hard to do rope climbing which will let [person_1] be tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is hungry?",
+        "answer": [
+            "Maybe [person_1] will sing.",
+            "The remaining person in the [person_1]'s team will continue playing instead of [person_1].",
+            "Maybe [person_1] and [person_1] will continue play.",
+            "Maybe [person_1] will bring [person_2] to eat something.",
+            "The [person_1] will leave here."
+        ],
+        "reason": [
+            "[person_2] will need to be full.",
+            "[person_2] likes to perform depending on the existence of the [person_2].",
+            "[person_2] can not stand when he is drunk.",
+            "People with anemia will feel unwell after standing for a long time.",
+            "[person_2] can not tolerate long time exercising and needs to appropriate rest."
+        ]
+    }
+}

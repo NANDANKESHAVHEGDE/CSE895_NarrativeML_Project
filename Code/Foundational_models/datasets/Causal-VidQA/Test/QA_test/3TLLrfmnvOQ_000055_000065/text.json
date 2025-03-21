@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite tidy.",
+            "The room is cramped.",
+            "It is in a grass field.",
+            "It is dark with the spot light on the stage only.",
+            "The room is bright."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the microphone while playing the harmonica?",
+        "answer": [
+            "The [person_1] is holding the teddy bear to beat the [person_1].",
+            "[person_1] is performing in a large room and [person_1] wants everyone can listen to the sound of the harmonica.",
+            "Because they are experiencing riding the camels.",
+            "Because the [person_1] wants to get off.",
+            "Because [person_1] feels happy when [person_1] finish the exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will continue playing the clarinet.",
+            "[person_1] will continue using the painting gas.",
+            "[person_1] will continue to wash the plate under running water.",
+            "[person_1] will continue playing the harmonica."
+        ],
+        "reason": [
+            "[person_1] has not finished the performance.",
+            "[person_1] has finished the performance.",
+            "[person_1] brought water to help him work through his intensive exercise routine.",
+            "[person_1] will play his bagpipes loudly because he doesn't have to worry about disturbing anyone because no one is around.",
+            "[person_1] hasn't finished washing the dishes yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the microphone suddenly dropped?",
+        "answer": [
+            "[person_1] can't practice anymore . .",
+            "It will be terrific.",
+            "[person_1] will go inside.",
+            "The audience could not listen the sound of the harmonica.",
+            "[person_1] won't be able to guide people forward."
+        ],
+        "reason": [
+            "[person_1] will repair it.",
+            "Because people tip him.",
+            "Because the room is using light from outside.",
+            "Without the microphone , the sound of the harmonica is too soft for the audience to listen.",
+            "Because the scooter can not be used in a crowded place."
+        ]
+    }
+}

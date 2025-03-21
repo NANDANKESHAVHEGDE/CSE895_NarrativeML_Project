@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] is using a hammer.",
+            "[person_1] is using a saber.",
+            "It's a lighter.",
+            "It is a bottle opener.",
+            "A bottle opener."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use a huge hammer to smash the tires?",
+        "answer": [
+            "The tire is so hard and the huge hammer is heavy.",
+            "[person_1] is putting lipstick on her hand to check the color.",
+            "[person_1] wanted it to be more beautiful.",
+            "Because [person_1] is waiting for her turn.",
+            "[person_1] is harvesting apples."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after this exercise?",
+        "answer": [
+            "[person_1] may go to the road to clean up the trash.",
+            "[person_1] will carve more patterns on [person_1].",
+            "[person_1]'ll take off the tire.",
+            "[person_1] will clean up the mess.",
+            "[person_1] will have a rest."
+        ],
+        "reason": [
+            "[person_1] must feel tired after exercise.",
+            "Because one of [person_1]'s feet had moved forward , and [person_1]'s hands were stretched out to turn over.",
+            "Because the grass has been very clean , [person_1] needs to clean the road instead.",
+            "[person_1] will continue to raise [person_1]'s leg for ease of shaving.",
+            "[person_1] thinks toy cars are more interesting than lawn mowing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] used a small hammer?",
+        "answer": [
+            "The exercise would be quite easy.",
+            "[person_1] won't be able to keep shaving.",
+            "The exercise would make sense.",
+            "[person_1] would not do this work well.",
+            "The exercise would make no sense."
+        ],
+        "reason": [
+            "Small hammer is too big with little force for the tires.",
+            "[person_1] could give a new present.",
+            "Small hammer is too light with little force for the tires.",
+            "Scissor could not deal with short hair.",
+            "Small hammer is too light with much force for the tires."
+        ]
+    }
+}

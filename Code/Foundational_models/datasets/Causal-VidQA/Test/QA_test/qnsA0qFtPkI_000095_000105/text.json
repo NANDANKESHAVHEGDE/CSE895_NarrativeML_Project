@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the fan?",
+        "answer": [
+            "[person_1] is on the right hand side of [person_1].",
+            "The fan is located on the left hand side of [person_1].",
+            "[person_1] is near a building.",
+            "[person_1] is wearing a dress.",
+            "[person_1] and [person_1] are stomping grapes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [cup_1] constantly moving?",
+        "answer": [
+            "[person_1] wants to exercise the body.",
+            "[person_1] wants to practice blowing clarinet.",
+            "[cup_1] presses the spoon to the bottle and levers the lid up.",
+            "Because [person_1] is constantly tapping on [cup_1] with a pen.",
+            "[person_1] wants to train to change body."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_1]'s head move next?",
+        "answer": [
+            "[person_1] will go back to the game.",
+            "[person_1] will start to perform.",
+            "[person_1] will go on her bike traveling.",
+            "[person_1] will continue dancing.",
+            "[person_1]'s head will still hang down."
+        ],
+        "reason": [
+            "[person_1] intends to teach people how to use the inhaler.",
+            "Because they wants to know how it tastes.",
+            "We have waited for 10 seconds and want to know the next step.",
+            "[person_1] is waiting for medicine totally being absorbed.",
+            "[person_1]'s head will still hang down because [person_1]'s still listening to the rhythm [person_1]'s making."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if both [person_1]'s hands were knocking on the table?",
+        "answer": [
+            "The sound produced would be different.",
+            "Then the cards may fall.",
+            "The sound produced would be same.",
+            "The girl might be scared.",
+            "The sound produced would be sharp."
+        ],
+        "reason": [
+            "Because the sound produced from the [cup_1] will be clearer.",
+            "[person_1] would stop and the wool would not be long enough to wrap around the white cylindrical object.",
+            "Because the sound produced from the [cup_1] will be lower.",
+            "The parrot would not fly out of [person_1]'s hand to get more food.",
+            "Because the sound produced from the [cup_1] will be higher."
+        ]
+    }
+}

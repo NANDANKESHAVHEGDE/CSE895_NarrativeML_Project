@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] doing?",
+        "answer": [
+            "[person_1] and [person_2] are watering plants.",
+            "They are making sushi.",
+            "[person_1] and [person_2] are trying to help [person_2] skipping rope.",
+            "[person_1] and [person_2] are playing badminton back and forth.",
+            "[person_1] and [person_2] are making bubbles."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] wear a coat?",
+        "answer": [
+            "[person_2] wants to have a rest.",
+            "Maybe because the weather is cold.",
+            "Because [person_2] made it out of hookah smoke.",
+            "It is possible that [person_2] is learning to play the harmonica.",
+            "[person_2] is wearing make - up."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to touch the hand of [person_1].",
+            "[person_2] is going to keep competing against [person_1].",
+            "[person_2] is going to pick up the badminton shuttlecock after [person_1] hitting it.",
+            "[person_2] is going to play with the dog.",
+            "[person_2] may play with other kids."
+        ],
+        "reason": [
+            "[person_2] has just succeeded in his performance.",
+            "[person_2] is very surprise.",
+            "[person_2] still opens the mouth and shows happiness on the face.",
+            "Because there is a dog coming at her.",
+            "The reason is that the match has not ended yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] are very tired?",
+        "answer": [
+            "[person_1] and [person_2] will sit on the [bench_1] and take a break.",
+            "[person_2] may go to comfort him at once time.",
+            "[person_1] and [person_2] will stand on the [bench_1] and take a break.",
+            "[person_1] and [bench_1] would get falls , which is very dangerous.",
+            "[person_1] and [person_2] will lie on the [bench_1] and take a break."
+        ],
+        "reason": [
+            "Because [bench_1] is far from [person_1] and [person_2] and there is no one sitting on the [bench_1].",
+            "Because [person_1] is already coughing and patting on his chest several times.",
+            "Because [bench_1] is near [person_1] and [person_2] and there many person sitting on the [bench_1].",
+            "[person_1] is a child and too short , so [person_1] needs to jump to be able to throw the ball.",
+            "Because [bench_1] is near [person_1] and [person_2] and there is no one sitting on the [bench_1]."
+        ]
+    }
+}

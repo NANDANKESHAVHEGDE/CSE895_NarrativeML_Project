@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather now?",
+        "answer": [
+            "The books are placed on the bookshelf.",
+            "It's very sunny.",
+            "Black.",
+            "The apple skins drop on the table.",
+            "A black hat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the wheelbarrow?",
+        "answer": [
+            "Because [person_1] is pushing the wheelbarrow.",
+            "Because [person_1] is watering the flower pots.",
+            "Maybe [person_1] is playing laser tag.",
+            "Because [person_1] is lifting weights.",
+            "[person_1] is skipping rope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to push the wheelbarrow.",
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to keep dancing.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] may put the milk in the fridge."
+        ],
+        "reason": [
+            "[person_1] feels cold.",
+            "According to the rules of baseball , [person_1] will score a run - home after hitting the ball outs of the field , so he can freely run to all the points on the course without being hindered by his opponent.",
+            "[person_1] buries his face in a box containing donuts and eats wildly.",
+            "[person_1] has completed his part of the test.",
+            "[person_1] is just pushing to the middle of the road."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would [person_1] do if it rains heavily?",
+        "answer": [
+            "[person_1] may fell over on the floor.",
+            "[person_1] should go for sleep.",
+            "[person_1] will leave the lecture hall quietly.",
+            "[person_1] will be very tired.",
+            "[person_1] would push the wheelbarrow quickly into the house."
+        ],
+        "reason": [
+            "Because [person_1] is pushing the wheelbarrow outside.",
+            "[person_1] is not a place to sleep.",
+            "12 at night is too late and [person_1] needs to rest.",
+            "Because [person_1] still holds the [person_1].",
+            "When [person_1] is reading , [person_1] is been looking at the [person_1] and he seems to wants to read the [person_1]."
+        ]
+    }
+}

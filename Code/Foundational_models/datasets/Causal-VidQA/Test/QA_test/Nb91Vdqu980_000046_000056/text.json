@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in his house.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is sitting on [couch_4].",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] bouncing?",
+        "answer": [
+            "Because [person_2] is snatching weight lifting.",
+            "[person_2] is happy because of playing football.",
+            "Because [person_2] is snatching weight - lifting.",
+            "Because [person_2] crouched down and got tangled in the rope.",
+            "Because [person_2] is playing checkers with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_2] next after holding the ball?",
+        "answer": [
+            "[person_2] will keep on dancing.",
+            "[person_2] will get up to play again.",
+            "[person_2] will keep playing.",
+            "[person_2] will throw the ball over the table.",
+            "[person_2] will catch up."
+        ],
+        "reason": [
+            "Because [person_1] just dunk and now is the short boy's turn.",
+            "[person_1] is a kid.",
+            "The table is between [person_2] and [person_1].",
+            "[person_1] will show the audience who they are.",
+            "Because it's time for others to throw the ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] stands up?",
+        "answer": [
+            "[person_1] will get hurt.",
+            "The [person_1] will take care of [person_2].",
+            "[person_2] can not catch the ball [person_1] throws.",
+            "There will be less effect.",
+            "[person_1] will help [person_2]."
+        ],
+        "reason": [
+            "It's sunny , so [person_1] can play outside.",
+            "[person_1] has no beard.",
+            "[person_1] is taller than [person_2].",
+            "[person_1] can not ride the bike with the broken leg.",
+            "Shaving makes [person_1] look younger and more handsome."
+        ]
+    }
+}

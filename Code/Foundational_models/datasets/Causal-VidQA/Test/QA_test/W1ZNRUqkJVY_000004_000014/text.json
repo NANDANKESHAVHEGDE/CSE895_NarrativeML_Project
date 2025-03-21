@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tv_1]?",
+        "answer": [
+            "[tv_1] is on the table.",
+            "[tv_1] is on the cabinet.",
+            "[tv_1] is near the column.",
+            "The color of [tv_1] is green.",
+            "The balls are red and blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pick up the ball?",
+        "answer": [
+            "The [person_1] claps his hand to show his confidence to everyone.",
+            "Because [person_1] is playing pen - tapping.",
+            "[person_1] uses her mouth to blow and her fingers to adjust the sound.",
+            "[person_1] wants to play with the ball.",
+            "[person_1] is practicing the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] want to do next?",
+        "answer": [
+            "The [person_1] will continue to look for things in the refrigerator.",
+            "[person_1] is going to tear the white bag.",
+            "The [person_1] will take a photo.",
+            "The [person_1] will continue to talk with the dolls.",
+            "[person_1] wants to throw another round."
+        ],
+        "reason": [
+            "Move in a track of circle.",
+            "Because there are quite a few toys left to sort.",
+            "[person_1] wants to walk by himself.",
+            "[person_1] is picking up the ball.",
+            "The [person_1] is drawing and hasn't finished yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] goes backward too much?",
+        "answer": [
+            "[person_1] would be hurt after jumping.",
+            "[person_1]'ll wait for them.",
+            "[person_1] would hurt himself very badly.",
+            "[person_1] might hit [chair_2].",
+            "The gift box after wrapping will be very bad."
+        ],
+        "reason": [
+            "Funny stories are easy to laugh at.",
+            "[person_1] rides very professionally.",
+            "Because [person_1] applies too much plaster so he has to spread all of it.",
+            "[chair_2] is right behind [person_1].",
+            "It isn't neat and its surface dips."
+        ]
+    }
+}

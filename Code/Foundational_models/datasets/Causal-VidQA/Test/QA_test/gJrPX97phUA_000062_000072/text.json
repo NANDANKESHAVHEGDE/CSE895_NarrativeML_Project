@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "The [couch_1] is next to the [couch_1].",
+            "[couch_1] is behind [couch_1].",
+            "[couch_1] is behind the [couch_1].",
+            "[couch_1] is directly in front of [couch_1].",
+            "The [couch_1] is next to the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_6] holding a red box?",
+        "answer": [
+            "[person_6] is showing [person_6] how to play the clarinet.",
+            "The [person_6] wants to open the red box.",
+            "[person_6] needs to reposition his microphone.",
+            "[person_6] wants to play maracas.",
+            "Maybe [person_6] does the guitar for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_6] do?",
+        "answer": [
+            "The [person_6] may open the red box.",
+            "[person_6] and [person_6] will take a picture.",
+            "The person opposite [person_6] will catch the ball.",
+            "The [person_6] will get off the camel quickly.",
+            "Perhaps [person_6] is in a park."
+        ],
+        "reason": [
+            "The [person_6] has taken the red box and the [person_6] is looking at the red box.",
+            "Although the cookies was stuck on the plate , [person_6] took a shovel , and [person_6] could shovel it off if [person_6] insisted.",
+            "The person next to [person_6] could be a customer.",
+            "Because it looks like [person_6] wants the ice cream of [person_6].",
+            "It seems that [person_6] wants to taste it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the phone on the [dining table_1] rang?",
+        "answer": [
+            "[person_3] will be very angry.",
+            "[person_3] may hurt.",
+            "[dining table_1] and [person_3] would see [person_3].",
+            "The [person_3] would stand up and take the phone.",
+            "[person_3] will pick up the wig and make it clean."
+        ],
+        "reason": [
+            "The [person_3] is sitting close to the phone.",
+            "[person_3] would stop talking then.",
+            "The little girl has messy hair and looks younger than [dining table_1] , so [dining table_1] also needs the help of [dining table_1].",
+            "[person_3] has nothing else to look at.",
+            "Because the dancing is attractive , and suitable for more people to watch."
+        ]
+    }
+}

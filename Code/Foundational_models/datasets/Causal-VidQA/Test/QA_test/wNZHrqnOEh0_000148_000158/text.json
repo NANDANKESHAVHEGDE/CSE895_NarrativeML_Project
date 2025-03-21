@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bed_1]?",
+        "answer": [
+            "[bed_1] is a next to [person_1].",
+            "It is rectangular.",
+            "[bed_1] is red.",
+            "[bed_1] is behind [person_1].",
+            "It is behind [person_1] ."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the paper?",
+        "answer": [
+            "[person_1] wants to throw the ball higher.",
+            "[person_1] wants to try to run.",
+            "Because [person_1] looks like the father of [person_1].",
+            "There some information that the [person_1] can read.",
+            "Because [person_1] just received a gift."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may swim towards [person_1].",
+            "[person_1] will fix the gongs.",
+            "[person_1] will put in contact lenses.",
+            "[person_1] will continue sitting there.",
+            "[person_1] will push a wheelchair to help [person_1] enter the house to shelter from the rain."
+        ],
+        "reason": [
+            "[person_1] is sitting on a [bed_2].",
+            "[person_1] is at the door.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "[person_1] is swimming back.",
+            "To put some better components in the power drill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] tired?",
+        "answer": [
+            "He will go indoors.",
+            "The person can not go home.",
+            "[person_1] won't get the cutting board.",
+            "[person_1] would relax.",
+            "This method would not work."
+        ],
+        "reason": [
+            "[person_1] is in danger.",
+            "Because [person_1] had to drop the piggy bank to get her money out.",
+            "A person in blue shirt running really fast after [person_1] , so he can hit the ball if [person_1] can not.",
+            "To do a massage for the waist.",
+            "[person_1] is a baby."
+        ]
+    }
+}

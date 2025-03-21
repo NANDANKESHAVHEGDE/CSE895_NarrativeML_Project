@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt of [person_1]?",
+        "answer": [
+            "The shirt of [person_1] is blue.",
+            "The [person_1] is wearing a white Cow - boy hat.",
+            "It is brown.",
+            "The shirt of [person_1] is black.",
+            "The box is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "[person_1] is listening to music beat through the headphones.",
+            "[person_1] is stacking the cups on the table.",
+            "[person_1] is playing a game with a friend.",
+            "[person_1] is standing outside on the sidewalk playing their bagpipes.",
+            "[person_1] is standing outside playing his bagpipe for money."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_2] and [person_1] going to do?",
+        "answer": [
+            "Because [person_1] was searching for decorations on the ground.",
+            "[person_1] will return to the barn.",
+            "[person_1] and [person_2] are going to continue playing hand clapping game.",
+            "[person_1] will go for the waiter in front of him.",
+            "The [person_1] will be relaxed and happy."
+        ],
+        "reason": [
+            "The food doesn't look ripe yet.",
+            "It seems that there is a machine on the table.",
+            "Because [person_1] will be cleaned.",
+            "[person_1] and [person_2] clapped each other hands.",
+            "The farmer is chasing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] slapped in [person_2]'s face?",
+        "answer": [
+            "[person_1] and [person_2] would laugh.",
+            "[person_1] will hug the dog.",
+            "The [person_1] will not feel pain.",
+            "[person_2]'s master would move [person_2] to another place to continue that.",
+            "The [person_1] will yell at the dog."
+        ],
+        "reason": [
+            "[person_1] would know where to lift one leg and where to put two because that's the rule of hopscotch.",
+            "[person_1] and [person_2] made fun of each other.",
+            "[person_1] can write with both hands.",
+            "Because he was backward at first , but he won in the end.",
+            "All of them are not wearing any protective gear right now."
+        ]
+    }
+}

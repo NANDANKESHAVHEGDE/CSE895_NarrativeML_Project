@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is outside the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying on the floor?",
+        "answer": [
+            "[person_1] is washing his hair.",
+            "[person_1] is doing tai chi moves.",
+            "[person_1] is shaving for [person_1] .",
+            "Because [person_1] is waiting for the mother.",
+            "Because [person_1] is practicing standing on hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to jump .",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] is going to start stand on the hand.",
+            "[person_1] will be naughty [person_1].",
+            "[person_1] will put meat into the machine."
+        ],
+        "reason": [
+            "[person_1] finishes showing and thanks the audience.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] is going to continue feeding fish.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets injured?",
+        "answer": [
+            "Maybe [person_1] will stop practicing.",
+            "[person_1] will drink water.",
+            "The girl in pink will buy new gum for herself and chew happily.",
+            "[person_1] will be fall.",
+            "[person_1] will feel worried and get nervous."
+        ],
+        "reason": [
+            "The electric bass guitar of [person_1] runs on power.",
+            "[person_1] will feel more pain.",
+            "Because the kite is already flying in the air and the wind is strong.",
+            "[person_1] can hit [person_1] while running.",
+            "The parents of [person_1] want him to get better."
+        ]
+    }
+}

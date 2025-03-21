@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How's the weather ?",
+        "answer": [
+            "It is an optional extent kit.",
+            "[person_1] and [person_1] are at the backyard of a school.",
+            "[person_1] and [person_1] are in the roller skating rink.",
+            "[person_1] and [person_1] are are on the road.",
+            "It is sunny."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is here to play drums.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing lute on the riverbank.",
+            "[person_1] is skiing.",
+            "[person_1] is playing lute alone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going to rest.",
+            "[person_1] is going to laugh.",
+            "[person_1] is going to shoot again.",
+            "[person_1] is going to come back home."
+        ],
+        "reason": [
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is in the beach.",
+            "[person_1] wants to play for entertainment.",
+            "[person_1] is playing street basketball with his friends.",
+            "[person_1] cuts off the flower's stem."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen in the future if the ball hits [person_1]'s head?",
+        "answer": [
+            "That's no problem with [person_1].",
+            "It would hit [person_1].",
+            "[person_1] will play again.",
+            "[person_1] is going to be vacant.",
+            "She may pick it up and try again next time."
+        ],
+        "reason": [
+            "[person_1] is very brave.",
+            "[person_1] must open it now as the customers order.",
+            "[person_1] is too young so he can't walk by himself.",
+            "[person_1] is very skillful and confident.",
+            "That's what happens all the time when [person_1] plays basketball."
+        ]
+    }
+}

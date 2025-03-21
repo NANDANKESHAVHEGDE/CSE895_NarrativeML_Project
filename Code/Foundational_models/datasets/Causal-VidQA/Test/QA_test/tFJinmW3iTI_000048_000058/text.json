@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [book_6]?",
+        "answer": [
+            "[book_6] is on the field.",
+            "[book_6] is sitting close to the camera.",
+            "No , it isn't.",
+            "The color of [book_6] is green.",
+            "Four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is learning how to play the cello.",
+            "Because [person_2] is reading a book.",
+            "Maybe [person_2] is learning fire dance from [person_2].",
+            "[person_2] and [person_2] are family.",
+            "Because [person_2] wants to play the violin in a quiet room."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will stand up.",
+            "[person_1] will go home.",
+            "Perhaps [person_1] will teach [person_2] how to play the cello.",
+            "[person_1] would stop crying and be picked up by [person_1]'s parents.",
+            "[person_1] will put the device in a suitable position before starting to work."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are so close . [person_2] is playing the cello slower than [person_1].",
+            "Because [person_1] looks great playing violin.",
+            "Because the ball is coming to [person_1].",
+            "[person_1] picks up the device repeatedly because it is placed in an improper location , [person_1] needs to find a suitable location.",
+            "Obviously , [person_1] hasn't finished yet , so [person_1] will continue to eat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] bites [person_2]?",
+        "answer": [
+            "Perhaps [person_2] will be cry.",
+            "[person_1] will stop talking with [person_2] and find [person_2].",
+            "[person_1] will forgive [person_1].",
+            "[person_2] would cut [person_2]'s skin.",
+            "[person_2] might be hit by [person_1]'s broom."
+        ],
+        "reason": [
+            "[person_1] and [person_2] could not be able to do the movement they were doing because they couldn't keep their balance.",
+            "[person_1] is old . [person_1] is stronger than [person_2].",
+            "Because the door would be broken and couldn't be used.",
+            "Because if [person_1] cuts [person_1]'s finger , it will hurt very much , so [person_1] will shout.",
+            "[person_1] is quite happy with [person_1]."
+        ]
+    }
+}

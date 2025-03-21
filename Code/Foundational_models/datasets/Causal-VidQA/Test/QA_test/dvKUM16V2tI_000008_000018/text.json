@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "On the ceiling.",
+            "The text is white.",
+            "It is sunny.",
+            "[person_1] is following [person_1] while [person_1] throws the ball into his cup.",
+            "[person_2] is playing with the present box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] not use a press?",
+        "answer": [
+            "[person_2] wants to avoid injuries.",
+            "Maybe the weather is so hot.",
+            "The juice isn't as good as using a stomp.",
+            "Because they're so excited.",
+            "They are deciding on something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may turn around.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] will certainly stomp the grapes.",
+            "[person_1] is going to practice.",
+            "[person_1] may change another tool."
+        ],
+        "reason": [
+            "Maybe [person_1] feels very happy.",
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is snowmobiling.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] is touching three cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stomps the grapes quickly?",
+        "answer": [
+            "[person_1] will be very regretful.",
+            "[person_1] will bring it to the tire shop.",
+            "[person_1] will have a good glass of wine.",
+            "[person_1]'s hand may be dirty.",
+            "[person_1] and the child who is next to her will be wet."
+        ],
+        "reason": [
+            "The floor is very slippery.",
+            "That's the rule of this game.",
+            "The present was covered cautiously.",
+            "Grape juice will taste better if stomped slowly.",
+            "Children usually throw their toys."
+        ]
+    }
+}

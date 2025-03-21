@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "The person who is skating on the roller rink is a boy or a girl?",
+        "answer": [
+            "The curtains are black.",
+            "The person who is skating on the roller rink is a girl.",
+            "[person_1] is near the corner.",
+            "It is wood color.",
+            "The pant is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] raise the right leg?",
+        "answer": [
+            "[person_1] is outside on the street in the morning,",
+            "[person_1] is spinning the plate.",
+            "[person_1] glided with one foot and propelled herself forward.",
+            "This is [person_1] private room.",
+            "[person_1] is not tall enough to plaster the wall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may carve the back.",
+            "[person_1] may thanks [person_1].",
+            "[person_1] is going to do a heel - toe.",
+            "Perhaps [person_1] is going to jump next.",
+            "Maybe [person_1] is going to continue watering."
+        ],
+        "reason": [
+            "[person_1] is going to have a break.",
+            "[person_1] is trying to make it more beautiful.",
+            "[person_1] did a few glides to gain momentum , lifted the heel of the trailing skate , skated on only the heel of one skate and the toe of the other.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is huddling with the team."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] loses momentum?",
+        "answer": [
+            "He may stop for a while and have some water.",
+            "[person_1] will lean forward and stay.",
+            "[person_1] may be sad.",
+            "[person_1] will lean backward and fall.",
+            "[person_1] will follow him."
+        ],
+        "reason": [
+            "The wheels on the skates are circle and easy to grovel.",
+            "Completing the puzzle is not so urgent at all , so he can rest.",
+            "The wheels on the skates aren't circle and easy to grovel.",
+            "The snake would have poison.",
+            "The wheels on the skates are circle and hard to grovel."
+        ]
+    }
+}

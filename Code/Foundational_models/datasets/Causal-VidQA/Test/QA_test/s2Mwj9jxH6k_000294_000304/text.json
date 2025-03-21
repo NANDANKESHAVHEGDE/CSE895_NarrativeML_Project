@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt is [person_1] wearing?",
+        "answer": [
+            "The shirt is white.",
+            "Camels.",
+            "No , it isn't.",
+            "It lies on the street.",
+            "It's smoky gray."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is this painting so colorful and detailed?",
+        "answer": [
+            "[person_1] is performing.",
+            "For fear of breaking the ground.",
+            "[person_1] makes it easy to see.",
+            "[person_1] wants a better picture.",
+            "It is soft on the grass."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to turn the iron.",
+            "[person_1] will be keep playing the harmonica.",
+            "Perhaps [person_1] will continue to fold the napkin.",
+            "[person_1] will keep painting.",
+            "[person_1] will continue explaining."
+        ],
+        "reason": [
+            "[person_1] is concentrating on making the basket deftly.",
+            "[person_1] may keep trying to complete.",
+            "[person_1] is still a little kid and impatient.",
+            "[person_1] must keep track of her student's progress.",
+            "Because it takes some time for the dye to dry."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] accidentally sprayed on his clothes?",
+        "answer": [
+            "Also braid.",
+            "The reporter might have to ask another player.",
+            "[person_1] will stop.",
+            "[person_1] may head down.",
+            "His clothes would get dirty."
+        ],
+        "reason": [
+            "There are no protection nets around the trampoline.",
+            "When [person_1] is dancing next to [person_1] , he is rising his leg to kick the [person_1],",
+            "It was difficult to remove paint from clothes.",
+            "The [person_1] holds the shot carefully and identifies the direction.",
+            "[person_1] needs to face the scold of people when he does not do exercise."
+        ]
+    }
+}

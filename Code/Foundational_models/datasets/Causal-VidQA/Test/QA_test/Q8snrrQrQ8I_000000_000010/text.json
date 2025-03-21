@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_2]'s wearing underneath?",
+        "answer": [
+            "White.",
+            "There are 6 people.",
+            "There is only person.",
+            "There are three people.",
+            "One."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand?",
+        "answer": [
+            "There is no chairs.",
+            "[person_1] wants to practice moving with the ball in field hockey.",
+            "[person_1] is having some exercises.",
+            "Otherwise the water will spill out.",
+            "[person_1] sits down to open the gift easier."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] eat ?",
+        "answer": [
+            "[person_1] will gather all the milk.",
+            "[person_1] will tell her family.",
+            "[person_1] will go back home.",
+            "[person_1] will eat rice.",
+            "[person_1] will get salary."
+        ],
+        "reason": [
+            "[person_1] is fond of rice.",
+            "[person_1] is preparing for it.",
+            "Because it's late and there is no place for them to rest in the wild.",
+            "Because he needs to send the milk to be processed.",
+            "Because [person_1] doesn't seem to have learned it yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if he is exhausted?",
+        "answer": [
+            "[person_1] will sit down.",
+            "[person_1] may feel disappointed.",
+            "The tar and unpleasant smells will dirty the pipe.",
+            "[person_1] find a place for a shelter and wait for the result.",
+            "[person_1] would find a place for a shelter."
+        ],
+        "reason": [
+            "[person_1] was unfortunately spilled.",
+            "[person_1] needs to rest.",
+            "Because people can't do that for many times.",
+            "The machine can't work.",
+            "[person_1] is outside."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] grabbing?",
+        "answer": [
+            "[person_1] is looking at the gong.",
+            "[person_1] is the man who is wearing a red shirt.",
+            "[person_1] is the man who is wearing headphones.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is grabbing an apple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there an apple in [person_1] 's hand?",
+        "answer": [
+            "when [person_1] looking at the mirror , the reflection looks like someone else.",
+            "because [person_1] must do so in order to sharpen the pencil.",
+            "[person_1] is excited about making the basket.",
+            "[person_1] just picked it up from the tree.",
+            "The ball of [person_1] is small to fit hands of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to keep bouncing the ball into the wall.",
+            "[person_1] is going to do another high kick with his left leg.",
+            "[person_1] is going to lift up the bag.",
+            "[person_1] is going to keep dancing with his partner.",
+            "[person_1] is going to check the files in the box."
+        ],
+        "reason": [
+            "To see whether the file is important or not.",
+            "To practice golf for more times.",
+            "[person_1] pull the shoulder strap.",
+            "[person_1] doesn't know how to shear sheep and just watches [person_1] work.",
+            "[person_1] seems to still hold the phone with his hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was no bag?",
+        "answer": [
+            "[person_1] and [person_1]'s performances are insufficient.",
+            "[person_1] would not be able to picking up fruit.",
+            "[person_1] will go out and get some more.",
+            "[person_1] would be able to picking up fruit.",
+            "[person_1] will be sad."
+        ],
+        "reason": [
+            "[person_1] needs [person_1] to co - practice.",
+            "[person_1] did not have anything to carry the apples.",
+            "[person_1] is playing in the outside.",
+            "[person_1] did have anything to carry the apples.",
+            "because there is no one playing with [person_1]."
+        ]
+    }
+}

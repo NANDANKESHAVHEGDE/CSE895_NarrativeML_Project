@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding [person_1].",
+            "[person_1] and [person_1] are in the house.",
+            "[person_1] and [person_1] are in the barber shop.",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] is holding a bagpipe."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1]'s face look?",
+        "answer": [
+            "[person_1] is playing.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is practicing playing piano.",
+            "[person_1]'s face look very concentrated.",
+            "[person_1] is the skating contest judge."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue playing basketball.",
+            "[person_1] will continue to play bagpipe.",
+            "[person_1] is going to turn the iron.",
+            "[person_1] will pick up the large piece of wood in front of it and cut it.",
+            "[person_1] will pick up the hoop."
+        ],
+        "reason": [
+            "Because [person_1] is picking up the cloth to the camera.",
+            "[person_1] put the pipe back to his mouth.",
+            "Because [person_1] divides the money into piles.",
+            "Maybe [person_1] is afraid of something.",
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] was not so concentrated?",
+        "answer": [
+            "[person_1] would not show off his muscle.",
+            "the foot of [person_1] would hurt and be injured.",
+            "[person_1] would stop what he was doing.",
+            "[person_1] might miss a key.",
+            "The cows would not run into the cage."
+        ],
+        "reason": [
+            "Because it will be difficult for one person to describe the boxing movement.",
+            "[person_1] needs to be focus to play the bagpipe correctly.",
+            "[person_1] had been interrupted and had to reply.",
+            "[person_1] will give the cloth to [person_1]",
+            "Because more clothes can make people feel warm."
+        ]
+    }
+}

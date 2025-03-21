@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the ribbon on the gift [person_1] is opening?",
+        "answer": [
+            "[person_1] is green.",
+            "White.",
+            "Two.",
+            "The ribbon is blue.",
+            "It is black hair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] brush off [person_2]'s hand?",
+        "answer": [
+            "Because [person_1] is making him laugh by tickling him.",
+            "[person_1] is watching [person_2] lift weights.",
+            "The [person_1] is introducing the internal structure of the [person_1].",
+            "Because [person_1] wants to protect himself.",
+            "Because [person_1] doesn't want [person_2]'s help."
+        ]
+    },
+    "predictive": {
+        "question": "After that , what will [person_1] probably do?",
+        "answer": [
+            "[person_1] will take some marshmallows to the grandparents in the house.",
+            "They will stand up and have a dance.",
+            "The snow will be much thinner.",
+            "[person_1] will taste it.",
+            "[person_1] will pull out the gift."
+        ],
+        "reason": [
+            "Because they have just finished the game.",
+            "This movement is too strenuous.",
+            "[person_1] will jump because she is repeating the movement.",
+            "[person_1] will pull out the gift because the wrapping paper is almost done.",
+            "The boy is trying to keep balance and gets up from the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] didn't tear the wrapping paper?",
+        "answer": [
+            "They would pay the fine.",
+            "[person_1] will cry.",
+            "[person_1] will not be able to continue playing.",
+            "[person_1] would peel it by herself.",
+            "The doctor will hold the patient out of the room."
+        ],
+        "reason": [
+            "[person_2] got two balls and gave one to [person_2].",
+            "The paw is often very sharp when the puppy is born.",
+            "[person_1] is the dog's owner and [person_1] finally comes back to home after months.",
+            "The [person_2] is turned on and the pan has pancake is on it.",
+            "[person_1] would peel it by herself but it will take more time."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [clock_1]?",
+        "answer": [
+            "[clock_1] is on the left of [clock_1].",
+            "[clock_1] is the reflect of [clock_1] in the mirror.",
+            "[clock_1] is on the wall.",
+            "[clock_1] is behind the [clock_1].",
+            "[clock_1] is behind [clock_1] and on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing exercise?",
+        "answer": [
+            "[person_1] wants to improve his health.",
+            "[person_1] is not familiar with this kind of fruit.",
+            "Because [person_1] is weaving and wants the threads to be close together.",
+            "[person_1] wants to improve her health.",
+            "[person_1] is rubbing [person_1]'s back."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing badminton without a net with [person_1] on the grass.",
+            "[person_1] is going to drink some water.",
+            "[person_1] is going to stand up to get more stones.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to lift the barbell."
+        ],
+        "reason": [
+            "It is dirty after taking shower for [person_1].",
+            "Because [person_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "[person_1] looks thirsty after doing exercise.",
+            "Because [person_1] is giving [person_1] instructions."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room lost power suddenly?",
+        "answer": [
+            "[person_1] won't stop doing exercise and go out.",
+            "[person_1] will have a reward.",
+            "[person_1] will stop doing exercise and sleep.",
+            "[person_1] will struck someone.",
+            "[person_1] will stop doing exercise and go out."
+        ],
+        "reason": [
+            "[person_1] is hard and makes noise when falling to the floor.",
+            "[person_1] can see or do anything without light.",
+            "[person_1]'s mouth is very close to clothes . If [person_1] doesn't shut up in time , it may fall on clothes.",
+            "[person_1] cannot see or do anything without light.",
+            "Watermelon is not sticky."
+        ]
+    }
+}

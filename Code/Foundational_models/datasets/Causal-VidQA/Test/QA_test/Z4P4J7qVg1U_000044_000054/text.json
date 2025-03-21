@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in an ice cream shop.",
+            "[person_1] and [person_2] are on their room.",
+            "[person_1] and [person_2] are in a show.",
+            "[person_1] and [person_2] are in the gym.",
+            "[person_1] and [person_2] are in the pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] do exercise?",
+        "answer": [
+            "The knees and hips straighten out , then [person_2] raises himself into the air for power.",
+            "Maybe [person_2] is being treated for insomnia.",
+            "Maybe [person_2] is playing maracas for fun.",
+            "Because [person_2] is going to have a boxing match.",
+            "Maybe [person_2] loves the sound of maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to keep cycling.",
+            "[person_1] intends to take his billiard shot.",
+            "[person_2] intends to let [person_1] know about the newspaper.",
+            "[person_1] intends to read all the newspapers on the table.",
+            "[person_1] intends to help [person_2] train."
+        ],
+        "reason": [
+            "[person_1] is [person_2] trainer.",
+            "[person_1] worn the boxing gloves.",
+            "Maybe [person_1] is dizzy.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] wears [person_1] in [person_1]'s ear."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] feel tired?",
+        "answer": [
+            "[person_2] will keep on practice.",
+            "[person_2] will be shocked.",
+            "[person_2] will be the winner.",
+            "It is possible that [person_2] will able to stand and walk.",
+            "[person_2] will change another one."
+        ],
+        "reason": [
+            "[person_2] wants to work hard to win his next boxing match.",
+            "[person_2] is looking at the screen of [person_2].",
+            "The more people playing together , the more fun they will have and the better they will perform.",
+            "The spaghetti is quite spicy.",
+            "[person_2] has eaten something wrong."
+        ]
+    }
+}

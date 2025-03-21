@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the door ?",
+        "answer": [
+            "The door is brown.",
+            "It is yellow.",
+            "It's blue.",
+            "It is purple.",
+            "The shirt [person_1] wearing is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on [chair_1] ?",
+        "answer": [
+            "[person_1] is playing the harmonica to relax.",
+            "Because there is something wrong with her mind.",
+            "[person_1] is playing guitar.",
+            "[person_1] is doing exercises.",
+            "[person_1] is using the piano."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue using the piano to play.",
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will cut the hair on the back of [person_1]'s head.",
+            "[person_1] will stop."
+        ],
+        "reason": [
+            "[person_1] has prepared a hole on the ground.",
+            "[person_1] will take a short rest.",
+            "[person_1] looks unsatisfied with the sound of the gong.",
+            "[person_1] didn't catch any fish because the current was too strong.",
+            "[person_1]'s hands are touching the piano."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone comes here ?",
+        "answer": [
+            "[person_1] will fall down.",
+            "[person_1] will stop using the piano.",
+            "They will practice more by themselves.",
+            "[person_1] might try again.",
+            "[person_1] will stop what she is doing now and go to pick the glasses up."
+        ],
+        "reason": [
+            "Because only by doing this can the [person_1] keep away from being hurt.",
+            "Snow affects the normal running of cars",
+            "Because [person_1] is too big for a small person like [person_1].",
+            "Because [person_1] needs to have a rest.",
+            "[person_1] will greet someone."
+        ]
+    }
+}

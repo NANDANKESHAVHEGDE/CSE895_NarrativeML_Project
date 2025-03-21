@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] open the faucet?",
+        "answer": [
+            "[person_1] is playing the gong.",
+            "[person_1] wants to wash the potato when he is peeling it.",
+            "[person_1] presses the handles and the cork is pulled out.",
+            "[person_1] is too tired.",
+            "[person_1] wears a watch to see the time."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn left.",
+            "[person_1] will read books.",
+            "[person_1] will keep on stripping the potato.",
+            "[person_1] is going to play with [person_1].",
+            "[person_1] is going to step on the squash."
+        ],
+        "reason": [
+            "[person_1] may keep slacklining.",
+            "[person_1] is going to enjoy the melody.",
+            "Because he finished his work.",
+            "[person_1] cuts off the flower's stem.",
+            "[person_1] still uses a knife to peel the potato skin."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] cuts his finger?",
+        "answer": [
+            "[person_1] may trip over the goat next to her.",
+            "[person_1] will play bass guitar with a different tone.",
+            "[person_1] would see what [person_1] has done.",
+            "[person_1] needs emergency treatment right away.",
+            "Dull scissors won't cut wrapping paper cleanly."
+        ],
+        "reason": [
+            "There are three books on the table by [person_1].",
+            "The dropping of the box would make the dance funnier.",
+            "Because [person_1] wouldn't be able to pack all her stuff.",
+            "The headphones help [person_1] to listen to the music beat.",
+            "The injury should be quit dying."
+        ]
+    }
+}

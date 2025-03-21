@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is behind the [bed_1].",
+            "[chair_1] is the the baby boy.",
+            "[chair_1] is next to [bed_1].",
+            "[chair_1] is on the stage.",
+            "It is near next to the railing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing here?",
+        "answer": [
+            "[person_2] is reading newspaper.",
+            "[person_2] is confused.",
+            "Every one of them wants to be the winner of this contest.",
+            "[person_2] is playing the instrument.",
+            "[person_2] wants to grind them."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may thanks [person_1].",
+            "[person_1] may keep feeding the goat with [chair_1].",
+            "[person_1] may walk to [chair_1].",
+            "[person_1] may keep carving.",
+            "[person_1] is going to share one of the bottles to his friends."
+        ],
+        "reason": [
+            "Because [person_1] is playing the ball and throwing it is his way to play it.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "[person_1] stops playing and turn his body to [chair_1].",
+            "[person_1] is picking up the [person_1] and using a spoon to mix the ingredients."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] keep playing?",
+        "answer": [
+            "[person_1] will be hurt.",
+            "[person_1] will not turn back.",
+            "[person_1] will feel dizzy.",
+            "[person_1] may have heatstroke.",
+            "[person_1] would find another thing to smash."
+        ],
+        "reason": [
+            "[person_1] turn back after stop playing.",
+            "[person_1] does not like others who notice his performance.",
+            "Because jumping on a bed is hard for a child to stand on.",
+            "[person_1] is drunk.",
+            "[person_1] will go inside."
+        ]
+    }
+}

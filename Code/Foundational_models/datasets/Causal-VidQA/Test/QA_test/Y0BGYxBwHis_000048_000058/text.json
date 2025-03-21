@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing now?",
+        "answer": [
+            "[person_1] is parked on the runway behind [person_1].",
+            "[person_1] is in a garage.",
+            "It is \u00a0 behind and on the right of [person_1].",
+            "[person_1] is in front of table which is blue.",
+            "[person_1] is playing now."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_2] play with others?",
+        "answer": [
+            "[person_2] is making a tutorial video.",
+            "[person_2] is standing outside to make money preforming music as a street performer.",
+            "They are making grape juice.",
+            "Because [person_2] is stomping grapes in a vat.",
+            "[person_2] is playing with his phone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after looking down?",
+        "answer": [
+            "[person_2] will go on reading the book.",
+            "[person_2] will go on eating.",
+            "[person_2] will light candles.",
+            "[person_2] will start to fence.",
+            "[person_2] will put the eggs aside and have a rest."
+        ],
+        "reason": [
+            "[person_2] is not interested in that game.",
+            "He wants to know another skills.",
+            "To make wishes.",
+            "[person_2] is tired.",
+            "[person_2] has lost something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen when the food is served on the table?",
+        "answer": [
+            "[person_2] would step on [person_1]'s foot.",
+            "[person_1] and [person_2] would start to eat.",
+            "The legs of [person_2] will hurt.",
+            "The [person_1] will laugh at [person_2].",
+            "the meal [person_2] is cooking would start to burn , so [person_2] would quickly take it off the stove."
+        ],
+        "reason": [
+            "Because for kids , ice cream tastes better than real food.",
+            "[person_2] didn't eat his long - time dreamed marshmallow.",
+            "[person_1] and [person_2] are all hungry and waiting for the food.",
+            "[person_1] did not show much interest on maracas.",
+            "Because she is old enough to do it by herself."
+        ]
+    }
+}

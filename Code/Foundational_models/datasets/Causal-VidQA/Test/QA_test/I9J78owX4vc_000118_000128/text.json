@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing gongs.",
+            "[person_1] is introducing how to slam the tire.",
+            "[person_1] is playing mahjong.",
+            "[person_1] is playing badminton with a friend.",
+            "[person_1] is doing some tai chi moves."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does not [person_1] play badminton alone?",
+        "answer": [
+            "Because playing badminton requires at least two people to play.",
+            "[person_1] is learning to ride [person_1].",
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "Because [person_1] wants to tease [person_1].",
+            "[person_1] is playing mahjong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the plate away.",
+            "[person_1] will carry on playing badminton with the friend.",
+            "[person_1] may clean the inside.",
+            "[person_1] may stand up.",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent."
+        ],
+        "reason": [
+            "The message says he should come home for dinner.",
+            "Because [person_1] is picking up the badminton ball to continue playing.",
+            "[person_1] is in the gymnastic.",
+            "[person_1] is ripping paper.",
+            "[person_1] is sitting on the snowmobile."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] loses?",
+        "answer": [
+            "The car will break and [person_1] will hurt.",
+            "[person_1] would be depressed.",
+            "[person_1] will not sad and may continue playing other badminton match.",
+            "Maybe people won't take out their mobile phones to take pictures.",
+            "[person_1] may hurt."
+        ],
+        "reason": [
+            "Because [person_1] can pretend it to be real.",
+            "Because there are some bikes which is on the left and near [person_1].",
+            "[person_1] can lift very heavy weights.",
+            "Because the chair is next to [person_1] on the left.",
+            "Because this is not a competition and [person_1] plays badminton to relax."
+        ]
+    }
+}

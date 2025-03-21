@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bicycle_1]?",
+        "answer": [
+            "[bicycle_1] is behind the [person_4] and [person_5].",
+            "The [person_5] is on the sideboard behind the [bicycle_1].",
+            "The [bicycle_1] is in the right of the [bicycle_1].",
+            "The [bicycle_1] is in front of [bicycle_1] , but below the eyesight of [bicycle_1].",
+            "The [person_4] is beside the [bicycle_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is put there for [person_1] to sit on.",
+            "Maybe [person_1] is managing workers who are cutting wood.",
+            "[person_1] is having relaxation time.",
+            "[person_1] is shearing his sheep for wool."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] will walk off the stage.",
+            "[person_3] will ask [person_3] to teach [person_3].",
+            "[person_3] is going to win this game.",
+            "[person_3] is going to stop [person_3].",
+            "[person_3] is going to play in the street."
+        ],
+        "reason": [
+            "[person_3] blocked the [person_3]'s counterattack as soon as [person_3] stroke the ball to gain control of the ball.",
+            "They are friendly and look at the same age.",
+            "[person_3] may keep inflating carefully.",
+            "[person_3] walks away.",
+            "Because [person_3] cannot hold on any longer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] doesn't know how to play?",
+        "answer": [
+            "It is possible that [person_3] will not ask her friend's help.",
+            "[person_3] won't read the information in the magazine.",
+            "It is possible that [person_3] will ask his friend's help.",
+            "[person_3] might fall down.",
+            "It is possible that [person_3] will ask her friend's help."
+        ],
+        "reason": [
+            "[person_3] would keep running.",
+            "[person_1] will help [person_3] to steady stay and move in her shoes.",
+            "[person_1] falls to the river and can not swim , which is very dangerous.",
+            "[person_1] will help [person_3] to steady stay and move in his shoes.",
+            "[person_1] and [person_3] only laughs when [person_3] falls off the chair."
+        ]
+    }
+}

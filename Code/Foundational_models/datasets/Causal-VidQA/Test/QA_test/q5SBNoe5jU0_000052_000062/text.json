@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is in the orange garden.",
+            "[person_1] is sitting on [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] sit next to [person_1]?",
+        "answer": [
+            "His action is gentle and soft.",
+            "Because he wants to have a relax.",
+            "[person_1] protects himself against the injury.",
+            "[person_2] is assisting [person_1].",
+            "[person_1] does parkour by jumping over a chair and the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will finish talking and then record himself doing another guitar technique.",
+            "[person_1] will continue performing.",
+            "[person_1] will continue staring at somewhere.",
+            "[person_1] will play the song slower.",
+            "[person_1] will finish showing off his musical talent by playing the entire song and then finish."
+        ],
+        "reason": [
+            "[person_1] has finished the performance.",
+            "[person_1] brought water to help him work through his intensive exercise routine.",
+            "[person_1] will play his bagpipes loudly because he doesn't have to worry about disturbing anyone because no one is around.",
+            "[person_1] has not finished the performance.",
+            "[person_1] hasn't finished washing the dishes yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not on stage?",
+        "answer": [
+            "[person_1] would wash her hands and find bandage.",
+            "[person_1] and [person_2] would get serious injury on their head.",
+            "[person_1] might have difficulties in performing.",
+            "The goats will stop getting close to [person_1].",
+            "[person_1] will not come close to [person_1]."
+        ],
+        "reason": [
+            "Their heads are not protected.",
+            "[person_1] often does exercise all the time unless others disturb him.",
+            "The force of collision between [person_1] and [person_2] is very strong . So they would get serious injury on their head is they did not wear helmets.",
+            "[person_2] is not assisting [person_1].",
+            "Because the baseball may fall down the ground."
+        ]
+    }
+}

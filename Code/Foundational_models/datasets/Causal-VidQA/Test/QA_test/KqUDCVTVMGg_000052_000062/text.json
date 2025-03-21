@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a room.",
+            "[person_1] is at the gym.",
+            "[person_1] is inside a room.",
+            "[person_1] is in a hockey field.",
+            "[person_1] is standing near a lake."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a stick?",
+        "answer": [
+            "[person_1] is performing music on the street . .",
+            "Because there is no one here except for [person_1] and [person_1].",
+            "[person_1] is doing a skate movement.",
+            "Because [person_1] is playing a xylophone.",
+            "[person_1] is doing an example for others."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will exam the honey's situation.",
+            "[person_1] may get down.",
+            "[person_1] may go back home.",
+            "[person_1] is going to start eating.",
+            "[person_1] is going to stop playing xylophone."
+        ],
+        "reason": [
+            "Because [person_1] looks at the lake . Maybe something happens that catches his attention.",
+            "Because [person_1] is very happy.",
+            "Because [person_1] has successfully finished the training.",
+            "Maybe [person_1] looks thirsty and tired.",
+            "Maybe [person_1] loves to read."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a crocodile in the lake?",
+        "answer": [
+            "[person_1] will run away.",
+            "The [person_1] will not play another instrument called a piano.",
+            "[person_1] will stay here.",
+            "[person_1] will dirty the pancake.",
+            "[person_1] will wait to die."
+        ],
+        "reason": [
+            "[person_1] is in [person_1].",
+            "Because the crocodile is dangerous for everyone , [person_1] may want to stay away from it.",
+            "Cookies are not delicious.",
+            "Because the crocodile is dangerous for everyone , [person_1] may want to be close to it.",
+            "The cup that [person_1] wearing a hat holds is made of glass."
+        ]
+    }
+}

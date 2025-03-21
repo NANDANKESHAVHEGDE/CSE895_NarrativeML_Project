@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is holding a card.",
+            "[person_1] is opening the bottle.",
+            "[person_1] is shaking the cup.",
+            "[person_1] is dribbling a basketball.",
+            "[person_1] is playing checkers with [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] dribbling a basketball?",
+        "answer": [
+            "[person_1] is playing guitar there.",
+            "[person_1] is practicing playing basketball.",
+            "Because it is easier for him to stack them.",
+            "The floor is very flat and easier to stack dice.",
+            "It is possible that [person_1] is listening to the melody."
+        ]
+    },
+    "predictive": {
+        "question": "What [person_1] will do next?",
+        "answer": [
+            "[person_1] is going to teach how to fold clothes.",
+            "[person_1] is going to turn left.",
+            "[person_1] will watch the ball go into the basket.",
+            "[person_1] will continue carving the pumpkin.",
+            "[person_1] will take some marshmallows to the grandparents in the house."
+        ],
+        "reason": [
+            "Because [person_1] seems to be proficient with the spray paints and graffiti tagging.",
+            "[person_1] wants to share marshmallows with others.",
+            "[person_1] threw the ball to the basket and had to watch to see where it went.",
+            "[person_1] is the winner.",
+            "Because [person_1] got some ice cream on her hand and it is sticky."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not play alone?",
+        "answer": [
+            "[person_1] will comfort [person_1].",
+            "The floor will get wet.",
+            "[person_1] would still be able to stay in the line.",
+            "The block could be broken soon.",
+            "It would be much harder for [person_1] to score."
+        ],
+        "reason": [
+            "Other players might try to keep [person_1] from the basket.",
+            "[person_1] is fidgeting.",
+            "Because [person_1] would detest the idea of tying a bow tie on his neck.",
+            "Because when [person_1] ran fast enough , [person_1] could jump over the bush.",
+            "Because [person_1] would replace another one."
+        ]
+    }
+}

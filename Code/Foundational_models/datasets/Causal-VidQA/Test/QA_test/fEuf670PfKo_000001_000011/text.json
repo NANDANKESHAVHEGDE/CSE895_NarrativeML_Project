@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is this place?",
+        "answer": [
+            "It is in a rugby training field.",
+            "It is in a training room.",
+            "It is narrow.",
+            "It is quite small.",
+            "The room is quite big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are these people here?",
+        "answer": [
+            "They are practicing rugby.",
+            "To show polite.",
+            "The dog finds running interesting.",
+            "They are here to practice tackling.",
+            "People are accustomed to different speed."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to give a chase to the ball.",
+            "[person_1] and [person_2] are going to continue to practice basketball.",
+            "[person_1] and [person_2] are going to drink.",
+            "[person_1] and [person_2] are going to drink together.",
+            "They are going to keep on practicing tackling the others."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] feel excited when dancing Gang Nam style.",
+            "[person_1] and [person_2] are holding brooms.",
+            "Because they are currently practicing for the future match.",
+            "[person_1] and [person_2] wore the protective clothing.",
+            "[person_1] and [person_2] are holding wine glasses."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if some players were injured?",
+        "answer": [
+            "The fire might hurt people.",
+            "[person_1] needs to hold the instrument.",
+            "The man may stop shooting.",
+            "They would not be able to participate in the training as well as the future match.",
+            "[person_2] and [person_2] would have to stop their survey work."
+        ],
+        "reason": [
+            "[person_1] will fall.",
+            "There are no fire extinguishers around.",
+            "[person_2] doesn't want to be made fun of.",
+            "[person_1] wouldn't be able to run.",
+            "Because they had to receive proper medical treatment before going back to the field."
+        ]
+    }
+}

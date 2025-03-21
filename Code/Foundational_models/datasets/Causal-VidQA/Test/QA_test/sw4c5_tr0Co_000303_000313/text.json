@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is next to [person_1].",
+            "[chair_1] is under [person_1].",
+            "It is on the right of [person_1].",
+            "[chair_1] is behind [person_1] and [chair_1].",
+            "It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] on stage?",
+        "answer": [
+            "The [person_2] and [person_2] are excited.",
+            "[person_1] and [person_2] are performing in a concert.",
+            "[person_2] wants to see the present.",
+            "The [person_1] has a conversation with a girl.",
+            "Because the [person_1] wants to keep warm in the snow."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will continue playing the instruments.",
+            "[person_1] and [person_2] will work together again to pull the iron sheet out of the machine.",
+            "[person_1] and [person_2] will then make a phone call.",
+            "They will keep climbing.",
+            "[person_1] and [person_2] will continue to open the gift."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are still holding hands at the end of the video.",
+            "It is clear that they enjoy the game a lot.",
+            "They have a good time.",
+            "Because [person_1] and [person_2] are absorbed in the duet and do not feel tired.",
+            "[person_1] and [person_2] have not finished the performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not on stage?",
+        "answer": [
+            "[person_1] would fall and get hurt while swinging.",
+            "[person_1] would have to do the job alone.",
+            "[person_1] will not see anything clearly.",
+            "[person_1] may fall.",
+            "[person_2] would not be on stage."
+        ],
+        "reason": [
+            "Because when [person_1] and [person_2] are talking with each other , that [person_2] yawns makes [person_1] and [person_2] lean back.",
+            "Behind [person_1] is a screen , it can remind [person_1] what to say.",
+            "[person_1] would have no one to play with . ",
+            "In case that [person_2] gets hurt.",
+            "[person_2] need to perform with [person_1]."
+        ]
+    }
+}

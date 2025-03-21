@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing basketball.",
+            "[person_1] is stripping an apple.",
+            "[person_1] is playing drums",
+            "[person_1] is looking at the camera and talking something."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing headphones?",
+        "answer": [
+            "Because a lot of people want to see their bodies after they practice.",
+            "Because a lot of people want to see their body after training.",
+            "Because [person_1] is having fun with [person_1] , and [person_1] is having a good time.",
+            "[person_1] has to listen to music to sync his drumbeats accurately.",
+            "[person_1] is proud of himself because he opened the coco."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will continue stacking cups.",
+            "[person_1] will check his video.",
+            "[person_1] will play drums with a new song.",
+            "[person_1] will continue to dance.",
+            "[person_1] will keep spinning the poi."
+        ],
+        "reason": [
+            "[person_1] seems to be very interested in playing drums.",
+            "[person_1] has just finished playing drums with a song.",
+            "[person_1] is shaking the rope from left to right.",
+            "[person_1] is running towards one of his teammates.",
+            "[person_1] is holding a broom to sweep."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the drumsticks [person_1] holding were broken?",
+        "answer": [
+            "[person_1] might have to stop playing and leave the room.",
+            "It may destroy the road under construction.",
+            "[person_1] might have to continue playing and leave the room.",
+            "The [person_1] will not get hurt due to the shot put ring's surface .",
+            "[person_1] might have to stop playing and stay in the room."
+        ],
+        "reason": [
+            "[person_1] would not have anything to beat the drums.",
+            "To heal [person_1]'s wounds.",
+            "[person_1] would have everything in need to beat the drums.",
+            "[person_1] is a little boy so he may likes candies.",
+            "[person_1] would not have anything to smooth the drums."
+        ]
+    }
+}

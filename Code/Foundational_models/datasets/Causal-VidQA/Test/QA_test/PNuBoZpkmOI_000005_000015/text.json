@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [car_1]?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "There is a large - sized black speaker behind [car_1].",
+            "It is black.",
+            "Brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people standing aside?",
+        "answer": [
+            "[car_1] can see his moves in the mirror which is installed in front of him.",
+            "[person_1] is recording the video.",
+            "[person_1] playing the lute for fun.",
+            "Glasses make [car_1] look cooler.",
+            "Because they want to witness the process of the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to put pressure on the opposing team.",
+            "[person_2] is going to keep crying.",
+            "[person_2] is going to put the donut in her mouth.",
+            "[person_2] is going to vomit.",
+            "[person_2] is going to kneel on one knee on the ground and take out the ring."
+        ],
+        "reason": [
+            "To look whether [person_1] is right.",
+            "[person_2] loves [person_1].",
+            "Food is being placed on the [person_1].",
+            "[person_2] feels happy and is holding the thing of [person_1].",
+            "To propose to [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] prepared nothing for the proposal?",
+        "answer": [
+            "[person_1] will refuse [person_2].",
+            "It is probable that a man will feel hurt.",
+            "The sieving process will not have to be discontinued.",
+            "The audience may dislike [person_2].",
+            "The bat may be broken."
+        ],
+        "reason": [
+            "[person_1] is in front of [person_1].",
+            "The [person_1] eats the sausage bread roll once like other food.",
+            "The trampoline is next to the pillar and [person_2] jumps too close to the pillar.",
+            "Because the [person_1] power failure will affect the use.",
+            "Because [person_1] feels sad that there is no ring or flower."
+        ]
+    }
+}

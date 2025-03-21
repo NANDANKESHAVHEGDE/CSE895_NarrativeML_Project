@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_2]?",
+        "answer": [
+            "The [person_1] is in front of the [potted plant_2].",
+            "The [person_1] is in the [person_1]'s hand.",
+            "The [potted plant_2] is in [potted plant_2]'s hand.",
+            "[potted plant_2] is directly in front of [person_1].",
+            "It is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the plate on the paper?",
+        "answer": [
+            "Because [person_1] wants the plants to be watered all the time.",
+            "[person_1] is holding a piece of the orange.",
+            "Because [person_1] wants to make circles on the picture.",
+            "[person_1] reminded and held the [person_1]'s hand.",
+            "Because [person_1] is afraid."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will start spraying paint.",
+            "[person_1] is going to get more food for the goats.",
+            "[person_1] will add another liquor.",
+            "[person_1] is going to step back and observe [person_1].",
+            "[person_1] is going to play the flute right after that."
+        ],
+        "reason": [
+            "[person_1] is bringing the towel from the toe to the sole of the boot.",
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "[person_1] does not finish carving.",
+            "When [person_1] lies back down , [person_1] raises her hands and prepares to tickle.",
+            "[person_1] is preparing paper to spray paint."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sprays the wrong color?",
+        "answer": [
+            "[person_1] will feel sad.",
+            "Maybe [person_1] will have to keep the picture.",
+            "The baby will be happy.",
+            "Maybe [person_1] will have to remove the picture.",
+            "Then it will be very easy for [person_1] to shoot."
+        ],
+        "reason": [
+            "The painting color is reasonable.",
+            "[person_1] doesn't want the table to be dirty.",
+            "The painting color will be reasonable.",
+            "It's embarrassing to make a mistake in front of students.",
+            "The painting color will not be reasonable."
+        ]
+    }
+}

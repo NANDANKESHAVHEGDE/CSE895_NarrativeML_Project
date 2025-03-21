@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is near the door?",
+        "answer": [
+            "The [chair_1] is on the wall.",
+            "[chair_1] is near the door.",
+            "The [chair_1] is above the bed.",
+            "The [chair_1] and the [chair_1] are playing on the grass.",
+            "Five people are in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] waving his hand?",
+        "answer": [
+            "[person_1] is playing didgeridoo in front many people.",
+            "[person_1] is playing guitar.",
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is greeting people watching his video.",
+            "[person_1] is standing on hands."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will take a rest for a bit.",
+            "[person_1] will edit the video.",
+            "[person_1] will have a rest.",
+            "[person_1] will keep playing poi.",
+            "[person_1] won't let the kids eat candy."
+        ],
+        "reason": [
+            "[person_1] will divide the candy equally among two groups of children.",
+            "[person_1] is slapped and he may slap back.",
+            "[person_1] has just started.",
+            "[person_1] is making a video on how to do poi tricks.",
+            "There is still space in front of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the parent of [person_1] went home?",
+        "answer": [
+            "[person_1] wouldn't be able to finish his video.",
+            "[person_1] might find someone to replace it.",
+            "[person_1] might fell too.",
+            "Both of them would run out of the room.",
+            "[person_1] would get serious injury."
+        ],
+        "reason": [
+            "The [person_1] is wearing a cap while pushing.",
+            "[person_1] is filming in the garage.",
+            "Because if the pan is placed on the fire in this manner , it will get extremely hot.",
+            "Because 3 - month - year kid even cannot stand.",
+            "If the [person_1] runs , the water will splash on her dress."
+        ]
+    }
+}

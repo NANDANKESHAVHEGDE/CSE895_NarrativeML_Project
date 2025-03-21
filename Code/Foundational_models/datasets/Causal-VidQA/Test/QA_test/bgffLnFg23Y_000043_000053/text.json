@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] is kissing her reflection.",
+            "The [person_1] is pink and white.",
+            "[person_1] uses an electric drill and a bolt.",
+            "It's a sunny day.",
+            "[person_1] is using pliers."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] drill the bolt into the cork?",
+        "answer": [
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_1] is planing wood.",
+            "[person_1] is shaving and cutting his hair.",
+            "To stick the bolt with the cork and then pull the bolt out.",
+            "[person_1] has a short rope."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will pull the bolt out.",
+            "[person_1] will go on painting the wall.",
+            "[person_1] will see what cards he has.",
+            "[person_1] may go to the road to clean up the trash.",
+            "[person_1] may drink water."
+        ],
+        "reason": [
+            "[person_1] looks very excited.",
+            "That bottle of champagne is for cheering , not drinking.",
+            "[person_1] wants to keep the body.",
+            "Maybe [person_1] is practicing.",
+            "This is the only way to remove the cork."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the bottle exploded?",
+        "answer": [
+            "[person_1] might get hurt.",
+            "[person_1] would not do somersaults.",
+            "[person_1] won't get hurt.",
+            "The cat would feel wronged and surprised.",
+            "[person_1] might keep healthy."
+        ],
+        "reason": [
+            "The glass pieces might not hurt him.",
+            "Because the construction were finished.",
+            "The glass pieces might hurt him.",
+            "This is a contest.",
+            "The glass pieces might hurt her."
+        ]
+    }
+}

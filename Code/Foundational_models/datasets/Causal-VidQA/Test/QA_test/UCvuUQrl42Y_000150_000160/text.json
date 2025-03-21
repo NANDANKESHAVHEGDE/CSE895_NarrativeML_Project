@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_1]?",
+        "answer": [
+            "[person_1] is on the left side of [person_1].",
+            "[laptop_1] is behind the [person_1] and [laptop_1].",
+            "[laptop_1] is placed on an open shelf.",
+            "[laptop_1] is to [person_1] right.",
+            "It is on the wardrobe."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a flute?",
+        "answer": [
+            "[person_1] is touching on strings of the harp.",
+            "[person_1] has arrived at home.",
+            "Because the [person_1] enjoys riding the scooter.",
+            "[person_1] is practicing playing the flute.",
+            "Because [person_1] is playing the flute for everyone to hear."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to become a winner.",
+            "It is anticipated that [person_1] will continue to perform.",
+            "[person_1] intends to drink water.",
+            "[person_1] tends to answer the phone.",
+            "[person_1] tends to swing the rope at a lower speed."
+        ],
+        "reason": [
+            "[person_1] doesn't know how to pump gas.",
+            "There is a teddy bear in front of [person_1].",
+            "[person_1] is paying attention to a certain direction to take it.",
+            "[person_1] is melodious with the flute.",
+            "[person_1] is moving the hand faster."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[laptop_1] maybe afraid.",
+            "[laptop_1] won't be happy.",
+            "[laptop_1] will be panic.",
+            "[laptop_1] will turn off.",
+            "The lamp will be off."
+        ],
+        "reason": [
+            "The microphone can not be used.",
+            "[person_1] is practicing very hard.",
+            "[laptop_1] can't see anything.",
+            "Without the power the laptop can't work any more.",
+            "[person_1] doesn't know what to do."
+        ]
+    }
+}

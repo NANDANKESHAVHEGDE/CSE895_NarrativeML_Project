@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is jumping on the couch.",
+            "[person_2] is holding a gift box.",
+            "[person_2] is filming.",
+            "[person_2] is opening a present for [person_2].",
+            "[person_2] is wearing a headphone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] filming?",
+        "answer": [
+            "Because [person_1] is old and does not see clearly.",
+            "Because [person_2] wants to film the baby , [person_1].",
+            "[person_2] , [person_1] and [person_2] are performing together.",
+            "Because [person_2] and [person_1] are competing.",
+            "Because [person_1] is dropping a marble into a plastic pipe."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep seeing.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to need a break.",
+            "[person_1] is going to talk.",
+            "[person_1] is going to take a break."
+        ],
+        "reason": [
+            "[person_1] is holding a exercise equipment.",
+            "[person_1] is opening present.",
+            "[person_1] looks thirsty after doing exercise.",
+            "[person_1] is practicing dice stacking.",
+            "Because [person_1] looks happy when [person_1] sees the reflection in the mirror."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not feel happy?",
+        "answer": [
+            "[person_1] will have the muscle soreness.",
+            "[person_1] will hang it up.",
+            "[person_1] would not have to bend down.",
+            "He will still use the broken bandage to cover his wound.",
+            "[person_1] may cry."
+        ],
+        "reason": [
+            "The [person_1] painted the [person_1] and the [person_1] is touching the [person_1].",
+            "Because [person_1] were not happy to meet [person_1].",
+            "Because [person_1] is still a baby , if [person_1] does not feel happy , [person_1] will cry.",
+            "the flashlight is on the table so [person_1] has to raise it higher to light things on the table.",
+            "Because [person_1] did not feel happy when playing with [person_1]."
+        ]
+    }
+}

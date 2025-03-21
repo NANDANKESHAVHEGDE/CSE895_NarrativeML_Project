@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "It is why.",
+            "A bubble machine.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use two drumsticks?",
+        "answer": [
+            "The towel will increase the friction between his hand and the bottleneck.",
+            "The table is discarded and the wood can be recycled.",
+            "[person_1] uses the drumsticks to create sound by beating the drums.",
+            "[person_1] needs it to promote his products.",
+            "The [person_1] touches the treble keyboard to have sound from accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] intend to do?",
+        "answer": [
+            "[person_1] is going to carry on playing drums.",
+            "[person_1] is going to help [person_1] learn skiing.",
+            "[person_1] may be a repairing person.",
+            "They will be fried and turned into a delicious dish.",
+            "The bubbles may disappear."
+        ],
+        "reason": [
+            "[person_1] is introducing to the audience how the food is made.",
+            "[person_1] seems to be enjoying playing the drums.",
+            "There are many eggs in front of him.",
+            "From the finished part , it can be seen clearly that he will paint a woman.",
+            "[person_1] is trying to do the hair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were a fire in this room?",
+        "answer": [
+            "[person_1] will be replaced.",
+            "[person_1] had to leave the room at once.",
+            "[person_1] will feel uncomfortable.",
+            "[person_1] had to stay the room at once.",
+            "They will fall off the back of the [person_1]."
+        ],
+        "reason": [
+            "The wound needs dealing with in time.",
+            "Staying at the room while there was a fire is extremely safe.",
+            "The mouse is usually beside the computer.",
+            "Staying at the room while there was a fire is extremely dangerous.",
+            "Because there is enough sunlight for [person_1] and [person_1] playing their musical instruments."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is next to [person_1]?",
+        "answer": [
+            "The room is quite small.",
+            "The room is small.",
+            "It is an umbrella.",
+            "The room is large.",
+            "The room is quite big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the street?",
+        "answer": [
+            "[person_1] is opening his gift.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing harmonica.",
+            "[person_1] is enjoying the music that [person_1] is playing.",
+            "[person_1] is practicing playing the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may clean the bathroom.",
+            "[person_1] will put his foot into his mouth.",
+            "[person_1] is going to stand up.",
+            "[person_1] may keep playing harmonica.",
+            "[person_1] is going to give playing accordion a shot."
+        ],
+        "reason": [
+            "[person_1] is trying pressing some keys.",
+            "[person_1] is going to feel happy.",
+            "[person_1] is placing his finger on each button on the flute.",
+            "[person_1] just shrugs to gain strength to raise the weights.",
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] and [person_1] maybe stop working.",
+            "[person_1] and [person_1] will set up a tent.",
+            "[person_1] and everyone will stop working.",
+            "[person_1] will get wet.",
+            "[person_1] won't be able to continue his practice."
+        ],
+        "reason": [
+            "[person_1] will avoid raining so as not to catch a cold.",
+            "[person_1] and everyone gets wet.",
+            "[person_1] is sitting outside.",
+            "[person_1] will go inside.",
+            "Because none of them has an umbrella and they are all outside."
+        ]
+    }
+}

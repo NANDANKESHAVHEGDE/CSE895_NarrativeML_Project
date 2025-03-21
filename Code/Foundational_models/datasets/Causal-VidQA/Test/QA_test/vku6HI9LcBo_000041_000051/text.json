@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "[person_1] is on the table.",
+            "White.",
+            "It's red.",
+            "It is brown.",
+            "A bubble machine."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] is helping [person_2] to open the gift.",
+            "[person_1] is helping [person_2] practicing martial arts.",
+            "[person_1] is playing the harp.",
+            "[person_1] is here to help [person_2] practicing tackling.",
+            "Because [person_1] is teaching [person_1] how to massage."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next after seeing the box?",
+        "answer": [
+            "[person_2] is going to wipe her face with napkin.",
+            "[person_2] will continue dancing.",
+            "[person_2] will stop.",
+            "[person_2] will follow what [person_2] does.",
+            "[person_2] is going to unwrap it immediately."
+        ],
+        "reason": [
+            "[person_2]'s mouth is moving when she drink the water.",
+            "Because at the end of this video [person_2] leaves.",
+            "[person_2] pays attention on the box and wants to know what it is.",
+            "[person_2] wants to practice the game by himself.",
+            "[person_2] can not move properly with roller skating shoes in a restaurant."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] cannot open the gift?",
+        "answer": [
+            "It may destroy the road under construction.",
+            "Water will spill over the floor.",
+            "[person_1] would call someone else for help or get a pair of scissors to open it.",
+            "The fruit would be easier to open.",
+            "[person_1] could not go to the big road."
+        ],
+        "reason": [
+            "Because [person_1] is folding the napkin on the table.",
+            "Maybe [person_1] already knows how to swim.",
+            "[person_1] has just learned how to skate . [person_1] can't control over the skates well.",
+            "Because the hat will not be on the head of [person_1].",
+            "Because [person_2] was waiting."
+        ]
+    }
+}

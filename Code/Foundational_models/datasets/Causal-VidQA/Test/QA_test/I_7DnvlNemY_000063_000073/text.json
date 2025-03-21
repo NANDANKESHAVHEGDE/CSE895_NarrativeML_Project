@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is next to the [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a half of orange?",
+        "answer": [
+            "[person_1] uses a tool to make the bubble.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "[person_1] is trying to squeeze it.",
+            "Because the bellows produce sound.",
+            "Because the automatic machine will peel the apples."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will definitely continue to burn wood.",
+            "[person_1] is going to continue squeezing orange.",
+            "[person_1] is going to continue trying to spray paint.",
+            "[person_1] will continue to do lunges.",
+            "[person_1] is going to wash his face."
+        ],
+        "reason": [
+            "[person_1] needs to squeeze more to make a cup of juice.",
+            "[person_1] has finished the song.",
+            "Many people , who may be students in the tai chi class , are sitting on the floor , watching [person_1] and waiting for their turns.",
+            "[person_1] is putting hand on the corner of the page.",
+            "[person_1] has fetched another liquor in her hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] felt tired?",
+        "answer": [
+            "[person_1] will change the dress.",
+            "[person_1] would call his parents to squeeze for him.",
+            "[person_1] would stop doing front raise.",
+            "[person_1] will score 50 points.",
+            "The deck will be broken."
+        ],
+        "reason": [
+            "Clothes can make [person_1] feel warm.",
+            "Gloves can make [person_1] warm.",
+            "The match will the end.",
+            "She will sleep.",
+            "[person_1] is just a boy and can not squeeze as many oranges as adult."
+        ]
+    }
+}

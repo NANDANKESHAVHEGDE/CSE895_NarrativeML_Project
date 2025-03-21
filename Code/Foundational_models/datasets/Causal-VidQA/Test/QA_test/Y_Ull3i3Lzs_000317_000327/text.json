@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is sitting on [chair_1]?",
+        "answer": [
+            "It is to the left of [person_1].",
+            "[person_1] is sitting on [chair_1].",
+            "It is narrow.",
+            "[person_1] is on the carpet.",
+            "The room is large."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] with [person_3] and [person_2]?",
+        "answer": [
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "Because [person_3] is proposing.",
+            "Maybe [person_1] is introducing the plate.",
+            "[person_1] , [person_3] and [person_2] are practicing together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_3] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will continue practicing the clarinet.",
+            "[person_1] and [person_2] may eat the food in front.",
+            "[person_1] , [person_3] and [person_2] will continue practicing.",
+            "They will ask more people to play with us.",
+            "[person_1] and [person_2] will enjoy the moment."
+        ],
+        "reason": [
+            "because that object seems pretty new to [person_1].",
+            "[person_2] looks very happy.",
+            "[person_1] , [person_2] and [person_3] find the already built one ugly.",
+            "[person_1] , [person_2] and [person_3] are all preparing and putting cauliflower into [person_2] so they wont stop until they finish.",
+            "[person_1] , [person_3] and [person_2] have not finished the practice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] were not there?",
+        "answer": [
+            "[person_1] and [person_2] would still practice.",
+            "[person_1] and [person_3] would not know how to practice.",
+            "[person_1] could not practice high kicks.",
+            "[person_2] would not be able to set up a dining table properly.",
+            "[person_2] and [person_2] won't be able to play maracas."
+        ],
+        "reason": [
+            "[person_3] is much small than [person_3] , so the hit is too strong for [person_3] to keep balanced.",
+            "[person_3] is just a boy and can not control the situation.",
+            "[person_3] is not too important in the performance.",
+            "[person_3] will continue to dance.",
+            "[person_3] will not see the bass guitar clearly without glasses."
+        ]
+    }
+}

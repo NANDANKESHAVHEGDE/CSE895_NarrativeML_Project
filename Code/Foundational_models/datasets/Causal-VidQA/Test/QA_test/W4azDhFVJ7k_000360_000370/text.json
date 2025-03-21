@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is white.",
+            "It's yellow.",
+            "It's white.",
+            "The shirt is black and white.",
+            "It is white and red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bring his pipe close to the camera?",
+        "answer": [
+            "Because [person_1] is talking about the [person_1] with [person_1].",
+            "Because [person_1] wants to show his performance to all audiences.",
+            "Maybe [person_1] is participating in a competition.",
+            "Maybe [person_1] is showing the viewer the structure of the pipe.",
+            "Because [person_1] rests on the table to have a flat surface for easier stacking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue holding the smoking pipe.",
+            "[person_1] is going to step back and observe [person_1].",
+            "[person_1] will start spraying paint.",
+            "[person_1] will add another liquor.",
+            "[person_1] is going to play the flute right after that."
+        ],
+        "reason": [
+            "[person_1] has finished the song.",
+            "Many people , who may be students in the tai chi class , are sitting on the floor , watching [person_1] and waiting for their turns.",
+            "[person_1] is putting hand on the corner of the page.",
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] holds a pipe in his hand and shows no sign of putting it down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the smoking pipe in his hand?",
+        "answer": [
+            "[person_1] and [person_1] will gain a lot of information.",
+            "[person_1] may fall down.",
+            "A person on the opposing team will continue throwing the ball.",
+            "[person_1] will no longer be able to shoot with a pipe.",
+            "[person_1] may have a toothache."
+        ],
+        "reason": [
+            "Who eats the most will win , [person_1] eats more than [person_1] , so [person_1] will win.",
+            "The [person_1] stands a distance away from the door.",
+            "Because the pencil is not edible.",
+            "Without clamp , some vegetables will be poured out.",
+            "Because it is not possible to record with damaged objects."
+        ]
+    }
+}

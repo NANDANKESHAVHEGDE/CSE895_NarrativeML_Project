@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many dice are there on the floor?",
+        "answer": [
+            "It is on the shelf.",
+            "There are 8 dice on the floor.",
+            "It is on the roadside.",
+            "[person_1] is sitting next to the conga drums.",
+            "[person_1] is on the sand."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stack dice on the floor?",
+        "answer": [
+            "Because it is easier for him to stack them.",
+            "[person_1] is playing guitar there.",
+            "[person_1] is looking at the book to play the flute.",
+            "[person_1] is practicing playing basketball.",
+            "The floor is very flat and easier to stack dice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will pick up the baby.",
+            "Maybe [person_1] is going to stop running.",
+            "She may keep moving her feet and dance.",
+            "[person_1] is going to start stacking dice.",
+            "Maybe [person_1] is going to sit."
+        ],
+        "reason": [
+            "[person_1] is holding a title.",
+            "There are many trees in the garden.",
+            "[person_1] is holding the bottle.",
+            "[person_1] swung the cup back and forth before picking up the first dice.",
+            "She is absorbed in dancing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues stacking dice too strong?",
+        "answer": [
+            "[person_1] will catch a cold.",
+            "The camera can't record anything.",
+            "[person_1] and [person_1] may not be able to lay the deck.",
+            "Maybe the dice will splash out.",
+            "[person_1] would not be able to lift up the weights."
+        ],
+        "reason": [
+            "There is no one around [person_1].",
+            "Because [person_1] would get hurt.",
+            "There would be nothing except for the candy on [person_1]'s hand.",
+            "To stack dice , the player must swing the cup back and forth equally.",
+            "The snow is on the trampoline and it could melt at any moment."
+        ]
+    }
+}

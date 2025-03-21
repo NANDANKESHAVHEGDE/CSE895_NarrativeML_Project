@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "Maybe [person_1] is standing in the kitchen.",
+            "Maybe [person_1] is in the hall.",
+            "[person_1] is in his house.",
+            "[person_1] is in the study room.",
+            "[person_1] is in planing workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside?",
+        "answer": [
+            "[person_1] is practicing shooting with some people.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing lute.",
+            "Because the [person_1] is picking blueberries.",
+            "Because there are many cars passing in front of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may plan to push [person_1] ahead.",
+            "[person_1] is going to keep performing.",
+            "[person_1] going to have a date with someone?",
+            "[person_1] probably will shake the pan again.",
+            "[person_1] is going to slowly opening his arms."
+        ],
+        "reason": [
+            "[person_1] just shrugs to gain strength to raise the weights.",
+            "[person_1] is trying pressing some keys.",
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action.",
+            "[person_1] is going to try working faster.",
+            "[person_1] feels interesting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops playing?",
+        "answer": [
+            "[person_1] still bites the sleeve.",
+            "The audience will being able to see the performance.",
+            "[person_1] may can't bare.",
+            "The audience will not being able to see the performance.",
+            "[person_1] will have a strong body."
+        ],
+        "reason": [
+            "[person_1] will take a rest.",
+            "[person_1] thinks boys should be brave.",
+            "[person_1] won't take a rest.",
+            "[person_1] doesn't keep balance.",
+            "[person_1] will keep playing"
+        ]
+    }
+}

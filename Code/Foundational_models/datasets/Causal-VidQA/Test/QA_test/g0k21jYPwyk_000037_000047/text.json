@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "The [chair_1] is next to the [chair_1].",
+            "[person_1] is sitting on the [chair_1].",
+            "[person_1] is sitting on the steps.",
+            "The [chair_1] is behind the gong.",
+            "The [chair_1] is next to the window."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] peel the banana skin?",
+        "answer": [
+            "[person_1] is playing the flute.",
+            "[person_1] uses a knife to peel the banana skin",
+            "[person_1] moves the blades to peel , core , and slice the apple.",
+            "[person_1] is singing and dancing at the same time.",
+            "[person_1] uses two fingers to remove the apple that was peeled to the red bucket."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] will pick up the baby.",
+            "[person_1] is going to put banana skin on the table.",
+            "Maybe [person_1] is going to sit."
+        ],
+        "reason": [
+            "[person_1] finished splitting off a piece of banana skin and lift it up.",
+            "[person_1] is excited about this book.",
+            "[person_1] cleaned the wood very carefully.",
+            "[person_1] is trying to do the job fast.",
+            "[person_1] has picked the cake up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] cuts his finger?",
+        "answer": [
+            "[person_1] will start immediately.",
+            "[person_1] will fall freely to the ground.",
+            "[person_1] will stop immediately.",
+            "[person_1] may let off the hand of [person_1].",
+            "[person_1] won't stop immediately."
+        ],
+        "reason": [
+            "[person_1] needs to ignore of his injury.",
+            "[person_1] plays ball mainly depends on his balance ability.",
+            "[person_1] needs to take care of his injury.",
+            "[person_1] will not need to hold the bass guitar anymore after the performance.",
+            "[person_1] needs to take care of his feet."
+        ]
+    }
+}

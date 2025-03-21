@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The color of the shirt is green.",
+            "The shirt color is yellow.",
+            "It is white and red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_4] in the gallery of the classroom?",
+        "answer": [
+            "Maybe [person_2] and [person_4] are students and [person_2] and [person_4] are taking a break.",
+            "[person_2]'s body is trying to keep [person_2]'s balance.",
+            "Maybe [person_2] wants to practice to strengthen the hand.",
+            "[person_4] is unwrapping the presents.",
+            "Because [person_4] , [person_2] and [person_4] are practice skating together."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] is going to keep watching [person_4] and [person_2].",
+            "[person_4] is going to attack [person_4].",
+            "[person_4] is going to put on lipstick for [person_2].",
+            "[person_4] is going to keep making sausage.",
+            "[person_4] is going to watch dancers."
+        ],
+        "reason": [
+            "[person_4] is listening [person_4]'s speech carefully . And he will take notes.",
+            "[person_4] has helped [person_4] hold the barbell.",
+            "[person_4] is dancing and she looks so happy.",
+            "Maybe [person_4] does it for fun.",
+            "[person_4] has completed his part of the test."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] puts too much lipstick on [person_2]?",
+        "answer": [
+            "[person_4] will start to cry.",
+            "[person_2] might go to the store and buy some.",
+            "[person_4] will record the video again.",
+            "She will spit the water to [person_2].",
+            "It is possible that [person_2] will look funny."
+        ],
+        "reason": [
+            "Because ice cream is delicious.",
+            "[person_2] wants to be a boxer.",
+            "Boys rarely put on lipstick.",
+            "Sports can make people lose weight.",
+            "The wind will below in from the windows."
+        ]
+    }
+}

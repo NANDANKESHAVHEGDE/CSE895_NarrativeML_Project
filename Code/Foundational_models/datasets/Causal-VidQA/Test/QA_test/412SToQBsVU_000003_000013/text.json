@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is riding a horse.",
+            "[person_1] is moving the tire.",
+            "[person_1] is shaking the cup.",
+            "[person_1] is throwing the ball over the net.",
+            "[person_1] is sitting and reading the book on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] throwing the ball over the net?",
+        "answer": [
+            "[person_2] is waiting to catch the ball on the other side of the net.",
+            "[person_1] is performing on the stage.",
+            "[person_1] is playing a song on the guitar.",
+            "[person_1] is expressing.",
+            "Because it's all scattered gift wrapping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_2] next after seeing the ball?",
+        "answer": [
+            "[person_2] is going to walk along with the stand.",
+            "[person_2] is just having a walk around its place.",
+            "[person_2] will make faces.",
+            "[person_2] will continue making up until she finishes it.",
+            "[person_2] will jump up and catch the ball."
+        ],
+        "reason": [
+            "Because [person_2] seems very interested in the game.",
+            "Because it seems that it goes well.",
+            "The person in red has held kettle in one hand and is ready to lift kettle.",
+            "The ball is approaching the hands of [person_2].",
+            "[person_2] seems to want to achieve a good performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the net is raised higher?",
+        "answer": [
+            "[person_2] can not throw the ball over the net.",
+            "They will stop dancing.",
+            "[person_2] will fall down.",
+            "Maybe [person_2] will be very scared",
+            "[person_2] will stop spraying temporarily."
+        ],
+        "reason": [
+            "The net is much taller than [person_2].",
+            "Because it's too dark at night without electricity.",
+            "There is a lock on the door of the fence so that all the children are kept inside.",
+            "The wind makes it flutter.",
+            "Because the turntable will stop working when the power goes out."
+        ]
+    }
+}

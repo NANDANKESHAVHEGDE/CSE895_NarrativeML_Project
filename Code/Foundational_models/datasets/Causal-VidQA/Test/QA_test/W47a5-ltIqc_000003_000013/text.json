@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside , standing in front of a large door.",
+            "[person_1] is in a room.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is selling goods at the market.",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [sport ball_1]?",
+        "answer": [
+            "[person_1] is checking to see if [person_1] fine motor skills are still functioning.",
+            "Because [person_1] is waiting for the mother.",
+            "Because [person_1] can be the coach and is teaching [person_1] and [person_1].",
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] is playing with it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is about to play the glass ball in his hand.",
+            "Maybe [person_1] is going to jump .",
+            "[person_1] will store teddy bear.",
+            "Perhaps [person_1] is going to have a public performance.",
+            "[person_1] is going grind the knife."
+        ],
+        "reason": [
+            "[person_1] bows down to greet the audience.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is leaving.",
+            "[person_1] and [person_1] are friends.",
+            "Because [person_1] has reached for the phone , it looks like the recording is finished."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the blackout happened?",
+        "answer": [
+            "[person_1]'ll have it repaired.",
+            "The room might be full of darkness.",
+            "[person_1] may water it.",
+            "[person_1]'ll get hurt.",
+            "[person_1] would fall on the ground."
+        ],
+        "reason": [
+            "Because there is an umbrella all over the boat.",
+            "Because there's no protection.",
+            "Because they want to reach the destination quickly.",
+            "The lights are off , too.",
+            "Oranges are easy to squeeze out by hand . So she might still squeeze oranges by hand if the orange juicer broke."
+        ]
+    }
+}

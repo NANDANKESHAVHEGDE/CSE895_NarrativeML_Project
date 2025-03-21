@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The color of the shirt is green.",
+            "The shirt is white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "[person_1] is wearing a gray shirt.",
+            "[person_1] is wearing a black shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing with cups.",
+            "[person_1] is opening present.",
+            "[person_1] is looking at the book and playing flute.",
+            "Maybe [person_1] is listening to music.",
+            "He wants to see if there is anything outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will turn on the other leg.",
+            "[person_2] will stand up with the help of the person in front of her.",
+            "[person_2] will continue to throw the ball up.",
+            "[person_2] will probably continue opening present .",
+            "[person_2] will keep on trying to climb up those ice."
+        ],
+        "reason": [
+            "Because [person_2] enjoys the food and [person_2] wants more.",
+            "[person_2] loves the present.",
+            "Maybe [person_2] likes to play.",
+            "Because [person_2] is already reaching for it.",
+            "[person_2] and [person_2] are looking happy when they play together."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] hits [person_2]'s head on the ground?",
+        "answer": [
+            "[person_2] will be cry.",
+            "[person_2] will pick up the wig.",
+            "[person_2]'s arms might be broken . ",
+            "[person_2] will be injured and the appalling.",
+            "[person_2] would be injured."
+        ],
+        "reason": [
+            "The ground is hard.",
+            "The weights is heavy.",
+            "[person_2] and [person_2] combined between jumping rope and somersaulting . It is easy to fall.",
+            "The weights is very heavy.",
+            "The weights is very heavy ."
+        ]
+    }
+}

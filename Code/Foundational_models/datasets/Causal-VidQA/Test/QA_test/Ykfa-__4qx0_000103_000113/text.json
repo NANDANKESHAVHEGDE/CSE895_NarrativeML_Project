@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing a wheelchair?",
+        "answer": [
+            "Because [person_1] wants to store the wheelchair.",
+            "[person_1] is short sighted.",
+            "[person_1] is opening her present.",
+            "Because [person_1] is a wheelchair consultant.",
+            "[person_1] wants to make the basket beautifully."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue the manual.",
+            "[person_1] is going to do a workout.",
+            "[person_1] may change another tool.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to practice."
+        ],
+        "reason": [
+            "[person_1] is attacking [person_1] and [person_1] will win this match.",
+            "There are many sand on his feet.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is instructing the proper seating positions and wheelchair propulsion."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't instruct?",
+        "answer": [
+            "[person_2] will not know how to use a wheelchair.",
+            "[person_2] will ask [person_1] to open the gift.",
+            "[person_1] may find other bags or a suitcase to pack his clothes.",
+            "[person_1]'s introduction will be less attractive.",
+            "[person_2] will not be strong."
+        ],
+        "reason": [
+            "Use may be dangerous.",
+            "Lifting dumbbell takes a lot of energy and [person_1] is too tired.",
+            "They have finished roasting them and It is time to go home.",
+            "The weights is heavy.",
+            "The weights is very heavy."
+        ]
+    }
+}

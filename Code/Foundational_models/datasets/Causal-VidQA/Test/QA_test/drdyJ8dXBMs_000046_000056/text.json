@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is empty.",
+            "[chair_1] is under [person_1].",
+            "[chair_1] is in front of [person_1].",
+            "[chair_1] is behind [person_1] and [person_1].",
+            "[chair_1] is in the corner."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is interested in hitting the cups on the [dining table_1].",
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is putting utensils on [dining table_1].",
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "The baby will let mom hug.",
+            "[person_1] will set the table.",
+            "[person_1] tends to keep training.",
+            "[person_1] will applause.",
+            "Take off the candles."
+        ],
+        "reason": [
+            "Because [person_1] is talking and stretching her leg.",
+            "[person_1] is running attentively.",
+            "Because [person_1] is closest to the knife.",
+            "Because [person_1] has already finished relax.",
+            "[person_1] is holding a plate containing eating utensils . "
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the wine glass in [person_1] hand fell to the ground?",
+        "answer": [
+            "[person_1] will fall off the mechanical bull.",
+            "The wine glass in [person_1] hand would break.",
+            "[person_1] will be happy.",
+            "They will stop to dance.",
+            "there would be a chance that the plant would die."
+        ],
+        "reason": [
+            "Perhaps [person_1] likes dimly lit rooms.",
+            "[person_1] is riding at high speed.",
+            "[person_1] would play with his team.",
+            "The wine glass in [person_1] hand is made of glass.",
+            "Because he seems to good at amuse kids."
+        ]
+    }
+}

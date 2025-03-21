@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "[person_1] is standing behind a camera.",
+            "[person_1] is outside standing on the sidewalk.",
+            "[person_1] is standing in front of the house.",
+            "It is in the corner of the room.",
+            "[person_1] is standing in a park."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1] playing bagpipe?",
+        "answer": [
+            "[person_1] is playing bagpipe very enthusiastically.",
+            "[person_1] is playing bagpipe for kids.",
+            "Because [person_1] kneels on one knee suddenly.",
+            "Because [person_1] is old , [person_1] can have some eye problems.",
+            "Because [person_1] didn't think that [person_1] will propose before."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to stop playing with the toy.",
+            "[person_1] is going to keep playing bagpipe.",
+            "[person_1] keeps watching this comedy.",
+            "[person_1] will record somewhere else.",
+            "[person_1] is going to raise the flute up."
+        ],
+        "reason": [
+            "Because it appears that the scene changes.",
+            "Because the boat hasn't stopped , the boat still moves away from the dock.",
+            "[person_1] is gasping for air at the end of the video.",
+            "[person_1] seems to still pay attention on the paper with a pen on his hand.",
+            "[person_1] was injured after falling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the place where [person_1] is playing is more crowded?",
+        "answer": [
+            "[person_1] may step on [person_1].",
+            "[person_1] will stop playing lute.",
+            "[person_1] will mess up the hair with a comb.",
+            "[person_1] might become a laughter stock.",
+            "Everyone would hear [person_1] play bagpipe."
+        ],
+        "reason": [
+            "[person_1] can not sing without remembering the lyrics of the song.",
+            "[person_1] will die if he drinks the wine.",
+            "[person_1] can't use both hands to keep the balance.",
+            "[person_1] is a little high from the ground and it will hurt her when falling down.",
+            "[person_1] is playing in a very peaceful scenario."
+        ]
+    }
+}

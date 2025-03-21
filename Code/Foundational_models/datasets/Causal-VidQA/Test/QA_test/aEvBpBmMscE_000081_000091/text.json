@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1] placed?",
+        "answer": [
+            "The [potted plant_1] is holding a skating aid.",
+            "The [person_2] is holding a cloth and a bottle.",
+            "[potted plant_1] is placed beside [person_2].",
+            "The [potted plant_1] is behind the [potted plant_1].",
+            "The [potted plant_1] is next to the gong."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] stop playing music?",
+        "answer": [
+            "[person_2] needs to reposition his microphone.",
+            "To make the snowman more beautiful.",
+            "[person_2] want to ride the [person_2] so well.",
+            "[person_2] is doing it for fun.",
+            "[person_2] and [person_2] are spinning the rope for [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may carve the back.",
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] may thanks [person_1].",
+            "Perhaps [person_1] is going to jump next.",
+            "[person_1] is going to sit down."
+        ],
+        "reason": [
+            "[person_1] is going to have a break.",
+            "[person_1] is huddling with the team.",
+            "Before [person_2] asks [person_1] to help him reposition the microphone , [person_1] is kneeling down and ready to sit down.",
+            "[person_1] is trying to make it more beautiful.",
+            "[person_2] is smiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] wasn't there?",
+        "answer": [
+            "[person_1] would not spin the fist with others.",
+            "[person_2] would be injured.",
+            "[person_2] should reposition the microphone by himself.",
+            "[person_1] would not drive the car.",
+            "[person_2] would open the coco quickly."
+        ],
+        "reason": [
+            "[person_1] would have no one to play with.",
+            "[person_1] would not sit next to the drums to play.",
+            "[person_1] would be able to dance along because other dancers have had their partner.",
+            "Because [person_2] can't ask anybody to help him.",
+            "There would be just [person_1] and [person_2] there."
+        ]
+    }
+}

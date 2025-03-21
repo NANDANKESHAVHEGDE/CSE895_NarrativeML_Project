@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the window.",
+            "[person_1] is on the stage.",
+            "[person_1] is in the house.",
+            "[person_1] is in the bar.",
+            "[person_1] is in the office."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have \u00a0 a pencil \u00a0 in her hand?",
+        "answer": [
+            "[person_1] wants to show her pencil.",
+            "Maybe [person_1] wants to get grape juice.",
+            "Because [person_1] wants to make a circle on the picture.",
+            "Because [person_1] is rubbing the gong.",
+            "[person_1] lean forward to see what [person_1] is doing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to run.",
+            "[person_1] is going to go home.",
+            "[person_1] is going to work.",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to stop the video."
+        ],
+        "reason": [
+            "[person_1] may go on reading.",
+            "[person_1] uses the pencil to work.",
+            "[person_1] has many other bottles on the [person_1].",
+            "[person_1] still holds the broom.",
+            "[person_1] is leaning forward to take the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the tip of the pencil?",
+        "answer": [
+            "[person_1] may order another one.",
+            "[person_1] will sharpen the pencil.",
+            "[person_1]'ll find a new tire.",
+            "[person_1] may sit back.",
+            "[person_1] will get a lot of dirt."
+        ],
+        "reason": [
+            "[person_1] is watching [person_1] sailing the boat.",
+            "[person_1] needs to do that to keep working.",
+            "The square green paper needs to be on the table for the person to fold.",
+            "The game will be over.",
+            "The swords are very sharp and dangerous."
+        ]
+    }
+}

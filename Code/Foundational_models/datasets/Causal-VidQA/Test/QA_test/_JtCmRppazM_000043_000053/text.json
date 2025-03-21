@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is \u00a0 in his wood workshop.",
+            "[person_1] is in the study room.",
+            "[person_1] is on the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing with [bed_1]?",
+        "answer": [
+            "[person_1] is brushing [person_1].",
+            "[bed_1] puts his hands on the floor and stretches the resistance band",
+            "[person_1] bows to focus on [person_1]'s fingers when playing the guitar.",
+            "[person_1] is reading something in a newspaper.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] also grinds the stone next.",
+            "[person_1] will open the box.",
+            "[person_1] will stop playing the electric guitar.",
+            "[person_1] is going to meet friends.",
+            "[person_1] going to finish his work."
+        ],
+        "reason": [
+            "[person_1] works very fast.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "[person_1] has covered [person_1]'s wound with the bandage.",
+            "The dish has been done and plated well.",
+            "[person_1] has finished the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the wood planner?",
+        "answer": [
+            "[person_1] will not be able to continue working.",
+            "There are a lot of torn papers on the floor.",
+            "[person_1] may have a accident.",
+            "[person_1] and [person_1] will give a round of applause.",
+            "[person_1]'s face may turn dark."
+        ],
+        "reason": [
+            "[person_1] finds it interesting.",
+            "[person_1] cannot store the flute yet.",
+            "[person_1] will need a new wood planer.",
+            "[person_1] will need to draw many picture.",
+            "The birds are only attracted when someone has food."
+        ]
+    }
+}

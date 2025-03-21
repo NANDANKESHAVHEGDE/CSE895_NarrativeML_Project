@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the T - shirt of [person_1]?",
+        "answer": [
+            "The T - shirt of [person_1] black.",
+            "[person_1] is on the road.",
+            "The T - shirt of [person_1] is white.",
+            "[person_1] is hanged on the wall.",
+            "[person_1] is the thing [person_1] is sitting on."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the wheelbarrow?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "Maybe [person_1] is doing exercise.",
+            "Maybe [person_1] is listening to music.",
+            "Because [person_1] is weaving fabric",
+            "[person_1] wants to have a cup of orange juice."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Roll [person_1] by the other foot.",
+            "It is possible that [person_1] will keep on pushing the wheelbarrow.",
+            "[person_1] will keep on shaking the bottle.",
+            "Perhaps [person_1] will throw the ball into the cups.",
+            "Maybe [person_1] will straighten up."
+        ],
+        "reason": [
+            "[person_1] seems to want to improve the skill further.",
+            "[person_1] looks unsatisfied with the sound of the gong.",
+            "It seems that [person_1] is quite interested in it.",
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] is driving the wheelbarrow to turn around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can't push the wheelbarrow?",
+        "answer": [
+            "The person will pick it up.",
+            "[person_1] will pick up [person_1] and put it in the plate in front of him.",
+            "They may eat chips and drink wine.",
+            "Someone else will push the wheelbarrow instead of [person_1].",
+            "[person_1] would roll backward to the floor of slate tiles."
+        ],
+        "reason": [
+            "if [person_1] hurt his back , he wouldn't continue because he wouldn't perform and instruct yoga effectively.",
+            "There are many weights on the floor , the weights are on her right side.",
+            "To help support the legs.",
+            "[person_1] is lying on the sofa.",
+            "There are two other people here."
+        ]
+    }
+}

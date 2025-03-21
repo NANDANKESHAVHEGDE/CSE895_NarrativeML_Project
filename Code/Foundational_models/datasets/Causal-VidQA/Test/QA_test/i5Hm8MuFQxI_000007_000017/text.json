@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "The [chair_1] is behind [person_1].",
+            "[chair_1] is next to [person_1].",
+            "The [person_1] is behind [person_1].",
+            "The [chair_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is practicing with the weights in the room.",
+            "[person_1] is reading the newspaper.",
+            "[person_1] is reading book.",
+            "Because [person_1] is snatching weight lifting.",
+            "[person_1] is playing with the cups on the table."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after standing here?",
+        "answer": [
+            "The person may wash the cup on the machine.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] will continue practicing it.",
+            "They will cheer for the soldiers acting out.",
+            "[person_1] is going to pull the big machine back and continue to plane."
+        ],
+        "reason": [
+            "[person_1] is walking along the fence.",
+            "Because everyone needs have a rest.",
+            "Because there are some cups on the table and [person_1] prepares for taking them.",
+            "Because [person_1] is the leader dancer.",
+            "when [person_1] fell , he was leaning on [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a meal?",
+        "answer": [
+            "The [person_1] will bring the sound to audience.",
+            "Maybe [person_1] will stop playing.",
+            "The finger of [person_1] will bleed.",
+            "The [person_1] will wake up.",
+            "The [person_1] will get off the elephant."
+        ],
+        "reason": [
+            "[person_1] and [person_1] look pretty much the same.",
+            "[person_1] wants to go to the toilet.",
+            "The [person_1] is heavy.",
+            "[person_1] will enjoy the meal.",
+            "[person_1] needs to pick up the hoop."
+        ]
+    }
+}

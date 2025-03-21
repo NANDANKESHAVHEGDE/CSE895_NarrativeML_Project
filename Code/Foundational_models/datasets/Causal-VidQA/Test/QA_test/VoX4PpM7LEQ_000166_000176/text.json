@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there in the room?",
+        "answer": [
+            "There is only person in this room.",
+            "There is only person.",
+            "There are about five.",
+            "There are fourteen chairs in the room.",
+            "There are three people."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1] moving his arms?",
+        "answer": [
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "[person_1] is doing arm stretching exercises.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is moving his arms to the left and to then to the right.",
+            "[person_1] is excited about her book."
+        ]
+    },
+    "predictive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "It is likely that [person_1] is in a tai chi classroom.",
+            "[person_1] will take the right foot.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is holding the sofa.",
+            "Perhaps [person_1] is in a dining room."
+        ],
+        "reason": [
+            "The [person_1] helps [person_1] to drive the cows.",
+            "[person_1] is trained to follow [person_1].",
+            "[person_1] who is standing near [person_1] and [person_1] is watching [person_1] and [person_1] fencing.",
+            "There are fourteen chairs on which students can sit and watch their teacher do tai chi moves.",
+            "Because when [person_1] is leaving he needs to stand up from the seat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] forgot some moves?",
+        "answer": [
+            "It would cost [person_1] a great deal of time to take its photo.",
+            "[person_1] might stop for a while and remember the moves.",
+            "[person_1] would have to change the microphone.",
+            "[person_1] may fall to the ground.",
+            "[person_1] might not be able to do somersault."
+        ],
+        "reason": [
+            "[person_1] is bad at somersaults.",
+            "There is no one in the room who can remind him of the moves.",
+            "To block the noise.",
+            "[person_1] is a very confident athlete who has a lot of experience.",
+            "They could become the experts."
+        ]
+    }
+}

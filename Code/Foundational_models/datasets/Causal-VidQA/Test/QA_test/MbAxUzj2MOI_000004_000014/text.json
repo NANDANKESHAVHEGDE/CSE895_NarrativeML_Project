@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "Blue.",
+            "It is a hat.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] inside?",
+        "answer": [
+            "[person_1] is short sighted.",
+            "[person_1] wants to make the basket beautifully.",
+            "Because [person_1] wants to erase the old paint.",
+            "The [person_1] prepared to walk on stilts.",
+            "[person_2] plays maracas and [person_1] plays guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will use all [person_2]'s strength to pull the rope.",
+            "[person_2] will use a fork to eat the food.",
+            "[person_2] will get the coco and drink.",
+            "[person_2] will keep eating the food.",
+            "[person_2] will definitely continue to play maracas."
+        ],
+        "reason": [
+            "[person_2] standing behind [person_2] waiting for [person_2] to go.",
+            "Because [person_2] is waiting there.",
+            "[person_2] is talking with [person_2].",
+            "Because [person_2] wants to try.",
+            "[person_2] has fun dancing while playing maracas."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if maracas hit [person_2] in the head while dancing?",
+        "answer": [
+            "[person_2] head will be hurt.",
+            "[person_2] will stop raising her eyebrows.",
+            "[person_2] head will be big.",
+            "[person_2] will return to help [person_2].",
+            "[person_2] head will be red."
+        ],
+        "reason": [
+            "Tsunami is very dangerous.",
+            "Maracas are solid objects . ",
+            "The weights is too heavy.",
+            "Maracas are soft objects . ",
+            "[person_2] was reporting."
+        ]
+    }
+}

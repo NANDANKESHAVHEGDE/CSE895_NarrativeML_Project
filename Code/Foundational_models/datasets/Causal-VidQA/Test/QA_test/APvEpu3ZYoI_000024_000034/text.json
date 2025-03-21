@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color shirt does [person_1] wear?",
+        "answer": [
+            "[person_1] wears white.",
+            "Train.",
+            "The shirt is black.",
+            "[person_1] hair is braided on both sides.",
+            "[person_1] is at a kindergarten"
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] work?",
+        "answer": [
+            "[person_1] lifts the sledgehammer with the head on the top and leans it slowly.",
+            "Because the [person_1] does not want to be hit with a snowball.",
+            "[person_1] is shaving and cutting his hair.",
+            "[person_1] is very hard - working and [person_1] uses a drill to work.",
+            "It seems that the person put an animal in the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to continue to train.",
+            "[person_1] is going to use wood panels.",
+            "[person_1] may say his creative inspiration.",
+            "[person_1] is going to step on the squash."
+        ],
+        "reason": [
+            "[person_1]'s job is to saw the pieces of wood.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] is huddling with the team.",
+            "To make it look more fresh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were not the light?",
+        "answer": [
+            "[person_1] could work.",
+            "The match might continue.",
+            "[person_1] could not work.",
+            "The sound of the gong wouldn't be as clear as playing inside.",
+            "[person_1] could replace the work."
+        ],
+        "reason": [
+            "Because there is not cup to contain the wine.",
+            "[person_1] does not need the light to see everything around to work.",
+            "[person_1] can't be empty otherwise [person_1] can't continue his work.",
+            "[person_1] needs the light to see everything around to work.",
+            "The mud is slippery so the [person_1] could not ride on it."
+        ]
+    }
+}

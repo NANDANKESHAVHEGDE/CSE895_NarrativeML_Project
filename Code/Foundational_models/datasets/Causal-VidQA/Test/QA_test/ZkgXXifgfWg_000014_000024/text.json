@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the couch?",
+        "answer": [
+            "We are playing games.",
+            "The red bucket is placed beside [person_2].",
+            "The wall is dark , blue and green.",
+            "The couch is behind [person_2].",
+            "It has many textures."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the room?",
+        "answer": [
+            "Because [person_2] of hand has a problem , maybe [person_2] of hand is paralyzed and needs [person_1] help.",
+            "[person_1] and [person_2] are playing harmonica together.",
+            "[person_1] and [person_2] are watching the gifts.",
+            "[person_1] is shaving himself.",
+            "[person_1] is watching [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to dance after the harmonica tones.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] will catch the frisbee.",
+            "[person_1] is going to approach [person_1]."
+        ],
+        "reason": [
+            "Maybe the weights are too heavy.",
+            "[person_1] looks like a couple.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "[person_1] is shaking her body.",
+            "The tap is still on."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not there?",
+        "answer": [
+            "[person_1] would play harmonica alone.",
+            "[person_1] may not put the can close to the camera.",
+            "[person_2] can't shoot soccer into the frame.",
+            "[person_1] , [person_2] would blow the candles.",
+            "[person_1] would have to play hula hooping alone."
+        ],
+        "reason": [
+            "[person_1] and [person_1] have no instructions.",
+            "[person_1] is keen on playing harmonica.",
+            "The right hand of [person_1] has no bird food.",
+            "[person_1] is still trying now.",
+            "The dance needs two people."
+        ]
+    }
+}

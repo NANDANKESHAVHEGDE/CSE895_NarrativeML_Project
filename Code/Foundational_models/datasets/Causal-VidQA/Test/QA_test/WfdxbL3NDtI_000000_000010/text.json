@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it a sunny day?",
+        "answer": [
+            "There is one person.",
+            "There are two.",
+            "[person_1] and [person_1] are surveying the area of the parking lot.",
+            "[person_2] is placed in front of the wall.",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding the hand of [person_1]?",
+        "answer": [
+            "[person_1] is opening present.",
+            "[person_1] and [person_2] are opening presents.",
+            "[person_2] wants to teach [person_1] something.",
+            "[person_2] is helping [person_1] not to fall.",
+            "[person_2] also wants to play the keyboard."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next after holding the hand of [person_1]?",
+        "answer": [
+            "[person_1] and [person_2] will have a rest.",
+            "Ask for help or change his direction.",
+            "There will be some beer flowing into the bottles.",
+            "[person_2] will play it with [person_1] together.",
+            "[person_1] likes birds standing his hands and he enjoy this scenery very much."
+        ],
+        "reason": [
+            "Maybe [person_2] is watching a historical reenactment.",
+            "Perhaps [person_2] feels very interested.",
+            "[person_1] and [person_2] are looking at the music sheet.",
+            "The woman will introduce how to care the horse.",
+            "Because [person_2] is teaching [person_1] the way to skate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will not practice yoga.",
+            "[person_1] and [person_2] will find a place for a shelter.",
+            "[person_1] will come out of the water.",
+            "[person_1] and [person_2] may get wet.",
+            "[person_1] will continue competing."
+        ],
+        "reason": [
+            "Rainy day is not fine for washing.",
+            "[person_1] and [person_2] do not have raincoats.",
+            "The performance will stops.",
+            "[person_1] may stop jumping.",
+            "[person_1] will go inside."
+        ]
+    }
+}

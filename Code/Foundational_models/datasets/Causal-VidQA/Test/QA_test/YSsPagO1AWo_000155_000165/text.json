@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is red.",
+            "[person_1] is wearing a white T - shirt.",
+            "It is blue.",
+            "It's blue.",
+            "It is orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is opening her gift.",
+            "[person_1] is playing lute very passionately.",
+            "[person_1] is riding bicycle.",
+            "[person_1] needs a quiet place to practice.",
+            "[person_1] is instructing relaxation exercises after stressful working hours."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to raise both hands.",
+            "[person_1] is going to tie a knot on [person_1]'s back.",
+            "Maybe [person_1] is going to start new tunes.",
+            "[person_1] will go on throwing the cards.",
+            "[person_1] is going to open her present."
+        ],
+        "reason": [
+            "[person_1] is playing the guitar with zeal.",
+            "Because [person_1] needs it to make juice.",
+            "[person_1] feels the amount of water is sufficient and will turn off the faucet.",
+            "[person_1] wants to score.",
+            "[person_1] is playing in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a new lute?",
+        "answer": [
+            "The [person_1] might get cold.",
+            "Maybe [person_1] will have to remove the picture.",
+            "[person_1] and [person_1] may need help.",
+            "[person_1] will be happy.",
+            "[person_1] will be very sad."
+        ],
+        "reason": [
+            "The sun is dazzling.",
+            "[person_1] will play better.",
+            "The flute of [person_1] was damaged.",
+            "[person_1]'s master worker will help him.",
+            "[person_1] will rest."
+        ]
+    }
+}

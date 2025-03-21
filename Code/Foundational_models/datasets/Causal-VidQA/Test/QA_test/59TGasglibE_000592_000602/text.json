@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] with a ponytail?",
+        "answer": [
+            "There are 4 red dice.",
+            "A watch.",
+            "Yes.",
+            "The table is near [person_1].",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why don't [person_1] and [person_2] run outside?",
+        "answer": [
+            "It's dangerous.",
+            "Because he's happy.",
+            "It's cold outside.",
+            "[person_1] is ice skating.",
+            "Because [person_1]'s balance is so good."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running?",
+        "answer": [
+            "They are going to hand in hand with other and jump the trampoline.",
+            "Share the cake.",
+            "Have a short talk with the other boy.",
+            "[person_1] will leave.",
+            "[person_1] will pick up the small ball."
+        ],
+        "reason": [
+            "[person_1] has to go back to company.",
+            "[person_1] really wants to rest.",
+            "[person_1]'s family faints out.",
+            "[person_1] doesn't know the next step.",
+            "Because that small ball drops beside [person_1] and [person_1] bends down and is trying to reach it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if the boss asks [person_1] to go back?",
+        "answer": [
+            "[person_1] would go to get a hamburger.",
+            "[person_1] won't clean the window.",
+            "[person_1] has to go back to company.",
+            "[person_1] will be surprised.",
+            "[person_1] will pick it back."
+        ],
+        "reason": [
+            "[person_1] has to listen to the boss.",
+            "Because [person_1] looks so young.",
+            "Because [person_1] will have no hands to grasp the baby bottle.",
+            "Because [person_1] can't pack her laptop in the [person_1].",
+            "Because [person_1] would have to herd the goats by himself."
+        ]
+    }
+}

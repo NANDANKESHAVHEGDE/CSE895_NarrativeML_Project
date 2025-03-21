@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shelf behind [person_1] ?",
+        "answer": [
+            "On the main road.",
+            "[person_1] is an baby.",
+            "It is brown.",
+            "The sweater is black.",
+            "[person_1] is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a flute in her hands ?",
+        "answer": [
+            "The [person_1] expands the bellows to make the sound loudlier or softer.",
+            "Because [person_1] and [person_1] are opening [person_1] together.",
+            "[person_1] is playing the flute to the baby.",
+            "Because [person_1] is playing the gong in front of [person_1].",
+            "Maybe [person_1] is learning playing flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will clap hands.",
+            "[person_1] will put on his shirt.",
+            "[person_1] may throw the soil aside.",
+            "[person_1] will take a break.",
+            "[person_1] will keep practicing."
+        ],
+        "reason": [
+            "[person_1] looks back.",
+            "Practice makes perfect.",
+            "To find a support for the head stand.",
+            "[person_1] has experienced a long way and is very tired.",
+            "Playing flute is so difficult."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen is [person_1] is busy ?",
+        "answer": [
+            "[person_1] won't eat anymore.",
+            "[person_1] will feel tired.",
+            "[person_1] will be excited.",
+            "[person_1] will not learn playing flute anymore.",
+            "[person_1] may stop blowing the ball."
+        ],
+        "reason": [
+            "[person_1] will need help.",
+            "[person_1] will do other works.",
+            "[person_1] can't practice with a bad quality poi.",
+            "It is possible that [person_1] will be sad.",
+            "[person_1] 's actions make the birds startled and they will fly away."
+        ]
+    }
+}

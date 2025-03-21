@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise her hands?",
+        "answer": [
+            "[person_1] introduces by words and pose.",
+            "The [person_1] is talking to the [person_1].",
+            "[person_1] is trying something like clothes.",
+            "[person_1] wants to be with nature when he is doing tai chi.",
+            "Because [person_1] wants to help [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "To find more snow.",
+            "[person_1] may keep trying.",
+            "[person_1] may be going to take a rest.",
+            "[person_1] is going to bring the cup in his hand to his mouth and drink beer.",
+            "[person_1] may keep standing."
+        ],
+        "reason": [
+            "[person_1] is so excited .",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] will continue reading.",
+            "[person_1] will stop trying clothes.",
+            "[person_1] won't be able to continue reading.",
+            "[person_1] may not keep talking.",
+            "[person_1] will stop talking."
+        ],
+        "reason": [
+            "Maybe [person_1] will find candles to light.",
+            "[person_1] will not keep jumping.",
+            "The machine will not keep cutting.",
+            "[person_1] will stop somersaulting.",
+            "Maybe [person_1] will go out."
+        ]
+    }
+}

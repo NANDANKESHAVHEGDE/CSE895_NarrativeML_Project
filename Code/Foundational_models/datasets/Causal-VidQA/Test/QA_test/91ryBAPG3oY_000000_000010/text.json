@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "It is red.",
+            "His scooter.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It is gray.",
+            "It is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the supermarket?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "The [person_1] wants to pick some blueberries.",
+            "He hitches the tire from the inside with the hammer and lifts them.",
+            "[person_1] is helping [person_2] practice.",
+            "The [person_1] wants to show the [person_1] to the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going to show the way to stand on hands.",
+            "[person_1] is going to rip paper.",
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to continue to train."
+        ],
+        "reason": [
+            "[person_1] needs to recover.",
+            "[person_1] is very enthusiastic.",
+            "People are interested in the story behind [person_1].",
+            "To make it look more fresh.",
+            "[person_1] is going to talk with her friend."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't show the action to [person_2]?",
+        "answer": [
+            "The score of [person_1] will be tripled.",
+            "[person_1] can be injured seriously.",
+            "It is probable that [person_2] will have many customers.",
+            "[person_1] will tell [person_2] that she doesn't feel comfortable.",
+            "[person_2] would feel bored"
+        ],
+        "reason": [
+            "[person_1] keeps [person_2] busy.",
+            "Because they're on the same team.",
+            "The potted plant is easy to fall.",
+            "Because they're teammates.",
+            "To ease the pain."
+        ]
+    }
+}

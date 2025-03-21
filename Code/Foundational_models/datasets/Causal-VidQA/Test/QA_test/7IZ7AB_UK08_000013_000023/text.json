@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it indoor?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "Yes it is.",
+            "Eight persons.",
+            "[person_1] is behind [person_1].",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the barbell?",
+        "answer": [
+            "Because [person_1] is still a baby and he can't walk yet.",
+            "Maybe [person_1] and [person_1] are taking a photo.",
+            "[person_1] is doing lunges.",
+            "Because [person_1] has fun in playing games.",
+            "Because [person_1] wants to ask for [person_1]'s agreement with the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will keep installing the carpet.",
+            "[person_1] will increase the weight.",
+            "[person_1] may get down from the coach.",
+            "[person_1] is going to jog along the beach for a while longer.",
+            "[person_1] will continue to unlock the lock by his tool"
+        ],
+        "reason": [
+            "One of [person_1]'s hands was trapped.",
+            "[person_1] is holding the stick.",
+            "[person_1] is holding his tool to pack.",
+            "Because [person_1] hasn't finished the training.",
+            "[person_1] is doing warm up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] missed the step?",
+        "answer": [
+            "[person_1] will divide the cookies into two equal portions and let them eat it.",
+            "[person_1] will do again.",
+            "[person_1] would be sad about it.",
+            "[person_1] would drop his hat.",
+            "[person_1] would be injured."
+        ],
+        "reason": [
+            "[person_1] has been resting for a long time.",
+            "Because his parents will always be prepared to help him.",
+            "[person_1] could not move without wind.",
+            "It's very unlikely , but it may happen.",
+            "[person_1] is doing hard exercises which has difficult techniques."
+        ]
+    }
+}

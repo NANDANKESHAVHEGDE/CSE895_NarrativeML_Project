@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a ring?",
+        "answer": [
+            "They are African or Indian.",
+            "A watch is being worn on [person_1] hand.",
+            "No.",
+            "Yes.",
+            "[person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] push the button?",
+        "answer": [
+            "[person_1] stood up to arrange things.",
+            "It can help the medicine better being taken in.",
+            "[person_1] is watching [person_1].",
+            "It's too shinny outside.",
+            "[person_1] is putting lipstick on her hand to check the color."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "He will put the nails inside it.",
+            "[person_1] will put down the inhaler.",
+            "[person_1] will herd the cows to where they can graze.",
+            "[person_1] will wait for about 8 seconds.",
+            "[person_1] will add some other materials."
+        ],
+        "reason": [
+            "The pot next to [person_1] is boiling like she's about to put her vegetables in it to cook them.",
+            "It can help the medicine better being taken in.",
+            "There are some plants nearby.",
+            "It seems that [person_1] is eager to know what it is.",
+            "It seems that [person_1] is curious about what it is."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the inhaler is broken?",
+        "answer": [
+            "[person_1] will give his donut to [person_1] to eat.",
+            "[person_1] will turn off the tap.",
+            "[person_1] will use another inhaler.",
+            "[person_1] will change another snow blower on the road.",
+            "[person_1] will not collect garbage on the road."
+        ],
+        "reason": [
+            "The guitar cannot be used.",
+            "Only good inhaler can be effective.",
+            "Because [person_1] doesn't have an umbrella.",
+            "To continue to wash clothes.",
+            "To smoke , you must have a smoking pipe."
+        ]
+    }
+}

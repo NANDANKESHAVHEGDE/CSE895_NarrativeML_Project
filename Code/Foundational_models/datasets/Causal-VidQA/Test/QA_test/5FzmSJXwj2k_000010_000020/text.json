@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many chairs are there in this room?",
+        "answer": [
+            "Yes , it is.",
+            "There are eight people.",
+            "There are two.",
+            "There are six people.",
+            "There are three chairs in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting to play the flute?",
+        "answer": [
+            "Because [person_1] is helping [person_1] move.",
+            "Because [person_1] feels comfortable.",
+            "[person_1] wants to drink water.",
+            "Because [person_1] is playing marbles.",
+            "[person_1] takes care of [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will come up the stairs.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] will eat the apple on the table.",
+            "[person_1] is about to eat.",
+            "Maybe [person_1] is going to smile."
+        ],
+        "reason": [
+            "[person_1] has walked outside.",
+            "[person_1] has not turned down the water.",
+            "[person_1] finished playing the flute and he was happy.",
+            "[person_1] is a hard - working person.",
+            "[person_1] has finished the outside."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] presses the wrong button on the flute?",
+        "answer": [
+            "[person_1] will blow false.",
+            "[person_1] will score.",
+            "[person_1] would feel embarrassed.",
+            "The audience may dislike [person_1].",
+            "[person_1] may shake the gift box."
+        ],
+        "reason": [
+            "Because the knife is very sharp.",
+            "The drink will make the table sticky.",
+            "The flute makes a different sound.",
+            "[person_1] and [person_1] will be startled.",
+            "Many people follow [person_1]."
+        ]
+    }
+}

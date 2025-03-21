@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [couch_1]?",
+        "answer": [
+            "The [couch_1] is in front of the store.",
+            "The [couch_1] is black.",
+            "[couch_1] is red.",
+            "[couch_1] is white.",
+            "[couch_1] is orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] stand up?",
+        "answer": [
+            "The [person_1] stood up to fight against the woman with a pillow.",
+            "Maybe [person_1] is performing in a show.",
+            "Because [person_1] can't walk on foot.",
+            "The [person_1] holds the baby so the [person_2] can see the huge Christmas tree.",
+            "The [person_1] stood up to fight with the [person_2] with a teddy bear."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] will return to the [person_1] by skating.",
+            "The [person_1] is going to take the teddy bear.",
+            "The [person_1] is going to point at the screen and keep presenting.",
+            "The [person_1] may put the food in the [person_1] into the [person_1].",
+            "The [person_1] may open the faucet and wash the basin."
+        ],
+        "reason": [
+            "The teddy bear of the [person_1] has just been dropped and the [person_1] uses the teddy bear as a weapon.",
+            "The [person_1] puts the stone down and moves his body to lift it.",
+            "The [person_1] is still putting the cloth on the feet of the [person_1].",
+            "The [person_1] tries to hold dog leash of the [person_1].",
+            "The [person_1] is performing the best and wants to move around."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_2] threw the pillow toward the corner of the room?",
+        "answer": [
+            "[person_2] would win.",
+            "[person_2] might find it very difficult to understand [person_2]'s instruction.",
+            "The ingredients will be smashed or come oozing out the sides.",
+            "The lamp might be broken.",
+            "the toy car can move."
+        ],
+        "reason": [
+            "[person_2] failed the challenge.",
+            "There were so many people around him so it would be awkward if he didn't open the bottle",
+            "The window can be broken.",
+            "The lamp is in the corner of the room.",
+            "[person_2] makes a lot of effort to do a handstand."
+        ]
+    }
+}

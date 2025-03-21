@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite small.",
+            "It is large.",
+            "It is in a rugby field.",
+            "It is very clean and neat.",
+            "It is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing darts.",
+            "[person_1] is raising his eyebrows.",
+            "Riding a mechanical bull very easy to play with [person_1].",
+            "[person_1] is making a base of the basket.",
+            "[person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to hug a man wearing white shirt.",
+            "[person_1] tends to raise eyebrows very much.",
+            "[person_1] will put on mascara for [person_1].",
+            "[person_1] tends to stop fold clothes.",
+            "[person_1] tends to all cymbals in front of her."
+        ],
+        "reason": [
+            "[person_1] took out her phone in the pocket.",
+            "[person_1] holds the mascara in her hand and puts on it to eyelashes of [person_1].",
+            "[person_1] stops playing.",
+            "[person_1] raised his eyebrows very happily.",
+            "[person_1] looked the cup , raised the ball and tiptoed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] will stop raising her eyebrows.",
+            "[person_1] won't be able to read.",
+            "[person_1] and [person_1] will stop opening.",
+            "[person_1] and [person_1] may not keep dancing because there is no music.",
+            "[person_1] will stop raising his eyebrows."
+        ],
+        "reason": [
+            "The stage will be dark then.",
+            "[person_1] may not keep speaking.",
+            "[person_1] may stop playing.",
+            "The house will be dark then.",
+            "The machine will be stopped working."
+        ]
+    }
+}

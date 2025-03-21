@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bathroom.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the board out?",
+        "answer": [
+            "Because [person_1] wants to cut the board.",
+            "Because [person_1] wants to hold the accordion tightly.",
+            "[person_1] and [person_1] are playing chess.",
+            "[person_1] is describing how [person_1] trim shrubs.",
+            "[person_1] is loosing balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop cutting.",
+            "[person_1] is going to use his hand to tamp the soil.",
+            "[person_1] is going to tap dancing.",
+            "[person_1] is going to vomit.",
+            "[person_1] is going to step back and observe [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "Because [person_1] has already finished the work.",
+            "Because [person_1] is playing the ball and throwing it is his way to play it.",
+            "Maybe [person_1] will clap his hands.",
+            "[person_1] is picking up the [person_1] and using a spoon to mix the ingredients."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] cut [person_1]'s hand accidentally?",
+        "answer": [
+            "[person_1] will give a massage for the legs.",
+            "[person_1] won't call the ambulance.",
+            "[person_1] may continue shaking.",
+            "[person_1] will call the ambulance immediately.",
+            "[person_1] would be punished by his parents."
+        ],
+        "reason": [
+            "[person_1] need space to hoop.",
+            "To go to the hospital and take an examination.",
+            "Maybe [person_1] will believe his shaking abilities.",
+            "To stay at home and take no examination.",
+            "[person_1] is working with the wheelbarrow."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is standing on a garden.",
+            "[couch_1] is next to the fireplace.",
+            "[couch_1] is standing in the room.",
+            "[couch_1] was made from dyed leather and styrofoam.",
+            "[couch_1] is on an oven."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] somersault?",
+        "answer": [
+            "He wants to ride [person_1] outside.",
+            "Maybe [person_1] does it for fun.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "[person_1] wants to help [person_1] shave.",
+            "[person_1] is playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to walk to the car.",
+            "[person_1] intends to stand up.",
+            "[person_1] intends to finish wearing it.",
+            "[person_1] intends to drink more.",
+            "[person_1] intends to draw pictures."
+        ],
+        "reason": [
+            "[person_1] went down the stairs.",
+            "[person_1] prepared to play the harp.",
+            "[person_1] still hasn't landed perfectly.",
+            "[person_1] wants to rest a few minutes.",
+            "[person_1] puts her knees on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] bumped into a wooden cabinet next to it.",
+        "answer": [
+            "[person_1] won't get hurt.",
+            "[person_1] will step on the ball.",
+            "[person_1] will get healthy.",
+            "The bowl will fall to pieces.",
+            "[person_1] will get hurt."
+        ],
+        "reason": [
+            "Because the cabinet is made of wood , it is very hard.",
+            "Because sliding during jumping may make [person_1] lose balance.",
+            "Because the cabinet isn't made of wood , it is very hard.",
+            "[person_1] and [person_1] will not receive any bonus.",
+            "Because the cabinet is made of wood , it is very soft."
+        ]
+    }
+}

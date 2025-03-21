@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing?",
+        "answer": [
+            "[person_1] is small.",
+            "[person_1] is wearing a hooded top with lettering on the chest.",
+            "[person_1] is big.",
+            "[person_1] is drinking beer.",
+            "The [person_1] is dark brown."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_2] put the hand over the face of [person_2]?",
+        "answer": [
+            "because [person_2] is thrown snowballs by [person_1] and [person_3].",
+            "Because the [person_3] throw the frisbee away.",
+            "Because the [person_1] wants to pick up this skill.",
+            "Because [person_1] is taking a wild slide.",
+            "Because [person_1] doesn't cut it."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] going to do?",
+        "answer": [
+            "[person_2] might pick up the camera.",
+            "[person_2] will still play with [person_1].",
+            "[person_2] will continue her fencing competition with [person_3].",
+            "[person_2] is going to fight back [person_1].",
+            "[person_2] is going to throw snowballs at [person_1] and [person_3]."
+        ],
+        "reason": [
+            "[person_2] is a referee.",
+            "[person_2] walked to the snowfield and was about to make a snowball.",
+            "[person_2] is banging on the chest after eating.",
+            "because [person_2] just uses this gun to shoot.",
+            "the [person_2] has just fallen from the mechanical bull."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_3] falls?",
+        "answer": [
+            "[person_2] needs to drink water.",
+            "[person_3] will not give the tool to [person_3].",
+            "Maybe [person_3] will get injured.",
+            "[person_3] needs [person_3] look after [person_2].",
+            "[person_2] can easier to throw [person_3]."
+        ],
+        "reason": [
+            "because [person_2] is near [person_3].",
+            "[person_2] and [person_2] will sleep.",
+            "[person_3] is at home . There will be a lot of delicious food in the [person_3].",
+            "Because otherwise [person_2] will be injured.",
+            "[person_3] wants to have some food."
+        ]
+    }
+}

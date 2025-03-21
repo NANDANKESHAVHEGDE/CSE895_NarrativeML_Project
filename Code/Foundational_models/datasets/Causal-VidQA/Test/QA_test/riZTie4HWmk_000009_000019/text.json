@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the T - shirt [person_4]'s wearing?",
+        "answer": [
+            "It is black.",
+            "It is a towel.",
+            "Five people are doing tai chi.",
+            "Four people are doing tai chi.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the swing?",
+        "answer": [
+            "[person_1] is shaving.",
+            "[person_1] is helping [person_4] swing on it.",
+            "[person_1] wants to keep fit.",
+            "Because it stucks some woodchips in there.",
+            "[person_4] raises the [person_1] to take a video."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to take a short rest.",
+            "[person_2] may wash his hands.",
+            "[person_2] is going to talk with [person_6].",
+            "[person_2] may keep dancing.",
+            "[person_2] is going to express [person_2]'s opinions."
+        ],
+        "reason": [
+            "[person_2] is sitting next to and the face towards [person_6].",
+            "[person_2] loves [person_6].",
+            "To propose to [person_2].",
+            "To continue to examine.",
+            "[person_2] checks over everyone carefully and he can give his comments on everyone ` s actions including showing mistakes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "[person_5] would not dance.",
+            "[person_1] couldn't reach [person_5].",
+            "[person_5] would find it difficult to swing alone.",
+            "The room would be quiet.",
+            "[person_5] would not be curious."
+        ],
+        "reason": [
+            "[person_1] would not see them.",
+            "[person_5] should learn how to clean the room.",
+            "[person_5] is too short to reach the swing by himself.",
+            "There would be only [person_1] in the room",
+            "[person_1] wants to have a video of him high kicking."
+        ]
+    }
+}

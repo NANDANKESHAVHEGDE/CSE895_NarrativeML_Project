@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it indoor?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "Eight persons.",
+            "[person_1] is behind [person_1].",
+            "Yes it is.",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] indoor?",
+        "answer": [
+            "Because [person_1] is lifting weights.",
+            "[person_1] is helping [person_1] swallow the sword.",
+            "[person_1] is doing lunges.",
+            "Maybe [person_1] is introducing playing the harmonica in a music program.",
+            "Because [person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the full preparation?",
+        "answer": [
+            "[person_1] will show [person_1] how to make a sandwich.",
+            "[person_1] will continue to clean the cat.",
+            "[person_1] will start to do the exercise.",
+            "[person_1] will fish there.",
+            "[person_1] will touch another cat."
+        ],
+        "reason": [
+            "Because there is flash lamp.",
+            "Because [person_1] makes moves exquisitely.",
+            "[person_1] seems to be quite familiar with what she is doing.",
+            "To change another kind of exercise.",
+            "[person_1] seems to work out often and does not need the trainer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it rains?",
+        "answer": [
+            "[person_1] will continue to practice.",
+            "[person_1] can't continue to practice in the yard.",
+            "[person_1] may find shelter.",
+            "[person_1] will be disqualified from the competition.",
+            "[person_1] will stop filming."
+        ],
+        "reason": [
+            "Only those who do it successfully get to the next round.",
+            "[person_1] is indoor , and the rain will not affect him.",
+            "Because the [person_1] has another machine.",
+            "When the [person_1] fall , [person_1] is already busy with talking and [person_1] is busy laying carpet so no one can react to this action.",
+            "Because [person_1] is in the yard."
+        ]
+    }
+}

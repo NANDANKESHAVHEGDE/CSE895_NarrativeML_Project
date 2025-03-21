@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt that [person_1] is wearing?",
+        "answer": [
+            "The shirt is black.",
+            "The shirt is beige.",
+            "It looks like a hand.",
+            "White.",
+            "It's a white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_3] and [person_4] in a wheelchair?",
+        "answer": [
+            "[person_4] helps [person_3] reduce stress.",
+            "To ensure a sterile environment.",
+            "[person_3] and [person_4] are disabled.",
+            "Because [person_4] is looking to saw a piece of wood.",
+            "Because [person_4] is driving."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] , [person_2] , [person_3] and [person_4] going to do?",
+        "answer": [
+            "[person_1] , [person_2] , [person_3] and [person_4] are going to school with some friends.",
+            "[person_1] , [person_2] , [person_3] and [person_4] are going to sing and shoulder to shoulder.",
+            "[person_1] may not want others to see.",
+            "Forward.",
+            "[person_1] , [person_2] , and [person_3] are filming."
+        ],
+        "reason": [
+            "[person_1] , [person_2] , [person_3] , [person_4] are wearing military uniform and carrying weapon.",
+            "Because [person_1] , [person_2] and [person_3] are crazy about dancing.",
+            "[person_1] , [person_2] , [person_3] , [person_4] are wearing military uniform , carrying weapon and flag.",
+            "Because [person_1] and [person_2] are sitting together.",
+            "Because [person_1] , [person_2] , [person_3] and [person_4] wear backpack."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] don't wait for [person_3] and [person_4]?",
+        "answer": [
+            "[person_1] could not use it to collect eggs.",
+            "It is possible that [person_1] will come to class later.",
+            "It is probable that [person_4] will be confused.",
+            "It is possible that [person_1] will not come to class later.",
+            "[person_1] will notice her reflection does not move."
+        ],
+        "reason": [
+            "Because the beer is open and [person_2] seems to be the friends of [person_1].",
+            "[person_3] and [person_4] are in wheelchair.",
+            "Because [person_1] dances to the rhythm of the music.",
+            "[person_3] and [person_4] are not in wheelchair.",
+            "Wealth and beauty can be gained through diligent study."
+        ]
+    }
+}

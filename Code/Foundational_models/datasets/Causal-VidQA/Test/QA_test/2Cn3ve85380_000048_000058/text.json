@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] hair look like?",
+        "answer": [
+            "[person_1] hair looks a bit curly.",
+            "[person_1] is skating in stage.",
+            "[person_1] hair looks quite long and black.",
+            "[person_1] is training at a gym.",
+            "[person_1] is in his garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_1] tie her hair?",
+        "answer": [
+            "Because [person_1] rotates two strings at the same time.",
+            "[person_1] likes to let her hair down.",
+            "[person_1] is introducing the harmonica.",
+            "To make a proposal.",
+            "[person_1] is performing for [person_1] and [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is likely to stop playing the flute.",
+            "[person_1] is going to move the chess piece.",
+            "[person_1] may continue to air the shoe.",
+            "[person_1] is going to continue laughing.",
+            "[person_1] will read another book."
+        ],
+        "reason": [
+            "[person_1] is putting the flute down.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is holding the chess piece.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] has finished [person_1]'s action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will reduce the strength of [person_1]'s holding and rock [person_1] gently.",
+            "[person_1] will stop folding.",
+            "[person_1] will stop somersaulting.",
+            "[person_1] will not play the flute anymore.",
+            "The [person_1] will continue to be used normally."
+        ],
+        "reason": [
+            "[person_1] will no longer have the strength to play the flute.",
+            "[person_1] needs to wait for [person_1] to finish the performance.",
+            "[person_1] will drink water.",
+            "[person_1] will need to be free from pain.",
+            "Then [person_1] will take a rest."
+        ]
+    }
+}

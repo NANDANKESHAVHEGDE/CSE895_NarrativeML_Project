@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is this place?",
+        "answer": [
+            "The room is quite small.",
+            "It is in a training room.",
+            "The room is small.",
+            "It is narrow.",
+            "It is untidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are these people here?",
+        "answer": [
+            "They are practicing rugby.",
+            "To show polite.",
+            "They are here to practice tackling.",
+            "The dog finds running interesting.",
+            "People are accustomed to different speed."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_3] going to do?",
+        "answer": [
+            "The [person_1] and [person_1] may turn around and dance together.",
+            "[person_1] will sit on the chair.",
+            "The [person_1] will get off when he gets to the destination.",
+            "[person_1] and [person_3] are going to keep on tackling the others.",
+            "The [person_1] will stay on the camel until his parents help him to get off."
+        ],
+        "reason": [
+            "Because the [person_1] has not reached his destination.",
+            "Because they are currently in the middle of their training.",
+            "Excessive exercise may cause a person to faint.",
+            "After [person_1] pushes the cart for a while , [person_1]'s relative holds the cart to push.",
+            "[person_1] is running professionally."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no soft ground below them?",
+        "answer": [
+            "Some of them might be injured badly.",
+            "They may eat chips and drink wine.",
+            "[person_1] will use the tools on the table to re - polish the grain and seam on the panel.",
+            "[person_3] would have a chat with her.",
+            "[person_3] would stop conversation."
+        ],
+        "reason": [
+            "[person_1] would be shocked , [person_1] is still a child.",
+            "Because should any person fell to the ground , their bodies and particularly their heads would impact directly with the hard floor.",
+            "The road would be not slippery if it were not frozen . So [person_3] would ride the bike easily without falling.",
+            "Because holding hand of [person_3] helps [person_3] keep balance so [person_3] doesn't fall.",
+            "The [person_1] is close to the [person_1]."
+        ]
+    }
+}

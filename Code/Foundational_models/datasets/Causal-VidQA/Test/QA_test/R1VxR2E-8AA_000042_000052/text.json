@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the bathroom.",
+            "[person_1] and [person_2] are in the swimming pool.",
+            "[person_1] and [person_2] are in the children's play area.",
+            "[person_1] and [person_2] are in the bedroom.",
+            "[person_1] and [person_2] are on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] and [person_2] on the floor?",
+        "answer": [
+            "[person_1] is playing with paper.",
+            "[person_1] is riding a unicycle.",
+            "Because [person_1] is practicing standing on hands.",
+            "[person_1] is raising eyebrows in front of the mirror.",
+            "[person_1] and [person_2] are playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will dance with [person_1].",
+            "Maybe [person_1] is going to continue skiing",
+            "Bake the dough batch after batch.",
+            "Maybe [person_1] is going to sit.",
+            "[person_1] is going to capture the castle."
+        ],
+        "reason": [
+            "[person_1] likes challenge.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] likes [person_2] outfit.",
+            "Maybe [person_1] is having fun.",
+            "[person_1] is attacking [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s friends come here?",
+        "answer": [
+            "[person_1] would flip the skateboard.",
+            "[person_2] would be beautiful.",
+            "[person_1] would stand up at once.",
+            "The others would cheer for [person_2].",
+            "[person_2]'s friends will watch them play chess."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are performing in couple.",
+            "Because [person_1] needs the clothes to protect himself.",
+            "[person_1] wants to share the cake with them.",
+            "To replace the broken one.",
+            "Maybe the friend of [person_2] will play with [person_1] in the new game."
+        ]
+    }
+}

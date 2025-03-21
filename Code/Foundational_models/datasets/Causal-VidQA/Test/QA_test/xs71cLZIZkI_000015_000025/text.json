@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding in the left hand?",
+        "answer": [
+            "[person_1] is sitting on a chair.",
+            "[person_1] is sitting on [person_1].",
+            "The color of [person_1] is mint.",
+            "[person_1] is holding a shoe cleaner bottle.",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing to clean the shoes?",
+        "answer": [
+            "[person_1] wants to keep his balance on the mechanical bull.",
+            "[person_2] is sitting on a very high chair , so [person_1] has to stand to clean the shoes easily.",
+            "[person_1] must have shook the bottle thus the cork was a little loose.",
+            "[person_1] is playing a bass guitar solo.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is cleaning the toe of the shoes.",
+            "[person_1] is going to open present.",
+            "[person_1] will put down the snorkel.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] may hug others."
+        ],
+        "reason": [
+            "Maybe [person_1] will clap his hands.",
+            "[person_1] is bringing the brush towards the toe of the shoes.",
+            "[person_1] is talking with partner.",
+            "Maybe [person_1] is tired.",
+            "The cat is sitting next to [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels tired?",
+        "answer": [
+            "[person_1] will stop the training and go out to buy some food.",
+            "[person_1] will sit on a chair and continue to clean the shoes.",
+            "[person_1] will turn to an electricity grinder.",
+            "[person_1] will stop playing piano.",
+            "[person_1] will stop dancing."
+        ],
+        "reason": [
+            "When [person_1] feels tired , he can't continue with the exercise , otherwise he will run out of energy.",
+            "[person_1] is a small kid and easy to get tired.",
+            "There is a chair near [person_1] and [person_1] can sit on that chair to do her work.",
+            "When [person_1] feels tired , he needs to stop and have a rest to get a recovery of his energy so that he is able to continue the training.",
+            "To relax for a while."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] at?",
+        "answer": [
+            "[person_1] is in his sawmill.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is standing on the side of a busy road.",
+            "[person_1] is in his garage.",
+            "[person_1] is in the sawmill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] show the wood to the camera?",
+        "answer": [
+            "Because [person_1] wants to show the wood after one plane",
+            "[person_1] wants to keep fit.",
+            "[person_1] is playing chess.",
+            "Because [person_1] practiced two harps for a long time.",
+            "[person_1] lets the drill speedily rotate the apple while he is holding a peeler on the skin."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may clean the table.",
+            "She is going to go to bed.",
+            "[person_1] is going to plane it one more time.",
+            "[person_1] will stop kicking high.",
+            "[person_1] will stop watering."
+        ],
+        "reason": [
+            "[person_1] walks away.",
+            "It hasn't looked smooth yet.",
+            "The tap is still on.",
+            "[person_1] is upset.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cut his hand?",
+        "answer": [
+            "[person_1] would become a laughter stock.",
+            "The [person_1] will catch the pancake with her hand.",
+            "Maybe [person_1] will stop playing.",
+            "[person_1] won't be able to continue playing the cymbals.",
+            "[person_1] would bleed a lot."
+        ],
+        "reason": [
+            "The ground is hard.",
+            "If it was too far , [person_1] will have to stand up and go back and forth to get the glue , which is inconvenient for him.",
+            "The cameraman is looking after [person_1].",
+            "[person_1] is too young to play alone , so it is possible that there is an adult in the room with him.",
+            "It is very sharp."
+        ]
+    }
+}

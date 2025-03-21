@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the door behind [person_1] ?",
+        "answer": [
+            "It is all white.",
+            "[person_1] is selling goods at the market.",
+            "In front of a shop.",
+            "[person_1] is on a field.",
+            "[person_1] is in his sawmill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor ?",
+        "answer": [
+            "[person_1] is trying to play guitar.",
+            "The view at the window is beautiful.",
+            "[person_1] is \u00a0 helping his daughter somersaults.",
+            "Because [person_1] wants to see the keyboard more clearly.",
+            "[person_1] is playing chess with [person_1] and [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will continue trying to play guitar.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "It is heavy rainy.",
+            "[person_1] wears skates , holds a ice hockey stick and skates around the ice rink.",
+            "[person_1] seems to enjoy it a lot.",
+            "[person_1] is very focused.",
+            "There is a scale in the video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels uncomfortable ?",
+        "answer": [
+            "The [person_1] will check the cause of the power failure.",
+            "Then [person_1] will fall over possibly.",
+            "[person_1] will go to other room.",
+            "[person_1] will put down the guitar.",
+            "[person_1] will feel uncomfortable."
+        ],
+        "reason": [
+            "Then [person_1] will lie down to relax.",
+            "[person_1] is an infant so that [person_1] cannot stand up.",
+            "Because [person_1] may feel tired keep doing this.",
+            "Because [person_1] needs to look down to ensure that the moves of [person_1] are correct.",
+            "Because there is nothing attracting the attention of [person_1]."
+        ]
+    }
+}

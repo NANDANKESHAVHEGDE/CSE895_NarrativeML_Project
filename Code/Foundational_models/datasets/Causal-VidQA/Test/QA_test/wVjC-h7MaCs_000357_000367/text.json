@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dog_1]?",
+        "answer": [
+            "[dog_1] uses nothing but another coco.",
+            "[dog_1] is opening the coco by hands.",
+            "[dog_1] is next to [dog_2].",
+            "There are two apples.",
+            "It's a headphone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "Because [person_1] is playing the big gong.",
+            "He wants to see if there is anything outside.",
+            "Because [person_1] is playing the toy organ.",
+            "[person_1] is playing with paper.",
+            "[person_1] is washing his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [dog_2] going to do?",
+        "answer": [
+            "[dog_2] is going to pet [dog_2] too.",
+            "The [bed_1] is going to kick.",
+            "The [bed_1] is going to watch the performance of the [dog_2].",
+            "[dog_2] will wear the ring prepared by the [dog_2] and intend to marry him.",
+            "Maybe [dog_2] is going to sleep on [bed_1]."
+        ],
+        "reason": [
+            "[dog_2] lay still and showed no sign of getting up.",
+            "Because she found that using a fork to eat is more convenient.",
+            "[dog_2]'s team wins.",
+            "Because the food has been set on the table.",
+            "[dog_2] holds a gavel , so she is a judge . [dog_2] sits next to [dog_2] and pretend to type something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stands up?",
+        "answer": [
+            "There will be less effect.",
+            "[person_1] can not catch the ball [person_1] throws.",
+            "[person_1] and [person_1] would not practice.",
+            "[dog_1] will agree.",
+            "[dog_1] and [dog_2] will look at [person_1]."
+        ],
+        "reason": [
+            "Because dogs are very attentive to their owner's every move.",
+            "Because there's no protection.",
+            "[person_1] legs could be hurt.",
+            "[person_1] could get good exam result.",
+            "Because at that time the floor will be clean."
+        ]
+    }
+}

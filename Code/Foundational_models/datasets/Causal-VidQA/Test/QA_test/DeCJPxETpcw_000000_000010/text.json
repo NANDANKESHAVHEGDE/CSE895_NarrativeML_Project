@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shorts [person_1] wearing?",
+        "answer": [
+            "The shorts [person_1] wearing is red.",
+            "[person_1] and [person_1] are on the schoolyard.",
+            "It seems like a beer.",
+            "[person_1] and [person_1] are in the garden.",
+            "[person_1] and [person_1] are in their house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [bottle_1] brought into the gym?",
+        "answer": [
+            "[person_1] asks [person_1] to play with her.",
+            "Maybe [person_1] is playing an instrument.",
+            "Because [person_1] needs to add water during exercise.",
+            "[person_1] feels bored after work.",
+            "Maybe [person_1] is waiting for something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack three more cups.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to continue snatching weight lifting.",
+            "[person_1] is going to cross the street.",
+            "[person_1] may clean the inside."
+        ],
+        "reason": [
+            "[person_1] has walked outside.",
+            "[person_1] is a hard - working person.",
+            "[person_1] put the tool in her hands.",
+            "[person_1] is still holding the weight lifting.",
+            "According to the rules of baseball , [person_1] will score a run - home after hitting the ball outs of the field , so he can freely run to all the points on the course without being hindered by his opponent."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off?",
+        "answer": [
+            "[person_1] will stop snatching weight lifting.",
+            "The light will be broken.",
+            "The room will be dark.",
+            "[person_1] would lost his finger.",
+            "[person_1] might try other methods."
+        ],
+        "reason": [
+            "[person_1] can't snatch weight lifting in the dark.",
+            "The [person_1] put the hand into the mouth of the [person_1].",
+            "Because the [person_1] wants a new one.",
+            "The [person_1] is standing right in front of the showerhead.",
+            "Because the force from [person_1] will drag the other person to fall."
+        ]
+    }
+}

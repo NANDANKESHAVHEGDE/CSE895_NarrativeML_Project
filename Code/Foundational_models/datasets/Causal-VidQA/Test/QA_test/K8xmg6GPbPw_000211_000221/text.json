@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are the glasses?",
+        "answer": [
+            "[person_1] is in a garage.",
+            "The glasses are on [person_1] eyes.",
+            "[person_1] is parked on the runway behind [person_1].",
+            "[person_1] is placed on an open shelf.",
+            "It is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear glasses?",
+        "answer": [
+            "[person_1] is nearsighted.",
+            "Because [person_1] wants to ski safely.",
+            "Because [person_1] checks to see if any team cheats.",
+            "Because [person_1] and [person_1] want to build a snowman.",
+            "Because the [person_1] wants to do exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to comment on [person_2].",
+            "[person_1] may keep feeding the goat with [person_2].",
+            "[person_1] may eat the food on [person_1].",
+            "[person_1] is going to hold a stick.",
+            "[person_1] is going to tap dancing."
+        ],
+        "reason": [
+            "Because [person_1] steps aside it.",
+            "[person_1] looks so surprised.",
+            "[person_1] is watching [person_2] practice.",
+            "[person_1] needs to practice many times.",
+            "[person_1] wants to score."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the hat falls down?",
+        "answer": [
+            "[person_2] may feel demotivated.",
+            "[person_2] will stop to play the flute.",
+            "[person_2] will be able to go faster.",
+            "[person_2] will continue to play the flute.",
+            "[person_2] will be happy."
+        ],
+        "reason": [
+            "Because the [person_2] is above the oven.",
+            "[person_2] can pick the hat up before playing the flute.",
+            "[person_2] would not do this because [person_2] didn't know about it.",
+            "[person_2] can pick the hat up after playing the flute.",
+            "Because [person_2] are afraid of water and [person_2] , [person_2] , [person_2] are afraid of wet."
+        ]
+    }
+}

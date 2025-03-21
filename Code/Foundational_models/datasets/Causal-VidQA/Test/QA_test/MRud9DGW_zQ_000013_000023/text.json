@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_3] wearing?",
+        "answer": [
+            "It is white.",
+            "It is gray.",
+            "It is black.",
+            "The [person_3] is on the [person_3].",
+            "The picture is a item [person_3] views from above."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stomp grapes?",
+        "answer": [
+            "Because [person_1] wants to relax.",
+            "Because [person_1] wants to introduce more details about microscope.",
+            "Because [person_1] wants to find something on the ground.",
+            "[person_1] is trying to play the harmonica.",
+            "[person_1] is performing with a clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep sitting outside.",
+            "[person_2] is going to stick the wax strip on the leg of [person_2].",
+            "[person_2] is going to continue trying to stomp the grapes.",
+            "[person_2] is going to tie up the bandage.",
+            "[person_2] is going to keep looking at [person_2] and touching [person_2]."
+        ],
+        "reason": [
+            "After [person_1] failed to flip the [person_1] , it is now turn of [person_2].",
+            "When [person_2] finishes tickling [person_1] and [person_2] , she raises her hands and prepares to do the next joke.",
+            "[person_1] has helped [person_2] to bandage [person_2]'s hand.",
+            "Maybe [person_1] feels very happy.",
+            "Because [person_1] gave him another ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] doesn't stomp the grapes quickly?",
+        "answer": [
+            "Maybe [person_3] will eat more.",
+            "Maybe [person_3] will lose.",
+            "[person_3] will feel embarrassed.",
+            "Then [person_3] doesn't have to comb the [person_3] hair.",
+            "Maybe [person_3] will get a ball."
+        ],
+        "reason": [
+            "The cat's hair is very easy to fall off.",
+            "[person_3] won't be able to pump gas into the car.",
+            "Because there is no more food.",
+            "Grape juice won't come out much.",
+            "The rock is hard."
+        ]
+    }
+}

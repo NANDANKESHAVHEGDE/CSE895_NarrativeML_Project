@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the main color of [person_1]'s shirt?",
+        "answer": [
+            "[person_1]'s shirt is red.",
+            "[person_1]'s shirt is black.",
+            "The [person_1] is riding bike of [person_1].",
+            "The shirt is white.",
+            "There are 15 cups on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1]'s hand constantly moving?",
+        "answer": [
+            "Because [person_1] is playing pen - tapping.",
+            "[person_1] is sitting on the chair.",
+            "To comfort the horse.",
+            "Because the [person_1] is performing to every one.",
+            "[person_1]'s body is bouncing because the [person_1] is bouncing."
+        ]
+    },
+    "predictive": {
+        "question": "Next , what will [person_1] do?",
+        "answer": [
+            "[person_1] will speed up.",
+            "[person_1] wants to catch the [person_1].",
+            "[person_1] is going to cry.",
+            "[person_1] will continue to stand on two hands.",
+            "[person_1] will keep tapping two pens on the table."
+        ],
+        "reason": [
+            "[person_1] is still hungry and she wants to eat more.",
+            "The [person_1] has a problem with the wheel.",
+            "[person_1] will jump because she is repeating the movement.",
+            "[person_1] just fell on the floor.",
+            "[person_1] will keep tapping two pens on the table because he is still lowering his hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't have a pen in [person_1]'s hand?",
+        "answer": [
+            "The bottle would be broken.",
+            "[person_1] would be able to play pen - tapping.",
+            "[person_1] will scream.",
+            "[person_1] wouldn't be able to play pen - tapping.",
+            "[person_1] would not do this work well."
+        ],
+        "reason": [
+            "To buy a new paint roller.",
+            "[person_1] would be able to play pen - tapping because pen - tapping requires the pen as the main tool.",
+            "Because there are many cars in front , so the later cars don't know how to go , which is called traffic jam.",
+            "[person_1] wouldn't be able to play pen - tapping because pen - tapping requires the pen as the main tool.",
+            "[person_1] would probably still sing normally because the cloth doesn't affect anything."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is standing next to a rock.",
+            "It is on the wardrobe.",
+            "The [person_1] is near the grass.",
+            "It is made of plastic.",
+            "[person_1] is in front of the garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] falling?",
+        "answer": [
+            "[person_1] finds something.",
+            "The [person_1] fails to keep balance on the stilts.",
+            "To make it easy to operate.",
+            "[person_1] is performing didgeridoo.",
+            "[person_1] doesn't want the cat run away."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may see the throwing result of [person_1].",
+            "The [person_1] is going to keep throwing the snow into the pavement.",
+            "The [person_1] going to wait for the result of [person_1].",
+            "The [person_1] may stop walking on the stilts for a while.",
+            "The [person_1] may run to catch the ball."
+        ],
+        "reason": [
+            "The [person_1] has just fallen.",
+            "The [person_1] is laying tiles one by one.",
+            "After the failure of [person_1] , [person_1] reached out and took the pan in [person_1]'s hand.",
+            "The [person_1] turns back the body and wants to move.",
+            "The [person_1] passes the [person_1] and catches [person_1] when [person_1] is returned."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the road were slippery?",
+        "answer": [
+            "The [person_1] would not walk with the stilts.",
+            "Maybe [person_1] will play the harp and that person will play the guitar.",
+            "The [person_1] would walk with the stilts.",
+            "[person_1] will be frightened.",
+            "The [person_1] would not walk with the shoes."
+        ],
+        "reason": [
+            "[person_1] is very meticulous.",
+            "Walking stilts on a slippery road is interesting.",
+            "[person_1] is holding him and playing with him so she will not let him slip off",
+            "Walking stilts on a slippery road is dangerous.",
+            "In case that the man got hurt."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is large.",
+            "It is quite small.",
+            "It is in a rugby field.",
+            "It is very clean and neat.",
+            "It is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] moving in the room?",
+        "answer": [
+            "Because the [person_2] is now parked in the garage.",
+            "[person_1] and [person_2] are looking for a way to knock the opponent down.",
+            "[person_1] is taking a bath.",
+            "Because [person_1] is a child.",
+            "[person_1] is joining in the roller skating competition."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will hold the chess pieces.",
+            "[person_2] will keep performing.",
+            "[person_2] will take a break for 5 minutes.",
+            "[person_2] will prepare for his next jump.",
+            "[person_2] will keep shaking his head."
+        ],
+        "reason": [
+            "[person_2] wants to build a high tower.",
+            "Maybe [person_2] likes to face plant.",
+            "[person_2] will show many special skills.",
+            "[person_2] are running in a professional way.",
+            "[person_2] is playing with a car toy , and [person_2] sits next to him from behind."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] skates faster?",
+        "answer": [
+            "The juicer will not work.",
+            "The shoe will be ready for selling.",
+            "[person_2] and the others might have to stop dancing.",
+            "[person_2] will have high score.",
+            "He will go for a shower."
+        ],
+        "reason": [
+            "[person_2] will be tired.",
+            "[person_2] is folding the clothes on the floor.",
+            "[person_2] may win.",
+            "There is only one cloth on [person_2] . If the only one is falling off , then she will be naked.",
+            "[person_2] keeps him from sinking into the water."
+        ]
+    }
+}

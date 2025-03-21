@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is outside the house.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holdings sticks?",
+        "answer": [
+            "[person_2] succeeded at stacking the dice.",
+            "Maybe [person_2] loves the sound of maracas.",
+            "[person_2] is playing the drums.",
+            "[person_2] uses it to practice hands.",
+            "[person_2] feel excited."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play drums.",
+            "[person_1] might stand up.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] may go to finish his job.",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "[person_1] is playing with one hand.",
+            "Because the machine is on.",
+            "To wash the sheets.",
+            "[person_1] is going into the seat of [person_2].",
+            "[person_1] cuts off the flower's stem."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] weren't there?",
+        "answer": [
+            "[person_2] would not play the drums.",
+            "[person_2] would self - play drums.",
+            "[person_2] may take his place.",
+            "[person_2] may learn.",
+            "[person_2] will not need to turn back."
+        ],
+        "reason": [
+            "The real rope would give [person_2] the feeling of jumping rope.",
+            "The practice is dangerous and there is a risk of injury or death.",
+            "No one could guide them and show them how to play well.",
+            "When [person_2] and [person_2] attend the competition , they focus on how to be faster than the other.",
+            "[person_2] would not sit near the drums to play."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing casual clothes.",
+            "He is a student.",
+            "The [person_1] is big.",
+            "A teacher.",
+            "[person_1] is wearing a blue shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the harmonica?",
+        "answer": [
+            "[person_1] is performing for [person_1] and [person_1].",
+            "Because there are not many people on the road and it is very suitable for practice.",
+            "[person_1] is introducing the harmonica.",
+            "[person_1] toys are all in a basket.",
+            "[person_1] is a little nervous."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play the gong in front of him.",
+            "[person_1] intends to learn about the harp.",
+            "[person_1] has an intention of pulling ups so many times.",
+            "[person_1] intends to move on and leave the sandpit.",
+            "[person_1] intends to play the harmonica."
+        ],
+        "reason": [
+            "[person_1] is still under the sea.",
+            "The paper is in [person_1]'s hands.",
+            "Maybe [person_1] been playing the guitar for a long time.",
+            "Maybe [person_1] can move on his own.",
+            "[person_1] is holding the harmonica."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't have the harmonica?",
+        "answer": [
+            "[person_1] may find a shelter.",
+            "[person_1] could not introduce it.",
+            "[person_1] will be broken into pieces.",
+            "[person_1] will be broken into pieces.",
+            "The dice can't be stacked equally inside the cup."
+        ],
+        "reason": [
+            "To compensate for the painting.",
+            "[person_1] would have to find a shelter.",
+            "The hammer would have more space to exert force.",
+            "[person_1] is sitting and introducing the harmonica in the room.",
+            "To stop stacking the dice , the player must finish your current swing and swing the cup again , then stop."
+        ]
+    }
+}

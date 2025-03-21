@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [chair_2]?",
+        "answer": [
+            "[chair_2] is near [person_2].",
+            "[person_2] is holding a drill machine.",
+            "[chair_2] is in the room.",
+            "The picture is attached to the wall.",
+            "It is in front of the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] going outside?",
+        "answer": [
+            "[person_1] is excited about making the basket.",
+            "[person_1] wants to shave hair on [person_1]'s leg.",
+            "[person_1] is excited about riding a [bicycle_1].",
+            "[person_1] is trying roller - skating.",
+            "Because [person_1] holds a small gift in the hands and opens the present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cross the street.",
+            "[person_1] will read another book.",
+            "[person_1] may clean the inside.",
+            "[person_1] will leave.",
+            "[person_1] is going to challenge himself in riding the [bicycle_1]."
+        ],
+        "reason": [
+            "[person_1] is practicing the [bicycle_1] with bricks as an obstacle.",
+            "[person_1] is attacking [person_1] and [person_1] will win this match.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] was blocked by the door."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bicycle_1] falls?",
+        "answer": [
+            "The liquor will flow out.",
+            "[person_1] may keep riding [bicycle_1].",
+            "[person_1] will be very sad.",
+            "[person_1] will invite him to taste the wine.",
+            "[person_1] will agree happily."
+        ],
+        "reason": [
+            "That is the rules of the contest.",
+            "Because no matter how good a game is , they can't play it in the rain.",
+            "[person_1] is outdoor.",
+            "They are worried about [person_1].",
+            "[person_1] makes a lot of effort to practice."
+        ]
+    }
+}

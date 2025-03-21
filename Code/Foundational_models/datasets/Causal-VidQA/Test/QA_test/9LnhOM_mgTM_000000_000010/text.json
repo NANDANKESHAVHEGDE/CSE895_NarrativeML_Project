@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a white t - shirt.",
+            "The [person_1] is in a black t - shirt and jeans.",
+            "The [person_1] is wearing a black t - shirt and black jeans.",
+            "The [person_1] is wearing a polka dot blouse.",
+            "The [person_1] is wearing a red t - shirt , red shorts and black shoes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] have a cutting board?",
+        "answer": [
+            "Running is good for your health.",
+            "People drove here to roast the marshmallows.",
+            "The [person_1] uses the cutting board to place the potato for cutting.",
+            "They are here to practicing martial arts.",
+            "Because the gymers need to know the time when they practice."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may cut the other potatoes in the bowl.",
+            "The [person_1] will try to lick his elbow again.",
+            "The [person_1] may stop playing with the horse.",
+            "The [person_1] is going to wash the blue plate with water.",
+            "The [person_1] is going to polish the remaining part of the table."
+        ],
+        "reason": [
+            "There is still a thick snow in the corner of the court.",
+            "The [person_1] practices piano accordion outside for a time.",
+            "[person_1] wants to check the recording.",
+            "[person_1] has saw a fish and pointed it.",
+            "The [person_1] takes a potato then cuts it into two."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] has a knife for cutting?",
+        "answer": [
+            "The [person_1] can cut potatoes in the bowl.",
+            "[person_1] will have to order some delivery food.",
+            "The [person_1] will know how to play accordion.",
+            "The [person_1] will help the [person_1].",
+            "Then [person_1] probably can't lift the dumbbell."
+        ],
+        "reason": [
+            "To check the condition of [person_1]'s hands.",
+            "The fingers of [person_1] moves on the keyboard quickly.",
+            "To stack dice , the dice must be picked up and slide around the sides of the cup.",
+            "The [person_1] has a knife to work.",
+            "Because [person_1] like the insect biting him."
+        ]
+    }
+}

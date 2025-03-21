@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [tv_1] big?",
+        "answer": [
+            "No , it is not.",
+            "Yes , it is.",
+            "There are a lot of pictures.",
+            "The color of the [tv_1] is orange.",
+            "[tv_1] is sitting on the ground."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the image of [person_1] shown on [tv_1]?",
+        "answer": [
+            "Because [person_1] wants to film the baby , [person_1].",
+            "Because [person_1] is aiming to shoot marbles.",
+            "Because [person_1] is performing in front of a large audience and the image is projected up so the audience can see it better.",
+            "Because [person_1] is taking pictures of memories.",
+            "[person_1] , [tv_1] and [tv_1] are playing mahjong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to jump.",
+            "Perhaps [person_1] is going to jump next.",
+            "[person_1] will try to finish the cups.",
+            "Perhaps [person_1] is going to come home.",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "[person_1] is going to enjoy the melody.",
+            "[person_1] is finishing the rest.",
+            "[person_1] cuts off the flower's stem.",
+            "There is a microphone in front of him.",
+            "[person_1] put down the weights."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will wake up.",
+            "It is a problem for [person_1] to do exercise when he has no way but to choose things of [person_1].",
+            "[person_1] will bump into [person_1].",
+            "[person_1] will use the bricks as a gun.",
+            "[person_1] will be lose."
+        ],
+        "reason": [
+            "The game needs fast speed.",
+            "It is difficult to climb up for such a baby.",
+            "[person_1] will have lunch.",
+            "The show will fail.",
+            "[person_1] wouldn't be able to knock his pen on the table because in the library there shouldn't be any noise."
+        ]
+    }
+}

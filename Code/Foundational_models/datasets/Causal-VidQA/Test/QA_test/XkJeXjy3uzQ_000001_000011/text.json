@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_2]?",
+        "answer": [
+            "[car_2] is white.",
+            "[car_2] is white.",
+            "[car_2] is on the ground.",
+            "The color of [car_2] is brown.",
+            "These people are standing in a park."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing with [person_2]?",
+        "answer": [
+            "It's spring.",
+            "They are close friends.",
+            "Because there is a punching bag.",
+            "To record the scene.",
+            "[person_2] is taking photo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after playing games?",
+        "answer": [
+            "[person_1] will have some food.",
+            "[person_1] is trying to help [person_1].",
+            "[person_1] will grab the leaf blower of [person_1] to use it.",
+            "[person_1] is going to herd [person_1].",
+            "[person_1] is going to change another dance."
+        ],
+        "reason": [
+            "[person_1] has thrown the old drink in the cup . And is going to pour some new drink in it.",
+            "[person_1] is holding up his phone to take a photo.",
+            "[person_1] is hungry after playing the game.",
+            "The [person_1] walks around and checks.",
+            "[person_1] is going to keep singing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there is a plane flying over?",
+        "answer": [
+            "It would be very hard to mark the carpet.",
+            "The glass can not be shaped.",
+            "The dumplings will be squashed.",
+            "They would stop the game and look up.",
+            "[person_1] might get the ball."
+        ],
+        "reason": [
+            "The dough is soft so if [person_2] squeezes it too hard the cake will be squashed.",
+            "It's too dark to see anything.",
+            "The [person_1] hits the ball to the wall.",
+            "They are curious about the plane.",
+            "[car_2] can't sharpen the knife while the whetstone bar is broken."
+        ]
+    }
+}

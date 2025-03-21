@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there any trees in the video?",
+        "answer": [
+            "They are black.",
+            "There are six cups.",
+            "It is a towel.",
+            "It is black.",
+            "Yes."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] run the machine?",
+        "answer": [
+            "[person_1] is using his harp.",
+            "[person_1] is taking about shaving.",
+            "[person_1] runs the machine steadily.",
+            "[person_1] is playing chess with her son.",
+            "[person_1] repairs the shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after reaching the end of the lawn?",
+        "answer": [
+            "[person_1] will turn left.",
+            "[person_1] will put down the inhaler quietly.",
+            "[person_1] will share it with [person_1].",
+            "[person_1] will sing.",
+            "[person_1] will instruct [person_1] how to do."
+        ],
+        "reason": [
+            "[person_1] has to finish what she should do and tries to achieve a good performance.",
+            "[person_1] arrives at the end of the lawn , so [person_1] needs to change a direction.",
+            "[person_1] is talking and eating . when he finishes talking he swallows his food so now he is ready for another bite.",
+            "Because he has had enough to eat and drink and it's time for bed.",
+            "[person_1] is a herder , he needs to lead the cows safely to fields they can graze in."
+        ]
+    },
+    "counterfactual": {
+        "question": "If a cat suddenly sprang out , what will happen?",
+        "answer": [
+            "[person_1] will not hold on and stop the machine.",
+            "[person_1] would feel very sad.",
+            "[person_1] will hold on and start the machine.",
+            "[person_1] will be sad.",
+            "[person_1] will hold on and stop the machine."
+        ],
+        "reason": [
+            "The machine may not hurt the cat.",
+            "Everyone else was wearing shoes and the floor didn't look clean.",
+            "The machine may hurt the cat.",
+            "There is no light provided in the gym.",
+            "The machine may kill the cat."
+        ]
+    }
+}

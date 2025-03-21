@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "A shovel.",
+            "The shoes are pink.",
+            "[person_2] is \u00a0 wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing the wheelbarrow and [person_2] sitting on it?",
+        "answer": [
+            "[person_1] is a child.",
+            "[person_1] is reading a book.",
+            "Perhaps [person_1] and [person_2] are competing.",
+            "Because [person_1] gains momentum to somersault in the air.",
+            "[person_2] is a baby."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to dance in more places.",
+            "[person_1] will stop.",
+            "[person_1] will climb up.",
+            "[person_1] will drive the snow blower to other places.",
+            "[person_1] will perform following the order of their coach."
+        ],
+        "reason": [
+            "[person_1] wants to share his activity with others.",
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica.",
+            "Because there's a wall in front.",
+            "[person_1] is practicing dance in her room.",
+            "[person_1] is raising his hand high."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] pushed the wheelbarrow and [person_1] sat on it?",
+        "answer": [
+            "It was possible that the wheelbarrow would move faster.",
+            "[person_1] has no chance to win.",
+            "[person_1] will have a chance to win.",
+            "[person_1] would feel shy.",
+            "[person_1] would be sad."
+        ],
+        "reason": [
+            "Because that means [person_2] won the game.",
+            "Since [person_2] is a man , [person_2] is stronger and can push the wheelbarrow faster.",
+            "[person_2]'s team will deserve to be happy for the efforts.",
+            "Because [person_1] can't see each card clearly when the cards are stacked together.",
+            "The cows would continue to go ahead and [person_2] would not be there."
+        ]
+    }
+}

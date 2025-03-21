@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the wall behind [person_1] ?",
+        "answer": [
+            "It is a bag.",
+            "The wall is white color.",
+            "[person_1] is standing to stack the dice.",
+            "[person_1] is with [person_1].",
+            "[person_1] looks old."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor ?",
+        "answer": [
+            "[person_1] is standing and stacking cups.",
+            "Because [person_1] wants to see the keyboard more clearly.",
+            "Maybe [person_1] is playing chess with [person_1].",
+            "[person_1] is playing chess with [person_1] and [person_1].",
+            "[person_1] is practicing playing flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] isn't going to continue trying to play flute.",
+            "[person_1] is going to continue trying to practice.",
+            "[person_1] will stop kicking high.",
+            "[person_1] is going to stand on her hands.",
+            "[person_1] might put her glasses down somewhere."
+        ],
+        "reason": [
+            "Maybe [person_1] is having fun.",
+            "Maybe [person_1] is going to talk with someone.",
+            "Because [person_1] looks very tired.",
+            "[person_1] looks so excited.",
+            "[person_1] finishes singing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't know how to play flute ?",
+        "answer": [
+            "[person_1] may come to take her job.",
+            "[person_1] cannot use the sand yet because it is unrefined now.",
+            "[person_1] may throw bad marshmallows away.",
+            "[person_1] would not be able to play flute.",
+            "[person_1]'s teammates will feel happy."
+        ],
+        "reason": [
+            "Because [person_1] would talk instead of doing hand gestures.",
+            "[person_1] fell off the chair because [person_1] did not sit in a cautious way.",
+            "Because [person_1] only fell as [person_1] did not use to walk with crutches.",
+            "Because [person_1] is a boy and the basketball is heavy.",
+            "Maybe [person_1] would learn how to play it."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "[bottle_1] is on the left of [person_1].",
+            "[bottle_1] is placed on the drawer.",
+            "[bottle_1] is in a bag which is on the floor.",
+            "[person_1] is holding a black guitar.",
+            "The [bottle_1] is to the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing exercise?",
+        "answer": [
+            "[person_1] wants to improve his health.",
+            "Because [person_1] is producing a table.",
+            "Maybe [person_1] is playing lute for the [person_1].",
+            "[person_1] is not familiar with this kind of fruit.",
+            "[person_1] really wants to improve her health."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift slowly.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to hold the camera.",
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to drink some water."
+        ],
+        "reason": [
+            "The body of [person_1] needs water after doing exercise.",
+            "Because there are steps next to [person_1].",
+            "[person_1] has finished [person_1]'s action.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does exercise in the wrong way?",
+        "answer": [
+            "The car in front of [person_1] may not move anymore.",
+            "[person_1] won't move.",
+            "It is probable that [person_1] will practice more and try again in next competitions.",
+            "[person_1] will suffer an injury to her legs.",
+            "[person_1] may not stand on the bed."
+        ],
+        "reason": [
+            "[person_1] may feel happy.",
+            "There will be no gap between [person_1] and the giraffes.",
+            "Because [person_1] is just a boy so [person_1] may cry when feels hurt.",
+            "[person_1] , [person_1] and [person_1] won't be able to dance Gangnam Style.",
+            "[person_1] is doing a difficult exercise."
+        ]
+    }
+}

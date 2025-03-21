@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the pants of [person_1]?",
+        "answer": [
+            "The pants of [person_1] is black.",
+            "The [person_1] is red.",
+            "It is made of wood.",
+            "No.",
+            "The [person_1] is being held by the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in this room?",
+        "answer": [
+            "Because [person_1] is playing the gong in this room.",
+            "Because [person_1] is waiting for the command from higher order.",
+            "[person_1] is sitting on the [person_1].",
+            "A big metal bucket is placed on the ground to contain the apples.",
+            "Maybe [person_1] wants to play kickball."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is foreseen that [person_1] will knock on the gong one more time.",
+            "[person_1] will then take out the board.",
+            "[person_1] will wait for the machine working.",
+            "[person_1] will finish drawing the butterfly.",
+            "Maybe [person_1] will sing."
+        ],
+        "reason": [
+            "To show how to cut the board.",
+            "[person_1] is practicing hard.",
+            "The competition starts . [person_1] is in a prepared position.",
+            "[person_1] just knocks on the gong once.",
+            "[person_1] did a stupid action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would [person_1] do if the gong were too low?",
+        "answer": [
+            "[person_1] will borrow someone's xylophone to play.",
+            "[person_1] wouldn't know how to wear the hair bow correctly.",
+            "The [person_1] might be attacked by the horses.",
+            "[person_1] would must sit down to play the gong.",
+            "The [person_1] will add more pigments for the paint."
+        ],
+        "reason": [
+            "[person_1] is bad at somersaults.",
+            "because no one catch it.",
+            "[person_1] threw the ball to [person_1].",
+            "[person_1] is tall.",
+            "[person_1] would not have any hand to hold the pencil."
+        ]
+    }
+}

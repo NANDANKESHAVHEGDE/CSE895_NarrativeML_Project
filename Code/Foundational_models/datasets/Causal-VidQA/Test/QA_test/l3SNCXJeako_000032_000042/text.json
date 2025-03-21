@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "The [potted plant_1] is in the [person_1]'s hand.",
+            "[potted plant_1] is on [potted plant_1].",
+            "[potted plant_1] is on the sidewalk to [person_1]'s right.",
+            "The [potted plant_1] is in [potted plant_1]'s hand.",
+            "[potted plant_1] is behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a shirt?",
+        "answer": [
+            "Maybe [person_1] likes it.",
+            "The [person_1] and [person_1] are excited.",
+            "Because the [person_1] wants to keep warm in the snow.",
+            "Because [person_1] wants the gas to come out of the bottle.",
+            "The [person_1] has a conversation with a girl."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to look at someone.",
+            "[person_1] is going to bed.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to a workout.",
+            "[person_1] may go other place."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] will be tired.",
+            "[person_1] is looking over there now.",
+            "Maybe [person_1] is having fun.",
+            "Maybe [person_1] go out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] beats the wrong beat?",
+        "answer": [
+            "[person_1] will be very happy.",
+            "[person_1] won't have to play that tune again.",
+            "The [person_1] will help the [person_1].",
+            "[person_1] will have to play that tune again.",
+            "[person_1] will reject the phone."
+        ],
+        "reason": [
+            "Big knife is suitable for cutting.",
+            "[person_1] is practicing playing the keyboard.",
+            "[person_1] is standing nearest the pan.",
+            "[person_1] is practicing playing the basketball.",
+            "The [person_1] presses the keys and pulls the bellows."
+        ]
+    }
+}

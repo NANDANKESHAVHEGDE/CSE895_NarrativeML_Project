@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [potted plant_1]?",
+        "answer": [
+            "[person_1] is next to [potted plant_1].",
+            "No.",
+            "The [person_1] is next to [person_1].",
+            "The [potted plant_1] is next to [person_1].",
+            "The [potted plant_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is stacking the cups.",
+            "[person_1] is learning to play chess.",
+            "[person_1] is instructing how to put the material.",
+            "[person_1] is seeing [person_1]'s gifts.",
+            "[person_1] is seeing a drawing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to whistle.",
+            "[person_1] may plan to push [person_1] ahead.",
+            "[person_1] is going to take something to eat.",
+            "[person_1] is going to keep mopping the microscope.",
+            "[person_1] going to have a date with someone?"
+        ],
+        "reason": [
+            "When [person_1] opens the box , [person_1] takes out a beautiful pink shirt.",
+            "[person_1] is eating potato chips while showing the potato chips to the camera.",
+            "[person_1] is going to learn how to keep balance so that he can take off 2 spare wheels on the [person_1].",
+            "[person_1] is going to the [refrigerator_1].",
+            "Because [person_1] made a small mark with it and the carpet is big."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is thirsty?",
+        "answer": [
+            "[person_1] will drink water.",
+            "[person_1] will stop doing that action.",
+            "Maybe [person_1] will stop playing with the cups.",
+            "Maybe [person_1] will stop making the vase temporarily.",
+            "Maybe [person_1] will not pull the rope."
+        ],
+        "reason": [
+            "Maybe [person_1] will drink water.",
+            "[person_1] held the gift and smiled happily.",
+            "Water is essential for the human body.",
+            "[person_1] is more convenient than [person_1] and [person_1] if [person_1] must drive something.",
+            "[person_1] talked passionately."
+        ]
+    }
+}

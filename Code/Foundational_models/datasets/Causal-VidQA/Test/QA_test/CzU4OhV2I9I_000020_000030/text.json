@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [cat_1]?",
+        "answer": [
+            "Black.",
+            "The [cat_1] is outside the house and close to the lobby.",
+            "[cat_1] is white.",
+            "[cat_1] is placed on the table.",
+            "The [cat_1] is pink and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] opening the door?",
+        "answer": [
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "Because [person_1] is playing the game.",
+            "Because [person_1] is stacking cups.",
+            "When [person_1] sits on a chair , [person_1] can hold the guitar.",
+            "Because [cat_1] wants to go out but it cannot open the door."
+        ]
+    },
+    "predictive": {
+        "question": "What is [cat_1] going to do?",
+        "answer": [
+            "[cat_1] is going to keep playing with the human.",
+            "[cat_1] will hug the animal.",
+            "[cat_1] is going to try another one.",
+            "[cat_1] is going to stop dancing because they get shy.",
+            "[cat_1] may go out of the house."
+        ],
+        "reason": [
+            "[cat_1] wants to talk with the other people.",
+            "[cat_1] want to be cuddled.",
+            "Because [cat_1] had already installed the handlebar.",
+            "Because it wants to play with other cats.",
+            "[cat_1] wants to go home."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not open the door?",
+        "answer": [
+            "[person_1] will go to the hospital.",
+            "[cat_1] will not get out of the room.",
+            "The [person_1] will not be against the rules of shot put.",
+            "[person_1] may hit the door.",
+            "[person_1] will ask someone for help."
+        ],
+        "reason": [
+            "Because [cat_1] is unable to open the door by itself.",
+            "[person_1] has been turning around for so many times.",
+            "The knife is sharp and the wound is deep.",
+            "When [person_1] watches , [person_1] continues to open the gift.",
+            "[person_1]'s jacket is too heavy."
+        ]
+    }
+}

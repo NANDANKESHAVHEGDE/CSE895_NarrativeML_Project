@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a long sleeve T - shirt.",
+            "The [person_1] is wearing a white hat.",
+            "The [person_1] is wearing a polka dot blouse.",
+            "The [person_1] is wearing a red t - shirt , red shorts and black shoes.",
+            "The [person_1] is wearing a helmet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] wearing a helmet?",
+        "answer": [
+            "The [person_1] wants to keep balance on the unicycle.",
+            "Because [person_1] wants to see the gift inside.",
+            "Because the [person_1] wants to explore the parking lot.",
+            "Because the [person_1] wants to protect the head while riding.",
+            "because [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "[person_1] will go to process the milk.",
+            "The [person_1] will go to play the things in the [person_1] later.",
+            "The [person_1] may carry on riding in the course.",
+            "[person_1] will ask the others some questions for [person_1] to answer.",
+            "The [person_1] will still close his eyes and try to sleep on the [person_1]."
+        ],
+        "reason": [
+            "The [person_1] is able to ride the unicycle.",
+            "The [person_1] could not keep balance when riding the [person_1].",
+            "Because the [person_1] has not used it before.",
+            "[person_1] is an instructor.",
+            "Because the things in the bowl are dirty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not wear the helmet?",
+        "answer": [
+            "[person_1] and [person_1] may offer to help.",
+            "The legs of the [person_1] could not be protected.",
+            "[person_1] will be injured when [person_1] falls off the street.",
+            "The head of the [person_1] could not be protected.",
+            "[person_1] will not be able to smoke."
+        ],
+        "reason": [
+            "The [person_1] might fall when the [person_1] keeps balance.",
+            "When [person_1] misses the baseball , home run cannot be performed.",
+            "The [person_1] might fall when the [person_1] loses balance.",
+            "it is very cold and there is snow on the ground and the temperature of [person_1] will increase.",
+            "The [person_1] won't fall when the [person_1] loses balance."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening a bottle.",
+            "[person_1] is smiling.",
+            "[person_1] is sitting on their bed playing a guitar.",
+            "[person_1] is breaking an air brick.",
+            "[person_1] is sitting by the desk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "[person_1] is excited about riding a unicycle.",
+            "[person_1] is excited about the newspaper.",
+            "Because [person_1] is competing in roller skating.",
+            "[person_1] is ripping paper.",
+            "[person_1] is happy because [person_1] has just caught the ball."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing the ball?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "[person_1] may direct traffic in the normal way.",
+            "[person_1] may take the ball away.",
+            "She will wash her hands.",
+            "[person_1] will keep skiing."
+        ],
+        "reason": [
+            "Because the performance is not perfect.",
+            "[person_1] went through the effort of making the coffee so she would drink it.",
+            "[person_1] left the chair.",
+            "Working in the cowshed is not easy.",
+            "Because wearing a hat is a little hot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] puts the ball on the ground near where he is sitting?",
+        "answer": [
+            "[person_1] will make up the losing parts.",
+            "The ball will roll into the lake.",
+            "[person_1] will continue to rehearse more.",
+            "[person_1] may be painful and stop instructing.",
+            "[person_1] will stop eating."
+        ],
+        "reason": [
+            "Because they dance fluently.",
+            "The wrapping paper should just cover the item being wrapped \u2014 any excess , especially at the short ends of the box , should be trimmed off.",
+            "A woman can hardly hold a man up.",
+            "[person_1] is right besides [person_1] to the right side.",
+            "The lake is near where he is sitting."
+        ]
+    }
+}

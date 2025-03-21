@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The shirt is beige.",
+            "White.",
+            "The shirt is black.",
+            "The [person_2] is wearing a striped tee and denim shorts.",
+            "It's a white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting on the chair?",
+        "answer": [
+            "[person_1] and [person_2] are playing chess.",
+            "[person_1] and [person_2] are playing roller skating.",
+            "[person_1] is practicing a move in tai chi.",
+            "Because [person_1] can be the coach and is teaching [person_1] and [person_2].",
+            "[person_1] and [person_2] are doing yoga."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to step forward.",
+            "[person_1] intends to defend.",
+            "[person_1] intends to play the harp.",
+            "[person_1] has an intention of being a outstanding music student.",
+            "[person_1] intends to continue playing the organ."
+        ],
+        "reason": [
+            "[person_1] is using [person_1] and moving on the wallpaper.",
+            "Maybe [person_1] is bored.",
+            "[person_1] stares intently at [person_1] fingers while playing the lute.",
+            "[person_1] is thinking to win the match.",
+            "[person_1] is wearing a guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] makes a tactical move?",
+        "answer": [
+            "Maybe [person_1] , [person_2] , and [person_2] will get into some trouble while doing Zumba.",
+            "[person_1] and [person_2] will help [person_1] hold the barbell and prevent the barbell from hitting [person_1].",
+            "Maybe [person_1] will lose.",
+            "[person_1] would bump into [person_2].",
+            "The ball may hit [person_1]'s head."
+        ],
+        "reason": [
+            "[person_2] succeeds with that tactic.",
+            "There are many other machines in the gym which [person_2] can explore with.",
+            "[person_2] needs to raise her arms to gain momentum.",
+            "Because viewers need the subtitles to understand what is [person_2] doing.",
+            "[person_2] is running too fast , so [person_2] passes the ball when it comes."
+        ]
+    }
+}

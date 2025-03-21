@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of cloth of [person_1]?",
+        "answer": [
+            "White.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "The shirt is red.",
+            "The arm."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put two bottles together?",
+        "answer": [
+            "Because [person_1] wants to use the friction between them to open the cap.",
+            "[person_1] is playing the accordion.",
+            "[person_1] needs to strip the apple speedier.",
+            "[person_1] and [person_1] are playing chess.",
+            "[person_1] is tired."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is likely to hug [person_1].",
+            "[person_1] is going to stop playing cong.",
+            "[person_1] is going to share one of the bottles to his friends.",
+            "[person_1] is going to sit down.",
+            "It is possible that [person_1] will fall down the bed."
+        ],
+        "reason": [
+            "[person_1] is passing a beer bottle to the man in front of him.",
+            "[person_1] stands outside and watches.",
+            "[person_1] looks like a bad whistler.",
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] is showing the hands up and shaking the body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if his tooth falls off when he's biting on the bottle cap?",
+        "answer": [
+            "The [person_1] would not know what the [person_1] was given.",
+            "Teeth of [person_1] will bleed.",
+            "The [person_1] would take it.",
+            "Teeth of [person_1] won't bleed.",
+            "[person_1] would not dance with [person_1] as a couple."
+        ],
+        "reason": [
+            "The wind blew out the cigarette.",
+            "Abnormal tooth loss won't cause gums to bleed when impacted by external forces.",
+            "Because nobody can help her.",
+            "Abnormal tooth loss can cause gums to bleed when impacted by external forces.",
+            "They are curtains."
+        ]
+    }
+}

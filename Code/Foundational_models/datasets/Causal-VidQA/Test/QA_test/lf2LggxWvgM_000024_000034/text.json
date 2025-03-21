@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is opening present.",
+            "Because [person_1] is reading a book.",
+            "[person_1] is playing the lute with [person_1] and [person_1] like a band.",
+            "[person_1] is interested in playing a game.",
+            "Because [person_1] wants to play the violin in a quiet room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to proceed to spray all the ceiling.",
+            "She is going to play with her toys.",
+            "[person_1] is going to land on the sand pit.",
+            "[person_1] continues to open gifts.",
+            "[person_1] is going to record a video about herself."
+        ],
+        "reason": [
+            "Because [person_1] is playing the ball and throwing it is his way to play it.",
+            "Maybe [person_1] is happy to receive a gift.",
+            "Because [person_1] works as a TV editor who is looking straight to read the news.",
+            "Maybe [person_1] will clap his hands.",
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not receive the gift?",
+        "answer": [
+            "Maybe [person_1] may suffer from sunstroke.",
+            "The cup will be fallen down on the table.",
+            "[person_1] will write again.",
+            "[person_1] will be sad.",
+            "[person_1] and [person_1] would get serious injury on their chests."
+        ],
+        "reason": [
+            "It may be dirty to eat.",
+            "Touching the fire is dangerous.",
+            "[person_1] left too much excess paper on the package.",
+            "[person_1] has no gift.",
+            "The birds are only attracted when someone has food."
+        ]
+    }
+}

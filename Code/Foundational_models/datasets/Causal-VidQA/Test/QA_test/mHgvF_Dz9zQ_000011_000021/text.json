@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is in a roller skating floor.",
+            "[chair_1] is behind the [person_2].",
+            "The [chair_1] is next to the wall.",
+            "[person_2] is sitting on [chair_1].",
+            "The [chair_1] is in the living room and in front of the TV."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] roast marshmallows?",
+        "answer": [
+            "[person_1] is looking down at both of his hands while he plays so he doesn't mess up.",
+            "[person_1] does that by sticks and crouches himself.",
+            "For spiting out the bottle cap.",
+            "Because it's easy to get over there.",
+            "[person_1] wants to build her core strength."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do after roasting marshmallows\uff1f",
+        "answer": [
+            "[person_1] will loose the rein.",
+            "They are going to clean the table.",
+            "[person_2] will play with [person_1].",
+            "[person_1] is going to put on the black shoe with white strips on the floor.",
+            "[person_1] will try her best to achieve a superb performance."
+        ],
+        "reason": [
+            "They look similar and they are in a room.",
+            "[person_2] is a caring and considerate person.",
+            "[person_2] has done this dishes.",
+            "[person_2] is more skillful in this game.",
+            "After eating , [person_2] wants to have some other fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fails to roast marshmallows time after time?",
+        "answer": [
+            "[person_2] will sit on the cart which is stationary.",
+            "[person_2] would help [person_1] do it.",
+            "[person_1] will not play snow kitting.",
+            "[person_1] would help [person_2] do it.",
+            "[person_1] will come into collision with [person_1]."
+        ],
+        "reason": [
+            "Grape stomping for a while may be tiring.",
+            "[person_2] is a kind girl who likes to help others.",
+            "The [person_2] is learning how to walk so the [person_2] can't keep her balance well.",
+            "[person_1] is a kind girl who likes to help others.",
+            "Because they are hugging each other and [person_1] is heavier than [person_2]."
+        ]
+    }
+}

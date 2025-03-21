@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is nice - decorated.",
+            "It is well - decorated with pictures.",
+            "It is full of equipment.",
+            "The room is a bit dark.",
+            "It is a big room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the shoes?",
+        "answer": [
+            "cleaning the shoe with shoe polish is cleaner than cleaning with hands.",
+            "[person_1] does parkour by jumping over a chair and the [person_1].",
+            "[person_1] sits on a chair to play the drums better.",
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello.",
+            "[person_1] repairs the shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to fix the shoes.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will continue to move.",
+            "[person_1] will probably go on folding the napkin.",
+            "[person_1] will stand aside there or leave."
+        ],
+        "reason": [
+            "[person_1] used a powder - buff to apply foundation cream on [person_1]'s face.",
+            "[person_1] is being helped by [person_1] to keep her balance.",
+            "[person_1] is moving the hoop from her hands down to her waist.",
+            "[person_1] may continue shining shoes.",
+            "[person_1] is concentrating on making the basket deftly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "The juicer can not be used.",
+            "[person_1] may be afraid.",
+            "[person_1] may be afraid.",
+            "[person_1] will not continue.",
+            "[person_1] maybe afraid."
+        ],
+        "reason": [
+            "The room will get dark then.",
+            "It's daytime outside.",
+            "The equipment can not be used when there is no power.",
+            "It's daytime.",
+            "There is no power to let the machine work."
+        ]
+    }
+}

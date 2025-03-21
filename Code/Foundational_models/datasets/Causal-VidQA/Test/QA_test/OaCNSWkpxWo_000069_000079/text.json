@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is under the picture.",
+            "[person_1] is standing outside the door.",
+            "[person_1] is standing outside the fence.",
+            "[person_1] is on stage.",
+            "[person_1] is sitting in the living room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit there?",
+        "answer": [
+            "[person_1] looks quite careful and intent.",
+            "[person_1] is shearing [person_1].",
+            "because [person_1] has to do that or [person_1] will fall.",
+            "[person_1] sits there to read the book.",
+            "[person_1] and [person_1] are analyzing hits in tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read the next pages of the book.",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] will leave.",
+            "[person_1] is going to cross the street."
+        ],
+        "reason": [
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] has opened the next page.",
+            "[person_1] is very excited.",
+            "Because [person_1] is hungry.",
+            "[person_1] feels that the food is not good."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes reading the whole book?",
+        "answer": [
+            "[person_1] will put the book away and go out to play.",
+            "[person_1] will change pants.",
+            "His head will be easily hit by the stones.",
+            "[person_1] will not be able to smoke.",
+            "[person_1] will change another one."
+        ],
+        "reason": [
+            "The force of collision between [person_1] and [person_1] is very strong . So they would get serious injury on their head is they did not wear helmets.",
+            "The ball will probably hit them in the head.",
+            "[person_1] opened the next pages and read so quickly.",
+            "Boiling potato is the easiest way to peel their skin.",
+            "To help relieve the pain at the back."
+        ]
+    }
+}

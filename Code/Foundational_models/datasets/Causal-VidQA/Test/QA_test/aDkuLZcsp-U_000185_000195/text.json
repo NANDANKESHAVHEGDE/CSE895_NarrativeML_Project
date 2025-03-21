@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a boot.",
+            "[person_1] is holding two dumbbells.",
+            "[person_1] is holding a microphone.",
+            "[person_1] is holding two sticks.",
+            "[person_1] is holding [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding sticks?",
+        "answer": [
+            "[person_1] is roller skating after [person_1].",
+            "Because [person_1] is playing xylophone.",
+            "[person_1] takes each cup and arranges them higher and higher.",
+            "[person_1] is doing for fun.",
+            "[person_1] is waiting for his turn to cut his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] is going to stand on her hands.",
+            "[person_1] is going to keep playing the xylophone.",
+            "[person_1] is going to do some difficult techniques.",
+            "[person_1] may keep trying to stand by hands."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] has eaten the apple in the hand.",
+            "[person_1] has bent back.",
+            "[person_1] is stretching leg very hard.",
+            "Because her hands is moving and she keeps looking at the xylophone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the xylophone is broken?",
+        "answer": [
+            "[person_1] may hurt his hand by the knife.",
+            "The pictures on the top of the closet will fall down.",
+            "[person_1] may have a new xylophone instead.",
+            "[person_1] may stop doing squats and sitting down in the [person_1] to massage his legs.",
+            "[person_1] has to wait for other people."
+        ],
+        "reason": [
+            "The slides are very thin and fragile.",
+            "Because [person_1] seems to be the only athlete left.",
+            "Because it is a music class and student needs instrument to practice skills.",
+            "The fire is too dangerous.",
+            "[person_1] is afraid."
+        ]
+    }
+}

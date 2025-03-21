@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are the curtains?",
+        "answer": [
+            "No.",
+            "The plastic cup is green.",
+            "[person_1] is near the corner.",
+            "There are grapes in the vat.",
+            "The curtains are black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing chess in the room?",
+        "answer": [
+            "[person_1] is playing it.",
+            "[person_1] is practicing.",
+            "He hitches the tire from the inside with the hammer and lifts them.",
+            "They compete with each other.",
+            "The membrane will prevent her from opening the bottle."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will fix the shoe.",
+            "[person_1] will think about the next move.",
+            "[person_1] will continue interpreting something.",
+            "[person_1] will seal another bags.",
+            "[person_1] and [person_2] will continue to play chess."
+        ],
+        "reason": [
+            "[person_1] loves it.",
+            "[person_1] is practicing running.",
+            "[person_1] is right next to the place where the onions are cut.",
+            "[person_1] is starting to follow.",
+            "[person_1] and [person_2] are playing chess."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it is dark?",
+        "answer": [
+            "The hand of [person_1] will blood.",
+            "[person_1] will go home.",
+            "The [person_1] would be left behind.",
+            "The [person_1] will hug the cat.",
+            "Perhaps [person_1] will stop snowboarding."
+        ],
+        "reason": [
+            "[person_1] will turn on the light.",
+            "Because the hammer is very hard and heavy , it might cause severe injuries if it hit someone.",
+            "[person_1] and [person_1] can not see in the dark.",
+            "The axe is too small to cut large pieces of wood.",
+            "[person_1] and [person_1] are sharing a hotdog ; they won't have to share if they have their own."
+        ]
+    }
+}

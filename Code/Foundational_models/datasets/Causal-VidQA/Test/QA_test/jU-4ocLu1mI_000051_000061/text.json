@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_6]?",
+        "answer": [
+            "The color of [chair_6] is white.",
+            "The color of [chair_6] is yellow.",
+            "The color of [chair_6] is brown.",
+            "A mini bicycle is in the gift box.",
+            "[chair_6] is in bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Maybe [person_1] is in the wedding.",
+            "Because [person_1] is practicing with the weights in the room.",
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] is putting utensils on [person_1].",
+            "[person_1] is interested in hitting the cups on the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Perhaps [person_1] will continue to perform.",
+            "[person_1] will go to bed.",
+            "[person_1] will find another tire.",
+            "Find somewhere to relax.",
+            "[person_1] will see where the ball falls down."
+        ],
+        "reason": [
+            "[person_1] is riding fast.",
+            "[person_1] is enjoying when [person_1] does it.",
+            "It seems that [person_1] is manufacturing something made from cocos.",
+            "[person_1] is on the stage and plays the song.",
+            "[person_1] will continue to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] falls?",
+        "answer": [
+            "[person_2] will stop kicking high.",
+            "[person_2] will be ashamed.",
+            "[person_2] will put the guitar on the dining table.",
+            "[person_2] will stop playing.",
+            "[person_2] will be eliminated."
+        ],
+        "reason": [
+            "[person_2] feels excited.",
+            "They won't want to make noise at the supermarket.",
+            "Because the floor is so firm.",
+            "It will make noise.",
+            "[person_2] is on the stage."
+        ]
+    }
+}

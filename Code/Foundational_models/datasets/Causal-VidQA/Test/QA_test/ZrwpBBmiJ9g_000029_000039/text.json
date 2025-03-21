@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "It's a beer.",
+            "[person_1] looks like a baby.",
+            "[person_1] looks very pretty.",
+            "[person_1] looks old.",
+            "[person_1] looks a bit chubby."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is opening her gift.",
+            "[person_1] is feeding [person_1].",
+            "[person_1] is whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to whistle and make it sound like a song.",
+            "[person_1] is going to keep dancing.",
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to stand again."
+        ],
+        "reason": [
+            "[person_1] looks bored and does it for fun.",
+            "[person_1] is snowmobiling.",
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is keeping still.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] records her whistle?",
+        "answer": [
+            "[person_1] will be more confident.",
+            "[person_1] will lose.",
+            "[person_1] can listen again if [person_1] wants.",
+            "[person_1] may no be smiling.",
+            "The baby will be sad."
+        ],
+        "reason": [
+            "[person_1] will make this action better.",
+            "Because [person_1] is near by [person_1].",
+            "It was hard but [person_1] did it.",
+            "[person_1] is wearing headphones to listen to music.",
+            "Maybe [person_1] like that melody."
+        ]
+    }
+}

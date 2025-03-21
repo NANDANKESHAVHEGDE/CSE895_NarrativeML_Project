@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the ceiling light?",
+        "answer": [
+            "[person_1] is holding it.",
+            "The ceiling light is on the ceiling in front of him.",
+            "It is brown.",
+            "[person_1] is on the table.",
+            "The hat is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn left?",
+        "answer": [
+            "[person_1] turns left to turn towards the camera.",
+            "[person_1] stands to play the drums better.",
+            "[person_1] plays harmonica for fun.",
+            "[person_1] is joking around.",
+            "[person_1] wants to have a beautiful shape of body."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to dance in more places.",
+            "[person_1] will go home to upload the video.",
+            "[person_1] will drive the snow blower to other places.",
+            "[person_1] will leave the parking lot.",
+            "[person_1] will keep tapping the pen down and get closer to the camera."
+        ],
+        "reason": [
+            "Because [person_1] sits on the chair . [person_1]'s head turned towards [person_1].",
+            "Because [person_1] is a kid and no one comes to the side of [person_1].",
+            "[person_1] will continue to knock on the table with his right hand because [person_1] is constantly tapping and has no intention of stopping.",
+            "Because there is a tool on the ground.",
+            "[person_1] will keep tapping the pen down and get closer to the camera because [person_1] is moving towards the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the light suddenly went out?",
+        "answer": [
+            "The [person_1] can not copy the card.",
+            "Maybe [person_1] will still eat that burger.",
+            "[person_1] will then jump into the lake.",
+            "Maybe [person_1] would have stopped.",
+            "The [person_1] will check the current source first and ask for help."
+        ],
+        "reason": [
+            "Maybe [person_1] won't be able to drink it.",
+            "Then [person_1] will continue writing.",
+            "Maybe [person_1] would have stopped because of surprise.",
+            "But [person_1] won't be able to learn how to skate by himself.",
+            "Because [person_1] will be unwilling to stay here anymore."
+        ]
+    }
+}

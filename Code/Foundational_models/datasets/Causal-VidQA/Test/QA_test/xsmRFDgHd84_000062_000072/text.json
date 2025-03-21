@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is sitting on the chair.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is sitting on bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] open the book?",
+        "answer": [
+            "Because [person_1] wanted to show the book to people there.",
+            "[person_1] is sitting in the chair.",
+            "[person_1] is drying [person_1]'s hair.",
+            "Because [person_1] wants to hold the breath.",
+            "[person_1] has to ride the wheel backward to let the unicycle goes backward."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is talking about his opinion.",
+            "[person_1] is going to talking about the book.",
+            "[person_1] will continue to play.",
+            "[person_1] is going to use the harp.",
+            "[person_1] will continue to play the cello."
+        ],
+        "reason": [
+            "Maybe [person_1] will continue playing.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] is looking at the book and speaking something.",
+            "[person_1] is holding the bottle.",
+            "[person_1] is [person_1]'s partner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no one sitting in front of [person_1]?",
+        "answer": [
+            "[person_1] would find a place to charge it.",
+            "[person_1] would fall behind.",
+            "[person_1] could not lift the weights.",
+            "[person_1] may not say anything.",
+            "Their mother would be mad about it."
+        ],
+        "reason": [
+            "Because there were no one listening to [person_1].",
+            "Because [person_1] didn't expect that.",
+            "There are no other lights on the stage.",
+            "To find the ring first.",
+            "The wine inside would splash out."
+        ]
+    }
+}

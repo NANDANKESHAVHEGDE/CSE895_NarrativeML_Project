@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is shooting basketball.",
+            "[person_1] is stacking dice.",
+            "[person_1] is opening the door.",
+            "[person_1] is smashing a tire.",
+            "[person_1] is stacking the dice."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use a sledgehammer?",
+        "answer": [
+            "Heavy hammer is good for exercising.",
+            "It makes [person_1] smash easily.",
+            "The rope was dropped.",
+            "[person_1] wants to help [person_1] shave.",
+            "To propose to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] might climb onto a branch.",
+            "[person_1] is likely to stop playing the keyboard.",
+            "[person_1] will certainly continue to play the lute.",
+            "[person_1] will have something to drink.",
+            "[person_1]'ll continue making pottery."
+        ],
+        "reason": [
+            "[person_1] must be thirsty and hot.",
+            "[person_1] is touching the shoe.",
+            "It is obvious that [person_1] is doing an TV program.",
+            "Maybe [person_1] finished the song.",
+            "Because [person_1]'s going to calculate today's payoff."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] struck at the wall?",
+        "answer": [
+            "[person_1] would feel sad.",
+            "[person_1] may forget to put something in [person_1].",
+            "[person_1] will be broken.",
+            "The wall would be broken.",
+            "Then [person_1] won't turn around here."
+        ],
+        "reason": [
+            "Because the model had drew eyebrows.",
+            "Because it's time for lunch.",
+            "The wall is hard but crisp.",
+            "There is only [person_1] here.",
+            "[person_1] feels a pain."
+        ]
+    }
+}

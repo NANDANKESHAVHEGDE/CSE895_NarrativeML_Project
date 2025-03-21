@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on [dining table_1]?",
+        "answer": [
+            "There is nothing on [dining table_1].",
+            "There are drinks and some food.",
+            "It's a watch.",
+            "A handbag.",
+            "They are watching the proposal."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] walking behind [person_1]?",
+        "answer": [
+            "[person_2] and [person_2] are preparing to open the presents.",
+            "[person_1] wanna play with [person_2] for fun.",
+            "[person_2] is helping [person_1] on practicing roller skating.",
+            "Because [person_1] wants to make bubbles.",
+            "[person_1] loves playing with these objects."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] is going to skate better.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will check the result."
+        ],
+        "reason": [
+            "[person_1] is fond of doing it.",
+            "[person_1] is jumping very high.",
+            "[person_1] is going to keep his balance.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] is a beginner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not walk behind [person_1]?",
+        "answer": [
+            "[person_1] would going to face a strong fall.",
+            "[person_1] would continue to dance.",
+            "[person_1] would try to break it by hands again.",
+            "[person_1] will not achieve results in a short time.",
+            "[person_1]'ll stop climbing and go home."
+        ],
+        "reason": [
+            "[person_1] lost his balance and slipped down.",
+            "[person_2]'s head is not badly injured .",
+            "[person_1] eats too many sandwiches once.",
+            "Because it might help [person_1] see clearly.",
+            "The air pressure might increase as the bottle is being shook."
+        ]
+    }
+}

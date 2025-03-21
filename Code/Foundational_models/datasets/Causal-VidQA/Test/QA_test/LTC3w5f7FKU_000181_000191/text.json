@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] is wearing?",
+        "answer": [
+            "The shirt is a black shirt with flowers.",
+            "[person_2] is wearing a black shirt.",
+            "The t - shirt is black.",
+            "The shirt [person_2] wearing is yellow",
+            "The [person_2] is wearing a cap."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing?",
+        "answer": [
+            "They are in the class break and want to have some fun.",
+            "The girl is trying to push the pillow out.",
+            "This is an unprofessional music play.",
+            "[person_2] is talking about his barber shop.",
+            "[person_2] is cutting hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to sit still.",
+            "[person_1] will continue to play.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] will get the job done."
+        ],
+        "reason": [
+            "Because [person_1] has finished measuring the gap.",
+            "Feedback is needed in the classroom.",
+            "[person_2] is helping [person_1] cut his hair and [person_1] must not move.",
+            "[person_1] finishes singing.",
+            "[person_1] is looking at [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the beard is shaved?",
+        "answer": [
+            "[person_1] will look more handsome.",
+            "[person_1] will have to face laughter from others.",
+            "[person_1] will hold the crocodile before the crocodile bites [person_1].",
+            "[person_1] can taste another type of wine.",
+            "[person_1] may have to sit down and stop doing high kick."
+        ],
+        "reason": [
+            "[person_1] can not see anything.",
+            "Because [person_1] 's eyesight is poor.",
+            "[person_1] will wear his clothes because he doesn't want to be awkward in a public place.",
+            "[person_1] follows the rules when playing.",
+            "The beard of [person_1] is too long."
+        ]
+    }
+}

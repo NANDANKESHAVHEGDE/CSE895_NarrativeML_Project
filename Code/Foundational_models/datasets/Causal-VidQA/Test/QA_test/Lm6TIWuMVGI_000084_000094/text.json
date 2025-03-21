@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is near the tree.",
+            "[chair_1] is in the corner of the room.",
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "[chair_1] is sitting on it."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] talking to [person_2]?",
+        "answer": [
+            "[person_2] wants to teach [person_1] how to skate.",
+            "Because [person_1] wants to propose to her.",
+            "[person_1] wants to play games.",
+            "To help [person_1] keep his balance.",
+            "[person_1] is talking to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after playing games?",
+        "answer": [
+            "[person_1] is going to jump and then land on the sand.",
+            "The [person_1] will put the clothes into the sunshine.",
+            "[person_1] will go on blowing the clarinet.",
+            "[person_1] will go to the shop.",
+            "[person_1] is going to go towards the other children."
+        ],
+        "reason": [
+            "There is a shop near [person_1].",
+            "[person_1] feels uncomfortable with it on.",
+            "It seems that [person_1] is curious about what it is.",
+            "[person_1] stands up after getting the knee down.",
+            "[person_1] is doing the job of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] goes to shop?",
+        "answer": [
+            "[person_2] will deflect.",
+            "The [person_2] might surprise the children.",
+            "[person_2] will accompany [person_1].",
+            "The man will save [person_1].",
+            "They might be lying in the ground."
+        ],
+        "reason": [
+            "[person_1] breaks the rules of class.",
+            "Because there is no force on the rope and the rope will go back to its initial condition.",
+            "To see what goes wrong with it.",
+            "They are good friends and have the plan of shopping.",
+            "The [person_1] is learning how to walk so the [person_1] can't keep her balance well."
+        ]
+    }
+}

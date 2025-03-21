@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_2]?",
+        "answer": [
+            "[book_2] is a wood cutting board.",
+            "[book_2] is on the piano in [person_1]'s left hand.",
+            "The [book_2] is leaned against the wall , next to the table.",
+            "[person_1] is sitting in the room.",
+            "The [book_2] is quite big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn [person_1]'s head to the right?",
+        "answer": [
+            "[person_1] will show the direction for [person_1].",
+            "The [person_1] is walking on the stilts.",
+            "Because [person_1] is doing lunges.",
+            "[person_1] turns [person_1]'s head to see how [person_2] taps.",
+            "Because [person_1] wants to get a beer from it."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] is going to cut the extra strings.",
+            "[person_2] will go ahead.",
+            "[person_2] will keep slamming [person_2]'s hand on the table and then knocking [person_2]'s pen down.",
+            "[person_2] will continue to raising his eyebrows.",
+            "[person_2] will cut [person_2] into pieces."
+        ],
+        "reason": [
+            "[person_2] is still shaking.",
+            "[person_2] will keep slamming [person_2]'s hand on the table and then knocking [person_2]'s pen down because [person_2] keeps repeating it.",
+            "To do the head stand still.",
+            "Because [person_2] tried twice without success , it may be too heavy for [person_2].",
+            "[person_2] is putting his hands on the steering wheel."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the pen in [person_2]'s hand fell out?",
+        "answer": [
+            "[person_2] might stand up without crying.",
+            "The [person_2] will not get injured.",
+            "[person_2] would stop tapping.",
+            "[person_2] will go to get it back.",
+            "[person_2] will be happy."
+        ],
+        "reason": [
+            "[person_2] would stop tapping because the pen is her important tool for making sounds.",
+            "Because [person_2] is shaving on the balloon before it explodes.",
+            "[person_2] would tap the pen with two hands but the sound produced would be very different.",
+            "Maybe [person_2] will be practicing.",
+            "when the floor collapses , [person_2] and [person_2] are standing on it."
+        ]
+    }
+}

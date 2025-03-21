@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1] in the room?",
+        "answer": [
+            "[person_1] is looking at the metal bass strings of the bass guitar.",
+            "[person_1] has a long hair.",
+            "[person_1] looks a bit chubby.",
+            "[couch_1] is the thing [person_1] is sitting on.",
+            "The [couch_1] , [couch_1] , [couch_1] , [couch_1] and [person_1] are behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit on the [couch_1]?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] is brushing [person_1].",
+            "Because the [person_1] completed the command she gave.",
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[person_1] wants to be more comfortable to play the accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may walk out.",
+            "[person_1] may still sit and try to practice playing the accordion.",
+            "[person_1] may clean the [person_1].",
+            "[person_1] may clean the inside.",
+            "[person_1] may stand up."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is facing [person_1].",
+            "Because [person_1] is sitting on the [couch_1] and playing the accordion.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws the accordion out?",
+        "answer": [
+            "[person_1] will ask his collegue to help him.",
+            "[person_1] will have to buy some.",
+            "[person_1] will bleed.",
+            "[person_1] can't raise her hand.",
+            "[person_1] will not play the accordion."
+        ],
+        "reason": [
+            "When you grow up , you can make decision by yourself.",
+            "[person_1] holds nothing in hands.",
+            "There are a lot of pieces of mango on the dish.",
+            "The life jackets will protect [person_1] and [person_1] if they fall down the sea.",
+            "The [person_1] teaches the [person_1] to perform and [person_1] can get good grades depending on [person_1] mostly."
+        ]
+    }
+}

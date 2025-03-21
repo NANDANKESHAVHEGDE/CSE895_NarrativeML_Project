@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [cup_1]?",
+        "answer": [
+            "[dining table_1] is behind the [cup_1].",
+            "The [cup_1] is on the [dining table_1].",
+            "[dining table_1] is round ball.",
+            "It is in the parking lot.",
+            "[cup_1] is behind the [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is putting utensils on [dining table_1].",
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is interested in hitting the cups on the [dining table_1].",
+            "Maybe [person_1] is in the class."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "It is probable that [person_2] will continue to play the cello.",
+            "[person_2] will be the next one to do a back flip.",
+            "It is anticipated that [person_2] will start to throw the ball.",
+            "[person_2] may also dive.",
+            "[person_2] is likely to give information for [person_2]'s partner."
+        ],
+        "reason": [
+            "[person_2] is holding the hoop and tries it.",
+            "Because [person_2] wants to blend the food and spices.",
+            "Because [person_2] wants to win.",
+            "[person_2] is speaking to [person_2]'s partner.",
+            "Maybe [person_2] is practicing with [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "Maybe [person_2] will start playing the game in the room.",
+            "[person_2] and [person_2] may stop dancing and singing karaoke.",
+            "Maybe [person_2] will stop playing the game in the room.",
+            "Maybe [person_2] will stop singing karaoke.",
+            "Maybe [person_2] will stop playing the game outside the room."
+        ],
+        "reason": [
+            "[person_2] cannot turn on any fan.",
+            "There will be much light in the room.",
+            "[person_2] needs electricity to work.",
+            "There will be no light in the room.",
+            "The microphone , the music and the light will be off."
+        ]
+    }
+}

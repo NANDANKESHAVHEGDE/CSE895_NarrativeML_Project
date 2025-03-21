@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bowl_1]?",
+        "answer": [
+            "It is on the shelf.",
+            "It is on the left of [bowl_1].",
+            "[bowl_1] is on the table.",
+            "[bowl_1] is in the floor.",
+            "The color of [bowl_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing games?",
+        "answer": [
+            "It's the break time and [person_1] is having fun.",
+            "[person_1] wants to play with others.",
+            "[person_1] wants to teach [person_1] how to skate.",
+            "[person_1] wants to play chess.",
+            "[person_1] is practicing shooting with some people."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after watching the game?",
+        "answer": [
+            "[person_2] will join it.",
+            "[person_2] may shave the cube a few more times.",
+            "[person_2] will take it back to the room.",
+            "[person_2] will close his eyes.",
+            "[person_2] will comb her bangs to make the hair volume look more."
+        ],
+        "reason": [
+            "It seems that [person_2] is trying her best from her expression.",
+            "[person_2] seems so happy and interested in the game.",
+            "[person_2] almost chooses to go someplace to play after she finishes exercise.",
+            "The road on the cliff is dangerous.",
+            "Because his hands are dirty after playing the cake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the teacher comes?",
+        "answer": [
+            "The tire would never enter into the ground.",
+            "They will drive home together.",
+            "[bowl_1] will let him in.",
+            "[bowl_1]'ll fix it for a long time.",
+            "They would stop the game."
+        ],
+        "reason": [
+            "Gym will get dark.",
+            "They are afraid of being lectured about playing the game.",
+            "[person_1] almost passed this level.",
+            "Because stealing is against the law.",
+            "Everyone wouldn't be able to keep on playing."
+        ]
+    }
+}

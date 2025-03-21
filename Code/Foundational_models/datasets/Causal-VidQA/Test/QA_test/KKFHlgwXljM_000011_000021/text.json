@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [remote_1]?",
+        "answer": [
+            "It is on [dining table_1].",
+            "It is at the corner of the room.",
+            "It is behind [dining table_1].",
+            "It is on the floor.",
+            "[remote_1] is young and small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] sitting in this room?",
+        "answer": [
+            "[person_2] also wants to play the keyboard.",
+            "To help support [person_2] to exercise.",
+            "[person_1] , [person_2] are opening presents.",
+            "Her father is not in company with her.",
+            "Because [person_1] has just finished the speech."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue to comb his hair with this comb.",
+            "[person_1] may cut the leaf on her hand.",
+            "[person_1] is going to not eat.",
+            "[person_1] is going to find the missing present in the box.",
+            "[person_1] is going to continue eating."
+        ],
+        "reason": [
+            "There are many sand on his feet.",
+            "[person_1] is very small.",
+            "[person_1] has food on hand.",
+            "[person_1] opens the box but there is nothing inside.",
+            "[person_1] is leaning forward to take the camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were thunderstorms outside?",
+        "answer": [
+            "[person_1] might have to stop playing drums.",
+            "The bar would fall off on the ground.",
+            "The song could be unsuitable for listener.",
+            "The [person_1] could move easily.",
+            "[person_1] would switch off [tv_1]."
+        ],
+        "reason": [
+            "[tv_1] would be struck by lightning and stop working.",
+            "It is very dangerous to look at the cell phone when people ride a bike.",
+            "[tv_1] was inflating a very small balloon.",
+            "The child was not at a suitable posture for skating.",
+            "Because she is old enough to do it by herself."
+        ]
+    }
+}

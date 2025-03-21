@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of trousers is [person_2] wearing?",
+        "answer": [
+            "The [person_2] is placed on the right of the screen.",
+            "It is on the floor.",
+            "It is lying on the floor.",
+            "The [person_2] is big.",
+            "[person_2] is wearing the jeans."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] lying on [bench_2].",
+        "answer": [
+            "The people want to watch [bench_2] doing tai chi.",
+            "[person_2] is lying on [bench_2] to get a massage.",
+            "[person_2] is trying to reach for [bench_2].",
+            "Because [person_2] is practicing roller - skating.",
+            "[bench_2] is helping [person_2] train."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue dance.",
+            "[person_1] may eat the food on [person_1].",
+            "[person_1] may keep feeding the goat with [person_2].",
+            "[person_1] may ask [person_2] for some money.",
+            "[person_1] will add another liquor."
+        ],
+        "reason": [
+            "Because [person_1] is reaching out the hand.",
+            "[person_1] touches the gift.",
+            "[person_1] teaches [person_1] how to dance.",
+            "Maybe [person_1] likes to play it.",
+            "A massage is unlikely to be free."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bench_2] is broken?",
+        "answer": [
+            "[bench_2] may take more whipped cream to finish making the [bench_2].",
+            "The kids will find another game to play together.",
+            "[person_2] would get hurt.",
+            "[bench_2] may stop the car.",
+            "[person_2] will fall to the ground."
+        ],
+        "reason": [
+            "That weight is very heavy.",
+            "A broken bench cannot support [person_2].",
+            "[bench_2] needs light to practice.",
+            "Because it is a game for two.",
+            "[bench_2] might not be hurt by the collision with the mirror."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is sitting on the [chair_1].",
+            "The [chair_1] is near the window and close to the wall.",
+            "[chair_1] is sitting on the floor.",
+            "[chair_1] is sitting on the steps.",
+            "[chair_1] is sitting on the bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] hold the pillow?",
+        "answer": [
+            "Because [person_1] is doing leg work out.",
+            "The [person_1] threw the pillow toward the boy.",
+            "[person_1] peeled off the patch vigorously in the [person_1]'s chest.",
+            "Because [person_1] dropped something on the ground.",
+            "[person_1] pushed the chair [person_1] lying on."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to keep throwing the pillow to the boy.",
+            "The [person_1] is going to keep petting the horse in the cage.",
+            "The [person_1] is going to continue to stick the balloons on the floor.",
+            "The [person_1] is going to wash bowls and plates in the sink.",
+            "The [person_1] may keep reading the music note chart."
+        ],
+        "reason": [
+            "The [person_1] is still holding the pillow and beating the girl with the pillow.",
+            "The [person_1] is still bowing and holding the needle.",
+            "The [person_1] is holding two tethers and going ahead.",
+            "The [person_1] has just wiped the blue plate and the [person_1] is next to a sink.",
+            "The [person_1] is still holding the pillow and the [person_1] is joyful about this game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the pillow were hard?",
+        "answer": [
+            "[person_1]'s hand can't reach the bell to spray.",
+            "The boy might get hurt.",
+            "[chair_1] wouldn't be able to perform a long jump.",
+            "Cookies won't taste good.",
+            "The dices would fall off."
+        ],
+        "reason": [
+            "The cat interrupts his video.",
+            "The bookshelf will fall on [person_1].",
+            "The baseball bat would slip out of [person_1]'s hand every time [person_1] swung it and hurt someone else.",
+            "The [person_1] is beating the boy with the pillow.",
+            "Because [person_1] needed the tool to measure."
+        ]
+    }
+}

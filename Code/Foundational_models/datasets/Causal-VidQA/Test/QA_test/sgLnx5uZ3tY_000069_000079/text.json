@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is [person_1]?",
+        "answer": [
+            "[person_1] is the girl with long blonde hair.",
+            "[person_1] is selling goods at the market.",
+            "[person_1] is in his wood wokshop.",
+            "[person_1] is training at a gym.",
+            "[person_1] is in the garage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] opening pallets and then closing them?",
+        "answer": [
+            "[person_2] is playing a bass guitar solo.",
+            "To make it easy to operate.",
+            "Maybe [person_2] makes for fun.",
+            "[person_2] is doing that to create sound.",
+            "Because it is a yoga move."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to give playing accordion a shot.",
+            "[person_1] is going to keep playing harmonica.",
+            "[person_1] is going to continue tap dancing.",
+            "[person_1] is going to take a break.",
+            "[person_1] is going to sit there."
+        ],
+        "reason": [
+            "[person_1] is staring at the newspapers.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is playing with cups.",
+            "Because [person_1] is practicing skiing.",
+            "[person_1] is trying pressing some keys."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the picture on the wall drops?",
+        "answer": [
+            "[person_1] will play again.",
+            "[person_2] may request [person_1] to pick the picture.",
+            "She will change a key.",
+            "The ball will tumble to the ground.",
+            "The [person_1] would not make the disc fly far."
+        ],
+        "reason": [
+            "[person_2] feels happy.",
+            "There are many people next to [person_2] who can help [person_2] escape from danger.",
+            "Because [person_2] is holding a heavy and big accordion , there are no hands left to hold the picture.",
+            "In this case , [person_2] will not hold any water balloons to throw.",
+            "Because [person_2] wants to eat the chips in front of the camera."
+        ]
+    }
+}

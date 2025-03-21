@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is sitting at the [person_1].",
+            "[person_1] is in the house.",
+            "[person_1] is in the outside.",
+            "[person_1] is sitting near the window."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is washing his hair.",
+            "[person_1] is relaxing.",
+            "[person_1] wants to build a cup tower on the floor.",
+            "[person_1] is doing prenatal yoga.",
+            "[person_1] is playing spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with the video next?",
+        "answer": [
+            "[person_1] is going to come back and finish something she has seen.",
+            "the video will end and there will be no more yoga.",
+            "[person_1] is still learning how to speak.",
+            "[person_1] will fall down from the horse.",
+            "The firework is going to be shot off."
+        ],
+        "reason": [
+            "[person_1] is holding a chessman.",
+            "[person_1] finishes her song and then begins talking casually with the recording person.",
+            "[person_1] , [person_1] and [person_1] have not finished performing yet.",
+            "the video ends with an advertisement for the yoga school [person_1] owns.",
+            "He and his friend open the car and store the skateboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] went into labor?",
+        "answer": [
+            "[person_1] will enjoy the food happily.",
+            "[person_1] would be surprised and would quickly leave to go to a hospital to safely have the baby.",
+            "It is probable that [person_1] and [person_1] would fall down.",
+            "Maybe [person_1] , [person_1] , [person_1] and [person_1] will dance on the floor.",
+            "[person_1] may get down the bull."
+        ],
+        "reason": [
+            "[person_1] is more convenient to pick the pen when it is not her turns to talk.",
+            "There is a TV behind [person_1].",
+            "[person_1] was right in front of [person_1].",
+            "They are in the pavilion.",
+            "[person_1] is pregnant doing prenatal yoga ; if she started going into labor , she would quickly try to leave the room to get help."
+        ]
+    }
+}

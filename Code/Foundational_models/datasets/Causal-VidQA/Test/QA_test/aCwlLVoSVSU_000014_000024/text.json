@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] , [person_2] and [person_3]?",
+        "answer": [
+            "[person_1] and [person_2] look young and pretty.",
+            "[person_1] , [person_2] , and [person_3] are sitting on the sofa.",
+            "[person_1] , [person_2] and [person_3] are in the big room.",
+            "[person_1] is on the right hand of [person_2].",
+            "[person_1] is sitting on [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting there?",
+        "answer": [
+            "[person_1] and [person_2] are playing didgeridoo.",
+            "[person_1] and [person_2] are performing in front of people.",
+            "[person_1] is opening the gift.",
+            "[person_1] is helping [person_2] practicing martial arts.",
+            "[person_1] wants to ride the mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will lay bricks in with concrete.",
+            "Maybe [person_1] will practice.",
+            "[person_1] will continue to blow.",
+            "[person_1] will continue making the pottery.",
+            "[person_1] will shuffle the cards."
+        ],
+        "reason": [
+            "[person_3] is teaching [person_1] and [person_2] how to play didgeridoo.",
+            "[person_1] is holding a guitar.",
+            "[person_1] is holding the harmonica.",
+            "Maybe [person_1] is playing an interesting song.",
+            "[person_1] is holding newspaper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] is not teacher?",
+        "answer": [
+            "Maybe [person_3] is a normal person.",
+            "Then [person_3] will not kick the board in the hands of [person_3].",
+            "Maybe [person_3] will open the book.",
+            "Maybe [person_3] will feel confused.",
+            "[person_3] will be sad."
+        ],
+        "reason": [
+            "[person_3] is a friend of [person_1] and [person_2].",
+            "Grape stomping for a while may be tiring.",
+            "[person_1] is looking at the carpet.",
+            "Raising both lifts at once burns calorie much faster.",
+            "[person_2] is a kind girl who likes to help others."
+        ]
+    }
+}

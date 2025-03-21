@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [teddy bear_1]?",
+        "answer": [
+            "It is on the roadside.",
+            "It is on the shelf.",
+            "[teddy bear_1] is near the door.",
+            "There is a computer hardware CPU.",
+            "There are four players."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "Because [person_1] maybe loves to pick apples.",
+            "[person_1] is doing it for fun.",
+            "[person_1] likes to play with maracas.",
+            "[person_1] is excited about playing with [person_2].",
+            "[person_1] think [person_2] is lovely and funny."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will practice riding a bike.",
+            "[person_2] will continue playing with [person_1].",
+            "[person_2] will help [person_1] sit up.",
+            "[person_2] will help [person_1] successfully pick up [person_2].",
+            "[person_2] will eat the coco after washing his hands."
+        ],
+        "reason": [
+            "[person_2] bend down and pick up another ball.",
+            "Because [person_2] is not quite familiar with the martial arts and needs to practice.",
+            "Because [person_2] seems to be not likely to stop and tries to say something.",
+            "[person_2] is very happy and in the middle of doing the next move.",
+            "[person_2] is imitating what [person_1] does."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries?",
+        "answer": [
+            "Maybe [person_1] will be in danger.",
+            "Maybe [person_1] will coax [person_2] into smiling.",
+            "[person_1] and [person_2] may make [person_1] laugh.",
+            "Maybe [person_1] will persuade [person_2] to stop crying.",
+            "[person_1] and [person_2] will get cold."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are friendly together.",
+            "The weather will be very cold.",
+            "To check what's wrong with the snow blower.",
+            "because there are many bikers and they are unable to respond on time.",
+            "Snow will fall into the water and freeze the water."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is yellow.",
+            "It's blue.",
+            "It is purple.",
+            "It's brown.",
+            "It is orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [person_2]?",
+        "answer": [
+            "Because [person_1] wants to charge the circular saw.",
+            "[person_1] wants to make sure that [person_2] won't fall.",
+            "[person_1] wants to play with the child.",
+            "[person_1] is playing the gong for fun.",
+            "[person_1] is playing with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue introducing.",
+            "[person_1] is going to take [person_2] out to play.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to open another bottle."
+        ],
+        "reason": [
+            "Maybe [person_2] wants to go out and play.",
+            "[person_1] is stills a baby so [person_1] loves gifts.",
+            "[person_1] teaches [person_1] how to dance.",
+            "[person_1] holds the button in his hands.",
+            "[person_1] touches the gift."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] feels hungry?",
+        "answer": [
+            "The game will not be funny.",
+            "It will become harder to roll and hit the bowling pins.",
+            "[person_1] will go to see cartoon.",
+            "[person_1] will take out the trash.",
+            "[person_1] will make food for [person_2]."
+        ],
+        "reason": [
+            "Maybe [person_1] is too young to hold the toothpaste.",
+            "Because [person_2] wants to get the food in his hand.",
+            "The half of the sword will be stuck in the mouth of [person_1].",
+            "Because [person_1] is a babysitter.",
+            "Many people come because of [person_1]'s drink."
+        ]
+    }
+}

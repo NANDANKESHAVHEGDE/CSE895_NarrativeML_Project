@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is sitting the [chair_1]?",
+        "answer": [
+            "[person_2] is sitting on the [chair_1].",
+            "The [chair_1] is next to the [chair_1].",
+            "[chair_1] is holding a guitar.",
+            "[chair_1] is in the back [chair_1].",
+            "The [chair_1] is on the hand of [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shining shoes of [person_2]?",
+        "answer": [
+            "[person_1] wants to make the shoes shiny.",
+            "[person_2] is taking photo.",
+            "the golf cart is being driven by [person_2].",
+            "It's spring.",
+            "Because they're teasing the children."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go back home.",
+            "[person_1] is going to follow the camera.",
+            "[person_1] is going to keep polishing the shoes.",
+            "[person_1] is going to open present.",
+            "[person_1] may keep trying to drink."
+        ],
+        "reason": [
+            "[person_1] is trying to make it more beautiful.",
+            "The shoe in front of [person_1] isn't finished shining.",
+            "[person_1] is leaning to the left.",
+            "Maybe [person_1] is allergic to something.",
+            "[person_1] is going to have a break."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] finishes polishing the shoe in front of [person_1]?",
+        "answer": [
+            "Then [person_1] will push the [person_1] with feet.",
+            "The [person_1] will show how to milk again.",
+            "The [person_1] may train the [person_1] how to follow her.",
+            "[person_1] will polish the other shoe.",
+            "[person_1] will feel awkward."
+        ],
+        "reason": [
+            "The other shoe isn't polished.",
+            "Because the old tire doesn't work.",
+            "[person_1] is a kid.",
+            "If the ball is not received , the ball will fall to the ground and break easily.",
+            "[person_1] could not move without wind."
+        ]
+    }
+}

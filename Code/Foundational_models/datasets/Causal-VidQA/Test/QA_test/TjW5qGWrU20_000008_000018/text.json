@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the video?",
+        "answer": [
+            "There are three.",
+            "There are 6 people.",
+            "White.",
+            "There are three people.",
+            "Four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear so little?",
+        "answer": [
+            "Because it's very hot.",
+            "Because it's spacious there.",
+            "Because it's a electronic device.",
+            "It's dangerous.",
+            "Because it's an electronic device."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do?",
+        "answer": [
+            "She'll close the bottle of nail polish.",
+            "[person_2] will throw a stone.",
+            "[person_2] may upper the level of the bar.",
+            "She will get the spoon and eat by herself.",
+            "He might join the game."
+        ],
+        "reason": [
+            "He laughs happily.",
+            "[person_2] is supporting and instructing [person_2].",
+            "[person_2] has just shot.",
+            "Because he needs to send the milk to be processed.",
+            "[person_2] wants to sleep and [person_2] wants him to feel comfortable."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the temperature gets hotter and hotter?",
+        "answer": [
+            "The person will throw the juice.",
+            "The snow will melt.",
+            "[person_2] probably will not catch the ball.",
+            "[person_2] may catch a cold",
+            "They might play the game somewhere else."
+        ],
+        "reason": [
+            "The number of pizzas is limited.",
+            "Because the gong is very heavy.",
+            "They may be afraid of sunburn.",
+            "The wall is heavy.",
+            "The dart is very sharp."
+        ]
+    }
+}

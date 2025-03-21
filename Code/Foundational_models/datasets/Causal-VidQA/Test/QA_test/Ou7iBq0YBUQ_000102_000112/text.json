@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "The [bottle_1] is to the right of the [person_1].",
+            "[bottle_1] is behind [person_1] and on the shelf.",
+            "[bottle_1] is sitting on [bottle_1].",
+            "The [person_1] is next to [person_1].",
+            "[bottle_1] is in a bag which is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a small mirror in her hand?",
+        "answer": [
+            "To avoid being exposed to the sun.",
+            "[person_1] is middle aged.",
+            "[person_1] is singing and playing lute in the room.",
+            "[person_1]'s hand moves to tear off the package.",
+            "[person_1] is applying make up."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] will use lip liner to draw the shape of her lips before applying lipstick.",
+            "[person_1] tends to make the basket with great skill.",
+            "[person_1] tends to hug a man wearing white shirt.",
+            "[person_1] tends to keep raising her eyebrows.",
+            "It is possible that [person_1] will play the guitar."
+        ],
+        "reason": [
+            "[person_1] likes to play with maracas.",
+            "[person_1] looks enthusiasm for this job.",
+            "Drawing lips before applying lipstick will make [person_1] have beautiful lips.",
+            "The hand of [person_1] is holding the dumbbell.",
+            "[person_1] is running towards a man."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't draw her lips first?",
+        "answer": [
+            "It is possible that [person_1] will not have beautiful lips.",
+            "Then we don't know how many years [person_1] has worked.",
+            "Maybe [person_1] will tumble too.",
+            "The ice cream will melt faster.",
+            "Maybe they will fall down."
+        ],
+        "reason": [
+            "He is loved by everyone.",
+            "The apple will not come off the driller.",
+            "[person_1] is big so it would be hard for [person_1] to handle if [person_1] was trying to run around.",
+            "[person_1] is participating a game.",
+            "Using lip liner first to draw lip lines will make it easier to apply lipstick."
+        ]
+    }
+}

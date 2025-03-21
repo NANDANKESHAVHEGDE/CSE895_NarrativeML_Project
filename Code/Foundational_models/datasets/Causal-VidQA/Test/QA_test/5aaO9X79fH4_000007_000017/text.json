@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the large ground.",
+            "[person_1] and [person_2] are in the living room.",
+            "[person_1] and [person_2] are outside.",
+            "[person_1] and [person_2] are in outside.",
+            "[person_1] and [person_2] are in the kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting here?",
+        "answer": [
+            "[person_1] is feeling shy.",
+            "[person_2] is a child and needs help.",
+            "[person_1] and [person_2] are doing something together.",
+            "Because [person_1] does not in time to hit the badminton ball.",
+            "Because [person_1] might fall."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to whistle.",
+            "[person_1] and [person_2] are going to dance with lyrics.",
+            "[person_1] and [person_2] are going to continue dancing together.",
+            "[person_1] and [person_2] are going to continue the rehearsal.",
+            "[person_1] and [person_2] are going to keep still for a while."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are smiling happily.",
+            "[person_1] and [person_2] are pouting and getting ready to whistle.",
+            "The [person_1] and [person_2] spin around in the hopes of rolling around.",
+            "[person_1] and [person_2] jump rope very well and professionally.",
+            "[person_1] and [person_2] have clapped their hand to the beat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't know how to whistle?",
+        "answer": [
+            "It is possible that [person_1] will learn to weave.",
+            "[person_1] can ask a coach to teach him.",
+            "[person_2] will teach [person_1].",
+            "It is possible that [person_1] won't be able to get down the stairs.",
+            "[person_2] will try to find other types of pillows."
+        ],
+        "reason": [
+            "[person_1] concentrates on doing fitness.",
+            "[person_2] doesn't like taking photos with person without animal clothes.",
+            "[person_2] does it to help [person_1] learn how to whistle and they will be able to whistle together.",
+            "Fencing is very tiring and [person_1] needs rest.",
+            "[person_1] needs to rest after hard work."
+        ]
+    }
+}

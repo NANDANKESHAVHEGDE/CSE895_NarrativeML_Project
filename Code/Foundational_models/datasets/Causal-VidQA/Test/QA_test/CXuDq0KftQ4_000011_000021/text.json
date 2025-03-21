@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing trousers and a T - shirt.",
+            "[person_1] is wearing a sleeveless shirt.",
+            "[person_1] is wearing a black long - sleeved T - shirt.",
+            "[person_1] is wearing a grey shirt and a pair of long trousers.",
+            "[person_1] is wearing a t - shirt with the number 9."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stretch out his hands?",
+        "answer": [
+            "[person_1] stands up to pick up the dice that is flown outside.",
+            "[person_1] is planing wood.",
+            "It seems difficult for [person_1] to open the bottle by himself.",
+            "[person_1] is waxed eyebrows by [person_1].",
+            "[person_1] wants to sew pliable materials to form a shape."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] has an intention of playing with the flute.",
+            "[person_1] intends to pick up the ball on the floor.",
+            "[person_1] intends to continue play the cello.",
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to cross pieces under and over each other by his hands."
+        ],
+        "reason": [
+            "[person_1] is waving his hand.",
+            "[person_1] went down the stairs.",
+            "[person_1] is making this object carefully.",
+            "[person_1] still hasn't landed perfectly.",
+            "[person_1] didn't want to put the harmonica down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] makes the baskets everyday?",
+        "answer": [
+            "Maybe [person_1] will swallow the smoke and cause gurgling in the pipe.",
+            "The mixture in the [person_1] will spill out.",
+            "[person_1] will do it very easy.",
+            "The cart of [person_1] will be empty.",
+            "Maybe [person_1] will be good at doing the baskets."
+        ],
+        "reason": [
+            "Because the snow is too thick it will be very difficult to walk.",
+            "[person_1] have practiced doing it regularly.",
+            "[person_1] is attacking the sheep aggressively so the sheep might get hurt without the look after of [person_1].",
+            "[person_1] likes to play with water.",
+            "Because playing guitar requires two hands to make the sound at the same time."
+        ]
+    }
+}

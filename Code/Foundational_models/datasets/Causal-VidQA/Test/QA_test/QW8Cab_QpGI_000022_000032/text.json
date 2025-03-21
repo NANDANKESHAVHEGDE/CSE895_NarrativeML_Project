@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is large.",
+            "It is quite small.",
+            "It is in a rugby field.",
+            "It is very clean and neat.",
+            "It is small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is staying with [person_1].",
+            "[person_1] likes stacking cups.",
+            "[person_1] is talking about the placement of eating utensils on [person_1].",
+            "[person_1] is in the room playing the lute.",
+            "[person_1] is working out."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to exercise leg muscles.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] may go home.",
+            "[person_1] is going to land on the sand pit."
+        ],
+        "reason": [
+            "[person_1] stomped continuously.",
+            "To relax for several minutes.",
+            "[person_1] knelt down.",
+            "Because he just drunk strong wine and he looks terrible and run away with hands covered his mouth.",
+            "[person_1] is wearing tap dancing shoes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does the wrong moves?",
+        "answer": [
+            "[person_1] will go to other room.",
+            "Perhaps [person_1] will improve her skill at this field.",
+            "The [person_1] will go to help them.",
+            "Perhaps [person_1] will hurt his leg.",
+            "[person_1] would not be able to have a bright candle."
+        ],
+        "reason": [
+            "[person_1] needs to turn around to get the drinks behind him.",
+            "[person_1] can't apply foundation evenly without a mirror.",
+            "[person_1] doesn't have a trainer to guide him.",
+            "They need to do it right.",
+            "Because [person_1] is twirling the hula hoop."
+        ]
+    }
+}

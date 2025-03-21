@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the house.",
+            "[person_1] is in the room.",
+            "[person_1] is outside the house.",
+            "[person_1] is \u00a0 in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] putting the hand on the chin?",
+        "answer": [
+            "[person_1] is practicing playing guitar.",
+            "[person_1] is focusing on his work.",
+            "[person_1] wants to stretch the muscles of her body.",
+            "[person_1] is checking the makeup.",
+            "[person_1] is playing chess with her son."
+        ]
+    },
+    "predictive": {
+        "question": "Which shoe is [person_1] going to up on?",
+        "answer": [
+            "[person_1] is going to put on the black shoe with white strips on the floor.",
+            "[person_1] maybe is at intermediate level.",
+            "[person_1] is going to stand up",
+            "[person_1] feel interesting.",
+            "[person_1] may put up his left arm."
+        ],
+        "reason": [
+            "Because [person_1] does not know how much money there is.",
+            "The [person_1] held out a hand just to catch the [person_1].",
+            "[person_1] is touching the shoe with a foot.",
+            "Because [person_1] will eat the food with his friends together.",
+            "Because [person_1] dressed casually to go other place."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can't find the other shoe?",
+        "answer": [
+            "[person_1] won't be able to take it.",
+            "The bottle will break.",
+            "[person_1] will lose the ball.",
+            "The decorative panel would fall off the wall.",
+            "[person_1] will go find it."
+        ],
+        "reason": [
+            "[person_1] cannot leave the house with only one shoe on.",
+            "Falling too hard will hurt the boy in black.",
+            "The [person_1] trains her dog with many activities.",
+            "The [person_1] has a small ball to play.",
+            "[person_1] is a child and could accidentally drop the object."
+        ]
+    }
+}

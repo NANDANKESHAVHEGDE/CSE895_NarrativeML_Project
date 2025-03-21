@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bench_1]?",
+        "answer": [
+            "[bench_1] is next to some trees.",
+            "[bench_1] is playing a big drum.",
+            "[bench_1] is trying to hold a big snowball.",
+            "[bench_1] is holding a target pad.",
+            "[bench_1] is holding a clarinet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding [bicycle_1]?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is excited about this action.",
+            "[person_1] finds stomping the grapes funnier than [person_1] does.",
+            "Because [person_1] is playing maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is the woman next to [person_1] doing?",
+        "answer": [
+            "Those sticks will burn.",
+            "[person_1] will drink more.",
+            "[person_1] will have something to drink.",
+            "The woman is taking some photos.",
+            "The [person_1] will ride it more frequently."
+        ],
+        "reason": [
+            "The woman is holding the camera.",
+            "The movement is too exhausting.",
+            "[person_1] finds lawn mowing is interesting.",
+            "To clean all the leaves in the yard.",
+            "Because they always do this together."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bicycle_1] is broken?",
+        "answer": [
+            "[person_1] would fall on the yard.",
+            "[person_1] will stop riding.",
+            "[person_1] will continue to work in the office.",
+            "[person_1] will call the repair man.",
+            "[person_1] will check the machine."
+        ],
+        "reason": [
+            "Because when [bicycle_1] is torn , [bicycle_1] can not be used anymore.",
+            "If it is rainy , they have to find a place to take shelter from rain.",
+            "[person_1] will be startled.",
+            "Baby needs to sit in safety chair.",
+            "[person_1] needs to fix [bicycle_1]."
+        ]
+    }
+}

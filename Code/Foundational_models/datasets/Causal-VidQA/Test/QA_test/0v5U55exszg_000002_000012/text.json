@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "[person_1] and [person_2] are in the garden.",
+            "In front of a house.",
+            "[person_1] and [person_2] are in their house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the garden?",
+        "answer": [
+            "Because [person_1] wants to use the friction between them to open the cap.",
+            "Because [person_1] is playing an accordion.",
+            "[person_1] is playing the lute.",
+            "Because [person_1] is smoking hookah and satisfying his addiction.",
+            "[person_1] and [person_2] are playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] will get up.",
+            "[person_1] is going to talk with the woman.",
+            "Maybe [person_1] is going to stop running."
+        ],
+        "reason": [
+            "The woman is going inside.",
+            "The tap is still on.",
+            "Maybe the weights are too heavy.",
+            "It is too dark.",
+            "[person_1] looks like a couple."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the wind is stronger?",
+        "answer": [
+            "The leaves will not fall.",
+            "Maybe the wind would hit her body on the floor.",
+            "The leaves will fall.",
+            "The boss will be happy.",
+            "The leaves will stay."
+        ],
+        "reason": [
+            "It is not raining.",
+            "To save the resources.",
+            "It will be sunny.",
+            "An exploded balloon is useless.",
+            "It will rain."
+        ]
+    }
+}

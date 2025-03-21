@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [potted plant_1]?",
+        "answer": [
+            "The [potted plant_1] is beside the window.",
+            "The [potted plant_1] is next to the gong.",
+            "The [potted plant_1] is on the sideboard behind the [potted plant_1].",
+            "It is next to the window and close to the mirror.",
+            "[potted plant_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] roast marshmallows?",
+        "answer": [
+            "[person_1] is grabbing [person_1] to move them to a different spot.",
+            "[person_1] uses fire to roast marshmallows.",
+            "[person_1] wants to play chess.",
+            "[person_1] is playing with someone.",
+            "[person_1] is playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after tasting the marshmallow?",
+        "answer": [
+            "[person_2] will join in dancing.",
+            "[person_2] will drink some water.",
+            "[person_2] will continue to eat.",
+            "[person_2] will take off his costume.",
+            "[person_2] will join in others."
+        ],
+        "reason": [
+            "[person_2] and [person_2] are performing fencing on the street.",
+            "That's what the performers always do.",
+            "[person_2] is so little that she can't stand the long time boring.",
+            "There is a guidance on the computer.",
+            "Because [person_2] burned his tongue on the marshmallow."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] drops the marshmallows on the ground?",
+        "answer": [
+            "The shirt will be broken.",
+            "The wall would be broken.",
+            "[person_1] would lie on the ground.",
+            "[person_1] would feel sad.",
+            "[person_1] may forget to put something in [person_1]."
+        ],
+        "reason": [
+            "Because the model had drew eyebrows.",
+            "[person_1]'s team is so strong.",
+            "[person_1] didn't expect that happening.",
+            "Bad marshmallows can't be eaten.",
+            "[person_1] is holding him and playing with him so she will not let him slip off"
+        ]
+    }
+}

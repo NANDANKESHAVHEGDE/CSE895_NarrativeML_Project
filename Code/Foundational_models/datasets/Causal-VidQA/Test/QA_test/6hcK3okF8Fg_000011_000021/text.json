@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is throwing the ball at the goal.",
+            "[person_1] is stacking dice.",
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] is punching the punching bag.",
+            "[person_1] is opening the box of a gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] punching the punching bag too?",
+        "answer": [
+            "The [person_1] is practicing how to play basketball.",
+            "[person_2] thought the reflection is a different cat.",
+            "[person_1] is testing [person_1]'s helmet.",
+            "Because [person_1] and [person_2] are training with each other.",
+            "[person_1] wants to polish the shoe."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to stand up.",
+            "[person_1] and [person_2] are going to keep on punching.",
+            "[person_1] and [person_2] are going to start a new fight.",
+            "[person_1] and [person_2] are going to watch the match.",
+            "[person_1] and [person_2] are going to show their skateboarding skill."
+        ],
+        "reason": [
+            "[person_2] and [person_1] turned back and moved sideways.",
+            "[person_1] and [person_2] finish their beer and look at each other.",
+            "[person_1] and [person_2] are dancing in a professional way.",
+            "It is looks like [person_1] and [person_2] are having a competition.",
+            "[person_1] and [person_2] bang hands on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] didn't train with [person_2]?",
+        "answer": [
+            "Maybe [person_1] will do it by his hand.",
+            "[person_2] can't shoot soccer into the frame.",
+            "[person_2] would not have competitive with [person_1].",
+            "[person_1] and [person_2] would start a fight over presents.",
+            "[person_2] will look different from other people."
+        ],
+        "reason": [
+            "[person_2] can't be as good as [person_2] now.",
+            "[person_1] can't use both hands to keep the balance.",
+            "[person_2]'s shoulder hurts.",
+            "[person_2] is happy to have her mother around.",
+            "Because [person_1] is cycling backwards."
+        ]
+    }
+}

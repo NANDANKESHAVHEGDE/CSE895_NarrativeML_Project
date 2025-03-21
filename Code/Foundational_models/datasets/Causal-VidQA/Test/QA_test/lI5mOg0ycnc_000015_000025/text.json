@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a classroom.",
+            "[person_1] is outside.",
+            "[person_1] is in a fashion shop.",
+            "[person_1] is in a park.",
+            "[person_1] is training at a gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving her hands?",
+        "answer": [
+            "Because [person_1] is playing a xylophone.",
+            "[person_1] is relaxing himself in an informal occasion.",
+            "[person_1] is counting 10 seconds.",
+            "[person_1] is taking care of her little brothers.",
+            "[person_1] holds the [person_1] in one hand and the spoon in his other hand , and uses the spoon to peel [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_7] going to do?",
+        "answer": [
+            "[person_7] is going to ask someone how to play xylophone.",
+            "The bald man is going to bet the coins.",
+            "Maybe [person_7] is going to continue to help others people know how to dance.",
+            "[person_7] is going to return to the starting position.",
+            "He is going to flatten the surface by his shovel."
+        ],
+        "reason": [
+            "Because [person_7] isn't moving her hands , she may not know how to play . Therefore , she will ask for help from other students.",
+            "[person_7] is jumping toward [person_7] , [person_7] and [person_7] are from different teams.",
+            "He digs and retreats to the back.",
+            "[person_7] is going to ask [person_7] her prediction about the outcome of the baseball match.",
+            "[person_7] is bending down , touching his pant , and pulling it up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forgets her sticks at home?",
+        "answer": [
+            "[person_1] won't be able to keep shaving.",
+            "[person_1] may borrow a pair from her friend.",
+            "[person_1] will buy it.",
+            "It is anticipated that [person_1] will become the loser.",
+            "The [person_1] would lose balance."
+        ],
+        "reason": [
+            "[person_1] was trying to pass through all obstacles without touching them.",
+            "The contest will only choose the best.",
+            "They are jumping the rope in a group . 2 people in the group can't always hold the rope and don't jump.",
+            "Because there are many students in the room with her and all of them may be able to help.",
+            "Because the fish is afraid of human."
+        ]
+    }
+}

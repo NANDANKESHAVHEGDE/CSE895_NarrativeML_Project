@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "It's in front of the face's [person_1].",
+            "The [person_1] is wearing a striped tee.",
+            "The [person_1] is wearing a T - shirt with Pokemon prints.",
+            "The [person_1] is wearing a red t - shirt , red shorts and black shoes.",
+            "The [person_1] is wearing a tank top and shorts."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] raise the arm?",
+        "answer": [
+            "The [person_1] is holding a basketball to play.",
+            "The [person_1] has to lift the basketball to throw it in the basket.",
+            "The [person_1] took the hand of the [person_1].",
+            "[person_1] wants to open the present.",
+            "The [person_1] picked an apple."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to take a rest.",
+            "The [person_1] is going to pick another apple.",
+            "The [person_1] may put the spoon on a shelf.",
+            "[person_1] is going to continue dancing.",
+            "The [person_1] may continue to laugh at someone."
+        ],
+        "reason": [
+            "The [person_1] turns back the body and wants to move.",
+            "The [person_1] tries to peel the potatoes hard.",
+            "The [person_1] passes the [person_1] and catches [person_1] when [person_1] is returned.",
+            "The [person_1] is raising the head and looking at another apple.",
+            "The [person_1] is laying tiles one by one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not raise the arm?",
+        "answer": [
+            "[person_1] will break.",
+            "[person_1] will fail.",
+            "[person_1] would not talk about the cup with [person_1].",
+            "The [person_1] could not pick the apples.",
+            "[person_1] will eat the [person_1] faster."
+        ],
+        "reason": [
+            "The apples are above the [person_1].",
+            "The cup that [person_1] wearing a hat holds is made of glass.",
+            "The balloon can stretch.",
+            "Because the [person_1] is crossing the road.",
+            "The cap helps [person_1] avoiding the sunlight ; without it , [person_1] might be annoyed by the dazzling light."
+        ]
+    }
+}

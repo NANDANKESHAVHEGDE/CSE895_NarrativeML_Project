@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are 5 people.",
+            "There are 4 people.",
+            "There are six people.",
+            "There are eight people.",
+            "There are seven people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] and [person_2] hold and swing the rope together?",
+        "answer": [
+            "The [person_2] wants to sit down.",
+            "[person_2] fixes the awl on the cork and uses the wooden stick to hit the awl.",
+            "Because the pencil is blunt.",
+            "Maybe [person_1] does the guitar for fun.",
+            "[person_1] and [person_2] swung the rope for [person_4] to jump."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] will probably come in and start playing basketball.",
+            "[person_4] is going to continue jumping with 2 ropes at the same time.",
+            "[person_4] will get piercing too.",
+            "[person_4] is going to be back to his initial place.",
+            "[person_4] is going to jumping high."
+        ],
+        "reason": [
+            "[person_4] legs are stomping repeatedly.",
+            "When [person_1] falls down the floor , [person_4] still handles the sword and pokes [person_1].",
+            "[person_4] has a note in her hands.",
+            "After [person_4] run out , [person_1] and [person_2] have swung 2 ropes instead of one as before.",
+            "[person_2] is ripping the paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] jumps in?",
+        "answer": [
+            "If [person_3] stops lifting , [person_4] will help [person_3] put the barbell back.",
+            "[person_3] would carry [person_4] to the [person_4].",
+            "They will improve their skating skills more quickly.",
+            "The other person will be angry.",
+            "Maybe [person_4] will fall or step foot on the rope."
+        ],
+        "reason": [
+            "This sport is to exercise your arms.",
+            "[person_3] loves singing too.",
+            "Two people jump in together is easy to fall and step foot on the rope especially when jumping with 2 ropes.",
+            "Because [person_3] is on the high shelf.",
+            "To provide the water needed by the body."
+        ]
+    }
+}

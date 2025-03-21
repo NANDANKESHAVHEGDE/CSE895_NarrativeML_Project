@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_3] sitting?",
+        "answer": [
+            "[person_1] and [person_3] are in their bedroom.",
+            "[person_1] and [person_3] are sitting in a wheelbarrow.",
+            "[person_1] and [person_1] are in the bedroom.",
+            "[person_1] and [person_1] are in the barber shop.",
+            "[person_1] and [person_1] are in the swimming pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] no longer on the in the wheelbarrow?",
+        "answer": [
+            "Because [person_3] fell down.",
+            "They are in the class break and want to have some fun.",
+            "Because they are playing the guessing game.",
+            "[person_3] had to look at [person_3]'s music sheet.",
+            "[person_3] is holding the stick for safety and moving faster."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will definitely continue to push the wheelbarrow.",
+            "[person_2] will take the hula hoop out of [person_2].",
+            "[person_2] will keep making the shape from these materials.",
+            "[person_2] may throw the ball that [person_2] just picked up to the opposite side.",
+            "[person_2] will then teach [person_2] to blow out the candles."
+        ],
+        "reason": [
+            "[person_2] is watching the moving of [person_2] carefully.",
+            "[person_2] and [person_2] is playing a game with the ball.",
+            "Because [person_2] can't shoot billiards into the hole.",
+            "[person_2] is pushing the wheelbarrow around the garden.",
+            "[person_2] is probably an adult and [person_2] is a child"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] also falls from the wheelbarrow?",
+        "answer": [
+            "[person_1] won't be in the wheelbarrow anymore.",
+            "[person_1] might get hurt.",
+            "[person_1] will be in the wheelbarrow anymore.",
+            "[person_1] would get severe injury.",
+            "[person_1] won't be under the wheelbarrow anymore."
+        ],
+        "reason": [
+            "[person_1] seems interested in [person_1] too.",
+            "that box seems to belong to [person_1].",
+            "[person_1] is like [person_3] who fell.",
+            "that box seems not belong to [person_1].",
+            "Because [person_1] will fall on the upturned nail."
+        ]
+    }
+}

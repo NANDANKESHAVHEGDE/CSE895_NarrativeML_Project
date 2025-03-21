@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a truck in the video?",
+        "answer": [
+            "It is [person_1].",
+            "[person_1] looks cute.",
+            "Yes.",
+            "[person_1] is behind [person_1].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] set fence?",
+        "answer": [
+            "[person_1] sets fence to separate his house from outside.",
+            "Because [person_1] teaches how to shoot marbles.",
+            "Because [person_1] is nearsighted.",
+            "Maybe [person_1] and [person_1] are having a short break and relaxing in the room.",
+            "Because [person_1] is stacking the dice with a cup."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will mow the lawn regularly.",
+            "[person_1] will rest.",
+            "[person_1] may swim.",
+            "[person_1] may turn around.",
+            "[person_1] will ask someone to confirm her good working."
+        ],
+        "reason": [
+            "[person_1] will get tired after the dance.",
+            "[person_1] just landed on his back.",
+            "[person_1] is still dancing at the end of the video.",
+            "[person_1] is intended to finish lawn mowing.",
+            "[person_1] just somersaulted into the pool."
+        ]
+    },
+    "counterfactual": {
+        "question": "If a snake appears , what will [person_1] do?",
+        "answer": [
+            "[person_1] will clean for [person_1] . ",
+            "[person_1] may have to solve this problem immediately.",
+            "Go back to house and close the door.",
+            "[person_1] and [person_1] may happy together.",
+            "[person_1] will hug the dog."
+        ],
+        "reason": [
+            "There will be a lot of spectators watching below.",
+            "[person_1] and [person_1] are friendly.",
+            "The snake may bite [person_1] , so it is dangerous.",
+            "It is possible that the floor is very slippy.",
+            "Because the water is not strong."
+        ]
+    }
+}

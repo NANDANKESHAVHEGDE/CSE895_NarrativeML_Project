@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[chair_1] is behind [person_1] and [person_2].",
+            "[chair_1] is on the left hand side of [person_1].",
+            "[chair_1] is on the right of [person_1].",
+            "[chair_1] is under [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] dance?",
+        "answer": [
+            "[person_2] is excited about this action.",
+            "[person_2] is enjoying the clarinet.",
+            "The [person_2] is waving the arms of the [person_2].",
+            "Because [person_2] wants to keep the bottle stable for [person_2].",
+            "Because [person_2] is expressing love to [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "They will keep on laying those bricks on each other.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] and [person_2] will celebrate.",
+            "[person_1] and [person_2] will sit down and rest.",
+            "[person_1] and [person_2] will continue practicing."
+        ],
+        "reason": [
+            "because that object seems pretty new to [person_1].",
+            "[person_1] and [person_2] look very excited.",
+            "[person_1] and [person_2] has not finished practicing yet.",
+            "[person_2] looks very happy.",
+            "[person_1] and [person_2] start running back towards the water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not really enjoy the clarinet?",
+        "answer": [
+            "[person_2] can stand here.",
+            "More people will know about this industry.",
+            "[person_2] would find another job.",
+            "[person_2] would fall on the floor.",
+            "[person_2] would not dance."
+        ],
+        "reason": [
+            "People can see this video at home through the website.",
+            "Because his father thinks breaking something is not good.",
+            "[person_2] is dancing with happiness.",
+            "They will recruit many students through the video.",
+            "For a military commander , winning or losing a battle is a common occurrence . "
+        ]
+    }
+}

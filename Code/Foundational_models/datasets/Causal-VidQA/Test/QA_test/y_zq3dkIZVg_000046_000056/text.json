@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "It is in the room.",
+            "Along the river.",
+            "[person_1] is at the beach.",
+            "[person_1] is on the stage.",
+            "[person_1] is near the window."
+        ]
+    },
+    "explanatory": {
+        "question": "How do [person_1] and [person_4] feel when playing the clapping game?",
+        "answer": [
+            "Maybe [person_1] is an expert.",
+            "[person_1] and [person_4] feel very happy.",
+            "[person_4] is instructing [person_1] to stretch his arms with the [person_4].",
+            "[person_1] is a small baby and [person_1] wants to look around.",
+            "[person_1] is holding a flute and playing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is foreseen that [person_1] will stop playing clap.",
+            "[person_1] will stand up.",
+            "[person_1] will shoot another cue ball.",
+            "[person_1] will leave the room.",
+            "Roll [person_1] by the other foot."
+        ],
+        "reason": [
+            "[person_1] wants to join the game.",
+            "Because the iron rod has been twisted by the device , [person_1] needs to check how effective it is.",
+            "[person_1] is holding the guitar.",
+            "Because [person_1] is already standing on the side of the road and [person_1] is ready to throw the frisbee.",
+            "Maybe [person_1] got bored playing this game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] wants to continue playing?",
+        "answer": [
+            "[person_4] will be stronger.",
+            "[person_1] and everyone would not know what to do next.",
+            "[person_4] will find another game.",
+            "[person_1] will play with [person_4].",
+            "[person_4] can not make a video."
+        ],
+        "reason": [
+            "[person_4] is strong to lift heavy weight.",
+            "The [person_4] is near on the right.",
+            "Because [person_4] is the central part of the ceremony.",
+            "Because [person_4] can't go to the place where he works.",
+            "Maybe [person_4] also wants to play clapping."
+        ]
+    }
+}

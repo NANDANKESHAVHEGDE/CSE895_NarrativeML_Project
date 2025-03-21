@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is blue.",
+            "The shirt is black.",
+            "The shirt is red.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] lying on a chair?",
+        "answer": [
+            "[person_2] can see things more clearly.",
+            "They just have free time and want to eat marshmallows.",
+            "[person_2] likes that.",
+            "Because the gymers need to know the time when they practice.",
+            "[person_2] may hit [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will sleep on the floor.",
+            "[person_1] will continue jumping.",
+            "[person_1] will keep the chess set.",
+            "[person_1] will definitely continue spinning.",
+            "[person_1] will continue to raising her eyebrows."
+        ],
+        "reason": [
+            "[person_1] had completed the work because he changed position from crawling to a sitting position.",
+            "Because the iron rod has been twisted by the device , [person_1] needs to check how effective it is.",
+            "[person_1] is holding the guitar.",
+            "[person_1] is putting the chess pieces in a plastic bag.",
+            "Because [person_1] has already finished the massaging neck."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] puts all the chess pieces in the bag?",
+        "answer": [
+            "[person_2] may float away.",
+            "[person_1] will kick again.",
+            "[person_2] will stop.",
+            "[person_1] will be super happy.",
+            "[person_2] will stand up."
+        ],
+        "reason": [
+            "Because they will be using [person_1] later in the show.",
+            "Shaving makes you look younger and more handsome.",
+            "To take some medical examinations.",
+            "[person_2] will stop playing.",
+            "There are a lot of balls and [person_1] can kick many times."
+        ]
+    }
+}

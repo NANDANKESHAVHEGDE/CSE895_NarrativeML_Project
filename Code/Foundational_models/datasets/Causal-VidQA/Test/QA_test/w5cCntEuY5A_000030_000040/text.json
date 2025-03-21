@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is \u00a0 in the room.",
+            "[person_1] is outside the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] holding [cup_1] and [cup_2]?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] is holding the didgeridoo in his hands to play.",
+            "[person_1] lets the drill speedily rotate the apple while he is holding a peeler on the skin.",
+            "[cup_2] may not know how to tie a bow for himself.",
+            "[person_1] is practicing stacking cups in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play the cello.",
+            "[person_1] is going to a workout.",
+            "[person_1] is going to continue stacking.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] will continue to laugh."
+        ],
+        "reason": [
+            "Maybe [person_1] is practicing.",
+            "[person_1] holds the cups very quickly",
+            "[person_1] is a batter and according to the rules of baseball , batter must run to the golf courses and back to the batter box\u2019s one by one before the members of the defending team can catch the ball.",
+            "Maybe [person_1] started weaving fabric.",
+            "Because [person_1] acts as a guide."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [cup_2] broken?",
+        "answer": [
+            "[person_1] would get hurt.",
+            "[person_1] would not start stacking.",
+            "The fiberboard would be broken.",
+            "The [cup_2] could be broken.",
+            "[person_1] could put the weights on the floor."
+        ],
+        "reason": [
+            "The cat is so lovely.",
+            "[person_1] would be sad.",
+            "It is [person_1]'s birthday.",
+            "Because [person_1] is too short.",
+            "Because there were nothing funny to laugh at."
+        ]
+    }
+}

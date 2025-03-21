@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the shirt is [person_1] wearing?",
+        "answer": [
+            "The [person_1] is on the brown cupboard.",
+            "The glasses are on [person_1] eyes.",
+            "There is a fireplace.",
+            "The [person_1] is next to the gong.",
+            "[person_1] is wearing the white shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing?",
+        "answer": [
+            "Because [person_1] is a music star.",
+            "Maybe [person_2] feels happy because of a successful somersault.",
+            "[person_1] and [person_2] are standing to playing hand clapping game.",
+            "Because [person_1] and [person_2] have gifts.",
+            "Because [person_2] is performing cello."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to lay some more bricks.",
+            "[person_1] and [person_2] are going to talk about their love and kiss again.",
+            "[person_1] and [person_2] are going to continue the passing drill.",
+            "[person_2] and [person_1] are going to bring each type of cattle to the correct barn.",
+            "[person_1] and [person_2] are going to continue clapping hands together."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] is about to finish concreting.",
+            "Because [person_1] and [person_2] have just finished talking.",
+            "[person_1] and [person_2] are excited about this game.",
+            "There are many different types of cattle that are not following the herd , so [person_1] and [person_2] are going to bring each type of cattle to the correct barn.",
+            "[person_1] and [person_2] held the microphone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [couch_1] disappeared?",
+        "answer": [
+            "They would look back at it.",
+            "[person_1] and [person_2] would continue playing.",
+            "The owner of the camel will teach them how to ride.",
+            "Then the tap won't run all the time.",
+            "[person_1] will be afraid."
+        ],
+        "reason": [
+            "[person_2] needs to finish his job.",
+            "Because [person_1] will not want to be hit by the cars.",
+            "[person_1] and [person_2] don't care about the [couch_1].",
+            "Because [person_1] is helpful.",
+            "The surfboard cannot hold [person_1] back."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is black and white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The color of the shirt is green.",
+            "The shirt is white.",
+            "The shirt is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is trying to do somersaults.",
+            "[person_1] is stacking cups.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is whistling.",
+            "[person_1] is doing exercises to improve his health."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep practicing the piano.",
+            "[person_1] will celebrate.",
+            "Maybe [person_1] will straighten up.",
+            "[person_1] will go on teaching someone how to play cymbals.",
+            "[person_1] will dip in more paint."
+        ],
+        "reason": [
+            "Because [person_1] prepared to eat the food with a fork.",
+            "[person_1] seems to want to improve the skill further.",
+            "[person_1] is raising his hand high.",
+            "[person_1] has already put her arm on the right one.",
+            "Because [person_1] has raised up his hands on the top of the pottery."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] had a shorter time to stack the cups?",
+        "answer": [
+            "[person_1] will be very happy.",
+            "[person_1] might cry.",
+            "[person_1] will be very upset.",
+            "folding paper with the mouth is much more difficult for [person_1].",
+            "[person_1] won't be very happy."
+        ],
+        "reason": [
+            "[person_1] and [person_1] will not know how difficult it is to fly a kite.",
+            "[person_1] practiced really bad.",
+            "Because [person_1] is just a little girl.",
+            "[person_1] practiced really well.",
+            "[person_1] is just a kid."
+        ]
+    }
+}

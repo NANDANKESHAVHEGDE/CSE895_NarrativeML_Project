@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt is [person_2] wearing?",
+        "answer": [
+            "[person_2] is sitting in the room that has wooden walls.",
+            "The [person_2] is leaned against the wall , next to the table.",
+            "[person_2] is on the road.",
+            "[person_2] and [person_2] are in the street.",
+            "[person_2] is wearing a black shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing behind [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are playing didgeridoo.",
+            "[person_2] prepares to discover the gifts.",
+            "He is watching [person_2] unwrapping the present.",
+            "[person_1] and [person_2] are just starting to play chess.",
+            "[person_1] and [person_2] are doing yoga."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will definitely take a rest.",
+            "[person_2] is going to step down from the stair.",
+            "[person_2] may find a way to open the carton box from the side of it.",
+            "[person_2] is going to place the box in the middle of the paper , with the top facing down.",
+            "[person_2] is going to take the pile of flooring rock plates on the cart and put them on the ground."
+        ],
+        "reason": [
+            " [person_2] flies to the chair.",
+            "Maybe [person_2] can't keep balance for long.",
+            "At [person_2]'s first bandage , she didn't use the binding clips to bind up the bandage , so at [person_2]'s second bandage , [person_2] will do the same thing.",
+            "The bandage has been fully wrapped up on [person_2]'s arm.",
+            "[person_2] tears the wrapping paper , and pries the side of the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wants the box?",
+        "answer": [
+            "[person_1] can play other toys.",
+            "[person_1] will be more confident.",
+            "[person_2] may not give it to [person_1].",
+            "[person_1] will feel dizzy.",
+            "[person_1] will kick again."
+        ],
+        "reason": [
+            "Because the [person_1] owes the camel.",
+            "The [person_1] is sitting down on the chair to play accordion.",
+            "Hairpin helps her to separate the hair.",
+            "It is [person_1]'s fault.",
+            "When [person_1] looks at the present , [person_2] is concentrating on opening it."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "[person_1] is lying on the floor.",
+            "Yes , only one.",
+            "No , there isn't.",
+            "There are two wheelchairs.",
+            "The weather is sunny."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] is holding the rope?",
+        "answer": [
+            "[person_1] is excited about throwing into the cups.",
+            "[person_1] repairs the shoes.",
+            "[person_1] wants to stick the accordion to the body and control the accordion conveniently.",
+            "Because it's spacious there.",
+            "[person_1] is taking part in skipping rope game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will be naughty [person_1].",
+            "[person_1] will put meat into the machine.",
+            "[person_1] is going to skipping rope.",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] is going grind the knife."
+        ],
+        "reason": [
+            "[person_1] is finishing the product.",
+            "[person_1] is going to rest.",
+            "Maybe [person_1] isn't finishing the performance.",
+            "[person_1] showed the snake and kept stepping forward.",
+            "[person_1] is one of people playing this game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it were going to rain?",
+        "answer": [
+            "She might cry.",
+            "People will check the problem.",
+            "The atmosphere would reach high.",
+            "The game might be stopped.",
+            "The apples will not be peeled."
+        ],
+        "reason": [
+            "The competition is outside.",
+            "The people here will have more fun with more people together.",
+            "To hang on the painting first.",
+            "Everyone is outside.",
+            "[person_1] was falling down then."
+        ]
+    }
+}

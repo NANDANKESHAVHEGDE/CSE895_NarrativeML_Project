@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing on the floor?",
+        "answer": [
+            "Because [person_1] is trying to balance himself.",
+            "[person_1] and [person_2] are trying to open the gift.",
+            "[person_2] and [person_1] are preparing to wrestle.",
+            "[person_2] teaching [person_1] and [person_2] how to playing chess.",
+            "[person_1] is checking to see if [person_2] fine motor skills are still functioning."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "He is going to enjoy the beer.",
+            "[person_1] may keep trying to open.",
+            "[person_1] is going to warm up there.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] may decide to change exercising style."
+        ],
+        "reason": [
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut.",
+            "[person_1] and [person_2] are very happy.",
+            "[person_2] is having his turn next.",
+            "[person_1] just has started his work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out ?",
+        "answer": [
+            "[person_1] and [person_2] will stop closing.",
+            "[person_1] and [person_2] maybe afraid.",
+            "[person_1] and [person_2] will stop opening.",
+            "[person_1] will stop raising his eyebrows.",
+            "[person_1] and [person_2] will continue opening."
+        ],
+        "reason": [
+            "The room will be lighted.",
+            "The match must stop.",
+            "The room will be no light.",
+            "[person_2] will stand still.",
+            "The room is not dark."
+        ]
+    }
+}

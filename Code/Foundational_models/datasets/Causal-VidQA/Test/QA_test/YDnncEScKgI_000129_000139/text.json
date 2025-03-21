@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [surfboard_1]?",
+        "answer": [
+            "[person_1] is excited about playing with [person_1].",
+            "[person_1] is throwing it at [person_1].",
+            "[person_1] is playing [surfboard_1].",
+            "[person_1] and [person_1] are practicing the clarinet.",
+            "[person_1] is do it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop skiing.",
+            "[person_1] is going to keep playing [surfboard_1].",
+            "[person_1] will check the result.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to stack these cups."
+        ],
+        "reason": [
+            "[person_1] is still touching and moving on strings of the harp.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is looking at the plate of food.",
+            "[person_1] has walked outside.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls [surfboard_1]?",
+        "answer": [
+            "Then others may hold [surfboard_1] immediately and timely.",
+            "[person_1] would help [person_1] stand up.",
+            "[person_1] will jump jack longer.",
+            "Perhaps [person_1] will keep fit.",
+            "[person_1] may not play [surfboard_1] anymore."
+        ],
+        "reason": [
+            "[person_1] will drink the water in [surfboard_1].",
+            "Because the floor is hard.",
+            "[person_1] is sitting on the table.",
+            "[person_1] is not high and the ground has no rocks.",
+            "[surfboard_1] may be broken down when falling."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting at a table.",
+            "[person_1] is at a grocery store.",
+            "[person_1] is in the garden.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in a small room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is training.",
+            "[person_1] is excited about holding these cups.",
+            "Because [person_1] is reading a book.",
+            "[person_1] looks very happy while playing didgeridoo.",
+            "Because [person_1] wants to play the violin in a quiet room."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "Maybe [person_1] intends to lower your hand.",
+            "[person_1] intends to looking for some information.",
+            "[person_1] intends to fold over the other side of the paper and tape it down.",
+            "[person_1] intends to be good at playing violin.",
+            "[person_1] intends to let [person_1] know about the newspaper."
+        ],
+        "reason": [
+            "Maybe it is the technique of stomping grapes.",
+            "[person_1] lowered her hand and then raised her hand to play.",
+            "Because it is his dreams.",
+            "[person_1] is in a position about to lift weights.",
+            "[person_1] is playing a piece of music."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the violin?",
+        "answer": [
+            "[person_1] will give [person_1] money.",
+            "[person_1] will feel shy.",
+            "Perhaps his father will be angry.",
+            "The goat will go to [person_1].",
+            "Maybe [person_1] will go home."
+        ],
+        "reason": [
+            "Because his father thinks breaking something is not good.",
+            "[person_1] will play slow.",
+            "[person_1] will jump right after that.",
+            "[person_1] comes here not to swim.",
+            "[person_1] is having fun playing with water."
+        ]
+    }
+}

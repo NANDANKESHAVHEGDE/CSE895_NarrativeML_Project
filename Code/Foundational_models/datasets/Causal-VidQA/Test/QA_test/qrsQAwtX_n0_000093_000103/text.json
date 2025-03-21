@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is outside.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is excited about painting.",
+            "[person_1] is excited about riding a unicycle.",
+            "[person_1] is excited about riding a [person_1].",
+            "Because [person_1] finds the game interesting.",
+            "[person_1] is playing with a scooter."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to not eat.",
+            "[person_1] is going to continue waxing back for [person_1].",
+            "[person_1] is going to go home.",
+            "[person_1] is going to leave the scooter.",
+            "[person_1] is going to continue eating."
+        ],
+        "reason": [
+            "There are many other scooters where [person_1] reached.",
+            "[person_1] is putting hand down.",
+            "[person_1] is lifting weights.",
+            "Sled is broken.",
+            "[person_1] feels excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] asks other people to play together ?",
+        "answer": [
+            "Perhaps [person_1] will have many friends.",
+            "[person_1] will go out.",
+            "[person_1] will be full of stomach.",
+            "[person_1]'s mother will not help [person_1].",
+            "[person_1] can throw the first ball through the hoop."
+        ],
+        "reason": [
+            "[person_1] does not wear any protective arms.",
+            "The audience claps to encourage them.",
+            "[person_1] is riding alone.",
+            "[person_1] did not win the contest.",
+            "[person_1] has finished the song."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is it?",
+        "answer": [
+            "[person_1] is behind [person_1].",
+            "[person_1] and [person_1] are in the playground.",
+            "It is in a factory.",
+            "[person_1] and [person_1] are sitting in a wheelbarrow.",
+            "[person_1] is kneeling on the ground to propose to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use a circular saw?",
+        "answer": [
+            "Because there are not many people on the road and it is very suitable for practice.",
+            "The weather is summer.",
+            "By massaging at [person_1]'s neck.",
+            "To help do mountain climbers.",
+            "To fix the shape of the board."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] may clean the inside.",
+            "[person_1] may continue to stand there.",
+            "[person_1] will fix some minor flaws.",
+            "[person_1] may keep shaking ropes."
+        ],
+        "reason": [
+            "To make the board perfect.",
+            "[person_1] fell under the bed.",
+            "[person_1] is jumping very hard.",
+            "[person_1] is a coach.",
+            "[person_1] still holds the broom."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hurt his hand?",
+        "answer": [
+            "[person_1] will be in danger of life.",
+            "[person_1] would keep going.",
+            "the birds will fly away.",
+            "[person_1] will stop showing the wrench.",
+            "[person_1] will find some bandages and a pair of gloves."
+        ],
+        "reason": [
+            "The throat of [person_1] was sore so he couldn't get the breath to play the flute.",
+            "Maybe [person_1] will be injured.",
+            "Because [person_1] and [person_1] are good friends.",
+            "To protect [person_1]'s hands.",
+            "The bird lands on the mesh fence to be fed."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is shaking the cup.",
+            "[person_1] is bouncing the ball on the ground.",
+            "[person_1] is holding a card.",
+            "[person_1] is riding a horse.",
+            "[person_1] is operating the circular saw."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit on the floor?",
+        "answer": [
+            "[person_1] wants [person_1] to be nearer.",
+            "[person_1] , [person_1] and [person_1] are practicing together.",
+            "[person_1] prepares for opening the gift box that [person_1] is given",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to open the gift box which [person_1] is given.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] will pick up the baby.",
+            "Maybe [person_1] is going to sit."
+        ],
+        "reason": [
+            "There are many trees in the garden.",
+            "[person_1] put the card in the floor and held the wrapping paper.",
+            "[person_1] is holding a title.",
+            "[person_1] is jumping very professionally.",
+            "[person_1] jumped into the lake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the gift box is empty?",
+        "answer": [
+            "[person_1] will sneeze continuously.",
+            "[person_1] will be very sad.",
+            "She will light some candle and make a wish.",
+            "[person_1] will pay the fine.",
+            "Then [person_1] will stop."
+        ],
+        "reason": [
+            "The bottles are moving because of the band is moving.",
+            "[person_1] is dancing indoors.",
+            "In the gift box there is only one card.",
+            "The gong is too heavy to knock with hands.",
+            "[person_1] couldn't play piano."
+        ]
+    }
+}

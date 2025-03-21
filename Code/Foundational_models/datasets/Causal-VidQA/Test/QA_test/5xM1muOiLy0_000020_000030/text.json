@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is jumping on the couch.",
+            "[person_2] is opening a present for [person_2].",
+            "[person_2] is wearing a headphone.",
+            "[person_2] is taking photos.",
+            "[person_2] is lying on a pillow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] smiling?",
+        "answer": [
+            "[person_1] is delighted with the gift received.",
+            "[person_2] got a gift.",
+            "[person_1] and [person_1] are enjoying the song's melody.",
+            "[person_1] is tickling him.",
+            "[person_1] does not succeed in the game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play stacking cups.",
+            "[person_1] may continue to tickle [person_2].",
+            "[person_1] may get down.",
+            "[person_1] may go back home.",
+            "[person_1] will continue to jump long distances."
+        ],
+        "reason": [
+            "When [person_2] lies back down , [person_1] raises her hands and prepares to tickle.",
+            "[person_1] legs keep going up and down.",
+            "[person_1] is going to have a break.",
+            "[person_1] is having fun when playing here.",
+            "[person_1] is going to finish her performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] does not smile?",
+        "answer": [
+            "[person_2] may go to comfort [person_1] at once time.",
+            "[person_1] may do something funny in front of [person_2] to make him smile.",
+            "The goats will stop getting close to [person_1].",
+            "[person_1] may stop tap dancing.",
+            "[person_2] may hurt his feet."
+        ],
+        "reason": [
+            "Because [person_1] is performing in front of many audiences.",
+            "When [person_2] has no strength , the barbell will fall down and be dangerous.",
+            "Because [person_1] wants to make [person_2] to laugh so she may do other jokes as well.",
+            "Maybe [person_1] is nearsighted . [person_1] wears glasses to see and read easier.",
+            "Because [person_2] is a baby , [person_2] may be afraid of being alone."
+        ]
+    }
+}

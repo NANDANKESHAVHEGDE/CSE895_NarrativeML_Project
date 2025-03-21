@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [dining table_1]?",
+        "answer": [
+            "The fire is in front of the [person_1].",
+            "No , the [person_1] is not.",
+            "[dining table_1] is in the room.",
+            "[person_1] is at skate place.",
+            "It is in front of [person_1] and [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in a house?",
+        "answer": [
+            "[person_1] will show the direction for [person_1].",
+            "[person_1] and [person_2] are playing together.",
+            "Because [person_2] wants to water the plants.",
+            "because [person_1] does it for fun.",
+            "[person_1] is trying to squeeze it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to continue dancing.",
+            "[person_1] is going to continue playing flute.",
+            "[person_1] is going to continue playing with [person_2].",
+            "[person_1] is going to stack the cups again.",
+            "[person_1] is going to feel shy."
+        ],
+        "reason": [
+            "Because [person_1] has finished his cooking.",
+            "[person_1] looks greatly happy for what he is doing.",
+            "[person_1] seems to be a teacher and teaches [person_1] something . ",
+            "[person_1] is pointing to the present.",
+            "Because [person_1] keeps doing the exercise and he has to pull the rope when he uses the machine."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] are hungry?",
+        "answer": [
+            "Maybe someone will give food for [person_1] and [person_2].",
+            "[person_1] will not be able to smoke.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] will learn to ride [person_2] backward.",
+            "[person_1] and [person_1] will walk out of the gym."
+        ],
+        "reason": [
+            "[person_1] will need to go ashore to warm up.",
+            "[person_1] and [person_2] hardly dance well when being tired.",
+            "[person_1] and [person_2] will need to eat something.",
+            "To drink some water and relax.",
+            "when both [person_1] and [person_2] hit each other while skating , both will loose balance and fall."
+        ]
+    }
+}

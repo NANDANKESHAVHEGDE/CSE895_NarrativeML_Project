@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing winter clothes.",
+            "[person_1] is wearing a ring.",
+            "The [person_1] is behind the [person_1].",
+            "The [person_1] is behind [person_1].",
+            "[person_1] is wearing a traditional Scottish outfit."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing outside?",
+        "answer": [
+            "[person_1] is standing outside playing his bagpipe for money.",
+            "[person_1] is ripping paper to make the boy laugh.",
+            "[person_1] playing the lute for fun.",
+            "[person_1] is standing outside to make money preforming music as a street performer.",
+            "[person_1] is unboxing the present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the preparation?",
+        "answer": [
+            "[person_1] will continue to play his bagpipes outside until he is satisfied with the amount of money he's earned.",
+            "The board in the hand of [person_1] will be broken.",
+            "[person_1] will use the knife to cut something.",
+            "He will be jogging on the treadmill.",
+            "Move them out of the way."
+        ],
+        "reason": [
+            "[person_1] is playing bagpipes outside and has his bagpipe case open next to him for people to give him money.",
+            "Because a man is going to break the board.",
+            "Because there are still some boards on the table.",
+            "Because he is a bartender and he is very skilled in mixing wine.",
+            "Because it seems like that it is her birthday."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if a thief tried to steal the case full of money next to [person_1]?",
+        "answer": [
+            "[person_1] would quickly stop playing his instrument to chance after the thief and get his money back.",
+            "[person_1] would not eat the candy.",
+            "[person_1] would run to [person_1].",
+            "[person_1] might fall after the flip.",
+            "[person_1] will bend down to pick it up."
+        ],
+        "reason": [
+            "Because the [person_1] knows the method.",
+            "[person_1] won't be able to pump gas into the car.",
+            "[person_1] missed [person_1].",
+            "[person_1] puts effort and time into making money being a street performer and would not want a thief to steal his money.",
+            "It's good to receive other people's good wishes."
+        ]
+    }
+}

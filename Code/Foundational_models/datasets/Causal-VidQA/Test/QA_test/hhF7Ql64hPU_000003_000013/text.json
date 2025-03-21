@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is red.",
+            "It is dark green.",
+            "The scooter.",
+            "It's red.",
+            "It is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] here?",
+        "answer": [
+            "Maybe [person_1] likes to smoke.",
+            "[person_2] is playing with [person_1].",
+            "Because [person_1] is rich.",
+            "Because the [person_1] is going to ride the scooter.",
+            "To mash the tea leaves."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do?",
+        "answer": [
+            "[person_2] will lift weights and stand up straight.",
+            "[person_2] will take off the cover of the bottle.",
+            "She will use the napkin to sweep the ice cream around the girls mouth.",
+            "[person_2] will continue to play with [person_1].",
+            "She will apply the rest of [person_1]'s nails to nail polish."
+        ],
+        "reason": [
+            "Because [person_2] seems to be very affectionate and intimate towards [person_1].",
+            "[person_2] can't run well with [person_1] there.",
+            "[person_2] is on a competition.",
+            "[person_2] is preparing for it.",
+            "[person_2] is doing side plank."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] left?",
+        "answer": [
+            "[person_1] will be happy.",
+            "[person_1] might be very sad.",
+            "[person_1] probably will goes home.",
+            "[person_1] will not vacuum the carpet.",
+            "[person_1] will not sad and may continue playing other badminton match."
+        ],
+        "reason": [
+            "[person_1] is very old.",
+            "As heavy as the hammer is , it would deliver a fatal blow to anyone got hit.",
+            "[person_2] is blocking the path in which [person_1] and others are traveling.",
+            "To take some medical examinations.",
+            "Because [person_1] is currently having so much fun with [person_2]."
+        ]
+    }
+}

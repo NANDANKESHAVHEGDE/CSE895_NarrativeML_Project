@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [refrigerator_1]?",
+        "answer": [
+            "[refrigerator_1] and [refrigerator_1] are in the pool.",
+            "[refrigerator_1] and [refrigerator_1] are in the room.",
+            "[refrigerator_1] and [refrigerator_1] are in the recording studio.",
+            "The [refrigerator_1] is white.",
+            "[refrigerator_1] and [refrigerator_1] are in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is excited about holding these cups.",
+            "Because [person_1] is playing in the room.",
+            "[person_1] is reading [person_1].",
+            "Because [person_1] is lifting weights.",
+            "Maybe [person_1] is playing laser tag."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to continue playing badminton without a net with [person_1] on the grass.",
+            "[person_1] may be going to put the heavy barbell back.",
+            "[person_1] is going to lift the barbell.",
+            "[person_1] is going to continue to train."
+        ],
+        "reason": [
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] just started.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground.",
+            "The car [person_1] is waiting for hasn't come yet.",
+            "[person_1] used the tape on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes training ?",
+        "answer": [
+            "[person_1] will go office.",
+            "[person_1] , [person_1] and [person_1] may have to find [person_1].",
+            "[person_1] will go bar.",
+            "Maybe [person_1] will take a rest.",
+            "[person_1] will go home."
+        ],
+        "reason": [
+            "The napkin did it's job.",
+            "[person_1] will need to rest.",
+            "Using the hand dryer makes her hands drier than using tissues.",
+            "[person_1] will need to work.",
+            "[person_1] seems to be a beginner and hoops quite slowly."
+        ]
+    }
+}

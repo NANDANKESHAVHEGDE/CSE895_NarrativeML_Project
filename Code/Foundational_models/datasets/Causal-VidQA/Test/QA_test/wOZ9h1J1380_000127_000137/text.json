@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [couch_1]?",
+        "answer": [
+            "[person_1] is standing beside the sink.",
+            "[person_1] is standing on a mattress.",
+            "[couch_1] is on the floor outside.",
+            "[couch_1] is behind [person_1].",
+            "[person_1] is standing in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] looking up the ceiling?",
+        "answer": [
+            "[person_1] is using his trowel to plaster the ceiling.",
+            "[person_1] blowing smoke out of her mouth.",
+            "It is more stable for [person_1] to handle",
+            "Because [person_1] finished reading the book.",
+            "Because [person_1] is not old enough to stand up."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the cigarette in her mouth.",
+            "[person_1] is going to do one more high kick.",
+            "[person_1] is going to put her left hand down.",
+            "[person_1] is going to leave.",
+            "[person_1] is going to rest a little bit."
+        ],
+        "reason": [
+            "[person_1] takes his hands off the guitar.",
+            "[person_1] is opening and closing her mouth.",
+            "[person_1] is moving her hand down toward her waist.",
+            "[person_1] just reached for a piece of food , and is ready to throw.",
+            "[person_1] needs to lean back to keep her balance on the back of the mechanical bull."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] step back?",
+        "answer": [
+            "[person_1] will be lie down on the floor.",
+            "[person_1] can not fly.",
+            "[person_1]'s mother will change the diaper.",
+            "[person_1] and [couch_1] would stop the drill.",
+            "[person_1] can sit on the [couch_1]."
+        ],
+        "reason": [
+            "Because [person_1] and [person_1] are outside.",
+            "[person_1] wants the baby to make an effort.",
+            "[couch_1] is behind [person_1].",
+            "[person_1] will win.",
+            "Because [person_1] is just a boy."
+        ]
+    }
+}

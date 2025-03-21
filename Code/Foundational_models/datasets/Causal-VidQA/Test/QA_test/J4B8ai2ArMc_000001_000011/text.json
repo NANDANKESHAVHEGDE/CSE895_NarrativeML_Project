@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bottle_1]?",
+        "answer": [
+            "A teacher.",
+            "[dining table_1] is behind [bottle_1].",
+            "He is a student.",
+            "The [dining table_1] is placed on the right of the screen.",
+            "The [bottle_1] is on the [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] standing near [person_2]?",
+        "answer": [
+            "[person_3] and [person_3] are wrestling.",
+            "[person_2] pulled the wax in the opposite direction of the hair growth.",
+            "The [person_3] has just beaten and fallen.",
+            "[person_3] is observing the game.",
+            "[person_3] is playing bagpipe very enthusiastically."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may fall down.",
+            "[person_2] is going to try to make bubbles again.",
+            "[person_2] is going to keep on playing beer pong.",
+            "[person_2] is going to fall down.",
+            "[person_2] is going to open the present."
+        ],
+        "reason": [
+            "To put away the clothes.",
+            "Because [person_2] stopped dancing.",
+            "Because [person_2] gave him another ball.",
+            "[person_2] is a professional performer.",
+            "There are a lot of cups on the [dining table_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it gets dark?",
+        "answer": [
+            "Maybe [person_1] will go home and rest.",
+            "Maybe [person_1] will stop standing there temporarily.",
+            "Maybe [person_1] will have a meal with [person_1]'s family.",
+            "Maybe [person_1] would not fall down.",
+            "[person_1] will have to coax [person_1]."
+        ],
+        "reason": [
+            "[person_1] is not practical enough to skate by his own and he is very young.",
+            "[person_1] just wears a tank top.",
+            "[person_1] will take care of himself.",
+            "[person_1] will need to take a rest.",
+            "[person_1] is holding a wine glass."
+        ]
+    }
+}

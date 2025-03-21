@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is white.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have a beard?",
+        "answer": [
+            "[person_1] is middle aged.",
+            "[person_1] is sharing about his feeling.",
+            "[person_1] needs a jacket to keep himself warm.",
+            "[person_1] stood up to help [person_1].",
+            "[person_1] is a singer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to dance.",
+            "[person_1] is going to go home.",
+            "[person_1] is going to continue waxing back for [person_1].",
+            "[person_1] is going to practice playing flute.",
+            "[person_1] want to exercise with the exercising ball."
+        ],
+        "reason": [
+            "[person_1] is holding a flute.",
+            "[person_1] is paying attention to other things.",
+            "Because [person_1] has a brush in his hand.",
+            "The egg is not cooked yet.",
+            "[person_1]'s feet are numb."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "The room will still light.",
+            "The baby may be afraid.",
+            "The room will have no light.",
+            "The man will stop boxing.",
+            "[person_1] will stop playing baseball."
+        ],
+        "reason": [
+            "There is a lot of light shining through the window into the room.",
+            "Because inside the store will be dark.",
+            "[person_1] and [person_1] will have to wait for the technical side to handle.",
+            "The lights will not have electricity to glow.",
+            "There is no light in the room."
+        ]
+    }
+}

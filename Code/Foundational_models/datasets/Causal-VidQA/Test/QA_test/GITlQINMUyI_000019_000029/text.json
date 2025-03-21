@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [teddy bear_1]?",
+        "answer": [
+            "The [teddy bear_1] is on the floor.",
+            "[teddy bear_1] is placed near the sink.",
+            "It is a mirror.",
+            "The [teddy bear_1] playing accordion inside the house.",
+            "It is an opened coco."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [teddy bear_1] there?",
+        "answer": [
+            "The [teddy bear_1] is there so that [person_1] can play with.",
+            "[teddy bear_1] is put there for [person_1] to sit.",
+            "[person_1] is unwrapping her present to see her gift inside.",
+            "[person_1] is excited about playing in the playground.",
+            "[person_1] wants to open the cloth after dyeing it."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may put off the cap and wear another cap.",
+            "The [person_1] may stop washing the right feet of the [person_1].",
+            "[person_1] will go out of the pool and rest.",
+            "The [person_1] may complete laying tiles.",
+            "The [person_1] may still pull the bellows of mini accordion."
+        ],
+        "reason": [
+            "The [person_1] tries playing accordion then pulls the bellows.",
+            "The [person_1] sits on the couch for playing accordion.",
+            "The [person_1] has finished washing the square plate.",
+            "The [person_1] puts the stone down and moves his body to lift it.",
+            "The [person_1] turns left and goes somewhere."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] does not trip over the [teddy bear_1]?",
+        "answer": [
+            "The [person_1] will not get hurt after tripping.",
+            "The beer in the [person_1] will fall out of the cup.",
+            "The [person_1] will not get hurt before tripping.",
+            "The [teddy bear_1] will keep swimming.",
+            "The [person_1] will get hurt after tripping."
+        ],
+        "reason": [
+            "The [person_1] walks away the [teddy bear_1] to take accordion.",
+            "The [person_1] puts accordion in the [person_1].",
+            "The [person_1] walks past the [teddy bear_1] to take accordion.",
+            "Because the action is hard and needs great balance or else [person_1] will fall down.",
+            "The [person_1] walks past the [teddy bear_1] to leave accordion."
+        ]
+    }
+}

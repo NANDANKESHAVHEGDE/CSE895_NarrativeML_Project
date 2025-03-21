@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is blue.",
+            "The shirt is black and white.",
+            "The shirt is gray.",
+            "It's white.",
+            "It's green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing lute?",
+        "answer": [
+            "It may be abandoned for a long time.",
+            "[person_1] has bad eyesights.",
+            "[person_1] is recording the video.",
+            "[person_1] can see his moves in the mirror which is installed in front of him.",
+            "Glasses make [person_1] look cooler."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may divide the cake among others.",
+            "[person_1] may bend over.",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] is going to continue play the lute."
+        ],
+        "reason": [
+            "[person_1] likes sledding.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is dancing in free style.",
+            "[person_1] is landing on the street.",
+            "[person_1] is very attentive."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lute is small?",
+        "answer": [
+            "[person_1] won't be able.",
+            "[person_1] would keep on shaving.",
+            "[person_1] will be able.",
+            "[person_1] will hold on and stop the machine.",
+            "Maybe [person_1] will have a wound or damage in the body."
+        ],
+        "reason": [
+            "The lute is too small to play.",
+            "Old people cannot stand fierce movement.",
+            "The lute is too small to touch.",
+            "The machine may hurt the cat.",
+            "The lute is too small to enjoy."
+        ]
+    }
+}

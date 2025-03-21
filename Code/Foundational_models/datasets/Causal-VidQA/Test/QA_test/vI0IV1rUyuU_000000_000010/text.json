@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the bangle [person_1] wearing ?",
+        "answer": [
+            "It is black.",
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear the bangle ?",
+        "answer": [
+            "[person_1] is playing electric bass guitar.",
+            "It's daytime outside.",
+            "[person_1] likes it.",
+            "[person_1] wants to grind them.",
+            "Because he wants to speak loudly."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue using the piano.",
+            "[person_1] intends to go on playing harmonica.",
+            "[person_1] intends to go out.",
+            "[person_1] intends to play another games.",
+            "[person_1] intends to continue to fold the napkin."
+        ],
+        "reason": [
+            "[person_1] is moving her feet.",
+            "[person_1] is pressing on the keyboard.",
+            "[person_1] will feel tired after playing.",
+            "[person_1] is putting the harmonica down.",
+            "[person_1] is standing up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the piano falls ?",
+        "answer": [
+            "It will be broken seriously.",
+            "He would jump up.",
+            "The woman would shout out.",
+            "[person_1] may have to plaster the wall by himself.",
+            "[person_1] may feel regret."
+        ],
+        "reason": [
+            "He was scared about the broken vase.",
+            "[person_1] won't be able to play it.",
+            "The entertainment area becomes dark then.",
+            "[person_1] couldn't see the way.",
+            "The room became very noisy."
+        ]
+    }
+}

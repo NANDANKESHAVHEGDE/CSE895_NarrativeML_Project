@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there on the stage ?",
+        "answer": [
+            "There are three people on the stage.",
+            "It seems like a beer.",
+            "White.",
+            "Red.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] on the stage ?",
+        "answer": [
+            "Perhaps [person_1] loves it.",
+            "The [person_1] is polishing the table.",
+            "[person_1] is showing how to peel a banana easily.",
+            "Maybe [person_1] is performing [person_1]'s performance.",
+            "The [person_1] is learned how to skate by the [person_1] and [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] is going to \b continue playing guitar.",
+            "[person_1] will continue pulling the weights.",
+            "[person_1] will probably continue to lift the dumbbell.",
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] may keep on skateboarding."
+        ],
+        "reason": [
+            "[person_1] has prepared a hole on the ground.",
+            "[person_1] is playing harp.",
+            "[person_1] didn't catch any fish because the current was too strong.",
+            "[person_1] is concentrating on making the basket deftly.",
+            "[person_1] is holding the guitar and playing attentively."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the glasses of [person_3] falls down ?",
+        "answer": [
+            "The bass guitar will not sound good.",
+            "[person_3] will not pick the glass up.",
+            "[person_3] can take another chips to eat.",
+            "[person_3] and others would need to run to the car immediately.",
+            "[person_3] may not film this video."
+        ],
+        "reason": [
+            "The [person_3] has the [person_3] for cutting purpose.",
+            "The [person_3] is little and the [person_3] would lose balance.",
+            "Because [person_3] is performing on the stage.",
+            "Because the legs of [person_3] will not touch the ground.",
+            "Because [person_3] could not instruct how to unlock a lock if [person_3] did not know how to do."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where did [person_1] put the bottle?",
+        "answer": [
+            "[person_1]'s pants is white.",
+            "It is [person_1].",
+            "[person_1] is on the floor.",
+            "[person_1] is on the sand.",
+            "His navel."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] drink all the beer in the bottle?",
+        "answer": [
+            "To relax [person_1]'s head.",
+            "[person_1] is saying something out loud.",
+            "[person_1] is trying to take a picture.",
+            "Because the weather was hot and he was thirsty.",
+            "[person_1] first does mountain climbers slowly and then becomes fast."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is about to eat.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] will eat the apple on the table.",
+            "[person_1] will leave.",
+            "[person_1] will lie on the [chair_1]."
+        ],
+        "reason": [
+            "Because there are steps next to [person_1].",
+            "People get a little dizzy after drinking . They lie down and rest.",
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1]'s feet are numb.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] cannot drink so much?",
+        "answer": [
+            "[person_1] will feel dizzy.",
+            "[person_1] can play other toys.",
+            "[person_1] should stay away from [person_1].",
+            "[person_1] will look back.",
+            "[person_1]'ll have a rest."
+        ],
+        "reason": [
+            "The [person_1] is next to the [person_1].",
+            "[person_1] drink the whole bottle of beer.",
+            "The [person_1] is on a height above from the ground.",
+            "The [person_1] is on a height above the ground.",
+            "[person_1] maybe release the air."
+        ]
+    }
+}

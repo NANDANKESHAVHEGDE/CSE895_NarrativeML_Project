@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] wearing?",
+        "answer": [
+            "He is a figure in the picture on the wall.",
+            "[person_3] is wearing a black dress.",
+            "No , the [person_3] is not . The [person_3] is looking down the keyboard.",
+            "[person_3] is on a stage.",
+            "[person_3] is wearing a t - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] wearing a t - shirt?",
+        "answer": [
+            "Because [person_3] likes it.",
+            "[person_3] is sitting and playing.",
+            "Because [person_3] has a sore hand.",
+            "[person_3] needs to be comfortable to move.",
+            "Because [person_3] sees another person looking exactly like him in it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] about to do?",
+        "answer": [
+            "The [person_3] may keep putting the microphone toward the [person_3].",
+            "The person will put another piece of meat into [person_3].",
+            "[person_3] is about to staring at the ball.",
+            "[person_3] is going to observe [person_3] throw his axe.",
+            "The [person_3] is going to take photos of the [person_3]."
+        ],
+        "reason": [
+            "The woman is holding a bag and there are many apples in front of the woman.",
+            "Because he can control the camel by holding the rope.",
+            "[person_3] threw the ball and had to watch closely to know if it went in the basket.",
+            "[person_3] is taking something out of his pocket.",
+            "[person_3] seems to quite enjoy dancing and waves the body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] did not swerve [person_4]?",
+        "answer": [
+            "The [person_3] could not control the screen.",
+            "[person_3] would not be able to throw the ball in the basket.",
+            "Maybe the supporters will give [person_4]'s team a nice round of applause.",
+            "[person_3] would be able to throw the ball in the basket.",
+            "[person_3] would continue to dance."
+        ],
+        "reason": [
+            "[person_1] is in the kitchen.",
+            "[person_4] is trying to block [person_1] from throwing the ball.",
+            "The [person_1] is just holding the [person_1] which helps the [person_1] control the screen.",
+            "[person_4] is not trying to block [person_1] from throwing the ball.",
+            "because [person_1] was injured because of [person_4]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the house.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is in the car.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] move backward?",
+        "answer": [
+            "[person_1] is excited about her action.",
+            "[person_2] is taking the sword out of the mouth of [person_2].",
+            "[person_2] is performing in a show.",
+            "It makes [person_1] more beautiful.",
+            "[person_1] places the accordion that leans on her chest with the key buttons confronting away from her."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will give the sword to [person_1].",
+            "[person_2] will continue to play games.",
+            "[person_2] will sit and listen to [person_1] instructions.",
+            "[person_2] will finish the food on the plate.",
+            "[person_2] will guide [person_1] how to play the hoop."
+        ],
+        "reason": [
+            "[person_2] is taking exercise and [person_2]'s body is moving.",
+            "[person_2] is rising her knife.",
+            "[person_2] is waving her hand for help from the photographer.",
+            "They are next to each other and both are opening the gifts.",
+            "[person_2] is holding the sword."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not move \u200b backward?",
+        "answer": [
+            "Maybe the sword will stuck in [person_1] mouth.",
+            "The match will not take place.",
+            "The audience will be angry with [person_1].",
+            "[person_1] will not be recorded.",
+            "[person_1] might have to stay in this room longer than she expected."
+        ],
+        "reason": [
+            "[person_2] would not be able to rip the paper in front of [person_1] if [person_2] did not have any paper.",
+            "Looking at the net before shooting soccer is very important . It helps the players gage where they are and put it on the frame easier.",
+            "[person_2] is too old and not strong enough to pull the sword out.",
+            "[person_1] will die if he drinks the wine.",
+            "Only two people can play this game."
+        ]
+    }
+}

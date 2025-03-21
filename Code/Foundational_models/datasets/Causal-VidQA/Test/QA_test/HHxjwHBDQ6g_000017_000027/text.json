@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting behind [person_1].",
+            "Along the river.",
+            "[person_1] sits by the curtains.",
+            "[person_1] is on the balcony.",
+            "[person_1] is in the competition."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the chair ?",
+        "answer": [
+            "[person_1] is smoking hookah.",
+            "[person_1] is a small baby , [person_1] cannot stand up.",
+            "Because [person_1] is smoking with his best friend.",
+            "Because [person_1] has just finished the speech.",
+            "Because [person_1] is holding maracas playing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will take the ball [person_2] handed him.",
+            "[person_2] will hold [person_2].",
+            "Maybe [person_2] is going to continue smoke hookah.",
+            "[person_2] will hit [person_2]'s belly with cards.",
+            "[person_2] is looking after [person_2]."
+        ],
+        "reason": [
+            "[person_2] needs to take care of his baby.",
+            "Maybe [person_2] finds it interesting to smoke.",
+            "[person_2] is holding the guitar.",
+            "[person_2] is holding a micro and [person_2] is talking.",
+            "[person_2] is not sitting on [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the vase breaks?",
+        "answer": [
+            "[person_1] will be frightened.",
+            "[person_1] will scream and shout.",
+            "[person_1] will be scared of [person_1].",
+            "[person_1] will stop smoking.",
+            "They will take turns doing cartwheels."
+        ],
+        "reason": [
+            "It is too dark for them to continue their performance.",
+            "The solution in the flask is gone.",
+            "[person_2] might be very angry.",
+            "[person_1] is small and alone.",
+            "[person_2] will not be able to use it."
+        ]
+    }
+}

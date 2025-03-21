@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is near next to the railing.",
+            "[chair_1] is placed next to the desk.",
+            "[chair_1] is the the baby boy.",
+            "[chair_1] is behind the [chair_1].",
+            "[chair_1] is on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the harp?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing guitar.",
+            "[person_1] is reading the newspaper and playing the harmonica at the moment.",
+            "[person_1] is preparing to play it.",
+            "[person_1] do the massage at [person_1]'s neck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep on playing his toy.",
+            "[person_1] is going to play the harp.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] may taste one piece of the fruit.",
+            "[person_1] is going to keep on dancing."
+        ],
+        "reason": [
+            "[person_1] is leaving.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is standing in the class.",
+            "[person_1] and [person_1] are friends.",
+            "[person_1] is holding it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "[person_1] would survive.",
+            "The room would not change anything.",
+            "[person_1] would perform.",
+            "The camera could film his nose.",
+            "[person_1] would not perform."
+        ],
+        "reason": [
+            "[person_1] was away from the stage.",
+            "The weather is sunny.",
+            "[person_1] was on the stage.",
+            "[person_1] should learn how to clean the room.",
+            "[person_1] was on the desk."
+        ]
+    }
+}

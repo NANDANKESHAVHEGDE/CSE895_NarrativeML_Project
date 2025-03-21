@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_2]?",
+        "answer": [
+            "[car_2] in the house far behind.",
+            "There are 6 people.",
+            "One.",
+            "There are two chairs.",
+            "[car_2] next to [car_3]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the [bicycle_1]?",
+        "answer": [
+            "[bicycle_1] has fallen down.",
+            "[person_1] is pulling up.",
+            "The [person_1] touches the bass buttons to play accordion.",
+            "Because [person_1] wants the plants to be watered all the time.",
+            "He want to play better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after he begins to ride?",
+        "answer": [
+            "[person_1] will call the staff.",
+            "[person_1] will keep riding [bicycle_1].",
+            "[person_1] is on the verge of throwing another axe.",
+            "Robots will dance again.",
+            "[person_1] is going to play."
+        ],
+        "reason": [
+            "[person_1] is pointing at her cheeks to make fun.",
+            "It seems that [person_1] enjoys it a lot.",
+            "[person_1] was injured after falling.",
+            "[person_1] is raising her hand and making the V - sign.",
+            "[person_1] wants to change a direction?"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] may not keep watching.",
+            "[person_1] won't ride the [bicycle_1].",
+            "[person_1] will enter the house.",
+            "[person_1] will stop playing guitar.",
+            "[person_1] will not keep hooping."
+        ],
+        "reason": [
+            "[person_1] will get wet if he still rides [bicycle_1].",
+            "[person_1] will go to another place.",
+            "[person_1] in the sports venue.",
+            "The competition will not continue.",
+            "Plants will die without water."
+        ]
+    }
+}

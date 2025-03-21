@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is jumping.",
+            "[person_1] is striking the wooden table.",
+            "[person_1] is playing badminton outside.",
+            "Flour water to every cup.",
+            "[person_1] is reading newspaper."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] jumping?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] is trying to reach for [apple_3].",
+            "[apple_3] is lying on [apple_3] to get a massage.",
+            "Because [person_1] has to play piano.",
+            "Because shoes helps [person_1] keeps his feet clean."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is about to go ashore.",
+            "[person_1] will dance together.",
+            "[person_1] is about to collect apples from the following trees.",
+            "[person_1] about to eat the apple.",
+            "[person_1] will scream and shout."
+        ],
+        "reason": [
+            "[person_1] dropped the apple on his hands after having looked at it.",
+            "[person_1] bend down to check the machine.",
+            "[person_1] picked up the apple and cleaned it by his hands.",
+            "[person_1] has to obey the rule.",
+            "[person_1] thinks the game is funny and is eager to play the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not drop the [apple_3]?",
+        "answer": [
+            "[apple_3] could not perform.",
+            "[person_1] will have eye pain.",
+            "[person_1] would be exhausted.",
+            "[person_1] would not have to clean it.",
+            "[apple_3] could not continue to practice."
+        ],
+        "reason": [
+            "[apple_3] would not be dirty.",
+            "[person_1] will have no reason to sit in the room anymore.",
+            "[person_1] will focus on playing.",
+            "It says , \" suck works . \"",
+            "A statue does not move."
+        ]
+    }
+}

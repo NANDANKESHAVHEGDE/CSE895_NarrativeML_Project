@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[dining table_1] is in the corner of the yard.",
+            "[cup_1] is sitting on the floor.",
+            "[cup_1] is on [dining table_1].",
+            "[cup_1] is on the desk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] with [person_4]?",
+        "answer": [
+            "[person_1] is performing with [person_4].",
+            "[person_1] and [person_1] are skating together.",
+            "[person_1] is \u00a0 smoking hookah.",
+            "Her father is not in company with her.",
+            "[person_1] expresses emotionally to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_4] do next?",
+        "answer": [
+            "[person_1] will land on the water.",
+            "[person_1] and [person_1] will continue practicing the clarinet.",
+            "[person_1] and [person_4] will sing a birthday song.",
+            "[person_1] and [person_4] will continue performing.",
+            "They are going to take photos."
+        ],
+        "reason": [
+            "[person_1] is preparing to pull the sword out first.",
+            "[person_1] and [person_4] are peeling off the wrapping paper.",
+            "Because [person_1] cannot handle the snake by himself.",
+            "Because that can reach the climax of the dance.",
+            "[person_1] and [person_4] are not likely to stop performing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not on stage?",
+        "answer": [
+            "[person_1] might not be able to perform.",
+            "[person_1] would have to perform alone.",
+            "[person_4] might not be able to perform.",
+            "[person_1] may fold the clothes alone.",
+            "[person_1] , [person_1] and [person_4] would not be on the stage."
+        ],
+        "reason": [
+            "[person_4] need to perform with [person_1].",
+            "Because when [person_1] and [person_1] are talking with each other , that [person_4] yawns makes [person_1] and [person_1] lean back.",
+            "[person_1] and [person_4] have no one to guide.",
+            "The dance needs two people.",
+            "[person_1] is still trying now."
+        ]
+    }
+}

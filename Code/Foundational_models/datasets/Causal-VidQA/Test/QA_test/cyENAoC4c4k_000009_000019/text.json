@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is black.",
+            "The shirt is pink.",
+            "The shirt is green.",
+            "It's white.",
+            "[person_1] is wearing a blue and white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing with cups.",
+            "[person_1] is looking at the book and playing flute.",
+            "[person_1] is opening present.",
+            "Maybe [person_1] is listening to music.",
+            "He wants to see if there is anything outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "[person_1] may want to pick up the ball next.",
+            "[person_1] will continue to open the present.",
+            "[person_1] may continue to do the next set of exercises.",
+            "[person_1] will change the component of the power drill."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "[person_1] looks very happy.",
+            "Because [person_1] divides the money into piles.",
+            "Maybe [person_1] is afraid of something.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets the item she likes the most?",
+        "answer": [
+            "[person_1] will put down the rope.",
+            "[person_1] could hit [person_1].",
+            "The [person_1] will wash the clothes for the [person_1].",
+            "[person_1] will trip over [person_1]?",
+            "Maybe [person_1] will jump up."
+        ],
+        "reason": [
+            "There are still two gongs in the room.",
+            "They find repeating a single dance very boring.",
+            "[person_1] will be surprised.",
+            "Babies tend to be more popular with adults . And they don't want to see they cry.",
+            "The objective of the game \" Playing beer pong \" is to get drunk."
+        ]
+    }
+}

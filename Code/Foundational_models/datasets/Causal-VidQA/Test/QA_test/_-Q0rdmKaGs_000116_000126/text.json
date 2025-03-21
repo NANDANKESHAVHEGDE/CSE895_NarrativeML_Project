@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the outside.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is sitting on bed.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is wearing the shoes.",
+            "[person_1] is playing chess with [person_1] and [person_1].",
+            "[person_1] is standing and stacking cups.",
+            "[person_1] is making fun of others.",
+            "Because [person_1] is sitting weaving."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to keep wearing the shoes.",
+            "[person_1] tends to knock on the gong one more time.",
+            "[person_1] tends to turn around.",
+            "[person_1] has an intention of pulling the rope.",
+            "[person_1] tends to tear the paper."
+        ],
+        "reason": [
+            "[person_1] is still holding the shoe and putting it in the foot.",
+            "[person_1] is raising the right hand.",
+            "[person_1] is holding a baseball bat.",
+            "[person_1] has each stick in each hand and she is pointing another stick at the hole of the plate.",
+            "[person_1] threw the ball high and kicked it in the sky."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [bed_1] weren't there?",
+        "answer": [
+            "[person_1] would not sit next to [bed_1].",
+            "The [person_1] climb ladder.",
+            "That friend would continue playing kickball.",
+            "[person_1] would try to practice.",
+            "[person_1] will ask [person_1] to go to the shop."
+        ],
+        "reason": [
+            "There would not be [bed_1] for [bed_1] to look.",
+            "Because [bed_1] may be hurt by the toy.",
+            "The [bed_1] is standing near the head of the [bed_1].",
+            "There would be only [bed_1] that was big enough to sit next to.",
+            "So [bed_1] cannot drive the sled."
+        ]
+    }
+}

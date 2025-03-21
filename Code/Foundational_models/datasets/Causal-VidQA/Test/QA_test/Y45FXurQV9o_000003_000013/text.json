@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is placed at the corner.",
+            "It is in the garden.",
+            "The [potted plant_1] is on the [potted plant_1].",
+            "The [potted plant_1] is in the room.",
+            "It is in the room and near window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is interested in playing a game.",
+            "Because [person_1] is working out his biceps with resistance bands",
+            "Because [person_1] is reading a book.",
+            "That is the concert of [person_1].",
+            "[person_1] is in the room playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after this action?",
+        "answer": [
+            "[person_1] will go on playing this game.",
+            "Maybe the father of [person_1] wants to tell [person_1] how to brush teeth correctly.",
+            "[person_1] will finish roasting the beans within the cooker and then pour out the roasted beans into [person_1].",
+            "[person_1] will finally remove the cork.",
+            "The [person_1] is about to come off."
+        ],
+        "reason": [
+            "[person_1] looks very contented.",
+            "Because [person_1] and [person_1] are having a good time.",
+            "The sharp sword may hurt someone if it has not been preserved.",
+            "Because [person_1] seems to be very tired after the show.",
+            "[person_1] just stands here and lets the camera show how [person_1] looks like."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] is weary?",
+        "answer": [
+            "Maybe [person_4] will take part in the performances.",
+            "[person_4] won't give anymore.",
+            "Perhaps [person_4] will not face - plant on the puddle.",
+            "[person_4] will eat the watermelon with spoon.",
+            "Maybe [person_4] will not stand there to join the game."
+        ],
+        "reason": [
+            "[person_4] is sitting on [person_4] legs.",
+            "[person_4] under [person_4] will keep the floor from getting dirty.",
+            "[person_4] only uses walking and doing exercise reduce weight.",
+            "[person_4] just feels natural before [person_4] does exercise.",
+            "[person_4] will need to sleep."
+        ]
+    }
+}

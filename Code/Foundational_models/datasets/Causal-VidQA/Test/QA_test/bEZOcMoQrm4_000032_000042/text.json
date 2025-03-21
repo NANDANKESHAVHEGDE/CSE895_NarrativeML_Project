@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the [dining table_1]?",
+        "answer": [
+            "The [dining table_1] is long and big.",
+            "[dining table_1] is wearing a black shirt.",
+            "It is lying on the ground.",
+            "[dining table_1] is in the table.",
+            "[dining table_1] is next to the windows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] arranging cups on the [dining table_1]?",
+        "answer": [
+            "[person_1] is sitting and playing.",
+            "Because [person_1] is playing the violin with his friends in the room.",
+            "[person_1] is sitting on the chair.",
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "[person_1] is playing beer pong."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will celebrate.",
+            "Find more decorations.",
+            "Rectify the position of the [person_2].",
+            "[person_2] will lay her head down on [person_2].",
+            "[person_2] is bound to throw the ball into the cups."
+        ],
+        "reason": [
+            "[person_2] will share the way to skate better.",
+            "[person_2] is performing in public.",
+            "[person_2] dropped the hoop and went away.",
+            "[person_2] wants to be a winner in this game.",
+            "[person_2] is learning sign language."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone suddenly rings?",
+        "answer": [
+            "Maybe [person_1] will stop doing a handstand.",
+            "[person_1] will be sad.",
+            "Maybe [person_1] will stop playing.",
+            "Maybe [person_1] or [person_2] will pick up the phone.",
+            "The [person_1] might be drawn backward by the [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] wouldn't be as strong as he is now.",
+            "There are [person_1] and [person_2] in the room.",
+            "[person_1] will pick up the phone.",
+            "Or [person_1] may not be able to continue to finish his work.",
+            "[person_1] will have to go fix [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is at the gym.",
+            "[person_1] is in his room.",
+            "[person_1] is in his bedroom.",
+            "[person_1] is in a park.",
+            "[person_1] is in a guitar shop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] wants to train to change its body.",
+            "[person_1] is playing with it.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] is playing spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] does a workout.",
+            "[person_1] may change the action.",
+            "To find more snow.",
+            "[person_1] may go to get a stick.",
+            "[person_1] may be going to take a rest."
+        ],
+        "reason": [
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "Because [person_1] is giving [person_1] instructions.",
+            "Because [person_1] is about to do it.",
+            "Because [person_1] looked at the person standing beside [person_1] and reached out the boards toward the standing person.",
+            "So that [person_1] has a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "[person_1] will stop training.",
+            "[person_1] will help the workers unload.",
+            "Then the dog can't reach the food on the table.",
+            "[person_1] would have to use another one.",
+            "The [person_1] would take them and wear them."
+        ],
+        "reason": [
+            "[person_1] might cry.",
+            "[person_1] need to peel the cocos firstly.",
+            "[person_1] was only practicing.",
+            "Because it will be very dark in the gym.",
+            "Because it will be very hot when there is no electricity."
+        ]
+    }
+}

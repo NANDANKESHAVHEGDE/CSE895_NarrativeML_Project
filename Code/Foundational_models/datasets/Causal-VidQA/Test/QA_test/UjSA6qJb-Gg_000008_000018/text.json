@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cup_1]?",
+        "answer": [
+            "The hat is white.",
+            "It is on the plastic basket.",
+            "The [cup_1] is on the table.",
+            "The [cup_1] is on the [cup_1].",
+            "[cup_1] is on the [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look joyous?",
+        "answer": [
+            "[person_1] is skipping rope with other friends.",
+            "[person_1] loves stacking cups.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is excited about doing a handstand on the [person_1].",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after finishing the game?",
+        "answer": [
+            "[person_1] will rest.",
+            "[person_1] will stop and may take a short break.",
+            "[person_1] will be taken home.",
+            "[person_1] will clean her face.",
+            "[person_1] will tidy up beard."
+        ],
+        "reason": [
+            "Because there are still some boards on the table.",
+            "Because he is a bartender and he is very skilled in mixing wine.",
+            "It seems that [person_1] is satisfied with his performance.",
+            "[person_1] has quick and beautiful jumps , spins and turns.",
+            "Panning is always disappointing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "It is probable that [person_1] won't see contact lenses to put in.",
+            "Perhaps [person_1] will stop playing the tug of war.",
+            "Maybe [person_1] will stop stacking.",
+            "Perhaps [person_1] and [person_1] will go out to play.",
+            "Maybe [person_1] will stop playing the game."
+        ],
+        "reason": [
+            "There is no other coach there.",
+            "The fingernail clipper is sharp and the fingers of the baby are small.",
+            "There is no light in the room.",
+            "[cup_1] and [cup_1] won't be able to see anything.",
+            "The room will be quite dark."
+        ]
+    }
+}

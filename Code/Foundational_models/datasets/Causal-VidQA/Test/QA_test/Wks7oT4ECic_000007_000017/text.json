@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [dining table_1]?",
+        "answer": [
+            "The [dining table_1] is in front of [person_1].",
+            "The bookshelf is behind [person_1].",
+            "A trash can.",
+            "Fire is under the wood.",
+            "There is a convex mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is excited about stacking the cups.",
+            "Because [person_1] is practicing with the weights in the room.",
+            "Because [person_1] is spraying paint on the picture.",
+            "Because [person_1] is playing in the room.",
+            "[person_1] is playing with the cups on the [dining table_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to practice.",
+            "[person_1] may turn around.",
+            "[person_1] intends to stack cups.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may continue to stand there."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is putting the hand of [person_1] onto the cups.",
+            "[person_1] is snowmobiling.",
+            "Because [person_1] is lifting the beehive."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "Then [person_1] may be rejected by the boss.",
+            "[person_1] will sit on [person_1].",
+            "Maybe [person_1] will stop stacking.",
+            "[person_1] will not play keyboard any more.",
+            "[person_1] will stop playing guitar."
+        ],
+        "reason": [
+            "The doctor came to check on him after that.",
+            "[person_1] must have a rest.",
+            "The library doesn't allow people to speak loud.",
+            "[person_1] practices very hard.",
+            "[person_1] was not wearing the right things."
+        ]
+    }
+}

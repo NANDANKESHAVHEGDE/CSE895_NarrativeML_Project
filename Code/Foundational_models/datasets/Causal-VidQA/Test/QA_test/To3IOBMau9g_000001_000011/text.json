@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a dress?",
+        "answer": [
+            "It is black.",
+            "No.",
+            "Light is above [person_1].",
+            "Yes.",
+            "The [person_1] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a dress?",
+        "answer": [
+            "To look beautiful.",
+            "He wants to play better.",
+            "Maybe [person_1] had an accident.",
+            "[person_1] is already married.",
+            "Maybe [person_1] is footsore and can't walk."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will put his tool into the [person_1].",
+            "[person_1] is likely to do more somersaults.",
+            "[person_1] will rest.",
+            "[person_1] will carry on his training session with other players.",
+            "[person_1] won't let the kids eat candy."
+        ],
+        "reason": [
+            "[person_1] is currently in the middle of her dancing drill.",
+            "This set of actions is not finished yet",
+            "[person_1]'ve been exercising for a long time.",
+            "So that [person_1] can search easily.",
+            "[person_1] is tired if running."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is the smell of hamburger?",
+        "answer": [
+            "The [person_1] may wash the spoons in the shelf.",
+            "[person_1] might hit [person_1].",
+            "[person_1] will just look at it.",
+            "[person_1] will to to eat.",
+            "[person_1] may feel unhappy and cry."
+        ],
+        "reason": [
+            "[person_1] needs to go to school.",
+            "The swords are very sharp and dangerous.",
+            "To help [person_1] lift the boxed on the ground.",
+            "Because in a competition , everyone all wants to become the winner.",
+            "Hamburger is yummy."
+        ]
+    }
+}

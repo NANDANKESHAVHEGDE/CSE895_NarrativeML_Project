@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a black T - shirt and white pans.",
+            "[person_1] is wearing a black long - sleeved T - shirt.",
+            "[person_1] is wearing a white T - shirt.",
+            "[person_1] is wearing a sport uniform which contains a white tank top and a black short leggings.",
+            "[person_1] is in the corner of the kitchen table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] spinning the ropes?",
+        "answer": [
+            "[person_3] is helping [person_2] and [person_4] skip the ropes.",
+            "[person_3] likes playing the harp.",
+            "[person_2] is training the side kick.",
+            "[person_3] and [person_2] are spinning the rope for [person_3].",
+            "[person_2] is playing darts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to to take [person_2] to the pile of flooring tiles.",
+            "[person_2] is going to take turn and spin the rope.",
+            "[person_2] may walk toward [person_2].",
+            "[person_2] will show how to correctly blow air into the glass.",
+            "[person_2] is bound to play baseball with [person_2]."
+        ],
+        "reason": [
+            "[person_2] is being interviewed , he will share his cooking methods.",
+            "[person_2] holds the piece of plastic tightly and puts it in his mouth.",
+            "Lowering the lift on the left hand of [person_2] is one of the movements of the drill , but the lift is being raised now.",
+            "[person_2] has finished skipping and taking her turn to spin the ropes for the teammates to skip.",
+            "[person_2] wants to score because his team just lost 1 point."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not take the ropes from [person_1] ?",
+        "answer": [
+            "May be the girl will be choked by the food.",
+            "[person_2] may make the team lose.",
+            "[person_1] will feel dizzy.",
+            "[person_1] may turn on the flash light on his camera.",
+            "[person_2] would hit the mirror."
+        ],
+        "reason": [
+            "The ropes will fall and [person_2] will have to pick them up to spin again , which will slower the team.",
+            "Because there are many people and [person_1] can high five with any of them.",
+            "The girl sitting on the stool is too small and she can't swallow something hard.",
+            "because [person_2] has been hit by many snowballs before.",
+            "[person_1] would feel very shy."
+        ]
+    }
+}

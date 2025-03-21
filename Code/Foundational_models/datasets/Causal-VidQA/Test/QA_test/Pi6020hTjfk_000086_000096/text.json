@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is yellow.",
+            "It's blue.",
+            "It is purple.",
+            "It is pink.",
+            "It is orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have to hold the trapeze?",
+        "answer": [
+            "[person_1] is playing with cups on the dining table.",
+            "[person_1] repairs the shoes.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is trying to make orange juice by a squeezer.",
+            "[person_1] wants to keep herself balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] is going to get down on the matress.",
+            "[person_1] is going to warm up there.",
+            "[person_1] is going to continue stretching herself .",
+            "[person_1] is going to keep sticking the wallpaper."
+        ],
+        "reason": [
+            "[person_1] is having his turn next.",
+            "[person_1] clung the cable and her legs were lower.",
+            "Because it's a better way to show [person_1]'s strength.",
+            "The dish has been done and plated well.",
+            "To relax for several minutes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happens if the rope breaks?",
+        "answer": [
+            "[person_1]'ll find something to cover the pottery.",
+            "[person_1] might fall down.",
+            "It will be very cold.",
+            "[person_1] might fall up.",
+            "[person_1] will bring the pottery home."
+        ],
+        "reason": [
+            "[person_1] is low off the ground.",
+            "Maybe [person_1] will take it in for repair.",
+            "[person_1] is high under the ground.",
+            "It's hard to parkour when it's raining.",
+            "[person_1] is high off the ground."
+        ]
+    }
+}

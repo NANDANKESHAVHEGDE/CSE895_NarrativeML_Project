@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the lute?",
+        "answer": [
+            "It is \u00a0 light brown.",
+            "It is rectangular.",
+            "It is cylindrical.",
+            "It is black.",
+            "[person_1] is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 the lute?",
+        "answer": [
+            "[person_1] is preparing for the competition.",
+            "[person_1] is playing and singing.",
+            "[person_1] presses the button to increase the volume.",
+            "[person_1] is playing music with the people around.",
+            "[person_1] is talking about his work."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will use another hand to shake.",
+            "[person_1] will share his work with the camera.",
+            "[person_1] will stop kicking high.",
+            "[person_1] will keep performing.",
+            "[person_1] will check his result."
+        ],
+        "reason": [
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica.",
+            "[person_1] will feel tired.",
+            "[person_1] is riding fast.",
+            "[person_1] is performing very passionately.",
+            "[person_1] has just finished the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s performance ends?",
+        "answer": [
+            "The goats would walk to [person_1] and surround [person_1].",
+            "[person_1] will play with the teddy bear.",
+            "[person_1] will stop playing lute.",
+            "[person_1] may step on [person_1].",
+            "[person_1] may be feel hard to move."
+        ],
+        "reason": [
+            "[person_1] is nearsighted.",
+            "the teddy bear is near [person_1].",
+            "The [person_1] holds the shot carefully and identifies the direction.",
+            "[person_1] will be happy.",
+            "Because that is the expected result of this video."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color does [person_1] wear?",
+        "answer": [
+            "It is on [person_1].",
+            "It is lying on the floor.",
+            "It is at the corner of the room.",
+            "The shirt is black.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why the light is turned on?",
+        "answer": [
+            "With hands.",
+            "Because it's not cold even at night.",
+            "[person_1] is scoring.",
+            "For better being seen.",
+            "[person_1] is cleaning shoes for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after talking?",
+        "answer": [
+            "[person_1] will continue to eat.",
+            "[person_1] will keep riding the bike",
+            "[person_1] will give the patient the tool.",
+            "[person_1] will go on eating the cake.",
+            "[person_1] will continue show how to use the inhaler."
+        ],
+        "reason": [
+            "[person_1] needs to balance his body.",
+            "The technique of [person_1] is not perfect.",
+            "[person_1] hasn't finished showing the way to use inhaler.",
+            "[person_1] will start to play golf after showing the skills.",
+            "[person_1] is still being filmed until the end of the video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a dog breaks into the room?",
+        "answer": [
+            "[person_1] would invite the person who is on [person_1] to join the class.",
+            "[person_1] will trip over by the dog.",
+            "[person_1] will chase the dog away.",
+            "The [person_1] will go to check.",
+            "[person_1] and [person_1] would play football."
+        ],
+        "reason": [
+            "[person_1] and [person_1] arms or bodies hit each other very hard while swimming.",
+            "The dog interrupts [person_1]'s work.",
+            "There would be nothing to eat except for the table of food.",
+            "because [person_1] wants many people to study with [person_1].",
+            "Because [person_1] hits [person_1] and tries to make the bucket dropped."
+        ]
+    }
+}

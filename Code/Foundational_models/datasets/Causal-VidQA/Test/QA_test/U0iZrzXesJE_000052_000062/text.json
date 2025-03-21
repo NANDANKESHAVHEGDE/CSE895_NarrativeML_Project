@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [horse_1] look like?",
+        "answer": [
+            "The newspaper is being held by a person.",
+            "[horse_1] looks cute.",
+            "[horse_1] and [horse_1] are making a snowman.",
+            "Put the spacer back on.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "Because [person_1] can somersault.",
+            "[person_1] is playing flute in the room.",
+            "[person_1] is riding a mechanical bull.",
+            "[person_1] is opening present.",
+            "Perhaps [person_1] is taking part in a game with the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play there with a mechanical bull.",
+            "[person_1] may continue what he did.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to do a workout."
+        ],
+        "reason": [
+            "[person_1] finished the action successfully and smiled",
+            "[person_1] almost dropped the plate.",
+            "Riding a mechanical bull is very difficult to play with [person_1].",
+            "[person_1] is a beginner.",
+            "[person_1] is jumping very high."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slips?",
+        "answer": [
+            "Maybe [person_1] will go to the hospital.",
+            "Perhaps [person_1] will fall.",
+            "[person_1] will then jump into the lake.",
+            "It is possible that [person_1] can turn the television on and watch a video of tai chi.",
+            "Perhaps [person_1] will catch it."
+        ],
+        "reason": [
+            "[person_1] needs to be careful.",
+            "The [person_1] needs power to work.",
+            "It's sunny outside.",
+            "He doesn't want to appear on the public.",
+            "[person_1] looks dangerous with this action."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [vase_1]?",
+        "answer": [
+            "[vase_1] is behind [person_1] and on the table.",
+            "[person_1] is located to the right of the back of [vase_1].",
+            "[person_1] is behind [person_1] and hung on the wall.",
+            "[person_1] is holding a black guitar.",
+            "[vase_1] is the reflect of [person_1] in the mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the room?",
+        "answer": [
+            "[person_1] wants to give the ball to two people at the basketball court.",
+            "Because [person_1] wants to go out but it cannot open the door.",
+            "[person_1] is wearing make - up.",
+            "[person_1] is reading book.",
+            "Because [person_1] lost [person_1]'a center of gravity."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to apply the foundation.",
+            "[person_1] is going to introduce about her book.",
+            "[person_1] will stop watering.",
+            "[person_1] intends to spend his time playing.",
+            "[person_1] does a workout."
+        ],
+        "reason": [
+            "People are interested in the story behind [person_1].",
+            "[person_1] is going to talk with her friend.",
+            "[person_1] used a powder - buff to apply foundation cream on face.",
+            "[person_1] has finished the body color.",
+            "[person_1] needs to recover."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't apply foundation?",
+        "answer": [
+            "[person_1] may fall on the ground.",
+            "He will be fit.",
+            "It is anticipated that [person_1]'s skin won't be white.",
+            "[person_1] may struck the other man.",
+            "[person_1] would have to stop doing squat if she got injury on her knees."
+        ],
+        "reason": [
+            "The squat movements put a lot of pressure on the practitioner\u2019s knees , so [person_1] would have to stop squatting until she could recover from the knee injury.",
+            "It's wonderful for [person_1] to do the climbing twice.",
+            "They are curtains.",
+            "[person_1] would reach the top of the ice.",
+            "Apply foundation to make skin whiter."
+        ]
+    }
+}

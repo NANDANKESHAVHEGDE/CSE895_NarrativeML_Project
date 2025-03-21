@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [dog_1]?",
+        "answer": [
+            "White.",
+            "It is lying on the floor.",
+            "The shirt is black.",
+            "The [dog_1].",
+            "It is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] open the door?",
+        "answer": [
+            "Because [person_1] wants to teach [dog_1] to close the door.",
+            "Because [person_1] is playing maracas.",
+            "[person_1] is opening present.",
+            "[person_1] is skipping rope.",
+            "Because [person_1] is weaving fabric"
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will open the door again.",
+            "[person_1] is going to stack the dice again.",
+            "Maybe [person_1] is going to jump.",
+            "Perhaps [person_1] is going to jump next.",
+            "[person_1] is going to sit on the chair."
+        ],
+        "reason": [
+            "Because [person_1] wants [dog_1] to try again.",
+            "[person_1] is still performing.",
+            "[dog_1] is smiling.",
+            "Maybe [person_1] is allergic to something.",
+            "[person_1] is off balance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no rope tied to the door handle?",
+        "answer": [
+            "[dog_1] can close the door.",
+            "[dog_1] will be scared.",
+            "[dog_1] cannot close the door.",
+            "[dog_1] will put the hand on the mouth of [dog_1] down.",
+            "[dog_1] cannot open the door."
+        ],
+        "reason": [
+            "Because [dog_1] does not has hands , he has to open the door by biting the rope with its mouth.",
+            "[dog_1] and [dog_1] would not be allowed to join the drills by [dog_1].",
+            "Because [dog_1] does has hands , he has to open the door by biting the rope with its mouth.",
+            "Because [dog_1] is a little girl.",
+            "Because [dog_1] does not has hands , he has to open the door by biting the rope without its mouth."
+        ]
+    }
+}

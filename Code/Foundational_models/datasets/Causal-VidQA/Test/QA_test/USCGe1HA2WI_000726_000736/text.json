@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are the shirt [person_1] and [person_2] wearing?",
+        "answer": [
+            "Yes , there is half cup of the water.",
+            "[person_1]'s shirt is red.",
+            "The shirt is white.",
+            "The main color of the floor is green.",
+            "[person_1]'s shirt is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the chess board on the screen?",
+        "answer": [
+            "The screen shows the match of 2 players.",
+            "Because [person_2] and [person_2] are talking about something interesting.",
+            "[person_1] is a woman.",
+            "He is interested in the present.",
+            "Because [person_1] is a music star."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put the apple inside the bag.",
+            "[person_1] will drop two plates.",
+            "[person_1] will defend.",
+            "It is possible that [person_1] will play the flute to the end of the song.",
+            "[person_1]'ll change a new tire for his car."
+        ],
+        "reason": [
+            "[person_1] is thinking very carefully.",
+            "Because [person_1] has brought out the plates , [person_1] doesn't need gloves anymore.",
+            "[person_1] has poured the liquid into a cup.",
+            "[person_1] is spreading the shirt to fold.",
+            "Because the food has been put on the table , the next step is to eat it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] defeats [person_1]?",
+        "answer": [
+            "[person_2] will be very happy.",
+            "[person_1] would get a low point.",
+            "[person_2] will feel frustrated.",
+            "[person_2] will win.",
+            "[person_1] will be disappointed in himself."
+        ],
+        "reason": [
+            "If what [person_1] writes doesn't look good , it means [person_1] is not professional.",
+            "Because [person_2] still danced until the dance was finished.",
+            "[person_2] will be very delighted.",
+            "Other gyms will call [person_1] to be their spokesman.",
+            "Because the thing which [person_2] was working with was placed on the ground."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is sitting on the floor.",
+            "It is on the shelf.",
+            "[cup_1] is on the table.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting at the table?",
+        "answer": [
+            "[person_1] playing lute.",
+            "[person_1] is reading newspaper.",
+            "[person_1] stomped grapes.",
+            "[person_1] is stacking dices.",
+            "[person_1] is using a shovel to shovel the plaster and throw it on the wall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to collect all the cardboard and throw into the [person_1].",
+            "[person_1] is going to ride the horse.",
+            "[person_1] is going to fill [cup_1].",
+            "Maybe [person_1] is going to stop to eat.",
+            "[person_1] is about to play the glass ball in his hand."
+        ],
+        "reason": [
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "[cup_1] is empty after [person_1] drunk water.",
+            "Because [cup_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "Because [person_1] made a small mark with it and the carpet is big.",
+            "Because [person_1] is giving [person_1] instructions."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] would go back the garage.",
+            "[person_1] would not do this.",
+            "[person_1] would stop reading to go inside.",
+            "[person_1] may find a shelter.",
+            "[person_1] may need to pick up [person_1]'s prop from the auditorium."
+        ],
+        "reason": [
+            "[person_1] does not have an umbrella or a raincoat.",
+            "[person_1] is sitting outside.",
+            "Rainy days are not suitable for riding.",
+            "Because they are outside.",
+            "[person_1] and [person_1] do not have any umbrellas."
+        ]
+    }
+}

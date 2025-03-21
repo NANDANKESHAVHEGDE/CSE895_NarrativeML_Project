@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is \u00a0 in the swimming pool.",
+            "[person_2] is on the basketball yard.",
+            "[person_2] is in a roller skating floor.",
+            "[person_2] is sitting on [person_2].",
+            "[person_2] is the baby who is shorter."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] on the basketball yard?",
+        "answer": [
+            "Because [person_2] wanted to share the opening skills with his friends.",
+            "Because [person_2] is participating in a running competition.",
+            "[person_2] is playing basketball with friends.",
+            "Because [person_2] and [person_2] are competing.",
+            "Because [person_2] is playing beer pong."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] is going to oversee [person_4] , [person_4] and [person_4].",
+            "[person_4] is going to see what [person_4] and [person_4] are doing on the laptop.",
+            "[person_4] may stand up from the chair.",
+            "[person_4] may want to catch the ball.",
+            "It is predicted that [person_4] will continue to play the game of tug of war."
+        ],
+        "reason": [
+            "[person_4] is moving backward to catch the ball.",
+            "[person_4] is a referee at the match.",
+            "The team of [person_4] just scored.",
+            "[person_4] doesn't finish plastering.",
+            "When [person_4] follows the donut in circles , she tries to bite it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] failed to throw the ball into the basket?",
+        "answer": [
+            "[person_1] and [person_2] might not need to catch the ball.",
+            "[person_1] , [person_2] and [person_4] would teach [person_2].",
+            "[person_1] and [person_2] might need to catch the ball.",
+            "Perhaps [person_1] would feel uncomfortable with his eyes.",
+            "[person_1] and [person_2] might not need to throw the ball."
+        ],
+        "reason": [
+            "The window is made of glass and it is very tough.",
+            "[person_4] may not need to throw the ball again.",
+            "Leaving the price tag on a present is generally considered improper etiquette as the recipient doesn't need to know how much you spent.",
+            "[person_4] may need to throw the ball again.",
+            "[person_4] is out of breath."
+        ]
+    }
+}

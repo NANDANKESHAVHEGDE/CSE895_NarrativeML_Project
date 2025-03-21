@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [truck_1] parking?",
+        "answer": [
+            "[truck_1] is parking under the tree.",
+            "[truck_1] is standing on a stage.",
+            "It is a sword.",
+            "[truck_1] is standing on the grass.",
+            "It is a champagne bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] stand in the yard?",
+        "answer": [
+            "Maybe [person_1] and [person_2] wait [person_1] come back.",
+            "Because [person_1] and [person_2] want to have some fun on snowy days.",
+            "Because [person_1] is playing the flute for everyone to hear.",
+            "Because [person_1] wants to clean the base of the microscope.",
+            "Because [person_2] wants to keep the bottle stable for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to move forward.",
+            "[person_1] may go home.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to continue riding.",
+            "[person_1] will continue to play the cello."
+        ],
+        "reason": [
+            "[person_1] doesn't seem wanna stop.",
+            "[person_1] cleaned the wood very carefully.",
+            "[person_1] is excited about this book.",
+            "[person_1] looks like a manager.",
+            "[person_1] is trying to do the job fast."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] give a chase to [person_3]?",
+        "answer": [
+            "[person_1] may be a little upset.",
+            "[person_1] will be famous.",
+            "Nobody stays in the yard.",
+            "Hang up , and then go on.",
+            "[person_2] will go to find a new bandage and then restart the whole procedure."
+        ],
+        "reason": [
+            "[person_1] is too small to balance on a two wheels bike.",
+            "[person_2] will propose without the flowers.",
+            "Because all of [person_1] and [person_2] , [person_3] leave the yard.",
+            "[person_2] is small and alone.",
+            "Because the mechanical bull will remain stationary and will not rotate."
+        ]
+    }
+}

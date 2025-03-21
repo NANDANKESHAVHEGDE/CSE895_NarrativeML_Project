@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing ?",
+        "answer": [
+            "[person_1] is stomping grapes.",
+            "[person_1] is working out at a gym.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] is playing the accordion."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] clinging to the wooden stick?",
+        "answer": [
+            "Because [person_2] is afraid of falling.",
+            "[person_2] lets the drill speedily rotate the apple while he is holding a peeler on the skin.",
+            "[person_2] is making a tutorial video.",
+            "[person_2] plays the drum to encourage his favorite team.",
+            "[person_2] is doing her job to earn money."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to wash his face.",
+            "[person_1] may dry her hands without washing them with soap.",
+            "[person_1] will stretch the noodle.",
+            "[person_1] may keep mixing the drink.",
+            "[person_1] will stomp until all the grapes come out."
+        ],
+        "reason": [
+            "[person_1] is lying on the floor.",
+            "[person_1] is holding the balloon close to her mouth.",
+            "[person_1] is stomping hard.",
+            "[person_1] is still holding the pen.",
+            "[person_1] is getting out of the playing area."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] stomp the grapes hard?",
+        "answer": [
+            "[person_1] will fall down.",
+            "[person_1] will fall into the water.",
+            "[person_1] and [person_2] will have a lot of grape juice.",
+            "[person_1] will fall.",
+            "[person_1] and [person_2] will give up making the snowman."
+        ],
+        "reason": [
+            "The body is having an imbalance.",
+            "The [person_1] plays the medium size of accordion.",
+            "The [person_1] holds a mini accordion to meet [person_1] favorite.",
+            "[person_1] needs to be more careful with the darts.",
+            "The harder [person_1] and [person_2] stomp , the more water comes out."
+        ]
+    }
+}

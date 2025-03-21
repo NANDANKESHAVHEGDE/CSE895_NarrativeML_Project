@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [traffic light_1]?",
+        "answer": [
+            "[traffic light_1] in the house far behind.",
+            "[traffic light_1] next to [traffic light_1].",
+            "The room is dark.",
+            "There are three people.",
+            "The room is clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running away from the firework?",
+        "answer": [
+            "[person_1] is scared of the firework explosion.",
+            "[person_1] is celebrating because he threw the ball in the basket.",
+            "[person_1] and [person_1] are doing tai chi.",
+            "Because it's Christmas time.",
+            "[person_1] is going to put it onto the current domino string on the mat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue watering.",
+            "Maybe [person_1] will enter the house.",
+            "Perhaps [person_1] is going to come home.",
+            "[person_1] is trying to touch [person_1].",
+            "[person_1] is going to run back to the firework."
+        ],
+        "reason": [
+            "[person_1] turns around and is about to run.",
+            "Maybe [person_1] wants to express his anger.",
+            "[person_1] is spinning the hammer.",
+            "[person_1] is paying attention to it.",
+            "[person_1] is watering the plants."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't run too fast?",
+        "answer": [
+            "Mom of [person_1] will ask [person_1] to have lunch.",
+            "Then [person_1] is not in the mood to record the video.",
+            "[person_1] would end up with less than four dice to shake.",
+            "Everyone wouldn't see the hand gestures of [person_1].",
+            "the box of [person_1] wouldn't drop from the pocket of [person_1]."
+        ],
+        "reason": [
+            "There is much space on the stage , on the right side of [person_1] , [person_1] and [person_1].",
+            "Because the box of [person_1] wouldn't be affected by as much momentum and wouldn't slip out of his pocket.",
+            "Maybe [person_1] would drop some dices out of the cup when not putting the dices on the table.",
+            "Because others think [person_1] is a cold person.",
+            "There is only [person_1] in the room except [person_1]."
+        ]
+    }
+}

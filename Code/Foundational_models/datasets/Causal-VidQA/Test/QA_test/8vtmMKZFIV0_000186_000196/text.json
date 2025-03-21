@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] walking the horse slowly?",
+        "answer": [
+            "There is a wall cabinet.",
+            "[person_1] is blue.",
+            "No.",
+            "Yes.",
+            "It is a mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_1] walk the horse?",
+        "answer": [
+            "The [person_1] wants to learn how to play accordion.",
+            "The [person_1] enjoys the music with the view of beach.",
+            "He wants to ride [person_1] outside.",
+            "[person_1] is tired.",
+            "[person_1] is playing the accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after having a rest?",
+        "answer": [
+            "[person_1] will go to the bathroom.",
+            "The [person_1] and [person_1] will sing a song.",
+            "[person_1] go to have a race.",
+            "[person_1] will have a dance.",
+            "The [person_1] will put the clothes back into the bowl."
+        ],
+        "reason": [
+            "[person_1] walks over to the camera and reaches towards it like he will grab it.",
+            "[person_1] is having fun playing music , so he will continue the song.",
+            "[person_1] is an athlete.",
+            "Because they are standing in the center of the room and [person_1] just finished dancing so it will be the turn of [person_1].",
+            "[person_1] stretches his hand out a lot , so he will let it relax now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if it rains?",
+        "answer": [
+            "[person_1] will stop painting.",
+            "[person_1] would rise and win.",
+            "[person_1] and [person_1] will run into the house to shelter from the rain.",
+            "[person_1] will stop riding.",
+            "She will stop cleaning and find a place to shelter from the rain."
+        ],
+        "reason": [
+            "Because [person_1] loves eating sweets.",
+            "[person_1] will be wet.",
+            "[person_1] is standing outside.",
+            "[person_1] is injured.",
+            "[person_1] and [person_1] are doing boxing outside."
+        ]
+    }
+}

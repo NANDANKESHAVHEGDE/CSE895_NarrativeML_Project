@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is kissing her husband.",
+            "[person_1] is making the shoes.",
+            "[person_1] is removing the cork with her teeth.",
+            "[person_1] is playing guitar.",
+            "[person_1] is smiling and playing piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] making the shoes?",
+        "answer": [
+            "[person_1] needs to strip the apple speedier.",
+            "The [person_1] is used to cut the potatoes.",
+            "[person_1] makes beautiful shoes to sell them to customers.",
+            "He wants to ride [person_1] outside.",
+            "[person_1] is tired."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go to finish his job.",
+            "[person_1] may turn on the light.",
+            "[person_1] is going to a workout.",
+            "[person_1] is going to keep rubbing the shoe heel.",
+            "[person_1] will continue to play the cello."
+        ],
+        "reason": [
+            "[person_1] is still working.",
+            "[person_1] may keep trying to throw.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is going to put the shoe down.",
+            "[person_1] is going to start shining shoes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes rubbing the shoe?",
+        "answer": [
+            "The ball will tumble to the ground.",
+            "The person who is wearing number 8 shirt could not get score.",
+            "The shoe will be ready for selling.",
+            "[person_1] may miss the kick.",
+            "[person_1] will play again."
+        ],
+        "reason": [
+            "The cake will not be eaten if it is not baked.",
+            "[person_1] makes shoes to sell.",
+            "[person_1] is practicing.",
+            "The paper which [person_1] folded , is not intact.",
+            "The kite string keeps it fly."
+        ]
+    }
+}

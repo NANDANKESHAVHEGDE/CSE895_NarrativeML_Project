@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is the [book_1]?",
+        "answer": [
+            "The [book_1] is red.",
+            "It's red.",
+            "It is lying on the floor.",
+            "[book_1] is black.",
+            "The [book_1] is rectangular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] near the [vase_1]?",
+        "answer": [
+            "[person_1] is excited about making the [vase_1].",
+            "Because [person_1] is watching [vase_1] weave fabric.",
+            "Because [person_1] is snatching weight lifting.",
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is about to defense with his pillow.",
+            "[person_1] is about to sit on the copy machine.",
+            "[person_1] is about to do a tutorial about the printer.",
+            "[person_1] is about to bend the materials to form a structure.",
+            "[person_1] will still kneel down."
+        ],
+        "reason": [
+            "[person_1] will talk with people in here.",
+            "Because he wants to drive on different terrains.",
+            "[person_1] left his spot and went forward.",
+            "The hair of [person_1] is wet now and she is making up so then she will blow her hair.",
+            "[person_1] is focusing on the process meticulously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [book_2] falls?",
+        "answer": [
+            "[person_1] will feel lucky.",
+            "Maybe [person_1] won't fall.",
+            "Maybe [person_1] pick it up.",
+            "The birds will fly away.",
+            "Maybe [person_1] will cut his finger."
+        ],
+        "reason": [
+            "Because [book_2]'s attention is on the cake.",
+            "[person_1] would be hurt because the rope would bounce on [person_1].",
+            "[person_1] fell down and have to go out.",
+            "[person_1] will sit still there.",
+            "[person_1] is the only person in the room."
+        ]
+    }
+}

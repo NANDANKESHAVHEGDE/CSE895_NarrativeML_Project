@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is sitting in a hammock.",
+            "[person_1] is waxing his legs by himself.",
+            "[person_1] is playing drums."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_2] running in straight way?",
+        "answer": [
+            "[person_1] and [person_2] are in a room.",
+            "Because [person_1] is preventing him.",
+            "Because [person_1] is trying to throw discus.",
+            "[person_1] couldn't walk on feet's [person_1].",
+            "[person_2] is participating in a diving competition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lunges.",
+            "[person_1] is going to keep enjoying.",
+            "[person_1] may go to the children park.",
+            "[person_1] is going to throw the ball to [person_2].",
+            "[person_1] is going to kick high."
+        ],
+        "reason": [
+            "[person_2] teaches [person_1] how to dance.",
+            "[person_2] is raising his hand holding the ball toward [person_2].",
+            "Because [person_1] is practicing skiing.",
+            "[person_1] is playing with cups.",
+            "[person_1] loves [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can not catch the ball when it's falling?",
+        "answer": [
+            "[person_1] will do the knee kick exercise wrongly.",
+            "[person_1] need to run and pick up the ball.",
+            "[person_1] will take another plate of donut to eat.",
+            "[person_1] will eat it.",
+            "[person_1] would cry and find [person_1]."
+        ],
+        "reason": [
+            "[person_1] scored 1 goal.",
+            "[person_1] blew the balloon.",
+            "The host of the game may know how to make finger snaps.",
+            "the ball will fall on the floor , so [person_1] need to pick up it to continue the game.",
+            "Because there is not any other bubble machines."
+        ]
+    }
+}

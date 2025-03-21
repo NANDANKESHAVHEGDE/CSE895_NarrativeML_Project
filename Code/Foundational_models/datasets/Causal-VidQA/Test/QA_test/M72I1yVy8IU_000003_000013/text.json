@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The [person_2] is on the right side of [person_2].",
+            "The shirt [person_2] wearing is white.",
+            "The [person_2] is wearing checked pants.",
+            "It's black.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the weights ?",
+        "answer": [
+            "Because [person_1] is training.",
+            "[person_1] is shearing [person_1].",
+            "Because [person_1] needs the chessman to complete the movement of [person_1].",
+            "The [person_1] wanted to put something in the [person_1].",
+            "[person_1] needs [person_1] to hit the ball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to continue trying to repair floor.",
+            "[person_2] is going to keep walking on the ice with hands holding the wall.",
+            "[person_2] is going to continue dancing.",
+            "[person_2] is going to push [person_2].",
+            "[person_2] is going to continue to lift."
+        ],
+        "reason": [
+            "[person_2] is preparing to lift weights.",
+            "It's the turn of [person_2] to kick and [person_2] hasn't finished.",
+            "[person_2] just took some pictures and then walked away so [person_2] will sit somewhere like the other audiences.",
+            "[person_2] is kicking his feet and waving his hand.",
+            "[person_2] has been dancing all the time and has no tendency to stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] lifts too heavy weights ? ?",
+        "answer": [
+            "It is possible that [person_2] will stop practicing.",
+            "[person_2] will be very tired.",
+            "[person_2] will not play anymore.",
+            "[person_2] won't be able to ski.",
+            "[person_2] will fall in the buoy mattress and do not get hurt."
+        ],
+        "reason": [
+            "[person_2] and [person_2] were spinning very fast then.",
+            "Because the motorbike is bigger and heavier.",
+            "[person_2] looks old and [person_2] is not as strong as [person_1].",
+            "[person_1] is sliding very fast so [person_1] could get seriously injured.",
+            "[person_1] feels pain and be taken to the hospital."
+        ]
+    }
+}

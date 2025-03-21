@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the garden.",
+            "[person_2] is in the yard.",
+            "[person_2] is standing on the grass.",
+            "[person_2] is on the street.",
+            "[person_2] is \u00a0 in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_3] and [person_2] are whistling.",
+            "[person_2] wanted to keep her balance.",
+            "[person_3] is doing arm stretching exercises.",
+            "[person_2] is playing chess with [person_3].",
+            "Because [person_2] is practicing for the next performance of her."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will keep performing.",
+            "[person_2] will continue playing the game.",
+            "[person_2] will hold the chess pieces.",
+            "[person_2] will take a break for 5 minutes.",
+            "[person_2] will put another block on top of the tower."
+        ],
+        "reason": [
+            "Maybe [person_2] is happy.",
+            "Maybe [person_2] will win.",
+            "To make the snowman perfect.",
+            "[person_2] is not satisfied with the service.",
+            "[person_2] is showing how to use roller skate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_2] can not deal with her hair.",
+            "[person_2] won't be happy.",
+            "[person_2] will stop playing chess.",
+            "[person_2] will stop jumping.",
+            "The room will be still bright."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more.",
+            "The room will be dark."
+        ]
+    }
+}

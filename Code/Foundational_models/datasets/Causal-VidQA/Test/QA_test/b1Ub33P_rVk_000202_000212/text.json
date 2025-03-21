@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It is very dark.",
+            "No.",
+            "The dog is behind [person_3].",
+            "[person_2] is in the big yard.",
+            "[person_3] is sit on [person_3]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] inside?",
+        "answer": [
+            "[person_1] and [person_2] are the staff at this ice cream shop.",
+            "[person_1] is skipping rope with other friends.",
+            "[person_1] and [person_2] are talking to each other.",
+            "[person_1] and [person_2] are watching [person_3]'s performance.",
+            "[person_1] and [person_2] are performing the didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] will drink.",
+            "[person_1] will trying to climb to the top.",
+            "[person_1] will cook.",
+            "[person_2] is going to instruct the action of [person_1] . ",
+            "Maybe [person_1] and [person_2] may keep watching [person_3] playing lute."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are going to clap their hands.",
+            "[person_1] and [person_2] do not leave and stand straightly.",
+            "[person_2] is smiling a lot and looks quite happy.",
+            "[person_2] is in charge of holding the thing that [person_1] finds in the dumpster.",
+            "Because there is no wind for them to fly kite , they have to change a place."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] finishes his performance?",
+        "answer": [
+            "[person_1] will be feel good.",
+            "Maybe [person_3] will continue drinking beer.",
+            "Maybe [person_1] will give some comments.",
+            "The remaining person in the [person_1]'s team will continue playing instead of [person_1].",
+            "[person_1] will be not eat."
+        ],
+        "reason": [
+            "Maybe [person_1] will play lute after [person_3] performance.",
+            "Because [person_1] needs to take a rest in that situation.",
+            "Maybe [person_1] will to your taste.",
+            "Because [person_3] is a baby , [person_3] may be afraid of being alone.",
+            "Maybe [person_1] is full."
+        ]
+    }
+}

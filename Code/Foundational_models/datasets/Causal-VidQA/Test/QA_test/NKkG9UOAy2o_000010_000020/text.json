@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [bowl_1]?",
+        "answer": [
+            "It is red.",
+            "It is red and white.",
+            "The warehouse is white.",
+            "It is green.",
+            "A helmet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the [bowl_1]?",
+        "answer": [
+            "[person_1] is having a bath.",
+            "Because [person_1] wants to have two glasses of beer for two people.",
+            "Because [person_1] wants to keep the bottle stable for [person_1].",
+            "[person_1] wants to make money for the life.",
+            "Because he is given the [person_1] by his present."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do with the water in [bowl_1]?",
+        "answer": [
+            "[person_1] will continue sliding down.",
+            "[person_1] will continue dancing.",
+            "[person_1] will go home to taste the marshmallows.",
+            "[person_1] will play with water by making a splash.",
+            " [person_1] will have a quicker pace of the dance afterwards."
+        ],
+        "reason": [
+            "[person_1] has not finished the performance.",
+            "Because she needs to use nails to keep them stable.",
+            "That's when it's time for lunch.",
+            "It seems that they are showing one by one.",
+            "[person_1] is having fun with the water and his hands are splashing water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is no water in [bucket_1]?",
+        "answer": [
+            "[person_1] will take a photo of it.",
+            "[person_1] will have a leg injury.",
+            "[person_1] has to fold the paper again in a careful way.",
+            "[person_1] will play basketball in the rain.",
+            "[person_1] will not have fun anymore."
+        ],
+        "reason": [
+            "There is little water in [bowl_1].",
+            "The [bucket_1] has some knives here.",
+            "The street lights will come on when it is dark.",
+            "Standing in the sun for too long is not good for your health.",
+            "[bucket_1] won't be alone."
+        ]
+    }
+}

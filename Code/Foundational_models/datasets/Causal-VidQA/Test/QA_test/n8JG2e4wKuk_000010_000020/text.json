@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "The [couch_1] is behind the [person_1].",
+            "The [couch_1] is next to [person_1].",
+            "The [couch_1] is behind [person_1].",
+            "The [couch_1] is next to the shelf.",
+            "It is behind [person_1] ."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand to spin the plates?",
+        "answer": [
+            "[person_1] stands to move and keep better balance when spinning the plates.",
+            "Maybe it makes [person_1] become more handsome.",
+            "[person_1] wants to protect himself from wood dust.",
+            "Because a lot of people want to see their body after training.",
+            "[person_1] is slowly circling his arms."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to standing up.",
+            "[person_1] is going to feel tired.",
+            "[person_1] will catch the ball.",
+            "[person_1] is going to throw start.",
+            "[person_1] is going to jump over the bar."
+        ],
+        "reason": [
+            "[person_1] has finished eating the watermelon in his hand.",
+            "There is a couch near him .",
+            "[person_1] gripped the underside of the plate around the lipped rim of the plate using one hand and tossed the plate into the air.",
+            "[person_1] is going to stop standing on hands.",
+            "At the last of the video , [person_1] is slowing down , so [person_1] may not want to go on skating."
+        ]
+    },
+    "counterfactual": {
+        "question": "What should [person_1] do when the plate is about to land?",
+        "answer": [
+            "[person_1] should bring the stick down.",
+            "[person_1] will leave the lecture hall quietly.",
+            "[person_1] will stop talking.",
+            "[person_1] will continue to rehearse more.",
+            "The ball will roll into the lake."
+        ],
+        "reason": [
+            "Because [person_1] will startle.",
+            "[person_1] has only one hand digging , so the other hand can hold his hat at any time.",
+            "When the plate is about to land , the player should bring the stick down to lessen the impact.",
+            "Goal keepers are allowed to using hands to catch the ball.",
+            "Knife is dangerous and [person_1] is too young to use that well."
+        ]
+    }
+}

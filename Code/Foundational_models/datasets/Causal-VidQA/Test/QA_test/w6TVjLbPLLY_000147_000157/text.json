@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the gym.",
+            "[person_1] is in the gym .",
+            "[person_1] is in his house.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the kitchen?",
+        "answer": [
+            "[person_1] is smoking and is trying to shake off the ashes.",
+            "Because [person_1] wants to water the plants.",
+            "[person_1] wants to train to change body.",
+            "[person_1] wants to exercise the body.",
+            "[person_1] is squeezing fruits."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to bandage [person_1].",
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to drink juice.",
+            "[person_1] is going to go home."
+        ],
+        "reason": [
+            "[person_1] is keeping still.",
+            "Because [person_1] is lifting the beehive.",
+            "That's why [person_1] is squeezing.",
+            "[person_1] has turned away.",
+            "[person_1] is snowmobiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] squeezes all the fruits together?",
+        "answer": [
+            "[person_1] may turn about too.",
+            "[person_1] will make a special fruit juice.",
+            "The man will get off the truck and help [person_1].",
+            "[person_1] would continue watching TV.",
+            "[person_1] needs to lift the accordion."
+        ],
+        "reason": [
+            "[person_1] might lose his momentum after using such great force to jump and kick.",
+            "There would be nothing except for the blindfold preventing the view there.",
+            "To rest for a while.",
+            "The flavors of the fruits will mix together.",
+            "Because the ground is a little slippery , [person_1] can not brake in time."
+        ]
+    }
+}

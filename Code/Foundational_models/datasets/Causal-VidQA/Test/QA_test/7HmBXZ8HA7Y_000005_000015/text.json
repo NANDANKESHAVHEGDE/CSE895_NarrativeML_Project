@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is on the floor.",
+            "It is in the room.",
+            "[chair_1] is near [person_1].",
+            "It is in front of the wall.",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing games?",
+        "answer": [
+            "[person_1] spreads his arms to keep balance.",
+            "Playing game makes [person_1] more clever.",
+            "Because he wants to practice stacking dices.",
+            "He just learned about this game.",
+            "Because [person_1] need to be in the sun."
+        ]
+    },
+    "predictive": {
+        "question": "What will the children do after playing one round?",
+        "answer": [
+            "He will stop running and have a rest.",
+            "Cat's owner will give food to the cat.",
+            "He is going to swim ashore.",
+            "It may not be cooked.",
+            "They will drink some juice before them."
+        ],
+        "reason": [
+            "They are having a battle now.",
+            "Because [person_2] is warming up for dancing.",
+            "To stop [person_2] and [person_2]'s fights.",
+            "They are keeping talking during the game and will be thirsty.",
+            "They blow candles on [chair_1] for celebrating the girl's birthday."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] fails?",
+        "answer": [
+            "[person_2] will not be able to finish in short time.",
+            "Many people will come to him to carve pumpkins.",
+            "[person_2] could be hurt.",
+            "[person_2] will not be able to complete the challenge.",
+            "[person_2] will be angry."
+        ],
+        "reason": [
+            "Losing the game makes [person_2] angry.",
+            "Because the dining room is outside.",
+            "[person_2] will be win.",
+            "Because it is over time.",
+            "Failure is the mother of success."
+        ]
+    }
+}

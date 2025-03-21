@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the bucket of the [person_1]?",
+        "answer": [
+            "The bucket of the [person_1] is brown.",
+            "[person_1] and [person_1] are above the sink.",
+            "They are black.",
+            "[person_1] and [person_1] are in the subway station.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_3] bowing?",
+        "answer": [
+            "Because [person_3] is performing cello.",
+            "Because [person_3] knows the person giving the gift that [person_3] is opening teases him.",
+            "Because [person_3] is attending a game.",
+            "The [person_3] is harvesting agricultural products on the ground.",
+            "Because [person_3] wants to remove the apple core out of the handheld peeler."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to wash the bowl with water.",
+            "The [person_1] is going to pick other blueberries.",
+            "The [person_1] is going to keep harvesting the agricultural products.",
+            "The [person_1] may peel the other potatoes.",
+            "The [person_1] may keep traveling by bicycle."
+        ],
+        "reason": [
+            "The [person_1] finishes fixing the keyboard.",
+            "The [person_1] observes the [person_1] and gives guide.",
+            "The [person_1] has kicked two other balls then he steps back , prepares to kick the last ball.",
+            "The [person_1] is behind other bikers.",
+            "The [person_1] is still sitting and picking the products on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bucket of the [person_1] is holed?",
+        "answer": [
+            "[person_1] will get hurt.",
+            "The agricultural products won't drop when the [person_1] lifts the bucket up.",
+            "The [person_1] would carry on holding the red T - shirt.",
+            "The agricultural products will drop when the [person_1] lifts the bucket up.",
+            "[person_1] will feel sad."
+        ],
+        "reason": [
+            "[person_1] can bear such weather.",
+            "The [person_1] is putting the agricultural products in the bucket.",
+            "If [person_1] breaks , it is useless.",
+            "The [person_1] is putting the agricultural products out the bucket.",
+            "The blueberries are small."
+        ]
+    }
+}

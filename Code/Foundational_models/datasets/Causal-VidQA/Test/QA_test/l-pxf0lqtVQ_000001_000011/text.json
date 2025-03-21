@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [backpack_1]?",
+        "answer": [
+            "The [backpack_1] is behind [person_1].",
+            "[person_1] is on the corner behind [person_1]'s back.",
+            "The [backpack_1] is next to [person_1].",
+            "[backpack_1] is blue.",
+            "the [backpack_1] is above the [backpack_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is playing roller skating.",
+            "[person_1] is doing a plunge in a fitness center.",
+            "Because [person_1] is asking someone taller than him for help.",
+            "[person_1] just did somersaults.",
+            "[person_1] is spraying a painting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to continue spraying.",
+            "[person_1] may tickle [person_1] again.",
+            "[person_1] is going to slowly opening his arms."
+        ],
+        "reason": [
+            "[person_1] is sharpening the knife.",
+            "Lowering her hip is the next movement in the squat and it helps to tighten the muscles on her belly.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] wants to complete the picture.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will stop doing that.",
+            "[person_1] will stop cleaning the shoes.",
+            "[person_1] will be sad.",
+            "Maybe [person_1] will come back home.",
+            "[person_1] and [person_1] will go into the [person_1]."
+        ],
+        "reason": [
+            "[person_1] and [person_1] may not keep cutting.",
+            "Because rain will destroy the beehives.",
+            "[person_1] will need to put the painting away.",
+            "[person_1] and [person_1] need to avoid from raining.",
+            "The rain will wash away the chemicals."
+        ]
+    }
+}

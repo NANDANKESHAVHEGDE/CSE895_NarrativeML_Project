@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the table.",
+            "[person_1] is on a stage.",
+            "[person_1] is outside his house.",
+            "[person_1] is in a yard with [person_2].",
+            "[person_1] is in the workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] hold hand with [person_1]?",
+        "answer": [
+            "[person_2] also wants to play the keyboard.",
+            "Because [person_1] is weaving fabric",
+            "[person_1] holds [person_1] to pour beer into it.",
+            "[person_2] is teaching [person_1] how to skate.",
+            "[person_1] loves playing with these objects."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_2] next?",
+        "answer": [
+            "[person_2] may dance with them.",
+            "[person_2] will go on teaching [person_1].",
+            "[person_1] will stop practicing.",
+            "[person_1] will continue writing.",
+            "[person_1] will be the loser."
+        ],
+        "reason": [
+            "The winner will win some prizes.",
+            "[person_1] does not seem to be able to skate alone.",
+            "[person_2] is a performer.",
+            "[person_1] seems to quite enjoy it.",
+            "[person_1] has not had the test result."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "They would stop laying bricks.",
+            "[person_1] and [person_2] would stop practicing.",
+            "[person_1] and [person_2] would come back to the land.",
+            "The vase of the [person_1] would hold water.",
+            "[person_1] would go inside the tent."
+        ],
+        "reason": [
+            "It is wet and they can not lay bricks when it rains.",
+            "The person is not wearing a rain coat.",
+            "[person_1] and [person_2] are standing outdoor without any hat or umbrella.",
+            "[person_1] will be sick if he plays when it is raining.",
+            "[person_2] and [person_1] need to find a shelter."
+        ]
+    }
+}

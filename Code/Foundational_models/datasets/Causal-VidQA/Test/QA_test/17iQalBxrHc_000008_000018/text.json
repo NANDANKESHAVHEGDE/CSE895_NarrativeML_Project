@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is white.",
+            "It's pink.",
+            "It's black.",
+            "The shirt is yellow.",
+            "[person_1] is wearing the white shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is talking about something.",
+            "[person_1] is opening her gift.",
+            "[person_1] is whistling.",
+            "[person_1] is lifting .",
+            "[person_1] is feeding [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to bed.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to whistle."
+        ],
+        "reason": [
+            "[person_1] is weaving fabric.",
+            "[person_1] wants to be a good batter.",
+            "Maybe [person_1] is practicing.",
+            "The mouth of [person_1] is preparing to do it.",
+            "Maybe [person_1] finds it strange."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] whistles too loudly?",
+        "answer": [
+            "[person_1] will go to bed to take a rest.",
+            "[person_1] had finished the performance.",
+            "Nothing will happen.",
+            "The finger of [person_1] will bleed.",
+            "The snowman will collapse."
+        ],
+        "reason": [
+            "The neck of [person_1] is very high and [person_1] cannot reach its head.",
+            "Because [person_1] makes money out of it.",
+            "because [person_1] is alone in his room.",
+            "If there is a plate it will be better to help [person_1] and [person_1] to show their potato chips.",
+            "[person_1] might want to sleep when [person_1] gets drunk."
+        ]
+    }
+}

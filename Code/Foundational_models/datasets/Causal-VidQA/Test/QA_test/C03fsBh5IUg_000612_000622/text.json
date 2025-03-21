@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is in the cello practice room.",
+            "[person_1] is in the house.",
+            "[person_1] is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the lute?",
+        "answer": [
+            "To keep mushrooms fresh.",
+            "[person_1] and [person_1] are playing chess.",
+            "[person_1] is playing the guitar bass and needs to touch the metal bass strings to create music.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "[person_1] is playing lute."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to sing.",
+            "[person_1] intends to turn the camera to another direction.",
+            "[person_1] intends to celebrate [person_1]'s victory.",
+            "[person_1] intends to participate in the competition.",
+            "[person_1] intends to continue playing checkers with [person_1]."
+        ],
+        "reason": [
+            "[person_1] looks very excited.",
+            "[person_1] successfully lifts the dumbbell.",
+            "[person_1]'s eyes are still looking ahead.",
+            "Maybe [person_1] has finished using it.",
+            "Next to [person_1] there is a microphone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] sings?",
+        "answer": [
+            "[person_1] will not do exercise.",
+            "[person_1] will stop laughing.",
+            "[person_2] will need a break.",
+            "[person_2] will sing her favorite song.",
+            "[person_1] may go home."
+        ],
+        "reason": [
+            "[person_1] will help [person_1] up.",
+            "[person_1] and [person_1] were spinning very fast then.",
+            "[person_1] will play lute while singing.",
+            "Because the motorbike is bigger and heavier.",
+            "Because [person_1] is hurt."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have \u00a0 a lot of cup in his hand?",
+        "answer": [
+            "Because [person_1] breaks the banana.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] is unwrapping her present to see her gift inside.",
+            "Because the fruit is very hard.",
+            "[person_1] wants to build a cup tower."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do a workout.",
+            "[person_1] may change another tool.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to speed up.",
+            "[person_1] will keep working until it finishes."
+        ],
+        "reason": [
+            "[person_1] is still dancing with fire.",
+            "[person_1] is turning the page.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] just looked back.",
+            "[person_1] builds very slowly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the cup tower falls ?",
+        "answer": [
+            "It may cause fire.",
+            "[person_1] will have to rebuild.",
+            "The [person_1] will change the water.",
+            "[person_1] would cry.",
+            "Hair may not be so smooth"
+        ],
+        "reason": [
+            "The wall is heavy.",
+            "The book may fall on [person_1].",
+            "Because impatience of the [person_1] can be intimidating.",
+            "That is necessary in this game.",
+            "Children are often impatient."
+        ]
+    }
+}

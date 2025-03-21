@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s shirt?",
+        "answer": [
+            "[person_1]'s shirt is red.",
+            "Yes , the [person_1] is wearing a red helmet.",
+            "[person_1]'s shirt is black.",
+            "There are 15 cups on the floor.",
+            "[person_1] is placed on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] straighten the red pen?",
+        "answer": [
+            "Because [person_1] wanted to knock the end of his pen on the table.",
+            "Because the [person_1] plays a song.",
+            "[person_1] wants to polish the shoe.",
+            "To keep warm and safe.",
+            "With [person_1] and [person_1]'s mouths."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1]'s right hand do next?",
+        "answer": [
+            "[person_1] is about to stop throwing.",
+            "[person_1] is about to bend the materials to form a structure.",
+            "It will be much merrier.",
+            "[person_1]'s right hand will hold the blue pen and hit the table.",
+            "[person_1] is going to fit another rock block into [person_1]."
+        ],
+        "reason": [
+            "[person_1]'s right hand will hold the blue pen and hit the table because [person_1]'s right hand is going down.",
+            "According to the man's dress , [person_1] should be a vet , so [person_1] should check the for the cat.",
+            "[person_1] is going to unlock the lock because [person_1] is inserting the iron rod into the lock.",
+            "[person_1] wants to show the megaphone to the dog.",
+            "Because [person_1] is watching and [person_1] is great."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] straightened the blue pen?",
+        "answer": [
+            "[person_1] would get a low score.",
+            "[person_1] will be hurt.",
+            "[person_1] would create a new melody.",
+            "[person_1] will not play anymore.",
+            "They would be rejected."
+        ],
+        "reason": [
+            "[person_1] is trying to flip the bottle.",
+            "[person_1] stands next to [person_1].",
+            "Because the sound that the end part of the pen makes is different from the sound of the whole pen .",
+            "The fish will not appear.",
+            "Because the tire is an important part of the car."
+        ]
+    }
+}

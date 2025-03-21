@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [chair_1]?",
+        "answer": [
+            "[person_1] is playing [chair_1].",
+            "To get massaging neck.",
+            "[person_1] is playing the harmonica.",
+            "[person_1] is playing with the cups.",
+            "It's cold outside."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to run.",
+            "[person_1] is going to keep playing [chair_1].",
+            "[person_1] is going to lift slowly.",
+            "[person_1] will turn off the camera."
+        ],
+        "reason": [
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is touching three cups.",
+            "[person_1] is still moving hands on strings of the [chair_1].",
+            "Maybe [person_1] will read the whole [chair_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] weren't there?",
+        "answer": [
+            "The [chair_1] may turn around and bite [person_1].",
+            "[person_1] would not play [chair_1].",
+            "The [person_1] will try to fix the [chair_1].",
+            "[person_1] wouldn't be able to tell the other person about gongs.",
+            "The bouquet may fall scattered."
+        ],
+        "reason": [
+            "Because [person_1] pinches the [chair_1] while it doesn't like it.",
+            "There would be only [chair_1] that [person_1] was sitting on.",
+            "Because the [person_1] still needs to milk the [chair_1] for its milk.",
+            "[person_1] is concentrating on work.",
+            "There would be only [chair_1] for [person_1] to play."
+        ]
+    }
+}

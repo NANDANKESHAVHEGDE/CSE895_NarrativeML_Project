@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [couch_1]?",
+        "answer": [
+            "No.",
+            "Behind [couch_1] is a bookshelf.",
+            "[couch_1] is blue.",
+            "The mirror is behind [couch_1].",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] leaning?",
+        "answer": [
+            "[person_1] is whistling.",
+            "Because they're having a good time.",
+            "[person_1] might lose his balance.",
+            "[person_1] is trying to do somersaults.",
+            "[person_1] is standing outside to make money preforming music as a street performer."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will move his trowel to spread the plaster.",
+            "[person_1] will try some more somersaults.",
+            "[person_1] will probably ask [person_1] how to use the phone.",
+            "[person_1] will wash her hands.",
+            "[person_1] will ask the driver of the truck to tilt the carriage."
+        ],
+        "reason": [
+            "The movements are more decisive.",
+            "[person_1] adjusted the multiples knob on the moving microscope.",
+            "[person_1] is bad at somersaults.",
+            "This work is not finished yet.",
+            "[person_1] has opened the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] plays outside the mattress?",
+        "answer": [
+            "It is possible that [person_1] will start spinning again.",
+            "[person_1] may continue recording his schedule of digging soil.",
+            "[person_1] may not somersault.",
+            "[person_1] won't win",
+            "[person_1] will not achieve results in a short time."
+        ],
+        "reason": [
+            "[person_1] is also dancing with the music and he will leave the playground when he's done.",
+            "That's the rule.",
+            "[person_1] stacks cups the least time.",
+            "[person_1] hasn't mastered the somersault technique.",
+            "[person_1] wants to rest himself."
+        ]
+    }
+}

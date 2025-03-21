@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_3] look like?",
+        "answer": [
+            "[person_3]'s pants are dark blue.",
+            "[person_3] is wearing a hooded top with lettering on the chest.",
+            "[person_3] is wearing a pair of roller skate.",
+            "[person_3] wears a performance costume.",
+            "[person_3] looks so muscular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the [chair_1]?",
+        "answer": [
+            "Because the [person_2] needs to keep the [chair_1] door open.",
+            "[chair_1] and [person_2] are family.",
+            "Because [person_3] is holding a sleeping baby.",
+            "The [person_2] is reading a book which is on the table.",
+            "[person_2] is watching [person_3] lift weights."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to play together.",
+            "[person_1] and [person_2] are going to wait [person_3].",
+            "[person_1] and [person_2] are going to stop snapping their fingers.",
+            "[person_1] and [person_2] are going to begin dancing.",
+            "[person_1] and [person_2] are going to hover - boarding together."
+        ],
+        "reason": [
+            "[person_1] and [person_2] both want to score.",
+            "Because the people want to share funny stories with each other.",
+            "[person_1] and [person_2] are holding wine glasses.",
+            "[person_1] and [person_2] are paying a lot of attention to the drill.",
+            "[person_1] and [person_2] are the practice partners of [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] continues to practice?",
+        "answer": [
+            "[person_1] will happy.",
+            "The ball will not touch the basket.",
+            "The baby bottle may drop on the floor.",
+            "[person_1] and [person_2] will have to wait.",
+            "They will feel depressed."
+        ],
+        "reason": [
+            "Because they are excited for that.",
+            "Because if [person_3] didn't hit the ball , he didn't score in this round.",
+            "Everyone is playing.",
+            "It's not their turn yet.",
+            "[person_3] doesn't want to be slower than others."
+        ]
+    }
+}

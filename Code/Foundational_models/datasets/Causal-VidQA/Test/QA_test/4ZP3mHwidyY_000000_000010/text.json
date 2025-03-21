@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It's very cold outside.",
+            "It is sunny.",
+            "It is very sunny.",
+            "It is quite beautiful.",
+            "[person_1] is sitting at the piano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside when it's cold?",
+        "answer": [
+            "[person_1] is helping [person_1] practicing martial arts.",
+            "[person_1] is here to help [person_1] practicing tackling.",
+            "[person_1] is riding unicycle.",
+            "[person_1] is trying to slackline.",
+            "[person_1] wants to make a video."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to come back home.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to take a bus.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "The tap is still on.",
+            "[person_1] is upset.",
+            "[person_1] is so serious.",
+            "It's getting dark.",
+            "Maybe the weights are too heavy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] moved slower?",
+        "answer": [
+            "[person_1] wouldn't be able to flip the pancake.",
+            "[person_1] should stay away from [person_1].",
+            "[person_1] will find something to eat.",
+            "[person_1] would watch TV.",
+            "[person_1] would not be injured."
+        ],
+        "reason": [
+            "[person_1] would not know the data precisely.",
+            "[person_1] could change the direction.",
+            "[person_1] and [person_1] are close to the other . ",
+            "[person_1] is holding him and playing with him so she will not let him slip off",
+            "Because the slurry primer wouldn't be pushed into the gaps."
+        ]
+    }
+}

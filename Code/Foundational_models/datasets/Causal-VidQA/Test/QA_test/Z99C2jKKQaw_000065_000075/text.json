@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The [person_2] is rolling around.",
+            "The t - shirt is black.",
+            "The color of the shirt is white.",
+            "[person_2] has a golden brown hair.",
+            "The [person_2] is wearing a cap."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing with the [person_1].",
+            "Because [person_1] is practicing standing on hands.",
+            "[person_1] is practicing cello.",
+            "[person_1] is able to sing loudly without affecting others.",
+            "[person_1] is practicing playing drums."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will enjoy the picture carefully.",
+            "[person_1] will keep practicing the piano.",
+            "Maybe [person_1] will continue practice.",
+            "Maybe [person_1] will straighten up.",
+            "Roll [person_1] by the other foot."
+        ],
+        "reason": [
+            "[person_1] is holding the guitar.",
+            "Because the iron rod has been twisted by the device , [person_1] needs to check how effective it is.",
+            "[person_1] had completed the work because he changed position from crawling to a sitting position.",
+            "[person_1] is a child . [person_1] is learning how to play cello.",
+            "Because [person_1] has already finished the massaging neck."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cello stick falls into the floor?",
+        "answer": [
+            "[person_1] will hurt his legs.",
+            "It will make the discussion more interesting.",
+            "The position of the electric bass guitar will not be balanced.",
+            "The cello stick won't break.",
+            "[person_1] will go to get it back."
+        ],
+        "reason": [
+            "The cello stick is made of plastic.",
+            "[person_1] doesn't want to get wet.",
+            "[person_2] obstructs the road traffic.",
+            "To find clean water and wash [person_2]'s eyes.",
+            "Standing in the sun for too long is not good for your health."
+        ]
+    }
+}

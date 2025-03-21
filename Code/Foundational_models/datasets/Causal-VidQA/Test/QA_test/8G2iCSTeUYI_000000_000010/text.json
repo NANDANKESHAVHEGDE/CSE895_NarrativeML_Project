@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear green shirt?",
+        "answer": [
+            "No.",
+            "It is a local tool specific for coco cutting.",
+            "Yes.",
+            "A bottle opener.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the cat?",
+        "answer": [
+            "[person_1] roasts marshmallows with other's help.",
+            "Because it's interesting in winter.",
+            "[person_1] doesn't want the cat run away.",
+            "With the help of a chair in front of [person_1].",
+            "[person_1] turns his back on the basket and throws the ball backward."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after covering the cat's mouth?",
+        "answer": [
+            "[person_1] will continue to play golf.",
+            "[person_1] will feel tired.",
+            "[person_1] will uncover the cat's mouth.",
+            "[person_1] will rest for a while.",
+            "[person_1] will comb her bangs to make the hair volume look more."
+        ],
+        "reason": [
+            "Because it's the rule of the game.",
+            "[person_1] doesn't seem to like it very much.",
+            "The cat feels uncomfortable.",
+            "[person_1] seems to be professional.",
+            "[person_1] finished the work carefully."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] holds the cat too tightly?",
+        "answer": [
+            "[person_1] would be sleeping then.",
+            "The cat will struggle.",
+            "[person_1] should go for sleep.",
+            "[person_1] may be attacked by the monkeys.",
+            "Then [person_1] won't cook here."
+        ],
+        "reason": [
+            "Because she likes ice cream.",
+            "The cat feels uncomfortable.",
+            "[person_1] won't be kept in the air anymore.",
+            "Because park is very big so it can stay lots of people.",
+            "Because it's [person_1]'s birthday."
+        ]
+    }
+}

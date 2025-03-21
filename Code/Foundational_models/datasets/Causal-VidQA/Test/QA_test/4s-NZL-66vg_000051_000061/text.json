@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is shaking the cup.",
+            "[person_1] is bouncing the ball on the ground.",
+            "[person_1] is stacking dice.",
+            "[person_1] is eating a piece of paper.",
+            "[person_1] is punching the punching bag."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] falling?",
+        "answer": [
+            "Maybe [person_1] is guiding her how to ride unicycle.",
+            "Because [person_1] is doing a fire dance on the street.",
+            "Maybe [person_1] is playing with [person_1].",
+            "Because [person_1] is amused.",
+            "Maybe [person_1] wants to be there."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to keep talking.",
+            "[person_1] is going to sit up.",
+            "[person_1] will throw the frisbee."
+        ],
+        "reason": [
+            "Because [person_1] is being pulled up",
+            "[person_1] is weaving fabric.",
+            "Maybe [person_1] is having fun.",
+            "[person_1] finishes singing.",
+            "Maybe [person_1] started weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't get amused by the paper?",
+        "answer": [
+            "[person_1] would drop his bagpipes and run away screaming.",
+            "[person_1] won't fall back.",
+            "[person_1] may not hug [person_1].",
+            "[person_1] would lose the game.",
+            "[person_1] would be sad."
+        ],
+        "reason": [
+            "This piece of paper and the plate should be completely overlapped and tiled together to be more neat.",
+            "To make it easier for [person_1] to exercise.",
+            "[person_1] would not laugh so hard that he fell back.",
+            "The [person_1] does not forget take the trowel out.",
+            "Because [person_1] had no one else to help her hold the other snake."
+        ]
+    }
+}

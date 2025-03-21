@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is lying on the bed.",
+            "[person_2] is on the left hand of [person_2].",
+            "[person_2] is standing outside the door.",
+            "[person_2] is standing between [bowl_1] and [person_2].",
+            "[person_2] is on the [bowl_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] smiling so happily?",
+        "answer": [
+            "[person_2] waxed his legs successfully by himself.",
+            "Because [person_2] feels comfortable stomping grapes.",
+            "[person_2] plays the drum to encourage his favorite team.",
+            "Maybe [person_2] makes for fun.",
+            "[person_2] lets the drill speedily rotate the apple while he is holding a peeler on the skin."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to stomp the grapes.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] will chop the green bell pepper."
+        ],
+        "reason": [
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is snowmobiling.",
+            "Because [person_1] is wearing a baby bib.",
+            "Maybe [person_1] feels very happy.",
+            "[person_1] is touching three cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stomps the grapes hard?",
+        "answer": [
+            "[person_1] will drink all the water in [person_1].",
+            "[person_1] may fall over when he is trying to sit on the [person_1] again.",
+            "It is possible that [person_1] will have a lot of grape juice.",
+            "Perhaps [person_1] will be left home all day.",
+            "If [person_1] does not flip the food , the food will stick to the bottom of the pot."
+        ],
+        "reason": [
+            "[person_1] may be injured after that fall.",
+            "The knife is sharp and the wound will be deep.",
+            "The sunshine is strong.",
+            "Grape juice will come out.",
+            "Because the fruits are over and the juicer is too small."
+        ]
+    }
+}

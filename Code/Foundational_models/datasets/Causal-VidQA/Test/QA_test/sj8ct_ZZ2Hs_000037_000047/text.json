@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the stage.",
+            "[person_1] is outside.",
+            "[person_1] is in bathroom.",
+            "Along the river.",
+            "[person_1] is in the studio."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] on the stage ?",
+        "answer": [
+            "There is a microphone in front of [person_1] to record the sound [person_1] makes when playing the guitar.",
+            "[person_1] is swallowing sword.",
+            "Because [person_1] is stomping grapes in the tank.",
+            "[person_1] is attracted by what [person_1] is doing.",
+            "[person_1] is helping [person_1] train martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to continue to sit on the steps.",
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to swallow more swords.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] will ask for a hug."
+        ],
+        "reason": [
+            "[person_1] swallows 2 swords easily.",
+            "Food burnt.",
+            "[person_1] is very satisfied with her research.",
+            "Maybe [person_1] likes to play it.",
+            "[person_1] has prepared shovel tool."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] wants to try swallowing swords?",
+        "answer": [
+            "[person_3] won't be able to do it.",
+            "[person_3] will be injured.",
+            "[person_3] may get hurt.",
+            "[person_3] will be sent to the hospital.",
+            "[person_3]'s feet will hurt."
+        ],
+        "reason": [
+            "[person_3] is an amateur.",
+            "The pitch is very hard.",
+            "There is no other people",
+            "The floor is very hard.",
+            "There is only [person_3] himself here."
+        ]
+    }
+}

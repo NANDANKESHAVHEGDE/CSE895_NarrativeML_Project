@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there in the rink?",
+        "answer": [
+            "There are four.",
+            "There are three.",
+            "A yellow painting.",
+            "There is only one.",
+            "There are three people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the rink?",
+        "answer": [
+            "[person_1] is taking care of her little brothers.",
+            "[person_1] is practicing roller skating.",
+            "[person_1] is eating.",
+            "Because [person_1] is taking care of flowers",
+            "[person_1] is playing with some toys"
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to continue skating alone.",
+            "[person_1] will huddling with the team."
+        ],
+        "reason": [
+            "[person_1] is holding a glass of water.",
+            "Because [person_1] looks very tired.",
+            "The legs of [person_1] are moving forwards and there is no one else.",
+            "Maybe [person_1] is having fun.",
+            "[person_1] looks so excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell down?",
+        "answer": [
+            "[person_1] would stand up at once.",
+            "[person_1] would be scared about that.",
+            "[person_1] would be injured.",
+            "[person_1] would stand up by himself.",
+            "[person_1] would get an injury."
+        ],
+        "reason": [
+            "Because the floor is hard.",
+            "There is no one else.",
+            "The dish is too salty to eat.",
+            "[person_1] didn't expect his falling down.",
+            "[person_1] is just a little girl."
+        ]
+    }
+}

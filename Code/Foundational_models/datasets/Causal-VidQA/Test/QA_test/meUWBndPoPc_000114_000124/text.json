@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[chair_1] is next to [chair_1].",
+            "The [chair_1] is behind [person_1].",
+            "[person_1] is sitting on [chair_1].",
+            "The [chair_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] knee down?",
+        "answer": [
+            "[person_1] is excited about stacking the cups.",
+            "[person_1] is reading a book.",
+            "[person_1] is reading book.",
+            "Because [person_1] was working out.",
+            "[person_1] is watching [person_1] very closely."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to crawl out.",
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to stop wrapping presents.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] may continue writing."
+        ],
+        "reason": [
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "[person_1] is kite surfing.",
+            "Because [person_1] wants to catch [person_1].",
+            "Because [person_1] has to change the body position to continue working out.",
+            "The weights is very heavy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the rope were broken?",
+        "answer": [
+            "[person_1] will cook more difficult.",
+            "[person_1] will be very happy.",
+            "[person_1] will continue to get sand.",
+            "[person_1] may be hurt.",
+            "[person_1] may talk."
+        ],
+        "reason": [
+            "If [person_1] don't get out the sand , the sand will continue to cling to [person_1].",
+            "Because [person_1] were holding the rope and the rope could rebound and hurt [person_1].",
+            "because [person_1] is a baby and does not know anything else but crying.",
+            "The [person_1] is sitting close to the [person_1] and the [person_1] is small.",
+            "Maybe [person_1] is being taught how to wash dishes even though [person_1] is still a child."
+        ]
+    }
+}

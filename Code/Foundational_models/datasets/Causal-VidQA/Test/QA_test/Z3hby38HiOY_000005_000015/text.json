@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [couch_1] ?",
+        "answer": [
+            "[couch_1] is holding a black guitar.",
+            "[person_2] is rectangular.",
+            "It is on the box near [couch_1].",
+            "[person_2] is in a bag which is on the floor.",
+            "[couch_1] is behind [person_2]'s back."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_2] holding [cup_1]?",
+        "answer": [
+            "[person_2] gets pleasure from playing with the wine glasses.",
+            "[person_2] is playing chess with someone.",
+            "[cup_1] is sitting on the chair and using the piano.",
+            "[cup_1] is excited about his activity.",
+            "because [person_2] wants to show what inside [cup_1]."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do more exercises.",
+            "[person_1] will lean back.",
+            "[person_1] might stop playing guitar.",
+            "[person_1] will continue to sharpen crayons.",
+            "[person_1] is going to do it again."
+        ],
+        "reason": [
+            "the [person_1] will lean back , then get up with momentum.",
+            "Because [person_1] doesn't put down and still hold [person_1] in her hand.",
+            "[person_1] is moving to the right.",
+            "[person_1] fell from the back of the mechanical bull.",
+            "[person_1] is still holding a crayon and the sharpener."
+        ]
+    },
+    "counterfactual": {
+        "question": "what if [person_2] did not have [cup_1]?",
+        "answer": [
+            "The pencils would be on the ground.",
+            "[cup_1] may walk faster.",
+            "[person_2] would be so upset.",
+            "[cup_1]'s wound may bleed.",
+            "[person_2] could get hurt."
+        ],
+        "reason": [
+            "[cup_1] is just a little girl and being hit will be hurt so [cup_1] will cry.",
+            "[person_2] and [person_2] arms or bodies hit each other very hard while swimming.",
+            "[cup_1] is holding all the pencils and crayons.",
+            "Because the [cup_1] wants to have some special experience.",
+            "Birds are very naughty and are likely to go into the [cup_1] and have a look which will affect [person_2]."
+        ]
+    }
+}

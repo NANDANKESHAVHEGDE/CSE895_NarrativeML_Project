@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_2] placed in the room?",
+        "answer": [
+            "The door is brown.",
+            "[laptop_2] is placed on the table behind [person_1].",
+            "The bed [laptop_2] is lying on is dark blue.",
+            "It is pink.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] crossing his legs?",
+        "answer": [
+            "[person_1] is moving her hand to change her clothe in the virtual reality screen.",
+            "Because [person_1] is drinking grape wine.",
+            "[person_1] is sitting with his legs crossed to hold the bass guitar higher.",
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello.",
+            "[person_1] is taking pictures."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sit down.",
+            "[person_1] is likely to hug [person_1].",
+            "[person_1] may put the right leg back.",
+            "[person_1] is going to return and check the [person_1].",
+            "[person_1] will be giving a tutorial about bass guitar techniques."
+        ],
+        "reason": [
+            "[person_1] is lifting light weights.",
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] is talking  and playing bass guitar at the same time.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] looks like a bad whistler."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is noise in the room of [person_1]?",
+        "answer": [
+            "[person_1] will have to remove the noise after continuing the talk.",
+            "[person_1] might fall or get hurt.",
+            "[person_1] will have to remove the noise before stopping the talk.",
+            "[person_1] would stop interviewing and find a place to shelter.",
+            "[person_1] will have to remove the noise before continuing the talk."
+        ],
+        "reason": [
+            "Because [person_1] wants to let his boss play first.",
+            "The noise will not affect the volume of the voice of [person_1] and the sound of guitar.",
+            "Because [person_1] may lose this sheep if he doesn't find it.",
+            "The noise will affect the volume of the voice of [person_1] and the sound of guitar.",
+            "[person_1] was right in front of [person_1]."
+        ]
+    }
+}

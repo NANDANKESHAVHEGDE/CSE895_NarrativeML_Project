@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is on [dining table_1]?",
+        "answer": [
+            "[dining table_1] is used for sit.",
+            "The plate is blue.",
+            "The ceiling fan is working.",
+            "The color of [dining table_1] is brown.",
+            "a pencil sharpener is on [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] rotating the sharpener?",
+        "answer": [
+            "The ball of [person_1] is small to fit hands of [person_1].",
+            "when [person_2] looking at the mirror , the reflection looks like someone else.",
+            "because [person_2] must do so in order to sharpen the pencil.",
+            "Maybe [person_1] is learning how to play the harmonica.",
+            "[person_1] just picked it up from the tree."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take the pencil out of the sharpener.",
+            "[person_1] is going to smoke.",
+            "[person_1] is going to keep the flashlight on.",
+            "[person_1] is going to run to the right.",
+            "[person_1] will extinguish the fire in the mouth of [person_1]."
+        ],
+        "reason": [
+            "[person_1] is sliding a role of carpet on the ground.",
+            "the [person_1] has not fallen off the mechanical bull yet.",
+            "because [person_1] practice hard.",
+            "because [person_1] finishes making that fly tying",
+            "because [person_1] is gently removing the pencil from the sharpener."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the pencil got stuck?",
+        "answer": [
+            "[person_1] would not be able to write by pencil.",
+            "[person_1] will have to buy a new one.",
+            "[person_1] would be able to write by pencil.",
+            "[person_1] will sit down.",
+            "[person_1] would not be able to strike by pencil."
+        ],
+        "reason": [
+            "[person_1] would have no sharp pencil.",
+            "[person_1] would hold the sticks with two hands and introduce it faster.",
+            "[person_1] would have no pencil.",
+            "[person_1] just stood on one foot on the floor and raised one.",
+            "[person_1] would have many sharp pencils."
+        ]
+    }
+}

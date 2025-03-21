@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a vest.",
+            "[person_1] is wearing a beanie.",
+            "[person_1] is on the table.",
+            "[person_1] is wearing a sweatshirt and a sweatpants.",
+            "[person_1] is wearing a dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting behind [person_2]?",
+        "answer": [
+            "[person_1] , [person_2] , [person_2] , and [person_1] are practicing together as a band.",
+            "[person_1] and [person_2] are analyzing hits in tai chi.",
+            "Maybe [person_1] is accompaniment to [person_2]'s music.",
+            "[person_1] sat on the ground to bounce the ball.",
+            "[person_1] is sitting on the [person_2] to arrange the dice and stack."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will wait for her result.",
+            "[person_1] will probably continue play the music.",
+            "[person_1] continues to play the keyboard.",
+            "[person_1] may brush teeth.",
+            "[person_1]'ll lift up the car."
+        ],
+        "reason": [
+            "Because [person_1] has tried hard to do rope climbing which will let [person_1] be tired.",
+            "Because [person_1]'s hand is on the piano.",
+            "[person_1] is showing the children the way to stand on hands.",
+            "To get massage at [person_1]'s waist.",
+            "[person_1] is moving towards the man at the door of the room."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] plays wrong?",
+        "answer": [
+            "[person_2] will be fat.",
+            "[person_2] may not dance anymore.",
+            "[person_2] will be very embarrassed.",
+            "[person_2] will dance alone.",
+            "[person_2] may have some injuries."
+        ],
+        "reason": [
+            "[person_2] is wearing headphones to listen to music.",
+            "Because [person_2] is performing on the stage.",
+            "Because [person_2] was there to see [person_2] dancing.",
+            "Or [person_2] may not be able to continue to finish his work.",
+            "Because they are too close to each other."
+        ]
+    }
+}

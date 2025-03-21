@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_2] and [person_2] are in the subway station.",
+            "[person_2] and [person_1] are in the room.",
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are in the recording studio."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding \u00a0 a sword?",
+        "answer": [
+            "[person_2] is ripping paper.",
+            "[person_2] is swallowing sword.",
+            "[person_2] is unwrapping her present to see her gift inside.",
+            "[person_2] is playing the lute.",
+            "[person_2] is performing circus."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do ?",
+        "answer": [
+            "[person_2] is going to follow and hug [person_2]",
+            "Ask [person_2] what he is doing.",
+            "[person_2] is going to swallow 1 more sword.",
+            "[person_2] will order food.",
+            "[person_2] will climb rock quickly to catch [person_2]."
+        ],
+        "reason": [
+            "[person_2] is a professional performer.",
+            "[person_2] is mocking [person_2].",
+            "[person_2] loves [person_2].",
+            "There are a lot of cups on the [person_2].",
+            "To help another child do the head stand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] performs more circus acts?",
+        "answer": [
+            "[person_2] will let the door open.",
+            "[person_2] would get bored.",
+            "Perhaps the performance will be stopped.",
+            "[person_2] , [person_2] , [person_2] and two people there will run as quickly as they can.",
+            "[person_2] will get a lot of applause."
+        ],
+        "reason": [
+            "Tsunami is dangerous.",
+            "[person_2] is a good circus performer.",
+            "[person_2] is talking about the action and [person_2] is the model.",
+            "The floor can be slippery with [person_2].",
+            "[person_2] was reporting."
+        ]
+    }
+}

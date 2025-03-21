@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_1]?",
+        "answer": [
+            "The [dining table_1] is on the grass.",
+            "[bottle_1] is near [person_2] on [dining table_1].",
+            "The [bottle_1] is next to the shelf.",
+            "[bottle_1] is behind [person_2] and on the shelf.",
+            "[bottle_1] is in a bag which is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing games?",
+        "answer": [
+            "[person_2] wants [person_1] to play with her.",
+            "Because [person_2] is in space.",
+            "[person_1] feels bored after work.",
+            "Because [person_1] is doing lunges.",
+            "[person_1] push the mattress in to help [person_1] landing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after the game ends?",
+        "answer": [
+            "[person_1] will go on coloring the painting.",
+            "[person_1] will ready his weapon and participate in the historical reenactment.",
+            "[person_1] will talk about the game with [person_2].",
+            "It will be dyed also.",
+            "He will shake the rope after the person in front finishes."
+        ],
+        "reason": [
+            "[person_1] and [person_2] has not finished the performance.",
+            "[person_2] doesn't know how to play it well yet.",
+            "[person_1] takes notes and will have a try after going home.",
+            "Because the little girl came with a plate.",
+            "[person_1] is still staring at the phone at the end of the video."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] runs away?",
+        "answer": [
+            "[person_1] and [person_2] would be glad about it.",
+            "Maybe the [person_2]'s team will forfeit a cup.",
+            "[person_1] and [person_1] will hold the barbell and prevent it from hitting [person_2].",
+            "[person_2] will help [person_2] take away some weight stacks.",
+            "[person_1] would chase after [person_2]."
+        ],
+        "reason": [
+            "[person_1] is a teacher . When [person_1] ask question , he will try his best to answer the question.",
+            "The [person_1] turns around only twice before throwing the shot put.",
+            "Because [person_2] is the youngest.",
+            "[person_1] is looking after [person_2] and should not let [person_2] be alone.",
+            "[person_2] is not assisting [person_1]."
+        ]
+    }
+}

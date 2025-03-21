@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside?",
+        "answer": [
+            "[person_1] is watching the swimming competition.",
+            "[person_1] is doing it for fun.",
+            "[person_1] finds stomping the grapes funnier than [person_1] does.",
+            "Maybe [person_1] is introducing the plate.",
+            "Because [person_1] wants to open the present easily."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to pick the ball up and then throw it again.",
+            "[person_1] is going to sit straight and read the script in front of the camera.",
+            "[person_1] is going to join the game.",
+            "[person_1] is going to keep standing to follow the athlete.",
+            "[person_1] may turn off the fire."
+        ],
+        "reason": [
+            "[person_1] looks like a coach.",
+            "Food burnt.",
+            "Because [person_1] is reaching out the hand.",
+            "[person_1] is very satisfied with her research.",
+            "[person_1] has prepared shovel tool."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it is cold?",
+        "answer": [
+            "Athletes can't swim in the pool.",
+            "Water in the bottle would spill out.",
+            "Maybe they will scared.",
+            "The room would be brighter.",
+            "[person_1] will break the rules."
+        ],
+        "reason": [
+            "[person_1] may pick the ball and put it back in the basket so [person_1]'s team can have enough balls to play with during the match.",
+            "[person_1] can not ride home and there has no car.",
+            "[person_1] can take some water to clean her leg in the bathroom.",
+            "The water in the pool will be cold.",
+            "Because there would be no cake for them to eat."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "[person_1] and [person_2] are in the garden.",
+            "In front of a house.",
+            "[person_1] and [person_2] are in their house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_1] and [person_2] are playing chess on the street.",
+            "[person_1] and [person_2] are practicing sword swallowing.",
+            "[person_1] is shredding paper.",
+            "[person_2] hit the same cup in beer pong.",
+            "[person_1] is performing in a contest."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand again.",
+            "[person_1] is going to do a workout.",
+            "[person_1] will likely continue to shred the paper.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to go play somewhere else."
+        ],
+        "reason": [
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] is wearing a baby bib.",
+            "Maybe [person_1] is going into the house to get more papers."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] spills the bucket?",
+        "answer": [
+            "Maybe the kid won't fall.",
+            "The wine glass will break.",
+            "The shoe will get dirty.",
+            "[person_2] can stand here.",
+            "The shred paper will splatter on the ground."
+        ],
+        "reason": [
+            "[person_2] will need a new bike.",
+            "[person_2] will pick up the bucket.",
+            "[person_2] should surf at medium speed.",
+            "[person_2] will no longer have water to water the plants.",
+            "It will take [person_2] a few minutes to remember."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dog_1]?",
+        "answer": [
+            "The [dog_1] is on [dog_1]'s back.",
+            "It is on the table next to [dog_1].",
+            "[dog_1] is taking [dog_1] with his hands.",
+            "[dog_1] is opposite [dog_1].",
+            "[dog_1] is lying on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold marbles?",
+        "answer": [
+            "Because [person_1] is old and does not see clearly.",
+            "Because [person_1] is dropping a marble into a plastic pipe.",
+            "Because [person_1] is playing beer pong.",
+            "Because [person_1] and [person_1] are competing.",
+            "Maybe [person_1] is \u00a0 practicing the lute - playing skills."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is anticipated that [person_1] will continue to drop marbles.",
+            "[person_1] will weigh the bag.",
+            "[person_1] will have some rest.",
+            "[person_1] will thank the audience.",
+            "[person_1] is going to take out the paint roller."
+        ],
+        "reason": [
+            "[person_1] is a coach . [person_1] is talking and directing [person_1] to pull the rope.",
+            "Because [person_1] does want to fall down.",
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "Maybe [person_1] is afraid of something.",
+            "Maybe [person_1] loves this game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the marble disappears?",
+        "answer": [
+            "Maybe [person_1] will buy a new marble.",
+            "[person_1] will be very angry.",
+            "[person_1] will be very sad.",
+            "There will be a traffic accident.",
+            "The pig is difficult to roast."
+        ],
+        "reason": [
+            "They are friends.",
+            "If there are fragile items in the express box , we should handle it with care.",
+            "Because there are too many people , it will be very chaotic.",
+            "Many people will come here for [person_1]'s show.",
+            "[person_1] will no longer have marbles to play with."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bath.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is standing under a tree.",
+            "[person_1] is in his house.",
+            "[person_1] is on the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a basketball ?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing cymbals.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is planing wood.",
+            "[person_1] is playing basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to keep smoking.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to continue skateboarding.",
+            "[person_1] is going to shot again and again."
+        ],
+        "reason": [
+            "[person_1] may keep slacklining.",
+            "[person_1] is trying to do the job fast.",
+            "[person_1] controls the board very professionally.",
+            "[person_1] has a camera.",
+            "[person_1] is just a kid and [person_1] is learning how to play basketball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] hits [tv_1] ?",
+        "answer": [
+            "Maybe the cups won't be spill.",
+            "[person_1] might talk in front of the camera.",
+            "[person_1] would be lifted.",
+            "The [tv_1] may be damaged.",
+            "The sands would not separate."
+        ],
+        "reason": [
+            "Because [person_1] did know how to do exactly like the moves of [person_1].",
+            "Because [person_1] was not in the dancing group.",
+            "[person_1] shouldn't be playing basketball near [tv_1].",
+            "Maybe [person_1] would have a pain.",
+            "Maybe [person_1] will be win."
+        ]
+    }
+}

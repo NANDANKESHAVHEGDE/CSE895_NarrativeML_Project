@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] , [person_2] and [person_3]?",
+        "answer": [
+            "The sky is very clear and blue.",
+            "It's orange.",
+            "[person_1] has gray hair.",
+            "It's blue and yellow.",
+            "[person_1] , [person_2] and [person_3] are on the wrestling field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] and [person_3] standing on the floor?",
+        "answer": [
+            "[person_3] and [person_2] are doing yoga.",
+            "Because [person_3] is waiting for the mother.",
+            "[person_2] prepares to discover the gifts.",
+            "Because [person_3] can be the coach and is teaching [person_3] and [person_2].",
+            "[person_2] and [person_3] are preparing to wrestle."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] may not eat the egg.",
+            "Maybe [person_1] is going to draw a moon.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to decide who is the winner."
+        ],
+        "reason": [
+            "Because [person_1] is excellent in dancing.",
+            "[person_1] has finished the outside.",
+            "[person_1] is a referee.",
+            "It is dirty after cooking.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] knocks [person_2] down?",
+        "answer": [
+            "[person_3] will win.",
+            "The girl will recharge the phone.",
+            "[person_3] will lose.",
+            "[person_2] will find other tool.",
+            "[person_3] might hurt herself."
+        ],
+        "reason": [
+            "Because his arms are tired.",
+            "[person_2]'s head is not protected.",
+            "That's againist rule of this sport.",
+            "[person_2] is in army.",
+            "That's the rule of this sport."
+        ]
+    }
+}

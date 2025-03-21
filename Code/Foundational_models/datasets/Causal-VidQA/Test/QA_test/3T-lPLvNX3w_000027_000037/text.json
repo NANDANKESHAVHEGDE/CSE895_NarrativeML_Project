@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is next to [person_1].",
+            "[car_1] is behind [person_1].",
+            "They are black.",
+            "[person_1] is behind the [person_1] and [car_1].",
+            "[person_1] is to [person_1] right."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] feel?",
+        "answer": [
+            "The weather is sunny.",
+            "[person_1] feels excited.",
+            "For horses to drink water.",
+            "[person_1] is sitting on the floor.",
+            "There is no one except [person_1] is standing and playing bagpipes."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will open the door.",
+            "[person_1] will wash his hands.",
+            "It is anticipated that [person_1] will keep on riding the unicycle.",
+            "[person_1] will run towards the ball.",
+            "[person_1] will talk with other people."
+        ],
+        "reason": [
+            "[person_1] is in the middle of her demonstration.",
+            "[person_1] is looking for her.",
+            "Music with moon walking is perfect.",
+            "Because milking has already been done.",
+            "[person_1] seems to enjoy it very much."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were other people around?",
+        "answer": [
+            "[person_1] would stop eating the cake.",
+            "[person_1] may not know where to go.",
+            "[person_1] would have to re - colorize [person_1] from the beginning or , in the worst case , recreate [person_1].",
+            "[person_1] might be complimented.",
+            "[person_1] will continue to jump."
+        ],
+        "reason": [
+            "[person_1] can ride the unicycle quite well.",
+            "To find the reason why it doesn't work and try to repair it.",
+            "Because running shoes help [person_1] run much faster and prevent injuries.",
+            "Because she is likely to be their mom.",
+            "Because there is an alternative one."
+        ]
+    }
+}

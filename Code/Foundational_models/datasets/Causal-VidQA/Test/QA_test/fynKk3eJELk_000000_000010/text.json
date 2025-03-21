@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] , [person_2] , and [person_4] doing?",
+        "answer": [
+            "The [person_4] is sitting on the right - hand side of the [person_2].",
+            "The [person_4] is sitting on the legs of the [person_4].",
+            "[person_1] , [person_2] , and [person_4] are sitting on the sofa.",
+            "The [person_2] is standing behind the fence.",
+            "[person_1] is sitting on [person_4]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pick up the card?",
+        "answer": [
+            "[person_1] waits for [person_1] to open the gift.",
+            "[person_1] is making a scene in a TV program.",
+            "[person_1] reads the message in the card.",
+            "[person_1] is trying to play cymbals and drums.",
+            "[person_1] wants the chair to have a better color."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do?",
+        "answer": [
+            "[person_4] is going to dance the next move.",
+            "[person_4] is going to open the gift box.",
+            "[person_4] is going to keep jumping.",
+            "[person_4] is going to be back to his initial place.",
+            "[person_4] will probably come in and start playing basketball."
+        ],
+        "reason": [
+            "[person_4] started bringing his foot back up off the floor and stomping it straight up and down.",
+            "Because [person_4] has filmed everything around.",
+            "[person_4] read the information in the card before opening the gift box.",
+            "[person_4] approached to shake hands and squeeze [person_4] in the arm.",
+            "[person_4] doesn't finish plastering."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electricity is cut off?",
+        "answer": [
+            "The balloon will fall to the ground.",
+            "[person_1] will stop skateboarding.",
+            "[person_1] will change a vehicle.",
+            "[person_1] and [person_4] will find flashlight.",
+            "They will fall."
+        ],
+        "reason": [
+            "Because broken bicycles are prone to danger.",
+            "[person_1] and [person_4] can't read the letters in the dark.",
+            "Because nothing can be seen.",
+            "[person_1] has a lot of cups.",
+            "It floats in the air."
+        ]
+    }
+}

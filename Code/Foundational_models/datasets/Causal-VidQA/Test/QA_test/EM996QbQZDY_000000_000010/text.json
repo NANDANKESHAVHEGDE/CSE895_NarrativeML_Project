@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is white.",
+            "The shirt is black and white.",
+            "The color of the shirt is green.",
+            "The shirt is blue.",
+            "It's green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] , [person_3] and [person_7] on the track?",
+        "answer": [
+            "Maybe [person_1] , [person_2] and [person_3] are recording on a show about make - up.",
+            "Maybe [person_1] , [person_2] , [person_3] and [person_7] are participating in a push wheelchair contest.",
+            "[person_1] wants to listen to music through the headphone.",
+            "perhaps [person_1] is playing the bagpipes for someone sitting at a table in front of him.",
+            "[person_1] is stacking dice."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] , [person_2] , [person_3] and [person_7] going to do?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] will laugh and talk.",
+            "[person_1] will drink the coke.",
+            "[person_1] will eat other chips.",
+            "Perhaps [person_1] , [person_2] , [person_3] and [person_7] are going to push wheelchair.",
+            "[person_1] will cry for food."
+        ],
+        "reason": [
+            "[person_1] may be killed.",
+            "[person_1] , [person_2] , [person_3] and [person_7] race to win the contest.",
+            "[person_1] is moving fast forward.",
+            "They have already made the pose.",
+            "[person_1] and [person_2] are performing some finger snaps on the street."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] wins?",
+        "answer": [
+            "It is possible that [person_1] will have a medal.",
+            "[person_2]'s hair won't float in a messy.",
+            "[person_1] will not be able to play music outdoors.",
+            "It is possible that [person_1] will stop practicing.",
+            "[person_1] will experience dizziness."
+        ],
+        "reason": [
+            "[person_2] will be affected to health.",
+            "Boys will be stronger and faster than girls.",
+            "Alcohol can make the pores tighten after waxing and the skin will be more susceptible to irritation.",
+            "[person_2] can't train because [person_2] was injured.",
+            "[person_2] should ask [person_2]'s permission before taking photos with her."
+        ]
+    }
+}

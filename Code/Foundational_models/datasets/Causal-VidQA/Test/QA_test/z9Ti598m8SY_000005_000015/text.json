@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [tv_1]?",
+        "answer": [
+            "[tv_1] is in a [person_1]'s left.",
+            "A picture is hanging on the wall.",
+            "[person_1]'s shirt is red.",
+            "[tv_1] is attacking the mirror.",
+            "[tv_1]'s shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the [book_1]?",
+        "answer": [
+            "[person_1] is doing various yoga stretches using the [book_1].",
+            "[book_1] is performing on the stage.",
+            "[person_1] would like to do a handstand safely.",
+            "[person_1] is looking for fun.",
+            "[person_1] is looking for information in a [book_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "She is going to play with her toys.",
+            "[person_1] is going to turn the next page.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] is going to swim his best to the other side of the pool.",
+            "[person_1] is going to see the gift."
+        ],
+        "reason": [
+            "Children are very dependent on their parents.",
+            "[person_1] is standing next to [tv_1].",
+            "[person_1] keeps talking about blackjack.",
+            "The frisbee is far away from [person_1].",
+            "Because [person_1] is taking [person_1]'s photo while explaining about the camera's function."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "[person_1] will get dirty clothes.",
+            "The birds will fly away.",
+            "Maybe [person_1] will have dust blocked his nose.",
+            "[person_1] would come back to find [person_1].",
+            "[person_1] will be afraid."
+        ],
+        "reason": [
+            "[person_1] is in an interview.",
+            "This is going to be an important concert.",
+            "[person_1] will stop performing.",
+            "[person_1] is playing alone.",
+            "It will make [person_1] fat."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons there?",
+        "answer": [
+            "A watch is being worn on [person_1] hand.",
+            "Eight persons.",
+            "[person_1] is standing behind [person_1].",
+            "[person_1] is behind [person_1].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] wants to keep fit.",
+            "[person_1] is doing for fun.",
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is stacking cups.",
+            "[person_1] likes to shake maracas to make sound."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running for a long time?",
+        "answer": [
+            "[person_1] will rest.",
+            "The fruit will be opened.",
+            "[person_1] will change the post.",
+            "It is probable that [person_1] will dance with [person_1].",
+            "Maybe he will drill holes on that board too."
+        ],
+        "reason": [
+            "Maybe [person_1] really likes children.",
+            "Because [person_1] has to repeat this routine to make the furniture.",
+            "There must be much dust inside the dust catcher.",
+            "[person_1] likes this interesting toy.",
+            "[person_1] is tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] is too tired?",
+        "answer": [
+            "[person_1] will stop running.",
+            "[person_1] would regret.",
+            "[person_1] will cry.",
+            "[person_1] will not be able to teach.",
+            "[person_1] will drink a glass of water on the [person_1]."
+        ],
+        "reason": [
+            "He needs finish his task.",
+            "They will go home for a rest.",
+            "People could clap hands and cheer up after watching a great show.",
+            "He will get hurt.",
+            "He will sleep."
+        ]
+    }
+}

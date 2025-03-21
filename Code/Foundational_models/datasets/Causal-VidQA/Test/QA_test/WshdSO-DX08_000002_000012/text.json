@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a white T - shirt?",
+        "answer": [
+            "It is a hat.",
+            "Yes.",
+            "It is a ring box.",
+            "It is a towel.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] run?",
+        "answer": [
+            "[person_1] really wants to improve her health.",
+            "Speeding up gradually.",
+            "Because there is no one here to play with [person_1].",
+            "[person_1] wants to improve his health.",
+            "[person_1] wants to teach this exercise to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running for a while?",
+        "answer": [
+            "He will eat something.",
+            "[person_1] will slow down gradually.",
+            "[person_1] will speed up.",
+            "[person_1] will take off the coat.",
+            "Ask for help or change his direction."
+        ],
+        "reason": [
+            "[person_1] feels relaxed.",
+            "[person_1] feels tired.",
+            "[person_1] and [person_1] really enjoy playing together.",
+            "Because he may be [person_1]'s father.",
+            "[person_1] wants to walk with the horse."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finds a cat in the corner?",
+        "answer": [
+            "[person_1] will ask [person_1] or [person_1] for help.",
+            "[person_1] would cry.",
+            "[person_1] will hug the cat.",
+            "[person_1] will pick [person_1] up and keep brushing hair of [person_1].",
+            "Then [person_1] can not eat the second donut."
+        ],
+        "reason": [
+            "Because it's not usual.",
+            "Because things would be messy in [person_1].",
+            "The cat is so lovely.",
+            "[person_1] is not wearing a helmet.",
+            "The [person_1] is very wide and comfortable."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in his office.",
+            "They are in roller skating rink.",
+            "[person_1] and [person_2] are in the kitchen.",
+            "[person_1] and [person_2] are sitting on the floor.",
+            "[person_1] and [person_2] are in a log cabin."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] there?",
+        "answer": [
+            "Because the [person_1] put his hand inside the doll.",
+            "It's easier to pick mushroom.",
+            "Because [person_1] and [person_2] practice roller skating.",
+            "[person_1] nips the bottle between his legs.",
+            "[person_1] and [person_2] are friends."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue shaping the pottery clay.",
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will cut the hair on the back of [person_1]'s head.",
+            "[person_1] will use more sophisticated tools to sculpt sculptures.",
+            "[person_1] will continue to skateboard."
+        ],
+        "reason": [
+            "[person_1] moves forward.",
+            "Because it seems that he likes it a lot.",
+            "[person_1] has not don blowing the clarinet.",
+            "Because there are still many books on the desk to tidy up.",
+            "The main part of the sculpture has been completed , and [person_1] must replace the detailed tools."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "Maybe [person_1] will stand up and continue skiing.",
+            "[person_1] will stand up and laugh.",
+            "[person_1] will die.",
+            "[person_2] will fall down , too.",
+            "The skateboards can be damaged."
+        ],
+        "reason": [
+            "The [person_1] is performing on the stage.",
+            "Because [person_1] has to go to the hospital.",
+            "Because [person_1] looked fluently player so perhaps [person_1] knows how to swim.",
+            "[person_1] is just a baby and [person_1] feels scared.",
+            "Because [person_1] is next to [person_2]."
+        ]
+    }
+}

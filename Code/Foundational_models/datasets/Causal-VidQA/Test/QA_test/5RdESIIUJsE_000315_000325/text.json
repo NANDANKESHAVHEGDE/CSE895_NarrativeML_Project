@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is white.",
+            "it is black.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [bowl_1]?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] just received a gift.",
+            "[person_1] is being splashed with water."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to squeeze all the oranges.",
+            "[person_1] will play basic chords.",
+            "[person_1] will continue to laugh.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] is going to sing."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "Maybe [person_1] go out.",
+            "[person_1] just started squeezing oranges.",
+            "Frisbee is flying to him"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the [bowl_1]?",
+        "answer": [
+            "[person_1] will turn off the light.",
+            "[person_1] will be fine.",
+            "[person_1]'ll throw the [bowl_1] away.",
+            "[bowl_1] will go home.",
+            "[person_1] will have to go buy a new one."
+        ],
+        "reason": [
+            "[person_1] is in the competition and [person_1] is practicing lifting the dumbbell.",
+            "[person_1] would feel pity if that champagne was not for drink.",
+            "[person_1] is a baby and easy to be scared.",
+            "[person_1] and [person_1] are doing boxing.",
+            "[person_1] needs it to squeeze oranges."
+        ]
+    }
+}

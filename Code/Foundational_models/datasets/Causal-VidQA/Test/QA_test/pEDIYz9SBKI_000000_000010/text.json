@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [car_1]?",
+        "answer": [
+            "[person_1] is in his garage.",
+            "[person_1] is at a kindergarten",
+            "[person_1] is sitting on a couch.",
+            "[person_1] is young and small.",
+            "[car_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look so sad?",
+        "answer": [
+            "[person_1] wants to try the megaphone.",
+            "Because [person_1] wants to practice patience.",
+            "[person_1] is put there for [person_1] to sit.",
+            "[person_1] fell off the bicycle.",
+            "He wants to test emotion when he plays."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] keeps riding the unicycle.",
+            "[person_1] will check the result.",
+            "[person_1] is going to turn left.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] will call the rescue team."
+        ],
+        "reason": [
+            "[person_1] makes a lot of effort to practice.",
+            "[person_1] has already picked one piece up.",
+            "[person_1] seems to enjoy playing it very much.",
+            "[person_1] is jumping very professionally.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] rides fluently?",
+        "answer": [
+            "The baby will fall on the floor and cry.",
+            "[person_1] will scold the child.",
+            "The [person_1] would help the [person_1] stand up.",
+            "It would be hard for [person_1] to pack.",
+            "[person_1] may feel happy."
+        ],
+        "reason": [
+            "The baby is now sitting on the chair and since he is still a baby , he'll feel frightened.",
+            "[person_1] is still learning how to ride a bicycle.",
+            "[person_1]'s books are well filed , if [person_1] disappears , he will notice.",
+            "[person_1] is standing in front of the bookcase.",
+            "To lean against the wall to find a support."
+        ]
+    }
+}

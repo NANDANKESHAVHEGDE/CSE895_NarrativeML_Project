@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [tv_1]?",
+        "answer": [
+            "[tv_1] is hanging on the ceiling , behind [tv_1]?",
+            "[tv_1] is hanging from the ceiling behind [couch_1].",
+            "Yes , [couch_1] is very depressed.",
+            "[couch_1] is hanging on the wall in the room of [tv_1].",
+            "It is opposite the [couch_1] in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is whistling.",
+            "[person_1] is doing somersaults."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to somersaults.",
+            "[person_1] may go to somewhere else.",
+            "[person_1] will play basic chords.",
+            "[person_1] may go to finish his job.",
+            "[person_1] may stop recording."
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "Maybe [person_1] is going to take a rest.",
+            "[person_1] is going to continue feeding fish.",
+            "Maybe [person_1] is practicing.",
+            "[person_1] repeats the same action all the time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is injured?",
+        "answer": [
+            "Perhaps [person_1] will drink water.",
+            "Maybe [person_1] will stop enjoying the game temporarily.",
+            "[person_1] would feel more comfortable and [person_1] would be able to run when playing badminton.",
+            "[person_1] will stop somersaulting.",
+            "Maybe [person_1] will stop making the vase temporarily."
+        ],
+        "reason": [
+            "Because [person_1] and [person_1] are adults so [person_1] and [person_1] will take care of [person_1].",
+            "[person_1] loves [person_1] so much.",
+            "[person_1] will go to hospital.",
+            "[person_1] wants to get the lost thing back.",
+            "There is no food in the gym , so if [person_1] wants to eat something , he must go out and buy some food."
+        ]
+    }
+}

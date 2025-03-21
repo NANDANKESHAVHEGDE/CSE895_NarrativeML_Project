@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_5]?",
+        "answer": [
+            "[person_5] is in the room.",
+            "[person_5] is at skate place.",
+            "[person_5] is wearing a jacket.",
+            "No , the [person_5] is not.",
+            "[person_5] is made of plastic."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] jump?",
+        "answer": [
+            "Because the [person_1] make a joke by ripping paper.",
+            "Because [person_1] sees the bubbles.",
+            "[person_1] is teaching [person_1] to play chess.",
+            "[person_1] wants to climb over the pole.",
+            "[person_1] and [person_1] are playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_5] going to do?",
+        "answer": [
+            "[person_5] is going to stand still.",
+            "[person_5] is trying to score.",
+            "Keep dancing.",
+            "He is trying to greet people.",
+            "[person_5] will return to the starting position."
+        ],
+        "reason": [
+            "[person_5] is running behind [person_3] and [person_3] caught the ball before.",
+            "[person_5] is trying to slide downward.",
+            "[person_5] keeps standing and looking at [person_3] and [person_1].",
+            "After shaking hand with [person_1] , [person_5] turns right his head and look at other people.",
+            "[person_5] is still jumping and shaking the body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_3] fell down?",
+        "answer": [
+            "[person_1] will stop the game.",
+            "[person_1] would also stop gesturing.",
+            "The mother would come to help [person_3].",
+            "[person_3] would be injured.",
+            "[person_1] would raise [person_3] up."
+        ],
+        "reason": [
+            "Then [person_1] will lie down to relax.",
+            "Because [person_3] has close relationship with [person_1].",
+            "Because [person_1] needs to look down to ensure that the moves of [person_1] are correct.",
+            "Because it might be funny with [person_1] to see [person_3] fall.",
+            "[person_1] is an infant so that [person_1] cannot stand up."
+        ]
+    }
+}

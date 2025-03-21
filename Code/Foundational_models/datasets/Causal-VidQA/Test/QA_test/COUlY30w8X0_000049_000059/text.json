@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [tv_1]?",
+        "answer": [
+            "[tv_1] is black.",
+            "[tv_1] is on the floor.",
+            "[tv_1] is on a table.",
+            "[tv_1] is on the table.",
+            "[tv_1] is holding it."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the girls look at others?",
+        "answer": [
+            "Because they don't have time in the day.",
+            "They will roast the marshmallows with the fire.",
+            "Because he wants to watch [person_1] tap [person_1]'s pen on the table.",
+            "Maybe [tv_1] is performing some kind of ritual.",
+            "Because she lost the game."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after losing the game?",
+        "answer": [
+            "[person_2] will go on playing . ",
+            "[person_2] will start learning to dance.",
+            "The [person_2] is going to be covered with the preservative film.",
+            "The video will end.",
+            "[person_2] will continue painting until finishing it."
+        ],
+        "reason": [
+            "Because the [person_2] is still a little baby.",
+            "Because [person_2] seems to admit defeat and they will do a new round.",
+            "The [person_2] has already wiped the face of the [person_2].",
+            "Because the [person_2] seems to have finished wrapping the last steamed stuffed bun.",
+            "Because [person_2] has reached the top."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] lets [person_2] win?",
+        "answer": [
+            "[person_2] will stop the game.",
+            "[person_2] would be happy.",
+            "[person_1] would be slightly hurt.",
+            "[person_2] would be sad.",
+            "[person_1] would be happy too."
+        ],
+        "reason": [
+            "Because [person_2] likes losing.",
+            "[person_1] finished folding the napkin in front of [person_1].",
+            "Because [person_2] doesn't care about winning or losing.",
+            "Thousands of balls are much more than the bowling pins so will hit down all.",
+            "Because [person_2] cares about winning or losing."
+        ]
+    }
+}

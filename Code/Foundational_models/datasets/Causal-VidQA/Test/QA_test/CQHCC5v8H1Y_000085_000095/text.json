@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is holding a glass of beer that [person_2] gives [person_1].",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is is throwing a stone so that it slides on the river surface.",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is standing on the [person_2] and holding a pipe."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a glass of beer that [person_2] gives?",
+        "answer": [
+            "[person_1] wants to show everyone her new shoes.",
+            "[person_2] and [person_2] use their wrists to turn the rope . And their wrists should generate the jump rope rotation.",
+            "Because [person_2] and [person_1] are talking.",
+            "To be more attractive in the mirror.",
+            "Because [person_2] is near the glass of beer than [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to give the glass of beer to another person.",
+            "[person_2] may run after [person_2].",
+            "[person_2] is going to tuck in the paper on the corners of the box.",
+            "[person_2] may climb the post.",
+            "[person_2] may be going to sit up."
+        ],
+        "reason": [
+            "[person_2] and [person_2]'s movements are the same , [person_2] runs , so [person_2] may run after [person_2].",
+            "[person_2] pushed both ends of the paper inward so they hug the corners of the box.",
+            "Because [person_2] is adjusting the small parts.",
+            "Because [person_2]'s eyes have been looking at one place and seem to be learning to make cookies from others.",
+            "Because [person_2] is heading in a different direction."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] drops the glass of beer?",
+        "answer": [
+            "[person_2] will put the clothes into the closet.",
+            "[person_2] will be very full.",
+            "The boards may split and [person_2] have to fix them all.",
+            "[person_2] will not eat it anymore.",
+            "Beer in the glass will be poured on the ground."
+        ],
+        "reason": [
+            "The bowl is made of glass.",
+            "Because the glass is broken.",
+            "There is a closet behind [person_2].",
+            "Checking helps [person_2] know the knife's condition while sharpening.",
+            "Because the pencil is not edible."
+        ]
+    }
+}

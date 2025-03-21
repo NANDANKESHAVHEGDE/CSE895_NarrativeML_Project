@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "It is on the table.",
+            "[person_1] is standing in the yard.",
+            "It is in front of the yellow curtain.",
+            "[couch_1] is near [person_1].",
+            "[person_1] is holding a black guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling so happily?",
+        "answer": [
+            "Maybe [person_1] likes the sound it makes.",
+            "Because [person_1] likes the sound of ripping paper.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_1] is watching [person_1] and [person_1] playing badminton.",
+            "[person_1] holds the accordion toy with both her hand."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] is going to continue securing the paper to the box.",
+            "[person_1] is going to hold [person_1]'s leg.",
+            "[person_1] will continue to laugh."
+        ],
+        "reason": [
+            "[person_1] is going to learn how to keep balance so that he can take off 2 spare wheels on the [person_1].",
+            "Because [person_1] made a small mark with it and the carpet is big.",
+            "Because [person_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "Because [person_1] cannot believe in the eyes of [person_1].",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop reading.",
+            "[person_1] maybe afraid.",
+            "[person_1] maybe stop smiling.",
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe stop eating."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "The room will be dark.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on [oven_1]?",
+        "answer": [
+            "[oven_1] is next to [oven_1].",
+            "It is an kettle.",
+            "[oven_1] has [oven_1]",
+            "No.",
+            "The speaker is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why didn't [person_2] look at the music sheets all the time?",
+        "answer": [
+            "The [person_2] wants to learn how to play accordion.",
+            "[person_2] wants to help [person_2] shave.",
+            "Because [person_2] wants to show the gift to the dog.",
+            "The [person_2] harvested the [person_2].",
+            "[person_2] is trying to learn by heart the melody."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to continue doing?",
+        "answer": [
+            "[person_2] is a singer.",
+            "[person_2] is going to continue play clarinet.",
+            "[person_2] maybe misses the dance steps of [person_2].",
+            "The atmosphere at this time is cheerful and harmonious.",
+            "The person wearing the number 12 is going to pick up the ball and throw up."
+        ],
+        "reason": [
+            "The [person_2] and the [person_2] has just popped all the balloons.",
+            "Because [person_2] is waiting for him to do the second practice.",
+            "[person_2] has just initiate playing clarinet.",
+            "Because [person_2] lose in the game.",
+            "Because there can be only one winner in a game of dominoes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not stand there?",
+        "answer": [
+            "[person_2] may not sew.",
+            "[person_2] could not play perfectly.",
+            "[person_1] may make wrong moves.",
+            "[person_2] would fall with [person_1].",
+            "The players would not be able to train efficiently."
+        ],
+        "reason": [
+            "[person_2] is too old and not strong enough to pull the sword out.",
+            "[person_2] is a mere girl and would be shy of dancing alone.",
+            "It is sunny and [person_1] can enjoy fresh air when squatting outside.",
+            "[person_1] is [person_2]'s music tutor.",
+            "They could not figure out what would be the best strategy for them."
+        ]
+    }
+}

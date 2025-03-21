@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dog_1]?",
+        "answer": [
+            "[dog_1] is opposite [person_1].",
+            "[person_1] is being worn by [person_1].",
+            "[person_1] is taking [person_1] with his hands.",
+            "It is on the table next to [dog_1].",
+            "The [dog_1] is on the ground."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "Because [person_1] does not drive.",
+            "[person_1] is doing prenatal yoga.",
+            "[person_1] is playing with cups.",
+            "[person_1] is relaxing.",
+            "[person_1] wants to build a cup tower on the floor."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] will probably go on playing harp.",
+            "[person_1] intends to play the harmonica again.",
+            "[person_1] intends to compare the shoe with the foot.",
+            "[person_1] will certainly continue playing the harmonica.",
+            "[person_1] will continue to play drums enthusiastically."
+        ],
+        "reason": [
+            "[person_1] is holding the harp.",
+            "[person_1] hands are on the strings.",
+            "[person_1] is still holding the harmonica in his hands.",
+            "Maybe [person_1] is the mother of the girl who is sitting in a wheelchair . They are playing ball together.",
+            "[person_1] is putting the harmonica down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dog_1] barks?",
+        "answer": [
+            "[person_1] will chase the dog away.",
+            "[person_1] will scold the child.",
+            "Maybe [person_1] will stop doing this movement.",
+            "[person_1] will ask [dog_1].",
+            "The [person_1] will slip into the water."
+        ],
+        "reason": [
+            "[person_1] will take it easy.",
+            "Because when it rains , the fish will be easily caught , and everyone will buy [person_1]'s fishing rod.",
+            "[person_1] is still learning how to ride a bicycle.",
+            "[person_1] wants to listen to the melody.",
+            "[person_1] is standing in front of the bookcase."
+        ]
+    }
+}

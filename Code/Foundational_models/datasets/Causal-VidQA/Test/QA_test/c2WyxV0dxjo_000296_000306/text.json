@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on a couch.",
+            "[person_1] is in a guitar shop.",
+            "[person_1] is in a small library.",
+            "[person_1] is sitting next to [person_2].",
+            "[person_1] is at a grocery store."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] sit in front of a micro?",
+        "answer": [
+            "Because wearing shorts makes [person_2] be easy to move around.",
+            "[person_2] is the singer.",
+            "The knife is too small to cut a coco.",
+            "By using a circular saw.",
+            "Because he wants to have this special experience."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] and [person_2] next after the show begins?",
+        "answer": [
+            "[person_2] will teach [person_1] to tie the balloon.",
+            "[person_1] and [person_2] will continue performing.",
+            "[person_2] is ironing hair for [person_1].",
+            "[person_2] will judge how [person_1] play.",
+            "[person_1] will use the food on top of [person_1] to make something."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are still very focused on their performance.",
+            "[person_1] is showing off his skills professionally.",
+            "[person_1] is talking to the camera telling them how to play effectively.",
+            "Because [person_2] falls off bike.",
+            "[person_2] is enjoying the crowd attention very much."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not focused?",
+        "answer": [
+            "[person_1] probably wouldn't do the dishes.",
+            "The deaf might not be able to understand what the news is about.",
+            "[person_1] would probably not be able to see as clearly.",
+            "[person_1] would ruin the performance.",
+            "[person_1] might not be able to light up the candle."
+        ],
+        "reason": [
+            "[person_1] is not attentive with the performance.",
+            "[person_1] stopped suddenly to avoid the car.",
+            "The glasses affect [person_1]'s vision.",
+            "[person_1] does not want to be recorded.",
+            "[person_1]'s skill is too simple."
+        ]
+    }
+}

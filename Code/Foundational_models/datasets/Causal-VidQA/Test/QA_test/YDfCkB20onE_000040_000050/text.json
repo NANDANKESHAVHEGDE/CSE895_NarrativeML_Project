@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is in front of [person_1].",
+            "They are black.",
+            "[car_1] is behind the [person_1].",
+            "It is in the parking lot.",
+            "It is on the wooden box."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] feel?",
+        "answer": [
+            "[person_2] feels amused.",
+            "To clean [person_2]'s feet.",
+            "[person_2] is advising on how to play guitar better.",
+            "The [person_2] reduces the tone of accordion.",
+            "[person_2] is teaching [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sing.",
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to continue riding unicycle.",
+            "[person_1] is going to step forward.",
+            "[person_1] will continue to laugh."
+        ],
+        "reason": [
+            "[person_1] is going to continue feeding fish.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is still cycling.",
+            "[person_1] repeats the same action all the time.",
+            "Maybe [person_1] is a earthen pot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] would stop reading to go inside.",
+            "[person_1] would not do this.",
+            "[person_1] may find a shelter.",
+            "[person_1] would go back the garage.",
+            "[person_1] may need to pick up [person_1]'s prop from the auditorium."
+        ],
+        "reason": [
+            "[person_1] is outside and the road would be too slippery to skate under the rain.",
+            "[person_1] , [person_1] are playing outside.",
+            "Candles can not light up under the rain.",
+            "Because it's very dangerous if [person_1] continues to drive the snow blower.",
+            "[person_1] does not have an umbrella."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is blue.",
+            "The shirt [person_1] wearing is gray.",
+            "It is pink.",
+            "The shirt [person_1] wearing is black.",
+            "It's pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the mirror hung on the wall of the gym?",
+        "answer": [
+            "Because they are playing the guessing game.",
+            "Running is good for your health.",
+            "People drove here to roast the marshmallows.",
+            "Because a lot of people want to see their bodies after they practice.",
+            "They just have free time and want to eat marshmallows."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read another page.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to move on to another gym exercises."
+        ],
+        "reason": [
+            "[person_1] is jumping very hard.",
+            "[person_1] fell under the bed.",
+            "[person_1] breaks down the weight lifting.",
+            "[person_1] is a beginner.",
+            "[person_1] is fond of doing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] increases the weight of weight lifting?",
+        "answer": [
+            "[person_1] will miss the chance to score.",
+            "[person_1] will snatch weight lifting.",
+            "The child will fall down.",
+            "[person_1] will not snatch weight lifting.",
+            "[person_1] would get hurt."
+        ],
+        "reason": [
+            "The weight of weight lifting is too much for him.",
+            "Because [person_1] only has one planing machine.",
+            "The weight of weight lifting is not too much for him.",
+            "Because if [person_1] didn't hit the ball , he didn't score in this round.",
+            "The weight of weight lifting is not enough for him."
+        ]
+    }
+}

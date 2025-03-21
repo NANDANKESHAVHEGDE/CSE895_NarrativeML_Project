@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is in the corner of the yard.",
+            "[dining table_1] is sitting on the floor.",
+            "[cup_1] is on [dining table_1].",
+            "[cup_1] is on the desk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "Because [person_2] wants to play the violin in a quiet room.",
+            "[person_2] looks very happy while playing didgeridoo.",
+            "Because [person_2] is reading a book.",
+            "Maybe [person_2] is learning fire dance from [person_2].",
+            "[person_2] is rearranging [wine glass_2] position on [dining table_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] and [person_4] do?",
+        "answer": [
+            "[person_2] , [person_4] and [person_2] will shoot dance together.",
+            "[person_4] will continue dancing with [person_2].",
+            "She may join them.",
+            "[person_4] and [person_2] will change their clothes to casual one.",
+            "[person_2] and [person_4] are going to practice for a while."
+        ],
+        "reason": [
+            "To congratulate on the proposal.",
+            "Because from the expression of [person_2] , we can guess the salad is not that delicious.",
+            "They have a good time.",
+            "They are sitting around the table.",
+            "They may not like the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not there?",
+        "answer": [
+            "[person_2] will hit [person_2].",
+            "[person_2] and [person_2] would still practice.",
+            "[person_2] would fall too.",
+            "[person_2] might be very happy.",
+            "[person_2] would not be able to set up a dining table properly."
+        ],
+        "reason": [
+            "Because there were no one there to watch the performance of [person_2].",
+            "[person_2] will continue to dance.",
+            "[person_2] and [person_2] would not have anyone to guide them.",
+            "[person_2] would lose the opportunity to practice setting up a dining table.",
+            "[person_2] is not too important in the performance."
+        ]
+    }
+}

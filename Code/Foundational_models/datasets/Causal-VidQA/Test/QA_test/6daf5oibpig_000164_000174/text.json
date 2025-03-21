@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is black.",
+            "It is purple.",
+            "It is pink.",
+            "The socks are white.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] may just take up skating.",
+            "[person_1] is squeezing oranges with a juicer.",
+            "[person_1] is training spinning poi.",
+            "[person_1] is introducing how to do massaging neck.",
+            "[person_1] is here to tag the graffiti."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may keep on skateboarding.",
+            "[person_1] will keep tagging the graffiti.",
+            "[person_1] will stop.",
+            "[person_1] will continue pulling the weights.",
+            "[person_1] will go downhill."
+        ],
+        "reason": [
+            "[person_1] will start opening his eyes a little.",
+            "Under the guidance of [person_1] , [person_1] may do the next set of more accurate movements.",
+            "The pancake doesn't look well - cooked.",
+            "Because [person_1] stills concentrates on the painting.",
+            "Because it seems that he likes it a lot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] used the wrong color on the graffiti?",
+        "answer": [
+            "[person_1] might have to compensate for what [person_1] had done.",
+            "They would go to the tent at once.",
+            "[person_1] might not have to compensate for what [person_1] had done.",
+            "The house will be dark and [person_1] will use [person_1] for light.",
+            "[person_1] might have to compensate for what [person_1] had not done."
+        ],
+        "reason": [
+            "Because it might not ruin the graffiti.",
+            "Because it's usually not safe in the building when there is an earthquake.",
+            "Because it might keep the graffiti.",
+            "Skiing for a long time may make skiers tired.",
+            "Because it might ruin the graffiti."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is introducing the doll to the audience.",
+            "Riding the scooter.",
+            "The [person_1] is holding the [person_1] of beer and a beer bottle.",
+            "The [person_1] is wearing a white sleeveless and white shorts.",
+            "Riding a scooter."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the doll on the stage move?",
+        "answer": [
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[person_1] is the singer.",
+            "Because the sound of the guitar is louder.",
+            "The [person_1] is placed there to enjoy outdoor shady areas.",
+            "Because [person_1] finished in short time."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will continue to introduce the  the doll on the stage.",
+            "The [person_1] will continue to give commands to the [person_1].",
+            "The [person_1] will check what's wrong with the ATM.",
+            "[person_1] may go to change another pair of pants.",
+            "The [person_1] may go bored."
+        ],
+        "reason": [
+            "Because the [person_1] doesn't seem to be finished.",
+            "Because the cutting hair of [person_1] left on the floor will make the room messy.",
+            "Because one of his hands is already on the handle of the lower drawer of the [person_1].",
+            "Because the [person_1] seems to have finished her introduction.",
+            "Because the [person_1] seems to have repeated this action twice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the  the doll on the stage fall over?",
+        "answer": [
+            "Maybe [person_1] will play the harp and that person will play the guitar.",
+            "The [person_1] will pick the doll up.",
+            "The teacher of [person_1] may stop [person_1].",
+            "The [person_1] won't pick the doll up.",
+            "[person_1] and [person_1]'s friends will be dangerous."
+        ],
+        "reason": [
+            "Because it will clutter the space if it is picked up.",
+            "Safety is important.",
+            "Because it won't clutter the space if it is not picked up.",
+            "Because with one basketball they can't practice together at the same time.",
+            "Because it will clutter the space if it is not picked up."
+        ]
+    }
+}

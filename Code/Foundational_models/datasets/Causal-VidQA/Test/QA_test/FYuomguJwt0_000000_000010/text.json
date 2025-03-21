@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the scene?",
+        "answer": [
+            "It is normal.",
+            "They are at home.",
+            "[person_1] is on the stage.",
+            "[person_1] and [person_1] are at the backyard of a school.",
+            "The chairs are behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why was the television placed there?",
+        "answer": [
+            "Because riding the camel is the best way to travel in the desert.",
+            "Because the [person_1] was knocked down by the door of the [person_1].",
+            "[person_1] is a woman.",
+            "[person_1] is having fun.",
+            "Maybe someone is sitting in front of the television to watch a film."
+        ]
+    },
+    "predictive": {
+        "question": "What is the job of [person_1]?",
+        "answer": [
+            "[person_1] is an actor.",
+            "On the table.",
+            "[person_1] may toss the pillow up in the air.",
+            "[person_1] is going to plant trees with his friends.",
+            "[person_1] might stop shipping."
+        ],
+        "reason": [
+            "Because it is the responsibility of [person_1] as an owner.",
+            "Then it's time to let go.",
+            "[person_1] is reaching into his bag to get more fish food.",
+            "[person_1] is playing role on the television.",
+            "It is powered off after long time shooting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] may stop playing.",
+            "The room will be bright.",
+            "The room will be dark.",
+            "[person_1] may stop tap dancing.",
+            "Someone can not see the film."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "The fan will turn off.",
+            "The television will be turned off.",
+            "The internet will be off , too.",
+            "The lights are off , too."
+        ]
+    }
+}

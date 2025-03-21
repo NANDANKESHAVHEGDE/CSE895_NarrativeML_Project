@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing ?",
+        "answer": [
+            "[person_1] wearing a beanie and yellow shoes.",
+            "[person_1] is wearing a glasses.",
+            "[person_1] is wearing a traditional uniform.",
+            "[person_1] is wearing a helmet.",
+            "[person_1] is wearing a t - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising hand ?",
+        "answer": [
+            "[person_1] is saluting.",
+            "To keep balance.",
+            "She has won the prize.",
+            "The machine should be operated like that.",
+            "[person_1] smacks them to adjust them to a comfortable spot under his arm."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will continue saluting.",
+            "[person_1] will turn over the body.",
+            "[person_1] will take a break.",
+            "[person_1] will close the printer cap.",
+            "[person_1] will introduce the things on the table."
+        ],
+        "reason": [
+            "[person_1] is saluting very attentively.",
+            "[person_1] is telling us about the composition of bicycle wheels.",
+            "[person_1] is teaching how to use the tool.",
+            "Because [person_1] feels tired.",
+            "Because lifting up the car will be more convenient for [person_1] to fix the car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't salute ?",
+        "answer": [
+            "[person_1] would not play with [person_1] anymore.",
+            "[person_1] would be punished.",
+            "No one else would play the harp.",
+            "[person_1] and [person_1] would keep playing.",
+            "Others would do the task of [person_1]."
+        ],
+        "reason": [
+            "[person_1] is in army.",
+            "There would be only [person_1] in the room.",
+            "The weather is sunny.",
+            "The audience would be surprised.",
+            "[person_1] punched the ground , which reduced the speed of [person_1]."
+        ]
+    }
+}

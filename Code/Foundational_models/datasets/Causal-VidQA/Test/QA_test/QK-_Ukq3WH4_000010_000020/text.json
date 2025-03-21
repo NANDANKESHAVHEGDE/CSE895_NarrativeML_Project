@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening the door.",
+            "[person_1] is singing.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is breaking an air brick.",
+            "[person_1] is opening a bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] open the bottle?",
+        "answer": [
+            "[person_1] holds the [person_1] in one hand and the spoon in his other hand , and uses the spoon to peel [person_1].",
+            "[person_1] wants to keep herself balance.",
+            "[person_1] uses a knife to strike the bottleneck.",
+            "[person_1] is counting 10 seconds.",
+            "The plate fell to the ground."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after opening the bottle?",
+        "answer": [
+            "They will stop headbanging.",
+            "[person_1] will clean the floor.",
+            "[person_1] will keep practicing.",
+            "[person_1] will pour the liquid in the bottle into some cups.",
+            "[person_1] will keep on touching."
+        ],
+        "reason": [
+            "Because [person_1] needs that frisbee to continue to practice.",
+            "The champagne inside the bottle spout out.",
+            "[person_1] wants to have the drink.",
+            "[person_1] feels very comfortable now and wants to express herself.",
+            "[person_1] needs a cup to drink."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] opened it gently?",
+        "answer": [
+            "The champagne would not spout out.",
+            "[person_1] might be hurt badly.",
+            "The champagne would spout out.",
+            "The exercise will get harder.",
+            "The champagne would not spout in."
+        ],
+        "reason": [
+            "Because the tire is an important part of the car.",
+            "The high pressure inside the bottle is caused by generated air in the bottle when it is shook.",
+            "[person_1]'s performance consists of 2 steps : putting the sword in his mouth and pulling the sword out of his mouth.",
+            "The high pressure outside the bottle is caused by generated air in the bottle when it is shook.",
+            "[person_1] do not fall."
+        ]
+    }
+}

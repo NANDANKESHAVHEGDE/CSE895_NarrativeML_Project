@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a car in the video?",
+        "answer": [
+            "There are six cups.",
+            "Four people are doing tai chi.",
+            "Yes.",
+            "No.",
+            "Five people are doing tai chi."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do people need to mow the lawn?",
+        "answer": [
+            "By controlling the rope.",
+            "[person_1] is helping [person_1] practicing side - kicking.",
+            "They are here to practicing side - kicking.",
+            "To make the lawn look organized.",
+            "Because [person_1] can't crush grapes with bare hands."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will enjoy the liquid inside the bottle.",
+            "[person_1] will continue the treatment process.",
+            "[person_1] will try to put [person_1] in a paper box.",
+            "Go back to home.",
+            "[person_1] may stand up."
+        ],
+        "reason": [
+            "[person_1] is leaving the lawn.",
+            "To put some better components in the power drill.",
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "[person_1] is swimming back.",
+            "Because [person_1] does not finish."
+        ]
+    },
+    "counterfactual": {
+        "question": "If some boys come to the lawn , what will they do?",
+        "answer": [
+            "The table will be broken.",
+            "They will work harder.",
+            "He would call for help.",
+            "They will play games here.",
+            "They would break up."
+        ],
+        "reason": [
+            "The lawn is big enough for boys to play games.",
+            "[person_1] hasn't finished his work.",
+            "Because their movements are inconsistent.",
+            "That seems more interesting.",
+            "There are no other lights on the stage."
+        ]
+    }
+}

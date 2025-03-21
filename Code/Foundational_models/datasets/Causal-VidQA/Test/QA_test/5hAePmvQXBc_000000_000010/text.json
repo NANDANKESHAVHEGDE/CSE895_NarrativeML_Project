@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [book_1]?",
+        "answer": [
+            "The color of [book_1] is white.",
+            "The [book_1] is next to the [book_1].",
+            "It is cyan.",
+            "The [book_1] is on the floor.",
+            "[book_1] is placed on the table behind [book_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] lift weights?",
+        "answer": [
+            "Because they're having a good time.",
+            "Because the puppets are manipulated with ropes.",
+            "[person_1] uses his both hands and tries his best to lift the weights up.",
+            "[person_1] is excited about her gift.",
+            "[person_1] will feel hot and sweat a lot."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop standing on the hand.",
+            "[person_1] is going to try his best to lift the weights over his head.",
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to drink water.",
+            "[person_1] will be naughty [person_1]."
+        ],
+        "reason": [
+            "[person_1] is going to finish her performance.",
+            "[person_1] is bending down to gain strength for lifting the weights up.",
+            "[person_1] is going to have a break.",
+            "[person_1] stands up and lift the bike up.",
+            "[person_1] is still dancing with fire."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slips hands while he is lifting weights?",
+        "answer": [
+            "[person_1] would cry a lot.",
+            "[person_1] would still burn calories.",
+            "[person_1] would miss the vehicle.",
+            "Maybe [person_1] will wax the wrong way when he waxes his own legs.",
+            "The weights may fall down and hit the feet of [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] doesn't know how to drive and so some bad things may happen.",
+            "Because if [person_1] slips hands , there is nothing holding the weights so it will fall down.",
+            "The throat of [person_1] was sore so he couldn't get the breath to play the flute.",
+            "Because [person_1] can't land safely while having injuries.",
+            "Because [person_1] will let go the microphone to hold something else to keep balance."
+        ]
+    }
+}

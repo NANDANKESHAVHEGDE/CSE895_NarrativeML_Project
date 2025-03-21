@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] wear a cap?",
+        "answer": [
+            "It is quite dark.",
+            "The [person_1] is red.",
+            "It is black.",
+            "Yes.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a cap?",
+        "answer": [
+            "By massaging at [person_1]'s neck.",
+            "[person_1] cannot stand the heavy sledgehammer for long time.",
+            "[person_1] is overexcited at this movement.",
+            "[person_1] is playing a bass guitar solo.",
+            "It's a habit."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do while [person_3] is running?",
+        "answer": [
+            "[person_3] and [person_1] are going to continue to enjoy the dance.",
+            "[person_1] will introduce the machine.",
+            "[person_1] will swim to the shore.",
+            "[person_1] , [person_1] and [person_3] are going to keep skating.",
+            "[person_1] wants to drag the crocodile closer to the people."
+        ],
+        "reason": [
+            "[person_1] is trying to sell the machine.",
+            "They has the same skin color and they look so similar.",
+            "Because the [person_1] milks the cow very hard.",
+            "To build a snowman.",
+            "Dancing consumes energy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels hungry?",
+        "answer": [
+            "[person_1] will be sit on the chair.",
+            "[person_1] will go out.",
+            "[person_1] will rest on [person_1].",
+            "[person_1] will stand up.",
+            "[person_1] will go back."
+        ],
+        "reason": [
+            "[person_1] must have something to eat.",
+            "[person_1] will find something to drink.",
+            "There is a glass of water next to the plate of noodle.",
+            "Because [person_1] is going for sleep.",
+            "[person_1] will go to bed."
+        ]
+    }
+}

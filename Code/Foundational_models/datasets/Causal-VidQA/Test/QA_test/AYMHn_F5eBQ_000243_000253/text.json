@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1] placed?",
+        "answer": [
+            "The car toy is placed on the couch , next to [cup_1].",
+            "[cup_1] is sitting on the [person_1].",
+            "The [person_1] is on [person_1]'s back.",
+            "[person_1] is holding a guitar.",
+            "[cup_1] is placed on the round glass table that stands behind and on the left side of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on [couch_1]?",
+        "answer": [
+            "[person_1] is sitting on [couch_1] to play music.",
+            "because [person_1] has to do that or [person_1] will fall.",
+            "Because the [person_1] wanted to take something from inside.",
+            "[person_1] is watching [person_1] lift weights.",
+            "Maybe [person_1] is waiting for something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue watering.",
+            "[person_1] is going to smash [person_1].",
+            "[person_1] will be performing a bass guitar solo while sitting on [couch_1].",
+            "[person_1] is trying to touch [person_1].",
+            "[person_1] will eat the apple on the table."
+        ],
+        "reason": [
+            "[person_1] is sitting and striking guitar strings.",
+            "[person_1] is still performing.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is exercising.",
+            "[person_1] is huddling with the team."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not wear glasses?",
+        "answer": [
+            "It will be difficult for [person_1] to play bass guitar.",
+            "[person_1] and [person_1] could not perform.",
+            "[person_1] can taste another type of wine.",
+            "[person_1] would be really sad.",
+            "[person_1] will not be able to do lunges."
+        ],
+        "reason": [
+            "No one shut it down.",
+            "[person_1] will use both hands to help [person_1].",
+            "[person_1] will not see the bass guitar clearly without glasses.",
+            "Maybe [person_1] hasn't had dinner yet.",
+            "Because [person_1] 's eyesight is poor."
+        ]
+    }
+}

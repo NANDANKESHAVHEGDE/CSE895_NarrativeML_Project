@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the dress [person_1] wearing?",
+        "answer": [
+            "Adidas.",
+            "Red.",
+            "[person_1] is wearing black pants with white line.",
+            "[person_1] is putting all his apples in his t - shirt.",
+            "The dress is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the chair?",
+        "answer": [
+            "[person_1] is outside and it is hot.",
+            "[person_1] and [person_1] are bathing together.",
+            "[person_1] is performing his performance.",
+            "[person_1] is tuning the harp.",
+            "[person_1] is playing with his flute."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to stop playing the harmonica.",
+            "[person_1] intends to play the harp.",
+            "[person_1] intends to move on and leave the sandpit.",
+            "[person_1] intends to eat the snack.",
+            "[person_1] intends to break."
+        ],
+        "reason": [
+            "[person_1] is hover boarding.",
+            "[person_1] prepared to play the harp.",
+            "[person_1] still hasn't landed perfectly.",
+            "[person_1] is continue crawling forward.",
+            "[person_1] didn't want to put the harmonica down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the harp is out of tune?",
+        "answer": [
+            "All the books will fall on the ground.",
+            "[person_1] won't play the harp yet.",
+            "The man will not eat it.",
+            "[person_1] can see the back clear.",
+            "[person_1] may stop feeding the birds."
+        ],
+        "reason": [
+            "If the food runs out , there is nothing to feed the birds.",
+            "[person_1] has to tune the harp strings so that the sound is correct.",
+            "To buy a new one.",
+            "[person_1] is using a manual orange extractor.",
+            "Dogs bark when they are frightened."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is in the bath.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is standing under a tree.",
+            "[person_1] is on the roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [chair_2]?",
+        "answer": [
+            "[person_1] is playing lute for everyone.",
+            "[person_1] is playing guitar.",
+            "[person_1] is playing basketball.",
+            "[person_1] is using the piano.",
+            "[person_1] and [chair_2] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to start eating.",
+            "[person_1] is going to play a nice song.",
+            "[person_1] is going to a workout.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] is going to use the harp."
+        ],
+        "reason": [
+            "[person_1] is stretching leg very hard.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is an amateur player and knows how to play a nice song.",
+            "[person_1] is talking with his friend.",
+            "[person_1] is very interested in what he says."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks one of the strings ?",
+        "answer": [
+            "[person_1] will be very regretful.",
+            "[person_1] will have to ask someone for help.",
+            "[person_1] will win.",
+            "The [person_1] will change the way he gets there next time.",
+            "[person_1] will be scolded."
+        ],
+        "reason": [
+            "After [person_1] leaves the equipment , the equipment is free to use and there nobody on the equipment , so [person_1] can sit on it.",
+            "[person_1] is old and can't change the guitar strings by himself.",
+            "[person_1] lost the fish that he just caught.",
+            "[person_1] was trying to pass through all obstacles without touching them.",
+            "[person_1] is always attacking [person_1] with his sword."
+        ]
+    }
+}

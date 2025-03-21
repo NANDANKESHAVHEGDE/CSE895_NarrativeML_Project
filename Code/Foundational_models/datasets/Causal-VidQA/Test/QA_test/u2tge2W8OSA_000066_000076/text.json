@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room ?",
+        "answer": [
+            "The room is quite big.",
+            "The room is large.",
+            "It is narrow.",
+            "It is quite dark.",
+            "It is very clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] appear in the room ?",
+        "answer": [
+            "Because [person_1] is playing a xylophone.",
+            "Maybe [person_1] is in the game.",
+            "[person_1] is [person_1]'s friend.",
+            "[person_1] is reading book.",
+            "Maybe [person_1] and [person_1] are taking a photo."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will push a wheelchair to help [person_1] enter the house to shelter from the rain.",
+            "[person_1] will put in contact lenses.",
+            "[person_1] will fix the gongs.",
+            "[person_1] would step back and let others come up and perform.",
+            "[person_1] will use [book_1] to read."
+        ],
+        "reason": [
+            "[book_1] is in [person_1]'s hands.",
+            "[person_1] is still a little kid and impatient.",
+            "[person_1] is getting the bottle through the chair.",
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] must keep track of her student's progress."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off ?",
+        "answer": [
+            "[person_1] will be afraid.",
+            "[person_1] will put them back to the pot.",
+            "The [person_1]'s hair would get wet.",
+            "Then maybe [person_1] will fall.",
+            "[person_1] will run away."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "The dancers can't see anything around them if the light is off.",
+            "[person_1] can't playing keyboard without the keyboard.",
+            "To help the work go smoothly.",
+            "Because they can't see anything."
+        ]
+    }
+}

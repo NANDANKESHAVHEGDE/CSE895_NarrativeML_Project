@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside of the house.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is in the workshop.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is at a grocery store."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "Maybe [person_1] is managing workers who are cutting wood.",
+            "Because [person_1] wants to play sports.",
+            "Because [person_1] is waiting for [person_1] to draw a picture.",
+            "[person_1] needs to be outside to play basketball.",
+            "Because [person_1] is smoking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to keep on smoking.",
+            "[person_1] is going to continue stomping grapes.",
+            "[person_1] is going to continue hugging.",
+            "[person_1] is going to record a video about herself."
+        ],
+        "reason": [
+            "[person_1] is playing the guitar with zeal.",
+            "[person_1] holds the button in his hands.",
+            "[person_1] has prepared shovel tool.",
+            "Because [person_1] is reaching out the hand.",
+            "[person_1] is interested in smoking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] put the smoking pipe down?",
+        "answer": [
+            "[person_1] would love to smoke again.",
+            "[person_1] will stop eating.",
+            "[person_1] will start walking.",
+            "The hat will be dirty.",
+            "Milk will spill all over the floor."
+        ],
+        "reason": [
+            "[person_1] can't quit smoking.",
+            "[person_1]'s hands will be hurt by the machine.",
+            "[person_1] is hungry.",
+            "[person_1] is hard working.",
+            "[person_1] 's actions make the birds startled and they will fly away."
+        ]
+    }
+}

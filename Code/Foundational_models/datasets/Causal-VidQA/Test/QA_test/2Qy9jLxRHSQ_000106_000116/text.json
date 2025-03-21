@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it the bedroom ?",
+        "answer": [
+            "It's next to [person_3].",
+            "Yes , it is.",
+            "The [person_1] is near the window and close to the wall.",
+            "The [person_1] is on the left side of the road.",
+            "The [person_1] is between the [person_1] and the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] in the bedroom ?",
+        "answer": [
+            "[person_3] is playing the lute.",
+            "[person_3] is listening to [person_3].",
+            "[person_3] is ripping paper.",
+            "Maybe [person_3] is introducing the plate.",
+            "Because gym equipment needs a place to be stored."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing what [person_3] does?",
+        "answer": [
+            "[person_1] will continue showing the steps.",
+            "[person_1] will put the inhaler into the mouth.",
+            "[person_1] will mow in this direction.",
+            "[person_1] will laugh a lot and expect what will happen next.",
+            "[person_1] will definitely play the gong."
+        ],
+        "reason": [
+            "[person_1] feels herself more skillful.",
+            "[person_1] pays all his attention on [person_3] . ",
+            "They are tired of dancing for a long time.",
+            "[person_3] is a starter in dancing who needs constant tutoring.",
+            "[person_1] wants to see if [person_1] can ride while sitting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is sleepy ?",
+        "answer": [
+            "[person_1] and [person_3] will make another snowball.",
+            "[person_1] will fall asleep.",
+            "[person_1] will pick up the ball and bring it back for [person_1].",
+            "[person_1] will get burned.",
+            "[person_3] will stop ripping paper."
+        ],
+        "reason": [
+            "[person_1] will curl a part of hair by accident.",
+            "They can increase sensitivity and the likelihood of an infection.",
+            "The paper in the hand of [person_1] falls in the hot pan and gets fire , [person_1] is nearest the pan.",
+            "The bowling pins are not very light so a extremely small and light bowling ball is hard to hit them down.",
+            "[person_1] will sleep."
+        ]
+    }
+}

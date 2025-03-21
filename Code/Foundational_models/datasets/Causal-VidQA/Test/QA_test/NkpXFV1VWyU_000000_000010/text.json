@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [microwave_1] big?",
+        "answer": [
+            "[microwave_1] is in the corner.",
+            "[microwave_1] is in the floor.",
+            "It is on the [microwave_1].",
+            "It is behind the [microwave_1].",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the boy touching the cups?",
+        "answer": [
+            "[microwave_1] is doing her job to earn money.",
+            "This boy wants to make a surprise for everyone.",
+            "[microwave_1] is looking at someone who is standing near her.",
+            "[person_1] is shaving and cutting his hair.",
+            "[person_1] is too young to hold the inhaler by himself."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after saying something?",
+        "answer": [
+            "[person_1] will scream and shout.",
+            "[person_1] will accept the punishment.",
+            "[person_1] will ask [person_1] to walk off the machine.",
+            "[person_1] will record what another boy is doing.",
+            "[person_1] will begin to read."
+        ],
+        "reason": [
+            "[person_1] will still put the guitar on [person_1]'s lap because [person_1] is still playing.",
+            "[person_1] feels very happy and is eager to know what it is.",
+            "It seems that [person_1] turns the shot to the boy.",
+            "He is tired and need relax.",
+            "It seems that [person_1] is quite curious about it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays with the cups everyday?",
+        "answer": [
+            "People will applause for [person_1].",
+            "[person_1] may create ugly shapes.",
+            "[person_1] won't be able to do anything.",
+            "[person_1] may create beautiful shapes.",
+            "[person_1]'s face may turn dark."
+        ],
+        "reason": [
+            "Soil needs enough moisture to provide plants.",
+            "Practice makes perfect.",
+            "Maybe [person_1] will be eliminated from the round.",
+            "Practice makes worst.",
+            "It happens so suddenly."
+        ]
+    }
+}

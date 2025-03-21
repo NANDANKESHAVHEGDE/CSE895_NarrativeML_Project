@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Are people all men in the video?",
+        "answer": [
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding the guitar bass.",
+            "Yes.",
+            "[person_1] is holding [person_1].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn around?",
+        "answer": [
+            "[person_1] is standing on hands.",
+            "[person_1] is skiing.",
+            "[person_1] is in the performance.",
+            "[person_1] is doing it for show the skill.",
+            "[person_1] found a funny man."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] may keep away from the place [person_1] plays fire .",
+            "[person_1] will stand on the stage.",
+            "[person_1] will eat cookies.",
+            "[person_1] will laugh.",
+            "[person_1] will shape the dough."
+        ],
+        "reason": [
+            "Because [person_1] likes the cartoon , too.",
+            "[person_1] just drinks all beer in his cup and he is lowering it.",
+            "Because he seems like want one too.",
+            "[person_1] finds a funny man.",
+            "The movements are more decisive."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the man doesn't fall down?",
+        "answer": [
+            "The room will not be bright.",
+            "[person_1] can't play.",
+            "[person_1] will go out.",
+            "[person_1] would be so sad.",
+            "[person_1] will put the left meat into fridge."
+        ],
+        "reason": [
+            "The room will be clear.",
+            "There is nothing interesting.",
+            "The machine would not remedy itself if mistakes happened.",
+            "[person_1] strongly attacked [person_1].",
+            "To help protect the man."
+        ]
+    }
+}

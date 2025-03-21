@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is behind [book_1].",
+            "It's white.",
+            "It is on the bookshelf.",
+            "It is in front of the building.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the funnel?",
+        "answer": [
+            "[person_1] is training his balance.",
+            "[person_1] wears shoes to run faster.",
+            "[person_1] came to open presents.",
+            "[person_1] was bored before.",
+            "Because [person_1] uses a funnel to release smoke into circles."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to play there.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will continue to smoking hookah."
+        ],
+        "reason": [
+            "[person_1] uses a funnel to create shapes.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] is skateboarding through the hill.",
+            "[person_1] is attacking [person_1] and [person_1] will win this match."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes hookah?",
+        "answer": [
+            "[person_1] will be addicted.",
+            "[person_1] will turn back.",
+            "[person_1] won't be addicted.",
+            "[person_1] will pick them up.",
+            "The hoop would drop."
+        ],
+        "reason": [
+            "[person_1] will need to rest.",
+            "Smoking hookah will be addictive.",
+            "[person_1] may need to pick them up.",
+            "Smoking hookah won't be addictive.",
+            "It's easy to faint if you continue to exercise when you're hungry."
+        ]
+    }
+}

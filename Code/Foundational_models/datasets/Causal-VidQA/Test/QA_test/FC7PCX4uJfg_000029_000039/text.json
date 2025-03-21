@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the [room_1]?",
+        "answer": [
+            "It is on the [room_1].",
+            "It is a blue room.",
+            "[room_1] is on the [room_1].",
+            "[room_1] is red.",
+            "[room_1] is on train."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] lying on the floor?",
+        "answer": [
+            "[person_3] is wrestling with another person.",
+            "[person_3] and [person_3] to read the cards.",
+            "Because there is something wrong with her mind.",
+            "Because [person_3] wants to know what's going on behind her.",
+            "[person_3] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do ?",
+        "answer": [
+            "[person_2] is going to teach the kids how to wrestle.",
+            "[person_2] is going to keep skating.",
+            "[person_2] may take [person_2] off the tree.",
+            "[person_2] is going to stop eating the fruit.",
+            "[person_2] is going to tie up the bandage."
+        ],
+        "reason": [
+            "[person_2] is standing in the start position , picking up the marker , waiting for [person_2] to finish his jump.",
+            "[person_2] still high five with [person_2].",
+            "[person_2] turns her head and looks at [person_2].",
+            "[person_2] is talking with his friends.",
+            "They are boys who are being taught how to wrestle by [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] trains hard?",
+        "answer": [
+            "Maybe [person_3] will become a professional wrestler.",
+            "Maybe [person_3] and [person_3] would suffer from a serious injury.",
+            "The light on the ceiling will be off.",
+            "The team of [person_3] would not win.",
+            "[person_3] will be broken into many pieces."
+        ],
+        "reason": [
+            "Because they need to blend by their hands again.",
+            "The audiences love their star and they would be excited when they are closer to him.",
+            "Because touching head is a way to show praise.",
+            "Because rolling dough is so tired.",
+            "Maybe that's why [person_3] is training."
+        ]
+    }
+}

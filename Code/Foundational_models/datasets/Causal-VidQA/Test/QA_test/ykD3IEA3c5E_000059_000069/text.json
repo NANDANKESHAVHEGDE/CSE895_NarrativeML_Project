@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a ball.",
+            "[person_1] is wearing a blue shirt.",
+            "[person_1] is holding a bass guitar.",
+            "[person_1] is holding a shoe polish box.",
+            "[person_1] is holding a pencil."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a shoe polish box?",
+        "answer": [
+            "Because it is easier for him to stack them.",
+            "[person_1] is scoring.",
+            "[person_1] is cleaning shoes for [person_3].",
+            "The floor is very flat and easier to stack dice.",
+            "[person_1] is practicing playing basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will stand up by herself.",
+            "[person_2] is going to eat her chips.",
+            "[person_2] may dry the shoes.",
+            "[person_2] is going to keep crying.",
+            "[person_2] is going to turn a second somersault."
+        ],
+        "reason": [
+            "[person_2] bites the donut in front of her and eats.",
+            "[person_2] is holding a bottle of water in his hand.",
+            "[person_2] seems very interested in opening [person_2]'s gifts.",
+            "[person_2] has taught people how to take off the bandage , now it's time to teach people how to bandage.",
+            "[person_2] begins to hold a towel."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes his work?",
+        "answer": [
+            "[person_2] has to wait for other people.",
+            "[person_2] will stop his music.",
+            "[person_1] don't need to tiptoe.",
+            "[person_1] will take a break to relax and back to work later.",
+            "[person_1] will wait for [person_2] to leave together."
+        ],
+        "reason": [
+            "Books contain useful information.",
+            "Because people usually go home after working.",
+            "[person_1] and [person_2] look like friends and [person_1] and [person_2] go to work together.",
+            "Because looking back frequently will distract [person_1].",
+            "Children are very emotional."
+        ]
+    }
+}

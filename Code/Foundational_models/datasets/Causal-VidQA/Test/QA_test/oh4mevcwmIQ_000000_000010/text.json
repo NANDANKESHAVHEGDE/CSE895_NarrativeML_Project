@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is blue.",
+            "The shirt color is yellow.",
+            "The shirt is red.",
+            "The shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising hands ?",
+        "answer": [
+            "Maybe because [person_1] feel cold.",
+            "Because [person_1] is snatching weight lifting.",
+            "[person_1] is spinning plates.",
+            "By riding the horse everyday.",
+            "Because the [person_1] is wiping the round table underneath."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop playing the flute.",
+            "[person_1] is going to continue playing badminton without a net with [person_1] on the grass.",
+            "[person_1] is going to break.",
+            "[person_1] is going to lift the barbell.",
+            "[person_1] will stand here."
+        ],
+        "reason": [
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "Lowering her hip is the next movement in the squat and it helps to tighten the muscles on her belly.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] put down the weight lifting.",
+            "[person_1] is sharpening the knife."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the glasses is broken ?",
+        "answer": [
+            "The glasses might hurt [person_1].",
+            "He will stop running.",
+            "They will have dinner.",
+            "It would be easier to open.",
+            "They will perform outside."
+        ],
+        "reason": [
+            "Because if the fire is too fierce , it will cause great damage.",
+            "Because [person_1] can see nothing.",
+            "Shards of glasses are very sharp.",
+            "It's dark outside . It's time for dinner.",
+            "She will go for a sleep."
+        ]
+    }
+}

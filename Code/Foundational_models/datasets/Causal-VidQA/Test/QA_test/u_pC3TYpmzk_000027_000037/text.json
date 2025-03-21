@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is small.",
+            "It is bright.",
+            "It is large.",
+            "The room has many objects.",
+            "The room is very bright."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the lute?",
+        "answer": [
+            "[person_1] makes beautiful shoes to sell them to customers.",
+            "[person_1] is playing the lute.",
+            "[person_1] is playing the guitar bass and needs to touch the metal bass strings to create music.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "[person_1] uses a tool to make the bubble."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue sing.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to play there.",
+            "[person_1] is going to turn left.",
+            "[person_1] may talk to [person_1]."
+        ],
+        "reason": [
+            "[person_1] has picked the frisbee up.",
+            "[person_1] is leaning to the left.",
+            "[person_1] is landing on the street.",
+            "[person_1] likes sledding.",
+            "[person_1] looks very delighted."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] goes to [bed_1]?",
+        "answer": [
+            "[person_1] will win.",
+            "[person_1] will stop playing.",
+            "[bed_1] will win.",
+            "[person_1] will not be able to finish in short time.",
+            "[person_1] would be shy or angry."
+        ],
+        "reason": [
+            "[person_1] needs to stand and move to play basketball.",
+            "[person_1] needs to eat some food.",
+            "[person_1] will sleep.",
+            "The secret will be revealed.",
+            "Because [person_1] will probably lose."
+        ]
+    }
+}

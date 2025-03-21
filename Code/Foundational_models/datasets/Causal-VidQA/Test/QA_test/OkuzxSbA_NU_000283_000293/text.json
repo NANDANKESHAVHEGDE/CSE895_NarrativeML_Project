@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [car_1] and [car_2] on the video?",
+        "answer": [
+            "They are black.",
+            "It is purple.",
+            "A key.",
+            "It is pink.",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_4] raising their hands at the end of the performance?",
+        "answer": [
+            "[person_1] is sitting in front of the table to tap the pen easier on the table.",
+            "Because the camels are having a rest.",
+            "They are making an \" X \" sign by the ropes.",
+            "[person_1]'s short must be short so that [person_1] can comfortably do the movement.",
+            "[person_1] could be playing bagpipes at a funeral for someone who passed away."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_4] do next after finishing their performance?",
+        "answer": [
+            "[person_1] will adjust and relax herself before another try.",
+            "[person_1] will start learning to dance.",
+            "[person_1] and [person_1] will have a rest and let others practice.",
+            "[person_1] and [person_4] will celebrate together with their partners for the performance.",
+            "[person_4] will fight back."
+        ],
+        "reason": [
+            "Because the snake doesn't want to be caught again.",
+            "[person_1] and [person_1] are just spending time together being silly in front of the camera.",
+            "Because they wear the glasses for practicing dribbling.",
+            "[person_1] and [person_4] seems to be extremely delighted for the success.",
+            "Because [person_1] lost the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_4] miss the beat?",
+        "answer": [
+            "The performance will be kept.",
+            "There would be no audience.",
+            "The performance will be ruined.",
+            "[person_4] will cry.",
+            "The performance will be built."
+        ],
+        "reason": [
+            "[person_2] and [person_6] will step on the ropes and they cannot skip the performance cannot be shown up as they prepared.",
+            "In case that the circular saw hurt others.",
+            "[person_2] and [person_4] will step on the ropes and they cannot skip the performance cannot be shown up as they prepared.",
+            "Because they're about to have a competition.",
+            "[person_4] and [person_6] will step on the ropes and they cannot skip the performance cannot be shown up as they prepared."
+        ]
+    }
+}

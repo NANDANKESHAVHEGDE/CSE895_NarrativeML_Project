@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [baseball_1]?",
+        "answer": [
+            "There are seven.",
+            "It's in the classroom.",
+            "No , it isn't.",
+            "[baseball_1] is lying on the floor.",
+            "It lies on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the [bicycle_1]?",
+        "answer": [
+            "[person_1] wants to show her pencil.",
+            "[person_1] want to ride the [bicycle_1] so well.",
+            "[bicycle_1] needs to reposition his microphone.",
+            "The [person_1] wants to sit down.",
+            "[person_1] wants to train the horse."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the preparation?",
+        "answer": [
+            "[person_1] will take off the box.",
+            "[person_1] will begin to kick the punching bag.",
+            "[person_1] will stick other boards with the wooden box together.",
+            "[person_1] will start to ride the bicycle.",
+            "[person_1] may continue to decorate the Christmas tree."
+        ],
+        "reason": [
+            "[person_1] is trying to move forward.",
+            "It seems that they are in a food store.",
+            "Because water can wash the bubbles away.",
+            "[person_1] is practicing on the playground.",
+            "Because [person_1] pays attention on the dice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] won't be right outdoors.",
+            "The match will continue.",
+            "[person_1] can stop practice.",
+            "[person_1] can't continue practice.",
+            "[person_1] will stop driving the train."
+        ],
+        "reason": [
+            "Because [person_1] may not get ready to go home , the water can make his accordion wet and unable to use.",
+            "There are few places to hide from the rain nearby.",
+            "[person_1] is outside , so if it rains [person_1] will get wet.",
+            "The stadium needs dry to avoid wetness.",
+            "[person_1] may go home to avoid the rain."
+        ]
+    }
+}

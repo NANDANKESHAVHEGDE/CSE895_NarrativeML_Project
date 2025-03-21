@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the room.",
+            "[person_2] is in the garden.",
+            "Twelve.",
+            "[person_2] is in a massage room.",
+            "[person_2] is skating on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the garden?",
+        "answer": [
+            "Maybe [person_2] comes there to do exercise.",
+            "[person_2] and [person_2] are playing chess.",
+            "because [person_2] does it for fun.",
+            "Because [person_2] wants to water the plants.",
+            "[person_2] is playing with [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to roll the sausage.",
+            "[person_2] is going to keep playing cello.",
+            "[person_2] will start watering the plants.",
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] is going to attack [person_2]."
+        ],
+        "reason": [
+            "[person_2] is opening water.",
+            "[person_2] has very good technique.",
+            "[person_2] disagreed with [person_2] and before [person_2] continued to talk , [person_2] looked at the board which seems that there are some opinions on it.",
+            "[person_2] wants it to be perfect.",
+            "Continue their conversation."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the faucet runs out of water?",
+        "answer": [
+            "[person_2] will hit back.",
+            "The meat will not be cooked.",
+            "[person_2] can not deal with the music.",
+            "[person_2] will stop spraying temporarily.",
+            "[person_2] will not be able to water the plants."
+        ],
+        "reason": [
+            "The water pump will stop.",
+            "[person_2] will be weary after the racing.",
+            "The tree may wilt.",
+            "The power failure may be caused by tripping.",
+            "[person_2] can bear such weather."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is delivering a speech.",
+            "[person_1] is tearing the wrapping paper down.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is breaking an air brick.",
+            "[person_1] is exercising."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] deliver a speech?",
+        "answer": [
+            "Because [person_1] is playing an accordion.",
+            "[person_1] is opening the gift and [person_1] wanna see the gift inside.",
+            "[person_1] wants to talk about eating the banana.",
+            "[person_1] needs to place the accordion on his lap.",
+            "Because [person_1] wants to be safe when skiing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue eating.",
+            "[person_1] is going to go home.",
+            "[person_1] is going to not eat.",
+            "[person_1] want to exercise with the exercising ball.",
+            "[person_1] is going to show the way that he eats a banana."
+        ],
+        "reason": [
+            "[person_1] is keeping still.",
+            "[person_1] starts to peel the banana.",
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] is preparing to turn another somersault.",
+            "[person_1] has finished [person_1]'s action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] doesn't want to talk anymore?",
+        "answer": [
+            "Maybe [person_1] will utilize the chopstick.",
+            "[person_1] will stop and leave.",
+            "Maybe [person_1] will jump from the [person_1].",
+            "[person_1] won't stop and leave.",
+            "Everybody would be bored."
+        ],
+        "reason": [
+            "Too many reasons to talk before the camera.",
+            "Because it is likely to lose control of the camel.",
+            "No reason to talk after the camera.",
+            "The skateboard only has 2 wheels , so [person_1] might fall if he could not keep balance.",
+            "No reason to talk before the camera."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are the walls?",
+        "answer": [
+            "White.",
+            "The shirt is green.",
+            "Gray.",
+            "It's on the table.",
+            "The shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] wants to play.",
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is playing chess with his friend.",
+            "[person_1] is doing for fun.",
+            "[person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "Where will [person_1] go if he is sick?",
+        "answer": [
+            "[person_1] may lay down on a bed or a couch for a while.",
+            "[person_1] will sing a birthday song together.",
+            "[person_1] will go to the hospital.",
+            "[person_1] will get off.",
+            "[person_1] will let the students try to use the inhaler."
+        ],
+        "reason": [
+            "Because they sit on the stage , they are probably also the dancers.",
+            "Here seems in her house and it's at night.",
+            "[person_1] seems a bit scare.",
+            "If you do not see the doctor , you may fall ill.",
+            "[person_1] is moving her hand up and down."
+        ]
+    },
+    "counterfactual": {
+        "question": "Where would he go if he was hungry?",
+        "answer": [
+            "He would not go to the kitchen.",
+            "The cup may break.",
+            "He would go to the restroom.",
+            "Some pots will fall down.",
+            "He would go to the kitchen."
+        ],
+        "reason": [
+            "He wants to drink.",
+            "The food is not fully prepared.",
+            "He wants to eat.",
+            "Because the ground is hard.",
+            "He wants to sing."
+        ]
+    }
+}

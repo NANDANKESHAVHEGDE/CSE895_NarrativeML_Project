@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is sitting on the sofa.",
+            "[person_1] is at the basketball court.",
+            "[person_1] is in the orange garden.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [orange_1]?",
+        "answer": [
+            "[person_1] is reading a book.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] just received a gift.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is putting her mouth on [person_1] to blow into it so she can play her bagpipes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing the bagpipes.",
+            "[person_1] is going to drink orange juice.",
+            "[person_1] is going to pick up the ball.",
+            "[person_1] is going to stand there to perform.",
+            "[person_1] is going to put the dressing on the cake."
+        ],
+        "reason": [
+            "It is so fresh.",
+            "[person_1] finished squeezing oranges.",
+            "[person_1] finishes performance.",
+            "Because [person_1] may finish being interviewed.",
+            "Maybe the candlestick is old."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't take down the other half of the orange?",
+        "answer": [
+            "The insects will eat the other half of the orange.",
+            "[person_1] will pick it up.",
+            "[person_1] may not keep hooping.",
+            "[person_1] may not see anything.",
+            "[person_1] and [person_1] had to find tools to pry the machine away."
+        ],
+        "reason": [
+            "Because the pressure the ball can support is limited if the woman is too heavy then the ball can't bear.",
+            "[person_1] is interested in what the lady does.",
+            "[person_1] should take the whole orange.",
+            "[person_1] may go to find the candle.",
+            "To help the man exercise well."
+        ]
+    }
+}

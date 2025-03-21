@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in a small library.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is on the street.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [knife_1]?",
+        "answer": [
+            "[person_1] may prefer sitting on the [person_1] than on the [person_1].",
+            "[person_1] is dealing with the wood.",
+            "[person_1] sits there to read the book.",
+            "Prepare to add it.",
+            "[person_1] raises [person_1]'s hand to put both hands on the ground and stand on two hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may wash his feet.",
+            "[person_1] is going to do exercise.",
+            "[person_1] is going to plan more wood.",
+            "[person_1] is going to stop the video.",
+            "[person_1] is going to dance."
+        ],
+        "reason": [
+            "[person_1] feels that the food is not good.",
+            "[person_1] is not going to stop.",
+            "[person_1] hasn't stopped yet.",
+            "[person_1] just started.",
+            "[person_1] gave a loud , silly laugh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [knife_1] is broken ?",
+        "answer": [
+            "[person_1] will ask his mother for help.",
+            "[knife_1] will have to arrange the billiard balls by himself.",
+            "[person_1] may find other tools or other ways.",
+            "[person_1] will not be able to continue working.",
+            "[person_1] will pick it up."
+        ],
+        "reason": [
+            "The [person_1] is careful when playing soccer.",
+            "Because his mother will take him to the toilet.",
+            "No one helps [knife_1] at all.",
+            "Anyone will laugh if they feel happy.",
+            "[knife_1] is the tool [person_1] needs to plan the wood."
+        ]
+    }
+}

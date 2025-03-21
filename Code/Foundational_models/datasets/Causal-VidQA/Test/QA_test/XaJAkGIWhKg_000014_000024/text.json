@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the door?",
+        "answer": [
+            "It is yellow.",
+            "It's blue.",
+            "It is pink.",
+            "The door is brown.",
+            "It is orange."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] crouching?",
+        "answer": [
+            "[person_2] wants to pick the wooden board.",
+            "Because [person_2] hits his head in the mirror.",
+            "[person_2] is playing lute.",
+            "Because [person_2] wants to play the keyboard.",
+            "[person_2] is excited about playing in the playground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to smile.",
+            "[person_1] will show more kicks.",
+            "[person_1] will stop practicing.",
+            "[person_1] is going to take the sheets away."
+        ],
+        "reason": [
+            "[person_1] is promoting her martial art.",
+            "[person_1] is still working.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is going to put the shoe down.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't break the board?",
+        "answer": [
+            "[person_1] would lose his balance.",
+            "[person_1] would be very embarrassed.",
+            "[person_1] would take off the hat.",
+            "Watermelon will fall.",
+            "[person_1] could not cross the road that easily."
+        ],
+        "reason": [
+            "There are many people watching [person_1].",
+            "The leg of [person_1] is too short to reach the chandelier.",
+            "Because [person_1] stepped on a toy on the ground and the floor is slippery.",
+            "Because the [person_1] will hurt him.",
+            "Because [person_1] would talk instead of doing hand gestures."
+        ]
+    }
+}

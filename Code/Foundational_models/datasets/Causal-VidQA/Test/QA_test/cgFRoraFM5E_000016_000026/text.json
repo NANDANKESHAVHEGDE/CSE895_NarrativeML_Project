@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the lake shore.",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in the garden.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is standing next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] watering the [dog_1]?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "[person_1] raises [person_1]'s arms to hold the stick.",
+            "[person_1] and [person_1] are practicing a piece of music.",
+            "[person_1] is throwing it at [dog_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [dog_1] going to do?",
+        "answer": [
+            "I think [dog_1] will be better.",
+            "[dog_1] will shake his hair.",
+            "[dog_1] is going to throw the box into the bucket.",
+            "[dog_1] will stand still.",
+            "The [dog_1] is going to fly to [dog_1]."
+        ],
+        "reason": [
+            "[dog_1] is getting wet.",
+            "[dog_1] is following close behind [dog_1].",
+            "Because [dog_1] is curious and wants to check again.",
+            "Because [dog_1] is so happy.",
+            "Because [dog_1] is directing the car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dog_1] falls into the lake?",
+        "answer": [
+            "[dog_1] will feel uncomfortable.",
+            "[dog_1] will swim.",
+            "[dog_1] will feel sad.",
+            "The [dog_1] would fall into snow.",
+            "The [dog_1] will not get hurt after tripping."
+        ],
+        "reason": [
+            "Because baseball is very heavy.",
+            "Because [dog_1] doesn't want her table to be dirty.",
+            "To wash the sheets.",
+            "[dog_1] worked hard on the food in [dog_1] , so she will be upset that she has to start again because [dog_1] dropped it.",
+            "Dogs often know how to swim in a dog - swim style."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] at?",
+        "answer": [
+            "[person_1] is at the basketball court.",
+            "[person_1] is at the roller skating rink.",
+            "[person_1] is in the room.",
+            "[person_1] is a little girl.",
+            "[person_1] is the man who is wearing a red shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on [chair_1]?",
+        "answer": [
+            "Because [person_1] is stacking cups.",
+            "Because [person_1] doesn't have an other chair.",
+            "It seems that the [person_1] wants to pick something in the [person_1].",
+            "Maybe [person_1] is waiting for something.",
+            "Because [person_1] is instructing the arm stretch."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to open another bottle.",
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to keep on using smoking hookah.",
+            "[person_1] is going to play the harp."
+        ],
+        "reason": [
+            "[person_1] does not finish carving.",
+            "[person_1] is talking to someone.",
+            "[person_1] wants to smoke.",
+            "[person_1] is bringing the towel from the toe to the sole of the boot.",
+            "Because this is a vlog."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes too much?",
+        "answer": [
+            "[person_1] would be afraid.",
+            "[person_1] will feel sad.",
+            "[person_1] won't probably have lung cancer.",
+            "[person_1] will feel exhausted.",
+            "[person_1] would be injured."
+        ],
+        "reason": [
+            "[person_1] should smoke often.",
+            "It was hard but he did it.",
+            "[person_1] shouldn't smoke often.",
+            "[person_1] run too fast.",
+            "[person_1] shouldn't smoke never."
+        ]
+    }
+}

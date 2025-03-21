@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is sitting on bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on bed ?",
+        "answer": [
+            "[person_1] is practicing playing guitar.",
+            "[person_1] is lifting weights.",
+            "Because [person_1] , [person_1] and [person_1] are in sharpening competition.",
+            "Because there will be some guests coming to eat.",
+            "[person_1] wants to stretch the muscles of her body."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do ?",
+        "answer": [
+            "[person_1] will continue to teach [person_1] to play the cello.",
+            "[person_1] intends to sing while playing guitar.",
+            "[person_1] intends to continue play the music.",
+            "[person_1] intends to play piano in the next meeting at church.",
+            "[person_1] intends to continue introduce [person_1]."
+        ],
+        "reason": [
+            "[person_1] is standing next to the wall and holding the wallpaper on the wall.",
+            "The [person_1]'s hand is still hovering over the keyboard.",
+            "[person_1] is in the library.",
+            "[person_1] is holding a guitar and strumming.",
+            "[person_1] doesn't stop moving hands with drumsticks."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] forget the music ?",
+        "answer": [
+            "[person_1] may be the winner.",
+            "[person_1] may choose another thing inside the box.",
+            "[person_1] may sit closer to the table.",
+            "The dishes would be less delicious.",
+            "[person_1] will not play anymore."
+        ],
+        "reason": [
+            "[person_1] will try to remember the music.",
+            "[person_1] doesn't open the wrapping paper to measure before cutting.",
+            "[person_1] will follow the rules when playing.",
+            "[person_1] will need a new one.",
+            "Without clamp , some vegetables will be poured out."
+        ]
+    }
+}

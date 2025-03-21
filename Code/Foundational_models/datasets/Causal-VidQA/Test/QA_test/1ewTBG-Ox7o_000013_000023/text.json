@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is small and tidy.",
+            "There are two guitarists.",
+            "It is lovely with pictures on the wall?",
+            "The room is clean and beautiful.",
+            "The room is quite dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] stand in front of the camera?",
+        "answer": [
+            "[person_1] is roasting marshmallows for [person_2].",
+            "Everyone can see [person_1] and [person_2] on tv.",
+            "[person_1] is trying to play chess with [person_2].",
+            "[person_1] is performing with a guitar.",
+            "[person_1] is trying to press juice from oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to bow to the audiences.",
+            "[person_2] is going to dance.",
+            "[person_2] is going to kite surfing.",
+            "[person_2] will throw the paper away.",
+            "[person_2] will continue to do lunges."
+        ],
+        "reason": [
+            "[person_2] is holding a micro and [person_2] is talking.",
+            "[person_2] is keen on the activity.",
+            "Maybe [person_2] finds it interesting to smoke.",
+            "[person_2] is doing lunges.",
+            "[person_2] has finished one pumpkin."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not wear shoes?",
+        "answer": [
+            "[person_2] might feel uncomfortable.",
+            "There may be no one helping [person_2].",
+            "[person_2] and [person_2] might not perform.",
+            "[person_2] would be replaced by someone else.",
+            "[person_2] would keep going."
+        ],
+        "reason": [
+            "The floor is very slip.",
+            "Because carrying heavy can put [person_2] off balance and fall.",
+            "There are many bottles behind [person_2].",
+            "There is no one who controls the game.",
+            "[person_2] could be fired."
+        ]
+    }
+}

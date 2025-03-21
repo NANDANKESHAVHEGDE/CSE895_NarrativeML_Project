@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is in front of the wall.",
+            "[chair_1] is near the woman.",
+            "It is next to the [chair_1].",
+            "[chair_1] is on the left side of [chair_1].",
+            "[chair_1] is the the baby boy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the lamp next to [person_1]?",
+        "answer": [
+            "[person_1] wants to help [person_1] shave.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "The lamp helps [person_1] see better.",
+            "Because the bellows produce sound.",
+            "Because [person_1] wants to propose loudly."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play the cello.",
+            "[person_1] intends to continue to play.",
+            "[person_1] intends to keep swimming with the sharks.",
+            "[person_1] intends to continue listening to music.",
+            "[person_1] intends to sit on the [chair_1]."
+        ],
+        "reason": [
+            "[person_1] has turned off the keyboard.",
+            "[person_1] is feeling tired.",
+            "[person_1] is playing the flute very focused.",
+            "Maybe it is the technique of stomping grapes.",
+            "There is a bottle of wine on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The machine will be off.",
+            "[person_1] may not keep shaking.",
+            "[person_1] may not squeeze oranges.",
+            "[person_1] won't be able to play.",
+            "[person_1] may not see anything."
+        ],
+        "reason": [
+            "[person_1] won't be able to see the strings clearly.",
+            "The lights will be off.",
+            "[person_1] may not keep speaking.",
+            "The restaurant will be dark.",
+            "The light will be off."
+        ]
+    }
+}

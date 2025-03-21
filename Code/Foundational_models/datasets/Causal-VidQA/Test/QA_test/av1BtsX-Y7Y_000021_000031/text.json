@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is on the left.",
+            "It's next to the door.",
+            "[chair_1] is on the shelf.",
+            "It's next to [person_2].",
+            "[chair_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do they play rock - paper - scissors?",
+        "answer": [
+            "Because they are tagging them.",
+            "[chair_1] has bad eyesights.",
+            "Because they're having some fun.",
+            "[person_2] is watching [person_2].",
+            "It may be abandoned for a long time."
+        ]
+    },
+    "predictive": {
+        "question": "For [person_2] , what will she do next?",
+        "answer": [
+            "They may children and mother.",
+            "The tiger may stand there to let people photograph it for a while.",
+            "[person_2] is a coach.",
+            "[person_2] is going to lose his balance for a bit.",
+            "She will take part in the game."
+        ],
+        "reason": [
+            "Because she is watching carefully.",
+            "[person_2] has good flexibility.",
+            "The teacher's evaluation is more objective.",
+            "Because [person_2] is in the studio.",
+            "[person_2] would like to move there."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if suddenly the phone rings?",
+        "answer": [
+            "[person_2] would love playing maracas.",
+            "Someone would answer the phone.",
+            "[person_2] , [person_2] and [person_2] will get wet.",
+            "[person_2] and [person_2] will be worried.",
+            "The [chair_1] could not ride the bicycle."
+        ],
+        "reason": [
+            "Because there's a phone call that's usually answered.",
+            "[person_2] is in the room.",
+            "[chair_1] won't be able to continue practice.",
+            "[person_2] is outdoors.",
+            "The ball looks heavy."
+        ]
+    }
+}

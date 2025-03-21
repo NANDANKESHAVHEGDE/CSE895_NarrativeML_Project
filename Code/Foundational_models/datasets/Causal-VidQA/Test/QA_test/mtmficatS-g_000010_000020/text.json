@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[person_1] is wearing an orange shirt.",
+            "It is next to the [person_1].",
+            "It is behind [person_1].",
+            "It is near [person_1].",
+            "[chair_1] is being seated by [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] shaking maracas?",
+        "answer": [
+            "The tubular object is a flute.",
+            "[person_1] likes marbles.",
+            "[person_1] is practicing.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] wants to ski safely."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is anticipated that [person_1] will continue to play maracas",
+            "[person_1] may stand up.",
+            "[person_1] is bound to keep playing piano.",
+            "[person_1] may want to pick up the ball next.",
+            "[person_1] might use a plate to put the dishes."
+        ],
+        "reason": [
+            "[person_1] is swimming back.",
+            "Because [person_1] accepts [person_1]'s proposal.",
+            "Because [person_1] has already assembled a few , [person_1] wants more.",
+            "Maybe [person_1] likes the sound of maracas.",
+            "[person_1] is introducing the headphone . The headphone is in [person_1]'s head."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will stop playing baseball.",
+            "[person_1] will go out.",
+            "[person_1] will not read book.",
+            "[person_1] will be afraid.",
+            "[person_1] maybe stop working."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The fan will be off , too.",
+            "The room will be dark.",
+            "The piano will not work.",
+            "The machine can not be used without power."
+        ]
+    }
+}

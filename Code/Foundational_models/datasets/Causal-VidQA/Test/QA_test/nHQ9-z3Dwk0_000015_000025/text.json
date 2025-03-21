@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bottle_1]?",
+        "answer": [
+            "The [bottle_1] is on the table.",
+            "[bottle_1] is on the shelf.",
+            "The [bottle_1] is in front of the house.",
+            "It is behind the [bottle_1].",
+            "The [bottle_1] is next to the cutting board."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is doing a plunge.",
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is excited about her book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] is going to share the beer with his friends.",
+            "[person_1] is going to start stacking the dice.",
+            "[person_1] is going to read the book.",
+            "[person_1] is going to yell at [person_1]."
+        ],
+        "reason": [
+            "[person_1] moved the ball to the right.",
+            "[person_1] is putting a towel on the [person_1] and talking about it.",
+            "[person_1]'s arms are closed together and opening the arms is the next move in the performance.",
+            "[person_1] is placing his finger on each button on the flute.",
+            "[person_1] is paying attention to the book."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the book falls?",
+        "answer": [
+            "[person_1] will not sit and play the accordion.",
+            "[person_1] may have to find the [person_1].",
+            "[person_1] may come to comfort him.",
+            "[person_1] will pick it up.",
+            "Both of them will eat up the food quickly."
+        ],
+        "reason": [
+            "They need to do the right thing.",
+            "[person_1] is curious about the book.",
+            "Because bees will fly out and sting [person_1].",
+            "Because headache will make people feel terrible.",
+            "[person_1] cannot forget what he brings into the gym and he should remember to take all his stuff."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is on the left.",
+            "It's next to the door.",
+            "It's next to [person_2].",
+            "[chair_1] is on the shelf.",
+            "The [chair_1] is on the left side of the road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they so happy?",
+        "answer": [
+            "To keep a good health.",
+            "They are watching a funny performance.",
+            "Because they're playing rock - paper - scissors.",
+            "Because they want to visit the desert.",
+            "Because they might catch a cold if they wear shorts."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after losing this match?",
+        "answer": [
+            "[person_1] will still sit to talk and continue eating.",
+            "[person_1] will go on playing.",
+            "[person_1] is going to fall asleep.",
+            "[person_1] is ready to stand up.",
+            "[person_1] and [person_1] are in a hall."
+        ],
+        "reason": [
+            "The girl near [person_1] pulls her shirt up to remove the sweat.",
+            "Because [person_1] wants to blow it again.",
+            "because [person_1] is enjoying dancing with other people.",
+            "The [person_1] has just drawn the girl and run.",
+            "Because [person_1] is very interested."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1]'s hat is lost?",
+        "answer": [
+            "[person_1] can be injured seriously.",
+            "It will be poured.",
+            "The hoop would fall to the ground.",
+            "People would be looking for it together.",
+            "That friend would continue playing kickball."
+        ],
+        "reason": [
+            "Boys are more like cars.",
+            "Because he can't fix it himself.",
+            "Because nobody wants to lose anything.",
+            "To buy a larger cake for [person_1].",
+            "[person_1] would be fell into the ground."
+        ]
+    }
+}

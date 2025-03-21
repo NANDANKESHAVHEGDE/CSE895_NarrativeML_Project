@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is clean and tidy.",
+            "The room looks like the store.",
+            "It is messy.",
+            "It is in a rugby training field.",
+            "It is beautiful."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is reading [person_1].",
+            "Because [person_1] is lifting weights.",
+            "Maybe [person_1] is taking part in a competition on playing the lute.",
+            "Maybe [person_1] looks like a visitor coming to visit.",
+            "Because [person_1] is playing the violin with his friends in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue singing and playing.",
+            "[person_1] will separate the two legs.",
+            "[person_1] will look at the instructions.",
+            "[person_1] may keep trying to play didgeridoo.",
+            "[person_1] will continue finishing the puzzle."
+        ],
+        "reason": [
+            "[person_1] tries different types of lutes.",
+            "[person_1] plays the gong very enthusiastically and his hands move non - stop.",
+            "Because there is a new tire on the ground and the tire of [person_1] is broken.",
+            "Avoid hitting the tree forward.",
+            "Because there are still many balls on the table that need to be put into the hole."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] may not squeeze oranges.",
+            "[person_1] will stop stacking.",
+            "The room is very dark.",
+            "[person_1] may not see anything.",
+            "[person_1] may not keep jumping."
+        ],
+        "reason": [
+            "[person_1] may not keep performing.",
+            "The match must stop.",
+            "[person_1] will stand still.",
+            "The room will be no light.",
+            "The room very dark."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is wearing a bucket and sunglasses.",
+            "[person_1] is lying on the [bed_1].",
+            "The [person_1] is looking for something in the [person_1].",
+            "The [person_1] is riding the camel.",
+            "The [person_1] is introducing how to make the doll to the audience."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] touching [person_1]'s back?",
+        "answer": [
+            "[person_1] is talking with his parents about playing chess.",
+            "[person_1] wants to keep balance when he rides the mechanical bull.",
+            "She is doing massage for [person_1].",
+            "To teach [person_1] how to make sushi.",
+            "[person_1] is squeezing oranges for juice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to take a short rest.",
+            "Shine his ears with a flashlight.",
+            "[person_2] may wash his hands.",
+            "[person_2] may turn on the [tv_1].",
+            "[person_2] may keep dancing."
+        ],
+        "reason": [
+            "Because [person_2] wants to reply the hug of [person_1].",
+            "[person_2] turns round and holds the frisbee.",
+            "[person_2] is very confident.",
+            "[person_1] may feel boring during a long time of massage.",
+            "[person_2] will not riding as well as other kids."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] stop doing massage for [person_1]?",
+        "answer": [
+            "[person_1] will cough and there is also the possibility of suffocation.",
+            "[person_1] will feel dizzy.",
+            "[person_1] will have to fix the racket if [person_1] wants to play badminton.",
+            "[person_1] will be known by many people.",
+            "[person_1] will sit up."
+        ],
+        "reason": [
+            "[person_1] was injured.",
+            "[person_1] thinks the service has been finished.",
+            "[person_1] pushed very strong and even let go at the end of the video.",
+            "[person_1] does not like others who notice his performance.",
+            "The room is narrow so an accidental fall may make [person_1] hit the head on the wall."
+        ]
+    }
+}

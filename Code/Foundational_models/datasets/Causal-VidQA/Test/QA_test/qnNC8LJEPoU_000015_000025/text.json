@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is white.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play the gong while standing?",
+        "answer": [
+            "[person_1] wants to water the plants.",
+            "[person_1] and [person_1] are squeezing oranges.",
+            "Because [person_1] does the rules of the game.",
+            "Because if [person_1] sits while playing the gong , it will be difficult to have the force to swing the gong.",
+            "The [person_1] reads something from the book."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep fighting.",
+            "[person_1] will play the gong again.",
+            "[person_1] will probably put pieces of paper in the printer.",
+            "[person_1] will continue making the pottery.",
+            "[person_1] will continue to eat."
+        ],
+        "reason": [
+            "[person_1] is going to keep playing.",
+            "[person_1] will continue playing piano.",
+            "Because there are still many places on the Christmas tree.",
+            "[person_1] is playing chess.",
+            "[person_1] will use the gong sticker to hit the gong's face."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the gong's broken?",
+        "answer": [
+            "[person_1] will have to break the gong.",
+            "[person_1] will be very angry.",
+            "[person_1] won't have to fix the gong.",
+            "the bar would make [person_1] drop it.",
+            "[person_1] will have to fix the gong."
+        ],
+        "reason": [
+            "The snow is heavy whereas the [person_1] is little.",
+            "The broken gong will not be able to sound like the original.",
+            "It doesn't influence using the inhaler.",
+            "The broken gong will be able to sound like the original.",
+            "[person_1] wants the maracas."
+        ]
+    }
+}

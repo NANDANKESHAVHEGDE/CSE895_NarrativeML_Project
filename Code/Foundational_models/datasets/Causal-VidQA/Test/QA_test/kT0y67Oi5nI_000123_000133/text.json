@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing mahjong.",
+            "[person_1] is watering plants.",
+            "[person_1] is opening the gift.",
+            "[person_1] is playing gongs.",
+            "[person_1] is playing the accordion."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] watering the [vase_1]?",
+        "answer": [
+            "Because [vase_1] of hand has a problem , maybe [vase_1] of hand is paralyzed and needs [person_1] help.",
+            "Because that's how [vase_1] exercises.",
+            "Because [person_1] wants to propose to her.",
+            "Because the plants in [vase_1] need watering.",
+            "[person_1] is shaving."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop skiing.",
+            "[person_1] will check the result.",
+            "[person_1] is going to play there.",
+            "[person_1] will certainly stop watering.",
+            "[person_1] is going to stack these cups."
+        ],
+        "reason": [
+            "Maybe [person_1] watered the tree a lot.",
+            "[person_1] has food on hand.",
+            "[person_1] is a beginner.",
+            "[person_1] is bowing.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] maybe enter the house.",
+            "[person_1] will not practice high jump.",
+            "It is possible that [person_1] will stop watering the plants.",
+            "[person_1] will stop playing guitar.",
+            "[person_1] maybe stop playing."
+        ],
+        "reason": [
+            "The [person_1] is outside the house.",
+            "[person_1] will go inside the tent.",
+            "[person_1] will save water if it rains.",
+            "The festival may be stop.",
+            "[person_1] will go home."
+        ]
+    }
+}

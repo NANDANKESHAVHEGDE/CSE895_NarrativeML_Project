@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [keyboard_2] in the room?",
+        "answer": [
+            "[person_1] is wearing a white hat.",
+            "[keyboard_2] is in a hospital bed.",
+            "[person_1] is wearing a white clothes.",
+            "[keyboard_2] is on the right hand of [person_1].",
+            "[keyboard_2] is sitting on lap of [keyboard_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] open the mouth?",
+        "answer": [
+            "[person_1] blows the clarinet attentively.",
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] is going to train to change body.",
+            "[person_1] is performing for [person_1] and [person_1].",
+            "[person_1] wants to say something or instruct how to play the accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to control the desktops on the left hand of [person_1].",
+            "[person_1] may carve the back.",
+            "[person_1] may thanks [person_1].",
+            "[person_1] is going to use more dice.",
+            "[person_1] is going to smash [person_1]."
+        ],
+        "reason": [
+            "[person_1] is going to have a break.",
+            "[person_1] is trying to make it more beautiful.",
+            "[person_1] is exercising.",
+            "When stopping the playing the accordion , [person_1] turns the head to the left where the desktops are on.",
+            "Maybe [person_1] is allergic to something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light in the room is broken?",
+        "answer": [
+            "[person_1] would sit on the floor.",
+            "[person_1] will not sit and play the accordion.",
+            "[person_1] may use another board.",
+            "[person_1] may not play the xylophone.",
+            "[person_1] face will be injured."
+        ],
+        "reason": [
+            "Because there will not be the light in the room for [person_1] to record the video.",
+            "[person_1] will have to stop singing and help [person_1] change a new string.",
+            "[person_1]'s a lefty and he is used to using his left hand.",
+            "Because the hair is spilled on the floor will make the floor dirty.",
+            "It's normal that there's some disputes between lovers . So [person_1] and [person_1] will be fine if the problems are solved."
+        ]
+    }
+}

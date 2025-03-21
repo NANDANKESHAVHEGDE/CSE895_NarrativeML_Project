@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is under [person_3].",
+            "[chair_1] is on the left hand side of [chair_1].",
+            "It is on the right of [chair_1].",
+            "It is next to the [person_3].",
+            "[chair_1] is in the corner."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they sitting that way?",
+        "answer": [
+            "[person_3] is playing chess with many people in the room.",
+            "[person_1] is whistling.",
+            "They are roasting marshmallows.",
+            "[chair_1] is trying to unbox the present.",
+            "[person_1] is excited about holding her gift."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do after the roasting the sausage?",
+        "answer": [
+            "[person_3] will roast some marshmallows.",
+            "[person_3] is bringing cakes to the kids.",
+            "[person_3] will throw them into the pot next to [person_3].",
+            "[person_3] and [person_3] will go do something else after finishing their hotdog.",
+            "[person_3] will not eat the hot dog up."
+        ],
+        "reason": [
+            "[person_3] is paying attention on the book and says something.",
+            "It seems that [person_3] is waving his body rapidly.",
+            "[person_3]'s hands are with the sauce.",
+            "[person_3] has eaten a lot of food and he wants some dessert.",
+            "Because [person_3] is paying attention on her instruments."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] gets sleepy?",
+        "answer": [
+            "[person_2] will make [person_1] smile again.",
+            "[person_1] will need help to continue.",
+            "[person_1] would take [person_2] to go to sleep.",
+            "[person_1] will go back home.",
+            "[person_2] will give [person_1] a bottle of water."
+        ],
+        "reason": [
+            "To work for [person_2].",
+            "[person_2] and [person_2] are partners , and if one of them can't show up , then only the other person will practice by himself.",
+            "[person_2] is little , she needs a lot of sleep at her age.",
+            "Because swimming rings can protect people.",
+            "Because [person_2] is right next to [person_2]."
+        ]
+    }
+}

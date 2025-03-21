@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] a boy?",
+        "answer": [
+            "No.",
+            "A watch is being worn on [person_1] hand.",
+            "[person_1] is on the right of [person_1].",
+            "Yes.",
+            "It is on the cupboard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] help hold the inhaler?",
+        "answer": [
+            "[person_1] can't hold by herself.",
+            "[person_1] is practicing the guitar.",
+            "[person_1]'s leg has something wrong.",
+            "In order to make bubbles.",
+            "By riding the horse."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "[person_1] will throw the inhaler.",
+            "[person_1] will start to open it.",
+            "[person_2] will stop to have a rest.",
+            "[person_2] will put down the inhaler.",
+            "[person_1] will invite some volunteers to experience golf."
+        ],
+        "reason": [
+            "[person_1] and [person_2] have finished showing how to use the inhaler.",
+            "[person_1] has already shown the way to use the inhaler.",
+            "[person_1] wants to try the inhaler.",
+            "Because the clothing needs to be rinsed.",
+            "[person_1] will tear the gift and give it to [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] coughs?",
+        "answer": [
+            "[person_2] will drink more water.",
+            "[person_2] will put down the inhaler.",
+            "[person_1] will fall done.",
+            "[person_1] will come next to [person_2] and comfort.",
+            "[person_2] will drink the water in [person_1]."
+        ],
+        "reason": [
+            "[person_1] needs to breathe freely.",
+            "[person_1] thinks a hug can make [person_1] stop crying.",
+            "The mother of [person_1] loves him.",
+            "[person_1] bursts into laughter when he listens to [person_1]'s words.",
+            "[person_1] wants [person_1] do it herself and maybe it is a gift from [person_1]."
+        ]
+    }
+}

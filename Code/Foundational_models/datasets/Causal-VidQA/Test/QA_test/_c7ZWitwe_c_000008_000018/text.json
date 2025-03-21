@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening a bottle.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is shooting basketball.",
+            "[person_1] is opening the door.",
+            "[person_1] is singing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] climbing onto the door?",
+        "answer": [
+            "[person_1] is looking at the book on the table to play the flute.",
+            "Because the door is tight.",
+            "[person_1] is scoring.",
+            "[person_1] is fond of seeing the gifts.",
+            "[person_1] is dropping marbles from [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to continue practicing.",
+            "[person_1] may go out of the house.",
+            "[person_1] is going to play there.",
+            "[person_1] is going to turn left."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] will be tired.",
+            "[person_1] is a batter and according to the rules of baseball , batter must run to the golf courses and back to the batter box\u2019s one by one before the members of the defending team can catch the ball.",
+            "Because [person_1] has opened the door.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wants to pee?",
+        "answer": [
+            "Frames maybe rust.",
+            "He won't get back.",
+            "The [person_1] will see the way clearly to move.",
+            "He will get back.",
+            "[person_1] won't be able to continue playing the cymbals."
+        ],
+        "reason": [
+            "Because the toilet is in the house.",
+            "[person_1] will feel more pain if standing with hands.",
+            "Because the toilet is outside the house.",
+            "It is easy for people to get injuries on heads when they do the fencing.",
+            "Because the toilet is in the garden."
+        ]
+    }
+}

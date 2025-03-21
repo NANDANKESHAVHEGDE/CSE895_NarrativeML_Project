@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the floor?",
+        "answer": [
+            "The window is near [dog_1].",
+            "The sofa is black.",
+            "[dog_1] is throwing the discus towards [dog_1].",
+            "[dog_1] is under the window.",
+            "[dog_1] is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] bending over?",
+        "answer": [
+            "Because [person_1] is doing a leg exercise.",
+            "[person_1] is taking [suitcase_1] and [suitcase_2].",
+            "Because [person_1] is spraying paint.",
+            "Because [suitcase_2] is aiming to shoot marbles.",
+            "Because she is watching [person_1] and [suitcase_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will turn around.",
+            "[person_1] may be feeling tired from the hard work.",
+            "[person_1] will doing lunges.",
+            "[person_1] is going to keep on playing.",
+            "[person_1] will drive out the car and go somewhere."
+        ],
+        "reason": [
+            "[person_1] is looking at [person_1].",
+            "[person_1] just pick up the dumbbells.",
+            "[person_1] just finished shaping the dough.",
+            "[person_1] is tired.",
+            "Because [person_1] wants to play with it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [dog_1] run around?",
+        "answer": [
+            "[person_1] will be very happy.",
+            "[person_1] will not doing exercises.",
+            "[person_1] will feel a little hurt in his feet.",
+            "[person_1] will stand up and turn back.",
+            "Then [dog_1] will fall off the shelf."
+        ],
+        "reason": [
+            "There is only a shovel outside.",
+            "[dog_1] will be a distraction.",
+            "[dog_1] needs to rest.",
+            "There are many nail tools to help paint nails.",
+            "[dog_1] is not wearing a helmet."
+        ]
+    }
+}

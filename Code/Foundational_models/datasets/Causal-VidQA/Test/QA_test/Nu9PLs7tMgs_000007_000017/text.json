@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of the cloth of [person_1]?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is black and white.",
+            "The shirt is black.",
+            "It's dark blue.",
+            "Red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a proud expression on the face of [person_1]?",
+        "answer": [
+            "Because he does not need that color for his painting.",
+            "Because [person_1] opened the beer cap very easily.",
+            "Because riding camel is a common way of transportation there.",
+            "To pull [person_1] up.",
+            "[person_1] takes mortar for plastering the walls."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to bow.",
+            "[person_1] may put the flowers in [person_2].",
+            "[person_1] will pick up the baby.",
+            "[person_1] is going to talk with [person_2].",
+            "[person_1] is going to laugh."
+        ],
+        "reason": [
+            "The tap is still on.",
+            "[person_1] takes a swig of his beer and is opening his mouth.",
+            "Because [person_1] doesn't exercise too much.",
+            "[person_1] has bent back.",
+            "[person_1] is talking with his friend."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [chair_3] is unstable?",
+        "answer": [
+            "Right hand of [person_1] will lose balance.",
+            "[person_1] and [chair_3] will help her.",
+            "[person_1] will fall down the floor.",
+            "[person_1] and [chair_3] will find some foam and water.",
+            "[person_1] will laugh."
+        ],
+        "reason": [
+            "Right hand of [person_1] is right on [chair_3].",
+            "Maybe [person_1] will fix it.",
+            "Then [person_1] will lie down to relax.",
+            "Because [person_1] holds the other person's arm tightly for a long time , which makes the other person hurt.",
+            "The [person_1] is putting hands under the water."
+        ]
+    }
+}

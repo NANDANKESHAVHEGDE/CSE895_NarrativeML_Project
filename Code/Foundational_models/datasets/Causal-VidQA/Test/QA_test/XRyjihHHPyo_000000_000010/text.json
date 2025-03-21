@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What tool does [person_1] use?",
+        "answer": [
+            "[person_1] and [person_1] are in the pool.",
+            "It's a disk.",
+            "[person_1] and [person_1] are in a room.",
+            "[person_1] and [person_1] are in the recording studio.",
+            "[person_1] and [person_1] are in the subway station."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] be naked?",
+        "answer": [
+            "Because the whether is very hot.",
+            "[person_1] and [person_1] are doing tai chi.",
+            "Stacking with a long cup is an advanced level.",
+            "[person_1] picked up the paper dropped on the floor.",
+            "[person_1] is performing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to swim.",
+            "[person_1] is going to continue tap dancing.",
+            "[person_1] is going to lunges.",
+            "[person_1] may go to the toilet."
+        ],
+        "reason": [
+            "Because [person_1] looks excited.",
+            "[person_1] looks thirsty after doing exercise.",
+            "[person_1] looks very happy.",
+            "Maybe [person_1] will clap his hands.",
+            "There is a swimming pool around him and his friends are in the pool."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cloth of [person_3] falls off?",
+        "answer": [
+            "The [person_3] will not have to run and get the ball back.",
+            "[person_3] will be embarrassed.",
+            "[person_3] will give up making the snowball.",
+            "[person_3] may be very happy.",
+            "[person_3] will try another way."
+        ],
+        "reason": [
+            "There is only one cloth on [person_3] . If the only one is falling off , then she will be naked.",
+            "It costs too much time to build a snowman.",
+            "[person_3] would not be able to find anything more interesting to play in this room.",
+            "Because it will be more convenient to eat sushi in small pieces.",
+            "[person_3] holds the phone uncertainly ."
+        ]
+    }
+}

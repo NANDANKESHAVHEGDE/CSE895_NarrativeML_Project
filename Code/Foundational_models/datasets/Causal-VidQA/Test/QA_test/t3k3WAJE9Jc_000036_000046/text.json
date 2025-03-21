@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the dining room.",
+            "[person_1] is in the living room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is making a base of the basket.",
+            "[person_1] is reaching a hand to the right to get the bottle cap of the milk bottle.",
+            "[person_1] is opening presents.",
+            "[person_1] is painting the [person_1] on the table.",
+            "[person_1] is instructing [person_1] about the book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to take out the box next to it.",
+            "[person_1] is going to climb into bed."
+        ],
+        "reason": [
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "Because [person_1] is wearing a baby bib.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is touching that box.",
+            "Maybe [person_1] will read the whole [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the box falls to the ground?",
+        "answer": [
+            "The box will break.",
+            "The show will be interrupted.",
+            "It is possible that the room will have no light.",
+            "[person_1] won't be able to keep shaving.",
+            "It will get dark in the room."
+        ],
+        "reason": [
+            "Because the [person_1] has another machine.",
+            "The [person_1] needs to be filled again.",
+            "[person_1] will be sad.",
+            "[person_1] and [person_1] are just practicing how to bandage . [person_1] didn't get injured.",
+            " \b Because if the light is off , the room will be dark and [person_1] and [person_1] can't sword fighting."
+        ]
+    }
+}

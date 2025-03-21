@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is peeling a coco.",
+            "[person_1] is opening the box of a gift.",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is playing cymbals."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing cymbals?",
+        "answer": [
+            "[person_1] exercise for health.",
+            "[person_1] is grabbing [person_1] to move them to a different spot.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] is practicing to stand by hand better.",
+            "[person_1] is sitting in the room to play music."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to keep playing the harp.",
+            "[person_1] will perform with the harp.",
+            "[person_1] tends to singing while playing piano.",
+            "[person_1] tends to play checkers.",
+            "[person_1] tends to stand up."
+        ],
+        "reason": [
+            "The guitar is in the hands of [person_1].",
+            "[person_1] is having fun.",
+            "[person_1] knocked on the gong twice and still pointing the stick towards the gong.",
+            "Maybe [person_1] finishes the song.",
+            "Because [person_1] is showing [person_1] how to fold clothes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a stomachache?",
+        "answer": [
+            "[person_1] won't be able to continue playing the cymbals.",
+            "[person_1] would catch a cold.",
+            "[person_1] may hit the door.",
+            "[person_1] cannot continue to play bass guitar.",
+            "The tile will be broken."
+        ],
+        "reason": [
+            "[person_1] is a child [person_1] will only stop crying when he feels better.",
+            "[person_1] will have to go to the toilet.",
+            "[person_1] will make a chess piece fly away.",
+            "[person_1] looked at [person_1] and moved along.",
+            "Because [person_1] is trying to pick raspberries , [person_1] may take no notice of the raspberry under her feet."
+        ]
+    }
+}

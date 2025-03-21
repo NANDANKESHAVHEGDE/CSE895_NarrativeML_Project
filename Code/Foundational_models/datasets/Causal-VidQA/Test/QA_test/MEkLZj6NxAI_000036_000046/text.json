@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "Blue.",
+            "It is a hat.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] wear that shirt?",
+        "answer": [
+            "[person_2] is a pianist.",
+            "[person_2] desires to play some tricks.",
+            "[person_2] stands to move and keep better balance when spinning the plates.",
+            "Maybe it makes [person_2] become more handsome.",
+            "[person_2] wants to protect himself from wood dust."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to register a music university.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to continue stretching."
+        ],
+        "reason": [
+            "[person_1] likes challenge.",
+            "[person_1] is going to continue feeding fish.",
+            "[person_1] finishes showing and thanks the audience.",
+            "[person_1] repeats the same action all the time.",
+            "[person_1] is bound to prepare carefully for this."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] falls asleep?",
+        "answer": [
+            "[person_1] will wake [person_3] up.",
+            "[person_1] will choose to go home.",
+            "[person_1] will keep [person_3] down.",
+            "Maybe [person_1] will not take part in the game.",
+            "[person_3] will wake [person_1] up."
+        ],
+        "reason": [
+            "Because [person_1] is not doing very well.",
+            "Because [person_1] thinks that is what everyone should do.",
+            "Because [person_1] will let go the microphone to hold something else to keep balance.",
+            "Because [person_1] thinks that is what everyone shouldn't do.",
+            "[person_1] wants to wake [person_1] up."
+        ]
+    }
+}

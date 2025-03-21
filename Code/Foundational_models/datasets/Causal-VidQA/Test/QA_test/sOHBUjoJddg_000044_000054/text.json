@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] covered her eyes with a towel before waxing.",
+            "[person_1] is wearing a sport uniform which contains a white tank top and a black short leggings.",
+            "No , the [person_1] is not . The [person_1] is sitting down on the chair.",
+            "[person_1] is wearing glasses.",
+            "[person_1] is wearing a T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_2] is playing roller skating.",
+            "Because [person_2] needs a big room to play musical instruments with friends.",
+            "[person_2] is unwrapping a doll.",
+            "[person_2] is practicing roller skating.",
+            "[person_2] is doing arm training by pulling weights."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] has an intention of turning the harp.",
+            "[person_1] intends to play the guitar.",
+            "[person_1] intends to play the harp.",
+            "[person_1] intends to continue playing the trumpet.",
+            "[person_1] intends to push the wheelchair around the field and kick the ball."
+        ],
+        "reason": [
+            "[person_1] is performing in front of many people.",
+            "[person_1] is putting the shoe next to the foot.",
+            "Maybe [person_1] has finished using it.",
+            "[person_1] looks very interested and wants to try folding clothes . [person_1] doesn't fold clothes.",
+            "[person_1] is holding the trumpet and playing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the keyboard is short circuit and fire?",
+        "answer": [
+            "[person_1] and [person_1]'s friends will be dangerous.",
+            "Then [person_1] will have to stop practicing.",
+            "The [person_1] will gently touch the elephant.",
+            "Maybe [person_1] will toss it in the trash.",
+            "The [person_1] may get an accident."
+        ],
+        "reason": [
+            "Because they see things because of the light so in the room without lights there will be no light.",
+            "[person_1] does not know the lights will be off.",
+            "The fire will burn [person_1] and [person_1]'s friends and injure them.",
+            "They will be dirty after touching on the table.",
+            "The fall made the clothes of [person_1] wet."
+        ]
+    }
+}

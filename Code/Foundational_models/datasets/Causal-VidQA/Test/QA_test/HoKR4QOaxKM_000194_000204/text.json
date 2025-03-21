@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is black and white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The color of the shirt is green.",
+            "The shirt is blue.",
+            "The shirt is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a hat when [person_1] is in the room?",
+        "answer": [
+            "Because [person_1] has just finished the speech.",
+            "Because [person_1] helps him tie a necktie on [person_1]'s neck.",
+            "[person_1] is watching [person_1] lift weights.",
+            "Because [person_1] likes it.",
+            "[person_1] is helping [person_1] not to fall."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn left.",
+            "[person_1] is going to step on the squash.",
+            "[person_1] is going to break.",
+            "[person_1] is going to sing and play the guitar.",
+            "[person_1] will water another plant."
+        ],
+        "reason": [
+            "Riding a mechanical bull is hot.",
+            "[person_1] wants to be a good batter.",
+            "Maybe [person_1] is a earthen pot.",
+            "[person_1] is talking very seriously.",
+            "[person_1] is practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] plays out of tune?",
+        "answer": [
+            "The [person_1] will fall.",
+            "[person_1] will sing the wrong music.",
+            "[person_1] would cook food for him.",
+            "The children would figure out that the [person_1] is not a real statue.",
+            "Then [person_1] may faint."
+        ],
+        "reason": [
+            "Grape stomping for a while may be tiring.",
+            "The current is so fast that if two people have no energy , they will easily be washed away by the water.",
+            "The [person_1] has some knives here.",
+            "The [person_1] is learning how to walk so the [person_1] can't keep her balance well.",
+            "[person_1] feels difficult to match the lyrics to the music."
+        ]
+    }
+}

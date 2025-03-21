@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is smoking.",
+            "[person_1] is playing the flute.",
+            "[person_1] is looking at the virtual reality screen.",
+            "[person_1] is doing exercise.",
+            "[person_1] is cutting a palm fruit."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise the weightlifting?",
+        "answer": [
+            "[person_1] is taking a bath.",
+            "Maybe [person_1] wants her exercise being more efficacious.",
+            "Because [person_1] is a child.",
+            "The [person_1] can not carry the big one on legs of [person_1].",
+            "[person_1] prepares to throw it into cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to stop running.",
+            "Maybe [person_1] is going to continue doing exercise.",
+            "[person_1] will get up.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to sit."
+        ],
+        "reason": [
+            "[person_1]'s body keeps moving.",
+            "[person_1] just started.",
+            "[person_1] has finished the body color.",
+            "[person_1] was smiling.",
+            "People are interested in the story behind [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the weightlifting falls to [person_1]'s foot ?",
+        "answer": [
+            "If there is not any damage , [person_1] will pick them up , if there are damage , [person_1] will try to repair it.",
+            "Maybe [person_1] will pick it up.",
+            "The [person_1] will check the elephant's leg.",
+            "It may affect the [person_1]'s performance.",
+            "[person_1] will get hurt."
+        ],
+        "reason": [
+            "Because restaurant is not allowed to sell overnight food.",
+            "The action is too boring.",
+            "This weightlifting is heavy.",
+            "Because the weight would hit very hard.",
+            "His students need his guidance."
+        ]
+    }
+}

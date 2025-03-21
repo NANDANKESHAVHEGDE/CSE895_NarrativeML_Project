@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite small.",
+            "It is very clean and neat.",
+            "It is small.",
+            "It is large.",
+            "It is narrow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] smiling?",
+        "answer": [
+            "Because [person_2] feels it's easy to open a bottle.",
+            "[person_1] \u200b is having fun.",
+            "Because [person_2] is recording video.",
+            "Because [person_1] knows the person giving the gift that [person_1] is opening teases him.",
+            "Because [person_1] gives the ring to [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is bound to play guitar.",
+            "[person_1] will move forward probably.",
+            "[person_1] will change another foot of the customer.",
+            "[person_1] will drive to go fishing next.",
+            "[person_1] will hug everyone."
+        ],
+        "reason": [
+            "[person_1] puts the picture on the knees.",
+            "[person_1] is standing near everyone.",
+            "[person_1] moving his whole body with the hoop.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "Because [person_1] has raised up his hands on the top of the pottery."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] falls?",
+        "answer": [
+            "[chair_1] will be sad.",
+            "[chair_1] will chase the cat away.",
+            "The [chair_1] will broken.",
+            "Maybe [chair_1] will have an accident.",
+            "The police will stop them."
+        ],
+        "reason": [
+            "Sunglasses help [chair_1] protect [chair_1]'s eyes from the sunlight.",
+            "Right hand of [chair_1] is right on [chair_1].",
+            "Because [chair_1] holds the other person's arm tightly for a long time , which makes the other person hurt.",
+            "When [chair_1] stands next to [chair_1] , [chair_1] is rising his hands.",
+            "The [chair_1] will break a leg and won't be able to sit."
+        ]
+    }
+}

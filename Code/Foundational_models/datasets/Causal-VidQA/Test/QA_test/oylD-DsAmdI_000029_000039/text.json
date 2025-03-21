@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is throwing the ball forward.",
+            "[person_1] is playing the organ in the room.",
+            "[person_1] is standing behind the net to play badminton.",
+            "[person_1] is taking mortar.",
+            "[person_1] is snatching weight lifting."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play with one hand?",
+        "answer": [
+            "The [person_1] wiped the bed.",
+            "Maybe [person_1]'s other hand is injured.",
+            "[person_1] wants to protect the head.",
+            "[person_1] is companying [person_1].",
+            "Because [person_1] can be more comfortable on the couch."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Perhaps [person_1] will continue to fold the napkin.",
+            "[person_1] will keep playing the organ in the room.",
+            "[person_1] will put in contact lenses.",
+            "[person_1] will fix the gongs.",
+            "[person_1] will be keep playing the harmonica."
+        ],
+        "reason": [
+            "Under the guidance of [person_1] , [person_1] may do the next set of more accurate movements.",
+            "Because [person_1] has successfully clipped her right eyelash with [person_1] and [person_1].",
+            "[person_1] will start opening his eyes a little.",
+            "[person_1]'s finger moves non - stop over the keyboard.",
+            "[person_1] is still holding the wheelbarrow."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was no electricity?",
+        "answer": [
+            "[person_1]'s neck will hurt.",
+            "The floor where the [person_1] is standing would be wet.",
+            "[person_1] may call someone to repair it.",
+            "The light bulbs would turn off.",
+            "Maybe all people will startle."
+        ],
+        "reason": [
+            "The light bulbs need electricity to turn on.",
+            "Because there are many balloons on the floor and the balloons will be popped.",
+            "There are big snows around the [person_1].",
+            "To cover up the failure.",
+            "Knitting needs to keep [person_1]'s head down and then it will hurt her neck."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is stacking the dice on the table.",
+            "[person_1] is playing beer pong.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is putting the apples into the machine.",
+            "[person_1] is standing near [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] sit down?",
+        "answer": [
+            "[person_2] is recording his hands so he can teach people how to play the song he's playing.",
+            "[person_2] sits down to open the gift easier.",
+            "Maybe [person_2] is a professional player.",
+            "Because [person_2] needs to use [person_2]'s hands to play the keyboard.",
+            "[person_2] wants to practice moving with the ball in field hockey."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to keep walking on the ice with hands holding the wall.",
+            "[person_2] is going to open the gift box.",
+            "[person_2] is going to continue performing.",
+            "[person_2] is going to push [person_2].",
+            "[person_2] is going to try on a long sleeve shirt."
+        ],
+        "reason": [
+            "[person_2] puts the [person_2] in her mouth to eat.",
+            "When [person_2] finishes his donut , he walks towards to the left side of the screen.",
+            "[person_2] opens his mouth to eat the donut.",
+            "[person_2] has the uncomfortable facial expression of tasting it.",
+            "[person_2] sat down and tore off the wrapping paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] can't open the gift box?",
+        "answer": [
+            "[person_2] will not know how to use a wheelchair.",
+            "[person_2] will ask [person_1] to open the gift.",
+            "[person_1] may find someone to help him.",
+            "[person_1] will record it again.",
+            "[person_1] can't raise the body with both hands and skip the rope."
+        ],
+        "reason": [
+            "Because behind [person_1] is a cliff.",
+            "[person_1] is standing next to [person_2] and [person_1] can help to open.",
+            "Because [person_2] is aiming to break the board.",
+            "Because a coach knows how to do the training and he can help [person_1] do the training correctly and safely.",
+            "Maybe [person_1] is dizzy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a sweatshirt and a sweatpants.",
+            "[person_1] is wearing a black vest.",
+            "[person_1] is wearing jeans and a black jacket.",
+            "[person_1] is wearing a vest.",
+            "The [person_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stop skipping?",
+        "answer": [
+            "To witness the proposal.",
+            "The weather is very cold.",
+            "To do some exercises.",
+            "[person_1] repairs the shoes.",
+            "[person_1] steps on the rope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to check the camera.",
+            "Maybe [person_1] is going to continue skiing",
+            "[person_1] is certain to spray a painting.",
+            "Maybe [person_1] is going to stop running.",
+            "Maybe [person_1] is going to sit."
+        ],
+        "reason": [
+            "Maybe [person_1] is a earthen pot.",
+            "[person_1] come near and reach hand to the camera.",
+            "Riding a mechanical bull is hot.",
+            "Feedback is needed in the classroom.",
+            "The baby fell."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not step on the rope ? ?",
+        "answer": [
+            "[person_1] would continue to skip.",
+            "[person_1] will eat it.",
+            "It would be more difficult for [person_1] to do the movement [person_1] is doing.",
+            "[person_1] and [person_1] will keep practicing.",
+            "The pancake would be ruined."
+        ],
+        "reason": [
+            "[person_1] would keep skipping the rope until [person_1] step on it.",
+            "The beer tap is a thing that stops the beer from coming out.",
+            "because the machine only sew in one place in the leather.",
+            "[person_1] has to memorize a lot of lessons.",
+            "The shape of the dough is not determined yet."
+        ]
+    }
+}

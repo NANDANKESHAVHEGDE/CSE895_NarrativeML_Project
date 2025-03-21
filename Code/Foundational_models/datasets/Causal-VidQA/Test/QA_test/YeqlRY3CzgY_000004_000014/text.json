@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [person_1]'s upper cloth?",
+        "answer": [
+            "[person_1]'s shirt is white.",
+            "It's white.",
+            "[person_1]'s cup is actually long.",
+            "It's black and white.",
+            "[person_1] is wearing a hat on his head."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] showing the cap of [bottle_5]?",
+        "answer": [
+            "Perhaps [person_1] wants to check the quality of the gong.",
+            "Because [person_1] wants to be able to unwrap the gift quickly.",
+            "Because [person_1] is lifting weights.",
+            "Because [person_1] wants to tell us that she opened the [bottle_5] successfully.",
+            "Because [person_1] is playing the violin with his friends in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to continue tap dancing.",
+            "[person_1] is going to keep playing harmonica.",
+            "[person_1] may keep trying to play.",
+            "[person_1] is going to open another bottle."
+        ],
+        "reason": [
+            "Maybe [person_1] was feeling dizzy.",
+            "[person_1] is moving to the chair.",
+            "[person_1] may keep raising eyebrows.",
+            "The tire is fully inflated.",
+            "[person_1] put many bottle on [dining table_1] , which indicates that she wants to show how she opens different kind of bottles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dining table_1] is broken suddenly?",
+        "answer": [
+            "[dining table_1] will leave.",
+            "Maybe [dining table_1] will sell the didgeridoo.",
+            "[dining table_1] and [dining table_1] might not perform.",
+            "All bottles will break too.",
+            "[dining table_1] might not be able to use the phone."
+        ],
+        "reason": [
+            "[dining table_1] will earn lots of money.",
+            "[dining table_1] is sitting on the chair.",
+            "Because [dining table_1] can't see where is the small ball.",
+            "When the cattle are on the farm , [dining table_1] need to run quickly to drive them in the barn before the evening.",
+            "All bottles are directly standing on the [dining table_1]."
+        ]
+    }
+}

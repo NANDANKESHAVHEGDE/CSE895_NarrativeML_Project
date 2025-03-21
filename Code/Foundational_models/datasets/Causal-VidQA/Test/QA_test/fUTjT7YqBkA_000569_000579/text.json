@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [refrigerator_1]?",
+        "answer": [
+            "The [refrigerator_1] is next to [refrigerator_1].",
+            "The mother gets the teddy bear from a basket.",
+            "It is very bright.",
+            "The plastic cup is green.",
+            "[refrigerator_1] is next to the TV."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the chair?",
+        "answer": [
+            "She is reading books.",
+            "It is possible that [person_1] is listening to the melody.",
+            "[person_1] does that to get ready to hit the birdie back.",
+            "[person_1] is shotting basketball.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will use the ball to observe his surroundings.",
+            "[person_1] probably will shake the pan again.",
+            "[person_1] is going to eat the next slice of potato chips.",
+            "[person_1] is going to continue securing the paper to the box.",
+            "[person_1] continues to read books."
+        ],
+        "reason": [
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "The reflection in the ball is not the same as his own appearance , which will arouse his curiosity.",
+            "He seems like this kind of jump.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] pays attention to her book."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will put the guitar away.",
+            "[person_1] may be pushed away.",
+            "[person_1]'s feet will break.",
+            "[person_1] may feel traumatized.",
+            "[person_1] will relax."
+        ],
+        "reason": [
+            "[person_1] will go inside.",
+            "[person_1] will take it easy.",
+            "[person_1] puts her hand on [person_1].",
+            "[person_1] studies hard.",
+            "[person_1] may take a short rest."
+        ]
+    }
+}

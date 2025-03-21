@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [chair_1] big?",
+        "answer": [
+            "It's next to [chair_1].",
+            "The [chair_1] is near the window and close to the wall.",
+            "The [chair_1] is on the left side of the road.",
+            "Yes , it is.",
+            "The [chair_1] is between the [chair_1] and the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] delighted?",
+        "answer": [
+            "[person_1] stacked cups successfully.",
+            "Running can prolong life.",
+            "[person_1] and [person_1] are wrestling.",
+            "The [person_1] has just beaten and fallen.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after finishing the game?",
+        "answer": [
+            "[person_1] will leave.",
+            "[person_1] will wash her hands.",
+            "[person_1] will think how to beat [person_1] in the next round.",
+            "[person_1] will wash her face.",
+            "[person_1] will have a rest for a moment."
+        ],
+        "reason": [
+            "No one always win.",
+            "No one will always win.",
+            "Because [person_1] seems to be quite delighted for what he has done.",
+            "[person_1] is tired.",
+            "Only in this way could the coco be opened."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone rings?",
+        "answer": [
+            "That person would be severely injured.",
+            "[person_1] will not talk to [person_1].",
+            "[person_1] won't answer the phone.",
+            "Maybe [person_1] will continue spraying.",
+            "[person_1] will answer the phone."
+        ],
+        "reason": [
+            "It's time for lunch.",
+            "There are no others in the room.",
+            "There are many kinds of equipment in his room.",
+            "There are many others in the room.",
+            "To check the condition of the body."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is cylinder.",
+            "[person_2] is to [person_1] right.",
+            "It is in the yard.",
+            "[potted plant_1] is behind the [person_1] and [person_2].",
+            "It is on the wardrobe."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] holding a gift box?",
+        "answer": [
+            "[person_1] and [person_2] are opening gift boxes.",
+            "[person_2] and [person_2] to read the cards.",
+            "[person_1] would like to do a handstand safely.",
+            "[person_2] is performing on the stage.",
+            "[person_1] is doing various yoga stretches using the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to laugh.",
+            "[person_1] is going to run.",
+            "[person_1] is going to kiss [person_1].",
+            "[person_1] is going to hold the camera.",
+            "[person_1] is going to move the chess piece."
+        ],
+        "reason": [
+            "[person_1] will chop the green bell pepper because in one hand [person_1] holds a chili pepper and in the other [person_1] holds a knife.",
+            "[person_1] received a favorite toy.",
+            "When [person_1] comes , he makes [person_1] leave the fight.",
+            "The vaulter has just jumped and fallen to the mat.",
+            "[person_1] is playing very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if these two gift boxes are different?",
+        "answer": [
+            "Maybe [person_1]'s team will lose.",
+            "Everyone wouldn't see the hand gestures of [person_2].",
+            "It is possible that [person_1] and [person_2] will play together.",
+            "[person_1] will be very embarrassed.",
+            "Mom of [person_1] will ask [person_1] to have lunch."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are very close.",
+            "It's more convenient to use car by manual work.",
+            "To clean up the mirror first.",
+            "The man takes good care of the car.",
+            "Because it is likely to lose control of the camel."
+        ]
+    }
+}

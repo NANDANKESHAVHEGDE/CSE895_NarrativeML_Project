@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is this place?",
+        "answer": [
+            "It is in a training field.",
+            "It is nicely decorated.",
+            "It is quite large.",
+            "It is quite dark.",
+            "It is beautiful."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are these people here?",
+        "answer": [
+            "They are practicing rugby.",
+            "To show polite.",
+            "They are here to practice tackling.",
+            "The dog finds running interesting.",
+            "People are accustomed to different speed."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_2] and [person_3] going to do?",
+        "answer": [
+            "[person_2] will read the book.",
+            "Perhaps [person_2] and [person_3] are going to keep eating.",
+            "Pour the washing powder into the washing machine and start the washing machine.",
+            "[person_3] will repeat lifting [person_2].",
+            "[person_2] and [person_3] are going to keep on practicing."
+        ],
+        "reason": [
+            "Because both of the girls are making preparations for the cooking.",
+            "Because they are in the middle of their training.",
+            "[person_2] and [person_3] removed the patch and brought it close to his legs.",
+            "[person_2] and [person_3] are participate in a hockey match.",
+            "[person_2] are moving out of [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the rugby ball got lost?",
+        "answer": [
+            "Surrounding objects would catch fire.",
+            "He would cry.",
+            "The camera might hurt [person_3].",
+            "Socks would get dirty.",
+            "The training might continue."
+        ],
+        "reason": [
+            "To ask how to operate the power drill.",
+            "Because there is a large space without gravity.",
+            "Because tackling could be practiced without the ball.",
+            "The elephants will no longer be kept within the enclosure.",
+            "The camera might hurt [person_3] by hitting [person_3]."
+        ]
+    }
+}

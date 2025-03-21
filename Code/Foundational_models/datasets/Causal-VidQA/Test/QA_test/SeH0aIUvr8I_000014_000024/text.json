@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [oven_1]?",
+        "answer": [
+            "[person_1] is next to the [oven_1].",
+            "[oven_1] is next to [oven_1].",
+            "It is in front of [person_1].",
+            "[oven_1] is behind [person_1].",
+            "The [person_1] is wearing a long sleeve T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] smiling?",
+        "answer": [
+            "Because she is watching [person_1] plays with [person_2].",
+            "Because [person_2] is supporting [person_1]",
+            "Because [person_2] is practicing roller blading.",
+            "Playing accordion can be noisy . [person_1] is alone so [person_1] does not make other people feel annoyed.",
+            "[person_1] feels happy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to warm up there.",
+            "[person_1] may tickle [person_2].",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to continue stretching herself .",
+            "[person_1] is going to continue trying to whistle."
+        ],
+        "reason": [
+            "When [person_1] smiles , he tickles [person_2].",
+            "Maybe [person_1] will clap his hands.",
+            "When [person_1] jumps off the pool , he floats and prepares to swim.",
+            "Because [person_2] is taking [person_1]'s photo while explaining about the camera's function.",
+            "This can help [person_1] remember the action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] does not smile?",
+        "answer": [
+            "[person_1] will not see anything clearly.",
+            "[person_1]'ll be sad.",
+            "[person_1] may stop tickling him.",
+            "[person_1] will not look back.",
+            "[person_1] might catch a cold."
+        ],
+        "reason": [
+            "Because they are a team and need to work together.",
+            "[person_1] often does exercise all the time unless others disturb him.",
+            "It is necessary for [person_2] to be naked when enjoying massage.",
+            "She will have a beautiful hair.",
+            "[person_1] plays with [person_2] because [person_2] is happy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is introducing the internal structure of the refrigerator.",
+            "The [person_1] is wearing a bucket and sunglasses.",
+            "The [person_1] is wearing a black cap.",
+            "The [person_1] is struggling to try to open the [person_1] door.",
+            "The [person_1] is standing behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the refrigerator?",
+        "answer": [
+            "The [person_1] seems to be looking for something in the refrigerator.",
+            "Because [person_1] is playing the guitar.",
+            "Maybe [person_1] wants to show us how to open it again.",
+            "Because the [person_1] wants to show the internal structure of the refrigerator.",
+            "Because [person_1] is playing guitar and whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will close the door of the [person_1].",
+            "The [person_1] will rub the clothes.",
+            "The [person_1] will continue to grab the legs of the dog with her hand.",
+            "The [person_1] will continue to introducing the internal structure of the refrigerator.",
+            "The [person_1] will continue to cut the nails of the [person_1]."
+        ],
+        "reason": [
+            "Because the [person_1] seems to know the inner workings of the refrigerator very well.",
+            "Because the [person_1] wants to comfort the dog.",
+            "Because the [person_1] wants to take some money out.",
+            "Because the [person_1] wants to know how many money left in his account.",
+            "Because [person_1] has finished the work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the refrigerator suddenly loses power?",
+        "answer": [
+            "[person_1] will put down the guitar.",
+            "The [person_1] will check the cause of the power failure.",
+            "Then [person_1] might throw the plate away.",
+            "Then [person_1] will fall over possibly.",
+            "[person_1] and [person_1] will go back home."
+        ],
+        "reason": [
+            "Because the power failure of the refrigerator will affect the use.",
+            "[person_1] , [person_1] and [person_1] want to thank the audience.",
+            "Because cookies stick to the plate , if they can't be shoveled off , the plate can't be used any more , so the plate will be thrown away.",
+            "[person_1] is able to keep balanced quite well at the begining of the video.",
+            "[person_1] would answer the phone later."
+        ]
+    }
+}

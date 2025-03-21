@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the accordion.",
+            "[person_1] is playing mahjong.",
+            "[person_1] is introducing how to slam the tire.",
+            "[person_1] is trying to lift the hammer.",
+            "[person_1] is touching the organ."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] release the hammer soon?",
+        "answer": [
+            "[person_1] tries to put it in.",
+            "[person_1] cannot stand the heavy sledgehammer for long time.",
+            "[person_1] places the accordion that leans on her chest with the key buttons confronting away from her.",
+            "[person_1] is playing a bass guitar solo.",
+            "[person_1] places the accordion on his knee with the key buttons facing away from him."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after lifting the hammer?",
+        "answer": [
+            "[person_1] will give it to the professional snake catcher.",
+            "[person_1] will begin to work.",
+            "[person_1] will have a rest.",
+            "[person_1] wants to do some kind of style.",
+            "[person_1] will clean her face."
+        ],
+        "reason": [
+            "Because she eat with her hands and her hands get dirty.",
+            "[person_1] has put the hammer aside.",
+            "Because [person_1] is still reluctant in catching the snake.",
+            "[person_1] will cut it to the proper size for doing the work.",
+            "[person_1] may feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] used two hands to lift it?",
+        "answer": [
+            "[person_1] could lift the hammer easily.",
+            "[person_1]'ll go to get more clay.",
+            "[person_1] could not lift the hammer easily.",
+            "[person_1] would choke on water.",
+            "[person_1] could lift the hammer hardly."
+        ],
+        "reason": [
+            "Two hands are the same as one.",
+            "[person_1] can't stand herself.",
+            "One hand are stronger than two.",
+            "[person_1] jumps so high to do the long jump , if she lands by her hand , she will break it.",
+            "Two hands are stronger than one."
+        ]
+    }
+}

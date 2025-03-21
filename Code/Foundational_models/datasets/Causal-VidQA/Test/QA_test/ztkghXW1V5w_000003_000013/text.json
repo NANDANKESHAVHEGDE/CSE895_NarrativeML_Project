@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is next to the [person_1].",
+            "[chair_1] is on the right of [person_1].",
+            "[chair_1] is under [person_1].",
+            "[chair_1] is on the left hand side of [person_1].",
+            "It is on the right of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] happily playing the game?",
+        "answer": [
+            "Because [person_1] really enjoys himself in the game.",
+            "Maybe [person_1] is participating in a competition.",
+            "[person_1] is a child.",
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] gains momentum to somersault in the air."
+        ]
+    },
+    "predictive": {
+        "question": "What will the two children do next after playing several rounds?",
+        "answer": [
+            "The girl in pink will bend back.",
+            "They will keep playing.",
+            "They may be sisters.",
+            "The ground may be piled up with more and more discarded rocks.",
+            "The man is a new hand."
+        ],
+        "reason": [
+            "Because the little boy put toothbrush on the washstand , ready to go somewhere else.",
+            "The sun is very strong.",
+            "Because they think the game is interesting and don't want to stop.",
+            "They wear the same clothes.",
+            "Because he's happy for now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the adult joins the game?",
+        "answer": [
+            "[person_1] would refuse him.",
+            "[person_1] would still be dancing.",
+            "[person_1] would put the chessboard away.",
+            "Maybe [person_1] couldn't continue the competition.",
+            "[person_1] won't be able to score his team."
+        ],
+        "reason": [
+            "Because they interrupt the traffic.",
+            "The barbell is very heavy so it can hurt his feet if it fell.",
+            "He had nothing of his own to bind up.",
+            "Because it's hard for a child to beat an adult even in a simple game.",
+            "[person_1] is curious."
+        ]
+    }
+}

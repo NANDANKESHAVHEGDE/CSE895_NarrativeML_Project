@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is slapping [person_1]'s head.",
+            "[person_2] is holding [person_1] and reading a book.",
+            "[person_2] is skating with the [person_2]'s son.",
+            "The [person_1] is in the right of the [person_1].",
+            "[person_2] is rubbing [person_1]'s face."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] slap [person_1]'s head?",
+        "answer": [
+            "[person_2] is giving massage to [person_1] to relax the skin of the face.",
+            "Because [person_1] wants to propose to her.",
+            "[person_1] , [person_2] and [person_1] are spending all their energy relaxing.",
+            "[person_2] is giving a massage to [person_1]'s head.",
+            "Maybe [person_1] wanna shoot a video on how to wax chest."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_1] feel after the massage?",
+        "answer": [
+            "[person_1] will feel relaxed with his head.",
+            "[person_1] will feel a little annoyed.",
+            "[person_1] will feel comfortable of his face.",
+            "[person_1] looks at the cards with the same [person_1] .",
+            "They are going to play a mini game."
+        ],
+        "reason": [
+            "Because the tire is being tearing down and it looks very old.",
+            "Because they have no intention of leaving.",
+            "[person_2]'s action is a little violent.",
+            "[person_1] has not finished the performance.",
+            "Because they are currently in the middle of their training with an instructor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] had long hair?",
+        "answer": [
+            "[person_1] will use it to record the scene of the game.",
+            "[person_1] won't give massage as this way.",
+            "[person_1] will throw it out.",
+            "[person_1] will give massage as this way.",
+            "[person_1] will fall over."
+        ],
+        "reason": [
+            "The long hair would not be hurt when being rubbed.",
+            "Because the dance required participants to do exactly the same as others.",
+            "The long hair would be hurt when being rubbed.",
+            "Because [person_1] drinks the bad milk.",
+            "The long hair would be hurt when not being rubbed."
+        ]
+    }
+}

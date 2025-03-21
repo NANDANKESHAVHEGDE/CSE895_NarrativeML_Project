@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing ?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is smiling and playing piano.",
+            "[person_1] is pressing the frets.",
+            "[person_1] is kissing her husband.",
+            "[person_1] is playing guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] has a guitar in her hands ?",
+        "answer": [
+            "[person_1] is scared of the firework explosion.",
+            "To increase the volume.",
+            "[person_1] wants to be heard by more people.",
+            "[person_1] wanted to check the grapes.",
+            "[person_1] is performing."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do ?",
+        "answer": [
+            "[person_1] will possibly hold the teddy bear.",
+            "[person_1] tends to rest.",
+            "[person_1] tends to practice pull - ups.",
+            "[person_1] tends to use his strength to pull the rope.",
+            "Perhaps [person_1] will keep playing."
+        ],
+        "reason": [
+            "[person_1] is playing the guitar very enthusiastically.",
+            "[person_1] is very interested in playing it.",
+            "[person_1] is playing with a band.",
+            "[person_1] wants to make it perfect.",
+            "[person_1] has not finished the performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electric doesn't work ?",
+        "answer": [
+            "The mirror will fall apart.",
+            "[person_1] may pour more beer from the [person_1] into her cup.",
+            "The lamp will not work.",
+            "Students will not learn knowledge.",
+            "The [person_1] would lose balance."
+        ],
+        "reason": [
+            "A statue never moves.",
+            "The room will have no light.",
+            "Because rain can make [person_1] wet.",
+            "Music can make people excited.",
+            "The weights is heavy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the space dark?",
+        "answer": [
+            "There are seven.",
+            "Yes , only one.",
+            "No , it isn't.",
+            "It's in the classroom.",
+            "[person_1] is lying on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the [couch_1]?",
+        "answer": [
+            "[person_1] bows to focus on [person_1]'s fingers when playing the guitar.",
+            "[person_1] puts his hands on the floor and stretches the resistance band",
+            "[person_1] is planing wood.",
+            "[person_1] is stretching her arms.",
+            "[person_1] is reading something in a newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do after holding the newspaper?",
+        "answer": [
+            "[person_1] is going to raise the flute to mouth.",
+            "[person_1] is going to keep playing flute.",
+            "[person_1] will still sit on the machine and do the exercise.",
+            "[person_1] is going to read the newspaper.",
+            "[person_1] will start to iron the clothes."
+        ],
+        "reason": [
+            "[person_1] is following her friend.",
+            "It seems that [person_1] is quite interested in it.",
+            "It is a part of crunches exercise.",
+            "[person_1] keeps balance very well.",
+            "Because there are some candles on [person_1] waiting for light."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] reads the newspapers everyday?",
+        "answer": [
+            "[person_1] will get no information.",
+            "[person_1] can not fly the kite.",
+            "[person_1] will get a little information.",
+            "The person won't stand up herself.",
+            "[person_1] will get a lot of information."
+        ],
+        "reason": [
+            "Newspapers are useless for readers.",
+            "The [person_1] bends knees and works hard.",
+            "Newspapers are useful for readers.",
+            "[person_1] would be poisoned.",
+            "Newspapers are useful for writers."
+        ]
+    }
+}

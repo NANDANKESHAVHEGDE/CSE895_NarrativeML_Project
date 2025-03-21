@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is white.",
+            "It is purple.",
+            "It is black.",
+            "It is yellow.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing by her hands in the room?",
+        "answer": [
+            "[person_1] is practicing to stand by hand better.",
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is playing with paper.",
+            "[person_1] is playing harmonica.",
+            "[person_1] is opening his gift."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "She is going to play with her toys.",
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] will keep practicing standing on hands.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] is going to land on the sand pit."
+        ],
+        "reason": [
+            "It's important for them to remember.",
+            "The window was only half cleaned.",
+            "[person_1] is very professionally.",
+            "Their stems are too long.",
+            "There is a coming car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't keep balance?",
+        "answer": [
+            "[person_1] might fall down.",
+            "The mistakes of it would not be remedied.",
+            "The audience won't see [person_1]'s performance.",
+            "[person_1] would stop what she was doing.",
+            "[person_1] can't see clearly."
+        ],
+        "reason": [
+            "[person_1]'s eyes are poor.",
+            "[person_1] would keep trying to practice day by day.",
+            "There's nail polish on the desk.",
+            "The crossbar is really high.",
+            "The champagne would splash to her hair."
+        ]
+    }
+}

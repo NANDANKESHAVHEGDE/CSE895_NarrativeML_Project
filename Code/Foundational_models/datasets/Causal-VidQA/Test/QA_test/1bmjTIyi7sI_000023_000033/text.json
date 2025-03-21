@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [camera_1]?",
+        "answer": [
+            "The cabinet is located behind [camera_1].",
+            "[camera_1] is in the studio",
+            "In the courtyard.",
+            "There are 2 bottles.",
+            "There are three wheelbarrows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the studio?",
+        "answer": [
+            "[person_1] is playing the guitar.",
+            "[person_1] is about to stop performing.",
+            "[person_1] sits on a chair to play the drums better.",
+            "[person_1] is taking pictures.",
+            "[person_1] is raising eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to approach [person_1].",
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to do lunges.",
+            "[person_1] may talk to [person_1]."
+        ],
+        "reason": [
+            "[person_1] has already picked one piece up.",
+            "[person_1] only used 1 dice.",
+            "[person_1] takes pictures in a very professional way.",
+            "It is very sunny.",
+            "[person_1] cannot lift the sled."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not show up?",
+        "answer": [
+            "[person_1] wouldn't pass the fruit to his customer.",
+            "People may not focus on [person_1].",
+            "[person_1] is likely to stop jumping rope.",
+            "[person_1] might work for another project.",
+            "The gaps between slate tiles wouldn't be filled."
+        ],
+        "reason": [
+            "[person_1] will be lose.",
+            "[person_1] worked effectively.",
+            "[person_1] will slow down for everyone to understand.",
+            "[person_1] cannot go skating without a pair of working skates.",
+            "[person_1] need fix the rope to jump."
+        ]
+    }
+}

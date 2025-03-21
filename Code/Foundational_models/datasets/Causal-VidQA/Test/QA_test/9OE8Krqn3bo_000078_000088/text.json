@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] wearing is gray.",
+            "The shirt [person_1] wearing is pink.",
+            "The shirt [person_1] wearing is blue.",
+            "It is black.",
+            "It is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing lute.",
+            "[person_1] is playing harmonica.",
+            "[person_1] is playing with paper.",
+            "[person_1] is showing [person_1] the doll.",
+            "[person_1] is playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to dance another move.",
+            "[person_1] may finish his performance on the tightrope.",
+            "[person_1] may not lean on this chair again.",
+            "[person_1] is going to play another song.",
+            "[person_1] may continue to sharpen the knife after checking it."
+        ],
+        "reason": [
+            "He seems like this kind of jump.",
+            "[person_1] is attracting people to watch.",
+            "The hands of [person_1] are still holding the cleaning cloth and he sees to be looking for the next place to wipe.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "The reflection in the ball is not the same as his own appearance , which will arouse his curiosity."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if no one comes to see ?",
+        "answer": [
+            "[person_1] will be very sad.",
+            "He will say thanks to the good man.",
+            "[person_1] will jump off the horse.",
+            "[person_1] would stop playing the organ.",
+            "[person_1] will land on her feet."
+        ],
+        "reason": [
+            "There is a barbell beside him.",
+            "[person_1] smiled because he saw something interesting.",
+            "[person_1] could not see anything and lose direction without light.",
+            "Because the scooter can not be used in a crowded place.",
+            "[person_1] won't have money."
+        ]
+    }
+}

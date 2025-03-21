@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of site is it?",
+        "answer": [
+            "It is a parking lot.",
+            "It is on a road.",
+            "Korean national flag is on the wall.",
+            "There are 5 people.",
+            "There are 4 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smash the tire?",
+        "answer": [
+            "[person_1] stands on the grass to support [person_1].",
+            "[person_1] puts marshmallows in the fire.",
+            "[person_1] is exercising.",
+            "[person_1] is swallowing sword.",
+            "[person_1] cannot stand the liquid or she feels something wrong with the champagne."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do in several minutes?",
+        "answer": [
+            "[person_1] will have to move the tire from the road to other places.",
+            "[person_1] will use the inhaler in person.",
+            "[person_1] will continue running.",
+            "[person_1] will eat the [person_1].",
+            "[person_1] will keep practicing it to improve his skill."
+        ],
+        "reason": [
+            "The cars are coming.",
+            "[person_1] hasn't finished the steps totally.",
+            "They are celebrating Christmas.",
+            "[person_1] doesn't seem to want to give up eating the food on the [person_1].",
+            "It seems that [person_1] is confident about his performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] stayed there for long time?",
+        "answer": [
+            "[person_1] would give it back to [person_1].",
+            "[person_1] will not be able to continue playing.",
+            "Yes , he would be happy.",
+            "He may struck someone.",
+            "[person_1] might be in danger of traffic accidence."
+        ],
+        "reason": [
+            "He can not control himself to keep away from others.",
+            "[person_1] will do other things.",
+            "[person_1] is standing on a using road.",
+            "[person_1] will have muscle pain because of excessive muscle tension.",
+            "[person_1] moves the legs faster and gains momentum by putting pressure on the wheels."
+        ]
+    }
+}

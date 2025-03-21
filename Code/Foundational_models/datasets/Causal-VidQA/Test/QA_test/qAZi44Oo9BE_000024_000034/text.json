@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the piano.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is picking an apple.",
+            "[person_1] is stripping an apple.",
+            "[person_1] is playing basketball."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [potted plant_1] put on the piano?",
+        "answer": [
+            "Two hands can hold and play the guitar.",
+            "Because [potted plant_1] is an ornament for the piano.",
+            "[potted plant_1] is playing darts.",
+            "Maybe [potted plant_1] does the guitar for fun.",
+            "Because [potted plant_1] wants to get grape juice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to drink.",
+            "[person_1] continues to introduce the book.",
+            "[person_1] is going to continue playing the piano.",
+            "[person_1] may stand on the [person_1].",
+            "[person_1] continues to read books."
+        ],
+        "reason": [
+            "[person_1] is stretching leg very hard.",
+            "Because he finished his work.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is going to enjoy the melody.",
+            "[person_1]'s hand is still on the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the picture frame falls down?",
+        "answer": [
+            "Maybe [person_1] will sell the baskets for customers.",
+            "The [person_1] would open the box for the [person_1].",
+            "The [person_1] can control her dog's behavior.",
+            "[person_1] will feel scared.",
+            "The picture frame will be broken and [person_1]'s hand will be injured."
+        ],
+        "reason": [
+            "The [potted plant_1] is carrying the mini one.",
+            "[potted plant_1] and [potted plant_1] don't need to see anything to pull the swords out.",
+            "The picture frame is fragile.",
+            "Because the hands of [person_1] hold nothing.",
+            "The cap is still on the head of [potted plant_1]."
+        ]
+    }
+}

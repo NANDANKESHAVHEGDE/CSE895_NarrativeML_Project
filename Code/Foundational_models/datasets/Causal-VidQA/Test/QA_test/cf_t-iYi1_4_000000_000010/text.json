@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "[couch_1] is next to the window.",
+            "[person_1] is wearing a blue shirt.",
+            "[person_1] is standing beside the sink.",
+            "[couch_1] is behind [person_1].",
+            "[person_1] is standing on a mattress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling so happily?",
+        "answer": [
+            "[person_1] is loosing balance.",
+            "The [person_1] is used to cut the potatoes.",
+            "Because [person_1] is smoking hookah and satisfying his addiction.",
+            "Because [person_1] wants to use the friction between them to open the cap.",
+            "[person_1] and [person_1] are playing darts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to smoke.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to continue to comb his hair with this comb.",
+            "[person_1] will stop skiing.",
+            "[person_1] is going to keep training."
+        ],
+        "reason": [
+            "[person_1] has turned away.",
+            "Maybe [person_1] finds it interesting to smoke.",
+            "[person_1] has not finished his talking.",
+            "[person_1] is preparing to turn another somersault.",
+            "[person_1] is snowmobiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't smoke hookah?",
+        "answer": [
+            "[person_1] will want to smoke hookah and will look for it.",
+            "[person_1] will feel tired and want to smoke.",
+            "[person_1] could not go further.",
+            "[person_1] will startle.",
+            "[person_1] will die."
+        ],
+        "reason": [
+            "[person_1] is just a boy and can not control the situation.",
+            "Because [person_1] falls when she has not finished her turn.",
+            "[person_1] did not win the contest.",
+            "Because people can't survive under the sea if they don't have scuba.",
+            "Smoking hookah will be addictive."
+        ]
+    }
+}

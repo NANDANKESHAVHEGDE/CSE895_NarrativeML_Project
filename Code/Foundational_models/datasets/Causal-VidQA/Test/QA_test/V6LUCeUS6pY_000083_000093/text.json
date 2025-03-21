@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room ?",
+        "answer": [
+            "It is nicely decorated.",
+            "The room is quite small.",
+            "It is spacious.",
+            "It is quite dark.",
+            "It is quite large."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] appear in the room ?",
+        "answer": [
+            "Maybe [person_1] is in the game.",
+            "[person_1] is reading a book.",
+            "Maybe [person_1] and [person_1] are taking a photo.",
+            "[person_1] is ripping paper.",
+            "[person_1] is putting her mouth on [person_1] to blow into it so she can play her bagpipes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do after seeing what [person_1] does?",
+        "answer": [
+            "In front of the band.",
+            "[person_2] is going to feel bored.",
+            "[person_1] will rest.",
+            "[person_2] is going to burst into laughter.",
+            "[person_1] is going to kick it."
+        ],
+        "reason": [
+            "[person_1] opens it because the liquid inside is for drink.",
+            "[person_2] looks quite happy.",
+            "[person_1] and [person_2] may feel tired.",
+            "[person_2] wants to win and hit back.",
+            "Because there is nobody to play with [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't rip paper ?",
+        "answer": [
+            "It is possible that [person_1] will get drunk.",
+            "[person_2] will stop the game and the winner is [person_2].",
+            "[person_2] will not laugh.",
+            "[person_1] will use the hair dryer to make her hair looks curly again.",
+            "[person_1] will not do exercise."
+        ],
+        "reason": [
+            "[person_2] will play with toys.",
+            "[person_1] wants to become more famous.",
+            "Children do not want to eat what they do not like.",
+            "[person_2] mother is watching the show.",
+            "Copying [person_1] 's steps are the fastest way to learn."
+        ]
+    }
+}

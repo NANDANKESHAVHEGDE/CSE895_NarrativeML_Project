@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing badminton outside.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is shaking the cup.",
+            "[person_1] is playing field hockey.",
+            "[person_1] is operating the circular saw."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there some water on the circular saw?",
+        "answer": [
+            "Because the girl is practicing standing on the hands.",
+            "[person_1] is sitting on the floor.",
+            "Because there is some water on the marble table.",
+            "The saber is sharp and hard.",
+            "To help cut the board smoothly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go on operating the circular saw.",
+            "[person_1] will activate the printer.",
+            "[person_1] is going to turn the iron.",
+            "[person_1] will pick up the hoop.",
+            "[person_1] may keep on skateboarding."
+        ],
+        "reason": [
+            "There is a scale in the video.",
+            "It is heavy rainy.",
+            "Because the bike got stuck.",
+            "To finish the work.",
+            "[person_1] seems to enjoy it a lot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the circular saw breaks down due to water inflow?",
+        "answer": [
+            "[person_1] may hurt.",
+            "It may cause fire.",
+            "The substance does not have fine texture.",
+            "[person_1] would agree with that.",
+            "[person_1] will take the circular saw to the repair man."
+        ],
+        "reason": [
+            "To take [person_1] home.",
+            "They may be afraid of sunburn.",
+            "To repair it.",
+            "There are plenty exercises in one session.",
+            "It's hard to to hit a moving target , even if [person_1] is a martial arts master."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is showing the inhaler.",
+            "[person_1] is covering his head.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is looking at the mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look up?",
+        "answer": [
+            "[person_1] looks up to see the camera.",
+            "[person_1] looks up to look at the mirror.",
+            "Mushrooms live in the dark environment.",
+            "Because [person_1] successfully turned the plate.",
+            "To exercise better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] is going to continue kneading the dough.",
+            "[person_1] will probably keep walking.",
+            "[person_1] is going to continue exercising.",
+            "[person_1] will continue playing the music.",
+            "[person_1] is going to keep exercising."
+        ],
+        "reason": [
+            "Because [person_1] may want to listen to some music.",
+            "Because what [person_1] is practicing is to jump and then pat the balls across her legs.",
+            "[person_1] has gone to the end of the room and [person_1] is still excited.",
+            "Then [person_1] will go home.",
+            "[person_1]'s feet are still moving so [person_1] will probably keep walking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't put his hands on the wall?",
+        "answer": [
+            "The room will be dark and the egg can not be cooked.",
+            "[person_1] will fall.",
+            "[person_1] can ask a private coach to teach him.",
+            "[person_1] might fall.",
+            "[person_1] would have a great fall."
+        ],
+        "reason": [
+            "[person_1] and [person_1] are partners.",
+            "Because [person_1] can't toss coin without having a coin.",
+            "If players cannot keep balanced when hover boarding , they cannot stand on the hover - board.",
+            "because [person_1] was standing on the knees of [person_1].",
+            "Because [person_1] can't stand on his own yet so [person_1] might fall."
+        ]
+    }
+}

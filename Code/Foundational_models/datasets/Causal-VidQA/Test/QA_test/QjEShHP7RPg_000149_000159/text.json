@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is on the table.",
+            "[person_1] is wearing a suit.",
+            "[person_1] is wearing a beanie.",
+            "[person_1] is wearing glasses.",
+            "[person_1] is in the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a bass guitar?",
+        "answer": [
+            "[person_1] is sitting on a very high chair , so [person_1] has to stand to clean the shoes easily.",
+            "[person_1] is performing didgeridoo.",
+            "[person_1] always keeps his head down to look at the guitar.",
+            "[person_1] has opened the coco easily with the tool.",
+            "[person_1] is playing bass guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read another page.",
+            "[person_1] is going to do a workout.",
+            "[person_1] will be performing an instrumental solo.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to keep performing."
+        ],
+        "reason": [
+            "[person_1] hasn't stopped yet.",
+            "[person_1] was blocked by the door.",
+            "[person_1] just looked back.",
+            "[person_1] is in the middle of striking bass guitar strings.",
+            "[person_1] is bowing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes performing the solo?",
+        "answer": [
+            "The bird will move to other places to eat.",
+            "[person_1] will enter the room behind her.",
+            "[person_1] will greet with them.",
+            "[person_1] will get angry.",
+            "[person_1] will take off the bass guitar."
+        ],
+        "reason": [
+            "[person_1] will not need to hold the bass guitar after playing music.",
+            "Without the frisbee , they can not play the game.",
+            "[person_1] is helpful.",
+            "Because [person_1] falls when she has not finished her turn.",
+            "The card box is very fragile."
+        ]
+    }
+}

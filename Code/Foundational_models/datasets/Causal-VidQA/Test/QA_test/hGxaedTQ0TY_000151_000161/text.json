@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the window.",
+            "[person_1] is on the ground.",
+            "[person_1] is on the stage.",
+            "[person_1] is inside.",
+            "Along the river."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the megaphone?",
+        "answer": [
+            "The large square is specific for cars.",
+            "The hand of [person_1] is supporting the back of [person_1].",
+            "To amplify the sound.",
+            "[person_1] is performing on stage.",
+            "[person_1] is playing darts."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the megaphone?",
+        "answer": [
+            "[person_1] will invite someone to check the effect.",
+            "[person_1] will check his score.",
+            "Change the right hand.",
+            "[person_1] will check his result later.",
+            "Ask for help or change his direction."
+        ],
+        "reason": [
+            "[person_1] skateboards quite well and enjoys it.",
+            "[person_1] has other ingredients on top of the table that make a different dish.",
+            "Because the painter wants to hang up the painting and show to others.",
+            "[person_1] wants to see whether the megaphone is effective.",
+            "[person_1] wants to wake up the people on the sofa."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s dog walks to him?",
+        "answer": [
+            "[person_1] will hug the dog.",
+            "[person_1] will ask [person_1] out.",
+            "[person_1] will drop the dog.",
+            "[person_1] will go to the water dispenser.",
+            "[person_1] will kill the dog."
+        ],
+        "reason": [
+            "[person_1] loves his cat.",
+            "[person_1]'s team takes a lot of pleasure from winning.",
+            "[person_1] loves his dog.",
+            "[person_1] can use the room as long as she wants.",
+            "[person_1] hates his dog."
+        ]
+    }
+}

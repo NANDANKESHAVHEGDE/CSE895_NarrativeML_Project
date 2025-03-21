@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the curtain behind [person_1]?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "The curtain behind [person_1] is red.",
+            "[person_1] is staring at the burning marshmallow.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] tiptoe and lunge forward?",
+        "answer": [
+            "Maybe [person_1] is the person throwing the ball in cups first.",
+            "because [person_1] is trying to stack a dice.",
+            "With the help of the toy machine.",
+            "Perhaps [person_1] tiptoes and lunges forward to throw the ball into the cup easier.",
+            "[person_1] is playing the drums."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] is bound to run in the direction of the moving ball.",
+            "[person_1] tends to play a match.",
+            "It is possible that [person_1] will throw the ball into the cup of the opposing team.",
+            "[person_1] tends to take something in front of him.",
+            "[person_1] has an intention of practicing the flute."
+        ],
+        "reason": [
+            "[person_1] is a member who is participating in the game.",
+            "[person_1] looked the cup , raised the ball and tiptoed.",
+            "[person_1] stops playing.",
+            "[person_1] is playing with a band.",
+            "[person_1] is playing the guitar very enthusiastically."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws the ball straight?",
+        "answer": [
+            "[person_1] will go to the bedroom.",
+            "[person_1] will be sit on the chair.",
+            "Maybe the [person_1]'s ball will be out of the cup.",
+            "[person_1] will rest on [person_1].",
+            "[person_1] will put the harp down."
+        ],
+        "reason": [
+            "[person_1] will have a rest.",
+            "There is a chair near [person_1] and [person_1] can sit on that chair to do her work.",
+            "Maybe there are a lot of marbles.",
+            "When [person_1] feels tired , he can't continue with the exercise , otherwise he will run out of energy.",
+            "Try to arc the ball when you throw . It is more likely to land in a cup."
+        ]
+    }
+}

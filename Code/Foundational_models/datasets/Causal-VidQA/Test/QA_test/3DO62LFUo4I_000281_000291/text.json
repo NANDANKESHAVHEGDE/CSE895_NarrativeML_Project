@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is standing behind the flower pot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the bed?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "Because [person_1] is not tall enough.",
+            "[person_1] is squeezing oranges for juice.",
+            "[person_1] playing lute.",
+            "[person_1] is reading newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep talking about the match.",
+            "[person_1] is going to continue play lute.",
+            "[person_1] may use the pen again.",
+            "[person_1] is going to keep sitting so that [person_1] can hug [person_1].",
+            "[person_1] may stop."
+        ],
+        "reason": [
+            "[person_1] repeats the same action all the time.",
+            "[person_1] is practicing the lute.",
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "[person_1] was walking towards [person_1] and the right hand of [person_1] touched the leg of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is sleepy?",
+        "answer": [
+            "[person_1] will start playing lute.",
+            "It will hit [person_1] and [person_1].",
+            "[person_1] will not stop playing lute.",
+            "[person_1] will not be able to play the harp.",
+            "[person_1] will stop playing lute."
+        ],
+        "reason": [
+            "[person_1] will go to sleep.",
+            "Because the Christmas tree is very big and [person_1] is the only one decorating , so [person_1] is easy to get tired.",
+            "[person_1] won't go to sleep.",
+            "Because [person_1] loves compliments from his audience.",
+            "[person_1] will go to keep awake."
+        ]
+    }
+}

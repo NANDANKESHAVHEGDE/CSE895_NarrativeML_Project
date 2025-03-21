@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bench_1]?",
+        "answer": [
+            "It's next to the door.",
+            "It is in the cabinet.",
+            "[bench_1] is opposite [bench_2].",
+            "It is on the bookshelf.",
+            "It is \u00a0 on the bookshelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is interested in riding the mechanical bull.",
+            "[person_1] is doing a plunge outside.",
+            "He is supervising his running.",
+            "[person_1] wants to challenge herself.",
+            "To relax [person_1]'s head."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to read another page.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to do the next steps in the workout."
+        ],
+        "reason": [
+            "[person_1] is holding the chess piece.",
+            "[person_1] is paying attention to this exercise.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] has not finished his talking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if someone gives [person_1] an ice cream?",
+        "answer": [
+            "[person_1] will have troubles in reporting the competition's result.",
+            "[person_1] feels happy.",
+            "Perhaps [person_1] will stop working.",
+            "Maybe [person_1] and [person_1] will not dance Gangnam style.",
+            "[person_1] will eat the ice cream."
+        ],
+        "reason": [
+            "[person_1] feels pain.",
+            "[person_1] practices so hard.",
+            "Children can't hide their joys and sorrows.",
+            "When the barbell is too heavy , [person_1] will be injured.",
+            "Many people have never seen that before."
+        ]
+    }
+}

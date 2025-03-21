@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] there?",
+        "answer": [
+            "[person_1] wants to have a beautiful shape of body.",
+            "[person_1] turns left to turn towards the camera.",
+            "[person_1] is playing flute . May be [person_1] is doing it for fun.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] likes to play the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may clean the inside.",
+            "[person_1] will definitely continue to play the lute.",
+            "[person_1] may stand up.",
+            "[person_1] is going to put the plate away.",
+            "[person_1] is going to use other bottles to add more colors into the shirt."
+        ],
+        "reason": [
+            "[person_1] is shaking the arms.",
+            "[person_1] is turning the page.",
+            "[person_1] is going to go back home.",
+            "[person_1] is playing the lute enthusiastically.",
+            "[person_1] gave a loud , silly laugh."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] played the lute for too long?",
+        "answer": [
+            "[person_1] will catch a cold.",
+            "The [person_1] would not present based on the map.",
+            "[person_1] will not drive.",
+            "The fingers on [person_1] right hand would be injured.",
+            "He would have to re - color [person_1] from the beginning or , in the worst case , recreate [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] is a perfectionist.",
+            "Because [person_1] and [person_1] are playing the game.",
+            "[person_1] is near the ball.",
+            "The fingers on [person_1] right hand would be cut and bleed.",
+            "The [person_1] is in the room with light bulbs."
+        ]
+    }
+}

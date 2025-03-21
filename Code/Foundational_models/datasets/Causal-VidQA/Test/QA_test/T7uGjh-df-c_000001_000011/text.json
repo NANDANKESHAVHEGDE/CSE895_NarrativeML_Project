@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[chair_1] is behind [person_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "It is in front of the window.",
+            "[person_1] is sitting on it."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] taking her bag off?",
+        "answer": [
+            "To avoid the dust.",
+            "Because [person_1] is instructing [person_1] and [person_1] to make sushi.",
+            "[person_1] learned to play the keyboard before.",
+            "[person_1] wants to do tai chi easier.",
+            "Yes , because a bunch of people are too noisy together."
+        ]
+    },
+    "predictive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "They will look at [person_1].",
+            "[person_1] will feel more and more comfortable.",
+            "[person_1] may dry the object.",
+            "It looks like that [person_1] is staying at home.",
+            "It looks like that [person_1] is in a hall in an airport."
+        ],
+        "reason": [
+            "Because if water is on it , it can cause rust.",
+            "There are some lounges behind her and there are some self - service vending machines on her left.",
+            "Because there are [person_1] , [person_1] and [person_1] and [person_1] in this house.",
+            "There are some households in the room , including a television set , a refrigerator and a chair.",
+            "On the wall are pictures of [person_1]'s when she was a child."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] felt thirsty?",
+        "answer": [
+            "They will change the bowls.",
+            "[person_1] might buy some water from one of the self - service vending machines.",
+            "Then the playing ground will be smaller.",
+            "It would be very dangerous.",
+            "[person_1] would be broken."
+        ],
+        "reason": [
+            "[person_1] threw the ball up quite high and the ball could fall everywhere.",
+            "Because the food is fresh out of the pan and still hot.",
+            "There are so many chairs in the room , so [person_1] and [person_1] may damage them by accident when they move backwards.",
+            "[person_1] has a handbag which may contain some money.",
+            "[person_1] is too short to reach the sink."
+        ]
+    }
+}

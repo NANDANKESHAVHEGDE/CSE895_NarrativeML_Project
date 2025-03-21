@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_2]?",
+        "answer": [
+            "The color of [chair_2] is black.",
+            "Dancing.",
+            "[chair_2] is on the right side of [chair_2].",
+            "[chair_2] and [chair_2] are playing badminton together on the court.",
+            "They are looking at the domino tiles on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing cello?",
+        "answer": [
+            "Because [person_1] likes to play the cello.",
+            "Perhaps [person_1] does it for fun.",
+            "[person_1] prepares for going to work.",
+            "[person_1] uses the drumsticks to create sound by beating the drums.",
+            "Perhaps [person_1] wants to play the gong."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play with the maracas .",
+            "[person_1] intends to play the cello.",
+            "[person_1] has an intention of playing with the flute.",
+            "[person_1] intends to continue to play.",
+            "[person_1] intends to stop play the cello."
+        ],
+        "reason": [
+            "[person_1] has already put in contact lenses in one eye and is planning to put in lenses in the other eye.",
+            "Maybe [person_1] doesn't know how to play an instrument anymore.",
+            "[person_1] seem very interested in doing so.",
+            "[person_1] is playing very attentively.",
+            "[person_1] stops play the cello and gets up from the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] kicked the cello into the door ?",
+        "answer": [
+            "[person_1] will win the contest.",
+            "The tree wouldn't be able to grow much.",
+            "[person_1] will wear gloves next time.",
+            "[person_1] will scream.",
+            "Perhaps The door would be broken."
+        ],
+        "reason": [
+            "When the chess board falls , the pieces will also fall.",
+            "Because the frost can make the temperature decrease drastically.",
+            "It's very dangerous to let [person_1]'s wound expose to the air , so [person_1] will cover it again.",
+            "The door is made of glass.",
+            "[person_1] would need others to fix the bottle for him."
+        ]
+    }
+}

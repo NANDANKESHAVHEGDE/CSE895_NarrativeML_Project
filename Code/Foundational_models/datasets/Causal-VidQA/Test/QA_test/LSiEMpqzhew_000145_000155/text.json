@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it on [person_2]'s finger?",
+        "answer": [
+            "It is a mirror.",
+            "No.",
+            "Put the spacer back on.",
+            "[person_2] , [person_2] and [person_2] are doing tai chi.",
+            "It is a ring."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the woman so happy?",
+        "answer": [
+            "Because the woman receives the marriage proposal.",
+            "[person_2] , [person_2] and [person_2] are performing together.",
+            "Because [person_1] is playing beer pong.",
+            "Because [person_2] is old and does not see clearly.",
+            "Because [person_2] and [person_2] are competing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do after laughing?",
+        "answer": [
+            "[person_1] is about to stand up.",
+            "On the table in front of [person_1].",
+            "He will keep himself away from the car.",
+            "[person_1] will rest.",
+            "[person_1] and [person_2] will ask the person nearby to take a photo."
+        ],
+        "reason": [
+            "Because it will be safer for a motorcycle to be away from a car.",
+            "Because there are a lot of ingredients on the table , [person_1] and the man may have to cook.",
+            "Because they want to record the moment.",
+            "It seems quite a lot.",
+            "Because it seems that she doesn't have a napkin."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the ring doesn't fit the woman?",
+        "answer": [
+            "[person_1] and [person_1] will enjoy it.",
+            "He will continue to hammer the nails in with a hammer.",
+            "The man will then go to the shop.",
+            "[person_2] would leave the maracas there.",
+            "[person_2] will get a shock."
+        ],
+        "reason": [
+            "To change a ring.",
+            "Because there is no milk for [person_1] to drink.",
+            "It goes bad.",
+            "Overheating food can cause it to burn.",
+            "[person_1] and [person_1] won't have to pass the papers."
+        ]
+    }
+}

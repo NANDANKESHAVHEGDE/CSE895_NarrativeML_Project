@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the room.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] having \u00a0 a lot of cup on [dining table_1]?",
+        "answer": [
+            "[person_1] is stacking cups.",
+            "[person_1] is riding bicycle.",
+            "[person_1] is spraying a cupboard.",
+            "[person_1] is doing a plunge.",
+            "[person_1] is instructing relaxation exercises after stressful working hours."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ? ",
+        "answer": [
+            "[person_1] is going to move the chess piece.",
+            "[person_1] is going to laugh.",
+            "[person_1] is going to learn how to fast stack.",
+            "[person_1] may keep clapping with [person_1].",
+            "[person_1] is going to hold the camera."
+        ],
+        "reason": [
+            "[person_1] is slow and drops 1 time.",
+            "Because [person_1] is lifting the beehive.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] is keeping still.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] participates in the cup stacking competition ?",
+        "answer": [
+            "[person_1] will be more confident.",
+            "[person_1] would look more handsome.",
+            "[person_1] won't take any chance.",
+            "[person_1] will find the ball.",
+            "[person_1] would be going somewhere else not the school."
+        ],
+        "reason": [
+            "Dancing is very tired.",
+            "The half orange will be dirty.",
+            "Jumping too high is the reason [person_1] fell.",
+            "[person_1] needs more practice.",
+            "The birds will need food."
+        ]
+    }
+}

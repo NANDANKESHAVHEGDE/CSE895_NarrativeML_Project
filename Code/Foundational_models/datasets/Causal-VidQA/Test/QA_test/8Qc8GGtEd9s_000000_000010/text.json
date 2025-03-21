@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "[person_1] is in a kitchen.",
+            "[person_1] is wearing a white clothes.",
+            "No.",
+            "[person_1] is hanged on a timber.",
+            "[person_1] is standing on the grasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising her legs?",
+        "answer": [
+            "[person_1] is a professional clarinet performer.",
+            "Perhaps [person_1] feels pain in her hand.",
+            "[person_1] is practicing standing on her hands.",
+            "[person_1] is watching the performance of [person_1].",
+            "[person_1] is having a rest."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand on her hands.",
+            "[person_1] is going to lower her hip again.",
+            "[person_1] might watch the video he just recorded.",
+            "[person_1] is going to raise the weights over his head.",
+            "To find more snow."
+        ],
+        "reason": [
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is practicing very hard.",
+            "[person_1] used the tape on the table.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it\u2019s rain?",
+        "answer": [
+            "[person_1] will get wet.",
+            "[person_1] will continue to eat.",
+            "Maybe the picture will be soaked.",
+            "[person_1] will stop working.",
+            "[person_1] will find a shelter."
+        ],
+        "reason": [
+            "The couch is right near [person_1].",
+            "There are two chairs on which [person_1] can sit in the room.",
+            "Because [person_1] would be able to move more freely and [person_1] wouldn't be able to run while wearing dress.",
+            "[person_1] is in the outside.",
+            "It would be very harmful for practicing while being exhausted."
+        ]
+    }
+}

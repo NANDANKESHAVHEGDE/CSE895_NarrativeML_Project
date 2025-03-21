@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [book_1]?",
+        "answer": [
+            "[book_1] is on the left of [book_1].",
+            "[book_1] is holding a black guitar.",
+            "[book_1] is standing in the yard.",
+            "[book_1] is a toddler.",
+            "[book_1] is rectangular."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving a cup?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is shaking the dices.",
+            "Because [person_1] is stacking the dice with a cup.",
+            "[person_1] is skipping the rope.",
+            "Maybe [person_1] and [person_1] are having a short break and relaxing in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue skiing.",
+            "[person_1] is going shake the dices in a professional way.",
+            "[person_1] is going to rest.",
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to continue to train."
+        ],
+        "reason": [
+            "[person_1] is holding a glass of water.",
+            "[person_1] is looking closer at the dices after shaking.",
+            "[person_1] is holding the bottle.",
+            "[person_1] is [person_1]'s partner.",
+            "Maybe [person_1] will continue playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't use a cup?",
+        "answer": [
+            "The [person_1] will not feel happy when he plays in this room.",
+            "[person_1] wouldn't stop to turn to [person_1].",
+            "[person_1] would not shake the dices.",
+            "The accordion of [person_1] will produce sound.",
+            "[person_1] will splashed by water."
+        ],
+        "reason": [
+            "There would be a combination between a cup and dices to shake them.",
+            "The [person_1] needs to hold the cap to show it.",
+            "The cup is made of glass.",
+            "The girl is the one who is near [person_1].",
+            "Because [person_1] is a mere kid."
+        ]
+    }
+}

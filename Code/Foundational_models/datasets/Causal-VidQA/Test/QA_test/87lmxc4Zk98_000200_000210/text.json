@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a stick.",
+            "[person_1] is holding a guitar.",
+            "[person_1] is holding two sticks.",
+            "[person_1] is holding a microphone.",
+            "[person_1] is sitting on a chair."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_2] talking on the microphone?",
+        "answer": [
+            "[person_2] tries to keep balance a plate.",
+            "The [person_2] is playing basketball here.",
+            "The gong in front of [person_2] is enormous.",
+            "[person_2] is being interviewed.",
+            "To wait for the bubbles around [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] talking about?",
+        "answer": [
+            "[person_2] will hurl the water bottle into the air.",
+            "[person_2] is talking about roller skating.",
+            "[person_2] is going to keep using her phone to film the historical reenactment.",
+            "[person_2] will listen to the music.",
+            "[person_2] is going to make a small snowball."
+        ],
+        "reason": [
+            "because [person_2] is a curious child and [person_2] want to mimic [person_2].",
+            "because [person_2] is looking at the bowl and wanting to feed the fish by herself.",
+            "[person_2] is in a roller skating ground.",
+            "[person_2] will stand and watch other people sing.",
+            "[person_2] is holding a piece of carpet."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_2] is standing in front of the skater?",
+        "answer": [
+            "[person_2] will not appear on stage.",
+            "[person_1] will be fun.",
+            "[person_1] may hurt his hand by the razor.",
+            "[person_1] will remind [person_2] and [person_1] to be quite.",
+            "[person_1] will be knocked down by the skater."
+        ],
+        "reason": [
+            "When [person_2] is on brink of hitting the door , [person_2] immediately closes the door.",
+            "Without support , [person_2] will be weightless.",
+            "the skater is moving at a high speed with colliding with [person_2].",
+            "because [person_2] , [person_2] or [person_2] are standing around the cannon.",
+            "Because [person_2] will be tired."
+        ]
+    }
+}

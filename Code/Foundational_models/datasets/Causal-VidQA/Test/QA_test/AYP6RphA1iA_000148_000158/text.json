@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] doing?",
+        "answer": [
+            "The room is very bright.",
+            "It is untidy.",
+            "It is large.",
+            "[person_1] and [person_2] are doing tai chi.",
+            "It is narrow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] slowly attacking [person_2]?",
+        "answer": [
+            "[person_1] is playing with the cups.",
+            "[person_1] is so fat.",
+            "[person_1] and [person_2] are analyzing hits in tai chi.",
+            "Because the [person_1] needs to keep the [person_1] door open.",
+            "Because the [person_1] wants to look for something in the [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2]?",
+        "answer": [
+            "[person_2] is going to perform music.",
+            "Perhaps [person_1] and [person_2] are teachers of tai chi.",
+            "[person_1] will reload the cannon.",
+            "It is going to continue to push the dry branches away.",
+            "[person_2] who is a man is going to tie the sausage."
+        ],
+        "reason": [
+            "[person_1] and [person_2] look very professional and it seems that they are making model to someone.",
+            "[person_1] is looking at dancers and two hands of [person_1] are clasping.",
+            "Her hair is not very long to do much more and from her divisional design we can infer it.",
+            "The woman hasn't made a few cookies yet.",
+            "Because only eating will make the kid thirsty."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not participating in the performance?",
+        "answer": [
+            "[person_1] would stop walking and bend down to pick up his bagpipes to check for any damage to his instrument.",
+            "[person_2] would be disciplined.",
+            "[person_2] might not be as famous as she is.",
+            "[person_1] wouldn't stack the dice all - in - one.",
+            "[person_2] would not be able to continue the performance."
+        ],
+        "reason": [
+            "[person_2] is a very confident athlete who has a lot of experience.",
+            "[person_2] needs someone who helps them do some hits so that [person_2] can analyze the moves of hitting and dealing with the hits.",
+            "There is no player near the edge of the pitch at that time.",
+            "If there's no enough strength to support an arrow fly off the bow and hit the target , the arrow will usually miss the target.",
+            "[person_2] is the referee of the match and it is necessary to have a referee who controls the match."
+        ]
+    }
+}

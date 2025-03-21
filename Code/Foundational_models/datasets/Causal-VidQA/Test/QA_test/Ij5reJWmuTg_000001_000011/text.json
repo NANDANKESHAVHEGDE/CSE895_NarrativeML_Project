@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [hand bag_1]?",
+        "answer": [
+            "[person_4] is \u00a0 in the room with [hand bag_1] and [person_4].",
+            "[hand bag_1] is sit on [hand bag_1].",
+            "[hand bag_1] is behind [person_4].",
+            "[person_4] is sitting on [person_4].",
+            "The [hand bag_1] is used for playing badminton."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] , [person_3] and [person_4] in the room?",
+        "answer": [
+            "Maybe [person_3] is a teacher.",
+            "[person_4] is teaching how to do a pull - up.",
+            "Because he needs a lot of force to snatch weight lifting.",
+            "Maybe [person_4] is having a party in the room.",
+            "They are learning tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "Who is [person_1]?",
+        "answer": [
+            "[person_1] may continue making the pottery.",
+            "[person_1] may be at KTV.",
+            "[person_1] may stay at home.",
+            "It looks like that [person_1] is the teacher who is teaching the other people in the room some tai chi movements.",
+            "She will consider whether to buy it?"
+        ],
+        "reason": [
+            "Because the bottom doesn't show.",
+            "This will make the color more even.",
+            "[person_1] looks really professional and the other people are imitating him.",
+            "There are so many people sitting around the tai chi court and watching [person_1] do tai chi.",
+            "It'll make the wings look better."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] were not in the room?",
+        "answer": [
+            "[person_2] , [person_3] and [person_4] might have no gossip with other people.",
+            "[person_1] may not be able to flip the bottle.",
+            "[person_2] , [person_3] and [person_4] won't have some gossip with other people.",
+            "[person_1] will go to the hospital.",
+            "[person_2] , [person_3] and [person_4] might have some gossip with other people."
+        ],
+        "reason": [
+            "[person_2] , [person_3] and [person_4] may be beginners of tai chi and they may not know what to do without [person_1]'s guidance.",
+            "Because [person_1] is using the comb to comb [person_1] hair . If [person_1] is not in the room , [person_1] doesn't need to comb [person_1] hair.",
+            "[person_2] , [person_3] and [person_4] cannot be beginners of tai chi and they may not know what to do without [person_1]'s guidance.",
+            "[person_1] rolled up [person_1]'s eyes after [person_1]'s first shot , no matter is because of the low score or the miss , we could tell that when things don't go well [person_1] will roll up [person_1]'s eyes.",
+            "[person_2] , [person_3] and [person_4] may be beginners of tai chi and they may know what to do without [person_1]'s guidance."
+        ]
+    }
+}

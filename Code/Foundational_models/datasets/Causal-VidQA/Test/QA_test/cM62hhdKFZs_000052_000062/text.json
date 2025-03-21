@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it bright?",
+        "answer": [
+            "[person_1] is wearing it in front of her.",
+            "[person_1] is placed next to [person_1].",
+            "[person_1] is put on the ground and next to [person_1].",
+            "[person_1] is between [person_1] and [person_1].",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in a baby swing?",
+        "answer": [
+            "Maybe [person_1] is doing exercise.",
+            "Because [person_1] is playing the toy organ.",
+            "Because [person_1] is playing the accordion on his chest.",
+            "Because [person_1] is playing the big gong.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is likely to sitting baby swing.",
+            "[person_1] is bound to play guitar.",
+            "[person_1] will continue shaping the [person_1].",
+            "[person_1] will drive to go fishing next.",
+            "[person_1] will finish counting money."
+        ],
+        "reason": [
+            "Because there's a car next to [person_1] and the bucket is in the car.",
+            "Because the [person_1] wants to go home for dinner.",
+            "[person_1] has successfully opened the bottle.",
+            "Maybe [person_1] likes to ride baby swing.",
+            "That man is wait for [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the maracas don't have the stones?",
+        "answer": [
+            "[person_1] would be alone in the room.",
+            "[person_1] won't play it anymore.",
+            "The boy's head will bleed.",
+            "Maybe [person_1] and his teammates will smile.",
+            "[person_1] would get mad."
+        ],
+        "reason": [
+            "It is impossible to remove the cork with a laundry rack.",
+            "[person_1] needs the printer to start to start printing.",
+            "The maracas will not make sound.",
+            "Because the foot of [person_1] may hit the box when [person_1] steps back.",
+            "There must be a winner and no one wants to lose."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in the garden.",
+            "[person_2] is in the yard.",
+            "[person_2] is standing on the grass.",
+            "[person_2] is on the street.",
+            "[person_2] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] next to the harp?",
+        "answer": [
+            "[person_2] is playing the harp.",
+            "[person_2] is playing chess with his friend.",
+            "[person_2] wants to play.",
+            "[person_2] is waiting for his turn to cut his hair.",
+            "[person_2] takes each cup and arranges them higher and higher."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bandage [person_2].",
+            "[person_1] is going to laugh.",
+            "[person_1] is going to keep looking at [person_2].",
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to kiss [person_2]."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "Maybe [person_1] likes to play with toys.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] is facing at [person_2].",
+            "[person_1] is snowmobiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] weren't there?",
+        "answer": [
+            "[person_2] would be able to sit on [chair_1].",
+            "[person_2] would flip the cake successfully.",
+            "[person_1] would not be able to sit on [chair_1].",
+            "[chair_1] would buy orange juice instead of making it.",
+            "[person_2] would not be able to sit on [chair_1]."
+        ],
+        "reason": [
+            "There would be many chairs that [person_2] can sit on.",
+            "There would be only [chair_1] for [person_2] to play.",
+            "There would be only [chair_1] that [person_1] was sitting on.",
+            "[chair_1] threw the axe towards the tree.",
+            "There would be only [chair_1] that [person_2] was sitting on."
+        ]
+    }
+}

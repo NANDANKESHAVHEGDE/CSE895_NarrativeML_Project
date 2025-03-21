@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "There is a large - sized black speaker behind [person_1].",
+            "It is black.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] here?",
+        "answer": [
+            "[person_1] is skating backward.",
+            "The foot of [person_1] is hurt.",
+            "[person_2] is playing darts.",
+            "[person_2] is helping [person_1] to trim shrubs.",
+            "[person_1] is helping [person_2] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep watching how [person_2] does.",
+            "[person_1] will try to hoop better.",
+            "It is predicted that [person_1] will will put it away.",
+            "[person_1] will open the ipad.",
+            "[person_1] will blow the clarinet again."
+        ],
+        "reason": [
+            "[person_1] just shines one shoe.",
+            "[person_1] is paying attention to this a lot.",
+            "Because [person_1] seems to be a trainer and is correcting the posture of [person_2].",
+            "To check the quality of the ipad.",
+            "[person_1] practices stacking cups on top of each other."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] kicked [person_1] on his stomach?",
+        "answer": [
+            "[person_1] and [person_1] would get serious injury on their heads.",
+            "[person_1] would be slightly hurt.",
+            "[person_1] will be panicked and feel sorry.",
+            "[person_1] would need shoulder straps.",
+            "There would be a fight between [person_2] and [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] is unable hit a ball by hands , [person_1] must have a bat . ",
+            "Because [person_1] would not be able to help [person_2] in tying his bow.",
+            "When [person_1] plays , he makes sure that the two columns of dices can stand straight.",
+            "The [person_1] looks at a book that has a music note chart.",
+            "Because [person_2]'s kick cannot deliver a blow to injure [person_1] seriously."
+        ]
+    }
+}

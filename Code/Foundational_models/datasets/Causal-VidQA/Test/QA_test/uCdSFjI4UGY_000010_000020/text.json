@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_1] is on the street.",
+            "[person_1] is on the field.",
+            "A bottle of mineral water.",
+            "No , it isn't.",
+            "[person_2] is in the large room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are both [person_1] and [person_2] wearing yellow t - shirt?",
+        "answer": [
+            "[person_1] is working out at the gym.",
+            "The boy is picking apples.",
+            "[person_1] is hitting on the gongs to check the sound of the gongs.",
+            "Because [person_1] and [person_2] are in one team.",
+            "[person_1] wears earrings to look prettier."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] will ask [person_2] to help [person_2].",
+            "[person_2] is going to recording a video.",
+            "[person_2] is going to keep watching [person_2].",
+            "[person_2] may keep learn to ride the scooter."
+        ],
+        "reason": [
+            "[person_2] is holding and looking at the camera.",
+            "[person_2] is tearing the wrapping paper.",
+            "He bends over and puts woods to the floor.",
+            "[person_2] is speaking very attentively.",
+            "There is a book in front of [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the camera drops in [person_3]'s head?",
+        "answer": [
+            "[person_3] would not eat the snack.",
+            "[person_3] will control the rein to make it stop.",
+            "[person_3] may hurt a shoulder.",
+            "The boy's head will bleed.",
+            "[person_3] may feel angry."
+        ],
+        "reason": [
+            "Because [person_3] needed specific glasses for bad eye sights.",
+            "Because [person_3] is going that way.",
+            "Because [person_3] may feel painful on his head.",
+            "After quarreling , [person_3] will be in a bad mood , so he will not in the mood to record the video.",
+            "All the eating utensils on [person_3] would fall to the ground."
+        ]
+    }
+}

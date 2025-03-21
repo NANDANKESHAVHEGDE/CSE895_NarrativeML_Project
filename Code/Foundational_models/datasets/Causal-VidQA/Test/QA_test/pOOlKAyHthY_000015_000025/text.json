@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a pink dress.",
+            "The [person_1] is wearing a coat and a beanie.",
+            "The [person_1] is playing with the dolls.",
+            "The [person_1] is wearing a sweater and pants.",
+            "The [person_1] is wearing a checked blouse."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] looking down?",
+        "answer": [
+            "Because [person_1] is unwrapping them.",
+            "Because [person_1] can't afford to go to the gym.",
+            "Because the [person_1] is wiping the round table underneath.",
+            "Because [person_1] is a child.",
+            "Because [person_1] wants to get a thing from the other end of the table."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to pick other blueberries.",
+            "The [person_1] is going to continue to wipe the round table.",
+            "The [person_1] may keep explaining something.",
+            "The [person_1] may keep teaching her dog.",
+            "The [person_1] may take another hat to wear."
+        ],
+        "reason": [
+            "The [person_1] observes the [person_1] and gives guide.",
+            "The [person_1] is looking down at the bicycle.",
+            "The [person_1] is still holding the table and the cloth.",
+            "[person_1] is holding a fishing rod.",
+            "The [person_1] finishes fixing the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] wore gloves?",
+        "answer": [
+            "[person_1] cannot see anything clearly.",
+            "The [person_1] could not read the newspaper.",
+            "[person_1] would drink to know the taste.",
+            "Maybe somebody can't understand what [person_1] is doing.",
+            "The hands of the [person_1] would be protected."
+        ],
+        "reason": [
+            "Because [person_1] is helpful.",
+            "The [person_1] is cleaning the table by hand.",
+            "There is a box next to [person_1] to hold money.",
+            "The surfboard cannot hold [person_1] back.",
+            "Without glasses , there are no tools to help correct vision."
+        ]
+    }
+}

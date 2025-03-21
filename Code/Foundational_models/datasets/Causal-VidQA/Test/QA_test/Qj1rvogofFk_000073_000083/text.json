@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in the living room.",
+            "[person_1] and [person_2] are in his office.",
+            "[person_1] and [person_2] are outside.",
+            "[person_1] and [person_2] are in a log cabin.",
+            "They are in roller skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2]?",
+        "answer": [
+            "[person_2] is ripping paper to give her daughter.",
+            "[person_2] is performing his side kick technique.",
+            "[person_1] and [person_2] are playing games outside.",
+            "Because this is a mind training game.",
+            "[person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to smash [bench_1].",
+            "[person_1] is going to introduce her research.",
+            "[person_1] is going to continue to shovel plaster to the machine until it is enough.",
+            "[person_1] will stop playing the electric guitar.",
+            "[person_1] is going to meet friends."
+        ],
+        "reason": [
+            "[person_1] is rubbing the shoe over and over again.",
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] holds a stick.",
+            "[person_1] ground the stone into a shape.",
+            "[person_1] has finished the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [car_1] disappeared?",
+        "answer": [
+            "Maybe [person_1] would have finished the food in the bowl.",
+            "[person_1] would sit in the [person_1].",
+            "[person_1] would be happy.",
+            "[car_1] may not work.",
+            "[person_1] and [person_2] would call police."
+        ],
+        "reason": [
+            "The [person_2] holds the shot carefully and identifies the direction.",
+            "[person_1] have no hands to answer the phone.",
+            "The front wheel is a must for [person_1].",
+            "Answering the phone call takes [person_1] some minutes.",
+            "Because [person_1] and [person_2] would be lost a transportation."
+        ]
+    }
+}

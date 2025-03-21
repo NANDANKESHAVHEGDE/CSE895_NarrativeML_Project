@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is \u00a0 black.",
+            "The shirt is blue.",
+            "The shirt color is yellow.",
+            "The shirt is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] lying with [person_2]?",
+        "answer": [
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] is showing that the fruit is so hard.",
+            "[person_2] wants to teach [person_1] something.",
+            "[person_1] and [person_2] are skating together.",
+            "[person_1] is \u00a0 smoking hookah."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue smoking.",
+            "[person_1] is going to skateboard.",
+            "[person_1] is going to spread the whipped cream over the [person_1] until it is done perfectly.",
+            "[person_1] will turn around and jump from this side to the other side of the jumping course.",
+            "[person_1] may climb the tree."
+        ],
+        "reason": [
+            "[person_1] may continue lying.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "The car [person_1] is waiting for hasn't come yet.",
+            "[person_1] just eats food and then he will drink beer.",
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] may not keep jumping.",
+            "The machine will stop working.",
+            "The light will be off.",
+            "[person_2] may not keep shaking.",
+            "The microphone will not be worked."
+        ],
+        "reason": [
+            "[person_1] will hug the man.",
+            "[person_1] will stop skating.",
+            "[person_1] may not keep presenting.",
+            "The roller skating rink will be dark then.",
+            "[person_1] will stop smoking."
+        ]
+    }
+}

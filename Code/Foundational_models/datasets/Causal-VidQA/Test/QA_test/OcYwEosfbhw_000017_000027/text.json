@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the shredding machine?",
+        "answer": [
+            "It's short curly hair.",
+            "It was a net and a basketball.",
+            "It is on the floor.",
+            "It's white.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the living room?",
+        "answer": [
+            "Maybe [person_1] wants to practice to strengthen the hand.",
+            "Because [person_1] wants to relieve stress.",
+            "[person_1] wants to exercise to change body.",
+            "Because [person_1] is waiting for the mother.",
+            "[person_1] is playing with [person_2] ."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            " [person_2] is going to have a rest.",
+            "[person_2] is going to hit the bull's eye.",
+            "[person_2] is going to decide if [person_1] will shred the paper or not.",
+            "[person_2] is going to keep stomping grapes.",
+            "[person_2] is going to get off the vehicle."
+        ],
+        "reason": [
+            "[person_1] looks at the paper in his hand.",
+            " [person_2] flies to the chair.",
+            "Maybe [person_2] can't keep balance for long.",
+            "[person_1] is putting his ear on the table.",
+            " [person_1]'s hair is wet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the shredding machine weren't in the room?",
+        "answer": [
+            "[person_1] will stop the dog.",
+            "[person_1] and [person_2] might go somewhere to recycle paper.",
+            "The man who holds the rope will make the empty camel carry the man.",
+            "[person_1] will let the dog sit at the ground.",
+            "[person_1] and [person_2] would not kiss."
+        ],
+        "reason": [
+            "Because there is no gravity.",
+            "The kitchen cabinet is above the [person_2].",
+            "Because [person_2] wouldn't be able to zip it.",
+            "The paper used need shredding.",
+            "Because the camera would not fall off."
+        ]
+    }
+}

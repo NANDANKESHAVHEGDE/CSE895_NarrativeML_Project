@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_2] wearing?",
+        "answer": [
+            "The power socket is on the wall behind [person_2].",
+            "[person_2] is made of wood.",
+            "It is lying on the ground in front of [person_2].",
+            "It's green.",
+            "[person_2] is wearing a jacket."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] in the room?",
+        "answer": [
+            "[person_2] and [person_3] can not read the book so they have to listen to [person_1].",
+            "[person_1] , [person_2] , [person_3] , and [person_1] are practicing together as a band.",
+            "Because [person_2] is [person_1] in the mirror.",
+            "Because [person_1] needs a lot of power to lift the weights.",
+            "Maybe [person_1] , [person_2] and [person_3] are doing a live recording on the subject of make up."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] maybe continues to dance.",
+            "[person_3] is going to dig for seafood.",
+            "[person_3] is going to avoid attacks from [person_2].",
+            "[person_3] is going to apply eyeliner for [person_2].",
+            "[person_3] may drink some water."
+        ],
+        "reason": [
+            "Maybe [person_3] is a makeup teacher and [person_3] is teaching viewers how to apply eyeliner.",
+            "It is [person_3]'s turn to talk.",
+            "[person_3] gave the microphone to [person_3].",
+            "[person_3] looks like a new hand.",
+            "[person_3] is a judge."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] apply eyeliner well for [person_2]?",
+        "answer": [
+            "It is hard for [person_2] to do hooping.",
+            "[person_2] will push [person_2] away.",
+            "The bird will move to other places to eat.",
+            "Viewers will be satisfied and the recording will get many views.",
+            "[person_3] may gain initiative in the combat."
+        ],
+        "reason": [
+            "Good quality will attract many viewers.",
+            "[person_2] is playing on the slide near [person_3].",
+            "It is a fair game to play.",
+            "Only [person_3] can make [person_3] go home.",
+            "Doing chin - ups uses up the energy."
+        ]
+    }
+}

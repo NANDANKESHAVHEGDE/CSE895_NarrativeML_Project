@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s pants?",
+        "answer": [
+            "The floor is white color.",
+            "Orange.",
+            "A segway.",
+            "[person_1] is wearing black pants with white line.",
+            "Adidas."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is doing exercise.",
+            "[person_2] is playing didgeridoo alone.",
+            "Because [person_1] is sitting weaving.",
+            "[person_1] is playing with his toys.",
+            "[person_1] is practicing playing flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to see the gift.",
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to greet and thank the audience.",
+            "[person_1] may go home.",
+            "[person_1] may keep trying to play better."
+        ],
+        "reason": [
+            "[person_1] needs to practice many times.",
+            "[person_1] plays very enthusiastically.",
+            "[person_1] doesn't finish sticking the wallpaper.",
+            "[person_1] wants to score.",
+            "She is looking forward to playing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the didgeridoo is lost?",
+        "answer": [
+            "They will very difficult.",
+            "The other man nearby will take the man who is exercising to the hospital.",
+            "The bottle will fall down.",
+            "All the people will run away immediately.",
+            "[person_1] may feel regret."
+        ],
+        "reason": [
+            "[person_1] will fix it.",
+            "When the party is over , they will leave.",
+            "Because they cook with the materials on the table . If there is nothing on the table , they can't cook.",
+            "[person_1] can not see where to catch it.",
+            "[person_1] will buy a new one."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s sweater?",
+        "answer": [
+            "[person_1] is wearing pink lipstick.",
+            "There are ingredients.",
+            "The chair to [person_1]'s left is blue.",
+            "It is white.",
+            "It's black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] is waking on the rope?",
+        "answer": [
+            "Because the [person_1] is going to ride the scooter.",
+            "[person_1] is practicing before the competition.",
+            "[person_1] is describing how [person_1] trim shrubs.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is advising on how to play guitar better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may climb the tree.",
+            "[person_1] is going to try practicing.",
+            "[person_1] may clean the bathroom.",
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] may stop."
+        ],
+        "reason": [
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] used the tape on the table.",
+            "[person_1] looks tired and has put the barbell back.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is going to feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it gets dark?",
+        "answer": [
+            "They couldn't drive them.",
+            "The man will beg for [person_1]'s agreement.",
+            "[person_1] might fall down from the mechanic bull.",
+            "[person_1] can't continue practice.",
+            "[person_1]'s photoshoot might be delayed."
+        ],
+        "reason": [
+            "Doing exercises can build physical strength.",
+            "When [person_1] pass the ball , the ball almost hit [person_1].",
+            "Because [person_1] would not be able to take [person_1]'s picture with his phone anymore.",
+            "He doesn't want to appear on the public.",
+            "[person_1] can come back home and rest."
+        ]
+    }
+}

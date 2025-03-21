@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is piggy bank?",
+        "answer": [
+            "Piggy bank is in a corner on the table.",
+            "it is red.",
+            "[person_1] is wearing white shirt.",
+            "[person_1] and [person_1] are at the workshop.",
+            "[person_1] is in a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a piggy bank on the table?",
+        "answer": [
+            "Because it's easy to get over there.",
+            "Because it looks neat.",
+            "[person_1] is looking at the book on the table to play the flute.",
+            "That is [person_1] desk.",
+            "[person_1] is fond of playing with cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will carry the bed into the warehouse.",
+            "[person_1] is bound to play guitar.",
+            "[person_1] will continue to blow.",
+            "[person_1] will go back home.",
+            "[person_1] will continue to eat."
+        ],
+        "reason": [
+            "[person_1] is touching the shoe.",
+            "[person_1] is holding the guitar.",
+            "Because [person_1] has already finished the training and it is [person_1]'s turn.",
+            "[person_1] is so happy . [person_1] received a lovely gift.",
+            "[person_1] is catching the toy in the green box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "The room will be bright.",
+            "[person_1] maybe afraid.",
+            "The room will be dark.",
+            "[person_1] will stop instructing.",
+            "The room will be still bright."
+        ],
+        "reason": [
+            "[person_1] is a kid.",
+            "The light will not work.",
+            "[person_1] is a baby who is often fear of the dark.",
+            "[person_1] is a kid.",
+            "The audience can't see anything in the darkness."
+        ]
+    }
+}

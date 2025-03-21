@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in a small library.",
+            "[person_1] is in bathroom.",
+            "[person_1] is in the garden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a wooden plank?",
+        "answer": [
+            "[person_1] is shaving and cutting his hair.",
+            "Maybe [person_1] makes for fun.",
+            "[person_1] is planing wood.",
+            "[person_1] waxed his legs successfully by himself.",
+            "[person_1] wants to show his talent."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to record a video about herself.",
+            "[person_1] is going to keep working.",
+            "[person_1] may sing again.",
+            "[person_1] may go home."
+        ],
+        "reason": [
+            "She is looking forward to playing.",
+            "[person_1] looks have a lot of energy.",
+            "[person_1] hasn't finished his work yet.",
+            "Because the floor needs fixing.",
+            "[person_1] put many bottle on [person_1] , which indicates that she wants to show how she opens different kind of bottles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a sudden power outage ?",
+        "answer": [
+            "They will cut down the trees next to the house.",
+            "[person_1] will not be able to continue working.",
+            "All the people at the scene will take out their flashlights.",
+            "[person_1] will be able to continue working.",
+            "The whole place is darkened."
+        ],
+        "reason": [
+            "The wood planer needs no electricity to work.",
+            "Because [person_1] can not make pottery without electricity.",
+            "Spoiled meat cannot be sold in restaurants.",
+            "To replace the broken one.",
+            "The wood planer needs electricity to work."
+        ]
+    }
+}

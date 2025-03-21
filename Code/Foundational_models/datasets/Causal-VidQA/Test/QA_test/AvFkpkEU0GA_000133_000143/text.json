@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "The sweater is black.",
+            "It is brown.",
+            "[chair_1] is black.",
+            "[chair_1] is an baby.",
+            "[chair_1] is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is reading the newspaper.",
+            "[person_1] is making the lizard smoke the cigarette.",
+            "[person_1] is reaching a hand to the right to get the bottle cap of the milk bottle.",
+            "[person_1] is reading a newspaper.",
+            "[person_1] is opening the presents."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep on opening the gifts.",
+            "Maybe [person_1] will continue practice.",
+            "[person_1] will continue to use gestures to let the people next to him understand.",
+            "Find somewhere to relax.",
+            "[person_1] will show many skills"
+        ],
+        "reason": [
+            "[person_1] has a lot of presents on the floor.",
+            "To challenge a more difficult position.",
+            "[person_1] feels excited.",
+            "[person_1] finished playing.",
+            "In the video , [person_1] stopped tattooing once to take a break and clean his pattern and he will probably do that again."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "Maybe [person_1] will persuade [person_1] to stop crying.",
+            "Maybe [person_2] will hold the [person_1].",
+            "Maybe [person_1]'s parents will coax into smiling.",
+            "Perhaps the mother of [person_1] will persuade [person_1] to stop crying.",
+            "[person_1] mother will hold [person_1]."
+        ],
+        "reason": [
+            "[person_1] feels sad.",
+            "The mother loves [person_1].",
+            "[person_2] loves [person_1].",
+            "The blanket is covered on [person_1]'s face.",
+            "[person_2] or [person_1] may get distracted and not watch [person_1] carefully."
+        ]
+    }
+}

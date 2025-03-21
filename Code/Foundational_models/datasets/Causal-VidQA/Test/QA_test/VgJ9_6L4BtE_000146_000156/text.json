@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is skating in stage.",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in a small library.",
+            "[person_1] is on the street.",
+            "[person_1] is in the garden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] waving arms?",
+        "answer": [
+            "[person_2] is practicing dynamic plate spinning skill.",
+            "[person_2] is helping [person_2] train.",
+            "Because [person_2] is reading newspaper.",
+            "Because [person_2] who has practiced is already familiar with the exercise.",
+            "[person_2] wants to keep balance."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_2] next?",
+        "answer": [
+            "[person_2] will continue skiing forward.",
+            "[person_2] will run to the middle of the field.",
+            "[person_2] will continue doing exercise.",
+            "[person_2] will skate to the center of the stage.",
+            "[person_2] will continue blowing the clarinet."
+        ],
+        "reason": [
+            "[person_2] wants to skate.",
+            "[person_2] is running very fast.",
+            "There is no signs showing that [person_2] will stop.",
+            "He is practicing Tai Chi moves with swords in a room.",
+            "[person_2] has some of the ingredients laid out in front of her to begin making it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] could not keep balance?",
+        "answer": [
+            "They would stop the game and deal with the mess.",
+            "[person_2]'s words would not be as clear.",
+            "[person_2] would be injured.",
+            "[person_2] could not skate.",
+            "[person_2] will be drenched."
+        ],
+        "reason": [
+            "[person_2] can not be balance on a slippery floor.",
+            "[person_2] does not have umbrella.",
+            "[person_2] will fall.",
+            "Because they had to receive proper medical treatment before going back to the field.",
+            "[person_2] can't work without splash paint."
+        ]
+    }
+}

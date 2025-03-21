@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the room?",
+        "answer": [
+            "The floor is white color.",
+            "Black.",
+            "The room is pink.",
+            "The room is blue and white.",
+            "The box is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is sitting and stacking cups.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is playing harmonica.",
+            "[person_1] is playing with paper.",
+            "[person_1] is washing his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put didgeridoo inside [suitcase_1].",
+            "[person_1] is going to freely run to all the points on the course without being hindered by his opponent.",
+            "Maybe [person_1] is going to move quicker.",
+            "[person_1] will get more cards",
+            "[person_1] is about to eat."
+        ],
+        "reason": [
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is snowmobiling.",
+            "The [suitcase_1] is on the floor.",
+            "Because [person_1] is lifting the beehive.",
+            "Because [person_1] is wearing a baby bib."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the didgeridoo is bigger?",
+        "answer": [
+            "[person_1] won't be able to lift it.",
+            "Balloons will be exploded and [person_1] will feel bad.",
+            "[person_1] will be able to lift it.",
+            "[person_1] would fall off his horse.",
+            "[person_1] won't be able to drop it."
+        ],
+        "reason": [
+            "The horse is scared.",
+            "[person_1] won't be able to play.",
+            "[person_1] does not wear work gloves , and [person_1] will be easily injured if [person_1] makes a mistake.",
+            "[person_1] will be able to play.",
+            "To find why the snow blower doesn't work."
+        ]
+    }
+}

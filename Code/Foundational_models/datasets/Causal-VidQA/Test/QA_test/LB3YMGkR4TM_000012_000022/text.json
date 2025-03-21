@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[person_1] is next to [chair_1].",
+            "[person_1] is sitting on [chair_1].",
+            "The [chair_1] is next to the wall.",
+            "The [chair_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile?",
+        "answer": [
+            "[person_1] is delighted with the gift received.",
+            "[person_1] is tickling him.",
+            "[person_1] does not succeed in the game.",
+            "[person_1] and [person_1] are enjoying the song's melody.",
+            "The room is very clean."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue laughing.",
+            "[person_1] is going to go home.",
+            "[person_1] is going to continue waxing back for [person_1].",
+            "[person_1] is going to take the gift out of the box.",
+            "[person_1] is going to continue eating."
+        ],
+        "reason": [
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [person_1].",
+            "[person_1] is going to go back home.",
+            "[person_1] fell under the bed.",
+            "[person_1] sat and put the gift on the lap."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the gift box is broken?",
+        "answer": [
+            "[person_1] will not be happy.",
+            "She will bind up.",
+            "[person_1] will help [person_1] to get up.",
+            "[person_1] will find a rope.",
+            "[person_1] could hit [person_1]."
+        ],
+        "reason": [
+            "[person_1] will have to charge [person_1].",
+            "The gift box is not packed carefully as [person_1] wants.",
+            "[person_1] will put the plate down.",
+            "Because wet environement is not suitable for bees.",
+            "The staff need to make assure the ceremony goes on."
+        ]
+    }
+}

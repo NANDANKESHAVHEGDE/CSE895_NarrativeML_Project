@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite big.",
+            "The room is large.",
+            "It is narrow.",
+            "It is very clean.",
+            "It is quite dark."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is sitting on the chair and using the piano.",
+            "[person_1] is teaching how to soften the hand muscles of a paralyzed person.",
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is playing chess with someone.",
+            "[person_1] is raising eyebrows in front of the mirror."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand up.",
+            "[person_1] is going to think how to win.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to put the donut in his mouth.",
+            "[person_1] is going to move his knife from the left whetstone bar to the right whetstone bar."
+        ],
+        "reason": [
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] is very careful.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wins?",
+        "answer": [
+            "[person_1] will hit the person.",
+            "Maybe [person_1] will be very happy.",
+            "[person_1] , [person_1] , and [person_1] will congratulate [person_1].",
+            "Maybe [person_1] will be a medal.",
+            "His feet would be seriously hurt."
+        ],
+        "reason": [
+            "[person_1] becomes the loser.",
+            "[person_1] will be lucky.",
+            "The match still performs [person_1]'s ability.",
+            "[person_1] will want to continue smoking.",
+            "[person_1] will start a new game."
+        ]
+    }
+}

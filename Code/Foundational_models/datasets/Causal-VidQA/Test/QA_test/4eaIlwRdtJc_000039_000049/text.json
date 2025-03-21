@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] in or out of the house?",
+        "answer": [
+            "[person_1] and [person_1] is at a musical event.",
+            "[person_1] is in the bathroom.",
+            "They are in the roller skating rink.",
+            "[person_1] is in the house.",
+            "There are a lot of pictures."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_1] sit on the chair?",
+        "answer": [
+            "[person_1] is \u00a0 preparing to somersault.",
+            "[person_1] is trying moon walking.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is playing in a happy way.",
+            "[person_1] is doing [person_1] makeup."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do before [person_1] leave?",
+        "answer": [
+            "[person_1] will continue with the training.",
+            "[person_1] will turn off the lights.",
+            "[person_1] will start the journey.",
+            "[person_1] will applaud and sing the birthday song.",
+            "[person_1] will turn back to the original start point."
+        ],
+        "reason": [
+            "There are many wine bottles around.",
+            "[person_1] is afraid to cut nails for that it doesn't has the experience before.",
+            "Because we need to save electricity.",
+            "There are a lot of people who are doing exercises in this room.",
+            "The horse is for sale."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] is hungry?",
+        "answer": [
+            "[person_1] will stop dancing.",
+            "[person_1] will start playing faster.",
+            "[person_1] will start dancing.",
+            "[person_1] will be very happy.",
+            "[person_1] cannot stop dancing."
+        ],
+        "reason": [
+            "[person_1] will have lunch.",
+            "She is going to sleep.",
+            "[person_1] will not have lunch.",
+            "Their parents are here.",
+            "[person_1] will have cry."
+        ]
+    }
+}

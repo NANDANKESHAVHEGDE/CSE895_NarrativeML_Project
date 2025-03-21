@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [remote_1]?",
+        "answer": [
+            "It is on the table.",
+            "The hat is white.",
+            "[remote_1] is on the floor.",
+            "[remote_1] is on the [remote_1].",
+            "[remote_1] is on the road and next to the [remote_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] practice by [bicycle_1]?",
+        "answer": [
+            "He prepares before the competition.",
+            "[person_1] is learning how to ride unicycle.",
+            "Because [person_1] wants to propose loudly.",
+            "[person_1] is excited about this action.",
+            "Because to play badminton , there are at least two people."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the preparation?",
+        "answer": [
+            "[person_1] will begin to ride [bicycle_1] . ",
+            "[person_1] will check the result.",
+            "He may eat.",
+            "[person_1] will eat the them.",
+            "[person_1] will go back home."
+        ],
+        "reason": [
+            "Because from what [person_1] showed we can tell that brush has that function.",
+            "Because she eat with her hands and her hands get dirty.",
+            "[person_1] has bent down and used the spade to cement the floor.",
+            "[person_1] seems to be quite curious about what it is.",
+            "[person_1] is moving forward with a slow speed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it becomes dark?",
+        "answer": [
+            "[person_1] can't see [bicycle_1].",
+            "[person_1] would not be able to throw the discus that far.",
+            "The people can stop practice.",
+            "The team would lack [person_1].",
+            "The other dancers would continue the dance."
+        ],
+        "reason": [
+            "It can not be eat.",
+            "The microphone is not enough.",
+            "[person_1] will stop practice.",
+            "The player bets coins before playing.",
+            "The clarinet is too long for [person_1] to hold while standing."
+        ]
+    }
+}

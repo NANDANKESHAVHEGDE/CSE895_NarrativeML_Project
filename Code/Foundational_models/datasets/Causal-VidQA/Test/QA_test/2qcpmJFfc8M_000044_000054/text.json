@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is roller - skating on the road.",
+            "[person_1] is exercising with a sledgehammer.",
+            "[person_1] is playing the bass guitar on his hands.",
+            "[person_1] is throwing a basketball.",
+            "[person_1] is breaking a concrete block."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] use a sledgehammer to exercise?",
+        "answer": [
+            "[person_1] lies on the ground , lifting the hammer from the ground and switch it between his two hands.",
+            "[person_1] is playing the guitar for everyone to hear.",
+            "[person_1] is playing guitar.",
+            "[person_1] takes each cup and arranges them higher and higher.",
+            "[person_1] swung the cup and picked up the dice one by one."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after he finishes his exercise?",
+        "answer": [
+            "[person_1] wants to keep playing with the harmonica.",
+            "The [person_1] will continue to draw the flower.",
+            "[person_1] will stand up firstly.",
+            "The [person_1] will smile.",
+            "The [person_1] will command the [person_1] carefully."
+        ],
+        "reason": [
+            "Because the [person_1] thinks it's fun to play this way.",
+            "[person_1] wants to achieve the goal.",
+            "Maybe there's something in [person_1] that the [person_1] wants.",
+            "[person_1] is showing responsibility to the audience.",
+            "[person_1] will not lie on the ground all the time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] released the hammer when exercising?",
+        "answer": [
+            " [person_1] and [person_1] will not attract the goats.",
+            "His nose or mouth would be hurt.",
+            "The feet of [person_1] foot will be hurt.",
+            "His nose or mouth would not be hurt.",
+            "[person_1] will go to the hospital."
+        ],
+        "reason": [
+            "There are many wine bottles on the table.",
+            "The hammer would slam at his face.",
+            "[person_1] will take it easy.",
+            "The hammer would slam at his leg.",
+            "Because the a wounded hand will be infected easily."
+        ]
+    }
+}

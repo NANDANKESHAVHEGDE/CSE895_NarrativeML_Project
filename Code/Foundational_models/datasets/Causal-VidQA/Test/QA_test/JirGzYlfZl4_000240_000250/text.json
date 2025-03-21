@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the pant [person_1] wearing?",
+        "answer": [
+            "It is black and white.",
+            "The pant is black.",
+            "It is pink.",
+            "It is purple.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising her hands ?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] is snatching weight - lifting.",
+            "[person_1] is raising the sports ball up and down in front of his chest.",
+            "Because [person_1] is joining the competition.",
+            "The [person_1] seems to be curious about the refrigerator door."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue lifting.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to step forward.",
+            "[person_1] is going to a workout."
+        ],
+        "reason": [
+            "Maybe [person_1] is practicing.",
+            "[person_1] showed the snake and kept stepping forward.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is finishing the product.",
+            "[person_1] is not tired yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [cup_1] is dropped ?",
+        "answer": [
+            "[cup_1] could not do the massage.",
+            "[cup_1] will be broken into pieces.",
+            "[cup_1] would be angry.",
+            "The water in [cup_1] was spilled.",
+            "[cup_1] will feel dizzy."
+        ],
+        "reason": [
+            "Because the roller coaster runs by electricity.",
+            "[cup_1] is riding a unicycle on the stairs.",
+            "[cup_1] is a kid and the shirt is quite big for [cup_1].",
+            "The ground is very wet in the rain.",
+            "There is water in the cup."
+        ]
+    }
+}

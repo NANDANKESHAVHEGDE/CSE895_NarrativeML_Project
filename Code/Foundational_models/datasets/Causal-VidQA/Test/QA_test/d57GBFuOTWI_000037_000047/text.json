@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [microwave_1] ?",
+        "answer": [
+            "[microwave_1] has red bagpipes.",
+            "The [microwave_1] is on the shelf.",
+            "[microwave_1] is in front of the house door.",
+            "[microwave_1] is on the kitchen table.",
+            "[microwave_1] is next to the windows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] appear in this room ?",
+        "answer": [
+            "[person_1] is satisfied with the performance.",
+            "[person_1] is standing on hands.",
+            "[person_1] is doing it for show the skill.",
+            "[person_1] is doing a workout in a great way.",
+            "The accordion is so big , so [person_1] can't play it."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will back up.",
+            "[person_1] will put the hand down.",
+            "[person_1] will keep walking.",
+            "[person_1] will continue to play.",
+            "[person_1] is going to take out the paint roller."
+        ],
+        "reason": [
+            "[person_1] is a baker and [person_1] is adding flour into cake pan to bake.",
+            "[person_1] is spreading the napkin to fold.",
+            "[person_1] is practicing.",
+            "[person_1] is greeting done.",
+            "Because when the dish is cooked , it needs to be put on a plate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feel hungry ? ?",
+        "answer": [
+            "[person_1] will find something to eat.",
+            "The taste of salad will be bad.",
+            "[person_1] would not be injured.",
+            "[person_1]'ll stop climbing and go home.",
+            "[person_1] would not have a chance to say anything"
+        ],
+        "reason": [
+            "Maybe [person_1] will not have anything to shake the dices.",
+            "Because [person_1] is eager to eat watermelon.",
+            "The height between [person_1] and the floor is not very high . So , [person_1] will be fine.",
+            "[person_1] is in the kitchen.",
+            "The [person_1] is holding the accordion correctly."
+        ]
+    }
+}

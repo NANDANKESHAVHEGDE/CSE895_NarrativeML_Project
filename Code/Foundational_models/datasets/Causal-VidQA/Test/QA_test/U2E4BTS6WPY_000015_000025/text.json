@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the newspaper?",
+        "answer": [
+            "The color of [person_1] is black.",
+            "[person_1] is black.",
+            "The newspaper is being held by a person.",
+            "[person_1] is brown.",
+            "It is on the hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is opening the presents.",
+            "[person_1] is painting the [person_1] on the table.",
+            "[person_1] is instructing [person_1] about the book.",
+            "[person_1] is reaching a hand to the right to get the bottle cap of the milk bottle.",
+            "[person_1] is reading the newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep tapping the pen with his right hand.",
+            "[person_1] may turn on the water pipe.",
+            "[person_1] may hold the bear.",
+            "[person_1] will continue to give the newspaper for [people_2].",
+            "[person_1] may take off [person_1]'s gloves."
+        ],
+        "reason": [
+            "[person_1] wants to [person_2] read the newspaper.",
+            "[person_1] is looking at [person_2] who is jumping.",
+            "Because of the snow , the road is frozen . Maybe [person_1] does it for fun.",
+            "Because [person_1] has already massaged the left foot of the customer.",
+            "Because [person_1] just turned half."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] continues throw the newspaper?",
+        "answer": [
+            "[person_1] will eat the watermelon with spoon.",
+            "Maybe [person_1] will startle and back.",
+            "Maybe [person_2] will go back his room.",
+            "[person_1] won't give anymore.",
+            "Maybe [person_1] will be good at this action."
+        ],
+        "reason": [
+            "It is bleeding.",
+            "[person_1] will read alone.",
+            "[person_1] will play alone.",
+            "Because [person_1] makes money out of it.",
+            "It is necessary for [person_2] to be naked when enjoying massage."
+        ]
+    }
+}

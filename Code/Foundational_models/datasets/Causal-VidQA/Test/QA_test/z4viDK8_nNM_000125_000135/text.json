@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stack the cups diagonally?",
+        "answer": [
+            "The feet of [person_1] got stuck with the rope.",
+            "Because [person_1] tries to clamp the beer cap with his belly meat.",
+            "[person_1] wants to stack the dice.",
+            "Because [person_1] finds the game interesting.",
+            "Because [person_1] is using the rule to stack."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to jump .",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] is going grind the knife.",
+            "Maybe [person_1] is going to start stacking cups.",
+            "[person_1] will be naughty [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] is going to chop something.",
+            "To cut [person_1] into small pieces.",
+            "Because [person_1] is getting the bee box.",
+            "[person_1] is collecting the cup.",
+            "[person_1] is [person_1]'s partner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is turn off?",
+        "answer": [
+            "Maybe [person_1] will go outside.",
+            "[person_1] maybe afraid.",
+            "The head of [person_1] will blood.",
+            "The actors on the stage will panic.",
+            "[person_1] will go to make more bubble water."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "Because the oven doesn't work.",
+            "To clean the floor.",
+            "Because they only focus on the dancing.",
+            "The road gets muddy when it rains."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's hold by [person_1]?",
+        "answer": [
+            "A bottle of mineral water.",
+            "[person_1] is on the street.",
+            "[person_1] is on the field.",
+            "[person_1] is in the large room.",
+            "The [person_1] is quite big."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] screw the cap back on?",
+        "answer": [
+            "Otherwise the water will spill out.",
+            "[person_1] is recording his hands so he can teach people how to play the song he's playing.",
+            "For fear of splashing the juice everywhere.",
+            "[person_1] finds it interesting.",
+            "[person_1] is having some exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may get out of the recording room.",
+            "[person_1] is going to try to make the water bottle stand up.",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] may dance with [person_1]."
+        ],
+        "reason": [
+            "[person_1] wants to reach higher.",
+            "[person_1] wants to relax with this game.",
+            "[person_1] is standing on a skateboard.",
+            "[person_1] is a very good surfer.",
+            "[person_1] has already tried once but failed . So he will keep trying."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] success to let the water bottle stand on?",
+        "answer": [
+            "[person_1] will go to check the light.",
+            "[person_1] will try to get more.",
+            "[person_1] would not be able to give it to [person_1].",
+            "[person_1] will be so happy that he will even jump.",
+            "[person_1] will stop playing flute."
+        ],
+        "reason": [
+            "There is no light in the room.",
+            "People jump when they are happy.",
+            "The power will be off.",
+            "Because the [person_1] looks like a teacher and should help the injured student.",
+            "To check the condition of the drill."
+        ]
+    }
+}

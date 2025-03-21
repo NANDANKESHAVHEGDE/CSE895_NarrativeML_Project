@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing?",
+        "answer": [
+            "The [person_1] is dark brown.",
+            "The [person_1] is wearing a cap.",
+            "The [person_1] is wearing a striped tee and denim shorts.",
+            "[person_1] is small.",
+            "[person_1] is wearing a blue shirt with gray pants."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] standing in front of [person_2]?",
+        "answer": [
+            "To teach [person_1] how to make sushi.",
+            "[person_1] wants to sync the drumbeats with the music.",
+            "[person_1] is showing the rest of the yoga class how to perform the yoga techniques.",
+            "[person_1] is squeezing oranges for juice.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will finish playing his song and then leave through the exit next to him.",
+            "[person_1] will close her mouth around the lollipop to suck it better so she can finish it more effectively.",
+            "[person_1] will continue tapping the pen until the track is completed.",
+            "[person_1] will continue to play the song.",
+            "[person_1] will instruct the class to hold this yoga position for a little bit longer , then let them relax and release their foot."
+        ],
+        "reason": [
+            "[person_1] is instructing , so she will want her students , including [person_2] , to perform this position as effectively as possible.",
+            "[person_1] is teaching [person_2] how to wash and dry their hands because they're a baby.",
+            "There is no signs showing that [person_1] will stop.",
+            "[person_1] is having fun walking [person_2] and will want to continue until they get bored of it.",
+            "[person_1] is teaching people such as [person_1] how to sheer sheep."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [cup_1] fell over behind [person_1]?",
+        "answer": [
+            "[person_1] will yell at the person sitting in [person_1].",
+            "[person_1] will hold [cup_1]'s hand so [cup_1] can't hit [person_1].",
+            "[person_1] would fall on the table.",
+            "the contents of [cup_1] would begin to spill out onto the ground , so [person_1] would want to stop to clean up the spill.",
+            "The cream on [person_1] will leak and fall onto the ground."
+        ],
+        "reason": [
+            "they might be playing a slapping game.",
+            "Because [person_1]'s kick can deliver such a blow to injure [person_1] seriously.",
+            "Because the arms of [person_1] would catch fire from [cup_1].",
+            "[person_1] wouldn't want the contents of [cup_1] to ruin anything and make a mess , so she would stop to clean it up quickly.",
+            "There are many chairs around."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the eyeliner [person_1] holding?",
+        "answer": [
+            "The speaker is black.",
+            "The eyeliner is black.",
+            "The [person_1] is holding a coat.",
+            "[person_1] and [person_1] are playing violins.",
+            "It is an electronic string of a microphone."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have an eyeliner in her hand?",
+        "answer": [
+            "It is possible that [person_1] is learning to play the harmonica.",
+            "[person_1] is wearing make - up.",
+            "[person_1] reminded and held the [person_1]'s hand.",
+            "[person_1] is trying to play the harmonica.",
+            "[person_1] wants to have a rest."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to keep playing drums.",
+            "[person_1] intends to keep playing the organ.",
+            "[person_1] intends to stop spin the hoop.",
+            "[person_1] intends to continue playing piano.",
+            "[person_1] intends to draw eyeliner."
+        ],
+        "reason": [
+            "[person_1] is walking away from the keyboard.",
+            "[person_1] uses her hands to apply lip balm.",
+            "[person_1] holds a mirror in her hand and applies mascara.",
+            "[person_1] used pencil eyeliner to draw eyeliner.",
+            "[person_1] is picking a ball up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has nice eyeliner ?",
+        "answer": [
+            "[person_1] will play the flute.",
+            "[person_1] will have more beautiful eyes.",
+            "Maybe [person_1] will take a break.",
+            "[person_1] will have less beautiful eyes.",
+            "[person_1] will say good bye to him."
+        ],
+        "reason": [
+            "Nice eyeliner will make [person_1] more beautiful.",
+            "Otherwise [person_1] will cry.",
+            "Nice eyeliner will make [person_1] less beautiful.",
+            "[person_1] will re - draw again.",
+            "The exercise will make [person_1] sweat."
+        ]
+    }
+}

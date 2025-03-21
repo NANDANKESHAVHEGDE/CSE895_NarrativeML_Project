@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the [chair_1]?",
+        "answer": [
+            "There are ingredients.",
+            "It is purple.",
+            "It is pink.",
+            "It is black.",
+            "It is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep talking during the process of massage?",
+        "answer": [
+            "[person_1] wants to watch his moves in the mirror.",
+            "[person_1] moves the blades to peel , core , and slice the apple.",
+            "[person_1] is interpreting how to do massaging neck.",
+            "[person_1] swings the cup back and forth to pick up the dice.",
+            "[person_1] uses two fingers to remove the apple that was peeled to the red bucket."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will ask [person_2] to turn over his body.",
+            "[person_1] may continue to stand there.",
+            "[person_1] may clean the inside.",
+            "[person_1] is going to stack three more cups.",
+            "[person_1] may keep shaking ropes."
+        ],
+        "reason": [
+            "To interpret the massage at other parts of the body.",
+            "[person_1] has turned away.",
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] is keeping still.",
+            "The milk needs to be put in the fridge."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if paintings on the wall fell down on the ground?",
+        "answer": [
+            "[person_1] will be injured.",
+            "[person_1] will stop massaging.",
+            "[person_1] would still be dancing.",
+            "It might bite [person_1] or the others in the room.",
+            "It will hurt [person_1]."
+        ],
+        "reason": [
+            "It's time for lunch.",
+            "The lawn is big enough for boys to play games.",
+            "To check the condition of the body.",
+            "It's too dangerous.",
+            "To pick up the paintings first."
+        ]
+    }
+}

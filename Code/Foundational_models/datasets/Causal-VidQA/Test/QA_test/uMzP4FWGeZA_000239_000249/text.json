@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of clothes is [person_1] in?",
+        "answer": [
+            "[person_1] is in the corner of the kitchen table.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is in a white T - shirt.",
+            "[person_1] is on the floor outside.",
+            "[person_1] is parking on the road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing such a move?",
+        "answer": [
+            "[person_1] is the singer.",
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[person_1] is doing a massage for [person_2].",
+            "[person_1] is smoothening the wall to make it more beautiful.",
+            "The [person_2] is placed there to enjoy outdoor shady areas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may fall asleep.",
+            "[person_2] will go on kicking [person_2].",
+            "Add things on [person_2] to [person_2].",
+            "[person_2] may plan to correct false actions.",
+            "[person_2] may making cookies by herself."
+        ],
+        "reason": [
+            "[person_2] still high five with [person_2].",
+            "Because [person_2] is holding the chair and try to stand up.",
+            "[person_2] is holding a donut and he is going to put it in his mouth.",
+            "When [person_2] is enjoying massage , he feels so comfortable that he falls asleep.",
+            "[person_2] is too young to swing by himself so [person_2] may push the swing for [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bed_1] does not exist?",
+        "answer": [
+            "The [person_2] can make carpet pieces together.",
+            "[person_2] will not touch the fretboard of the bass guitar with his left hand.",
+            "[person_2] will sit on a chair or sofa.",
+            "[person_2] will hurt his leg.",
+            "[person_2] will leave the site as well."
+        ],
+        "reason": [
+            "It is necessary for [person_2] to lean on something while enjoying massage.",
+            "The [person_2] is happy to play with the [person_2].",
+            "[person_2] will not touch the bass guitar strings if [person_2] does not play music.",
+            "[person_2] needs to wait for his hand to heal.",
+            "Through the way [bed_1] uses the knife , she is an amateur."
+        ]
+    }
+}

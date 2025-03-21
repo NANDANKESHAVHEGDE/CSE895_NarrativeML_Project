@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [chair_1]?",
+        "answer": [
+            "No.",
+            "[chair_1] and [chair_1] are are on the road.",
+            "[chair_1] and [chair_1] are sitting in a wheelbarrow.",
+            "It is black.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] put the cup on the [dining table_1]?",
+        "answer": [
+            "Because [person_1] is not tall enough.",
+            "[person_1] is planing wood.",
+            "[person_1] does not want to fall.",
+            "Because [dining table_1] is wide and has enough light to play.",
+            "[person_1] is squeezing oranges for juice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play stacks of cups.",
+            "[person_1] may go home.",
+            "[person_1] is going to a workout.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] will continue to play."
+        ],
+        "reason": [
+            "People are interested in the story behind [person_1].",
+            "[person_1] just started.",
+            "[person_1] likes sledding.",
+            "[person_1] plays very fast.",
+            "[person_1] is standing on [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "It is possible that [person_1] will start spinning again.",
+            "[person_1] won't win",
+            "[person_1] will take a rest.",
+            "[person_1] may continue recording his schedule of digging soil.",
+            "[person_1] will be very happy."
+        ],
+        "reason": [
+            "Because it is over time.",
+            "[person_1] loses if [person_1] doesn't stack cups at a fast speed.",
+            "Losing the game makes [person_1] angry.",
+            "[person_1] attacks the reflection when [person_1] is holding [person_1].",
+            "Because [person_1] feels unhappy that [person_1] cannot eat the cake anymore."
+        ]
+    }
+}

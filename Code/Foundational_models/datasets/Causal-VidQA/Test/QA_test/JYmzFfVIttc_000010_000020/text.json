@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [clock_1]?",
+        "answer": [
+            "Black.",
+            "[clock_1] is hanged on the wall.",
+            "[clock_1] is on the road.",
+            "It is in the corner of the room.",
+            "[clock_1] is below the pictures."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] stand up?",
+        "answer": [
+            "[person_1] stood up to give the gift to the boy.",
+            "[person_1] is wearing a traditional Scottish skirt called a kilt to match the Scottish heritage of the bagpipes he plays.",
+            "Because the man is guiding [person_1].",
+            "The game demands this.",
+            "They found fun wearing that."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after seeing the box?",
+        "answer": [
+            "[person_1] is going to jump.",
+            "[person_1] is going to put the yoga ball away.",
+            "[person_1] is going to stand up little by little.",
+            "[person_1] is going to say something to the audience.",
+            "[person_1] is going to open the box."
+        ],
+        "reason": [
+            "Because [person_1] just changed the position to let others see more clearly and now [person_1] is going to do the action.",
+            "Because [person_1] may want to listen to some music.",
+            "Because [person_1] is going to put the hands back which is a sign that [person_1] has finished exercise.",
+            "Because [person_1] wants to play with the hoop.",
+            "Because [person_1] is curious about what is in the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the boy did not like the gift?",
+        "answer": [
+            "The boy may keep the box.",
+            "The boy's will be hurt.",
+            "The boy may open the box.",
+            "[person_1] would not be able to play the accordion while standing.",
+            "The boy may not open the box."
+        ],
+        "reason": [
+            "Babies usually need help.",
+            "Because the boy were not interested in the gift.",
+            "The wrong wallpaper should not be kept on the wall.",
+            "Because the boy were interested in the gift.",
+            "The people are in a bar."
+        ]
+    }
+}

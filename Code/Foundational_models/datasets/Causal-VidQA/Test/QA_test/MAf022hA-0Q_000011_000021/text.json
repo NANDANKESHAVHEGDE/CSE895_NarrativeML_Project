@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is waxing armpits.",
+            "[person_1] is singing.",
+            "[person_1] is opening a bottle.",
+            "[person_1] is looking at the virtual reality screen.",
+            "[person_1] is slamming the concrete plate."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] slam the plate?",
+        "answer": [
+            "Because the house wall is newly built and not plastered yet.",
+            "The plate has been discarded.",
+            "The floor is very flat and easier to stack dice.",
+            "[person_1] is enjoying the rhythm of music.",
+            "Because [person_1] needs to add water during exercise."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will talk with others.",
+            "[person_1] will probably put pieces of paper in the printer.",
+            "[person_1] has an intention of the next class.",
+            "[person_1] will go back home.",
+            "[person_1] will pump gas into his car."
+        ],
+        "reason": [
+            "[person_1] has held the branch and is ready to climb the tree.",
+            "[person_1] is practicing running.",
+            "[person_1] has stopped and turned to others and laughed.",
+            "[person_1] is laying tiles the room.",
+            "To finish the building of the shed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the plate was made of rubber?",
+        "answer": [
+            "[person_1] and [person_1] may stop playing.",
+            "Maybe the dice which have been stacked before will be spilled.",
+            "Then [person_1] can't do what [person_1] wants to do.",
+            "The game would soon become boring and everyone would leave.",
+            "[person_1] would never break it successfully."
+        ],
+        "reason": [
+            "Rubber is flexible and stout.",
+            "[person_1] must hit the right beat.",
+            "The machine may hurt the cat.",
+            "There is no light provided in the gym.",
+            "Because fire is dangerous."
+        ]
+    }
+}

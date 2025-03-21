@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "It is black.",
+            "The shirt [person_1] wearing is gray.",
+            "It is pink.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing?",
+        "answer": [
+            "Because [person_1] is playing xylophone.",
+            "[person_1] is playing harp here.",
+            "Because whoever loses will invite guests to dinner.",
+            "Because standing on the table helps people to observe it easier.",
+            "[person_1] is playing maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will take advantage of the chair to open.",
+            "[person_1] will continue to play.",
+            "[person_1] will tattoo the right leg of [person_1].",
+            "[person_1] will stop playing with maracas.",
+            "[person_1] will put her arms on the [person_1]'s left thigh."
+        ],
+        "reason": [
+            "There is a scale in the video.",
+            "[person_1] is not likely to stop practicing.",
+            "Because the bike got stuck.",
+            "[person_1] wears skates , holds a ice hockey stick and skates around the ice rink.",
+            "[person_1] finished playing a song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks maracas while playing?",
+        "answer": [
+            "[person_1] would laugh harder.",
+            "[person_1] won't read the information in the magazine.",
+            "The atmosphere is still romantic.",
+            "[person_1]'s illness will get worse.",
+            "[person_1] won't be able to play."
+        ],
+        "reason": [
+            "Pushing [person_1] uphill will be very tiring.",
+            "It hurts.",
+            "Taking off the bandage too early is not good for the recovery of the wound.",
+            "[person_1] will need to buy new maracas.",
+            "[person_1] is still trying now."
+        ]
+    }
+}

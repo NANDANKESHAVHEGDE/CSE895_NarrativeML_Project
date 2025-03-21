@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [cup_1]?",
+        "answer": [
+            "[cup_1] is on the [dining table_1].",
+            "The [cup_1] is in the compartment on the [cup_1] door.",
+            "[dining table_1] is behind [cup_1].",
+            "The [cup_1] is black.",
+            "The [cup_1] is on [cup_1]'s back."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is stacking dice.",
+            "[person_1] wants to throw the ball into the basket.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is happy because [person_1] has just caught the ball.",
+            "[person_1] is excited about telling something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will open the box.",
+            "[person_1] will throw the dumbbell up.",
+            "[person_1] is going to share something about riding [bicycle_1].",
+            "[person_1] is going to meet friends.",
+            "[person_1] is going to hit the ball."
+        ],
+        "reason": [
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] is instructing about riding [bicycle_1].",
+            "[person_1] is having his turn next.",
+            "[person_1] just has started his work.",
+            "There are many other goats waiting for food from [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is hungry?",
+        "answer": [
+            "[person_1] will not cook.",
+            "[person_1] may not eat a meal.",
+            "[person_1] may go to comfort him at once time.",
+            "[person_1] may eat a meal.",
+            "[person_1] will not be able to play the flute."
+        ],
+        "reason": [
+            "[person_1] tends to be attracted to this activity.",
+            "There is a [dining table_1] behind him.",
+            "[person_1] need to take food.",
+            "There is not a [dining table_1] behind him.",
+            "When [person_1] watches , [person_1] continues to open the gift."
+        ]
+    }
+}

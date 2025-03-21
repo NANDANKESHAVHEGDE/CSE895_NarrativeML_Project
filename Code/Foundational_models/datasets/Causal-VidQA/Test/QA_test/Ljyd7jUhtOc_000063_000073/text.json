@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's on both sides of the door?",
+        "answer": [
+            "It is daytime.",
+            "[potted plant_1] is a female.",
+            "A woman.",
+            "[potted plant_1] and [potted plant_2].",
+            "A bag."
+        ]
+    },
+    "explanatory": {
+        "question": "Why there are so many children?",
+        "answer": [
+            "They are here to practice tackling.",
+            "Because the man is guiding [potted plant_1].",
+            "It's cool.",
+            "They are here attending birthday party.",
+            "They are here to practice self - defense."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bring the cup in his hand to his mouth and drink beer.",
+            "[person_1] may change the action.",
+            "[person_1] may wait for her other friends.",
+            "[person_1] is going to replace the sack full of shredded paper with a new one.",
+            "[person_1] is going to keep mopping the microscope."
+        ],
+        "reason": [
+            "Because the children are not all here yet.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1] used the tape on the table.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is shy?",
+        "answer": [
+            "[person_1] may burst out crying.",
+            "[person_1] will stop playing didgeridoo.",
+            "[person_1] may stop practicing.",
+            "She will hide behind her friends.",
+            "[person_1] will fall to [person_1]."
+        ],
+        "reason": [
+            "[person_1] and [person_1] are small children and easy to get tired.",
+            "[person_1]'s legs are soft.",
+            "[person_1] will run after a good rest.",
+            "There is no guardian at the pool.",
+            "Because she dare not talk to strangers."
+        ]
+    }
+}

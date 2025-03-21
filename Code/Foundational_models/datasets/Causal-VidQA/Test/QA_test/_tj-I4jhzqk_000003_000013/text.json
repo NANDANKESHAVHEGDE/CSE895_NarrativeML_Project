@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting on the ground.",
+            "[person_1] is moving the tire.",
+            "[person_1] is riding a horse.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is shaking the cup."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] sit on the ground?",
+        "answer": [
+            "[person_1] also wants to play the keyboard.",
+            "[person_1] and [person_1] are opening presents.",
+            "[person_1] sat on the ground to bounce the ball.",
+            "[person_1] is sitting on the carpet.",
+            "[person_1] prepares to discover the gifts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] on the verge of doing?",
+        "answer": [
+            "[person_1] is going to start working.",
+            "[person_1] may go to play with friends.",
+            "[person_1] is on the verge of being fed.",
+            "[person_1] is on the verge of bending down.",
+            "[person_1] is going to continue riding."
+        ],
+        "reason": [
+            "[person_1] and [person_1] pushed the wheelbarrows only halfway.",
+            "That suitcase was put there as a part of the dance.",
+            "The power went out on the treadmill and he couldn't run.",
+            "None of them wants to make a compromise , so their argument will escalate into a fight.",
+            "[person_1] dropped the ball so he had to pick up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not misthrow the ball?",
+        "answer": [
+            "[person_1] would not have to pick the ball up.",
+            "[person_1] would run the risk of being injured.",
+            "[person_1] would have to pick the ball up.",
+            "Possibly the following one will do it.",
+            "[person_1] would not have to throw the ball away."
+        ],
+        "reason": [
+            "The ball was thrown to hit the ring of the racket and bounced out.",
+            "It is very dangerous if [person_1] does some fencing without a good quality helmet.",
+            "The ball was not thrown to hit the ring of the racket and bounced out.",
+            "[person_1] is too young to react in time to fall so she would get injury on her head if she did not wear the helmet.",
+            "The ball was thrown to hit the ring of the racket and bounced in."
+        ]
+    }
+}

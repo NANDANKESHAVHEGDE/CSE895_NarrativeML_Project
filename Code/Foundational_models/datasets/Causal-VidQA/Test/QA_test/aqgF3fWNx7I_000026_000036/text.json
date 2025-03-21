@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is serving his customers.",
+            "[person_1] is exercising in the gym now.",
+            "[person_1] is opening a carton box.",
+            "[person_1] is plastering.",
+            "[person_1] is giving massage to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] plaster?",
+        "answer": [
+            "[person_1] took a step towards the cameraman.",
+            "[person_1] is trying to keep the safety of [person_1].",
+            "Because the wall has not been plastered yet.",
+            "Because the woman is happy with the proposal.",
+            "It is easier to handle the apple skin when the white bucket is placed on [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stack three more cups.",
+            "[person_1] may clean the inside.",
+            "[person_1] is going to keep plastering the wall.",
+            "[person_1] may keep shaking ropes.",
+            "[person_1] may continue to stand there."
+        ],
+        "reason": [
+            "[person_1] is still dancing with fire.",
+            "[person_1] just looked back.",
+            "[person_1] was blocked by the door.",
+            "Because [person_1] has not been finished plastering the wall yet.",
+            "[person_1] is attacking [person_1] and [person_1] will win this match."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the mortar is run out of?",
+        "answer": [
+            "It will be put away.",
+            "The trophies will drop off.",
+            "[person_1] can not complete to plaster the wall.",
+            "[person_1] will pick up the chips and eat it.",
+            "Then that cow will move."
+        ],
+        "reason": [
+            "Because most of the walls are not plastered.",
+            "People will dance to the music , if the music suddenly disappears , they will stop.",
+            "[person_1] is quite high above the ground so he would fall suddenly if the rope was broken.",
+            "The new strings use to replace the old one.",
+            "The plate is on tip of the stick."
+        ]
+    }
+}

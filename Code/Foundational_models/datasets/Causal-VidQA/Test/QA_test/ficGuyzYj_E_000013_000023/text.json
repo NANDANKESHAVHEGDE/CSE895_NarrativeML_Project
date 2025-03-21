@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the box which [person_2] is opening?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "[person_2]'s pants is white.",
+            "A shovel.",
+            "The shoes are pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] keeping his head down?",
+        "answer": [
+            "Maybe something is going on here.",
+            "[person_2] is opening a bag.",
+            "Because [person_2] is accidentally throwing wrapping paper at him.",
+            "[person_1] is still a child.",
+            "[person_1] is doing exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn the page.",
+            "[person_1] is going to grab the wrapping paper.",
+            "[person_1] is going to stop wrapping presents.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] will stretch the noodle."
+        ],
+        "reason": [
+            "When [person_2] is unboxing , [person_1] reaches his hand to the wrapping paper.",
+            "[person_1] is lying on the floor.",
+            "[person_1] is taking more oranges and holding a knife.",
+            "Maybe [person_1] and [person_2] are having a good time.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not lower his head?",
+        "answer": [
+            "[person_1] would not be able to throw across the bed.",
+            "[person_1] will have more viewers.",
+            "[person_2] may fight her back.",
+            "[person_2] may hit his head.",
+            "[person_1] may not find useful things."
+        ],
+        "reason": [
+            "When [person_2] attacked , his sword was aimed at [person_1]'s chest.",
+            "[person_1] is putting his hand on the shoulder of [person_2].",
+            "When [person_2] opens the box , her hand almost hits [person_1]'s head.",
+            "[person_1] is just a baby.",
+            "Because [person_1] uses his hands to hold the pants in the video."
+        ]
+    }
+}

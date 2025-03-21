@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [chair_1]?",
+        "answer": [
+            "[chair_1] is next to [dining table_1].",
+            "It is near next to the railing.",
+            "[chair_1] is placed next to the desk.",
+            "[chair_1] is near the woman.",
+            "[dining table_1] is on the [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] holding [wine glass_1]?",
+        "answer": [
+            "Because it's very hot.",
+            "[person_1] seems to be helping [person_2] to pour milk.",
+            "[person_1] is reading newspaper.",
+            "It's dangerous.",
+            "To witness the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] and [person_2] next?",
+        "answer": [
+            "[person_1] and [person_2] will be able to make cakes.",
+            "[person_1] will continue to crawl on the floor.",
+            "[person_1] and [person_2] will move [person_2] out of the kitchen so that [person_1] can continue to sand the rest of it.",
+            "[person_1] and [person_2] will continue performing.",
+            "[person_1] will continue spraying."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are waiting to start licking like they're waiting for the start of a race.",
+            "It's heading to the right.",
+            "[person_1] is trying to make [person_2] look away from [person_1] and look at the person holding the camera.",
+            "[person_1] and [person_2] are wearing aprons and seem to be using milk powder to make the cake.",
+            "[person_2] is looking and frowning at [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_2] spilled milk out of [bowl_1]?",
+        "answer": [
+            "[person_1] would wipe it.",
+            "Her hands would be hurt.",
+            "[person_1] would not wipe it.",
+            "[person_1] would have to stop and and breath in.",
+            "[person_1] would keep it."
+        ],
+        "reason": [
+            "[person_2] is an adult so may not notice it.",
+            "[person_2] has been resting for a long time.",
+            "[person_2] is a child so may not notice it.",
+            "To make the wall look darker.",
+            "[person_2] is a child so have to notice it."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is working out at a gym.",
+            "[person_1] is skating and spinning.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is preparing to hit [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] defending herself against [person_1]?",
+        "answer": [
+            "[person_1] is attacking [person_2] with punches.",
+            "[person_1] is seeing [person_2]'s gifts.",
+            "[person_1] injured his left hand.",
+            "[person_1] is talking about chess.",
+            "Because the song [person_1] is playing has a fast beat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop the video.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to continue eating.",
+            "[person_1] is going to continue to comb his hair with this comb.",
+            "[person_1] is going to be hit by [person_2]."
+        ],
+        "reason": [
+            "[person_1] is a professional.",
+            "[person_1] is lifting weights.",
+            "[person_1] has fallen to the ground.",
+            "[person_1] is putting hand down.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not fall into the ground?",
+        "answer": [
+            "That friend would continue playing kickball.",
+            "The pole might be snapped in half.",
+            "People will be dispersed.",
+            "[person_1] would not be hit as much.",
+            "The sheep might be in dangerous."
+        ],
+        "reason": [
+            "[person_1] did not show much interest on maracas.",
+            "[person_1] would be able to hide or defend himself better.",
+            "[person_1] will need to rest.",
+            "That friend fell to the ground and his face hurt.",
+            "[person_1] is trying to challenge herself."
+        ]
+    }
+}

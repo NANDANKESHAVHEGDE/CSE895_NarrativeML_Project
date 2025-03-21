@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bottle_1]?",
+        "answer": [
+            "[bottle_1] is on the kitchen table.",
+            "[bottle_2] is in a room.",
+            "The [bottle_1] is near the [bottle_2].",
+            "[bottle_2] is in the house.",
+            "[bottle_1] is on the picture on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is playing harmonica.",
+            "[person_1] is opening the present.",
+            "[person_1] is playing with paper.",
+            "[person_1] is coloring the picture.",
+            "[person_1] is stacking the cups quickly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after sitting here?",
+        "answer": [
+            "[person_1] will continue to eat the cake.",
+            "[person_1] will begin to color the painting.",
+            "[person_1] will throw the hammer.",
+            "[person_1] will continue stacking other cups.",
+            "[person_1] will use the megaphone."
+        ],
+        "reason": [
+            "[person_1] intends to teach people how to use the inhaler.",
+            "Because she needs to grab the rock above to let her go up.",
+            "We have waited for 10 seconds and want to know the next step.",
+            "It appears that [person_1] concentrates on the painting and uses the bottles.",
+            "Because they eat cake for the birthday."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] draws pictures everyday?",
+        "answer": [
+            "[person_1] feels happy.",
+            "Maybe [person_1] will become an artist.",
+            "[person_1] will not get wet.",
+            "Maybe [person_1] will not become an artist.",
+            "[person_1] will look at the mirror."
+        ],
+        "reason": [
+            "There is a long road ahead.",
+            "[person_1] will wealen her workmanship.",
+            "Because it is the duty of parents.",
+            "[person_1] will enhance her workmanship.",
+            "It is too cold."
+        ]
+    }
+}

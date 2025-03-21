@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is behind [person_1].",
+            "[book_1] is on the left of [person_1]?",
+            "[book_1] is on the hands of [person_1].",
+            "It is black.",
+            "[person_1] is playing the accordion."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] reading the [book_1]?",
+        "answer": [
+            "Because [person_1] is not tall enough.",
+            "[person_1] is playing the harmonica to relax.",
+            "[person_1] is playing basketball with his son.",
+            "[person_1] wants to improve the knowledge.",
+            "[person_1] is doing a circus."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may spray water on the flowers.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] is going to close the book and turn on the TV.",
+            "[person_1] continues to introduce the book.",
+            "[person_1] is talking about his opinion."
+        ],
+        "reason": [
+            "[person_1] stepped forward continuously.",
+            "[person_1] is stretching leg very hard.",
+            "To make it look more fresh.",
+            "[person_1] is very interested in what he says.",
+            "[person_1] holding a remote control on the left hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the room lost power suddenly?",
+        "answer": [
+            "[person_1] would find a place to drink a cup of coffee.",
+            "[person_1] may not understand what is written in the card.",
+            "[person_1] would not be able to play the harmonica.",
+            "The [person_1] will be off.",
+            "[person_1] may continue to read."
+        ],
+        "reason": [
+            "Because alcohol can't make people's brain awake.",
+            "[person_1] would have to put out the fire before the car exploded",
+            "It would be too dark to study without light.",
+            "[person_1] won't be able nail the bar down.",
+            "[person_1] can not watch TV or read book without electricity in the room."
+        ]
+    }
+}

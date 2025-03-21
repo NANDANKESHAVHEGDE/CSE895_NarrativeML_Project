@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [cup_1]?",
+        "answer": [
+            "It is on the wardrobe.",
+            "[cup_1] is behind the [cup_1] and [cup_1].",
+            "[cup_1] is cylinder.",
+            "No.",
+            "It is \u00a0 behind and on the right of [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] opening his mouth?",
+        "answer": [
+            "[person_1] is playing a song on the guitar.",
+            "[person_1] is performing on the stage.",
+            "[person_1] is surprising the dices that are double stacked.",
+            "[person_1] must rest the guitar on his thighs.",
+            "[person_1] is hitting on the gongs to check the sound of the gongs."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to back the seat of [person_1].",
+            "[person_1] is going to level the concrete into the pipes.",
+            "[person_1] is going to shake the dices.",
+            "[person_1] may give the drink to the customer.",
+            "[person_1] will continue kite surfing."
+        ],
+        "reason": [
+            "[person_1] is lying on [person_1].",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "[person_1] is doing lunges.",
+            "[person_1] is kite surfing.",
+            "[person_1] wants to try to double stack the dices."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't watch the dices that are double stacked?",
+        "answer": [
+            "[person_1] would be work harder.",
+            "[person_1] would not surprise.",
+            "The woman can't get down.",
+            "[person_1] may try it again.",
+            "[person_1] would stop walking and bend down to pick up his bagpipes to check for any damage to his instrument."
+        ],
+        "reason": [
+            "[person_1] and [person_1] would fall then.",
+            "The behavior of [person_1] made the person opposite very angry , so the person opposite threw the ball at [person_1].",
+            "There would be nothing for [person_1] to see and surprise.",
+            "It would be a miracle if [person_1] win.",
+            "[person_1] is the smallest chair and [person_1] is way heavier than [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is lying on the table.",
+            "[person_2] is sitting close to the camera.",
+            "[person_2] is on the [couch_1].",
+            "Four.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] unboxing the gift?",
+        "answer": [
+            "The [person_2] wants to keep balance on the unicycle.",
+            "Because the [person_2] wants to explore the parking lot.",
+            "because [person_2] does it for fun.",
+            "Because [person_2] wants to see the gift inside.",
+            "Because [person_2] is playing the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to unbox other gifts.",
+            "[person_2] may cut the cake.",
+            "[person_2] is going to peel off the patch on the [person_2] leg.",
+            "[person_2] is going to stand up and put the chair up.",
+            "[person_2] is going to jump up."
+        ],
+        "reason": [
+            "[person_2] has not finished the track.",
+            "[person_2] is moving towards [person_2].",
+            "There are many gifts around [person_2].",
+            "Because [person_2] just took the hands out of [person_2] , but [person_2] needs to pay attention to [person_2].",
+            "[person_2] is taking care of [person_2] and [person_2] doesn't know how to sweep the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] get a gift which her don't like?",
+        "answer": [
+            "[person_2] will not do exercise.",
+            "[person_2] will be happy.",
+            "[person_2] won't be able to do it.",
+            "[person_2] will be sad.",
+            "[person_2] will stop playing."
+        ],
+        "reason": [
+            "Dancing takes a lot of energy.",
+            "Because it is adult's personality.",
+            "Because here are a lot of things in the room without light [person_2] may get hurt.",
+            "Because it is children's personality.",
+            "They won't want to make noise at the supermarket."
+        ]
+    }
+}

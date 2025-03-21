@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks pretty.",
+            "[person_1] looks like cute.",
+            "[person_1] looks old and thin.",
+            "[person_1] looks young.",
+            "[person_1] is so cute."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] having \u00a0 a lot of cup in his hand?",
+        "answer": [
+            "[person_1] is playing roller skating.",
+            "[person_1] is playing the harmonica to relax.",
+            "[person_1] is stacking cups.",
+            "[person_1] would like to do a handstand safely.",
+            "Because there is something wrong with her mind."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ? ",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to stack again.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "It seems they are not going to stop now.",
+            "[person_1] is training.",
+            "[person_1] likes it.",
+            "[person_1] has finished checking the computer.",
+            "[person_1] is going to feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] participates in the cup stacking competition ?",
+        "answer": [
+            "[person_1] will have a chance to win high prize.",
+            "[person_1] would look more handsome.",
+            "[person_1] will faint out.",
+            "[person_1] would be going somewhere else not the school.",
+            "[person_1] will be more confident."
+        ],
+        "reason": [
+            "[person_1] is very fast and skillful.",
+            "It is really sunny.",
+            "There are not protection nets around the trampoline.",
+            "[person_1] can have an income for himself.",
+            "[person_1] is playing with a ball behind [person_1]."
+        ]
+    }
+}

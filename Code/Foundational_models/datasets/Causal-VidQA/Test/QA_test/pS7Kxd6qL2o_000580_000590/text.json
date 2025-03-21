@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the coat [person_2] wearing?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] skiing?",
+        "answer": [
+            "Because [person_2] wants to use the friction between them to open the cap.",
+            "[person_2] is doing it for fun.",
+            "Maybe [person_2] wants to be a good skater.",
+            "Because the [person_2] is picking blueberries.",
+            "The pressure inside the bottle is extremely high at the point of opening."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will enjoy skating for long time.",
+            "[person_1] will ask her parents for help.",
+            "Perhaps [person_1] will continue punching the mannequin.",
+            "[person_1] will go downhill.",
+            "[person_1] will continue lift the dumbbell."
+        ],
+        "reason": [
+            "[person_1] wants to practice lighting up candles.",
+            "Because [person_1] has just reached out her hands to get pottery clay.",
+            "Ahead is the mountain slope and [person_1] slides forward.",
+            "[person_1] is right next to the place where the onions are cut.",
+            "[person_1] is talking and using hands to sign language."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] falls down?",
+        "answer": [
+            "[person_2] will continue to practice.",
+            "[person_2] will continue not jumping.",
+            "[person_2] will get hurt.",
+            "[person_2] may get wet.",
+            "[person_2] may cry."
+        ],
+        "reason": [
+            "Because [person_2] doesn't have protective gear.",
+            "[person_2] will also fall.",
+            "[person_2] will not keep standing by hands.",
+            "[person_2]'s mother is angry with [person_2].",
+            "Because the ground is very hard , it will hurt [person_2]."
+        ]
+    }
+}

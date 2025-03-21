@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the floor.",
+            "[person_1] and [person_2] are on the bed.",
+            "[person_1] and [person_2] are in the bathroom.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are in the barber shop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] have \u00a0 a razor \u00a0 in his hand?",
+        "answer": [
+            "[person_1] and [person_2] want to make a record of the snowman and themselves.",
+            "[person_1] pushes the wheelbarrow to move cement.",
+            "Because [person_1] is rubbing the gong.",
+            "[person_2] wants to help [person_1] shave.",
+            "[person_2] lean forward to see what [person_1] is doing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep eating.",
+            "[person_1] will hold that posture for a while.",
+            "[person_1] is going to let [person_2] shave him.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] will continue talking."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is paying attention to other things.",
+            "The egg is not cooked yet.",
+            "When [person_1] holds the comb , he is raising his hand to comb his hair.",
+            "Maybe [person_1] and [person_2] do it for fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] break the razor?",
+        "answer": [
+            "The cards can't be easily picked up.",
+            "[person_1] and [person_2] won't be able to shave.",
+            "It is probable that [person_1] will be very angry.",
+            "[person_1] and [person_2] will be able to shave.",
+            "[person_1] will be very angry."
+        ],
+        "reason": [
+            "[person_1] and [person_2] won't need a new razor.",
+            "[person_2] will hit the dog and [person_1] may feel scared.",
+            "[person_1] and [person_2] will need a new razor.",
+            "[person_1] likes to play with water.",
+            "[person_1] and [person_2] will need a old razor."
+        ]
+    }
+}

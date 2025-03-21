@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a vest.",
+            "[person_1] is on the table.",
+            "[person_1] is wearing a black vest.",
+            "[person_1] is wearing a beanie.",
+            "[person_1] is wearing a suit."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a beanie?",
+        "answer": [
+            "Because [person_1] wants to show his performance to all audiences.",
+            "Maybe because [person_1] feel cold.",
+            "[person_1] thought the reflection is a different cat.",
+            "Because [person_1] is a beginner.",
+            "because [person_1] is trying to stack a dice."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will check the result.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to continue painting the wall white.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to play there."
+        ],
+        "reason": [
+            "Because [person_1] is still painting the wall white.",
+            "[person_1] is ripping paper.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "[person_1] is touching three cups.",
+            "The message says he should come home for dinner."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] 's coat is dirty with paint?",
+        "answer": [
+            "[person_1] will save her energy.",
+            "[person_1]'s friends will watch them play chess.",
+            "It does not matter to [person_1].",
+            "[person_1]'s glasses will break.",
+            "The cup of beer will be broken into many pieces on the ground."
+        ],
+        "reason": [
+            "[person_1] is a child.",
+            "[person_1] ate all eight burgers on the [person_1].",
+            "Because [person_1] puts the comb under the water - tap of the sink in front of her and combs her hair with the wet comb.",
+            "Because [person_1] would have no way to check if the bow tie looked fine or not.",
+            "Because [person_1] 's coat was dirty with paint before."
+        ]
+    }
+}

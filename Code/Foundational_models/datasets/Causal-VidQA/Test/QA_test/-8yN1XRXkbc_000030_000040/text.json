@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is parked on the road.",
+            "The [chair_1] is black.",
+            "The [chair_1] is parked in front of the brown building.",
+            "The [chair_1] is in his own backyard.",
+            "[chair_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] on stage ?",
+        "answer": [
+            "Because she has to use it to cut the sushi.",
+            "[person_1] is helping [person_1] train martial arts.",
+            "The [person_1] is talking to the [person_1].",
+            "Because he has to let the children in.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to find some water.",
+            "[person_1] is in a wheelchair and [person_1] is going to dance with the others.",
+            "It is possible that [person_1] will fall down the bed.",
+            "[person_1] is going to stop playing cong.",
+            "[person_1] is likely to hug [person_1]."
+        ],
+        "reason": [
+            "[person_1] will do a show after she said all words.",
+            "To relax for a while.",
+            "[person_1] looks like a bad whistler.",
+            "[person_1] is performing on stage and there's a lot of people in the hall.",
+            "[person_1] is putting hand on the corner of the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] performs successfully ? Perhaps [person_1] will",
+        "answer": [
+            "[person_1] should go to hospital because [person_1] would get hurt.",
+            "Perhaps [person_1] will be happy.",
+            "[person_1] would not know how to butt his head on the table without being hurt.",
+            "Then [person_1] will block the passage of vehicles.",
+            "The man who is proposing will later take the woman to the store."
+        ],
+        "reason": [
+            "Many people will clap hands.",
+            "It is an important event.",
+            "The dog is too noisy.",
+            "Because the other camel is empty now.",
+            "Because there would hardly a chance that these graffiti - taggers could escape the accident as they were focusing on tagging the graffiti."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the weather?",
+        "answer": [
+            "It is sunny.",
+            "On the ceiling.",
+            "The text is white.",
+            "[person_2] is playing with the present box.",
+            "It is cloudy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] have the same movements?",
+        "answer": [
+            "Because [person_1] wants to help [person_2].",
+            "[person_1] and [person_2] are spinning the rope for [person_3].",
+            "[person_1] likes playing the harp.",
+            "The [person_1] is talking to the [person_3].",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do next?",
+        "answer": [
+            "[person_1] and [person_2] will continue to dance.",
+            "[person_1] and [person_2] will continue to spinning.",
+            "[person_1] , [person_2] and [person_3] will drink together.",
+            "[person_1] and [person_2] will pull the swords out.",
+            "It is foreseen that [person_1] and [person_2] will look at the balloons in the sky."
+        ],
+        "reason": [
+            "[person_1] and [person_2] got closer to the camera and pause it.",
+            "They have finished their performance.",
+            "[person_3] will continue to jumping.",
+            "[person_2] and [person_3] have finished lighting up the candles.",
+            "The cheer - leading team has not finished the performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] , [person_2] and [person_3] take a few steps back?",
+        "answer": [
+            "Maybe [person_1] will go home.",
+            "[person_1] will feel shy.",
+            "[person_1] will feel uncomfortable.",
+            "Maybe [person_1] , [person_2] and [person_3] will fall off.",
+            "Maybe [person_1] will agree."
+        ],
+        "reason": [
+            "The [person_2] is being outperformed by the [person_1] now.",
+            "[person_1] and [person_2] can not ski too far without necessary items.",
+            "[person_1] , [person_2] and [person_3] are standing close to the edge.",
+            "If there is a plate it will be better to help [person_1] and [person_2] to show their potato chips.",
+            "[person_1] and [person_2] will dance together."
+        ]
+    }
+}

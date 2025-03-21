@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a long sword.",
+            "[person_1] is holding an underwear.",
+            "[person_1] is holding a lizard.",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding a shoe polish."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_2] wear glasses?",
+        "answer": [
+            "[person_2] has bad eyesights.",
+            "Because the competition doesn't start.",
+            "Because the juice isn't as good as using a stomp.",
+            "It may be abandoned for a long time.",
+            "It seems that they are celebrating something."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to folding the clothes.",
+            "[person_1] is about to eat.",
+            "Maybe [person_1] is going to move quicker.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is preparing to presentation."
+        ],
+        "reason": [
+            "Because [person_1] is folding the clothes and did not finish yet.",
+            "Because [person_1] is hungry.",
+            "[person_1] is enjoying playing flute.",
+            "[person_1] is going to go back home.",
+            "[person_1] is attacking [person_1] and [person_1] will win this match."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] were not there?",
+        "answer": [
+            "There would be only [person_2] and [person_2] on stage.",
+            "He will keep chase the kid.",
+            "The bird may fly away and does not land on the mesh fence.",
+            "[person_1] may fold the clothes alone.",
+            "[person_2] might not be able to perform."
+        ],
+        "reason": [
+            "[person_1] would have no one to play with . ",
+            "If [person_1] is not working , [person_1] will be free.",
+            "[person_1] will have to light up the cigarette in order to smoke.",
+            "[person_2] , [person_1] and [person_1] won't know how to shuck an oysters.",
+            "Because [person_2] was helping [person_1] folding the clothes."
+        ]
+    }
+}

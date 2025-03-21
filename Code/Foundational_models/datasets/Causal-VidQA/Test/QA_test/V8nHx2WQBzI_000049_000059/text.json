@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is at the weaving mill.",
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is in the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have to pull the loom?",
+        "answer": [
+            "[person_1] is on the floor because [person_1] is on top of them sheering their fur off.",
+            "[person_1] wants to get some orange juice.",
+            "[person_1] picks up the cup slowly to avoid falling the dice.",
+            "Because [person_1] is weaving and wants the threads to be close together.",
+            "Because [person_1] needs a tissue to wipe sweat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] will continue talking.",
+            "[person_1] will continue weaving fabric.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to eat all the donuts in the box he is holding."
+        ],
+        "reason": [
+            "[person_1] has turned away.",
+            "[person_1] is keeping still.",
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "Maybe [person_1] will stop weaving.",
+            "[person_1] will ride by himself.",
+            "[person_1] will be fall.",
+            "[person_1] and [person_1] may stop blowing the ball.",
+            "[person_1] will be happy."
+        ],
+        "reason": [
+            "[person_1] still hasn't reached his goal.",
+            "Because they can't play then.",
+            "To fix the equipment.",
+            "[person_1] was pushed because [person_1] teased [person_1].",
+            "The room will be dark."
+        ]
+    }
+}

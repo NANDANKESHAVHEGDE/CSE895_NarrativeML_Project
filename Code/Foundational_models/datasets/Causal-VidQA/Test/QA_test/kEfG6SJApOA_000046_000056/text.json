@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [couch_1]?",
+        "answer": [
+            "The [couch_1] is big.",
+            "[couch_1] is placed on the table.",
+            "[couch_1] is round.",
+            "[couch_1] is wearing a long sleeve shirt.",
+            "[couch_1] is next to the windows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding a unicycle?",
+        "answer": [
+            "To make it convenient for [person_1] to open it.",
+            "[person_1] wants the picture to be unique.",
+            "Because [person_1] is trying to tell us that the objective can be adjusted.",
+            "[person_1] wants to place the bass guitar on the laps and play it.",
+            "[person_1] is excited about this action."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stand here.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] is going to lift the barbell.",
+            "[person_1] will stop playing the flute.",
+            "[person_1] is going to ride this [bicycle_1]."
+        ],
+        "reason": [
+            "[person_1] is riding in a certain direction.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "[person_1] is holding the knife and using fingers to keep it on the whetstone.",
+            "[person_1] has just fell off the small chair and waited for a person to help him stand.",
+            "[person_1] just eats food and then he will drink beer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] practices everyday?",
+        "answer": [
+            "[person_1] will be so worry.",
+            "[person_1] will learn to ride [person_1] backward.",
+            "[person_1] will stop eating.",
+            "[person_1] could not go further.",
+            "[person_1] will be well in this exercise."
+        ],
+        "reason": [
+            "It is too cold.",
+            "Practice is the important thing.",
+            "Practice makes perfect.",
+            "Because looking back frequently will distract [person_1].",
+            "The feet of [person_1] will be in direct contact with the ground."
+        ]
+    }
+}

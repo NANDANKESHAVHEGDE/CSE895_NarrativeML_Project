@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the ceiling?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "It is white.",
+            "Blue.",
+            "It is smooth."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] speak?",
+        "answer": [
+            "[person_1] cannot stand the liquid or she feels something wrong with the champagne.",
+            "[person_1] has just been off school.",
+            "[person_1] seems to be in the middle of guiding the others how to play dominoes.",
+            "[person_1] wears shorts to wax the legs easier.",
+            "[person_1] needs a jacket to keep himself warm."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may put down the salt.",
+            "[person_1] is going to carry on playing and guide the others to play with him.",
+            "[person_1] is going to play with toys.",
+            "[person_1] is going to practice the high kick.",
+            "[person_1] will full the cup again."
+        ],
+        "reason": [
+            "Maybe [person_1] loves to read.",
+            "[person_1] is walking very fast.",
+            "Because [person_1] has successfully finished the training.",
+            "[person_1] is holding a baseball bat.",
+            "Because [person_1] can teach the others how to play that game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if no one understood what [person_1] said?",
+        "answer": [
+            "[person_1] would ask [person_1] to kick again.",
+            "[person_1] and [person_1] will collide each other.",
+            "[person_1] might fall.",
+            "The game would soon become boring and everyone would leave.",
+            "[person_1] will ask for others' help."
+        ],
+        "reason": [
+            "Because if they did not understand how to play , they would have no reason to try it.",
+            "In case of getting hurt.",
+            "Because there are several buckets there.",
+            "[person_1] doesn't want to hurt the cow.",
+            "[person_1] is small and alone."
+        ]
+    }
+}

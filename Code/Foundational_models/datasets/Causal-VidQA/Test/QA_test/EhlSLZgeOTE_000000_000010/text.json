@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is blowing out the candles on [person_1].",
+            "[person_1] is recording his fingers playing an electric guitar.",
+            "[person_1] is delivering a speech.",
+            "[person_1] is smoking.",
+            "[person_1] is raising eyebrows."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_1] is sitting on the carpet.",
+            "[person_1] wants to play the lute.",
+            "[person_2] is playing with [person_1].",
+            "[person_1] is playing with paper.",
+            "[person_1] and [person_2] are opening presents."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will have a rest.",
+            "[person_2] may twist to the right.",
+            "[person_2] will repeat his cutting work with a new piece of meat.",
+            "[person_2] will keeping practice.",
+            "[person_2] will try to raising eyebrows."
+        ],
+        "reason": [
+            "[person_2] is sitting on the [person_2].",
+            "[person_1] is smiling happily.",
+            "[person_2] is taking a piece of clothes to fold.",
+            "[person_2] is talking with [person_1].",
+            "[person_2] is starting to wear sari."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] leaves?",
+        "answer": [
+            "[person_1] may hit [person_1].",
+            "[person_2] may not keep raising eyebrows.",
+            "The waist may be twisted.",
+            "Business will get bad.",
+            "[person_2] will take a break from surfing for a moment."
+        ],
+        "reason": [
+            "[person_2] may feel lonely.",
+            "It feels hurt.",
+            "[person_2] will need to rest.",
+            "[person_1] will need to rest.",
+            "Because there is no else worker."
+        ]
+    }
+}

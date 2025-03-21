@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [tv_1] big?",
+        "answer": [
+            "It is in front of [tv_1] and [tv_1].",
+            "No , the [tv_1] is not.",
+            "They are playing guessing game.",
+            "[tv_1] is in the room.",
+            "They are in a music room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] not wearing a shirt?",
+        "answer": [
+            "Because [person_1] wants to harvest raspberries.",
+            "Maybe [person_1] is doing the punishment.",
+            "Because [person_1] is the reflection of [person_1].",
+            "Because [person_1] is playing the gong in front of [person_1].",
+            "[person_1] uses the [person_1] to spread the plaster on the wall."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "[person_1] will enjoy the liquid inside the bottle.",
+            "Maybe [person_1] will continue playing ice hockey with friends.",
+            "[person_1] will try to put [person_1] in a paper box.",
+            "It is predicted that [person_1] will try to hit the cup."
+        ],
+        "reason": [
+            "[person_1] failed to hit the cup.",
+            "To show others how to take out the paint roller.",
+            "[person_1] must keep track of her student's progress.",
+            "[person_1] still has the harmonica on her mouth , closing her eyes to enjoy playing the harmonica.",
+            "They clap for [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will stop standing.",
+            "[person_1] can not deal with her hair.",
+            "[person_1] will stop playing.",
+            "[person_1] maybe cry.",
+            "It will be still bright in the room."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The fan will be off , too.",
+            "The room will be dark.",
+            "The piano will not work.",
+            "The machine can not be used without power."
+        ]
+    }
+}

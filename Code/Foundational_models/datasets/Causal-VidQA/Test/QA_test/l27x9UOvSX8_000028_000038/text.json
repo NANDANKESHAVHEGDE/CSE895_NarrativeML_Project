@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the door?",
+        "answer": [
+            "The sweater is black.",
+            "[person_2] is green.",
+            "It is brown.",
+            "It is on the table.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing the lute with [person_2] and [person_3] like a band.",
+            "Because [person_1] is training.",
+            "[person_1] is directing [person_2] to put the disk in the right place on the table.",
+            "[person_1] is teaching the kids how to wrestle.",
+            "Maybe [person_1] is taking part in a competition on playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to do lunges.",
+            "[person_1] is going to wash his face.",
+            "[person_1] may keep mixing the drink.",
+            "Maybe [person_1] is going to create a perfect performance.",
+            "It seems that [person_1] is going to stop her drill and another student will practice tai chi."
+        ],
+        "reason": [
+            "[person_1] is holding the flute and is about to play.",
+            "Because [person_1] wants to catch [person_1].",
+            "[person_1] looks very happy.",
+            "Maybe [person_1] is more comfortable.",
+            "[person_1] is lying on [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] , [person_2] and [person_3] feel tired?",
+        "answer": [
+            "They will take a short rest.",
+            "[person_1] , [person_2] and [person_3] will start the trip.",
+            "They will take a long rest.",
+            "[person_2] would not work.",
+            "They will take rest forever."
+        ],
+        "reason": [
+            "Maybe they will talk about sex.",
+            "[person_3] is just a child who can not walk yet , so [person_3] will fall if not have the take care of [person_1].",
+            "Maybe they will talk about war.",
+            "the [person_2] is holding a sharp tool for sharpening stone , it can hurt the [person_2].",
+            "Maybe they will talk about music."
+        ]
+    }
+}

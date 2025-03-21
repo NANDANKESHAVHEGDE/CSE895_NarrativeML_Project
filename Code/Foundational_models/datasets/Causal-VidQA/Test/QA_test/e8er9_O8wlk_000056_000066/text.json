@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the chair [person_1] sitting?",
+        "answer": [
+            "[person_1] is sit on [person_1].",
+            "It is black.",
+            "There are 4 red dice.",
+            "The dog is behind [person_1].",
+            "The table is near [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_1] and [person_2] are enjoying [person_3] play didgeridoo.",
+            "The [person_2] is going for walk.",
+            "Maybe [person_1] performs to play the gong.",
+            "Maybe [person_1] feels cold.",
+            "[person_1] holds a badminton racket to play badminton with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to polish the shoes.",
+            "[person_3] is going to keep playing.",
+            "[person_3] is going to enjoy dancing with other people.",
+            "[person_3] is going to use her hips to move to the right.",
+            "It is probable that [person_3] is going to play baseball."
+        ],
+        "reason": [
+            "[person_3] plays very passionately.",
+            "[person_3] is holding the [person_3]'s hand.",
+            "[person_3] is thirsty.",
+            "[person_3] needs to get up to continue playing.",
+            "Because [person_3] ran too fast and fell."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_1] will not practice there.",
+            "[person_1] , [person_2] and [person_3] will get wet.",
+            "[person_1] and [person_2] will not practice high jump.",
+            "[person_1] and [person_3] will not keep playing.",
+            "[person_2] may continue hurdling."
+        ],
+        "reason": [
+            "[person_3] will get wet.",
+            "There are few places to hide from the rain nearby.",
+            "[person_3] and [person_3] are outside.",
+            "[person_3] will not keep playing.",
+            "There is no shelter in the woods . [person_3] is outdoors and has to work in the rain."
+        ]
+    }
+}

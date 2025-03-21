@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's that on eyes of [person_1]?",
+        "answer": [
+            "[person_1] is in the house.",
+            "[person_1] is white and dark.",
+            "[person_1] has a white guitar.",
+            "It's a pair of sun glasses.",
+            "[person_1] is young."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the bottle?",
+        "answer": [
+            "[person_1] is a little nervous.",
+            "The weather is summer.",
+            "In case the bottle drop down.",
+            "It's a habit.",
+            "Maybe [person_1] doesn't like reading old pages."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may get out of the recording room.",
+            "[person_1] is going to find something to clean the beer bottle.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] will get up.",
+            "Maybe [person_1] is going to stop running."
+        ],
+        "reason": [
+            "[person_1] is in the beach.",
+            "Something is making [person_1] happy.",
+            "[person_1] is excited about it.",
+            "[person_3] opened the beer bottle with his shoe . The sole is very dirty.",
+            "[person_1] is smiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if shoes of [person_3] kick face of [person_1]?",
+        "answer": [
+            "Then there might not be round cakes.",
+            "[person_1] will beat [person_3].",
+            "The soil would not be as effective.",
+            "[person_1] won't beat [person_3].",
+            "Surrounding objects would catch fire."
+        ],
+        "reason": [
+            "It's very interesting to be kicked in the face.",
+            "The cork is covered by the label.",
+            "It's very humiliating to be kicked in the hand.",
+            "The dropping influences his dance.",
+            "It's very humiliating to be kicked in the face."
+        ]
+    }
+}

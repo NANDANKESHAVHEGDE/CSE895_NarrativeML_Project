@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [umbrella_1]?",
+        "answer": [
+            "[umbrella_1] is wearing a blue shirt.",
+            "[umbrella_1] is white.",
+            "The [umbrella_1] is big.",
+            "The sweater is black.",
+            "A domino."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is walking on the street.",
+            "Because [person_1] finds the game interesting.",
+            "[person_1] is playing with [sports ball_1].",
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] is going to sleep.",
+            "[person_1] is going to hold [person_1].",
+            "[person_1] is going to back the seat of [person_1].",
+            "It is possible that [person_1] will fall down the bed.",
+            "[person_1] is going to hold a stick."
+        ],
+        "reason": [
+            "[person_1] is going to small [sports ball_1].",
+            "[person_1] is lying on [person_1].",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [sports ball_1] is the next step.",
+            "[person_1] is kite surfing.",
+            "Maybe [person_1] and [person_1] are having a good time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smashes [sport ball_1] on the window?",
+        "answer": [
+            "[person_1] can't wax his chest.",
+            "[person_1] will be cry.",
+            "[person_1] may be painful and stop instructing.",
+            "[person_1] will be scolded by the house owner.",
+            "[person_1] would remain at the spot."
+        ],
+        "reason": [
+            "It would be very funny to see a person dancing totally differently from the others.",
+            "The window will be broken and the owner will spend money to buy a new one.",
+            "[sport ball_1] is a just kid and [sport ball_1] is enjoying swinging.",
+            "It is a great disappointment to find that the food had gone bad at dinner.",
+            "[person_1] is filming so [person_1] needs to make sure everything is fine."
+        ]
+    }
+}

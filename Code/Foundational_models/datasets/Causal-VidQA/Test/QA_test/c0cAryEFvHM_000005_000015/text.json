@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's pink.",
+            "[person_1] is wearing the white shirt.",
+            "It is white.",
+            "It's black.",
+            "It is \u00a0 white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] holding [person_4]?",
+        "answer": [
+            "The saber is sharp and hard.",
+            "[person_3] and [person_4] are wrestling.",
+            "[person_3] pulled the wax in the opposite direction of the hair growth.",
+            "[person_4] is saluting.",
+            "[person_3] is observing the game."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "Maybe [person_3] is going to continue pouring cement.",
+            "[person_3] is going to rest.",
+            "[person_3] will write down his grades.",
+            "[person_3] is going to find a way to knock [person_4] down.",
+            "[person_3] will introduce the watermelon they are eating."
+        ],
+        "reason": [
+            "[person_3] walked away.",
+            "[person_3] is reaching out his hands to hold the tool of [person_4].",
+            "Because [person_3] will continue skating.",
+            "It is an amazing view which does not happen regularly.",
+            "[person_4] and [person_3] both want to win."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if no one can beat the opponent?",
+        "answer": [
+            "[person_4] and [person_3] will have to wrestle one more round.",
+            "[person_4] will go back home.",
+            "They would tell the person that there is no cake left.",
+            "[person_3] will comfort [person_3] to calm down.",
+            "Another person may come to help."
+        ],
+        "reason": [
+            "That is duty of referee.",
+            "Bandage is the useful treatment to the woman's wound.",
+            "The match ends only when there is one winner.",
+            "smoking cigarette requires [person_1] to have a lighter to start burning.",
+            "[person_1] would keep running."
+        ]
+    }
+}

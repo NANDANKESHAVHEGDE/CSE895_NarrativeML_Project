@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the sleeve of [person_1]?",
+        "answer": [
+            "White.",
+            "It is floral pattern.",
+            "It's red.",
+            "Yellow.",
+            "It's short curly hair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] laughing?",
+        "answer": [
+            "Because [person_2] successfully turned the plate.",
+            "Because [person_2] spilled beer all over the floor.",
+            "Because [person_2] wants to find something on the ground.",
+            "Maybe someone is talking with [person_2].",
+            "[person_2] feels happy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand still.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] may trim the remaining flowers.",
+            "[person_1] is going to dry the beer off the floor.",
+            "[person_1] may keep trying to learn more new skills."
+        ],
+        "reason": [
+            "[person_1] wants to score.",
+            "From the status of the left eye , we can see [person_1] has tried many times . So he will enjoy the beer because he open it by his hand , which means he gave up.",
+            "[person_1] needs to practice many times.",
+            "Beer makes the floor sticky.",
+            "[person_1] doesn't finish sticking the wallpaper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the rail is loose?",
+        "answer": [
+            "[person_1] will lose.",
+            "[person_1] will be terrified.",
+            "[person_1] will trip.",
+            "[person_1] will pick up the comb.",
+            "[person_1] will stop."
+        ],
+        "reason": [
+            "The action of forces is reciprocal.",
+            "They will come back home.",
+            "The action of forces is not reciprocal.",
+            "They have some information important in their PPT.",
+            "The action of forces is one side."
+        ]
+    }
+}

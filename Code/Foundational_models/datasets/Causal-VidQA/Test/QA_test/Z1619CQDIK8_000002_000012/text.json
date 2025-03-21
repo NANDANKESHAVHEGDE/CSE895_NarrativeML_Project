@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [tv_1] big?",
+        "answer": [
+            "Yes , it is.",
+            "It is white.",
+            "No , it is not.",
+            "The color of the [tv_1] is orange.",
+            "[tv_1] is sitting on the ground."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] open [book_1]?",
+        "answer": [
+            "She has won the prize.",
+            "Because [book_1] has eye - catching pictures.",
+            "[person_1] practices slacklining very hard.",
+            "[person_1] is spinning plates.",
+            "To keep balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to keep performing.",
+            "[person_1] won't read the book anymore."
+        ],
+        "reason": [
+            "Maybe [person_1] is a child so won't like to read.",
+            "Because [person_1] is wearing a baby bib.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] is touching three cups.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] maybe stop ripping.",
+            "[person_1] maybe afraid.",
+            "[person_1] maybe stop eating.",
+            "[person_1] will stop reading book.",
+            "[person_1] will not be able to continue practicing."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The fan will be off , too.",
+            "The piano will not work.",
+            "The machine can not be used without power.",
+            "The room will be dark."
+        ]
+    }
+}

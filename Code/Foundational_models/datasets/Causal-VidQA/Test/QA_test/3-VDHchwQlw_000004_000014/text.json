@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the T - shirt of [person_1]?",
+        "answer": [
+            "[person_1] is on the road.",
+            "The T - shirt of [person_1] black.",
+            "The T - shirt of [person_1] is white.",
+            "[person_1] is hanged on the wall.",
+            "It is white and golden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the wheelbarrow in the yard?",
+        "answer": [
+            "Because the wheelbarrow is on fire.",
+            "[person_1] uses the gas cooker to roast marshmallows.",
+            "[person_1] is playing music in front of a camera because he is trying to record his musical talent.",
+            "Because they're watching the man in the middle perform.",
+            "[person_1] is standing up to play his guitar in front of the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will continue to introduce the headphone.",
+            "Maybe [person_1] will straighten up.",
+            "Perhaps [person_1] will throw the ball into the cups.",
+            "Maybe [person_1] will keep playing lute until sunset.",
+            "Maybe [person_1] will go home."
+        ],
+        "reason": [
+            "[person_1] puts the picture on the knees.",
+            "[person_1] moving his whole body with the hoop.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] put the wheelbarrow on the yard and turned away.",
+            "There are many wine bottles on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will the wheelbarrow be like if it rains?",
+        "answer": [
+            "[person_1] and [person_1] will feel upset.",
+            "[person_1] and [person_1] can not practice.",
+            "[person_1] will overtake [person_1].",
+            "[person_1] will drink water.",
+            "The wheelbarrow will get wet and the fire will be extinguished."
+        ],
+        "reason": [
+            "The wheelbarrow is on the yard.",
+            "The dance studio is out of power and it will become too dark to dance.",
+            "To make the snowman more beautiful.",
+            "The natural light will still be enough for [person_1] to swim.",
+            "Because it could be dangerous if someone jumps on pieces of the bottle."
+        ]
+    }
+}

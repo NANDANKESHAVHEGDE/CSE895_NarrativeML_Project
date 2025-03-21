@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is next to the [person_1].",
+            "[chair_1] is being sat by [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is being seated by [person_1].",
+            "[chair_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1] mood?",
+        "answer": [
+            "Because [person_1] wants to practice patience.",
+            "[person_1] is put there for [person_1] to sit.",
+            "Because [person_1] wants to erase the old paint.",
+            "[person_1] feels bored after work.",
+            "[person_1] is very happy."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will slow down.",
+            "[person_1] will continue to open present.",
+            "[person_1] is likely to stop playing the keyboard.",
+            "[person_1] will have a rest.",
+            "[person_1]'ll continue making pottery."
+        ],
+        "reason": [
+            "Because [person_1] is turning the steering wheel.",
+            "[person_1] needs to introduce the tied balloon.",
+            "[person_1] is opening present.",
+            "Because [person_1] wants to win.",
+            "[person_1] is laying tiles the room."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] made the chair fall?",
+        "answer": [
+            "[person_1] won't cry.",
+            "[person_1] might get hurt when he fell",
+            "[person_1] will cry.",
+            "[person_1] might get hurt.",
+            "[person_1] will smile."
+        ],
+        "reason": [
+            "[person_1] is not protected.",
+            "[person_1] may be injured.",
+            "Because [person_1] is too short.",
+            "[person_1] won't be injured.",
+            "There are still many places without color."
+        ]
+    }
+}

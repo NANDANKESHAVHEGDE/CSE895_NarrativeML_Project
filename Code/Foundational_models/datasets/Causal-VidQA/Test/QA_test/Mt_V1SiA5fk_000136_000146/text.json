@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1] in the video?",
+        "answer": [
+            "[couch_1] is holding a ball.",
+            "[couch_1] is sitting against the white wall.",
+            "Behind the two men.",
+            "On the main road.",
+            "[couch_1] is on the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] covering his face?",
+        "answer": [
+            "There is a camera fixed inside the tire.",
+            "[person_2] is filming himself so [person_2] is interacting with the camera.",
+            "[person_2] is shaving and trimming his beard.",
+            "[person_2] makes the bubble with a ring.",
+            "Because he loses the game."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do after making smiling?",
+        "answer": [
+            "[person_1] and [person_2] will play one more game.",
+            "[person_1] will continue show how to use the inhaler.",
+            "[person_1] will use the inhaler slowly.",
+            "[person_1] will go on eating the [person_2].",
+            "[person_1] will keep riding the bike"
+        ],
+        "reason": [
+            "We have waited for 10 seconds and want to know the next step.",
+            "[person_1] is waiting for medicine totally being absorbed.",
+            "The loser may not be happy.",
+            "The bradawl is being approached the gong.",
+            "Because they eat cake for the birthday."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] keeps losing?",
+        "answer": [
+            "[person_1] might be kicked.",
+            "The classroom effect will not be good.",
+            "[person_1] needs to practice more.",
+            "He will be upset.",
+            "[person_1] will smooth out the pattern."
+        ],
+        "reason": [
+            "It's very unlikely , but it may happen.",
+            "Because they need to help each other during the trip.",
+            "[person_1] has been resting for a long time.",
+            "[person_1] is being interviewed and all the people will see his mistake.",
+            "To make the wall look darker."
+        ]
+    }
+}

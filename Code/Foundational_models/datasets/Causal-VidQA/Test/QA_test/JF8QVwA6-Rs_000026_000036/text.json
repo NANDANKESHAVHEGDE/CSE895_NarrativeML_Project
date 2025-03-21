@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "It is white.",
+            "It is gray.",
+            "It is black.",
+            "Blue.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did someone put the harmonica in the mouth of [person_1]?",
+        "answer": [
+            "Five people are doing tai chi.",
+            "Maybe that person wanted to teach [person_1] the way to play the harmonica.",
+            "To increase the air pressure inner , making it easier to open it.",
+            "Perhaps playing the harmonica makes [person_1] happy.",
+            "Perhaps arrange the last 2 cups into a single file line to make shooting easier for everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] continues to tear the paper.",
+            "[person_1] will continue to raise [person_1]'s leg.",
+            "[person_1] will raise his right hand.",
+            "[person_1] will not play the harmonica.",
+            "[person_1] will put her arms on the [person_1]'s left thigh."
+        ],
+        "reason": [
+            "There are many wine bottles on the table.",
+            "Because there are still many balls on the table that need to be put into the hole.",
+            "[person_1] turned away.",
+            "[person_1] must feel sore of his waist.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] likes the harmonica?",
+        "answer": [
+            "[person_1] will get hurt and wake up.",
+            "[person_1] and [person_1] won't see the fish.",
+            "The teacher of [person_1] may stop [person_1].",
+            "[person_1] will be sad.",
+            "[person_1] will hold it."
+        ],
+        "reason": [
+            "[person_1] stands next to [person_1].",
+            "Because you can't cook meat without a tool.",
+            "[person_1] didn't hold the harmonica.",
+            "Because there should be some people holding the boards when others kick.",
+            "Because the plaster was not dry yet so it could stick to other surfaces."
+        ]
+    }
+}

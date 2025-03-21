@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is a big room.",
+            "The room is very big.",
+            "It is quite large.",
+            "The room is quite large.",
+            "The room is quite bright."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] look like?",
+        "answer": [
+            "[person_1] is shaving himself.",
+            "[person_1] looks very concentrated on playing harmonica.",
+            "Because [person_1] of hand has a problem , maybe [person_1] of hand is paralyzed and needs [person_1] help.",
+            "[person_1] wants to practice holding the ball with the hockey stick.",
+            "[person_1] is watering the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will continue playing the clarinet.",
+            "[person_1] will continue using the painting gas.",
+            "[person_1] will continue to wash the plate under running water.",
+            "[person_1] will continue playing the harmonica."
+        ],
+        "reason": [
+            "[person_1] has not finished the performance.",
+            "[person_1] has finished the performance.",
+            "[person_1] will play his bagpipes loudly because he doesn't have to worry about disturbing anyone because no one is around.",
+            "[person_1] hasn't finished washing the dishes yet.",
+            "Because he seems to be quite interested in it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were a street performer?",
+        "answer": [
+            "[person_1] would earn a lot of money by playing harmonica at the street.",
+            "The head of the [person_1] would be cold.",
+            "The [person_1] might get a traffic accident.",
+            "The [person_1] will not play another instrument called a piano.",
+            "[person_1] will open the fan."
+        ],
+        "reason": [
+            "On the highway , there is traffic that causes an accident.",
+            "From the video we can see that [person_1] is right - handed.",
+            "The [person_1] is little and the bowl is slippery.",
+            "[person_1] plays the harmonica like an expert.",
+            "[person_1] is made of glass."
+        ]
+    }
+}

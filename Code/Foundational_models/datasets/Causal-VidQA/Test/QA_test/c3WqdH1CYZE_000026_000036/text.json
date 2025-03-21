@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of the cloth of [person_1]?",
+        "answer": [
+            "It's dark blue.",
+            "The shirt is black.",
+            "It's white.",
+            "The [person_1] is placed on the right of the screen.",
+            "Red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pick up a thing?",
+        "answer": [
+            "Maybe [person_1] wants to be a good skater.",
+            "[person_1] wants to press juice out of orange.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "Because the [person_1] wants to know which treble keyboard needs to touch.",
+            "Because [person_1] needs to put the slides on the platform."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to stand there to perform.",
+            "[person_1] is going to sit down.",
+            "[person_1] is likely to hug [person_1].",
+            "[person_1] is going to adjust the location of the slides."
+        ],
+        "reason": [
+            "The hands of [person_1] are moving the slides.",
+            "[person_1]'s hands are up close to the glasses.",
+            "Maybe [person_1] has woven a lot.",
+            "[person_1] looks so exciting.",
+            "Maybe [person_1] is more comfortable."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the table in broken suddenly?",
+        "answer": [
+            "[person_1] will follow her mom's instructions.",
+            "The microscope will break.",
+            "[person_1] wouldn't have to put away the wheelbarrow.",
+            "[person_1] would not put the shredded paper in the sack.",
+            "[person_1] maybe chew the shoes."
+        ],
+        "reason": [
+            "The treatment hasn't been done.",
+            "The microscope is a very precise instrument , a little collision will affect its normal use.",
+            "[person_1] stepped forward quickly.",
+            "[person_1] is not tall enough to do it because he looks quite short.",
+            "The [person_1] is very wide and comfortable."
+        ]
+    }
+}

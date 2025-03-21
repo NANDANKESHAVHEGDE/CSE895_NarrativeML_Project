@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "They are in the yard.",
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are in their house.",
+            "[person_1] and [person_2] are on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting next to [dining table_1] ?",
+        "answer": [
+            "Because [person_2] can be the coach and is teaching [person_1] and [person_2].",
+            "He is watching [person_2] unwrapping the present.",
+            "[person_1] and [person_2] are playing mahjong.",
+            "[person_2] teaching [person_1] and [person_2] how to playing chess.",
+            "[person_1] is practicing a move in tai chi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is highly likely to laugh.",
+            "[person_1] going to continue to play the game.",
+            "[person_1] will learn more movements.",
+            "[person_1] may stand up.",
+            "[person_1] is going to show some skills."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "[person_1] has bent back.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is playing mahjong at home with his friends."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if  [person_2] keeps the mahjong [person_1] needs?",
+        "answer": [
+            "[person_1] wouldn't be hurt.",
+            "[person_1] will have to leave.",
+            "[person_1] may continue recording his schedule of digging soil.",
+            "[person_1] won't be able to win.",
+            "[person_1] won't be able to walk all the way through the rope."
+        ],
+        "reason": [
+            "[person_1] feels excited.",
+            "To find the best angle to hit the golf.",
+            "that's [person_2] good strategy.",
+            "Because [person_1] will calcine [person_2].",
+            "Because cream's color can be changed easily."
+        ]
+    }
+}

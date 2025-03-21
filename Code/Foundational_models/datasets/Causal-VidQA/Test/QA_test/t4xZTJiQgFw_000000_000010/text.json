@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [couch_1]?",
+        "answer": [
+            "[couch_1] is gray.",
+            "It is black.",
+            "[couch_1] is yellow.",
+            "No.",
+            "Behind [couch_1] is a bookshelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the boy so happy?",
+        "answer": [
+            "Because his mother is playing with him.",
+            "To do some exercises.",
+            "Because it's spacious there.",
+            "Because [person_1]'s balance is so good.",
+            "[person_1] is excited about throwing into the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after losing?",
+        "answer": [
+            "[person_1] is going to put his mouth on the mirror.",
+            "It's going to travel pass the bridge.",
+            "The grass under the shelf will be lit.",
+            "[person_1] will go on playing.",
+            "[person_1] will not eat by herself anymore."
+        ],
+        "reason": [
+            "Because he is currently a participant of the race and he is also wearing protective gear.",
+            "Usually we buy the drinks with package.",
+            "Because he's happy for now.",
+            "The costume looks heavy , so the dancer will change her clothes first.",
+            "The snake is constricting and wrapping its tail around [person_1] wrist and forearm."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if [person_1] falls?",
+        "answer": [
+            "The cup and the dices would fly away.",
+            "[person_1] might help [person_1] up.",
+            "[person_1] will lose the banana.",
+            "[person_1] will cry.",
+            "Then the [person_1] may roll off the [person_1]."
+        ],
+        "reason": [
+            "If [person_1] stayed on [person_1] , [person_1] might be hurt.",
+            "Because [person_1] will be ripped torn and [person_1] doesn't like that.",
+            "The white bowl is made of porcelain.",
+            "Because little boys often cry for failures.",
+            "He will see a doctor."
+        ]
+    }
+}

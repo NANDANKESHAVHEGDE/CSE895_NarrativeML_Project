@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] , [person_2] , [person_3] and [person_4]?",
+        "answer": [
+            "[person_1] , [person_2] are sitting at the table.",
+            "[person_1] , [person_2] and [person_3] are in the room.",
+            "[person_1] , [person_2] , and [person_4] are sitting on the sofa.",
+            "[person_2] is on the right of [person_2].",
+            "[person_1] , [person_2] , [person_3] and [person_4] are at music festival."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put down his clarinet?",
+        "answer": [
+            "[person_1] is shredding the paper.",
+            "[person_1] is playing drums.",
+            "[person_1] is about to stop performing.",
+            "[person_1] is taking pictures.",
+            "[person_1] wants to keep his balance on the mechanical bull."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] , [person_3] and [person_4] do next?",
+        "answer": [
+            "[person_1] wants to hang these things on the Christmas tree.",
+            "[person_1] , [person_2] , [person_3] , [person_4] , [person_1] and [person_4] are going to decorate the house.",
+            "[person_1] , [person_2] , [person_3] and [person_4] will stop performing.",
+            "[person_3] and [person_4] are going to step to the left.",
+            "The game of dominoes between them will last longer."
+        ],
+        "reason": [
+            "[person_2] putting the axe high in the air.",
+            "[person_1] , [person_2] , [person_3] and [person_4] are putting down their instruments.",
+            "[person_1] has finished mopping the floor.",
+            "[person_3] and [person_4] show up on the stage with suits and instruments.",
+            "There is still so much shampoo on the hair of the [person_1] who wears a red T - shirt."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] , [person_2] , [person_3] and [person_4] did not put their instruments down?",
+        "answer": [
+            "[person_1] , [person_2] , [person_3] and [person_4] would continue the performance.",
+            "[person_1] would be mad at [person_2].",
+            "[person_1] would be cut on his head.",
+            "[person_1] won't whistle anymore and looks for another game.",
+            "[person_1] won't get any rest."
+        ],
+        "reason": [
+            "[person_1] accidentally threw the ball to [person_2]'s head.",
+            "Because [person_1] is showing her belly . She can't let it cover by a long shirt.",
+            "[person_1] , [person_2] , [person_3] and [person_4] have not finished the performance.",
+            "The doctor will handle it.",
+            "[person_1] was so happy that he hit the right spot."
+        ]
+    }
+}

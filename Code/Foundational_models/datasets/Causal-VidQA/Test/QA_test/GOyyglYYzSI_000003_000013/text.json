@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is under [person_1].",
+            "It is next to the [person_1].",
+            "It is behind [person_1].",
+            "[chair_1] is under [chair_1].",
+            "The [chair_1] is on the sand and behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the didgeridoo?",
+        "answer": [
+            "Maybe [person_1] is stressed and [person_1] wants to relax.",
+            "[person_1] is holding a stick to be balanced.",
+            "Because [person_1] smokes.",
+            "[person_1] is squeezing grape juice.",
+            "[person_1] is playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep playing harder.",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] may drink water.",
+            "[person_1] might put the plate in the oven.",
+            "[person_1] will uncork the bottle."
+        ],
+        "reason": [
+            "Because the grass has been very clean , [person_1] needs to clean the road instead.",
+            "The didgeridoo looks very heavy.",
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] moving his whole body with the hoop.",
+            "[person_1] puts the picture on the knees."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] can not hold the didgeridoo?",
+        "answer": [
+            "[person_1] will not appear on stage.",
+            "[person_1] would still keep playing by another way.",
+            "Many people will come here and enjoy the music.",
+            "[person_1] may not find useful things.",
+            "[person_1] would be exhausted."
+        ],
+        "reason": [
+            "The assistant will do it.",
+            "[person_1] will be injured.",
+            "The didgeridoo looks very heavy , long and big.",
+            "[person_1] might take a rest.",
+            "[person_1] can not sing without it."
+        ]
+    }
+}

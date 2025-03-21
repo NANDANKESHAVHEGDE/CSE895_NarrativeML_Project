@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "They are in the yard.",
+            "[person_1] and [person_2] are in their house.",
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are in the yard.",
+            "[person_1] and [person_2] are on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] clapping?",
+        "answer": [
+            "[person_2] is helping [person_2] practicing side - kicking.",
+            "Because [person_2] just finished throwing darts.",
+            "They are practicing side - kicking to keep fit.",
+            "They are practicing rugby.",
+            "[person_2] is talking about whistling - a tradition of a certain nation."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to throw a dart.",
+            "[person_1] is going to run.",
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "[person_1] is looking at [person_1] to learn from [person_1] and [person_1] is exercising with the exercising ball.",
+            "[person_1] is snowmobiling.",
+            "[person_1] has run out of cards",
+            "[person_1] holds the hoop before hooping.",
+            "It is the turn of [person_1] now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] scores more points than [person_2]?",
+        "answer": [
+            "[person_1] will be injured.",
+            "[person_1] will win.",
+            "[person_2] will lose.",
+            "[person_1] would look more handsome.",
+            "[person_1] might become a laughing stock for not being able to take any photo."
+        ],
+        "reason": [
+            "[person_1] did a lot pf difficult moves.",
+            "It is really sunny.",
+            "[person_1] would not have hand to hold the accordion while playing the accordion.",
+            "Because there are some empty potato chips bag under [person_1] feet.",
+            "Whoever scores more points wins."
+        ]
+    }
+}

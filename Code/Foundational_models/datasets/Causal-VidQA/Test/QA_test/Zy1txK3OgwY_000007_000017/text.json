@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is next to the window.",
+            "[chair_1] is in a room.",
+            "The [chair_1] is behind the gong.",
+            "The [chair_1] is on the left side of the road.",
+            "[chair_1] is on the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pulling the wheelchair for [person_2]?",
+        "answer": [
+            "The [person_1] wanted to eat them.",
+            "Because [person_1] helps [person_2] to go faster.",
+            "Because [person_1] is trying to tell us he's gonna open a beer bottle with [person_1].",
+            "Perhaps [person_1] is demonstrating how to shine shoes.",
+            "Because the [person_1] is performing the song with accordion."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "It is anticipated that [person_1] and [person_2] will keep going forward.",
+            "It is foreseen that [person_1] and [person_2] will look at the balloons in the sky.",
+            "[person_1] and [person_2] will kiss.",
+            "They will go swimming in the sea.",
+            "It is predicted that [person_1] and [person_2] will use the ball to play with one another."
+        ],
+        "reason": [
+            "[person_1] and [person_2] seem to enjoy what they are doing.",
+            "[person_1] and [person_2] went to the middle of the road.",
+            "[person_1] and [person_2] are stretching their arms very evenly.",
+            "[person_1] and [person_2] want to celebrate a birthday.",
+            "[person_1] and [person_2] look very excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't pull the wheelchair for [person_2]?",
+        "answer": [
+            "Someone would help [person_2] to push the wheelchair.",
+            "[person_2] will not become softer and [person_2] will taste bad.",
+            "[person_1] will then practice hitting without the real golf.",
+            "[person_2] will blow out the candle.",
+            "It would be more difficult for [person_2] to do the movement [person_2] is doing."
+        ],
+        "reason": [
+            "There are still a lot of people here.",
+            "It seems that [person_1] is good at playing the harmonica.",
+            "There is a lot of music to memorize.",
+            "[person_1] held the harmonica like a toy only.",
+            "[person_1] may bump into things."
+        ]
+    }
+}

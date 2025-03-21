@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing mahjong.",
+            "[person_1] is talking.",
+            "[person_1] is playing the harp.",
+            "[person_1] is leaning on [person_1] back.",
+            "[person_1] is unwrapping [person_1]'s present."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] talking?",
+        "answer": [
+            "Keyboard is a part of the piano.",
+            "Because the ball tumble to the bush.",
+            "[person_1] maybe talking about cigarettes.",
+            "[person_1] wants to show people how to run properly.",
+            "[person_1] is chopping the wood."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to take the pencil out of the sharpener.",
+            "[person_1] is going to move the finger to another key.",
+            "[person_1] is going to smoke.",
+            "[person_1] is going to do flip the pancake again.",
+            "[person_1] is going to run to the right."
+        ],
+        "reason": [
+            "because [person_1] is smiling widely.",
+            "because [person_1] is practicing raising leg.",
+            "[person_1] is holding a cigarette.",
+            "because [person_1] practice hard.",
+            "because [person_1] is squatting and reach for that thing."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [dining table_1] is not in the video?",
+        "answer": [
+            "[dining table_1] will fall to the ground.",
+            "[person_1] would be able to put the ball in the basket easier.",
+            "[person_1] will not be able to hold her hair in place.",
+            "We can see what these two people are doing.",
+            "[person_1]'s arms will likely stay by his side."
+        ],
+        "reason": [
+            "There are so many chairs against the wall which is behind [dining table_1].",
+            "There would be nothing to eat except for the table of food.",
+            "Because [person_1] is working with the tube.",
+            "[person_1]'s arms are on the [dining table_1].",
+            "The place where [person_1] hit on is the bell of the maracas."
+        ]
+    }
+}

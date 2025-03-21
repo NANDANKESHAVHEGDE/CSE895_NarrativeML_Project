@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bicycle_1]?",
+        "answer": [
+            "the [bicycle_1] is on the floor.",
+            "The [bicycle_1] is being held by the [person_1].",
+            "The hair is yellow.",
+            "The [person_1] is standing behind the [bicycle_1].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] jump to the ground?",
+        "answer": [
+            "Maybe [person_1] just wants to check the sound of the gong.",
+            "Because the [person_1] failed to keep balance on the [bicycle_1].",
+            "The [person_1] seems to be looking for something in the refrigerator.",
+            "Because [person_1] is playing guitar and whistling.",
+            "[person_1] is holding the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "[person_1] wants to scratch her hair.",
+            "The [person_1] may carry on playing with the hoop.",
+            "The [person_1] may stop riding the [bicycle_1].",
+            "[person_1] will make a new turn.",
+            "[person_1] will continue practicing."
+        ],
+        "reason": [
+            "The [person_1] is able to ride the unicycle.",
+            "[person_1] may feel hot under the hot sun.",
+            "Because the [person_1] wants to make the clothes clean by himself.",
+            "Because the [person_1] has not used it before.",
+            "The [person_1] could not keep balance when riding the [bicycle_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not jump to ground?",
+        "answer": [
+            "[person_1] will go to the drugstore.",
+            "The [person_1] would fall with the [bicycle_1].",
+            "[person_1] may choose to choose other thing to carry.",
+            "[person_1] will get hurt and wake up.",
+            "Then [person_1] may sit on the ground and can't move."
+        ],
+        "reason": [
+            "[person_1] could not move without wind.",
+            "[person_1] stands in front of the [person_1].",
+            "[person_1] has been resting for a long time.",
+            "[person_1] may be teased by others.",
+            "The [person_1] was unsteady on the [bicycle_1]."
+        ]
+    }
+}

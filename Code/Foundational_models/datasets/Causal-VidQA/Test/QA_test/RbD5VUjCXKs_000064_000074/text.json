@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is clean.",
+            "The room is colorful.",
+            "The room is dark.",
+            "The room is very big.",
+            "There are two vases."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in front of the microphone?",
+        "answer": [
+            "[person_1] is singing and playing guitar.",
+            "[person_1] finds it interesting.",
+            "[person_1] is playing the harmonica.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is playing the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will activate the printer.",
+            "[person_1] will perform his entire performance and go down the stage.",
+            "[person_1] will cut the hair on the back of [person_1]'s head.",
+            "[person_1] will pick up the hoop.",
+            "[person_1] will stop."
+        ],
+        "reason": [
+            "[person_1] gives up the stage for the next performance.",
+            "[person_1] is playing harp.",
+            "[person_1] has prepared a hole on the ground.",
+            "[person_1] is bored . [person_1] didn't play for a moment.",
+            "[person_1] is holding a wine glass."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the power is turned off?",
+        "answer": [
+            "The room might be full of darkness.",
+            "[person_1] probably stopped playing.",
+            "Maybe they will hurt.",
+            "The cameraman will be very sad.",
+            "The crowd watching the show may disperse."
+        ],
+        "reason": [
+            "After [person_1] leaves the equipment , the equipment is free to use and there nobody on the equipment , so [person_1] can sit on it.",
+            "The crowd do not want themselves to get wet.",
+            "The stage suddenly turns off the lights and gets dark.",
+            "The goat is near [person_1] because [person_1] feeds it.",
+            "[person_1] lost the fish that he just caught."
+        ]
+    }
+}

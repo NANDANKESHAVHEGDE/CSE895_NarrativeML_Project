@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] holding?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is holding two dumbbells.",
+            "[person_1] is holding a lizard.",
+            "[person_1] is holding an underwear.",
+            "[person_1] is holding a guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] laughing?",
+        "answer": [
+            "[person_1] is dropping marbles from [person_1].",
+            "[person_1] is making the lizard smoke the cigarette.",
+            "Because [person_1] lost [person_1]'a center of gravity.",
+            "Because [person_1] is playing the game.",
+            "Because [person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] might continue reading the newspaper.",
+            "[person_1] might exhale smoke.",
+            "[person_1] is going to make a snowball to play throwing snowballs with [person_1].",
+            "[person_1] might ask for help.",
+            "[person_1] might put the lizard down."
+        ],
+        "reason": [
+            "[person_1] is turning toward the hallway.",
+            "[person_1] doesn't do anything else.",
+            "[person_1] is moving the lizard down with his left hand.",
+            "because [person_1] still has a few pages left.",
+            "when [person_1] flips the bottle , [person_1] did not notice."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if the lizard is not there?",
+        "answer": [
+            "[person_1] will not be able to continue working.",
+            "[person_1] is going to smoke the cigarette with the lizard.",
+            "[person_1] will not score.",
+            "[person_1] is going to smoke the cigarette without the lizard.",
+            "[person_1] will be scolded."
+        ],
+        "reason": [
+            "[person_1] is smoking the cigarette while the lizard is holding onto the cigarette.",
+            "[person_1] could hardly keep his balance while wearing the roller skates.",
+            "[person_1] is smoking the cigar while the lizard is holding onto the cigarette.",
+            "[person_1] was trying to pass through all obstacles without touching them.",
+            "[person_1] is smoking the cigarette while the lizard is throwing onto the cigarette."
+        ]
+    }
+}

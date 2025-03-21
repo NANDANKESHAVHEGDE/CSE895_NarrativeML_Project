@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_3] ?",
+        "answer": [
+            "[person_1] is holding a bagpipe.",
+            "[person_1] is holding an underwear.",
+            "The chair looks like the golden chair.",
+            "[person_1] and [person_3] are in the house.",
+            "A watch is being worn on [person_3] hand."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_3] at in the house?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading a book.",
+            "Because [person_1] just received a gift.",
+            "There some information that the [person_1] can read.",
+            "[person_1] is ripping paper."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_3] going to do?",
+        "answer": [
+            "[person_1] and [person_1] are going to start skating.",
+            "[person_1] and [person_3] are going to open the gift box.",
+            "[person_1]'s relative is going to give [person_1] a helping hand.",
+            "[person_1] and [person_3] will go on dancing.",
+            "[person_1] wants [person_1] to help her."
+        ],
+        "reason": [
+            "After [person_1] pushes the cart for a while , [person_1]'s relative holds the cart to push.",
+            "[person_1] wants to stop.",
+            "[person_1] wants to have a rest.",
+            "[person_1] and [person_3] clapped hand when [person_1] jumped over the crossbar.",
+            "Because [person_1] wants to know what's inside."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if there's nothing inside the gift?",
+        "answer": [
+            "[person_1] will send the car to the repair factory.",
+            "The [person_1] will touch the dog's head.",
+            "[person_1] may be very disappointing.",
+            "[person_1] and [person_1] will lose.",
+            "[person_1] will then run to the golf club."
+        ],
+        "reason": [
+            "[person_3] is kicking [person_3]'s hands rapidly.",
+            "There are many pairs of different glasses next to [person_3].",
+            "Because inside the gift there is nothing.",
+            "[person_3] is washing her hands thoroughly because she will work on something that requires clean hands.",
+            "[person_1] stands in front of [person_1]."
+        ]
+    }
+}

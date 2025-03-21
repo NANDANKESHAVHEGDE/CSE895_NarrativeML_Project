@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_1] are skating on roller skates.",
+            "[person_1] and [person_2] are in the room.",
+            "It is behind [person_1].",
+            "It is quite dark.",
+            "[person_1] and [person_2] are at the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [person_2]'s hand?",
+        "answer": [
+            "Because [person_1] is trying to balance himself.",
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] and [person_2] are skating together.",
+            "[person_1] and [person_1] are performing together at a concert.",
+            "[person_1] is smoking hookah."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to run.",
+            "[person_1] will turn off the camera.",
+            "[person_1] is going to balance so [person_2] doesn't fall.",
+            "[person_1] is going to stop the video.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "[person_1] is looking at [person_2] to learn from [person_2] and [person_2] is exercising with the exercising ball.",
+            "[person_1] has finished [person_1]'s action.",
+            "[person_1] is raising [person_2] high.",
+            "[person_1] is snowmobiling.",
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_2]'s wound."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] accidentally falls?",
+        "answer": [
+            "[person_1] will cry aloud.",
+            "[person_1] will stop eating hot dogs.",
+            "[person_1] will pat [person_2] gently.",
+            "Maybe [person_1] will stop skating.",
+            "[person_2] will leave the grass immediately."
+        ],
+        "reason": [
+            "[person_1] takes [person_2] to the hospital.",
+            "When the child cries , adults will come and comfort him.",
+            "It means that [person_1] doesn't like it.",
+            "[person_2] will help [person_1].",
+            "[person_1] and [person_2] are standing outside."
+        ]
+    }
+}

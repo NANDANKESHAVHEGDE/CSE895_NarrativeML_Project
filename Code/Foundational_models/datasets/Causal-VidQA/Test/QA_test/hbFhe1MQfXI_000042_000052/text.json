@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1]?",
+        "answer": [
+            "It is on the wall.",
+            "[couch_1] is standing on a mattress.",
+            "[couch_1] is standing next to a wooden desk.",
+            "[couch_1] on the cupboard.",
+            "It is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] kneel?",
+        "answer": [
+            "[person_1] kneels to easily play didgeridoo.",
+            "The plate has been discarded.",
+            "Because the house wall is newly built and not plastered yet.",
+            "[person_1] is enjoying the rhythm of music.",
+            "Because gym equipment needs a place to be stored."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to wrap the gift again.",
+            "[person_1] intends to be good at playing violin.",
+            "[person_1] intends to call his friend.",
+            "[person_1] intends to pull with two hands.",
+            "[person_1] intends to fold over the other side of the paper and tape it down."
+        ],
+        "reason": [
+            "[person_1] crouched down at the billiard table and determined the direction of the billiards shot.",
+            "The [person_1]'s hand is still hovering over the keyboard.",
+            "[person_1] looks very focused while playing didgeridoo.",
+            "[person_1] is waving his hand.",
+            "[person_1] wants to rest a few minutes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stands up?",
+        "answer": [
+            "[person_1] won't be able to play.",
+            "[person_1] would be hurt.",
+            "[person_1] would have to play on his own.",
+            "The people behind him could not see.",
+            "Then [person_1] and [person_1] may not receive the delivery that day."
+        ],
+        "reason": [
+            "Because [person_1] holds the rope too tightly which is rough.",
+            "Maybe [person_1] spent a lot of time in the room.",
+            "Because the recipient can't sign it , the courier can't deliver it.",
+            "[person_1] would be able to trip over the person kneeling below.",
+            "The didgeridoo is too big and heavy."
+        ]
+    }
+}

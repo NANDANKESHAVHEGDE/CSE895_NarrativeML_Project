@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the street.",
+            "[person_1] is on the stage.",
+            "[person_1] is in bathroom.",
+            "[person_1] is near the window.",
+            "[person_1] is in the stadium."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the stadium?",
+        "answer": [
+            "The [person_1] prepares to slide down a snowy hill.",
+            "[person_1] and [person_1] didn't throw the ball into any cups of the opposing team.",
+            "[person_1] is performing a trick with his tongue.",
+            "[person_1] is doing a gymnastics move.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] said while instructing people to do that move.",
+            "[person_1] is going to play there.",
+            "[person_1] will come up the stairs.",
+            "Maybe [person_1] is going to move quicker.",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "Maybe [person_1] will read the whole [person_1].",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] holds the hoop before hooping.",
+            "[person_1] is snowmobiling.",
+            "because [person_1] wants to guide people to practice that movement."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] is in the gym?",
+        "answer": [
+            "[person_1] will deflect.",
+            "The [person_1] might surprise the children.",
+            "[person_1] would take drinks from the [person_1].",
+            "Instruction will be easier.",
+            "[person_1] would see [person_1]."
+        ],
+        "reason": [
+            "Maybe [person_1] house has run out of food.",
+            "Because [person_1] will not be affected by weather and noise.",
+            "Perhaps [person_1] will go out.",
+            "The [person_1] shows her talent , tries to perform well and finishes soon.",
+            "It may be more difficult to keep the balance while [person_1] is skating backward since [person_1] can't see behind her . She must start slowly and figure out how to turn the body to look behind her without falling down."
+        ]
+    }
+}

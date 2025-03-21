@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is brown.",
+            "The shirt is red.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "The shirt is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] is sitting in the chair?",
+        "answer": [
+            "[person_1] is playing something with another person.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is playing with his caretaker.",
+            "[person_1] is looking at someone who is standing near her.",
+            "[person_1] is playing the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] does a workout.",
+            "[person_1] may stop recording.",
+            "[person_1] will check the honey.",
+            "[person_1] is going to continue to perform.",
+            "[person_1] might stand up."
+        ],
+        "reason": [
+            "[person_1] is upset.",
+            "The tap is still on.",
+            "Because [person_1] has reached for the phone , it looks like the recording is finished.",
+            "Maybe the weights are too heavy.",
+            "[person_1] is on the stage."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the guitar is out of tune?",
+        "answer": [
+            "They will not be there.",
+            "The staff will go to check.",
+            "The ball will hit [person_1].",
+            "[person_1] probably stopped playing.",
+            "The juice inside the fruit would spill."
+        ],
+        "reason": [
+            "Because the girl were not strong enough to move the machine.",
+            "[person_1] needs tuning.",
+            "The staff need to make sure that everything goes on.",
+            "To pick up [person_1] first.",
+            "Because fire is very dangerous."
+        ]
+    }
+}

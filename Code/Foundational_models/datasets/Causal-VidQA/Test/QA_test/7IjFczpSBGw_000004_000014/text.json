@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the floor?",
+        "answer": [
+            "The room is pink.",
+            "The floor is white color.",
+            "Black.",
+            "The main color of the floor is brown.",
+            "[person_2] is wearing black pants with white line."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] running?",
+        "answer": [
+            "[person_2] wants to keep fit.",
+            "To detect rubbish.",
+            "[person_2] lands unsuccessfully.",
+            "[person_2] is performing.",
+            "Maybe [person_2] is introducing playing the harmonica in a music program."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do if he isn't feeling well?",
+        "answer": [
+            "[person_2] may leave.",
+            "[person_2] will put him to sleep.",
+            "[person_2] will rest at once.",
+            "He will start to act like his comrades.",
+            "[person_2] might cut [person_2]."
+        ],
+        "reason": [
+            "The match has not ended yet.",
+            "[person_2] is wearing nurse uniform.",
+            "Excessive exercise will harm the body.",
+            "[person_2] and others are still dancing.",
+            "Because it is a great show."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would he do if the treadmill exploded?",
+        "answer": [
+            "He would not run around.",
+            "He will not run away.",
+            "The song could be unsuitable for listener.",
+            "He will run away.",
+            "That would mean the machine is out of order."
+        ],
+        "reason": [
+            "Otherwise he will get hurt.",
+            "Because they are in the capsule.",
+            "Otherwise he will not get hurt.",
+            "Because the meat is polluted.",
+            "Otherwise he will get cured."
+        ]
+    }
+}

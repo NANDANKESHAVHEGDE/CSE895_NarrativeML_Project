@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing field hockey.",
+            "[person_1] is playing music.",
+            "[person_1] is trimming shrubs.",
+            "[person_1] is striking the wooden table.",
+            "[person_1] is opening the bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] nodding his head?",
+        "answer": [
+            "[person_1] is learning to play chess.",
+            "[person_1] is enjoying the music.",
+            "[person_1] is going out with his family.",
+            "[person_1] is playing chess.",
+            "[person_1] is seeing [person_1]'s gifts."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to bend his body , reach his feet.",
+            "[person_1] is going to move his hands down to the end of the guitar.",
+            "[person_1] is going to vacuum the center of the carpet.",
+            "[person_1] is going to take a rest.",
+            "[person_1] is going to command his soldiers to fight against the enemies."
+        ],
+        "reason": [
+            "[person_1] was unconscious after he fell off the chair.",
+            "[person_1] was moving his hands down the guitar.",
+            "[person_1] sits up to touch his shoes , raises his hand to lie down.",
+            "because [person_1] still has a few pages left.",
+            "[person_1] has already set up the machine on the computer."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_2] plays the guitar?",
+        "answer": [
+            "[person_2] will feel disappointed.",
+            "[person_1] will have to wait for his turn to play.",
+            "[person_2] may fight her back.",
+            "[person_2] will stop playing.",
+            "[person_1] can't wear the shoe."
+        ],
+        "reason": [
+            "It is not safe acting like that.",
+            "[person_2] was reporting.",
+            "[person_2] did a great job.",
+            "there is only one guitar in the video.",
+            "[person_2] wants to watch it more."
+        ]
+    }
+}

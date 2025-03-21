@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it a gym?",
+        "answer": [
+            "Yes , it is.",
+            "There is one person.",
+            "There are two.",
+            "There are a lot of cars.",
+            "It is on a road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "The boy couldn't move the guitar out.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is doing weightlifting.",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "It's quieter in the room than outside."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to put the cans down.",
+            "[person_1] will put his foot into his mouth.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] may be going to take a rest."
+        ],
+        "reason": [
+            "The reflection in the ball is not the same as his own appearance , which will arouse his curiosity.",
+            "He seems like this kind of jump.",
+            "[person_1] is lifting weights.",
+            "[person_1] is going to learn how to keep balance so that he can take off 2 spare wheels on the [person_1].",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "[person_1] will be leave the practice room.",
+            "[person_1] won't be able to reading.",
+            "The match might be postponed.",
+            "[person_1] will take the instrument to be repaired.",
+            "[person_1] will stop drinking."
+        ],
+        "reason": [
+            "The rope is not long enough to play.",
+            "The weights is very heavy.",
+            "The rope is rubber band so the rope has elasticity.",
+            "Due to not enough light to practice.",
+            "Because dogs can not pull [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is [chair_1]?",
+        "answer": [
+            "It is big.",
+            "[chair_1] is near [chair_1].",
+            "[chair_1] is at the corner of the room.",
+            "It is in the room.",
+            "[chair_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] siting on [chair_1]?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] just received a gift.",
+            "[person_1] is reading a book.",
+            "[person_1] is putting her mouth on [person_1] to blow into it so she can play her bagpipes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to continue seesawing and reading the book.",
+            "[person_1] is going to stand again."
+        ],
+        "reason": [
+            "Because [person_1] acts as a guide.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "[person_1] is touching three cups.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step.",
+            "[person_1] looks attentive when reading while seesawing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] took the book from [person_1]?",
+        "answer": [
+            "Then the little girl may cross the road.",
+            "[person_1] would be angry.",
+            "[person_1] will be boring.",
+            "[person_1] will try again.",
+            "Some people will have to work hard."
+        ],
+        "reason": [
+            "[person_1] will take off his coat.",
+            "The wheel doesn't seem to work properly . After changing the wheels we can drive safety.",
+            "Between [person_2] is using a spade to dig the hole.",
+            "[person_1] is paying attention in reading.",
+            "It probably wouldn't match the bag because the bag looks so shiny."
+        ]
+    }
+}

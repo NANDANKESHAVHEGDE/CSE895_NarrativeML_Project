@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the [person_1] wearing a hat?",
+        "answer": [
+            "The [person_1] is playing a kind of sport.",
+            "He gives her wife a diamond.",
+            "The [person_1] is wearing a T - shirt and jeans.",
+            "The [person_1] is wearing black glasses.",
+            "Yes , [person_1] is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing the wheelchair?",
+        "answer": [
+            "Because [person_1] is teaching [person_5] how to read book.",
+            "Because [person_1] wants to create sound.",
+            "Maybe [person_1] and [person_5] are punishing [person_1].",
+            "Because [person_1] is taking pictures of memories.",
+            "Because [person_1] is helping [person_5] to walk."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will remove the iron rod from the device.",
+            "[person_1] will continue skiing.",
+            "[person_1] will demonstrate how to use this fishing rod.",
+            "Maybe [person_1] will continue to push the wheelchair.",
+            "[person_1] will pick up the large piece of wood in front of it and cut it."
+        ],
+        "reason": [
+            "Because hands of the [person_1] are still on the handle and [person_1] is ready for the next pulling.",
+            "[person_1]'s hands is touching the string.",
+            "[person_1] is pushing the wheelchair to in the center of the room.",
+            "[person_1] will raise his right hand to hit the keys above the guitar.",
+            "[person_1] is holding the first page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't push the wheelchair of [person_5]?",
+        "answer": [
+            "He may start a new painting.",
+            "[person_1] would not feel tired and he would not have to open his mouth to breath.",
+            "The ball will fall to the ground.",
+            "Another person would push the wheelchair.",
+            "The [person_1] will refuse."
+        ],
+        "reason": [
+            "Ginger can remove the smell of meat.",
+            "The seats down there may be all occupied by the audience . Plus , [person_5] and [person_5] are available.",
+            "[person_1] is a toddler , so she will put the toy aside when she doesn't like it anymore.",
+            "There are still a lot of people in this room.",
+            "Otherwise there is a person who has no food to eat."
+        ]
+    }
+}

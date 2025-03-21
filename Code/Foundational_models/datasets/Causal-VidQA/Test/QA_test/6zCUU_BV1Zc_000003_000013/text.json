@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks young.",
+            "[person_1] looks pretty.",
+            "[person_1] looks like cute.",
+            "[person_1] looks old and thin.",
+            "[person_1] is so cute."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [chair_1] put there?",
+        "answer": [
+            "[person_1] will exercise with them.",
+            "[person_1] and [chair_1] are playing luge sport.",
+            "[chair_1] is performing circus.",
+            "[chair_1] is put there for [person_1] to sit.",
+            "[person_1] is trying to squeeze it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to continue sailing.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to keep playing the harp."
+        ],
+        "reason": [
+            "[person_1] is weaving fabric.",
+            "[person_1] likes challenge.",
+            "[person_1] is still touching on strings of it.",
+            "[person_1] has finished making other hair.",
+            "[person_1] finishes showing and thanks the audience."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [chair_1] weren't there?",
+        "answer": [
+            "[chair_1] would attack [person_1].",
+            "[person_1] would buy orange juice instead of making it.",
+            "[person_1] would have to stand.",
+            "[person_1] would continue to dance.",
+            "[person_1] would not smile as brightly."
+        ],
+        "reason": [
+            "There would be only [chair_1] to sit there.",
+            "There would not be [chair_1] for [chair_1] to look.",
+            "The [chair_1] is standing next to the [chair_1].",
+            "Because [chair_1] may be hurt by the toy.",
+            "It is possible that [chair_1] is professional and studious enough to do tai chi alone."
+        ]
+    }
+}

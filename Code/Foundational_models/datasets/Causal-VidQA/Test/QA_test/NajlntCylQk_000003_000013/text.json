@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is outside.",
+            "[person_1] is on the stage.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is playing with big chess pieces.",
+            "[person_1] is spraying a picture.",
+            "[person_1] is roller skating.",
+            "[person_1] is snowboarding alone.",
+            "[person_1] is squeezing oranges with a juicer."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will not keep on playing the game.",
+            "[person_1] will see what cards he has.",
+            "[person_1] is likely to pluck the strings.",
+            "[person_1] will go on painting the wall.",
+            "[person_1] fell down and his knees were on the ground."
+        ],
+        "reason": [
+            "[person_1] will continue to raise [person_1]'s leg because [person_1] is holding [person_1]'s leg.",
+            "Because [person_1] has already massaged the left foot of the customer.",
+            "[person_1] may keep snowboarding.",
+            "Because of the snow , the road is frozen . Maybe [person_1] does it for fun.",
+            "Because after [person_1] dealing the cards , [person_1] picked the cards up and prepared to see the cards."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would have happen if [person_1] hadn't fallen on his snowboard?",
+        "answer": [
+            "[person_1] would use a bowl to contain juice.",
+            "[person_1] would have kept snowboarding.",
+            "[person_1] would be the winner.",
+            "[person_1] will hug the cat.",
+            "[person_1] would keep the bike so that [person_1] does not get a fall."
+        ],
+        "reason": [
+            "[person_1] will play flute every day.",
+            "[person_1] is blocking [person_1] way to flip the bottle.",
+            "Without socks , the massaging tool may hurt [person_1]'s feet.",
+            "[person_1] were snowboarding smoothly before falling.",
+            "[person_1] can keep balance if [person_1] does not use his head to hit the ball."
+        ]
+    }
+}

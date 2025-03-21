@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt that [person_1] is wearing?",
+        "answer": [
+            "[person_1] is wearing a red shirt.",
+            "[person_1] is wearing a black shirt.",
+            "[person_1] is wearing a white shirt.",
+            "[person_1]'s shirt is black.",
+            "The main color of the floor is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] leaving the room?",
+        "answer": [
+            "[person_3] is opening her Christmas presents.",
+            "[person_3] is excited about pictures in the book.",
+            "[person_3] wants to improve his physical strength.",
+            "[person_3] and [person_3] picked the right moment to get in without stopping the ropes.",
+            "[person_3] has finished his drill and he is leaving for home."
+        ]
+    },
+    "predictive": {
+        "question": "Who is [person_2]?",
+        "answer": [
+            "[person_1] will move to the center as [person_2] did before.",
+            "[person_1] is going to continue playing with the baby.",
+            "It looks like that [person_2] is the teacher of [person_1].",
+            "[person_2] is going to hug [person_1].",
+            "[person_2] is going to kiss [person_1]."
+        ],
+        "reason": [
+            "Because the person in yellow coat is a fireman and putting out a fire is his responsibility.",
+            "[person_1] looks really serious and a little stressed.",
+            "[person_2] is watching [person_1] perform tai chi.",
+            "Because [person_2] seems to be very intimate and affectionate towards [person_1].",
+            "A transport truck is needed here to carry the sand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] also left the room with [person_3]?",
+        "answer": [
+            "[person_1] may pick it up and continue to twirl it.",
+            "[person_1] will calm down and stop crying.",
+            "[person_1] do the massage with her hands.",
+            "It is possible that [person_1] also stopped the drill and leave the room , too.",
+            "[person_1] would stop dancing."
+        ],
+        "reason": [
+            "Because it was very close to [person_1] and the others.",
+            "There is no one in the room , so [person_1] may be demotivated to continue the drill.",
+            "The liquid which being sprayed by [person_1] is becoming less and less.",
+            "The shelf is above the ground.",
+            "[person_3] jumps higher and higher , [person_3] will tilt and roll because of action of gravity."
+        ]
+    }
+}

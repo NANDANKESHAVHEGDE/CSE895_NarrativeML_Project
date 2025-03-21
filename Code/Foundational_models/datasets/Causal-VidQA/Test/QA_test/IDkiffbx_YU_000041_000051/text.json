@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is at the gym.",
+            "[person_1] is in his room.",
+            "[person_1] is in front of the wall.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is sitting at a table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "[person_1] wants to train to change its body.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] is playing spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep sweeping.",
+            "[person_1] may continue to stand there.",
+            "[person_1] is going to do a squat with weights . .",
+            "[person_1] may keep shaking ropes.",
+            "[person_1] may clean the inside."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "[person_1] is touching three cups.",
+            "Because [person_1] is wearing a baby bib.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "what if [person_1] trains with too heavy weights?",
+        "answer": [
+            "Yes , he would be happy.",
+            "[person_1] would be possible injury.",
+            "His mother will not allow.",
+            "[person_1] would be inpossible injury.",
+            "The people on the camel will feel terrified."
+        ],
+        "reason": [
+            "Because it is likely to lose control of the camel.",
+            "Because it would be too little to practice like that.",
+            "They need to fight it out.",
+            "Because it would be too much to practice like that.",
+            "The show won't be good."
+        ]
+    }
+}

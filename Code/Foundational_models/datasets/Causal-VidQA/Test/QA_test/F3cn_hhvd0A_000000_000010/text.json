@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a black long - sleeved T - shirt.",
+            "[person_1] is wearing a sport uniform which contains a white tank top and a black short leggings.",
+            "[person_1] is wearing a t - shirt with the number 9.",
+            "[person_1] is wearing a black T - shirt and white pans.",
+            "[person_1] is wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] laugh?",
+        "answer": [
+            "[person_1] smelled the feet.",
+            "[person_1] is too small to do it himself.",
+            "[person_1] is racing.",
+            "Because someone walked in.",
+            "[person_1] is performing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] may keep trying to learn more new skills.",
+            "[person_1] is going to stand up.",
+            "[person_1] may trim the remaining flowers.",
+            "She is going to play with her toys."
+        ],
+        "reason": [
+            "[person_1] started rolling herself to stand up.",
+            "Their stems are too long.",
+            "It's important for them to remember.",
+            "There is a coming car.",
+            "The window was only half cleaned."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the feet didn't smell?",
+        "answer": [
+            "He'll answer the phone.",
+            "[person_1] would not laugh so much.",
+            "The plant wouldn't be able to stand.",
+            "The man will ask them to stop.",
+            "They would be forbidden to enter."
+        ],
+        "reason": [
+            "[person_1] threw herself on the bed after smelling the feet.",
+            "The crossbar fell to the ground.",
+            "[person_1] would not feel shy.",
+            "[person_1] was hard to open.",
+            "[person_1] is in the room and it may be too dark for some more tai chi moves."
+        ]
+    }
+}

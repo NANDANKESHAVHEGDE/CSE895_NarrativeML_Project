@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in their yard.",
+            "[person_1] and [person_2] are on the street.",
+            "[person_1] and [person_2] are in their house.",
+            "[person_1] and [person_2] are in the weight training field.",
+            "They are in a room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_1] is saying something out loud.",
+            "Because the space in the room is a bit dark.",
+            "Because the plot of land is too big to measure with a tape measure.",
+            "[person_1] and [person_2] are wrestling with each other.",
+            "[person_2] is helping [person_1] practicing side - kicking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to share one of the bottles to his friends.",
+            "[person_1] going to stand up.",
+            "[person_1] may thanks [person_1].",
+            "[person_1] will collect honey.",
+            "[person_1] is going to drink water."
+        ],
+        "reason": [
+            "[person_1] just fell on the grass.",
+            "[person_1] runs and jumps toward the sand pit.",
+            "Maybe [person_1] wants to try going down the hill , too.",
+            "To change a drill bit.",
+            "Because [person_1] is taking [person_1]'s photo while explaining about the camera's function."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls too hard?",
+        "answer": [
+            "[person_2] will have to take [person_1] to the hospital.",
+            "[person_1] will hurt.",
+            "[person_1] will go to the toilet.",
+            "[person_1] will give [person_2] money.",
+            "[person_1] will stop what she is doing and drink some water or eat some food."
+        ],
+        "reason": [
+            "[person_1] will be injured.",
+            "[person_1] is skating using roller skates.",
+            "Because there is no one pets [person_1] anymore.",
+            "When [person_1] coughs , taking in medicine will be influenced.",
+            "[person_1] dances very well and can be a good dancer in the future."
+        ]
+    }
+}

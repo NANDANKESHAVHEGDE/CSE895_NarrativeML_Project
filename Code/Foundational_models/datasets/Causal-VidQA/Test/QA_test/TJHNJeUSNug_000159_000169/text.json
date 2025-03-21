@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "The [chair_1] is on the left side of the road.",
+            "[chair_1] is sitting on the floor.",
+            "The [chair_1] is next to the window.",
+            "[chair_1] is on the shelf.",
+            "The [chair_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] in the room?",
+        "answer": [
+            "[person_3] is shaving for [person_3] .",
+            "Because [person_3] can be the coach and is teaching [person_3] and [person_3].",
+            "[person_3] and [person_3] are doing yoga.",
+            "[person_3] is unwrapping the presents.",
+            "[person_3] and [person_3] are playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] will check the result.",
+            "[person_1] will stop skiing.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to give the gift for [person_2]."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "[person_1] has held out the a gift to his son.",
+            "[person_1] is snowmobiling.",
+            "[person_1] has run out of cards",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] smokes a lot of cigarettes everyday?",
+        "answer": [
+            "[person_1] may have a toothache.",
+            "[person_1]'s health will not be good.",
+            "[person_1] will be on fire.",
+            "[person_1]'s reflection will also touch the mirror.",
+            " [person_1] will be very happy."
+        ],
+        "reason": [
+            "Cigarettes are harmful to health.",
+            "It's embarrassing to make a mistake in front of students.",
+            "The painting color will not be reasonable.",
+            "[person_1] didn't expect him would do that.",
+            "[person_1] does not have anything else to shake around."
+        ]
+    }
+}

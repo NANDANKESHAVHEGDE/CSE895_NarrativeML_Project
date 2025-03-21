@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] holding?",
+        "answer": [
+            "[person_2] is holding a clarinet.",
+            "[person_2] is holding a cup.",
+            "[person_2] is giving massage to [person_2]'s arm.",
+            "[person_2] is sitting and watching them playing a game.",
+            "The pictures are on the wall behind [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] hold a cup?",
+        "answer": [
+            "[person_2] holds that cup to drink.",
+            "Because he never rides it before.",
+            "[person_2] is performing in a show.",
+            "[person_2] wants to record his clarinet performance.",
+            "[person_2] is performing for [person_2] and [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What do [person_1] and [person_2] tend to do?",
+        "answer": [
+            "[person_1] tends to fill the cups and bottles with beer.",
+            "[person_1] and [person_2] tend to take turns throwing the balls into cups of the opposing team.",
+            "[person_2] is going to open present.",
+            "[person_1] tends to practice playing piano.",
+            "[person_1] tends to play cricket."
+        ],
+        "reason": [
+            "The opposing team threw the ball into their cup and [person_2] still held a cup to drink.",
+            "[person_1] is knocking on cymbals.",
+            "[person_1] looks very young and couldn't get out by herself.",
+            "The napkin in hands of [person_1] isn't finished folding.",
+            "There is a teddy bear in front of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] reaches over the table to try sinking the ball?",
+        "answer": [
+            "Everyone will be surprised.",
+            "Not much students will find out.",
+            "[person_2] can not use the bass guitar to play.",
+            "[person_2] would not allow that.",
+            "That ball won't be counted."
+        ],
+        "reason": [
+            "Because it is a safety standard for the racers.",
+            "It is part of [person_2]'s makeup.",
+            "Don't reach over the table to try sinking the ball is the rule of beer pong.",
+            "[person_2] can't use a broken board to lay the deck.",
+            "Wear the lenses longer can hurt your eyes."
+        ]
+    }
+}

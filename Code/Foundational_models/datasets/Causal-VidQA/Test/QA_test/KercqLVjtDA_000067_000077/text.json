@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the house.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is in front of the shop.",
+            "On the beach."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing next to the door?",
+        "answer": [
+            "[person_1] is stacking [person_1] and [person_1] very fast.",
+            "[person_1] is watching the phone.",
+            "[person_1] is playing with [person_1].",
+            "[person_1] is playing with [person_1] .",
+            "[person_1] wants to take others' shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go out.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "[person_1] wants to take others' shoes out.",
+            "[person_1] is ripping paper.",
+            "Maybe [person_1] likes the sound of tearing paper.",
+            "The message says he should come home for dinner.",
+            "[person_1] is touching three cups."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "No one would take others' shoes.",
+            "The person who has the arm held tightly by [person_1] will get angry.",
+            "No one would take others' hats.",
+            "[person_1] will feel uncomfortable.",
+            "No one would take others' clothes."
+        ],
+        "reason": [
+            "Myopia can't see clearly without glasses.",
+            "There would be only [person_1] outside exchanging slippers and shoes.",
+            "[person_1] could become an athlete.",
+            "There would be more than [person_1] outside exchanging slippers and shoes.",
+            "[person_1] would not be able to sit without holding the body."
+        ]
+    }
+}

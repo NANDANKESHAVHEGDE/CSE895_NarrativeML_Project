@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is [person_1] wearing a white shirt?",
+        "answer": [
+            "The room is blue and white.",
+            "Adidas.",
+            "Yes , she is.",
+            "The room is painted in yellow.",
+            "The box is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] making strange face?",
+        "answer": [
+            "[person_1] is joking around.",
+            "[person_1] looks a bit fat.",
+            "[person_1] wants [person_1] to play with her.",
+            "[person_1] is put there for [person_1] to sit.",
+            "The other foot of [person_1] is injured."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may continue to stand there.",
+            "[person_1] may change another tool.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] is going to watch [tv_1].",
+            "[person_1] is going to stop saluting."
+        ],
+        "reason": [
+            "[person_1] has not finished his talking.",
+            "Because [person_1] is lifting the beehive.",
+            "[person_1] is a kid and kids love watching [tv_1].",
+            "[person_1] is keeping still.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if no one finds [person_1] funny?",
+        "answer": [
+            "[person_1] will be quite sad.",
+            "Then [person_1] will be rewarded.",
+            "[person_1] will go inside the house.",
+            "[person_1] will get dirty clothes.",
+            "[person_1] will stop riding the horse."
+        ],
+        "reason": [
+            "[person_1] is performing.",
+            "[person_1] wants to make people laugh by making faces.",
+            "Because [person_1] is very obedient.",
+            "The [person_1] does not catch the shot put.",
+            "A rainy day is not suitable for playing at the beach."
+        ]
+    }
+}

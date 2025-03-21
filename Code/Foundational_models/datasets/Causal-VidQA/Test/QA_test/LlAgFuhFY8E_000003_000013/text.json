@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is riding a horse.",
+            "[person_1] is covering his head.",
+            "[person_1] is roller blading.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is shaking the cup."
+        ]
+    },
+    "explanatory": {
+        "question": "Why can't [person_1] keep still?",
+        "answer": [
+            "[person_1] is possibly instructing the viewer how to play different chords on the guitar.",
+            "[person_1] , [person_1] and [person_1] are performing together.",
+            "Every one of them wants to be the winner of this contest.",
+            "[person_1] is a baby.",
+            "Because sitting on horseback will be bouncing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will control the horse to turn right.",
+            "[person_1] will continue kite surfing.",
+            "[person_1] is going to play the flute right after that.",
+            "[person_1] may stand up and change the chair.",
+            "[person_1] will stop weaving."
+        ],
+        "reason": [
+            "Because [person_1] may finish being interviewed.",
+            "[person_1] will control the horse to turn right because there is no way to go ahead.",
+            "[person_1] finished squeezing oranges.",
+            "[person_1] finishes performance.",
+            "Because the floor needs fixing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the horse ran fast?",
+        "answer": [
+            "[person_1] would keep in his horse.",
+            "[person_1] will stop playing flute.",
+            "[person_1] would fall off his horse.",
+            "[person_1]'s hair would be burnt.",
+            "[person_1] wouldn't fall off his horse."
+        ],
+        "reason": [
+            "The yard is small , so if the horse runs slowly , [person_1] would fall easily.",
+            "Because the weather interrupts their plan.",
+            "The yard is big , so if the horse runs fast , [person_1] would fall easily.",
+            "[person_1] didn't bring an umbrella.",
+            "The yard is small , so if the horse runs fast , [person_1] would fall easily."
+        ]
+    }
+}

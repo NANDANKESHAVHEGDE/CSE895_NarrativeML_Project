@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's on the wall?",
+        "answer": [
+            "[person_1] is wearing a black shirt.",
+            "A yellow painting.",
+            "[person_1] is near the window.",
+            "The main color of the floor is green.",
+            "The [person_1] is wearing a striped tee and denim shorts."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] is doing for fun.",
+            "[person_1] wants to keep fit.",
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is stacking cups.",
+            "[person_1] likes to shake maracas to make sound."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running?",
+        "answer": [
+            "[person_1] will rest.",
+            "[person_1] will continue to direct traffic on the road next.",
+            "[person_1] , [person_1] and [person_1] will continue the performance.",
+            "[person_1] may brush the left side.",
+            "[person_1] will go for lunch."
+        ],
+        "reason": [
+            "Because the child next to [person_1] is [person_1]'s friend so [person_1] wants to share the cake.",
+            "[person_1] wants to have lunch.",
+            "[person_1] is tired.",
+            "[person_1] is satisfied with himself.",
+            "Keeping gas cooker on is very dangerous."
+        ]
+    },
+    "counterfactual": {
+        "question": "Where would he go if he got hurt?",
+        "answer": [
+            "[person_1] won't get any rest.",
+            "[person_1] would be mad at [person_1].",
+            "Hospital.",
+            "Maybe [person_1] may weave it again.",
+            "It is possible that the son will get hurt."
+        ],
+        "reason": [
+            "The doctor can take care of it.",
+            "[person_1] might not want help because he is a child , and doing it alone would make him feel grown.",
+            "Because they're a team.",
+            "[person_1] was hurt.",
+            "Because at that time the floor will be clean."
+        ]
+    }
+}

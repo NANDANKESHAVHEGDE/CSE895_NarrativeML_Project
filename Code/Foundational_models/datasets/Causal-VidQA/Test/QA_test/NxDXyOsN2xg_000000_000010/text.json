@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is black and white.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The color of the shirt is green.",
+            "The shirt is white.",
+            "The shirt color is yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the flute?",
+        "answer": [
+            "It's a habit.",
+            "By massaging at [person_1]'s neck.",
+            "[person_1] cannot stand the heavy sledgehammer for long time.",
+            "[person_1] is playing a bass guitar solo.",
+            "Maybe [person_1] does the flute for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will fix the tire.",
+            "[person_1] will look at the candles",
+            "[person_1] will change the tire of [person_1].",
+            "[person_1] will play the flute all the songs.",
+            "[person_1] will drive the snow blower to the left."
+        ],
+        "reason": [
+            "Because [person_1] feels tired.",
+            "[person_1] is telling us about the composition of bicycle wheels.",
+            "[person_1] is looking at [person_1] who is jumping.",
+            "[person_1] is practicing.",
+            "[person_1] may sing and play more than."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s room is dark?",
+        "answer": [
+            "[person_1] may not walk.",
+            "The person on the right may ride away.",
+            "[person_1] will turn on the light.",
+            "[person_1] could not do exercise.",
+            "[person_1] will turn off the gas."
+        ],
+        "reason": [
+            "That is the last cup of [person_1]'s team on the table.",
+            "[person_1]'s room becomes brighter.",
+            "Kelly won't understand what [person_1] and [person_1] are saying.",
+            "[person_1] would feel demotivated very quickly if [person_1] danced alone.",
+            "Because [person_1] will have to work alone."
+        ]
+    }
+}

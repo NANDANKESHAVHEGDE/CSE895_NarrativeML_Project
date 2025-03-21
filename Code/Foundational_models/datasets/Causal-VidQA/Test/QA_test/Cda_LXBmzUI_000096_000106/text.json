@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_3]?",
+        "answer": [
+            "The [person_3] is standing near the base of the staircase.",
+            "The [person_3] is in a blueberry farm.",
+            "The [person_3] is next to the curtain.",
+            "The [person_3] is in a restaurant.",
+            "[person_3] is spinning the plate near a big tree."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_3] holding the [teddy bear_1]?",
+        "answer": [
+            "Because [person_3] wants to introduce more details about microscope.",
+            "The [person_3] is using the [teddy bear_1] as a shield from the pillow of the [person_2].",
+            "Maybe [person_3] wants to relax.",
+            "[person_2] is practicing a clarinet.",
+            "[person_3] is performing with a clarinet."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_2] going to do?",
+        "answer": [
+            "The [person_2] is going to present something with the paper.",
+            "The [person_2] may keep supporting the [person_2] to spin potato.",
+            "The [person_2] may try to move all the tiles.",
+            "The [person_2] is going to move the [person_2].",
+            "The [person_2] may stop throwing the pillow toward the [person_3]."
+        ],
+        "reason": [
+            "The [person_2] is moving after posing for a while.",
+            "Because the mop is dry.",
+            "Doing massage for [person_2] needs more essential oil.",
+            "The [person_2] is running towards the [person_2].",
+            "The [person_2] is laughing without holding a pillow."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_2] threw the pillow to the right corner of the bedroom?",
+        "answer": [
+            "The disk would move anywhere.",
+            "[person_2] might fell too.",
+            "The dices may remain in the cup.",
+            "The lamp might break.",
+            "Teammates will not get the ball to score."
+        ],
+        "reason": [
+            "There is much space on the floor behind the [person_2] to put the weights.",
+            "The lamp is in the right corner of the bedroom and the lamp is small.",
+            "[person_2] thinks she can climb on it the next time.",
+            "Because one side is not usual and not beautiful.",
+            "[person_2] has spun 5 plates before."
+        ]
+    }
+}

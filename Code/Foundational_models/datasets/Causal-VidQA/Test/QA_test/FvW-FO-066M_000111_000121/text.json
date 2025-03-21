@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a long sleeve shirt.",
+            "[person_1] is wearing a helmet.",
+            "[person_1] is wearing a white dress.",
+            "[person_1] is a man wearing a back T - shirt.",
+            "[person_1] wearing a beanie and yellow shoes."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] holding [chair_1] ?",
+        "answer": [
+            "[person_1] is shearing [person_1].",
+            "[person_1] is sitting on [chair_1] to play music.",
+            "because [person_1] has to do that or [person_1] will fall.",
+            "[person_1] needs [person_1] to hit the ball.",
+            "The [person_1] wanted to walk by the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to inhale the cigarette.",
+            "[person_1] is going to stop and rest.",
+            "[person_1] is going to skate with other people.",
+            "[person_1] will get on [bicycle_1] and continue practicing.",
+            "[person_1] is going to walk to the right."
+        ],
+        "reason": [
+            "the [person_1] has not fallen off the mechanical bull yet.",
+            "because [person_1] is still unable to control [bicycle_1].",
+            "[person_1] is sliding a role of carpet on the ground.",
+            "because [person_1] is squatting and reach for that thing.",
+            "[person_1] is moving the left hand toward the guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] lost balance?",
+        "answer": [
+            "[person_1] would drink to know the taste.",
+            "[person_1] would tumble to the ground.",
+            "The riding will be dangerous.",
+            "Maybe the [person_1] is broken.",
+            "The [person_1] may get hurt."
+        ],
+        "reason": [
+            "[person_1] does not seem to be very good at controlling [bicycle_1].",
+            "The ground is very muddy.",
+            "Because [person_1] had drunk many tall glasses of beer.",
+            "Because [person_1] and [bicycle_1] need a microphone to sing.",
+            "There are so many people here who can help [person_1]."
+        ]
+    }
+}

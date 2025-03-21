@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] uses a knife.",
+            "It is a sledgehammer.",
+            "[person_1] uses an electric drill and a hammer.",
+            "[person_1] uses a clamp to open it.",
+            "[person_1] is using a chef's knife."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] open the bottle with a clamp?",
+        "answer": [
+            "Maybe adults are shooting a video.",
+            "Because they're so excited.",
+            "The clamp is designed specifically for bottle . She puts the sharp end of the clamp one the cap and revolves it.",
+            "[person_1] is stacking the cups on the table.",
+            "Because there are people watching."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after that?",
+        "answer": [
+            "[person_1] will go to see the doctor.",
+            "[person_1] will have to remove the cork.",
+            "[person_1] will kick it.",
+            "[person_1] will try his best to achieve a superb performance.",
+            "[person_1] will pour the champagne into [person_1]."
+        ],
+        "reason": [
+            "[person_1] is a starter in dancing.",
+            "[person_1] must be tired because it is not an easy work.",
+            "There will be a cork under the foil.",
+            "[person_1] sees a bend and turns direction.",
+            "[person_1]'s phone rings."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't have a clamp like that?",
+        "answer": [
+            "[person_1] would go away and find other place to dance.",
+            "[person_1] will feel a sharp prick.",
+            "[person_1] won't be able to move at all.",
+            "[person_1] would have to use other tools.",
+            "[person_1] may be still in the pan."
+        ],
+        "reason": [
+            "[person_1] and others didn't have the practicing goals at the first.",
+            "Because they want to watch TV.",
+            "The kitchen cabinet is above the [person_1].",
+            "[person_1] can not remove the foil with hands only.",
+            "Because [person_1] wouldn't be able to zip it."
+        ]
+    }
+}

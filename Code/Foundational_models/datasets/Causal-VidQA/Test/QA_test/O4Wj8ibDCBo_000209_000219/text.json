@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons?",
+        "answer": [
+            "One.",
+            "Five.",
+            "Two.",
+            "[person_1] is in the large room.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit on the horse?",
+        "answer": [
+            "[person_1] is singing and playing lute in the room.",
+            "To avoid being exposed to the sun.",
+            "[person_1] is too tired.",
+            "To keep warm.",
+            "[person_1] turns off the keyboard."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will put the dough in the bowl.",
+            "[person_1] will wash his hands.",
+            "[person_1] will change another foot.",
+            "[person_1] will make the horse stop.",
+            "[person_1] will run towards the ball."
+        ],
+        "reason": [
+            "[person_1] is holding a rake , and [person_1] just finished jumping so the sand isn't easy to mark.",
+            "Because a friend of [person_1] just drinks and [person_1] is picking up a beer bottle.",
+            "[person_1] is moving to the rest place.",
+            "[person_1] wants to walk on the ground.",
+            "[person_1] is kneading the dough."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if it rains?",
+        "answer": [
+            "[person_1] will run into a house.",
+            "[person_1] will stop milking the cow.",
+            "The little boy would cry.",
+            "[person_1] will be quite sad.",
+            "[person_1] will stop riding the horse."
+        ],
+        "reason": [
+            "Because [person_1] loves eating sweets.",
+            "[person_1] is standing outside.",
+            "[person_1] will be wet.",
+            "[person_1] is injured.",
+            "[person_1] and [person_1] are doing boxing outside."
+        ]
+    }
+}

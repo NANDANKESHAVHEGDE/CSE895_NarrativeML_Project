@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is smiling and playing piano.",
+            "[person_1] is playing drums.",
+            "[person_1] is playing basketball.",
+            "[person_1] is sitting on the table.",
+            "[person_1] is playing the guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is raising her eyebrows.",
+            "[person_1] is stacking dices.",
+            "[person_1] is \u00a0 trying to somersault.",
+            "[person_1] feels comfortable.",
+            "Maybe [person_1] is playing chess with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to continue listening to music.",
+            "[person_1] intends to continue to play.",
+            "[person_1] intends to turn off the camera."
+        ],
+        "reason": [
+            "[person_1] needs a ball to keep on practicing.",
+            "[person_1] reaches out towards the camera.",
+            "[person_1] is playing very focused.",
+            "[person_1] is running and looking at the ball.",
+            "[person_1] is in a race."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lights in the room are turned off?",
+        "answer": [
+            "[person_1] will pick up the donut and take a new donut from the donuts box.",
+            "[person_1] will not need to take the wrapping paper off the box.",
+            "[person_1] will sit next to the chair toy and suck the nipple.",
+            "The girl may not handle [person_1] the microphone.",
+            "[person_1] will go check the lights."
+        ],
+        "reason": [
+            "It's illegal to sell fake medicine.",
+            "[person_1] needs more practice.",
+            "There are toys in the box.",
+            "[person_1] wants to know why the light went out.",
+            "It will need to be charged."
+        ]
+    }
+}

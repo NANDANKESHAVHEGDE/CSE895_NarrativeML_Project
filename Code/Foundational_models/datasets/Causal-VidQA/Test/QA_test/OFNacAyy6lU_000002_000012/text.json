@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] at?",
+        "answer": [
+            "Two camels.",
+            "It is on [person_2].",
+            "White.",
+            "One.",
+            "[person_1] and [person_2] are at the workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] in the workshop.",
+        "answer": [
+            "[person_2] is taking photo.",
+            "Because there is a punching bag.",
+            "[person_1] is practicing how to whistle with the other 3.",
+            "It is hot at their place.",
+            "[person_1] is hitting on the gongs to check the sound of the gongs."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] is going to have some water.",
+            "[person_1] is going to play with [person_1].",
+            "[person_1] may talk to [person_1].",
+            "[person_1] is going to eat spaghetti."
+        ],
+        "reason": [
+            "Because [person_1] has reached for the phone , it looks like the recording is finished.",
+            "[person_1] is standing in the class.",
+            "[person_1] is leaving.",
+            "[person_1] is thirsty after some punches.",
+            "[person_1] finds hopscotch interesting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] went home?",
+        "answer": [
+            "[person_1] wouldn't in the workshop.",
+            "[person_1] may scratched.",
+            "[person_1] may be pushed away.",
+            "[person_1] will run towards [person_1].",
+            "[person_1] may get wet."
+        ],
+        "reason": [
+            "[person_1]'s feet hurt.",
+            "The doctor came to check on him after that.",
+            "[person_2] would be on his own.",
+            "Hitting the floor hard will hurt him.",
+            "It is too high."
+        ]
+    }
+}

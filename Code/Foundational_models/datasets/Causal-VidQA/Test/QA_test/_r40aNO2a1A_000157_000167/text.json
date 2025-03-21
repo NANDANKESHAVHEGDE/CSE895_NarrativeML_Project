@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [handbag_1]?",
+        "answer": [
+            "[handbag_1] is on the chair.",
+            "[person_1] is wearing it in front of her.",
+            "It is \u00a0 behind the [person_1].",
+            "The [person_1] is sitting down on the [person_1].",
+            "[handbag_1] is put on the ground and next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on a bridge?",
+        "answer": [
+            "[person_1] is practicing how to whistle with the other 3.",
+            "[person_1] is planing wood.",
+            "Because pressing a button and a key at the same time can create unique rhythm.",
+            "[person_1] is hitting on the gongs to check the sound of the gongs.",
+            "[person_1] is performing music on the street . ."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to use other bottles to add more colors into the shirt.",
+            "[person_1] may clean the inside.",
+            "Maybe [person_1] is going to draw a moon.",
+            "[person_1] is going to use the thick ribbon to tie a bow around the gift.",
+            "[person_1] is going to impress people by his talent for music."
+        ],
+        "reason": [
+            "[person_1] has turned away.",
+            "[person_1] has not finished his talking.",
+            "The milk needs to be put in the fridge.",
+            "[person_1] holds an accordion to play music.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there is a rain?",
+        "answer": [
+            "[person_1] may go inside.",
+            "Maybe they will be more excited.",
+            "Perhaps the competition will keep going.",
+            "They will return to the foot of the mountain.",
+            "They would leave at once."
+        ],
+        "reason": [
+            "Because the weather is not suitable to play.",
+            "It is dangerous.",
+            "The horse is afraid.",
+            "There is no place to sit.",
+            "Because rain can make [person_1] wet."
+        ]
+    }
+}

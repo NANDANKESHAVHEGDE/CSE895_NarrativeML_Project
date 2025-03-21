@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who are making the sushi?",
+        "answer": [
+            "[person_1] is on the [person_1].",
+            "[person_1] is on the right of [person_1].",
+            "It is on the right hand side of [person_1].",
+            "It is in a training room.",
+            "[person_1] and [person_2]"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] standing behind [person_1] and [person_2]?",
+        "answer": [
+            "Because [person_3] is instructing [person_1] and [person_2] to make sushi.",
+            "Help spice up the proposal.",
+            "Because the [person_3] throw the frisbee away.",
+            "Because it's hot outside.",
+            "They will be used for painting later."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do with the sushi?",
+        "answer": [
+            "[person_3] is going to help [person_2] with her sushi.",
+            "[person_2] will ready his weapon and participate in the historical reenactment.",
+            "[person_3] will send presents to the children.",
+            "[person_3] will start to ride the horse.",
+            "[person_2] and [person_3] are going to continue practicing tackling the others."
+        ],
+        "reason": [
+            "Because [person_1] wants to attach this frame tightly with the white wooden box.",
+            "It seems that [person_1] is paying attention on the book.",
+            "[person_3] is marching into battle with weapons.",
+            "Apparently , [person_3] said something to [person_1] and is going to come forward with sushi [person_1].",
+            "Because between [person_1] and [person_3] stands a little boy , who may be their son."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] don't remind [person_1] of what she should do?",
+        "answer": [
+            "[person_1] would not fall on the floor.",
+            "She won't fully master how to make sushi.",
+            "[person_1] may not surpass [person_1].",
+            "[person_1] will step on the ball.",
+            "[person_1] will cry."
+        ],
+        "reason": [
+            "Because [person_1]'s head will be hurt and it's painful.",
+            "Because there are many people and [person_1] can high five with any of them.",
+            "Because eating cake can aggravate a toothache.",
+            "[person_1] is reaching the edge of the line . If he gets out of the line , [person_3] would win a score.",
+            "Because if [person_3] doesn't tell [person_1] what she should do next , she will stop at where she is and never know the points."
+        ]
+    }
+}

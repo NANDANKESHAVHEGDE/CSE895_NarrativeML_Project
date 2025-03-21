@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [couch_1] ?",
+        "answer": [
+            "[couch_1] is behind the girl.",
+            "[couch_1] is behind the [couch_1].",
+            "It is in front of the yellow curtain.",
+            "[couch_1] is next to the table.",
+            "[couch_1] is sitting on the [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear long sleeve ?",
+        "answer": [
+            "Maybe it is cold.",
+            "[person_1] turns off the keyboard.",
+            "[person_1] is too tired.",
+            "To keep warm.",
+            "[person_1] is singing and playing lute in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do ?",
+        "answer": [
+            "[person_1] intends to play the harp.",
+            "[person_1] intends to stop playing the organ.",
+            "[person_1] intends to teach [person_1] how to dance.",
+            "[person_1] tends to play the flute.",
+            "[person_1] intends to hit on the gong."
+        ],
+        "reason": [
+            "[person_1] put the harmonica down then raised the harmonica up , moved it to the mouth.",
+            "[person_1] still hasn't landed perfectly.",
+            "[person_1] used a powder - buff to apply foundation cream on face.",
+            "[person_1]'s mouth is on the flute.",
+            "[person_1] looks very interested in playing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] will stop playing chess.",
+            "[person_1] can not deal with her hair.",
+            "[person_1] will continue playing with her flute.",
+            "[person_1] will not practice anymore.",
+            "[person_1] will stop playing chess."
+        ],
+        "reason": [
+            "The room will be dark , too.",
+            "It is electric.",
+            "There will be no electricity connected to the lights.",
+            "Without the power the laptop can't work any more.",
+            "The room will still bright."
+        ]
+    }
+}

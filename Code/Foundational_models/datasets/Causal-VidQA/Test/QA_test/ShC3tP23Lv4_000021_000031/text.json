@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] holding?",
+        "answer": [
+            "[person_2] is holding a target pad.",
+            "[person_2] is standing on the grass.",
+            "[person_2] is holding a stick and the wax.",
+            "[person_2] is holding [person_2].",
+            "[person_2] is holding [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] hold a stick?",
+        "answer": [
+            "[person_2] is performing didgeridoo.",
+            "The stick is used to apply the wax to the legs.",
+            "[person_2] is doing her job to earn money.",
+            "That part is sharper.",
+            "[person_2] holds a sledgehammer with one hand and and strikes at the tire with the hammer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to lay concrete.",
+            "[person_2] is going to wax legs for [person_1].",
+            "[person_2] is instructing how to dance.",
+            "[person_2] is bound to play baseball with [person_1].",
+            "[person_2] is going to play with the dog."
+        ],
+        "reason": [
+            "After applying the wax on the [person_1] leg , [person_2] applied a strip on to the wax covered part of the [person_1] leg.",
+            "[person_2] stood up and held the gift box to the [person_1].",
+            "Because [person_2] just nodded , she should like [person_1]'s dance very much.",
+            "[person_2] wants to score because his team just lost 1 point.",
+            "[person_2] is holding a baseball bat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] applies wax on the legs of [person_1] in the opposite direction of hair growth?",
+        "answer": [
+            "[person_1] will laugh.",
+            "The lifeguard will stand on the board to watch the swimmers.",
+            "The hair will be poked up and waxing will be very painful.",
+            "[person_1] will polish the other boot.",
+            "[person_2] may get hit by the bullets."
+        ],
+        "reason": [
+            "To stack the dice , the player needs at least 2 dice.",
+            "Waxing is only successful when you wax in the opposite direction of hair growth.",
+            "If spreading too much sauces on the food , the food will be too salty.",
+            "[person_1] is just polishing one side of the boots.",
+            "When spread the wax in the direction of hair growth the hair should lay flat and smooth with no hairs poking up . It is easy to wax and isn't painful."
+        ]
+    }
+}

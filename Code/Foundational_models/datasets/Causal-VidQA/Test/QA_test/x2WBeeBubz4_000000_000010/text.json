@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [clock_1]?",
+        "answer": [
+            "It is next to the wall.",
+            "It is behind [clock_1].",
+            "The [clock_1] is on the shelf.",
+            "It is on the wall.",
+            "[clock_1] is kicking a ball."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the [baseball bat_1]?",
+        "answer": [
+            "To protect herself.",
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "[person_1] is in a period of physical exercise.",
+            "Because the [person_1] needs to keep the [person_1] door open.",
+            "[person_1] wants to protect the head."
+        ]
+    },
+    "predictive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "The [person_1] will lie down.",
+            "[person_1] might be a tai chi performer who is performing some tai chi moves.",
+            "[person_1] and the team will continue performing.",
+            "[person_1] will keep on skating.",
+            "Perhaps [person_1] is in a room."
+        ],
+        "reason": [
+            "Because plants need fertilizer to grow and [person_1] has watered the flowers.",
+            "[person_1] looks painful and [person_1] is a young boy so [person_1] may cry.",
+            "[person_1] is enjoying Gangnam style dancing.",
+            "There are a lot of objects in the room.",
+            "[person_1] is wearing a chef cap."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone rings?",
+        "answer": [
+            "Maybe [person_1] will pick up the phone.",
+            "Maybe [person_1] will stop playing.",
+            "Maybe [person_1] will not stand there for pirouetting.",
+            "[person_1] will eat a dish.",
+            "Maybe [person_1] will give a dish for [person_1]."
+        ],
+        "reason": [
+            "[person_1] would be happy.",
+            "Then [person_1] will play with it.",
+            "[person_1] is the only person in this room.",
+            "[person_1] will pick up the phone.",
+            "The [person_1] tries learn how to skate when using the skating aid."
+        ]
+    }
+}

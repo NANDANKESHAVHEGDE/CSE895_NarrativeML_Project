@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the stadium.",
+            "[person_1] is in his living room.",
+            "[person_1] is in a classroom.",
+            "[person_1] is outside.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the hammer and the pineapple?",
+        "answer": [
+            "Because [person_1] wants to break the ice on the pineapple.",
+            "[person_1] uses a tool to make the bubble.",
+            "Because to play badminton , there are at least two people.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may wait for her other friends.",
+            "[person_1] is going to put the pineapple in the sun.",
+            "[person_1] may continue to stand there.",
+            "[person_1] is going to take it off.",
+            "[person_1] will check the honey."
+        ],
+        "reason": [
+            "[person_1] is riding a unicycle.",
+            "Because [person_1] wants to use the sunshine to melt the ice.",
+            "[person_1] wants to have a muscular body.",
+            "There are many color pens around [person_1].",
+            "[person_1] is doing it for fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it was cloudy outside?",
+        "answer": [
+            "[person_1] would not put the pineapple on the ground outside.",
+            "The dog will eat the watermelon.",
+            "[person_1] won't see anything.",
+            "Maybe [person_1] and his teammates will smile.",
+            "The garbage truck will stand still on the road."
+        ],
+        "reason": [
+            "Because if it's cloudy there will be no sunshine for the pineapple to melt and [person_1] would not put the pineapple outside.",
+            "The operation is easy so [person_1] can still do it but just use the left hand could be not much flexible for a right - handed.",
+            "The bottle was used to separate egg yolks from egg whites.",
+            "She will go for a sleep.",
+            "Because nothing can be nice and beautiful without carefulness."
+        ]
+    }
+}

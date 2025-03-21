@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is standing under a tree.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in a bathtub.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting in the bathtub?",
+        "answer": [
+            "[person_1] is taking a bath.",
+            "[person_1] is playing water slide.",
+            "Maybe [person_1] is playing an instrument.",
+            "[person_1] wants to shear the sheep.",
+            "The towel keeps [person_1] pants from getting dirty."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to splash water.",
+            "[person_1] will color in the tail.",
+            "[person_1] is going to step forward.",
+            "[person_1] may go home."
+        ],
+        "reason": [
+            "[person_1] looks so excited while sitting in water.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Maybe [person_1] will continue playing.",
+            "[person_1] finishes singing.",
+            "Maybe [person_1] started weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the parents of [person_1] pour more water into the basin?",
+        "answer": [
+            "[person_1] may cry a lot.",
+            "[person_1] would be seriously injured.",
+            "[person_1] will be happier.",
+            "The man in white will change the clothes.",
+            "He is going to ask his mom to buy another one."
+        ],
+        "reason": [
+            "[person_1] and [person_1] will need to find a shelter.",
+            "Because cleaning [person_1] is a [person_1]'s routine.",
+            "[person_1] likes to play with water.",
+            "[person_1] is trying to learn how to ride [person_1] and have all the safety garments on.",
+            "[person_1] and [person_1] don't have an umbrella."
+        ]
+    }
+}

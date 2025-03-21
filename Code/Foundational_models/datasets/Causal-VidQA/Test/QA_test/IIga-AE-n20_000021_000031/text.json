@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] uses two small hammers.",
+            "It's a lighter.",
+            "[person_1] is using a saber.",
+            "It is a bottle opener.",
+            "A bottle opener."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the two small hammers?",
+        "answer": [
+            "Because [person_1] wants to wipe the objective with a clean paper.",
+            "Because the [person_1] wants to explore the parking lot.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] will exercise with them.",
+            "Because [person_1] is introducing how to use the plain machine."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will punch again.",
+            "Maybe [person_1] will not stop hitting the ball.",
+            "It is possible that [person_1] will play beer pong on the [person_1].",
+            "[person_1] will slam the tire with the hammers.",
+            "The [person_1] will pick up the [person_1]."
+        ],
+        "reason": [
+            "There is a cup beside the bottle.",
+            "Because [person_1] has taken off the pottery.",
+            "[person_1] failed a few times so [person_1] doesn't want to continue.",
+            "Because [person_1] has already massaged the left foot of the customer.",
+            "[person_1] has made a preparation pose."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] had a sledgehammer?",
+        "answer": [
+            "[person_1] would go forwards and backwards the skateboard.",
+            "[person_1] would use the sledgehammer to do this.",
+            "[person_1] would go to the massage store.",
+            "[person_1] wouldn't use the sledgehammer to do this.",
+            "[person_1] will take him to the clinic."
+        ],
+        "reason": [
+            "[person_1] wouldn't be able to bounce the ball comfortably because there's no space.",
+            "A sledgehammer would lead to worse effect.",
+            "[person_1] needs to be more careful if he doesn't want to get bumped.",
+            "A sledgehammer would lead to better effect.",
+            "To get real relaxing."
+        ]
+    }
+}

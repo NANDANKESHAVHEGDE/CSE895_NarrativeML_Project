@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite large.",
+            "It is nicely decorated.",
+            "It is spacious.",
+            "It is dark.",
+            "It is narrow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is excited about holding these cups.",
+            "Because [person_1] is lifting weights.",
+            "[person_1] is talking about the placement of eating utensils on [person_1].",
+            "Maybe [person_1] is in the class.",
+            "Because [person_1] is playing in the room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may climb the tree.",
+            "[person_1] is going to spin the plate again.",
+            "[person_1] is going to give playing accordion a shot.",
+            "[person_1] is going to dance another move.",
+            "[person_1] may clean the bathroom."
+        ],
+        "reason": [
+            "[person_1]'s hands is shaking.",
+            "[person_1] just eats food and then he will drink beer.",
+            "[person_1] used the tape on the table.",
+            "[person_1] does not want to eat the food which was head - butted by [person_1].",
+            "The plate has just been fallen."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lights are on?",
+        "answer": [
+            "[person_1] would not be tripped by [person_1].",
+            "[person_1] , [person_1] and [person_1] could not dance so well together.",
+            "The [person_1] would have to stop riding and take the [person_1] home.",
+            "The room will be brighter.",
+            "[person_1] will stop jumping."
+        ],
+        "reason": [
+            "The lights are off.",
+            "[person_1] can't see the eyebrows clearly.",
+            "[person_1] is an important player in the band.",
+            "The crossbar is heavy.",
+            "[person_1] and [person_1] might be flooded."
+        ]
+    }
+}

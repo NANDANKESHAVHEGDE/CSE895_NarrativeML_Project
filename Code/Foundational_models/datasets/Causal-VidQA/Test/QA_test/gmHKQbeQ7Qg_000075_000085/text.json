@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] is perched on [chair_1].",
+            "The [chair_1] is next to the wall.",
+            "[chair_1] is on the shelf.",
+            "The [chair_1] is in the living room and in front of the TV.",
+            "It is behind the [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] taking the [dining table_1]?",
+        "answer": [
+            "Because [person_1] is producing a table.",
+            "[person_1] is helping [person_1] to have right hand position when [person_1] is doing tai chi.",
+            "Because [person_1] is pushing the wheelbarrow.",
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "Because [person_1] needs to be comfortable to swing his arms."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to keep his eyes on the panel of wood.",
+            "[person_1] is going to practice.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to do a workout."
+        ],
+        "reason": [
+            "Maybe [person_1] likes to play with toys.",
+            "[person_1] moved different places to follow the panel of wood.",
+            "[person_1] is looking at the plate of food.",
+            "When [person_1] holds the comb , he is raising his hand to comb his hair.",
+            "Because [person_1] is wearing a baby bib."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] didn't tie the hat?",
+        "answer": [
+            "[person_1] wouldn't be hurt.",
+            "[person_1] would drop his hat.",
+            "[person_1] would watch TV.",
+            "[person_1] would be injured.",
+            "[person_1] won't be medal."
+        ],
+        "reason": [
+            "[person_1] is doing hard exercises which has difficult techniques.",
+            "Because his parents will always be prepared to help him.",
+            "To make the wall look darker.",
+            "[person_1] moved continuously.",
+            "The round will not be fell."
+        ]
+    }
+}

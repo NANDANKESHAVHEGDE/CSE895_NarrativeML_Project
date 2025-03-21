@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is performing on stage.",
+            "[person_1] is in the gym.",
+            "[person_1] is in the study room.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is near the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "It is snowing there . The hat can protect his head.",
+            "[person_1] and [person_1] are join the game that must use the sticks.",
+            "[person_1] is snatching weight - lifting.",
+            "The weather is hot.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to put the cans down.",
+            "[person_1] is going to whistle.",
+            "[person_1] may tickle [person_1] again.",
+            "[person_1] is going to do lift heavier weights.",
+            "[person_1] is going to slowly opening his arms."
+        ],
+        "reason": [
+            "When [person_1] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "Maybe [person_1] wants to challenge himself.",
+            "Because [person_1] is giving [person_1] instructions.",
+            "It is dirty after taking shower for [person_1].",
+            "[person_1] was walking towards [person_1] and the right hand of [person_1] touched the leg of [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] drops the weights?",
+        "answer": [
+            "[person_1] will be hurt.",
+            "[person_1] will not fall off the chair like [person_1] did before.",
+            "[person_1] will not be hurt.",
+            "[person_1] will return to help [person_1].",
+            "[person_1] will be happy."
+        ],
+        "reason": [
+            "The baby is so happy because someone hug him.",
+            "The weights is very lift.",
+            "Lifting dumbbell takes a lot of energy and [person_1] is too tired.",
+            "The weights is very heavy.",
+            "The wall is quite hard."
+        ]
+    }
+}

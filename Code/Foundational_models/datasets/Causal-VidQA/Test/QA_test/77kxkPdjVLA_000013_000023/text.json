@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the bed [person_1] sitting?",
+        "answer": [
+            "It's white.",
+            "It's a beer.",
+            "[person_1] is a male.",
+            "[person_1] is wearing a checkerboard shirt.",
+            "The [person_1] is on the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] throwing the maraca?",
+        "answer": [
+            "[person_1] is afraid of the fire.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is playing spinning poi.",
+            "[person_1] wants to train to change its body.",
+            "[person_1] is feeling in love."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to knock on the gong one more time.",
+            "[person_1] has an intention of pulling the rope.",
+            "[person_1] tends to eat maracas.",
+            "[person_1] tends to take the present.",
+            "[person_1] is likely to put in contact lenses."
+        ],
+        "reason": [
+            "[person_1] thinks maracas is food.",
+            "There is [person_1] which [person_1] is sitting on.",
+            "Everyone is preparing for that pose.",
+            "[person_1] is holding the chessman.",
+            "[person_1] will fall down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the maracas were too small?",
+        "answer": [
+            "[person_1] would not get hurt.",
+            "They would leave there.",
+            "[person_1] would get cured.",
+            "[person_1] might stop singing.",
+            "[person_1] would get hurt."
+        ],
+        "reason": [
+            "[person_1]'s foot could step on it when stretch back.",
+            "[person_1] would not swallow maracas.",
+            "They may be sad.",
+            "[person_1] would swallow maracas.",
+            "He's taking his family to the doctor."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shirt color is [person_1] wearing?",
+        "answer": [
+            "[person_1] is in a sitting position.",
+            "[person_1] is outside at the beach.",
+            "[person_1] is wearing a white shirt.",
+            "[person_1] is wearing an orange shirt.",
+            "[person_1] is wearing a red T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] play the piano?",
+        "answer": [
+            "Because [person_1] is trying to tell us that the objective can be adjusted.",
+            "The [person_1] wants to pick some blueberries.",
+            "The [person_1] is leaning on the tree to keep balance on the stilts.",
+            "[person_1] is excited about this action.",
+            "[person_2] is assisting [person_1] in performing."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is highly likely to pluck the strings of a guitar.",
+            "It is possible that [person_1] will play the flute to the end of the song.",
+            "[person_1] will jump out of the truck.",
+            "[person_1] will practice the clarinet again.",
+            "[person_1] will punch again."
+        ],
+        "reason": [
+            "[person_1] just stopped blowing the clarinet.",
+            "Because [person_1] is using the screwdriver.",
+            "[person_1] is teaching how to use the tool.",
+            "[person_1] likes the candles.",
+            "[person_1] is still holding the bradawl."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not assist [person_1] ?",
+        "answer": [
+            "[person_2] wouldn't flip the cake.",
+            "[person_1] would have to blow the clarinet solo.",
+            "[person_1] will smooth out the pattern.",
+            "the person on the balcony may toss the bottle back down.",
+            "[person_2] might be kicked."
+        ],
+        "reason": [
+            "He will sleep.",
+            "Stomping grapes is a repetitive action.",
+            "[person_2] is not assisting [person_1].",
+            "Because [person_1] will calcine [person_2].",
+            "Because [person_2] is obviously more advanced."
+        ]
+    }
+}

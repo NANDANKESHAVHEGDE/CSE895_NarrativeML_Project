@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is sitting on the steps.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is sitting on bed.",
+            "The [person_1] is next to the window.",
+            "[person_1] is sitting on the sofa."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] on his knee?",
+        "answer": [
+            "[person_2] is feeling easier to play standing up.",
+            "[person_2] is performing in a show.",
+            "[person_2] is overexcited at this movement.",
+            "[person_2] places the accordion that leans on her chest with the key buttons confronting away from her.",
+            "[person_2] is messing around with someone on the bed."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sit there.",
+            "[person_1] is going to need a break.",
+            "[person_1] is going to keep laughing.",
+            "[person_1] is going to keep seeing.",
+            "[person_1] is going to take a break."
+        ],
+        "reason": [
+            "[person_1] is ripping paper.",
+            "[person_2] is still hitting someone with a pillow behind [person_1].",
+            "[person_1] is moving to the chair.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is holding the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] was not on the bed?",
+        "answer": [
+            "[person_2] may look for everything in the undersea.",
+            "[person_2]'s knees might be hurt.",
+            "The toy car will slow down.",
+            "[person_2] would get that box back.",
+            "Cat's owner will immediately pick up it and comfort it."
+        ],
+        "reason": [
+            "[person_2] is the mom of [person_2] and [person_2] may feel unsafe if [person_2] is not staying with him.",
+            "Smaller weights may be lighter and [person_2] may find less challenging to carry , so he can practice squatting on his own.",
+            "[person_2] is not so excited.",
+            "[person_2] is kneeling on the bed so it's very soft for [person_2]'s knees.",
+            "The stump is for rising the level of fruit so that [person_2] doesn't have to bend his body."
+        ]
+    }
+}

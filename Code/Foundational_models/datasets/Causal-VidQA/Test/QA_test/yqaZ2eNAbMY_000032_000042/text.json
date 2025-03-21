@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing guitar.",
+            "[person_1] is playing the piano.",
+            "[person_1] is stripping an apple.",
+            "[person_1] is playing basketball."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a cat lying on the keyboard?",
+        "answer": [
+            "Perhaps [person_1] feels pain in her hand.",
+            "[person_1] is performing at a concert.",
+            "[person_1] wants to open the box.",
+            "The [person_1] is helping the [person_1] keep balance on the stilts.",
+            "It's the cat's favorite spot."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] continues to play the keyboard.",
+            "[person_1] will perform with the harp.",
+            "[person_1] may play the harmonica.",
+            "[person_1] may go to add some weights of the equipment.",
+            "[person_1] will upload some photos to the Internet."
+        ],
+        "reason": [
+            "[person_1] is playing piano.",
+            "[person_1] is taking over the coco.",
+            "[person_1]'s hand is on the string.",
+            "[person_1] stopped playing the harmonica and stood up.",
+            "[person_1] is concentrating on playing the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cat jumps on the keyboard?",
+        "answer": [
+            "[person_1] will chase the cat away.",
+            "Maybe [person_1] will have an accident.",
+            "The [person_1] will broken.",
+            "[person_1] would be in the risk of falling down.",
+            "[person_1] needs to fix the machine."
+        ],
+        "reason": [
+            "If the cat is on the keyboard , [person_1] can't play the keyboard.",
+            "Other people are not at home , no one will open the door except [person_1].",
+            "The egg liquid on the surface of the chicken breast is the key to good taste.",
+            "[person_1] and [person_1] are in the room.",
+            "The helmet protects [person_1]'s head."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a zebra print dress with leggings.",
+            "[person_1] is wearing a checkered hooded jacket.",
+            "[person_1] is the shortest in the group.",
+            "[person_1] contains a ton of apple peel.",
+            "The [person_1] is wearing a cap."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] looking at the box?",
+        "answer": [
+            "[person_1] is looking down because he looks at his fingers while playing guitar , so he doesn't make a mistake.",
+            "[person_1] wants to build her core strength.",
+            "[person_1] is is admiring her gift she unwrapped.",
+            "Because [person_1] finished reading the book.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "what will [person_1] do next?",
+        "answer": [
+            "[person_1] will lift the other leg.",
+            "[person_1] may try to finish his work and put it on the exhibition table.",
+            "[person_1] will walk around the music room as he plays his bagpipe for the people listening.",
+            "[person_1] will start laughing at something funny [person_1] said as she continued to peel vegetables",
+            "[person_1] will go to open another one of her presents she got."
+        ],
+        "reason": [
+            "There are other wrapped - up presents around [person_1] so she could have more wrapped - up gifts to open.",
+            "Because at the end of the video , we can see that [person_1] has turned half in the air.",
+            "Water can separate the sands and smaller sands will be filtered into the water.",
+            "Because the iron pipe is too hot , there is just a basin of water nearby that can be used to cool down.",
+            "[person_1] says something to [person_1] , and she starts to laugh."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_3] pushed the box onto [person_1] while she looked at it?",
+        "answer": [
+            "[person_1] would get stuck under the box and would struggle to get out from under it.",
+            "He will knock on the tree.",
+            "It would be easier for [person_1] to collect eggs.",
+            "Maybe [person_1] will stop weaving.",
+            "He will praise her."
+        ],
+        "reason": [
+            "Because the hot dog may be dirty.",
+            "Due to not enough light to practice.",
+            "To keep [person_1] safe.",
+            "[person_1] is a child , so the box could be too heavy for her to pick up.",
+            "There is a large bed behind [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is on the outside.",
+            "[person_1] is in the room",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the chessman?",
+        "answer": [
+            "[person_1] is learning to ride [person_1].",
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "Maybe [person_1] is introducing the plate.",
+            "Maybe [person_1] wants to try smoke hookah.",
+            "[person_1] finds stomping the grapes funnier than [person_1] does."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to wait for the movement of [person_1].",
+            "[person_1] intends to move the chess piece.",
+            "[person_1] intends to read all the newspapers on the table.",
+            "[person_1] intends to take his billiard shot.",
+            "Maybe [person_1] intends to use onions to cook."
+        ],
+        "reason": [
+            "[person_1] completed the movement of [person_1].",
+            "Maybe [person_1] is dizzy.",
+            "[person_1] worn the boxing gloves.",
+            "[person_1] is holding a chessman.",
+            "[person_1] is talking to other players . "
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] pleases stop the game?",
+        "answer": [
+            "Maybe [person_1] can't play didgeridoo.",
+            "[person_1] will get in the car.",
+            "[person_1] will win the game and the game is over.",
+            "the cannon may make [person_2] , [person_2] or [person_1] injured.",
+            "[person_1] will be mad."
+        ],
+        "reason": [
+            "[person_2] is playing on the slide near [person_2].",
+            "The game is over when it finds out the winner.",
+            "[person_2] tried his best.",
+            "The balls have water inside and it will make [person_2] wet.",
+            "[person_2] paid attention to the gift which [person_2] got."
+        ]
+    }
+}

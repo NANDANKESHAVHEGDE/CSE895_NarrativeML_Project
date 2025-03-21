@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the gym.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] taking [cup_2]?",
+        "answer": [
+            "[person_1] is playing with paper.",
+            "[person_1] wants to play the lute.",
+            "[person_1] is using [cup_2] to squeeze oranges.",
+            "[person_1] holds [cup_2] to pour beer into it.",
+            "[person_1] is helping [person_1] on practicing roller skating."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will get up.",
+            "[person_1] is going to squeeze all the oranges on [dining table_1].",
+            "Maybe [person_1] is going to stop running.",
+            "[person_1] will eat the apple on the table.",
+            "Maybe [person_1] is going to sit."
+        ],
+        "reason": [
+            "There are many trees in the garden.",
+            "[person_1] is holding the bottle.",
+            "Because [person_1] looks very tired.",
+            "There are many unsqueezed oranges on [dining table_1].",
+            "[person_1] is holding a title."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [cup_2] is broken ?",
+        "answer": [
+            "[person_1] will continue to practice.",
+            "[person_1] would feel a lot of back pain and muscle pain.",
+            "[person_1] would have to pick the hoop up.",
+            "[person_1] could not persist for long time without the earphone.",
+            "[person_1] won't be able to keep squeezing oranges."
+        ],
+        "reason": [
+            "As heavy as the hammer is , it would deliver a fatal blow to anyone got hit.",
+            "[cup_2] is very old.",
+            "It is possible that [cup_2] will take a long time to eat this kind of cake again.",
+            "[cup_2] is what he needed to squeeze oranges.",
+            "Because [cup_2] would like to take revenge for [cup_2]."
+        ]
+    }
+}

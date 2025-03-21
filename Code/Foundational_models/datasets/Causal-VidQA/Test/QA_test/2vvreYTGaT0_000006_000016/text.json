@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "It is beautiful.",
+            "There are two persons.",
+            "The room is quite small.",
+            "Three.",
+            "It is nicely decorated."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keep smiling?",
+        "answer": [
+            "[person_1] is rubbing [person_1]'s back.",
+            "Because [person_1] wants to get a thing from the other end of the table.",
+            "Because [person_1] can't afford to go to the gym.",
+            "Because [person_1] wants people to know it's not that hard to open a bottle.",
+            "Because [person_1] is a child."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may take a photo of [person_1].",
+            "[person_1] is going to play the game again.",
+            "[person_1] may go on trying feeding to [person_2].",
+            "[person_1] is going to shave all of his beard.",
+            "[person_1] is going to drink beer with [person_2]."
+        ],
+        "reason": [
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] is going to start sleeping.",
+            "There are two bottles of beer on the table and they are both opened.",
+            "[person_1] is not facing the stage."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [bottle_1] falls down?",
+        "answer": [
+            "[bottle_1] will not dance.",
+            "[bottle_1] will need to rest.",
+            "The beer in it will be split out.",
+            "[bottle_1] will dance alone.",
+            "[bottle_1] would also stop dancing."
+        ],
+        "reason": [
+            "[bottle_1] doesn't wear any protective arms.",
+            "[bottle_1] will sit there alone.",
+            "[bottle_1] will cut more quickly.",
+            "[bottle_1] is already open.",
+            "This training camp will become famous and more people will come."
+        ]
+    }
+}

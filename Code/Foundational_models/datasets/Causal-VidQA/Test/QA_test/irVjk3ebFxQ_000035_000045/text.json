@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing on the head?",
+        "answer": [
+            "The [person_1] is wearing a white T - shirt.",
+            "[person_1] is wearing a headphone.",
+            "[person_1] is blue.",
+            "The [person_1] is pink and white.",
+            "Black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing maracas in a studio?",
+        "answer": [
+            "Because it matches the outfit [person_1]'s wearing.",
+            "Because the [person_1] likes skateboarding.",
+            "Because [person_1] wants to play the gong.",
+            "[person_1] is recording the sound of maracas.",
+            "[person_1] , [person_1] and [person_1] want to improve their physical health."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with next?",
+        "answer": [
+            "[person_1] will continue playing the maracas.",
+            "[person_1] will watch the video to see if it was good.",
+            "[person_1] will join in others.",
+            "[person_1] will join in dancing.",
+            "[person_1] will join them to play the game."
+        ],
+        "reason": [
+            "[person_1] finishes playing the song and then looks back at the camera to get it and watch the recording.",
+            "Because it's early and they just started practicing.",
+            "Because they have no intention of leaving.",
+            "[person_1] is holding the ball and crouching.",
+            "[person_1] has not finished the recording."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the electricity went off?",
+        "answer": [
+            "The rope won't break.",
+            "[person_1] might be kicked out of the ring.",
+            "The water would splash into the car door.",
+            "[person_1] would have to stop his work.",
+            "[person_1] will find some tools."
+        ],
+        "reason": [
+            "The audience can see nothing.",
+            "There is only a oven.",
+            "[person_1] can not record without electricity.",
+            "[person_1] wouldn't be able to bounce the ball comfortably because there's no space.",
+            "The place is on fire."
+        ]
+    }
+}

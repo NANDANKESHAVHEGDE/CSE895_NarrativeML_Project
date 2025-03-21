@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [dining table_1]?",
+        "answer": [
+            "The [person_1] is next to the shelf.",
+            "The [dining table_1] is on the grass.",
+            "The [dining table_1] is behind [person_1].",
+            "The [person_1] is next to [person_1].",
+            "[person_1] is behind [person_1] and on the shelf."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising the hand?",
+        "answer": [
+            "[person_1] is feeling in love.",
+            "Because [person_1] is playing the gong.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is excited about this action.",
+            "[person_1] is nearsighted."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop skiing.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to continue to comb his hair with this comb.",
+            "[person_1] is going to lift slowly.",
+            "[person_1] is going to keep on playing the gong."
+        ],
+        "reason": [
+            "Because [person_1] has a brush in his hand.",
+            "When [person_1] holds the comb , he is raising his hand to comb his hair.",
+            "[person_1] is looking at the plate of food.",
+            "[person_1]'s feet are numb.",
+            "Right hand of [person_1] is pointing towards the gong."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would [person_1] do if there were no the bradawl?",
+        "answer": [
+            "The person will stop dancing.",
+            "Then all the people here will try to run out.",
+            "He will run away.",
+            "[person_1] might not feel confident.",
+            "[person_1] would have to take a bradawl."
+        ],
+        "reason": [
+            "Because there is no one as a guard.",
+            "All the people will try to get off here to avoid from the fire.",
+            "They will not be of much help.",
+            "[person_1] needs a bradawl to play the gong.",
+            "Because [person_1] and [person_1] are curious about birds , but [person_1] and [person_1] can't see or touch birds."
+        ]
+    }
+}

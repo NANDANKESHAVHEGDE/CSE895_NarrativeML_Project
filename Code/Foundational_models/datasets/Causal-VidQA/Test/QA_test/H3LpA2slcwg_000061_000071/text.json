@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [refrigerator_1]?",
+        "answer": [
+            "It is white.",
+            "It is pink.",
+            "It is black.",
+            "It is near the [refrigerator_1].",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] lie on the bed?",
+        "answer": [
+            "Because [person_1] is going to have a massage.",
+            "[person_1] wants to make sure that [person_1] won't fall.",
+            "Because [person_1] wants to play the keyboard.",
+            "[person_1] and [person_1] are practicing the clarinet.",
+            "Because [person_1] wants to hang it for convenience and this plant should hang."
+        ]
+    },
+    "predictive": {
+        "question": "What will the man standing beside [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] will fall down.",
+            "The man standing beside [person_1] is going to do massage for [person_1].",
+            "[person_1] will roll the sushi up.",
+            "[person_1] will begin to ride [person_1].",
+            "[person_1] will begin to ride [person_1] . "
+        ],
+        "reason": [
+            "To help relax [person_1].",
+            "Because [person_1] needs to grow up.",
+            "It seems that [person_1] doesn't master it.",
+            "When the nail is absolutely inside , [person_1] needs to pull the nail.",
+            "Because [person_1] is singing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] got backache suddenly?",
+        "answer": [
+            "[person_1] and [person_1] would stop drinking.",
+            "The man standing there won't ask [person_1] to turn over [person_1]'s body.",
+            "[person_1] will also not play.",
+            "The man standing there will ask [person_1] to turn over [person_1]'s body.",
+            "Perhaps [person_1] would talk with her so that [person_1] could not ask for some water."
+        ],
+        "reason": [
+            "To give a massage at [person_1]'s back to relieve [person_1]'s pain.",
+            "Because if [person_1] slips hands , there is nothing holding the weights so it will fall down.",
+            "To give a massage at [person_1]'s head to relieve [person_1]'s pain.",
+            "Because [person_1] would spend time on standing up and trying to go back the running line.",
+            "To give a massage at [person_1]'s back to enhance [person_1]'s pain."
+        ]
+    }
+}

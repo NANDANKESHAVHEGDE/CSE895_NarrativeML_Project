@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is hanging on the wall?",
+        "answer": [
+            "There are two certificates hanging on the wall near the door.",
+            "It's red.",
+            "Yes , there are.",
+            "There are fourteen chairs in the room.",
+            "There are five cups on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] giving [person_2] a massage?",
+        "answer": [
+            "It is convenient for [person_1] to put on.",
+            "Because it is [person_1]'s job.",
+            "[person_1] is rubbing [person_2]'s back.",
+            "[person_1] is trimming the fur off of the sheep.",
+            "Because [person_1] is using the cell phone to text messages."
+        ]
+    },
+    "predictive": {
+        "question": "How will [person_2] feel next?",
+        "answer": [
+            "[person_2] will be upside down.",
+            "[person_2] may go on playing with the boards.",
+            "[person_2] may cry.",
+            "[person_2] will feel more and more comfortable.",
+            "The girl is going to continue riding to catch up with [person_2]."
+        ],
+        "reason": [
+            "[person_2] looks painful and [person_2] is a young boy so [person_2] may cry.",
+            "[person_1] is a cook.",
+            "Because [person_1] is giving [person_2] a massage.",
+            "[person_1] , [person_1] , [person_1] , [person_1] starts to disperse.",
+            "[person_2] and [person_1] seem to not familiar with fingers snaps because they do not look confident enough."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] fell asleep in bed?",
+        "answer": [
+            "Maybe [person_2] won't be here too.",
+            "[person_1] will wear a kneepad.",
+            "[person_1] will wake him up.",
+            "Maybe [person_2] couldn't continue the competition.",
+            "[person_1]'s hands will hurt."
+        ],
+        "reason": [
+            "Because maybe [person_2] has something urgent.",
+            "Because [person_1] has to massage the next customer.",
+            "Enemy team's players would take the ball from [person_2].",
+            "[person_1] is teaching [person_2] how to cook.",
+            "There will be a lot of sand on the body of [person_1]."
+        ]
+    }
+}

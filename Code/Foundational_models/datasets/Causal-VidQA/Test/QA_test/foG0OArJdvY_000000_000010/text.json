@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "The shorts are red.",
+            "It is black.",
+            "The [person_2] is wearing checked pants.",
+            "It is a hat.",
+            "[person_2] is using the left hand to hold the cigarette."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] standing on the floor?",
+        "answer": [
+            "[person_2] is playing darts.",
+            "The large square is specific for cars.",
+            "[person_2] and [person_2] are spinning the rope for [person_2].",
+            "He wants to play better.",
+            "[person_2] is trying something like clothes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to fold the quilt.",
+            "[person_2] is going to hug [person_2].",
+            "[person_2] will put his hands up and cheer him on.",
+            "[person_2] is going to fly a kite.",
+            "[person_2] is going to throw a dart."
+        ],
+        "reason": [
+            "[person_2] is holding a book in her hand.",
+            "[person_2] is holding a dart in his hand.",
+            "[person_2] is recording a video at break time.",
+            "[person_2] forgets the action.",
+            "[person_2] is using [person_2] to stir over and over."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] hits the triple ring?",
+        "answer": [
+            "The score of [person_2] will be tripled.",
+            "[person_2] may not want to dig hole.",
+            "The score of [person_2] won't be tripled.",
+            "the toy car can move.",
+            "The score of [person_2] will be high."
+        ],
+        "reason": [
+            "That's not the rule of this game.",
+            "The floor is very slippery.",
+            "That's the rule of this game.",
+            "The opponent will steal his ball.",
+            "That's against the rule of this game."
+        ]
+    }
+}

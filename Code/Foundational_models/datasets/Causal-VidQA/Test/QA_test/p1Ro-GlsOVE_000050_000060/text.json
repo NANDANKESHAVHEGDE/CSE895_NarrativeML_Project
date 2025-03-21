@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dog_1] ?",
+        "answer": [
+            "[dog_1] is next to the wall.",
+            "It is on the plastic basket.",
+            "[dog_1] is sitting on the [dog_1].",
+            "[dog_1] is sitting on the [dog_1].",
+            "[dog_1] is lying on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room ?",
+        "answer": [
+            "Because [person_1] is practicing standing on hands.",
+            "[person_1] is riding a unicycle.",
+            "[person_1] is playing the lute.",
+            "[person_1] is doing the exercise.",
+            "[person_1] is playing with paper."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next ?",
+        "answer": [
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will keep walking.",
+            "[person_1] will probably go on folding the napkin.",
+            "[person_1] will keep playing.",
+            "[person_1] will display his good work of the opening."
+        ],
+        "reason": [
+            "Because it seems that [person_1] stops tagging.",
+            "[person_1] is playing.",
+            "The debris splashes everywhere.",
+            "The hair in cutting may get into her eyes.",
+            "[person_1] seems to be afraid of being tattooed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "[person_1] will be afraid.",
+            "Maybe [person_1] will stop watering.",
+            "[person_1] will be injured.",
+            "Maybe [person_1] will sit still.",
+            "[person_1] will be repaired."
+        ],
+        "reason": [
+            "[person_1] will continue playing.",
+            "[person_1] will be following the sound of the flute.",
+            "[person_1] will stop playing.",
+            "Without the power the laptop can't work any more.",
+            "[person_1] will stop tagging."
+        ]
+    }
+}

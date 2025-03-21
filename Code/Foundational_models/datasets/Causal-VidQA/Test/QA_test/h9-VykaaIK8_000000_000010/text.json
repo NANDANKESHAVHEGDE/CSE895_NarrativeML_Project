@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_2] using?",
+        "answer": [
+            "[person_2] uses a spoon.",
+            "[person_2] is sitting on the [person_2].",
+            "[person_2] is using a corkscrew.",
+            "[person_2] is behind the girl.",
+            "[person_2] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_2] use a spoon to open the bottle?",
+        "answer": [
+            "Because the [person_2] is trying to lead the camel.",
+            "[person_2] wants to explain how to play the clarinet.",
+            "[person_2] presses the spoon to the bottle and levers the lid up.",
+            "Because [person_2] is lifting weights.",
+            "when [person_2] looking at the mirror , the reflection looks like someone else."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will help [person_1] sit up.",
+            "[person_2] will give [person_1] some compliments.",
+            "[person_2] will guide [person_1] and [person_2] to drive the car.",
+            "[person_2] will enjoy the liquid inside the bottle with [person_1].",
+            "[person_2] will take the candles off [person_2]."
+        ],
+        "reason": [
+            "Because [person_2] still has many things which he can't understand.",
+            "Because he will finish pouring the juice.",
+            "[person_2] doesn't eat the whole food yet and is holding it.",
+            "[person_2] has opened the bottle successfully.",
+            "[person_2] has just turned a new page of the music sheet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would [person_2] do if it was covered with plastic label?",
+        "answer": [
+            "Maybe [person_2] will stop spreading the liquid temporarily.",
+            "[person_2] would have to remove the package firstly.",
+            "Perhaps [person_2] will not look beautiful.",
+            "They will be scared.",
+            "[person_2] and [person_2] may stop to listen what the [person_2] say."
+        ],
+        "reason": [
+            "[person_2] is in front of [person_2].",
+            "Because [person_2] has to answer [person_2]'s question and talk to him.",
+            "Bandage is the useful treatment to the woman's wound.",
+            "The shell of an oyster is attached to the meat.",
+            "The lid is covered under the package."
+        ]
+    }
+}

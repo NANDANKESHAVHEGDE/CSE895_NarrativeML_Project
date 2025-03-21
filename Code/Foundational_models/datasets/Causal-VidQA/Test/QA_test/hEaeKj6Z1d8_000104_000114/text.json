@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is sitting on the floor.",
+            "It is on the shelf.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is on the table.",
+            "[cup_1] is in the corner of the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cup_1] ?",
+        "answer": [
+            "Because [person_1] learns about animals.",
+            "Because [person_1] is playing stacks of cups.",
+            "He wants to try stack the dices one more time.",
+            "To give [person_1]'s feet a massage.",
+            "[person_1] wants to protect the head."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to continue stacking cups.",
+            "[person_1] does a workout.",
+            "[person_1] may go to finish his job.",
+            "[person_1] will play basic chords.",
+            "[person_1] may turn on the light."
+        ],
+        "reason": [
+            "[person_1] has already picked one piece up.",
+            "To wash the sheets.",
+            "Person 1 likes cup making.",
+            "[person_1] is jumping very professionally.",
+            "Maybe [person_1] likes the sound of tearing paper."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will be lose.",
+            "[person_1] will wake up.",
+            "It is a problem for [person_1] to do exercise when he has no way but to choose things of [person_1].",
+            "[person_1] will bump into [person_1].",
+            "[person_1] will use the bricks as a gun."
+        ],
+        "reason": [
+            "[person_1] needs [person_1] to be able to surf.",
+            "Maybe [person_1] goes to work after meal.",
+            "Because [person_1] may run to something and not stop.",
+            "Because [person_1] will probably lose.",
+            "The secret will be revealed."
+        ]
+    }
+}

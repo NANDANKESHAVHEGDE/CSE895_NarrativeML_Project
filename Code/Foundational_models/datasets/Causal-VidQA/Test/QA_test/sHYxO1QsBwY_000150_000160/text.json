@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing now?",
+        "answer": [
+            "[person_1] is white and dark.",
+            "[person_1] is playing the game.",
+            "[person_1] is in the back of [person_1].",
+            "[person_1] is in the corner of the gym.",
+            "[person_1] is in front of the house door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they running around?",
+        "answer": [
+            "The weather is hot.",
+            "To sift the tea leaves.",
+            "Because the man is guiding [person_1].",
+            "Someone is teasing [person_1].",
+            "The game demands this."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running away?",
+        "answer": [
+            "[person_1]'s head will still hang down.",
+            "[person_1] will go back to the game.",
+            "[person_1] will count until reach 10 seconds.",
+            "[person_1] will relax his legs.",
+            "[person_1] will breathe freely."
+        ],
+        "reason": [
+            "[person_1] is not a professional snake catcher.",
+            "[person_1] needs it to promote his products.",
+            "They love playing this game.",
+            "[person_1] has been refreshed.",
+            "[person_1] has suppressed for several seconds."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen when a child suddenly falls down?",
+        "answer": [
+            "[person_1]'s board may be broken.",
+            "They would all stand by.",
+            "Juice would be splashed everywhere.",
+            "It won't taste that good.",
+            "He would refuse that."
+        ],
+        "reason": [
+            "They are afraid of being blamed.",
+            "The slides are very thin and fragile.",
+            "They are scared about the falling and don't know what to do.",
+            "It is probable that [person_1] clothes are drying in the yard.",
+            "Because [person_1] is more powerful."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What shape is [dining table_1] ?",
+        "answer": [
+            "The color of [dining table_1] is green.",
+            "[dining table_1] is standing to stack the dice.",
+            "[dining table_1] is circle.",
+            "It is on the box near [dining table_1].",
+            "The color of the T - shirt of the [dining table_1] is dark blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the chair ?",
+        "answer": [
+            "[person_1] is playing with cups on the dining table.",
+            "The view at the window is beautiful.",
+            "[person_1] is playing the harmonica to relax.",
+            "[person_1] is doing somersaults.",
+            "[person_1] is playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next ?",
+        "answer": [
+            "[person_1] will continue to skydive.",
+            "[person_1] is going to keep mixing the soil until it's ready.",
+            "[person_1] is going to stack the cups.",
+            "[person_1] is going to answer the phone.",
+            "[person_1] is going to get another blade of grass from [person_1]."
+        ],
+        "reason": [
+            "[person_1] has gone to the end of the room and [person_1] is still excited.",
+            "[person_1] looks very excited with the cups.",
+            "Because [person_1] seems to be very joyful to see what they are doing.",
+            "Because [person_1] haven't finish installing carpet for . the whole room.",
+            "Because [person_1] is ready to open the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a cup falls to the ground ?",
+        "answer": [
+            "[person_1] may make it more dangerous.",
+            "[person_1] will be startle.",
+            "[person_1] can play other toys.",
+            "[person_1] could not attend the skating contest.",
+            "She will keep licking until it is clean."
+        ],
+        "reason": [
+            "[dining table_1] is a toddler , so she will put the toy aside when she doesn't like it anymore.",
+            "There are still a lot of people in this room.",
+            "Because the cup will make a noise.",
+            "With the momentum built by [person_1] , the hammer could easily penetrate through the fence.",
+            "[dining table_1] falls from the height which is comparatively high."
+        ]
+    }
+}

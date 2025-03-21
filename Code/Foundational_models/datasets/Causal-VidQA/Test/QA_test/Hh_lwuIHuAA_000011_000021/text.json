@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_2]?",
+        "answer": [
+            "[person_2] is skating in a roller rink.",
+            "[person_2] is standing in front of the exit.",
+            "[person_2] is in a hospital bed.",
+            "It is being sat by [person_2].",
+            "[person_2] is sitting on lap of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] skating next to [person_2]?",
+        "answer": [
+            "perhaps [person_1] is having fun skating together with [person_2].",
+            "Because [person_1] wants to tear the paper apart.",
+            "The [person_1] is harvesting apples and the apple branches are high.",
+            "[person_1] thinks the inhaler is interesting.",
+            "To introduce mountain - climbing exercises."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen to [person_5] and [person_4] next after they begin to skate?",
+        "answer": [
+            "[person_5] will find all the eggs.",
+            "[person_5] and [person_4] will continue to skate around the roller rink until they get tired.",
+            "[person_4] will lift up the big dumbbell.",
+            "[person_5] may be a fitness coach.",
+            "The game is over."
+        ],
+        "reason": [
+            "Because they need to taste and then they can know how to introduce the food better.",
+            "The girl standing in the distance is walking towards the ball.",
+            "Because this is a rock with sharp edge.",
+            "The marshmallows is burnt and [person_5] can't eat it any more.",
+            "[person_5] and [person_4] paid money to skate at the roller rink so they will continue skating till they are done."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] fell while skating on the roller rink?",
+        "answer": [
+            "The [person_1] will drive there.",
+            "If there is not any damage , [person_1] will pick them up , if there are damage , [person_1] will try to repair it.",
+            "[person_3] will be angry and scold [person_1].",
+            "[person_3] and [person_4] would trip over [person_1] falling onto the ground as well.",
+            "Perhaps [person_1] will laugh."
+        ],
+        "reason": [
+            "[person_1] is [person_4]'s parent.",
+            "The closet is behind [person_1] and [person_3].",
+            "[person_1] feels painful is because there's pressure on [person_1]'s wound . If there's no pressure on [person_1]'s wound , the wound may start bleeding.",
+            "[person_3] and [person_4] would trip over [person_1] because they are skating very fast and might not be able to stop.",
+            "Because [person_1] really wants to win."
+        ]
+    }
+}

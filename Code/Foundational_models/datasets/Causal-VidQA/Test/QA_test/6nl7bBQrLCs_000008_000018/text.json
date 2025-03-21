@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is in the room?",
+        "answer": [
+            "[chair_1]'s shirt is red.",
+            "No , there are two.",
+            "The piano is in front of the couch and next to the wall.",
+            "[chair_1]'s shirt is red.",
+            "[chair_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding dumbbells?",
+        "answer": [
+            "Maybe [person_1] and [person_1] are taking a photo.",
+            "[person_1] is doing lunges.",
+            "[person_1] is having fun.",
+            "[person_1] is a conductor and [person_1] is leading the band.",
+            "[person_1] wants to improve his knowledge."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will get up.",
+            "[person_1] is going to put the dumbbells on the rack.",
+            "[person_1] will pick up the baby.",
+            "Maybe [person_1] is going to stop running.",
+            "Maybe [person_1] is going to jump again."
+        ],
+        "reason": [
+            "[person_1] is talking very seriously.",
+            "Feedback is needed in the classroom.",
+            "Riding a mechanical bull is hot.",
+            "[person_1] is going to change the exercise.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] held heavier dumbbells?",
+        "answer": [
+            "[person_1] will be excited.",
+            "[person_1] will throw her gloves on the ground.",
+            "[person_1] would feel more tired.",
+            "The woman will do some shoulder and neck exercises.",
+            "The team of [person_1] will win."
+        ],
+        "reason": [
+            "The [person_1] is fine and enjoys peeling.",
+            "[person_1] wants to experience such feeling.",
+            "The weight of the lunge depends on the weight of the dumbbell.",
+            "The [person_1] can not open the box.",
+            "Since [person_1] is streaming how to peel an apple with a driller."
+        ]
+    }
+}

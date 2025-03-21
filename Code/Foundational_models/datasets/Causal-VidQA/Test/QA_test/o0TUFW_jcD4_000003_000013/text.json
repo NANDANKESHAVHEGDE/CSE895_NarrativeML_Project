@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is near the wall?",
+        "answer": [
+            "In the middle of the video.",
+            "The box is pink.",
+            "[bench_1] is near the wall.",
+            "It's green.",
+            "The room is painted in yellow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding dumbbells?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "Prepare to add it.",
+            "[person_1] is excited about his action.",
+            "[person_1] is being shaved.",
+            "[person_1] is doing exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] may swim.",
+            "[person_1] may turn around.",
+            "She will finish her ice cream.",
+            "[person_1] will ask someone to confirm her good working.",
+            "[person_1] will squats."
+        ],
+        "reason": [
+            "[person_1] is kneading the dough",
+            "[person_1] is trying to uncork it.",
+            "Because [person_1] can't do this without help.",
+            "[person_1] doing the lunges too many times.",
+            "It is polite to say \" thank you \" ."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] has slippery hands?",
+        "answer": [
+            "[person_1] will drop dumbbells.",
+            "[person_1] may fall down to the ground.",
+            "[person_1] will nevel drop dumbbells.",
+            "Then the mouthwash water may get on the clothes.",
+            "[person_1] will hold dumbbells."
+        ],
+        "reason": [
+            "As there is no one to replace [person_1] , [person_1] will have to both shovel and sieve the soil.",
+            "Dumbbells is on the hand of [person_1].",
+            "[person_1] will receive a message from someone.",
+            "Dumbbells is on the head of [person_1].",
+            "Because the [person_1] has two computers."
+        ]
+    }
+}

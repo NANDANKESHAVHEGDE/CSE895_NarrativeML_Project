@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [couch_1]?",
+        "answer": [
+            "[couch_1] is on the sidewalk to [person_1]'s right.",
+            "The [couch_1] is next to [person_1].",
+            "The [couch_1] is behind the [person_1].",
+            "The [couch_1] is to the right of the [person_1].",
+            "[couch_1] is directly in front of [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] lean back?",
+        "answer": [
+            "Because this is a mind training game.",
+            "It was a punishment for the loser.",
+            "[person_1] is being shaved.",
+            "[person_1] and [person_1] are in the same team.",
+            "[person_1] leans back to look up another person who is ripping the paper."
+        ]
+    },
+    "predictive": {
+        "question": "What is going to happen with [person_1]?",
+        "answer": [
+            "The [person_1] is going to remain the pose of a magician.",
+            "[person_1] is going to fall backward.",
+            "the [person_1] wants to pull the rope down.",
+            "The [person_1] may shovel the snow.",
+            "The [person_1] isn't going to push the [person_1] any more."
+        ],
+        "reason": [
+            "It appears that [person_1] is still intent on the painting.",
+            "The [person_1] is still raising hands and holding the sharp sticks.",
+            "The [person_1] is pushing the shovel toward the grass.",
+            "[person_1] tilts his head up too high and laughs out loud so he can not keep his balance.",
+            "The [person_1] holds the gravels and puts them on the floor in turn."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the older person keeps tearing the paper?",
+        "answer": [
+            "[person_1] will not laugh out loud more.",
+            "[person_1]'s team will get an extra shot.",
+            "[person_1] will laugh out less loud.",
+            "[person_1] would answer the phone right away.",
+            "[person_1] will laugh out loud more."
+        ],
+        "reason": [
+            "[person_1] stopped playing because his only audience interfered.",
+            "[person_1] does not feel excited about it.",
+            "[person_1] and [person_1] are playing on two cars together.",
+            "[person_1] feels excited about it.",
+            "Because no one let [person_1] go so [person_1] can take as many as [person_1] wants."
+        ]
+    }
+}

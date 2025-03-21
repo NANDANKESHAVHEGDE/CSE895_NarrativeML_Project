@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a classroom.",
+            "[person_1] is in the workshop.",
+            "[person_1] is in a museum.",
+            "[person_1] is in a fashion shop.",
+            "[person_1] is at the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand and speak?",
+        "answer": [
+            "[person_1] wanna show the results after waxing the legs of [person_1].",
+            "[person_1] is playing the flute.",
+            "[person_1] may just take up skating.",
+            "[person_1] is explaining how to tie a necktie properly.",
+            "[person_1] wants to swing the [person_1] before stopping."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after holding the tie?",
+        "answer": [
+            "[person_1] will continue demonstrating how to tie.",
+            "[person_1] will find all the eggs.",
+            "[person_1] will firstly clean the snow on the [person_1].",
+            "[person_1] will throw off the megaphone.",
+            "[person_1] will throw the quilt back."
+        ],
+        "reason": [
+            "[person_1] uses hula hoop very well.",
+            "Because [person_1]'s mouth is dirty.",
+            "[person_1] has been tired of the megaphone.",
+            "Because [person_1] seems to be quite professional.",
+            "[person_1] has finished his words."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] failed to tie his necktie properly?",
+        "answer": [
+            "[person_1] might become a crying stock.",
+            "[person_1] will see a lot of new things.",
+            "[person_1] might become a laughing stock.",
+            "They will return.",
+            "[person_1] would never become a laughing stock."
+        ],
+        "reason": [
+            "The hoop is too small for the body of [person_1].",
+            "Because it would be ironical if a necktie shop owner could not tie a necktie on his own.",
+            "The guitar would be broken and [person_1] couldn't play it anymore.",
+            "Because it would be ironical if a necktie shop owner could tie a necktie on his own.",
+            "Staying at the road is dangerous if a car passed by."
+        ]
+    }
+}

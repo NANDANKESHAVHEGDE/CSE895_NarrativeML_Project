@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is doing tai chi moves.",
+            "[person_1] is working out at a gym.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is stomping grapes.",
+            "[person_1] is talking to [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] lying on the snow?",
+        "answer": [
+            "To help pile up the snow.",
+            "[person_2] has fallen down.",
+            "He want to play better.",
+            "[person_2] fixes the awl on the cork and uses the wooden stick to hit the awl.",
+            "[person_2] and [person_2] want to make a record of the snowman and themselves."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] intend to do?",
+        "answer": [
+            "[person_2] intends to stand up.",
+            "[person_2] intends to smile.",
+            "[person_2] intends to sit down.",
+            "[person_2] intends to rearrange the items.",
+            "[person_2] intends to fold over the other side of the paper and tape it down."
+        ],
+        "reason": [
+            "[person_1] wants to be more precise.",
+            "[person_2] is raising his body.",
+            "Perhaps [person_1] is free today.",
+            "[person_2] and [person_4] are lining up to play.",
+            "[person_1] has a sweet teeth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the blue ribbon is broken?",
+        "answer": [
+            "It need replacing with a new ribbon.",
+            "The [person_4] will ask the cleaner to clean it.",
+            "Maybe the outside will rain cats and dogs.",
+            "[person_1] will have to stop playing the gong.",
+            "[person_2] will have to temporarily stop playing cymbals."
+        ],
+        "reason": [
+            "The ribbon is used to separate different areas.",
+            "Because the dye is not easily to get off.",
+            "Moving in a dark room is dangerous.",
+            "The room will have no light.",
+            "The birds will need food."
+        ]
+    }
+}

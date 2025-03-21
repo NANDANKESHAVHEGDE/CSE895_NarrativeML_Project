@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is in a roller skating floor.",
+            "[person_2] is on the left hand side of [person_2].",
+            "[person_2] is sitting on [chair_1].",
+            "The dog is behind [person_2].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] sit in front of [person_1]?",
+        "answer": [
+            "[person_2] stood up to arrange things.",
+            "[person_1] wanted it to be more beautiful.",
+            "[person_2] is watching [person_1].",
+            "[person_1] seems to be in the middle of guiding the others how to play dominoes.",
+            "It's too shinny outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after the show begins?",
+        "answer": [
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] is going to flatten the side of [person_1] to his left side.",
+            "[person_1] will keep on dancing.",
+            "[person_1] may go home.",
+            "[person_1] will let the other man say something."
+        ],
+        "reason": [
+            "Because they do seem to like it.",
+            "Because [person_1] seems to be proficient with the spray paints and graffiti tagging.",
+            "Because they have to continue the match.",
+            "When [person_1] was brushing her teeth , [person_1] suddenly took the toothbrush out of mouth , put it in the water pool , and then put it back in mouth.",
+            "[person_1] is still very focused on blowing the clarinet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] stooped blowing the clarinet?",
+        "answer": [
+            "[person_1] may not need to use his tools.",
+            "[person_2] may have a accident.",
+            "Someone else will take it away.",
+            "[person_1] will have a rest.",
+            "[person_2] and [person_4] will give a round of applause."
+        ],
+        "reason": [
+            "The cup is not in the hands of [person_1].",
+            "Although [person_1] is flipping the food , the surface of the food is turning a little bit black.",
+            "[person_2] and [person_4] are interested in [person_1]'s performance.",
+            "The broken part of the stick is sharp and [person_1] will be injured.",
+            "The poles help [person_1] to balance on the ground."
+        ]
+    }
+}

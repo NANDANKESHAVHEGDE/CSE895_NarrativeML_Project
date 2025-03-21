@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is in a fitness center.",
+            "[person_1] is sitting on bed.",
+            "[person_1] is in the yard.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is sitting on the chair in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why doesn't [person_1] play flute ?",
+        "answer": [
+            "[person_1] and [person_1] are spinning the rope for [person_1].",
+            "Because the [person_1] does not want to walk.",
+            "To increase the air pressure inner , making it easier to open it.",
+            "The large square is specific for cars.",
+            "[person_1] likes playing the harp."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to jump on [person_1].",
+            "[person_1] may be going to have a taste.",
+            "[person_1] is going to greet and thank the audience.",
+            "[person_1] is going to give further introduction of how to use the machine.",
+            "[person_1] is going to play the harp."
+        ],
+        "reason": [
+            "[person_1] is practicing.",
+            "[person_1] has prepared shovel tool.",
+            "[person_1] touches the gift.",
+            "[person_1] wears gloves to tamp the soil around a tree.",
+            "[person_1] is stills a baby so [person_1] loves gifts."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s fingers is hurt ?",
+        "answer": [
+            "[person_1] will run away.",
+            "The head of [person_1] would be injured.",
+            "[person_1] will run out of the room.",
+            "[person_1] will feel uncomfortable.",
+            "[person_1] will help [person_1]."
+        ],
+        "reason": [
+            "[person_1] is playing the drum which leads the tempo of the song.",
+            "It will be difficult for [person_1] to play harp.",
+            "Because too much drink contain too much alcohol which will make people drunk.",
+            "It is not safe for [person_1] if there are so many cars.",
+            "Whether the performance is good or not depends on its score."
+        ]
+    }
+}

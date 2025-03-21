@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "It is in the parking lot.",
+            "[potted plant_1] is in the corner.",
+            "[potted plant_1] is opening the door consistently.",
+            "It is on the wooden box.",
+            "It is lying on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing a crown on his head?",
+        "answer": [
+            "[person_1] is waiting for her turn.",
+            "The crown is part of [person_1] outfit.",
+            "Because pressing a button and a key at the same time can create unique rhythm.",
+            "Because [person_1] wants to take it for a walk.",
+            "The horse is too hungry."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] has an intention of playing flute.",
+            "Maybe [person_1] is the goalkeeper and [person_1] will defend the goal.",
+            "It is possible that [person_1] will throw the ball into the cup of the opposing team.",
+            "It is possible that [person_1] will play the guitar.",
+            "[person_1] tends to play faster."
+        ],
+        "reason": [
+            "The car needs gas to run.",
+            "[person_1] is waving goodbye.",
+            "[person_1] is running towards a man.",
+            "[person_1] is enjoying playing the flute.",
+            "[person_1] is talking while putting his fingers on the flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [potted plant_1] falls to the floor?",
+        "answer": [
+            "[potted plant_1] will have to remove the picture.",
+            "The broken [potted plant_1] won't make a loud noise.",
+            "[potted plant_1] will fall down to the trampoline.",
+            "The broken [potted plant_1] will make a loud noise.",
+            "[potted plant_1] will fall down to the floor and get injured."
+        ],
+        "reason": [
+            "It is very easy to fall when playing roller skating.",
+            "[potted plant_1] won't fall from above.",
+            "The bass guitar needs to be played with both hands.",
+            "[potted plant_1] will fall from above.",
+            "The [potted plant_1] is heavy."
+        ]
+    }
+}

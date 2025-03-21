@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is \u00a0 near a big river.",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] is in the gym.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is playing lute on the riverbank.",
+            "[person_1] is skiing.",
+            "[person_1] plays the didgeridoo while playing the drums.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing lute alone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will see where the ball falls down.",
+            "[person_1] will then leave the golf course.",
+            "Maybe [person_1] will keep playing lute until sunset.",
+            "Perhaps [person_1] will manage the student.",
+            "Find somewhere to relax."
+        ],
+        "reason": [
+            "To check whether [person_1] hits the golf successfully.",
+            "[person_1] looks so beautiful.",
+            "Because [person_1] is turning the steering wheel.",
+            "[person_1] is joyful with the movements.",
+            "[person_1] has held the branch and is ready to climb the tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "Maybe [person_1] will stop making the basket temporarily.",
+            "[person_1] will not practice there.",
+            "[person_1] maybe stop playing.",
+            "The rain has little effect on them.",
+            "[person_1] will get wet."
+        ],
+        "reason": [
+            "[person_1] is standing outside.",
+            "[person_1] will stop playing lute.",
+            "[person_1] is in a competition",
+            "[person_1] is in the outdoor.",
+            "If it rains concrete not be able to dry."
+        ]
+    }
+}

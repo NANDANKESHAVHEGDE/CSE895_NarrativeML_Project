@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's [person_1] doing?",
+        "answer": [
+            "[person_1] is walking on a tightrope.",
+            "[person_1] and [person_1] are in a snowfield.",
+            "The color of [person_1] is green.",
+            "The [person_1] is wearing a white Cow - boy hat.",
+            "[person_1] is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why can [person_1] sit down?",
+        "answer": [
+            "Because he's happy.",
+            "It's dangerous.",
+            "It's cold outside.",
+            "To witness the proposal.",
+            "Because [person_1]'s balance is so good."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to take a break then do it again."
+        ],
+        "reason": [
+            "[person_1] is not going to stop.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] feels that the food is not good.",
+            "[person_1] jumped to the ground and stood still for a moment.",
+            "[person_1] is bowing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] took off her shoes?",
+        "answer": [
+            "[person_1] balance would not be better.",
+            "The cameraman will grab it again.",
+            "[person_1] balance would be better.",
+            "[person_1] would learn fencing via videos.",
+            "[person_1] balance would be worse."
+        ],
+        "reason": [
+            "The sole of shoes is easy to slip.",
+            "The ground is too slippery.",
+            "The sole of shoes is not easy to slip.",
+            "Water will run out.",
+            "The sole of shoes is hard to slip."
+        ]
+    }
+}

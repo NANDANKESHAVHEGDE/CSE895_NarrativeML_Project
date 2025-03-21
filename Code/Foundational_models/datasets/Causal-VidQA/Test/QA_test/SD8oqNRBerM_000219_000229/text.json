@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "It is on the right of [person_1].",
+            "[chair_1] is next to [chair_1].",
+            "The [chair_1] is behind [person_1].",
+            "[person_1] is sitting on [chair_1].",
+            "The [chair_1] is next to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear blue gloves on her hands?",
+        "answer": [
+            "[person_1] and [person_1] wants to celebrate the event.",
+            "[person_1] is helping [person_1] practicing martial arts.",
+            "Because [person_1] is relaxing.",
+            "Because [person_1] is driving.",
+            "[person_1] is cooking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go to the toilet.",
+            "[person_1] will continue cooking.",
+            "[person_1] is going to start cooking after talking.",
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to form a pretty shape."
+        ],
+        "reason": [
+            "There are many food on the [dining table_1] for [person_1] to cook.",
+            "[person_1] is trying to make it more beautiful.",
+            "Maybe [person_1] is allergic to something.",
+            "[person_1] is leaning to the left.",
+            "[dining table_1] is smiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the tie dyeing shirt [person_1] is wearing gets dirty while she is cooking?",
+        "answer": [
+            "[person_1] may go out and get a knife.",
+            "[person_1] may have to wash it after cooking.",
+            "[person_1] will walk faster.",
+            "[person_1] will turn off the gas.",
+            "This may be done again."
+        ],
+        "reason": [
+            "[person_1] has finished the actions many times.",
+            "[person_1] will miss many calls.",
+            "The [person_1] eats the sausage bread roll once like other food.",
+            "The dirty from food will make the tie dyeing shirt [person_1] dirty.",
+            "[person_1] is the coach of [person_1]."
+        ]
+    }
+}

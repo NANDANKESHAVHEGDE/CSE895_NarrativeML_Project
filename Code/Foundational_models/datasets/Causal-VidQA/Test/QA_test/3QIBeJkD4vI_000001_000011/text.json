@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_2] doing?",
+        "answer": [
+            "Yes , [person_2] wears a white hat.",
+            "[person_2] is wearing a white shirt and tie.",
+            "It is brown.",
+            "The [person_2] is on the phone.",
+            "The [person_2] is dancing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the refrigerator?",
+        "answer": [
+            "[person_1] plays the accordion very enthusiastically.",
+            "The [person_1] is looking for something in the refrigerator.",
+            "[person_1] has nearsightedness.",
+            "The [person_1] touches the bass buttons to play accordion.",
+            "Because [person_1] is playing the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will put the card in the wallet and go back home.",
+            "The [person_1] will continue to look for things in the [person_1].",
+            "The [person_1] will close the lower drawer of the [person_1].",
+            "The [person_1] will continue to look for things in the refrigerator.",
+            "The [person_1] will run to his parents."
+        ],
+        "reason": [
+            "The [person_1] hasn't found what he wants.",
+            "Because [person_1] hasn't finished the whole procedure.",
+            "Because one of his hands is already on the handle of the lower drawer of the [person_1].",
+            "The [person_1] is drawing and hasn't finished yet.",
+            "Because the [person_1] doesn't seem to be finished her introduction."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the refrigerator suddenly loses power?",
+        "answer": [
+            "[person_1] would not be able to excel at playing bagpipe.",
+            "The [person_1] and the [person_2] will check the cause of the power failure.",
+            "The bowl will fall to pieces.",
+            "They will perform well.",
+            "[person_1] will stop exercising and sit down on [person_2] immediately."
+        ],
+        "reason": [
+            "[person_1] and [person_1] are not wearing jackets which protect them from cuts.",
+            "The old hula hoop is unusable.",
+            "[person_2] would go to [person_2] again to check.",
+            "Because the refrigerator power failure will affect the use.",
+            "[person_2] seems can not hold out to the end."
+        ]
+    }
+}

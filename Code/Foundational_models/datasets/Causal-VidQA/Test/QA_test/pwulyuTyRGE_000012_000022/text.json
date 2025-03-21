@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bottle_2]?",
+        "answer": [
+            "[bottle_2] is on the floor.",
+            "It is on the table.",
+            "[bottle_2] is on the [bottle_2].",
+            "It is a blue room.",
+            "[bottle_2] is near [bottle_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a watch?",
+        "answer": [
+            "Because [person_1] wants to share the time that [person_1] finished.",
+            "[person_1] wants to have a rest.",
+            "It is possible that [person_1] is learning to play the harmonica.",
+            "[person_1] is trying to play the harmonica.",
+            "Because [person_1] wants to introduce more details about microscope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] will wait for results from other players.",
+            "[person_1] may cheer up.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to do a workout."
+        ],
+        "reason": [
+            "[person_1] has finished checking the computer.",
+            "The egg is not cooked yet.",
+            "[person_1] is sharing results.",
+            "[person_1] is shaking the arms.",
+            "[person_1] is enjoying playing flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] spills the cup?",
+        "answer": [
+            "[person_1] would be lose.",
+            "[person_1] will pull the sheet off.",
+            "The goat will go to [person_1].",
+            "[person_1] will call the seller,",
+            "[person_1] will feel sad."
+        ],
+        "reason": [
+            "Then [person_1] will open the gate for someone.",
+            "According to the size of the hand , [person_1] is an adult , he will take care of himself.",
+            "It is very dark and [person_1] is a child . [person_1] only sits alone.",
+            "The flute of [person_1] might be broken.",
+            "[person_1] will have to put the cup back."
+        ]
+    }
+}

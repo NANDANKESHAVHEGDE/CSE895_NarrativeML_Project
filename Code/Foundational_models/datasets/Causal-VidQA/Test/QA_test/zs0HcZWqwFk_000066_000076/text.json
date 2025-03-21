@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is brown.",
+            "The shirt is red.",
+            "The shirt is green.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing with his toys.",
+            "[person_1] is stacking cups.",
+            "[person_1] is practicing playing flute.",
+            "[person_1] is raising her eyebrows.",
+            "The view at the window is beautiful."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to practice.",
+            "[person_1] is going to take out the paint roller.",
+            "It is foreseen that [person_1] will spin on the farm.",
+            "[person_1] will weigh the bag.",
+            "[person_1] will continue jumping."
+        ],
+        "reason": [
+            "[person_1] is moving the hoop from her hands down to her waist.",
+            "[person_1] used a powder - buff to apply foundation cream on [person_1]'s face.",
+            "[person_1] , [person_1] and [person_1] are dancing very beautifully.",
+            "[person_1] moves the cup slowly.",
+            "Because there are spare tires in the trunk."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a cup breaks?",
+        "answer": [
+            "[person_1] will continue play.",
+            "[person_1] will get hurt.",
+            "[person_1] will be injured.",
+            "[person_1] will go out.",
+            "[person_1] won't be able to keep squeezing oranges."
+        ],
+        "reason": [
+            "The beard of [person_1] is too long.",
+            "Because [person_1] thinks safety is more important.",
+            "[person_1] has a lot of cups.",
+            "Once water enters the trachea , it can make breathing difficult.",
+            "Because they want to use the natural water that's clean."
+        ]
+    }
+}

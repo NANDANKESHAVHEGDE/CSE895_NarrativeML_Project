@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is gray.",
+            "The shirt is black.",
+            "The shirt is green.",
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the floor?",
+        "answer": [
+            "Because guessing is fun.",
+            "[person_2] and [person_2] may want to show their respect.",
+            "[person_2] is holding [person_1].",
+            "Because [person_1] is spraying paint on the iron frame.",
+            "[person_1] is running around to play basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] is going to clap her hands."
+        ],
+        "reason": [
+            "Because [person_1] acts as a guide.",
+            "Because [person_1] is feeling happy.",
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] is wearing a baby bib."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] doesn't keep [person_1] anymore?",
+        "answer": [
+            "[person_1] might cry.",
+            "[person_1] may get more dices stacked.",
+            "[person_1] would ask [person_2] to kick again.",
+            "The [person_1] would help the [person_1] stand up.",
+            "[person_1] and [person_2] shall run into the house."
+        ],
+        "reason": [
+            "Because [person_1] is lying on the board.",
+            "Because [person_1] wants to be held.",
+            "[person_1] is a little boy who may like playing with water in the bath.",
+            "Only [person_1] is at home.",
+            "Because when [person_1] gets the phone and see the information , it will affect brushing teeth."
+        ]
+    }
+}

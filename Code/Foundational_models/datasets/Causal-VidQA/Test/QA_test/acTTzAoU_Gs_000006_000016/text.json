@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding an underwear.",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is holding a long sword."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding his arms in front of his chest and bowing?",
+        "answer": [
+            "[person_1] wants to improve his physical health.",
+            "[person_1] wants to improve his physical strength.",
+            "[person_1] wants to greet the spectators.",
+            "[person_1] is playing didgeridoo.",
+            "[person_1] is tuning the harp."
+        ]
+    },
+    "predictive": {
+        "question": "Who is [person_1]?",
+        "answer": [
+            "Perhaps [person_1] is in a room.",
+            "Perhaps [person_1] is in a dining room.",
+            "[person_1] might be a tai chi performer who is performing some tai chi moves.",
+            "[person_1] will talk while folding the paper.",
+            "[person_1] will cover the pot."
+        ],
+        "reason": [
+            "Because the bottom doesn't show.",
+            "[person_1] looks really professional and the other people are imitating him.",
+            "There are a lot of dining tables.",
+            "There are so many people sitting around the tai chi court and watching [person_1] do tai chi.",
+            "This will make the color more even."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not hold the sword?",
+        "answer": [
+            "[person_1] may not stand outside the balcony.",
+            "[person_1] could not stand on hands.",
+            "It is probable that [person_1] would cry loudly.",
+            "[person_1] may stick a band aid.",
+            "[person_1] would perform tai chi moves without any equipment."
+        ],
+        "reason": [
+            "[person_1] has hand pain.",
+            "Tai chi may be done without any tools.",
+            "The [person_1] tried to lick the arm of the [person_1].",
+            "Because [person_1] would have no one to play with.",
+            "Because dog food is [person_1] reward when [person_1] follows command."
+        ]
+    }
+}

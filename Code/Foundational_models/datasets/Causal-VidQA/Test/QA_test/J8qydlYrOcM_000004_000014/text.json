@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [person_2]?",
+        "answer": [
+            "[person_2] is on the right hand of [person_2].",
+            "[person_2] is standing on the grass.",
+            "[person_2] is skating in a roller rink.",
+            "[person_2] is in a hospital bed.",
+            "[person_2] is sitting on lap of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] moving his hand in front of [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are doing yoga.",
+            "Because [person_1] is waiting for the mother.",
+            "[person_1] and [person_2] are trying to open the gift.",
+            "[person_1] is practicing a move in tai chi.",
+            "[person_1] is checking to see if [person_2] fine motor skills are still functioning."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will try to take the lollipop [person_2] is eating.",
+            "[person_1] will put shrimp into [person_1].",
+            "[person_1] will finish trimming all the fur off the sheep and then start cutting the hair of [person_1].",
+            "[person_1] will wash that spoon.",
+            "[person_1] will try to do other things to help improve the motor skills of [person_2]."
+        ],
+        "reason": [
+            "Because [person_1] seems to have a lot work to do.",
+            "[person_1] is pressing the buttons on the accordion.",
+            "there is a lot of room on [person_1] for more food , and the little bit of food in [person_1] won't be enough for multiple people.",
+            "Presumably [person_2] has not used the bathroom yet so [person_1] will keep walking them until they are done.",
+            "[person_1] seems to be helping [person_2] with physical therapy in the hospital , so [person_1] will continue to try to help him."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_2] was in too much pain?",
+        "answer": [
+            "[person_1] may feel hurt.",
+            "[person_2] would not be able to copy the hand movements of [person_1].",
+            "[person_1] would continue practicing the clarinet.",
+            "[person_1] would be injured when [person_2] does a high kick.",
+            "[person_1] will continue sitting on the wheelbarrow and [person_2] will continue pushing it."
+        ],
+        "reason": [
+            "It doesn't take much effort to lie on the sofa.",
+            "[person_2] drops the fork.",
+            "The car can't move without a pushing.",
+            "[person_2] would not want to move because it would be too painful.",
+            "Everyone is watching her flip the pancake."
+        ]
+    }
+}

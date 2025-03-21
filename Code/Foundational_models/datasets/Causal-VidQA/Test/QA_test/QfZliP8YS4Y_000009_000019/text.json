@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the rope tied?",
+        "answer": [
+            "It is a microphone.",
+            "The rope is tied to the opposite tree.",
+            "The wall that has the mirror on is purple.",
+            "It is a sword.",
+            "It is a champagne bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] jumping on the rope?",
+        "answer": [
+            "[person_1] does it by himself.",
+            "Because [person_1] is teaching [person_2] how to lift.",
+            "[person_1] is dealing with the wood.",
+            "[person_1] is performing stacking cups.",
+            "[person_1] wants to test the toughness of the rope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to toast coffee.",
+            "[person_1] will continue to play.",
+            "[person_1] is going to walk on a tightrope more fluently.",
+            "[person_1] is going to keep talking.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "[person_1] walks very carefully.",
+            "[person_1] is going to rest.",
+            "Something is making [person_1] happy.",
+            "[person_1] is smiling.",
+            "[person_1] is sliding downhill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the rope breaks?",
+        "answer": [
+            "[person_1] will fall in a not painful way.",
+            "The snow blower won't work.",
+            "[person_1] will fall in a very easy way.",
+            "[person_1] will be taken to the hospital.",
+            "[person_1] will fall in a very painful way."
+        ],
+        "reason": [
+            "The [person_1] is in front of the car.",
+            "Because [person_1] is using force to jump on the rope.",
+            "[person_1] will fix the snowmobile.",
+            "Because [person_1] is using force to jump down the rope.",
+            "Because [person_1] has climbed up so high."
+        ]
+    }
+}

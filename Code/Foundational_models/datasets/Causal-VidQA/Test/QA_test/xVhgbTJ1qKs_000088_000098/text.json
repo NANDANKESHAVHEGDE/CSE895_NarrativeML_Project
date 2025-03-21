@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]'s shirt?",
+        "answer": [
+            "Yes , the [person_1] is wearing a red helmet.",
+            "[person_1]'s shirt is white with black stripes.",
+            "[person_1]'s shirt is blue.",
+            "The [person_1] is riding bike of [person_1].",
+            "[person_1] is wearing a white outfit."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise [person_1]'s head?",
+        "answer": [
+            "[person_1] wants to read [person_1].",
+            "Because [person_1] wants to capture the moment [person_1] look at itself in the mirror.",
+            "The [person_1] seems to have finished showing the interior of the [person_1].",
+            "Because [person_1] is watching [person_1] weave fabric.",
+            "[person_1] raises [person_1]'s head to look directly at the camera."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "It is possible that [person_1] will go on playing piano.",
+            "[person_1] will continue to climb.",
+            "[person_1] is going to continue to dance.",
+            "[person_1] will still play the guitar.",
+            "[person_1] will hold the dumbbells."
+        ],
+        "reason": [
+            "[person_1] is shaking the maracas to the music.",
+            "[person_1] has not finished practicing.",
+            "Because there's no paint on the paint roller.",
+            "[person_1] is playing very enthusiastically.",
+            "[person_1] will still play the guitar because [person_1]'s hands are still moving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] only used one hand to play the guitar?",
+        "answer": [
+            "The [person_1] can peel the potatoes quickly.",
+            "[person_1] will stop painting.",
+            "[person_1] will drive another snow blower on the road.",
+            "[person_1] wouldn't be able to make the sound [person_1] wants.",
+            "The [person_1] makes the [person_1] tired."
+        ],
+        "reason": [
+            "It is the turn of the [person_1].",
+            "Because playing guitar requires two hands to make the sound at the same time.",
+            "To check what's wrong with [person_1]'s body.",
+            "[person_1] cannot move.",
+            "Because the previous donut is too big , [person_1] has to use two hands to hold it."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "No , the [person_1] is not . The [person_1] is sitting down on the chair.",
+            "[person_1] is standing in the yard.",
+            "[person_1] is sitting on the floor.",
+            "It is a blue room.",
+            "[person_1] is staring at the burning marshmallow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear sunglasses?",
+        "answer": [
+            "It's winter.",
+            "To cut the cement stone.",
+            "It requires a lot of balance.",
+            "Because it is sunny outside.",
+            "It's cold outside."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to turn left.",
+            "[person_1] is going to continue playing music.",
+            "[person_1] is going to water the plants.",
+            "[person_1] is going to cut the wood.",
+            "[person_1] will water another plant."
+        ],
+        "reason": [
+            "[person_1] stepped forward continuously.",
+            "[person_1] is holding bagpipes and blows into the blow stick.",
+            "To make it look more fresh.",
+            "[person_1] is very interested in what he says.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] feels hot?",
+        "answer": [
+            "The [person_1] will change a machine.",
+            "[person_1] will run away.",
+            "Then [person_1] will make some more raw materials.",
+            "[person_1] will continue the lunges.",
+            "[person_1] will come into the house."
+        ],
+        "reason": [
+            "At the point [person_1] can prevent the sun when he stays indoors.",
+            "At present , the leg length of the dog is the same as the height of the table , which is convenient to eat . If it is higher , it will be inconvenient.",
+            "A painting's falling off makes a sound.",
+            "Because [person_1] is in the kitchen , there is everything here . If there is not enough raw materials , just do some more.",
+            "Because the yard does not have a roof , it is not possible to practice in the rain."
+        ]
+    }
+}

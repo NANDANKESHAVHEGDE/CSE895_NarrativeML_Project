@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the floor?",
+        "answer": [
+            "The wall is blue.",
+            "The room is painted in yellow.",
+            "The floor is light yellow.",
+            "It's next to the tree.",
+            "The curtain is red and patterned."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "Because [person_1] is practicing standing on hands.",
+            "That is the concert of [person_1].",
+            "[person_1] sees [person_2] open presents.",
+            "[person_1] wants to play the lute.",
+            "[person_1] is playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to open presents follow [person_2].",
+            "[person_1] is going to bed.",
+            "[person_1] is going to continue having breakfast.",
+            "[person_1] is going to take a bus.",
+            "[person_1] will get the job done."
+        ],
+        "reason": [
+            "[person_1] is [person_1]'s partner.",
+            "Maybe [person_1] started weaving fabric.",
+            "Because [person_1] will be tired.",
+            "[person_1] loves this gift.",
+            "Because [person_1] is going to chop something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is turn off?",
+        "answer": [
+            "The person who is next to the [person_1] would bow to take the cap.",
+            "[person_1] will stand up.",
+            "Perhaps [person_1] will stop snowboarding.",
+            "It is predicted that [person_1] , [person_1] and [person_1] won't continue recording.",
+            "[person_1] and [person_1] would sit on the chairs."
+        ],
+        "reason": [
+            "[person_1] can go find a flashlight.",
+            "The [person_1] walks slower than the [person_1] and the [person_1].",
+            "[person_1] will feel tired.",
+            "Because we saw the shadows in the mirrors.",
+            "The temperature is going up."
+        ]
+    }
+}

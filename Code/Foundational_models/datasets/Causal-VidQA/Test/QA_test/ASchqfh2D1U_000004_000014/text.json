@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s shirt?",
+        "answer": [
+            "It is black.",
+            "It is purple.",
+            "It is pink.",
+            "The socks are white.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise one of his leg?",
+        "answer": [
+            "It helps to preserve the pulp as much as possible.",
+            "[person_1] enjoys riding horse.",
+            "[person_1] is trying to play cymbals and drums.",
+            "To leave the debris into the waste container.",
+            "[person_1] is performing a side - kick."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after stopping performing?",
+        "answer": [
+            "It is going to rain.",
+            "[person_1] is going to do something else.",
+            "The child is going to bend over.",
+            "Most of the eggs will disappear from the ground.",
+            "When there is a need to let everybody in this room hear something."
+        ],
+        "reason": [
+            "[person_1] is put to overlook dancers.",
+            "[person_1] wants to see if the necklace looks good.",
+            "Because this is also a part of this dance.",
+            "Because here are some cream left on the brush if put it on some other place there may get dirty.",
+            "Because it seems that [person_1] leaves."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] tripped and fell?",
+        "answer": [
+            "[person_1] might not be hurt but not so badly.",
+            "[person_1] would fall on a buoy mattress.",
+            "[person_1] might be hurt but not so badly.",
+            "[person_1] would still be dancing.",
+            "[person_1] might be hurt so badly."
+        ],
+        "reason": [
+            "Because [person_1] is not performing a side - kick in his room and on a bed , so even if [person_1] tripped and fell , it would not hurt so much.",
+            "[person_1] is standing and watching [person_1] jumps.",
+            "Because [person_1] is performing a side - kick in his room and on a bed , so even if [person_1] tripped and fell , it would not hurt so much.",
+            "[person_1] will continue to dance.",
+            "Because [person_1] is performing a side - kick in his room and on a bed , so even if [person_1] tripped and fell , it would hurt so much."
+        ]
+    }
+}

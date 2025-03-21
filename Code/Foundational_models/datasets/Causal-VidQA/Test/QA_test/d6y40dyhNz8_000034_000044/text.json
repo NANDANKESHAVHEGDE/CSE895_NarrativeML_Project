@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is striking the wooden table.",
+            "[person_1] is spinning two plates.",
+            "[person_1] is roller blading.",
+            "[person_1] is standing behind the net to play badminton.",
+            "[person_1] is snatching weight lifting."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] strike the table?",
+        "answer": [
+            "[person_1] is doing exercise.",
+            "[person_1] is teaching [person_1] how to tie a knot.",
+            "The table is discarded and the wood can be recycled.",
+            "[person_1] is exhibiting the picture to the public.",
+            "[person_1] rides it quite amateurishly."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will deal with other cocos on the table in the same way.",
+            "[person_1] will think about the next move.",
+            "[person_1] will collect the wooden pieces.",
+            "[person_1] will let [person_1] kick the ball.",
+            "[person_1] will continue to practice."
+        ],
+        "reason": [
+            "[person_1] will practice harder.",
+            "They can be used by other ways.",
+            "They have not started yet . They are standing there.",
+            "Because if you lose , you will be punished . This is the rule.",
+            "[person_1] needs to use the machine to copy something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the table could still be used?",
+        "answer": [
+            "[person_1] may not keep playing.",
+            "The TV will be off.",
+            "[person_1] may finish his speech.",
+            "The presentation will be postponed.",
+            "[person_1] would not break it into pieces."
+        ],
+        "reason": [
+            "The room will be dark then.",
+            "[person_1] did not have to choose.",
+            "The light will be off.",
+            "A table is more worthy than some wooden pieces.",
+            "The room will be dark."
+        ]
+    }
+}

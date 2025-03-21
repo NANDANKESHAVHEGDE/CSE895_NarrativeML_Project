@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is outside the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play the guitar?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "[person_1] is playing spinning poi.",
+            "[person_1] wants to train to change its body.",
+            "[person_1] is feeling in love.",
+            "[person_1] is putting his mouth and hands on the holes in the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will fix the shoe.",
+            "Perhaps [person_1] will continue punching the mannequin.",
+            "[person_1] will play the guitar.",
+            "[person_1] will move the sofa to another side of the room.",
+            "[person_1] will perform following the order of their coach."
+        ],
+        "reason": [
+            "[person_1] will feel tired.",
+            "[person_1] is riding fast.",
+            "[person_1] is playing the guitar attentively.",
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica.",
+            "[person_1] wants to put his hand in his mouth."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off?",
+        "answer": [
+            "[person_1] would lost his finger.",
+            "The room will be darkened.",
+            "[person_1]'ll buy more new tires.",
+            "She will catch it.",
+            "[person_1] will stop snatching weight lifting."
+        ],
+        "reason": [
+            "[person_1] can't shave without the light.",
+            "[person_1] falls from a high distance.",
+            "There will be no light in the room.",
+            "The swing thrust is quite fast so it could make the children fall suddenly if the swing chains broke.",
+            "Because the fence is made of wood."
+        ]
+    }
+}

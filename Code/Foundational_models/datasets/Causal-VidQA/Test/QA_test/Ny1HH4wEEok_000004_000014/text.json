@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is a [cup_1] tiny?",
+        "answer": [
+            "It's a watch.",
+            "The [cup_1] is rectangular.",
+            "There are drinks and some food.",
+            "They are in a music room.",
+            "No , it isn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] stacking cups?",
+        "answer": [
+            "They want to play a game of dominoes.",
+            "[person_1] would like to improve this skill.",
+            "[person_1] is saluting.",
+            "[person_1]'s surround is narrow.",
+            "[person_1] is sitting on the floor."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] may get the seeds out of pumpkin.",
+            "[person_1] would continue to unload.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] is going to finish the exercise.",
+            "[person_1] is going to play other games."
+        ],
+        "reason": [
+            "Because [person_1] wants the woman to be happy.",
+            "Because [person_1] seems to be very joyful to see what they are doing.",
+            "Because the mouth of [person_1] is moving all the time , maybe singing and dancing.",
+            "It seems that there are some cups on the table and [person_1] pays attention on it.",
+            "Or [person_1] is going to play with teddy bear."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room loses power?",
+        "answer": [
+            "Perhaps [person_1] will never stop playing.",
+            "[person_1] and [person_1] will call the curtain.",
+            "Perhaps [person_1] will continue playing.",
+            "The [person_1] will check the current source first and ask for help.",
+            "Perhaps [person_1] will stop playing."
+        ],
+        "reason": [
+            "The party is over.",
+            "The room will be dark.",
+            "Every one can't dance with music.",
+            "The room will be still dark.",
+            "Because it's too sudden."
+        ]
+    }
+}

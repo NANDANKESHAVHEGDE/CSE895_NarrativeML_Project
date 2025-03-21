@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_2] wearing?",
+        "answer": [
+            "The [person_2] is wearing a dress.",
+            "[person_2] is cleaning the shoes for [person_2].",
+            "The [person_2] is playing on a thick snow.",
+            "The [person_2] is wearing a white coat.",
+            "[person_2] has a golden brown hair."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] bow?",
+        "answer": [
+            "Because [person_1] is lifting weights.",
+            "The [person_1] took the hand of the [person_2].",
+            "The [person_1] has to lift the basketball to throw it in the basket.",
+            "[person_1] wants to shave hair on [person_2]'s leg.",
+            "The [person_1] is riding with other's help."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to throw the white pillow on the [person_1].",
+            "The [person_1] is going to take the [person_2] into the house.",
+            "The [person_1] may try to play a song with accordion.",
+            "The [person_1] is going to back to the land.",
+            "The [person_1] may stop saying for a little while."
+        ],
+        "reason": [
+            "The [person_1] is still saying , waving hands and looking at the [person_1].",
+            "The [person_1] is holding the hand of the [person_2] and running to the house.",
+            "The [person_1] is pretending as a statue.",
+            "The road on the right of the [person_1] is larger and more dangerous.",
+            "There are still many balloons on the floor which make the [person_1] annoyed."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_2] did not run to the house?",
+        "answer": [
+            "[person_2] and [person_2] may need help.",
+            "The [person_2] might get cold.",
+            "The card will pollute the environment.",
+            "The [person_2] might get warm.",
+            "[person_2] would hang the poster of [person_2] back up once he's is done playing."
+        ],
+        "reason": [
+            "It is not snowing.",
+            "The [person_2] peels potatoes one by one.",
+            "It is snowing.",
+            "[person_2] cannot do it alone.",
+            "It is sunny."
+        ]
+    }
+}

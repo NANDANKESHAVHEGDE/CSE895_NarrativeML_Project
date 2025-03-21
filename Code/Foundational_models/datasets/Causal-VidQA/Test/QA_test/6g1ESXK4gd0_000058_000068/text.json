@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening the bottle.",
+            "[person_1] is shaking the cup.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is using a trowel to smoothen the wall after plastering it.",
+            "[person_1] is cheering [person_1] up"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smoothening the wall?",
+        "answer": [
+            "Because she is practicing using [person_1].",
+            "[person_1] lets the drill speedily rotate the apple while he is holding a peeler on the skin.",
+            "Because the sound of the guitar is louder.",
+            "[person_1] is smoothening the wall to make it more beautiful.",
+            "[person_1] is doing a massage for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to apply the plaster on the another side of the wall.",
+            "[person_1] is going to continue with his pulling.",
+            "[person_1] is going to turn back to the unicycle.",
+            "[person_1] is going to find wood and chop elsewhere.",
+            "[person_1] is going to drink orange juice."
+        ],
+        "reason": [
+            "[person_1] takes amount of the plaster to apply on the wall.",
+            "[person_1] takes source from the table.",
+            "[person_1] wants to know if it is repaired successfully.",
+            "[person_1] looks very clumsy.",
+            "[person_1] is walking down."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't smoothen the wall?",
+        "answer": [
+            "[person_1] may not put the book down.",
+            "[person_1] may not be able to paint the wall.",
+            "[person_1] will let the door open.",
+            "The [person_1] will not break the rules.",
+            "[person_1] might have an injury during her exercise."
+        ],
+        "reason": [
+            "Because it's quite interesting.",
+            "Because [person_1] only put the book down when [person_1] turned the last page.",
+            "There is a glass of milk in the [person_1].",
+            "Because [person_1] doesn't smoothen the wall , so the wall may have a rough surface and it is difficult to paint it.",
+            "Because the sofa is near [person_1]."
+        ]
+    }
+}

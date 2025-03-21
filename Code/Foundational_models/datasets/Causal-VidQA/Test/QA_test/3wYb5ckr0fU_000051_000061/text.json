@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of site is it?",
+        "answer": [
+            "[person_1] and [person_1] are watching two teams playing badminton.",
+            "It is in a kitchen.",
+            "It is in a fitness room.",
+            "The door is behind [person_1].",
+            "The books are behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold sledgehammer?",
+        "answer": [
+            "[person_1] holds [person_1].",
+            "[person_1] is a goalkeeper.",
+            "[person_1] is afraid.",
+            "With many tools.",
+            "[person_1] uses it to exercise . The hammer is heavy."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may brush teeth.",
+            "[person_1] continues to play the keyboard.",
+            "[person_1] is going to stop dancing.",
+            "[person_1] will have a rest.",
+            "[person_1] may switch the hammer into another hand."
+        ],
+        "reason": [
+            "[person_1] put her hand on the cap and about to shut it down.",
+            "[person_1] may let each hand exercised.",
+            "[person_1] is still opening her mouth.",
+            "To see how to assemble it.",
+            "[person_1] is holding the ball."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if there was no hammer?",
+        "answer": [
+            "[person_1] would crawl towards [person_1].",
+            "[person_1] will go back home.",
+            "[person_1] may tell the parents of [person_1] that [person_1] doesn't want to do this.",
+            "[person_1] will choose other fitness equipment.",
+            "They would tell the person that there is no cake left."
+        ],
+        "reason": [
+            "It's time for lunch.",
+            "Because they would eat all the cake.",
+            "To check the condition of the body.",
+            "[person_1] is the only adult in the room.",
+            "There are many kinds of equipment in his room."
+        ]
+    }
+}

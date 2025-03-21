@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is riding a unicycle.",
+            "[person_1] is playing with toy cars.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is working out at a gym.",
+            "[person_1] is shopping."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stare at the advertising screen?",
+        "answer": [
+            "[person_1] is watching the model with the coat at the advertising screen.",
+            "[person_1] is preparing to perform.",
+            "[person_1] will use it to open the wine.",
+            "Maybe [person_1] play for passion.",
+            "[person_1] and [person_1] are playing together."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to chase [person_1] .",
+            "[person_1] will try on clothes.",
+            "It seems that [person_1] is going to stop her drill and another student will practice tai chi.",
+            "[person_1] may put the flowers in [person_1] .",
+            "[person_1] is going to crawl out."
+        ],
+        "reason": [
+            "[person_1] is taking more oranges and holding a knife.",
+            "Maybe [person_1] and [person_1] are having a good time.",
+            "[person_1] is pulling the curtain on the dressing room so [person_1] will try on clothes.",
+            "[person_1] is holding the balloon close to her mouth.",
+            "[person_1] is lying on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] did not see the advertisement in the advertising screen.",
+        "answer": [
+            "[person_1] will cry.",
+            "She will be cry.",
+            "Then [person_1] will block the passage of vehicles.",
+            "He'll answer the phone.",
+            "[person_1] might not try on that coat."
+        ],
+        "reason": [
+            "[person_1] might not choose that coat and might not try on that coat.",
+            "[person_1] would stop and the wool would not be long enough to wrap around the white cylindrical object.",
+            "There was foam in the bowl.",
+            "[person_1] would get startled by someone sneaking upon him , so he would get angry since he would have to redo his video.",
+            "Because there isn't anything to support [person_1]'s body."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the chair?",
+        "answer": [
+            "[person_2] is shaving for [person_1] .",
+            "Because [person_1] is waiting for the mother.",
+            "[person_1] and [person_2] are doing yoga.",
+            "Maybe [person_1] is doing exercise.",
+            "Because [person_1] is trying to balance himself."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to clean his face.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to read another page.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to keep performing."
+        ],
+        "reason": [
+            "[person_1] is keeping still.",
+            "[person_1] has not finished his talking.",
+            "[person_1] has finished [person_1]'s action.",
+            "Because [person_1] is lifting the beehive.",
+            "That's what [person_1] needs to do after shaving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets shaved?",
+        "answer": [
+            "[person_1] will look more handsome.",
+            "[person_1] will take out of water to drink.",
+            "[person_1] will look more ugly.",
+            "[person_1] will have to pick it up right away.",
+            "[person_1] will look less handsome."
+        ],
+        "reason": [
+            "To secure and tape ends , [person_1] must fold the top flap down towards the base of the box and secure it with tape first . Next , crease each side and fold inwards securing with tape . And the last , fold the bottom flap upwards securing it with tape.",
+            "Maybe that's why [person_1] shaves.",
+            "Because [person_1] and [person_1] seems to be friends.",
+            "Maybe that's why [person_1] not shaves.",
+            "Because [person_1] is only has one bag of chips."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing with the dog?",
+        "answer": [
+            "The [person_1] is near the door.",
+            "[person_1] is skipping rope with the dog.",
+            "The [person_1] is riding a camel.",
+            "[person_1] is spinning the plate near a big tree.",
+            "[person_1] is round ball."
+        ]
+    },
+    "explanatory": {
+        "question": "How can [person_1] skip rope with the dog?",
+        "answer": [
+            "He want to play better.",
+            "Maybe [person_1] is practicing playing harp.",
+            "Because [person_1] is playing the guitar.",
+            "[person_1] trained the dog to skip rope before.",
+            "Because the [person_1] wants to show the internal structure of the refrigerator."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to jumping with the dog.",
+            "[person_1] will try other way to open it.",
+            "[person_1] will continue singing and playing.",
+            "It is possible that [person_1] will go on polishing the shoes.",
+            "[person_1] will keep on dancing."
+        ],
+        "reason": [
+            "Because [person_1] seems to be very proficient and does not stop her action.",
+            "[person_1] is good at plane.",
+            "[person_1] is with his team.",
+            "The dog is jumping after [person_1].",
+            "It seems [person_1] arrived just now."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] jump with [person_1]?",
+        "answer": [
+            "[person_1] will be very happy.",
+            "[person_1] will be hurt.",
+            "[person_1] will stop skipping rope.",
+            "[person_1] will then sit down on [person_1].",
+            "[person_2] and [person_1] would stop the practice."
+        ],
+        "reason": [
+            "[person_2] is very old.",
+            "The rope is too short for [person_1] and [person_2].",
+            "[person_1] and [person_2] has the same height.",
+            "The [person_1] sits on the chair to play accordion here.",
+            "Shaving makes your face look neater."
+        ]
+    }
+}

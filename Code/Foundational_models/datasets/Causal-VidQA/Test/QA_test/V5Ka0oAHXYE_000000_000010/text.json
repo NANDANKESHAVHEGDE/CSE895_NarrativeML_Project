@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is listening to a man sitting in front of her.",
+            "[person_1] is opening the box of a gift.",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is playing basketball.",
+            "[person_1] is tiptoeing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] tiptoeing?",
+        "answer": [
+            "There some information that the [person_1] can read.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] wants to throw the ball higher.",
+            "[person_1] is stacking dice.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next after seeing the tricycle?",
+        "answer": [
+            "[person_1] is a masseur.",
+            "[person_1] will make another bubble.",
+            "[person_1] will ride the tricycle.",
+            "[person_1] will move forward step by step.",
+            "[person_1] will start his exercise."
+        ],
+        "reason": [
+            "Because [person_1] is a professional chef.",
+            "Because the cat feels lonely now.",
+            "People use a goblet to drink champagne.",
+            "[person_1] wants to do the move successfully.",
+            "The tricycle is near [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues to throw balls?",
+        "answer": [
+            "[potted plant_1] will ask [person_1] to get some potato chips to eat.",
+            "They would stop the stranger.",
+            "The music would not be affected.",
+            "[person_1] may hit his head on the camera behind.",
+            "[potted plant_1] can be broken."
+        ],
+        "reason": [
+            "the speaker is heavy and is high up above the ground.",
+            "[potted plant_1] is in the yard.",
+            "[person_1] will be the winner.",
+            "[person_1] won't need to crawl.",
+            "Because the position of the board will be much higher."
+        ]
+    }
+}

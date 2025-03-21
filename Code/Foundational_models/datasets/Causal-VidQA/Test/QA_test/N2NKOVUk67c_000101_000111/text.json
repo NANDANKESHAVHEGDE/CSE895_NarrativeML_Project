@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a train?",
+        "answer": [
+            "No.",
+            "It is small.",
+            "Op Harte's the Charleswood Community.",
+            "It is in a rugby field.",
+            "It is quite small."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] move forward?",
+        "answer": [
+            "[person_1] is a little girl.",
+            "[person_1] is reading a book.",
+            "[person_1] talks about something to the camera.",
+            "[person_1] is excited about stacking the objects in front of her.",
+            "On the horse."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after riding?",
+        "answer": [
+            "[person_1] will go and pick up the ball.",
+            "Have a short talk with the other boy.",
+            "The [person_1] will stay on the camel until his parents help him to get off.",
+            "[person_1] will milk another cow.",
+            "[person_1] will go back to the house."
+        ],
+        "reason": [
+            "Base on her emotion.",
+            "[person_1] needs to rest.",
+            "It's rainy.",
+            "It's 5 pm.",
+            "There are always chairs in the house."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's rainy?",
+        "answer": [
+            "[person_1] and [person_1] will quarrel.",
+            "[person_1] needs to fix the machine.",
+            "[person_1] and [person_1] will be scare.",
+            "[person_1] and [person_1] will pose for the photos.",
+            "[person_1] will go back home."
+        ],
+        "reason": [
+            "The quantity of fabric will be a lot.",
+            "The cell phone may have run out of battery.",
+            "[person_1] may disturb others.",
+            "[person_1] will be wet.",
+            "[person_1] can be attracted by the sound of [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_2] doing?",
+        "answer": [
+            "The [person_1] is on the right side of [person_2].",
+            "The socks are white.",
+            "[person_2] is trying to put a ring on [person_1].",
+            "It's black.",
+            "The shirt [person_2] wearing is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] smile so happily\uff1f",
+        "answer": [
+            "Because seeing a proposal in the office can add fun to a boring job.",
+            "[person_3] injured his left hand.",
+            "[person_3] holds the [person_3] in one hand and the spoon in his other hand , and uses the spoon to peel [person_3].",
+            "[person_3] is swallowing sword.",
+            "[person_3] is using the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go to the toilet.",
+            "He will put on the ring and kiss [person_2].",
+            "[person_1] will continue cooking.",
+            "[person_1] is trying to crawl.",
+            "[person_1] is going to form a pretty shape."
+        ],
+        "reason": [
+            "[person_1] is holding the bottle.",
+            "Because he was surprised to be proposed , and kissing [person_2] can express his love.",
+            "Maybe [person_1] was feeling dizzy.",
+            "The cat is sitting next to [person_1].",
+            "[person_1] is moving to the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen without the [chair_1]?",
+        "answer": [
+            "[person_2] will have no chair to sit on and will feel very tired.",
+            "The dancer will go to have a rest.",
+            "He will shout for help.",
+            "[person_2] would have to change the microphone.",
+            "[person_2] won't continue practicing."
+        ],
+        "reason": [
+            "To see what's wrong with the box.",
+            "Because [chair_1] likes flowers very much.",
+            "So that others can hear.",
+            "Because [person_2] is a little fat . Standing all the time will increase the burden on her legs and cause leg pain.",
+            "Because the weight is heavy plus the speed [person_2] put on it."
+        ]
+    }
+}

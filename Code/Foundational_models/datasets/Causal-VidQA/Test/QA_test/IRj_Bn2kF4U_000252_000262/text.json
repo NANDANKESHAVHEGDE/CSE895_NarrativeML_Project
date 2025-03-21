@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the shirt [person_1] wearing?",
+        "answer": [
+            "It is brown.",
+            "[person_1] is wearing a white shirt and tie.",
+            "The shirt is red.",
+            "It looks like a hand.",
+            "The shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] standing next to each other?",
+        "answer": [
+            "[person_1] is practicing playing piano.",
+            "The [person_1] is playing basketball here.",
+            "Because [person_2] is waiting for her turn.",
+            "[person_1] is performing circus and [person_2] is checking.",
+            "[person_1] is doing it for show the skill."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] will rip the paper.",
+            "[person_1] is going to swallow a sword.",
+            "[person_1] may keep working.",
+            "[person_1] may walk out.",
+            "[person_1] may hug others."
+        ],
+        "reason": [
+            "[person_1] performed very confidently.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] is attacking [person_1] and [person_1] will win this match.",
+            "[person_1] just looked back.",
+            "[person_1] is turning the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] wants to try swallowing swords?",
+        "answer": [
+            "[person_2] will put the drink in his hand down.",
+            "[person_2] will get her hair wet.",
+            "[person_2] will introduce other things.",
+            "[person_2] will be very nervous.",
+            "[person_2] won't be able to do it."
+        ],
+        "reason": [
+            "People will cough after being choked.",
+            "The little did a good job.",
+            "[person_2] will slash [person_2].",
+            "It's too hard for an amateur like [person_2].",
+            "It's wonderful for [person_2] to do the climbing twice."
+        ]
+    }
+}

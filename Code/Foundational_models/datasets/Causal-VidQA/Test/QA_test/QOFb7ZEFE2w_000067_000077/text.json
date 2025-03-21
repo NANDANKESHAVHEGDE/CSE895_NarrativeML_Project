@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "The shirt color is yellow.",
+            "It is white and red.",
+            "The shirt is white.",
+            "The shirt is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] next to the keyboard ? .",
+        "answer": [
+            "To make it more beautiful.",
+            "It seems that the person put an animal in the [person_1].",
+            "Because the person who is lying on [person_1] is enjoy massaging.",
+            "[person_1] is shaving and cutting his hair.",
+            "[person_1] is playing the keyboard."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "[person_1] will not play the keyboard.",
+            "[person_1] will keep standing.",
+            "[person_1] will continue to play.",
+            "[person_1] will weigh the bag."
+        ],
+        "reason": [
+            "The debris splashes everywhere.",
+            "[person_1] will continue to play.",
+            "[person_1] doesn't know how to play.",
+            "[person_1] seems to be afraid of being tattooed.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cries?",
+        "answer": [
+            "[person_1] will call his mother.",
+            "[person_1] will reject the call.",
+            "[person_1] may make him laugh.",
+            "[person_1] will comfort and calm [person_1] down.",
+            "[person_1] may tell the funny story."
+        ],
+        "reason": [
+            "[person_1] is sitting there.",
+            "[person_1] and [person_1] are in a race.",
+            "Because [person_1]'s mom will look after [person_1].",
+            "[person_1] and [person_1] are playing.",
+            "[person_1] is just a baby."
+        ]
+    }
+}

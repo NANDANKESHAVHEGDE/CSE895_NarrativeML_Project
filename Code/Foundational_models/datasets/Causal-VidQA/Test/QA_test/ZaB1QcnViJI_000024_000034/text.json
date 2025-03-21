@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the bed.",
+            "[person_1] and [person_2] are in the bathroom.",
+            "[person_1] and [person_2] are in the roller skating rink.",
+            "[person_1] and [person_2] are in the big room.",
+            "[person_1] and [person_2] are on a snow - covered slope."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [tv_1]?",
+        "answer": [
+            "The [person_1] is reading a book which is on the table.",
+            "Because [person_1] is playing stacks of cups.",
+            "[person_1] is watching something on [tv_1].",
+            "He wants to try stack the dices one more time.",
+            "Because [person_1] wants [person_1] to poke her belly button."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift heavier weights.",
+            "[person_1] may change a color.",
+            "[person_1] will stretch the noodle.",
+            "[person_1] may dry her hands without washing them with soap.",
+            "[person_1] is going to whistle."
+        ],
+        "reason": [
+            "Because [person_1] is pouting.",
+            "[person_1] is lying on [person_1].",
+            "[person_1] is holding the flute and is about to play.",
+            "Maybe [person_1] is more comfortable.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_1] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [cell phone_1] accidentally falls on the face of [person_2]?",
+        "answer": [
+            "[cell phone_1] would keep riding the [person_2].",
+            "The [cell phone_1] will hurt [person_2].",
+            "The [cell phone_1] can move accordion comfortably.",
+            "It will become harder to roll and hit the bowling pins.",
+            "[cell phone_1] and [person_2] will leave soon."
+        ],
+        "reason": [
+            "Because they will look really beautiful.",
+            "Because [person_2] is humble.",
+            "[person_2] needs to be more careful when lying down and using her phone.",
+            "Watermelon juice will spill on their clothes.",
+            "The bird will go looking for food."
+        ]
+    }
+}

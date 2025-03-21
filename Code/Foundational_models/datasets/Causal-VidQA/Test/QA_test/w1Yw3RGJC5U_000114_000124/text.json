@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a small library.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is at a grocery store.",
+            "[person_1] is standing next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a wood planer ?",
+        "answer": [
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "[person_1] is planing wood.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[person_1] is the singer."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to plan the wooden plank.",
+            "[person_1] is going to lift slowly.",
+            "[person_1] is going to keep training.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will turn off the camera."
+        ],
+        "reason": [
+            "There is a wood in front of [person_1].",
+            "[person_1] is turning the page.",
+            "[person_1] gave a loud , silly laugh.",
+            "Because the blue is skying at night.",
+            "That wooden plank is not thin enough."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the wooden plank is still too thick?",
+        "answer": [
+            "[person_1] will not collect garbage on the road.",
+            "[person_1] will not repair the tire.",
+            "Maybe [person_1] picks up the handle and reinstalls it.",
+            "[person_1] will pick up the comb.",
+            "The wooden plank will continue to be repaired."
+        ],
+        "reason": [
+            "The red team runs too slow , so they couldn't defend against the yellow team's attack.",
+            "The competition could not proceed with no lighting in the gymnasium.",
+            "[person_1] wants a good product.",
+            "[person_1] can't play broken drums.",
+            "Because the not flat floor will effect its direction."
+        ]
+    }
+}

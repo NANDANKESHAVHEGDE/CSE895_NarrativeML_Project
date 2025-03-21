@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the hat of [person_1]?",
+        "answer": [
+            "The [person_1] is rectangular.",
+            "It's red.",
+            "[person_1] is in the corner.",
+            "It is lying on the floor.",
+            "[person_1] is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a pair of sun glasses?",
+        "answer": [
+            "[person_1] is playing guitar.",
+            "Because the sun is dazzling.",
+            "[person_1] is listening to the music beat through the headphones while playing.",
+            "[person_1] is playing lute for everyone.",
+            "[person_1] is playing basketball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will read another book.",
+            "Find the flip flops and put them on.",
+            "[person_1] is going to cross the street.",
+            "[person_1] may continue to stand there.",
+            "[person_1] is going to stand up straight."
+        ],
+        "reason": [
+            "When [person_1] holds the comb , he is raising his hand to comb his hair.",
+            "[person_1] keeps looking down and seem unbalanced.",
+            "[person_1] is enjoying playing flute.",
+            "[person_1] is paying attention to other things.",
+            "The egg is not cooked yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the flip flop of [person_1] gets broken?",
+        "answer": [
+            "Many people would know his card trick.",
+            "They will return.",
+            "The feet of [person_1] foot will be hurt.",
+            "[person_1] won't be able to continue playing the cymbals.",
+            "The [person_1] will refuse to let her try."
+        ],
+        "reason": [
+            "Because [person_1]'s card trick is amazing.",
+            "[person_1] hit the target.",
+            "[person_1] jumps so high.",
+            "Shoes are designed to protect your feet from chafing.",
+            "Because he has to go to school."
+        ]
+    }
+}

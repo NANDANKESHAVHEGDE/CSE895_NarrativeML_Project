@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's orange.",
+            "[person_1] is wearing a white shirt.",
+            "It's yellow.",
+            "It is white and blue.",
+            "The color of the shirt is green."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] feel?",
+        "answer": [
+            "[person_1] is lying on [person_1] to get a massage.",
+            "[person_1] feels happy.",
+            "Because [person_1] is supporting [person_1]",
+            "[person_1] needs glasses to read newspaper.",
+            "[person_1] is playing basketball with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand still.",
+            "[person_1] is going to smile.",
+            "[person_1] is going to keep sticking the wallpaper.",
+            "She is going to play with her toys.",
+            "[person_1] is going to see the gift."
+        ],
+        "reason": [
+            "[person_1] holds the button in his hands.",
+            "Food burnt.",
+            "[person_1] is very satisfied with her research.",
+            "Because [person_1] is reaching out the hand.",
+            "[person_1] is very excited when he plays with the harmonica."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if someone taken the harmonica away?",
+        "answer": [
+            "[person_1] would be upset.",
+            "The game will end.",
+            "[person_1] will insist on doing it again.",
+            "[person_1] would have to stand alone.",
+            "[person_1] will get one point."
+        ],
+        "reason": [
+            "[person_1] is enjoying playing with the ball.",
+            "Because the [person_1] is calming the dog down.",
+            "[person_1] seems very happy with the harmonica.",
+            "[person_1] will hold the cat carefully.",
+            "[person_1] , [person_1] and [person_1] won't be able to dance Gangnam Style."
+        ]
+    }
+}

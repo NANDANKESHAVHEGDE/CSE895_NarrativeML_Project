@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym .",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the gym.",
+            "[person_1] is performing on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing next to [dining table_1] ?",
+        "answer": [
+            "[person_1] is reading a book.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] does that to get ready to hit the birdie back.",
+            "[person_1] is performing for the girl.",
+            "It is possible that [person_1] is listening to the melody."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may throw the peel into trash can.",
+            "[person_1] will continue to play stacks of cups.",
+            "[person_1] is going to drink orange juice.",
+            "[person_1] is going to continue cutting wrapping paper with the ruler.",
+            "[person_1] is going to tie a knot on [person_1]'s back."
+        ],
+        "reason": [
+            "Because the floor needs fixing.",
+            "[person_1] is performing.",
+            "[person_1] looks have a lot of energy.",
+            "She is looking forward to playing.",
+            "[person_1] finished squeezing oranges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if orange juice is too acidic?",
+        "answer": [
+            "[person_1] won't want to drink that orange juice.",
+            "The guards of this harbor might be reprimanded.",
+            "[person_1] would peel it by herself.",
+            "Cookies won't taste good.",
+            "[person_1] can not make cookies."
+        ],
+        "reason": [
+            "[person_1] will need a new ball.",
+            "[person_1] would fall to the ground.",
+            "When using a driller , [person_1] can peel an apple in five seconds.",
+            "[person_1] will need to add sugar.",
+            "It's a [person_1] natural reflex."
+        ]
+    }
+}

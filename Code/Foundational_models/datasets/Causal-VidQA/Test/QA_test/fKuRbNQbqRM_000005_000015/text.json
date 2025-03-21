@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the pool.",
+            "[person_1] is near the window.",
+            "[person_1] is on the stage.",
+            "[person_1] is inside.",
+            "Along the river."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the trampoline?",
+        "answer": [
+            "[person_1] swings her arms to keep balance.",
+            "[person_1] is doing it for show the skill.",
+            "[person_1] is doing a workout in a great way.",
+            "[person_1] is doing somersaults.",
+            "Because [person_1] is moved by the proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] may swim.",
+            "[person_1] will put his tool into the [person_1].",
+            "[person_1] is likely to do more somersaults.",
+            "[person_1] will rest.",
+            "[person_1] may rest."
+        ],
+        "reason": [
+            "[person_1] just somersaulted into the pool.",
+            "[person_1] just landed on his back.",
+            "[person_1] just landed on her back.",
+            "[person_1] is dancing a choreography.",
+            "[person_1] finds somersaults fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't somersault into the pool?",
+        "answer": [
+            "[person_1] might get hurt.",
+            "[person_1] wouldn't see anything.",
+            "[person_1] won't get hurt.",
+            "The cork would fly.",
+            "[person_1] might get healthy."
+        ],
+        "reason": [
+            "[person_1] can not walk on his own.",
+            "The force of the somersault is huge.",
+            "[person_1] is standing on a using road.",
+            "The force of the somersault is tiny.",
+            "He can not control himself to keep away from others."
+        ]
+    }
+}

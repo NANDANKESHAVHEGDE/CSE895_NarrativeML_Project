@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[person_1] is behind [person_1] and next to the door.",
+            "[person_1] is sitting on [chair_1].",
+            "The [chair_1] is on the left of the [person_1].",
+            "[chair_1] is sitting on [chair_1].",
+            "[chair_1] is in a roller skating floor."
+        ]
+    },
+    "explanatory": {
+        "question": "How does the [person_1] pour the beer?",
+        "answer": [
+            "By holding the rein.",
+            "Because [person_1] is telling us what she is doing.",
+            "The [person_1] holds the beer bottle on his right hand , the cup of beer on his left hand",
+            "Maybe the dog makes [person_1] happy.",
+            "[person_1] and [person_1] are playing each other."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "The [person_1] may make his left hand down .",
+            "The [person_1] will ride to his destination.",
+            "The [person_1] will put some shampoo on the [person_1]'s hair.",
+            "The [person_1] will drink the cup of beer in his right hand.",
+            "The [person_1] will kiss the [person_1]'s left hand."
+        ],
+        "reason": [
+            "Because the [person_1] has to do this.",
+            "The [person_1] picks up the cup and brings it near to his mouth.",
+            "The [person_1] can keep balance and the [person_1] is excited about riding.",
+            "Because [person_1] goes straight to [person_1].",
+            "The [person_1] feels [person_1] is special when [person_1] moves."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] keeps pouring beer?",
+        "answer": [
+            "The beer foam in the cup will come out.",
+            "[person_1] will close the curtains.",
+            "[person_1] will try again.",
+            "[person_1] may feel shocked and start to scream.",
+            "[person_1]'s face will turn red."
+        ],
+        "reason": [
+            "[person_1] has no wine to enjoy.",
+            "It looks like that the floor is very slip.",
+            "Because the cup is held on the top of the cellphone.",
+            "The baby is small.",
+            "The beer foam in the cup is already full."
+        ]
+    }
+}

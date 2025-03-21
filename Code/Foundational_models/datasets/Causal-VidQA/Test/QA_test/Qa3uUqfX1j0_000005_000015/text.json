@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "It is in the room.",
+            "[person_1] is on the stage.",
+            "[person_1] is near the window.",
+            "Along the river.",
+            "[person_1] is inside."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] use the megaphone?",
+        "answer": [
+            "The [person_1] is holding the items which are on the table.",
+            "Megaphone can help [person_1] increase the volume.",
+            "Because [person_1] wants to introduce more details about microscope.",
+            "To help pile up the snow.",
+            "[person_1] is holding a piece of the orange."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the megaphone?",
+        "answer": [
+            "[person_1] will turn off the megaphone.",
+            "[person_1] will record what they are doing.",
+            "[person_1] will definitely take some photo.",
+            "[person_1] will get to the finish line.",
+            "Maybe [person_1] will go to the restaurant."
+        ],
+        "reason": [
+            "[person_1] has finished his words.",
+            "[person_1] wants to wake up the people on the sofa.",
+            "Because the painter wants to hang up the painting and show to others.",
+            "[person_1] has been tired of the megaphone.",
+            "It seems that [person_1] intends to find the appropriate angle to record."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls into the river?",
+        "answer": [
+            "[person_1] will wait for help.",
+            "[person_1] will pick it up.",
+            "[person_1] will scream for help.",
+            "[person_1] may have to find the [person_1].",
+            "[person_1] will wait to die."
+        ],
+        "reason": [
+            "[person_1] hope to die.",
+            "Because the handle can help [person_1] stay.",
+            "[person_1] can't swim.",
+            "The floor can be slippery with [person_1].",
+            "[person_1] wants to watch it more."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is beside the grass.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the car.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is inside."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] do exercises?",
+        "answer": [
+            "[person_1] is afraid.",
+            "[person_1] is a goalkeeper.",
+            "To keep fit.",
+            "[person_1] does exercises with a skateboarding.",
+            "[person_1] holds [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will go skateboarding.",
+            "[person_1] will continue skiing.",
+            "[person_1] may pick up the things on the ground.",
+            "[person_1] will stop playing golf.",
+            "[person_1] will remove the iron rod from the device."
+        ],
+        "reason": [
+            "Maybe [person_1] is tearing up the test.",
+            "Because [person_1] has already finished the massaging neck.",
+            "Because the [person_1] wants to go home for dinner.",
+            "Because [person_1] doesn't want to do mountain - climbing exercises anymore.",
+            "Because there's a car next to [person_1] and the bucket is in the car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it rained suddenly?",
+        "answer": [
+            "The [person_1] will pull the camel harder.",
+            "[person_1] will run away.",
+            "[person_1] would happily show the other kids how to do gymnastics.",
+            "[person_1] needs to go to the hospital.",
+            "Maybe [person_1] will put it on the floor."
+        ],
+        "reason": [
+            "[person_1] is holding the iron bar so that it keeps straight on the floor.",
+            "[person_1] will not have to do the sieving job alone.",
+            "[person_1] can / t fly away without externally applied force.",
+            "To find a shelter from the rain.",
+            "The hammer is heavy."
+        ]
+    }
+}

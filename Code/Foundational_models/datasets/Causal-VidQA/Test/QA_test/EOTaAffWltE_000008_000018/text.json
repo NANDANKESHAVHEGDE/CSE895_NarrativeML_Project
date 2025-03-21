@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How's the weather ?",
+        "answer": [
+            "He is with a smiling face.",
+            "[dining table_1] and [dining table_1] are in the garden.",
+            "[cup_1] and [cup_1] are on the street.",
+            "It's sunny.",
+            "[person_1] and [person_1] are in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is walking on the street.",
+            "[person_1] is excited about doing a handstand on the [person_1].",
+            "Because [person_1] is spraying paint on the picture.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will play basic chords.",
+            "[person_1] is going to squeeze all the oranges.",
+            "[person_1] will continue to laugh.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] is going to sing."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] has bent back.",
+            "[person_1] has a lot of oranges.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] tricked the opponent by attacking a specific target."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "[person_1] may jump.",
+            "[person_1] may create beautiful shapes.",
+            "[person_1] may not keep eating.",
+            "The [person_1] will not meet difficulty in holding accordion balance rightly.",
+            "[person_1] will pour orange juice into [cup_1]."
+        ],
+        "reason": [
+            "The [person_1] carries the mini one in hands of [person_1].",
+            "[person_1] is alone the room.",
+            "[person_1] looks happy while squeezing oranges.",
+            "[cup_1] is already on the [dining table_1].",
+            "The [person_1] holds a mini accordion to meet [person_1] favorite."
+        ]
+    }
+}

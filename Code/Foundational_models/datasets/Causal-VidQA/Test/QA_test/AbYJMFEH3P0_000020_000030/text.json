@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are the curtains?",
+        "answer": [
+            "The room is painted in yellow.",
+            "The dress is black.",
+            "Adidas.",
+            "The box is pink.",
+            "Red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] wants to keep fit.",
+            "[person_1] is doing for fun.",
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is stacking cups.",
+            "[person_1] likes to shake maracas to make sound."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do if the power goes out?",
+        "answer": [
+            "[person_1] will show the snake to other people.",
+            "[person_1] will stop running.",
+            "Maybe he will put on a cabinet door.",
+            "[person_1] will pass the ball to the short boy.",
+            "[person_1] will wash his hands."
+        ],
+        "reason": [
+            "[person_1] has a headache.",
+            "The treadmill doesn't work.",
+            "Because [person_1] cannot handle the snake all by himself.",
+            "[person_1] is walking to [person_1].",
+            "Because [person_1] cannot handle the snake all by himself but gets help from another person."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if he is hurt?",
+        "answer": [
+            "[person_1] will not stop running.",
+            "It is anticipated that [person_1] will buy a new marble.",
+            "[person_1] will stop running.",
+            "The weights might hurt [person_1].",
+            "[person_1] will start running."
+        ],
+        "reason": [
+            "He need not to go to see a doctor.",
+            "Due to not enough light to practice.",
+            "He need to go to see a teacher.",
+            "[person_1] and [person_1] have a keen interest in the box.",
+            "He need to go to see a doctor."
+        ]
+    }
+}

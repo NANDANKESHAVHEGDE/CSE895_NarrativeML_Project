@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [chair_1]?",
+        "answer": [
+            "[chair_1] in the room.",
+            "[chair_1] is on the left.",
+            "It's next to [chair_1].",
+            "On the wall.",
+            "It's next to the door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing with two people?",
+        "answer": [
+            "[person_1] wants to play basketball with [person_1].",
+            "[person_1] is playing with the cups.",
+            "Because [person_1] laughs so loud.",
+            "[person_1] needs [person_1] to hit the ball.",
+            "Because he has already won one."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do after this game?",
+        "answer": [
+            "Someone from the red team will receive the football.",
+            "[person_1] will get more food.",
+            "[person_2] will fall after doing a high kick.",
+            "[person_1] and [person_2] will keep playing.",
+            "The [person_1] and [person_2] will show the [person_1] the way."
+        ],
+        "reason": [
+            "Because [person_2]'s a judge.",
+            "[person_2] is preparing to play tug of war.",
+            "Because he has eaten all the food in his hand and he raises hands to tell his parents to give more food to him.",
+            "There are two workers in the back and the stage is not ready.",
+            "Because [person_1] and [person_2] have no intention of stopping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it's time for class?",
+        "answer": [
+            "He couldn't leave.",
+            "[person_1] might have to study more about how to take a good picture.",
+            "[person_1] may not understand what is written in the card.",
+            "[person_2] will scold [person_2].",
+            "They can't play anymore."
+        ],
+        "reason": [
+            "Because they think this is a plot of dance.",
+            "[person_2] is turned on.",
+            "Because there may be no trees and no shade on the road.",
+            "He couldn't leave a store without paying for received service.",
+            "Because it's time for class."
+        ]
+    }
+}

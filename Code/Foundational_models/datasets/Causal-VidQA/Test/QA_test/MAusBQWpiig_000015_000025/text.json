@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the weather like?",
+        "answer": [
+            "It's very cold outside.",
+            "[person_1] is behind [person_1].",
+            "[person_1] is sitting at the piano.",
+            "It is cloudy.",
+            "It is sunny."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is shearing his sheep for wool.",
+            "[person_1] is trying to slackline.",
+            "[person_1] is riding unicycle.",
+            "Maybe [person_1] is managing workers who are cutting wood.",
+            "Because [person_1] wants to play sports."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may bend his back.",
+            "[person_1] is going to try to break the connecting skin.",
+            "Maybe [person_1] will switch to another exercise.",
+            "[person_1] will leave.",
+            "[person_1] is going to apply some cement on the stone block."
+        ],
+        "reason": [
+            "[person_1] is looking others and showing uncertainty.",
+            "[person_1] has stretch his body.",
+            "[person_1] is landing on the street.",
+            "Because [person_1] interrupts them.",
+            "[person_1] scoops some cement from the metal plate."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "It is possible that [person_1] will stop watering the plants.",
+            "[person_1] will stop playing.",
+            "[person_1] will be very excited.",
+            "[person_1] will continue to stomp the grapes.",
+            "[person_1] , [person_1] and [person_1] will stop dancing."
+        ],
+        "reason": [
+            "[person_1] will avoid raining so as not to catch a cold.",
+            "[person_1] will go inside.",
+            "[person_1] and everyone gets wet.",
+            "The show did not take place.",
+            "[person_1] is sitting outside."
+        ]
+    }
+}

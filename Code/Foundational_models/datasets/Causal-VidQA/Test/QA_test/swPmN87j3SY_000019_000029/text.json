@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "It is black.",
+            "It is \u00a0 black.",
+            "It is white.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] somersault?",
+        "answer": [
+            "Maybe [person_1] does it for fun.",
+            "He wants to ride [person_1] outside.",
+            "Because the [person_1] wants to learn to play accordion.",
+            "[person_1] wants to help [person_1] shave.",
+            "[person_1] is playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to lay on the floor.",
+            "[person_1] intends to stop juggling balls.",
+            "[person_1] intends to lift the dumbbell.",
+            "[person_1] intends to go on singing.",
+            "[person_1] intends to continue listening to music."
+        ],
+        "reason": [
+            "[person_1] is playing very focused.",
+            "[person_1] is playing very well.",
+            "[person_1] is in a race.",
+            "[person_1] just finished somersault.",
+            "[person_1] needs a ball to keep on practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not steady on his arm?",
+        "answer": [
+            "[person_1] would not be able to pick up [person_1].",
+            "[person_1] will fall and injure his hand.",
+            "Maybe [person_1] will do it by his hand.",
+            "[person_1] will open the curtain.",
+            "[person_1] will pick up the phone."
+        ],
+        "reason": [
+            "To give a massage for the neck.",
+            "The ground looks hard.",
+            "To save [person_1] in time.",
+            "Being helpful is a good personality.",
+            "Because the heavy body weight will break the arm."
+        ]
+    }
+}

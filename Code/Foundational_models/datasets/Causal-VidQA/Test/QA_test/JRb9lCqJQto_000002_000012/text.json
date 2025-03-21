@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [couch_1]?",
+        "answer": [
+            "It is white.",
+            "[couch_1] is lying on a bed.",
+            "It is black.",
+            "[couch_1] is in his wood workshop.",
+            "[couch_1] is sitting on the snow."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit on [couch_1]?",
+        "answer": [
+            "[person_1] is reading newspaper.",
+            "For better open the bottle.",
+            "because it's comfortable.",
+            "Because they are in a pillow fight.",
+            "By controlling the rope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] won't sit in [person_1] and still stands.",
+            "[person_1] is about to play the glass ball in his hand.",
+            "[person_1] is going to read a book.",
+            "[person_1] is going to start stacking the dice."
+        ],
+        "reason": [
+            "Because [person_1] has just drunk from the cans , [person_1] needs a break to catch a breath.",
+            "[person_1] just shrugs to gain strength to raise the weights.",
+            "[person_1] is trying pressing some keys.",
+            "[person_1] is going to try working faster.",
+            "[person_1] is holding a book."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the book was not interesting?",
+        "answer": [
+            "[person_1] would go get more liquid.",
+            "He's gonna take him to the hospital.",
+            "[person_1] would not laugh so much.",
+            "[person_1] would feel sleepy.",
+            "[person_1] would continue standing."
+        ],
+        "reason": [
+            "The [person_1] is on the margin of the sideboard.",
+            "Because [person_1] only runs on the running road.",
+            "[person_1] is a small child.",
+            "[person_1] fell when [person_1] pushed the wheelbarrow downhill.",
+            "To ask why the girl refuses the proposal."
+        ]
+    }
+}

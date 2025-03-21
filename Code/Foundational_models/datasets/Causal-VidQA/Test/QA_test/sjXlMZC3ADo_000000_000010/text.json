@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the dress [person_1] wearing?",
+        "answer": [
+            "It is pink.",
+            "There is a large - sized black speaker behind [person_1].",
+            "It is white.",
+            "It is black.",
+            "It is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [cup_1]?",
+        "answer": [
+            "[person_1] is reading a book.",
+            "[person_1] is putting her mouth on [cup_1] to blow into it so she can play her bagpipes.",
+            "[person_1] is a cute baby.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] is reading book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to squeeze all the oranges.",
+            "[person_1] is going to continue playing.",
+            "[person_1] may not eat the egg.",
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to continue jumping jacks."
+        ],
+        "reason": [
+            "[person_1] has half an orange left on the table.",
+            "[person_1] is in the gymnastic.",
+            "[person_1] is a hard - working person.",
+            "[person_1] is ripping paper.",
+            "[person_1] has not turned down the water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen in the future if [person_1] finishes squeezing oranges?",
+        "answer": [
+            "The dough will not be round.",
+            "[person_1] will drink orange juice.",
+            "[person_1] will feel pain.",
+            "[person_1] may bump into somethings.",
+            "[person_1] will not be allowed to use the vacuum."
+        ],
+        "reason": [
+            "[person_1] likes orange juice.",
+            "The [person_1] trains the [person_1] through basic activity.",
+            "[person_1] has to memorize a lot of lessons.",
+            "[person_1] sees nothing moving.",
+            "[person_1] may bump into things."
+        ]
+    }
+}

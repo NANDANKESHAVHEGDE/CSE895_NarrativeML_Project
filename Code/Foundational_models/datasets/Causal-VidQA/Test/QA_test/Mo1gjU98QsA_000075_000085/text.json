@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the shirt [person_2] wearing?",
+        "answer": [
+            "It is blue.",
+            "It is red.",
+            "It's red.",
+            "It's brown.",
+            "[person_2] is wearing a white T - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] outside?",
+        "answer": [
+            "[person_2] wants to keep balance.",
+            "[person_1] and [person_2] are shearing their sheep.",
+            "Because [person_1] is reading newspaper.",
+            "[person_1] is practicing dynamic plate spinning skill.",
+            "[person_1] holds a badminton racket to play badminton with friends."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to drink.",
+            "[person_1] does a workout.",
+            "[person_1] is going to check the work?",
+            "[person_1] continues to introduce the book.",
+            "[person_1] intends to spend his time playing."
+        ],
+        "reason": [
+            "High kick is a movement exercise.",
+            "[person_1] is sitting down right the sheep and the worker.",
+            "Riding a mechanical bull is hot.",
+            "[person_1] is weaving fabric.",
+            "[person_1] is talking very seriously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] would stop skiing.",
+            "[person_2] would fall down.",
+            "[person_1] , [person_2] and [person_2] will get wet.",
+            "Soldiers may find a shelter.",
+            "[person_1] and [person_2] would move to a shelter to continue shearing."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are sitting outside without umbrella.",
+            "[person_1] will get wet.",
+            "[person_1] and [person_2] are shearing sheep outside.",
+            "Although [person_1] is wearing rain boots , [person_1] does not bring an umbrella.",
+            "[person_1] and [person_2] cannot lay bricks if it rains."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is introducing the tool in his hand.",
+            "[person_1] is doing side lunges on a bench",
+            "[person_1] is opening a carton box.",
+            "[person_1] is exercising in the gym now.",
+            "[person_1] is serving his customers."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] speak to the camera?",
+        "answer": [
+            "[person_1] wants to be strong.",
+            "[person_1] is feeling enjoyment about the game that [person_1] is looking at.",
+            "[person_1] wants to show the audience how to use the tool.",
+            "[person_1] is showing talent playing didgeridoo.",
+            "[person_1] is playing didgeridoo."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue the treatment process.",
+            "[person_1] will probably practice.",
+            "[person_1] will close her eyes.",
+            "[person_1] will certainly continue his performance.",
+            "[person_1] will open the bottle with his tool."
+        ],
+        "reason": [
+            "[person_1] is lifting the bottle.",
+            "Because [person_1] is picking up the cloth to the camera.",
+            "After [person_1] finished the dance , [person_1] will walk directly to the rest area.",
+            "[person_1] is swimming back.",
+            "It seems [person_1] cannot stand anymore."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if someone spoke to [person_1]?",
+        "answer": [
+            "[person_1] would love what he was doing.",
+            "The woman with short hair will get bad reviews.",
+            "[person_1] would continue what he was doing.",
+            "[person_1] might get hurt.",
+            "[person_1] would stop what he was doing."
+        ],
+        "reason": [
+            "A face shield is essential for a welder.",
+            "[person_1] had been interrupted and hadn't need to reply.",
+            "Because behind [person_1] is a cliff.",
+            "[person_1] had been interrupted and had to reply.",
+            "[person_1] would tap the pen with two hands but the sound produced would be very different."
+        ]
+    }
+}

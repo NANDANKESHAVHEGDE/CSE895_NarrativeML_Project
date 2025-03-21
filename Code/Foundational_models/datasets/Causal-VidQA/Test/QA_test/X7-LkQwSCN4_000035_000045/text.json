@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "[person_1] is wearing a white T - shirt.",
+            "It is brown.",
+            "It's brown."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] touch the man's foot?",
+        "answer": [
+            "[person_1] is enjoying massage.",
+            "cleaning the shoe with shoe polish is cleaner than cleaning with hands.",
+            "[person_1] wanted to smell the feet.",
+            "[person_1] feels hurt on his shoulder.",
+            "[person_1] does parkour by jumping over a chair and the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to read all the newspapers on the table.",
+            "Maybe [person_1] intends to use onions to cook.",
+            "[person_1] will stop playing the cello.",
+            "Maybe [person_1] intends to hug the baby.",
+            "Maybe [person_1] intends to talk about smelling feet."
+        ],
+        "reason": [
+            "[person_1] looks ahead and holds up gong sticks.",
+            "[person_1] has turned off the keyboard.",
+            "[person_1] is talking something after smelling feet.",
+            "[person_1] looks very excited.",
+            "[person_1] is thinking to win the match."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the foot with the sock smells bad?",
+        "answer": [
+            "She will feel upset.",
+            "The dough will not be able to twist.",
+            "Maybe [person_1] will vommit.",
+            "All the woods [person_1] has planed wrongly will be useless.",
+            "He will pick up the drumstick."
+        ],
+        "reason": [
+            "Because it is dangerous.",
+            "Socks often smell after being worn.",
+            "The room was dark.",
+            "The standee could stand still.",
+            "It can be cool."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Does [person_1] use some tools to open the bottle?",
+        "answer": [
+            "The [person_1] is wearing a woolen cap.",
+            "The bed [person_1] is lying on is dark blue.",
+            "[person_1] is brown.",
+            "No [person_1] open the bottle with hands only.",
+            "The [person_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why can [person_1] open it with hands easily?",
+        "answer": [
+            "The [person_1] wears glasses to see small bass buttons easier.",
+            "[person_1] must have shook the bottle thus the cork was a little loose.",
+            "[person_1] wants to stick the accordion to the body and control the accordion conveniently.",
+            "To make it easy to operate.",
+            "The weather is sunny."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after opening the bottle?",
+        "answer": [
+            "[person_1] will put down the inhaler quietly.",
+            "[person_1] will clean the dust in the dust catcher.",
+            "[person_1] will ask his parents to try.",
+            "[person_1] will lead the horse to other place.",
+            "[person_1] will drink the champagne."
+        ],
+        "reason": [
+            "There are some goblets on the table.",
+            "Because [person_1] is too young to deal with it.",
+            "The champagne inside the bottle spout out.",
+            "[person_1] wants to have the drink.",
+            "Because the paper hasn't dried yet , [person_1] will put the chair in the yard and let the paper dry."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't shake the bottle?",
+        "answer": [
+            "[person_1] would not get hurt.",
+            "[person_1] wouldn't sing.",
+            "[person_1] won't be happy.",
+            "The room would be in a mess.",
+            "[person_1] could not open it easily."
+        ],
+        "reason": [
+            "Because his customer might be displeased and his product would be ruined.",
+            "[person_1] wouldn't blown the balloon and he can play with it.",
+            "The cork is tight inside unless the pressure inside has pushed it.",
+            "The floor is hard and the [person_1] was hit unexpectedly.",
+            "No one would know the taste of the candy without eating it."
+        ]
+    }
+}

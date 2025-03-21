@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a pencil.",
+            "[person_1] is holding a shoe polish box.",
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is holding a bass guitar.",
+            "[person_1] is standing in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding a guitar?",
+        "answer": [
+            "[person_2] is placed on the ground to contain the money.",
+            "[person_2] wants to be heard by more people.",
+            "[person_2] reminded and held the [person_2]'s hand.",
+            "[person_2] is playing guitar.",
+            "[person_2] is sitting in the chair."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may practice playing music with [person_2].",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to stand again.",
+            "[person_1] will chop the green bell pepper."
+        ],
+        "reason": [
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is facing [person_2].",
+            "[person_1] and [person_2] are both having musical instruments and standing together.",
+            "Because [person_1] has a brush in his hand.",
+            "[person_1] is holding the chess piece."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has his hand hurt?",
+        "answer": [
+            "[person_1] won't be able to continue playing the cymbals.",
+            "[person_1] would not be able to practice heavy lifting.",
+            "[person_1] would bleed a lot.",
+            "[person_1] cannot continue to play bass guitar.",
+            "Maybe [person_1] will jump high."
+        ],
+        "reason": [
+            "Because this machine is very safe.",
+            "[person_1] needs to use both hands to play bass guitar.",
+            "[person_1] and [person_1] are women.",
+            "The [person_1] is heavy.",
+            "Because his mother will take him to the toilet."
+        ]
+    }
+}

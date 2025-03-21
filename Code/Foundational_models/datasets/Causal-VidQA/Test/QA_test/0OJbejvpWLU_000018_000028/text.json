@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the [couch_1]?",
+        "answer": [
+            "[couch_1] is behind the fence , on the road.",
+            "That's a pair of glasses.",
+            "It is on the floor.",
+            "It is big.",
+            "[couch_1] is parked by the sidewalk and close to [couch_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] going quickly?",
+        "answer": [
+            "Because he has already won one.",
+            "Because [person_1] wanted to take the newspaper inside.",
+            "[person_1] is fascinated by playing with a ball and a bat.",
+            "[person_1] wants to keep fit and healthy.",
+            "Because he is given it on him birthday."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to hug [person_1].",
+            "[person_1] will take advantage of the chair to open.",
+            "[person_1] is going to continue spending his time on entertainment.",
+            "[person_1] will come down to have a rest.",
+            "[person_1] will continue tying the bow."
+        ],
+        "reason": [
+            "[person_1] must keep track of her student's progress.",
+            "[person_1] is still a little kid and impatient.",
+            "To show others how to take out the paint roller.",
+            "[person_1] would like to reduce stress.",
+            "The hair in cutting may get into her eyes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is thirsty?",
+        "answer": [
+            "Maybe [person_1] will stop playing this game temporarily.",
+            "The friend of [person_1] may drink alone.",
+            "Maybe [person_1] will not stop playing this game temporarily.",
+            "[person_1] will drink some water.",
+            "Maybe [person_1] will start playing this game temporarily."
+        ],
+        "reason": [
+            "[person_1] won't need to drink some water.",
+            "[person_1] should go to see the doctor.",
+            "[person_1] will need to drink some water.",
+            "[person_1] doesn't want to get a cold in the rain.",
+            "[person_1] will need to pull some water."
+        ]
+    }
+}

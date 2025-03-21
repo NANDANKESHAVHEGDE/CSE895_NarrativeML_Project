@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in planing workshop.",
+            "Maybe [person_1] is standing in the kitchen.",
+            "[person_1] is in the study room.",
+            "[person_1] is on the roller skating rink.",
+            "On the beach."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] on the beach?",
+        "answer": [
+            "To detect rubbish.",
+            "[person_1] holds [person_1].",
+            "[person_1] is trying to explaining about picking up apples.",
+            "[person_1] is on the floor because [person_1] is on top of them sheering their fur off.",
+            "Perhaps [person_1] is demonstrating how to shine shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will definitely start wrapping the gift.",
+            "Stop and pick rubbish up.",
+            "[person_1] is going to recheck the positions of the rectangular mirror and the round mirror.",
+            "[person_1] is introducing the tool.",
+            "[person_1] will check whether there are something wrong with his posture."
+        ],
+        "reason": [
+            "To make the snowman bigger.",
+            "[person_1] has detected rubbish.",
+            "He seems like this kind of jump.",
+            "[person_1] is going to learn how to keep balance so that he can take off 2 spare wheels on the [person_1].",
+            "The reflection in the ball is not the same as his own appearance , which will arouse his curiosity."
+        ]
+    },
+    "counterfactual": {
+        "question": "If finds grass and bottle , what will happen?",
+        "answer": [
+            "She maybe cry.",
+            "Grapes could be crushed faster.",
+            "Recycle them.",
+            "[person_1] would not be able to boxing.",
+            "The people might not notice [person_1]."
+        ],
+        "reason": [
+            "[person_1] is angry.",
+            "To save the resources.",
+            "To change another ring which fits [person_1].",
+            "Because they are both floating.",
+            "Because the driver will lose balance."
+        ]
+    }
+}

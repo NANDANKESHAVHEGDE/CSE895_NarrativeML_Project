@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is shooting basketball.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is stacking dices.",
+            "[person_1] is cheering [person_1] up",
+            "[person_1] is throwing the ball into the basket."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] throwing dices on the table?",
+        "answer": [
+            "He just learned about this game.",
+            "Because he wants to practice stacking dices.",
+            "[person_1] was bored before.",
+            "[person_1] is trying to do somersaults.",
+            "[person_1] is in a party."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may put the bottle down.",
+            "[person_1] will obviously stop stand on the hand.",
+            "[person_1] will stop kicking high.",
+            "He may swing the cup to stack the dices in.",
+            "[person_1] is going to observe all the newspapers."
+        ],
+        "reason": [
+            "When [person_1] throws the dices on the table , he holds the cup and prepares to swing it.",
+            "Maybe [person_1] will clap his hands.",
+            "The cat is sitting next to [person_1].",
+            "[person_1] is resting.",
+            "[person_1] is doing lunges."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the dices are smaller?",
+        "answer": [
+            "[person_1] would ask [person_1] to kick again.",
+            "[person_1] will ask for others' help.",
+            "[person_1] and [person_1] would be fine.",
+            "[person_1] may get more dices stacked.",
+            "[person_1] will call other workers."
+        ],
+        "reason": [
+            "because [person_1] yanked too hard on the [person_1].",
+            "Because [person_1] will be still in the room and play.",
+            "Only [person_1] is at home.",
+            "Because [person_1] may be the mother of [person_1] and [person_1] , [person_1] needs to ensure that nothing happens to [person_1].",
+            "When [person_1] practices , these dices are so big that the cup can only hold three of them."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What inscription is printed on [person_1]'s shirt?",
+        "answer": [
+            "The painting is on the wall.",
+            "[person_1]'s shirt is red.",
+            "[person_1]'s shirt is black.",
+            "The [person_1] is in front of the [person_1].",
+            "The inscription is NASA."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bite his lips?",
+        "answer": [
+            "Because [person_1] might fall.",
+            "[person_1] needs [person_1] to hit the ball.",
+            "Because [person_1] is focusing.",
+            "[person_1] wants to find a stone.",
+            "[person_1] is feeling shy."
+        ]
+    },
+    "predictive": {
+        "question": "Which of [person_1]'s hand will hit the table first?",
+        "answer": [
+            "The man is going to come back home.",
+            "[person_1]'s left hand will hit the table first.",
+            "The team of [person_1] is going to win.",
+            "The team of [person_1] is going to win.",
+            "The woman on the stage may continue dancing."
+        ],
+        "reason": [
+            "It seems that they did this video for showing audience how to bandage and since the girl had shown them the front , then she will show them the back.",
+            "Because the person ordered the food to eat.",
+            "[person_1]'s left hand will hit the table first because it comes down faster than [person_1]'s right hand.",
+            "After the girl in the right licked her , she seemed a bit embarrassed and then opened her mouth to try to laugh.",
+            "Because after piling up the dirt the driver's job is done."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] only used one hand to type?",
+        "answer": [
+            "[person_1] will be the loser.",
+            "[person_1] would get the tone [person_1] wants.",
+            "[person_1] and [person_1] will continue to perform.",
+            "[person_1] would not get the tone [person_1] wants.",
+            "[person_1] will stop eating hot dogs."
+        ],
+        "reason": [
+            "There are no protection nets around the trampoline.",
+            "Because one hand can't make the sound that two hands make at the same time.",
+            "[person_1] wants to be a boxer.",
+            "Because one hand can make the sound that two hands make at the same time.",
+            "Sports can make people lose weight."
+        ]
+    }
+}

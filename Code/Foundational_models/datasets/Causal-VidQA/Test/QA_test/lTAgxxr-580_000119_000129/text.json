@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is outside the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is \u00a0 somersaulting with the sports ball.",
+            "[person_1] is playing flute . Maybe [person_1] does it for fun.",
+            "[person_1] is talking about the didgeridoo.",
+            "[person_1] is instructing relaxation exercises after stressful working hours.",
+            "[person_1] is playing roller skating."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Find somewhere to relax.",
+            "Maybe [person_1] will continue practice.",
+            "[person_1] will introduce the didgeridoo.",
+            "[person_1] will show many skills",
+            "[person_1] will put the toy in the green box into the red one."
+        ],
+        "reason": [
+            "[person_1] is talking about the didgeridoo.",
+            "[person_1] is enjoying when [person_1] does it.",
+            "[person_1] looks at the chessboard attentively.",
+            "Because [person_1] has just reached out her hands to get pottery clay.",
+            "[person_1] is riding fast."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if many people come here?",
+        "answer": [
+            "We will don't know how this thing is made.",
+            "Then the water spray will not be so big.",
+            "Many people will buy the didgeridoo.",
+            "[person_1] may not jump up.",
+            "The cat will run away."
+        ],
+        "reason": [
+            "Everyone will try play the didgeridoo.",
+            "Long cups need more force to stable the inner dice.",
+            "The bookshelf will fall on [person_1].",
+            "[person_1] will be in danger.",
+            "Because punishment is only in form , not for real punishment."
+        ]
+    }
+}

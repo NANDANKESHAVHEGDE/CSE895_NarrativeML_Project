@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is there a schoolbag here?",
+        "answer": [
+            "Yes , there is one.",
+            "Five.",
+            "[person_3] is in the room.",
+            "[person_3] is \u00a0 in the room.",
+            "[person_3] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they so happy?",
+        "answer": [
+            "Because they want to visit the desert.",
+            "Because they might catch a cold if they wear shorts.",
+            "Running is good for your health.",
+            "Because they are playing games.",
+            "[person_3] is frustrated about stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_3] do after watching so long time?",
+        "answer": [
+            "[person_3] will continue to use one hand to crawl forward.",
+            "[person_3] will dive after the first person.",
+            "[person_3] will keep playing.",
+            "Just give the cards to others.",
+            "[person_3] will join them."
+        ],
+        "reason": [
+            "[person_3] seems to want to achieve a good performance.",
+            "The ball is approaching the hands of [person_3].",
+            "Because it is dirty after making the juice.",
+            "[person_3] doesn't finish the painting.",
+            "Because [person_3] seems very interested in the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if it rains?",
+        "answer": [
+            "[person_3] would stop squeezing.",
+            "They would stop the game.",
+            "The competition will continue.",
+            "The interview will stop.",
+            "The audience will shrink."
+        ],
+        "reason": [
+            "The interview is taking place outdoors.",
+            "That is the rules of the contest.",
+            "The room will dark.",
+            "The squeezer can not work without power.",
+            "Because no matter how good a game is , they can't play it in the rain."
+        ]
+    }
+}

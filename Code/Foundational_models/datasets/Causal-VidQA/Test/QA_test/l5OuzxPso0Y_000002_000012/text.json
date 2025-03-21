@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is [person_3]?",
+        "answer": [
+            "[person_3] is sitting on bed.",
+            "[person_3] is sitting on the floor.",
+            "[person_3] is sitting on the steps.",
+            "[person_3] is the shortest person.",
+            "[person_3] is perched on [person_3]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a stick on [person_1]'s hands?",
+        "answer": [
+            "[person_1] is holding a stick to be balanced.",
+            "The [person_1] is trying to pick blueberries.",
+            "[person_1] and [person_1] are playing together.",
+            "To make the snowman more beautiful.",
+            "[person_1] needs to reposition his microphone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to jump off the log.",
+            "[person_3] is going to introduce his book.",
+            "[person_3] is going to become a famous athlete.",
+            "[person_3] is going to continue to share out the presents with everybody.",
+            "[person_3] is going to stop skating."
+        ],
+        "reason": [
+            "Because [person_3] has a pen and paper.",
+            "[person_3] is going to receive everyone's cheers.",
+            "[person_3] is going to prevent [person_3] from attacking his cows.",
+            "[person_3] intends to slow down and gradually lower the body.",
+            "[person_3] finished [person_3]'s performance."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the stick in [person_2]'s hands drops?",
+        "answer": [
+            "The stick may hit [person_3]'s head.",
+            "[person_2] will be sad.",
+            "[person_3] would be angry.",
+            "[person_3] and [person_3] would stop drinking.",
+            "[person_2] will help [person_2] drink that cup."
+        ],
+        "reason": [
+            "It is very easy to fall when playing roller skating.",
+            "Because it looks like the [person_2] is her assistant.",
+            "[person_2] is on the show and [person_2] should get up by herself.",
+            "Because [person_3] is standing very near to [person_2].",
+            "[person_3] is holding a matchstick too."
+        ]
+    }
+}

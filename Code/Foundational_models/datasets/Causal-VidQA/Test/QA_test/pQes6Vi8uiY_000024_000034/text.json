@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing with toy cars.",
+            "[person_1] is playing the harp.",
+            "[person_1] is touching the organ.",
+            "[person_1] is digging pulp from the coco.",
+            "[person_1] is playing the accordion."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] throw one of pieces away?",
+        "answer": [
+            "The weather is hot.",
+            "They are here to practice tackling.",
+            "It is empty.",
+            "They are here attending birthday party.",
+            "[person_1] stood up to give the gift to the boy."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "[person_1] will get money from his customer.",
+            "[person_1] will keep spraying.",
+            "[person_1]'ll come down and check the [person_1].",
+            "[person_1] will certainly continue playing guitar."
+        ],
+        "reason": [
+            "Maybe [person_1] is playing an interesting song.",
+            "[person_1] is holding newspaper.",
+            "[person_1] is holding the harmonica.",
+            "Because [person_1]'s walking back.",
+            "It seems [person_1] is passing his fruit to someone in front of [dining table_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't get the money?",
+        "answer": [
+            "[person_1] wouldn't pass the fruit to his father.",
+            "[person_1] is likely to stop jumping rope.",
+            "[person_1] would pass the fruit to his customer.",
+            "[person_1] will pick up the trowel.",
+            "[person_1] wouldn't pass the fruit to his customer."
+        ],
+        "reason": [
+            "[person_1] is wasting money.",
+            "Because [person_1] could not instruct how to unlock a lock if [person_1] did not know how to do.",
+            "[person_1] is losing money.",
+            "[person_1] wants to hit every ball.",
+            "[person_1] is earning money."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [bowl_1]?",
+        "answer": [
+            "It's a beer.",
+            "[bowl_1] shirt is white.",
+            "The [bowl_1] is in the room.",
+            "The [bowl_1] is big.",
+            "It's green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] , [person_2] and [person_3] outside?",
+        "answer": [
+            "[person_2] wanna show the results after waxing the legs of [person_1].",
+            "[person_1] , [person_2] and [person_3] are playing together.",
+            "With the soap in [person_1] and [person_2]'s hands.",
+            "[person_1] moves the blades to peel , core , and slice the apple.",
+            "[person_1] is playing maracas and he wants to produce some sounds with the maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is about to eat.",
+            "[person_1] will leave.",
+            "[person_1] is going to cross the street.",
+            "[person_1] is going to jump into [bowl_1].",
+            "[person_1] will read another book."
+        ],
+        "reason": [
+            "Because [person_1] acts as a guide.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "[person_1] is snowmobiling.",
+            "[person_1] wants to play in the water.",
+            "[person_1] holds the hoop before hooping."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] splashes water on [person_3] ?",
+        "answer": [
+            "[person_3] will splash water back on [person_2].",
+            "[person_2] will ask [person_3] to get a divorce and leave.",
+            "[person_3] may prevent others to keep going for a while.",
+            "[person_3] will fall on the ground.",
+            "[person_3] will stand up immediately."
+        ],
+        "reason": [
+            "[person_3] will get hurt.",
+            "It's a very fun game.",
+            "The birds will go find food elsewhere.",
+            "The water flow is very fast.",
+            "[person_3] is able to heat food."
+        ]
+    }
+}

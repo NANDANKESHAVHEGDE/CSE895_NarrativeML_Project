@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is sitting in a hammock.",
+            "[person_1] is slamming the tire.",
+            "[person_1] is opening the box of a gift.",
+            "[person_1] is stripping an apple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] turn the tire around?",
+        "answer": [
+            "[person_1] is practicing playing field hockey.",
+            "To finish her exercise.",
+            "He want to play better.",
+            "In order to make bubbles.",
+            "[person_1] is very concentrated."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will display his good work of the opening.",
+            "[person_1] will have a rest.",
+            "[person_1] will keep on standing there.",
+            "[person_1] will keep walking.",
+            "[person_1] will back up."
+        ],
+        "reason": [
+            "[person_1] seems to be quite intent on the action of [person_1].",
+            "[person_1] has not don blowing the clarinet.",
+            "[person_1] has prepared a hole on the ground.",
+            "Because it seems that he likes it a lot.",
+            "[person_1] leaves the hammer behind."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] was a strong man?",
+        "answer": [
+            "[person_1] would not use her hands.",
+            "[person_1] could persist for longer time.",
+            "[person_1] might have to stop talking and finding a flashlight.",
+            "[person_1] will finish his performance.",
+            "[person_1] would take a weight on each side away."
+        ],
+        "reason": [
+            "High kick is difficult.",
+            "[person_1] is practicing playing the keyboard.",
+            "Big knife is suitable for cutting.",
+            "Men are always good at physical persistence.",
+            "[person_1] could be dangerous."
+        ]
+    }
+}

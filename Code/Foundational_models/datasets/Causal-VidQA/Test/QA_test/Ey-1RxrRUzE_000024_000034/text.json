@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [sheep_1]?",
+        "answer": [
+            "[sheep_1] is in the table.",
+            "[sheep_1] is on the table.",
+            "It is at the corner of the room.",
+            "[sheep_1] is on the floor outside.",
+            "White."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [sheep_1] on the floor?",
+        "answer": [
+            "[sheep_1] is on the floor because [person_1] is on top of them sheering their fur off.",
+            "[person_1] is rubbing [sheep_1]'s back.",
+            "The [person_1] reduces the tone of accordion.",
+            "[person_1] wanna show how to peel the potato faster.",
+            "[person_1] is holding [sheep_1] down on the ground so he can trim the fur of [sheep_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue to play guitar until he finishes the song he's playing.",
+            "[person_1] will eventually finish sheering the sheep and then get off of the sheep to let it go so he can collect the fur.",
+            "[person_1] may sit next to the cat lying on the floor.",
+            "[person_1] will pick up the guitar and start playing it.",
+            "[person_1] will try to blow the harmonica."
+        ],
+        "reason": [
+            "[person_1] propped his hand to pet the cat lying on the floor for a long time.",
+            "[person_1] is in the process of sheering the sheep ; once done , he will collect the fur to sell it or make something out of it.",
+            "[person_1] has finished the performance.",
+            "[person_1] is being filmed by an experienced cameraman , so she must want her performance to be recorded professionally.",
+            "[person_1] just threw the ball to someone."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] sitting on top of [sheep_1] was hurting it.",
+        "answer": [
+            "[sheep_1] would start moving , trying to get [person_1] off from on top of it.",
+            "The [person_1] can go and stop on roller skates.",
+            "[person_1] , [sheep_1] and [sheep_1] would bow down to the audiences.",
+            "Maybe [person_1] will cut his finger.",
+            "[person_1] and [sheep_1] can go into the house to practice."
+        ],
+        "reason": [
+            "The [person_1] tries to skate with a pod.",
+            "if [person_1] was too heavy and hurting [sheep_1] , the sheep would try to get him off anyway it could.",
+            "The [person_1] does not put any glasses on the face of [person_1].",
+            "Because [person_1] is trying to pick raspberries , [person_1] may take no notice of the raspberry under her feet.",
+            "The picture will lack color."
+        ]
+    }
+}

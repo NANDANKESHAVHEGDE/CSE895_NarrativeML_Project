@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [chair_1]?",
+        "answer": [
+            "[chair_1] is placed far away behind three people.",
+            "[person_1] is next to a [chair_1].",
+            "[chair_1] is in front of [person_1].",
+            "[chair_1] is placed next to the beginning of the stair.",
+            "[chair_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] turn on the flashlight?",
+        "answer": [
+            "Maybe [person_1] is playing lute for the [person_1].",
+            "because [person_1] wants to light something up.",
+            "Because [person_1] wants to water the plants around the garden.",
+            "[person_1] wants to get some orange juice.",
+            "The [person_1] wants to see more clearly the things outside the fence."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] about to do?",
+        "answer": [
+            "[person_1] will continue playing the game.",
+            "[person_1] will probably keep moving forward.",
+            "[person_1] will rest.",
+            "[person_1] will clean up the ground.",
+            "[person_1] is going to continue using the flashlight."
+        ],
+        "reason": [
+            "Because people can manipulate the scooter by standing on it.",
+            "They organize egg hunting because it is Easter day.",
+            "Because [person_1] should be careful when riding.",
+            "After doing lots of sport [person_1] will keep fit.",
+            "because the flashlight is still on."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] did not press the bottom of the flashlight?",
+        "answer": [
+            "[person_1] would not be able to light anything.",
+            "It won't be sunny.",
+            "[person_1] might be hit in the face by the ball.",
+            "[person_1] will pick it up.",
+            "He will not notice."
+        ],
+        "reason": [
+            "Because [person_1] wants to watch till the end of the program.",
+            "[person_1] would not turn the flashlight on if [person_1] did not press the bottom of it.",
+            "Because [person_1] is busy making cookies.",
+            "The machine would not tidy up it by its own.",
+            "[person_1] was only practicing."
+        ]
+    }
+}

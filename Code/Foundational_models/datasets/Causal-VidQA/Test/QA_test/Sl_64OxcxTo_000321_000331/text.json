@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the black thing behind [person_1]?",
+        "answer": [
+            "It is red and white points.",
+            "The carpet is blue.",
+            "It's red.",
+            "The floor is blue and brown.",
+            "A folding screen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a stick?",
+        "answer": [
+            "[person_1] is standing and practicing playing flute.",
+            "The right leg of [person_2] is going to be waxed.",
+            "Because there is no one here except for [person_1] and [person_2].",
+            "[person_1] is holding a stick to do a massage for [person_2].",
+            "[person_1] is performing music on the street . ."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep watching.",
+            "[person_1] would ask questions of her students.",
+            "She may keep moving her feet and dance.",
+            "[person_1] may keep trying to stand by hands.",
+            "[person_1] may change a stick."
+        ],
+        "reason": [
+            "[person_1] has two sticks , and the other one must be of use.",
+            "[person_1] is talking with his friend.",
+            "[person_1] is holding a title.",
+            "[person_1] wants to increase the difficulty.",
+            "[person_1] is going to enjoy the melody."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the folding screen falls down?",
+        "answer": [
+            "The man will ask them to stop.",
+            "[person_2] would invite the person who is on [person_2] to join the class.",
+            "[person_2] will chase the dog away.",
+            "[person_2] will take [person_2] to shop.",
+            "The folding screen will fall on [person_2]."
+        ],
+        "reason": [
+            "They can not see the show clearly.",
+            "[person_1] would fall over because he was facing away from the ocean and would not expect a wave to hit him.",
+            "In case of being hit.",
+            "[person_1] is very close to the folding screen.",
+            "The court would not be covered with the snow."
+        ]
+    }
+}

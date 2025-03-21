@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is blue with white pattern.",
+            "[car_1] is doing mountain climbers.",
+            "[car_1] is on the road.",
+            "It's in the yard.",
+            "[car_1] is young and small."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing the helmet?",
+        "answer": [
+            "Because [person_1] is driving.",
+            "the mechanical bull turns around and around to make the [person_1] dizzy.",
+            "Because [person_1] wants to ski safely.",
+            "Using the mobile phone.",
+            "[person_1] and [person_1] are disabled."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will have a rest.",
+            "[person_1] will keep driving.",
+            "[person_1] will check his result.",
+            "[person_1] might climb onto a branch.",
+            "[person_1] will slow down."
+        ],
+        "reason": [
+            "[person_1] is touching the shoe.",
+            "[person_1] is putting the pump nozzle into the car fuel tank.",
+            "It is obvious that [person_1] is doing an TV program.",
+            "[person_1] is still holding the steering wheel.",
+            "Maybe [person_1] finished the song."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the car runs out of gas?",
+        "answer": [
+            "[person_1] will not drive.",
+            "The fingers on [person_1] right hand would be injured.",
+            "[person_1] will drive.",
+            "[person_1] may take off her makeup and put it back on.",
+            "[person_1] will ride."
+        ],
+        "reason": [
+            "Because the car needs gas to run.",
+            "Music performances need concentration.",
+            "Because the car needs oil to run.",
+            "[person_1] can bear such weather.",
+            "Because the bike needs gas to run."
+        ]
+    }
+}

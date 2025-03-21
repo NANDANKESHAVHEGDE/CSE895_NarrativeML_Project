@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling so happily?",
+        "answer": [
+            "Because the [person_1] cleaned the [person_1].",
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "Because [person_1] is playing maracas.",
+            "Because [person_1] does not in time to hit the badminton ball.",
+            "Perhaps [person_1] is demonstrating how to shine shoes."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after smiling?",
+        "answer": [
+            "[person_1] will give comments for everyone.",
+            "[person_1] will turn off the camera",
+            "[person_1] will stretch his body to great extent.",
+            "[person_1] will go to play.",
+            "[person_1] will do whatever he likes."
+        ],
+        "reason": [
+            "[person_1] will turn off the camera because [person_1] has successfully unlocked the lock.",
+            "[person_1] is greeting with [person_1].",
+            "It seems that [person_1] is paying attention on the cups.",
+            "Because [person_1] is giving another one a demonstration.",
+            "[person_1] is moving forward to catch toys"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the maracas don't have the stones?",
+        "answer": [
+            "Maybe [person_1] and his teammates will smile.",
+            "[person_1] won't be able to make sound.",
+            "[person_1] would get mad.",
+            "[person_1] will be able to make sound.",
+            "He will be knocked down by [person_1]."
+        ],
+        "reason": [
+            "The maracas will make sound.",
+            "It is impossible to remove the cork with a laundry rack.",
+            "The maracas will not keep quite.",
+            "There must be a winner and no one wants to lose.",
+            "The maracas will not make sound."
+        ]
+    }
+}

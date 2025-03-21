@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are on [dining table_1]?",
+        "answer": [
+            "There are drinks and some food.",
+            "They are in a big yard.",
+            "It's a watch.",
+            "There is nothing on [dining table_1].",
+            "No , he didn't."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many drinks and dishes on [dining table_1]?",
+        "answer": [
+            "[dining table_1] is somersaulting in the room.",
+            "[dining table_1] is lifting weights.",
+            "Because there will be some guests coming to eat.",
+            "[dining table_1] trying to train to change its body.",
+            "He is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after watching the food ? eat the food on [dining table_1]?",
+        "answer": [
+            "[person_1] , [person_2] , and [person_2] are going to keep dancing.",
+            "[person_1] will eat the food on [dining table_1] , but [person_2] will prevent [person_1] from doing so.",
+            "[person_2] and [person_1] are going to sleep.",
+            "Maybe [person_1] is going to eat all of them.",
+            "[person_1] will go home."
+        ],
+        "reason": [
+            "The man follows closely behind [person_1].",
+            "Because it's the right time after paying . ",
+            "[dining table_1] does not stop carving.",
+            "Because it's not a good manner for [person_1] to eat before the guests arrive.",
+            "His hair is white."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if all the guests came to the table?",
+        "answer": [
+            "Maybe [person_1] will get a medal.",
+            "[person_1] will leave right now.",
+            "[person_1] can not see the frisbee.",
+            "[person_1] would eat the food [person_1] thought about the whole time.",
+            "[person_1] would not crash into the fence."
+        ],
+        "reason": [
+            "Because [person_1] seems more professional and is instructing [person_2].",
+            "Because [person_1] have to go to the company.",
+            "The dog is being kept with the tether by the [person_1].",
+            "Because [person_1] is chewing so [person_1] stops for a while to finish the food before drinking.",
+            "[person_2] told [person_1] that [person_1] could only eat the food after the guests do."
+        ]
+    }
+}

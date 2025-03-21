@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a ball.",
+            "[person_1] is wearing a blue shirt.",
+            "[person_1] is holding a shoe polish box.",
+            "It is on the bookshelf.",
+            "[person_1] is holding a bass guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the ball?",
+        "answer": [
+            "[person_1] is shaving for [person_1] .",
+            "Maybe [person_1] is doing exercise.",
+            "[person_1] is washing his hair.",
+            "Because [person_1] is practicing standing on hands.",
+            "Because [person_1] is weaving fabric"
+        ]
+    },
+    "predictive": {
+        "question": "What isn't [person_1] going to do?",
+        "answer": [
+            "[person_1] is a coach of the fencing club.",
+            "[person_1] may be in the dining room.",
+            "[person_1] isn't going to play sport.",
+            "[person_1] may at a parking place.",
+            "Maybe it's an animal."
+        ],
+        "reason": [
+            "[person_1] looks so fat so [person_1] is just doing exercise to burn fat.",
+            "There are fourteen chairs on which students can sit and watch their teacher do tai chi moves.",
+            "[person_1] sitting on the [person_1] makes [person_1] not round . Because of the pressure.",
+            "[person_1] who is standing near [person_1] and [person_1] is watching [person_1] and [person_1] fencing.",
+            "To let [person_1] take [person_1] out for a walk."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the ball is dropped?",
+        "answer": [
+            "[person_1] and [person_1] will be scared and curious.",
+            "[person_1] will be healthy.",
+            "[person_1] and [person_1] have to fix the broken microphone.",
+            "[person_1] will be hurt.",
+            "Maybe the gift inside will be also damaged."
+        ],
+        "reason": [
+            "This is a wooden ball so it's very heavy for [person_1].",
+            "[person_1] needs to take care of his injury.",
+            "This is a metal ball so it's very light for [person_1].",
+            "The gift box is not packed carefully as [person_1] wants.",
+            "This is a metal ball so it's very heavy for [person_1]."
+        ]
+    }
+}

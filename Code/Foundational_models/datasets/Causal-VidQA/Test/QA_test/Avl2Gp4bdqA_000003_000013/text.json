@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the chair [person_1] sitting?",
+        "answer": [
+            "The [person_1] is used for playing badminton.",
+            "[person_1] and [person_1] are in the house.",
+            "The chair looks like the golden chair.",
+            "[person_1] is \u00a0 in the room with [person_1] and [person_1].",
+            "[person_1] is sit on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] touching the chess?",
+        "answer": [
+            "[person_1] is excited about this action.",
+            "Because [person_1] wants to hold the accordion tightly.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is doing it for fun.",
+            "[person_1] needs to strip the apple speedier."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably continue to lift the dumbbell.",
+            "[person_1] will continue blowing the clarinet.",
+            "[person_1] will learn to play chess.",
+            "[person_1] will continue jumping.",
+            "[person_1] will plant a tree on the ground."
+        ],
+        "reason": [
+            "To show others how to take out the paint roller.",
+            "[person_1] still has the harmonica on her mouth , closing her eyes to enjoy playing the harmonica.",
+            "[person_1] is holding a ball in his hand.",
+            "[person_1] do not know how to play.",
+            "[person_1] is getting the bottle through the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will stop playing chess.",
+            "[person_1] can not deal with her hair.",
+            "[person_1] won't be happy.",
+            "[person_1] will stop jumping.",
+            "[person_1] will stop crawling."
+        ],
+        "reason": [
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more.",
+            "The room will be dark."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is slamming a tire.",
+            "[person_1] is sitting in a hammock.",
+            "[person_1] is opening a carton box.",
+            "[person_1] is plastering in a careful way.",
+            "[person_1] is serving his customers."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] looking inside the box?",
+        "answer": [
+            "[person_2] is playing a bass guitar solo.",
+            "[person_2] holds a hammer to slam at the tire hard.",
+            "That part is sharper.",
+            "To make it easy to operate.",
+            "[person_2] is curious about the thing inside the box."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to lay concrete.",
+            "[person_2] will show how to correctly blow air into the glass.",
+            "The [person_2] will chase the [person_2].",
+            "[person_2] may pick out the thing inside the box.",
+            "[person_2] is going to kiss a dolphin."
+        ],
+        "reason": [
+            "When [person_1] opens the box , [person_2] is curious and about to pick out the thing inside it.",
+            "[person_2] is smiling and happy.",
+            "When [person_2] is talking , [person_1] looks ahead and keeps thinking.",
+            "Maybe [person_2] is going to start a new game.",
+            "[person_2] wants to know the ideas of [person_1] about that wine."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not open the carton box?",
+        "answer": [
+            "[person_1] won't have to turn back to get it.",
+            "[person_2] may be the one to open it.",
+            "[person_1] wouldn't win the competition.",
+            "[person_2] may be the one to close it.",
+            "[person_1] would not be able to pick up the pencil."
+        ],
+        "reason": [
+            "The guitar is being held up by [person_1] with the leg.",
+            "When the box is opened , [person_2] sits up and observes it.",
+            "Because everyone may go to work during the day.",
+            "When the box is closed , [person_2] sits up and observes it.",
+            "There is a swimming pool behind [person_1] and [person_2]."
+        ]
+    }
+}

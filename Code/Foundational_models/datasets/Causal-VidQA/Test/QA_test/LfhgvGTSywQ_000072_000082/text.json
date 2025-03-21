@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are in the garden?",
+        "answer": [
+            "There are five cups on the table.",
+            "There are two in the garden.",
+            "Slowly.",
+            "There are two televisions.",
+            "There are four people in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding the faucet?",
+        "answer": [
+            "Maybe [person_2] is under stress.",
+            "[person_2] wants to explain how to play the clarinet.",
+            "Perhaps [person_2] raised his hand to catch the ball.",
+            "Because [person_2] is watering the plants.",
+            "Because [person_2] proposes successfully."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to sit down.",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] will continue to cut [person_1].",
+            "[person_1] will continue to water the plants."
+        ],
+        "reason": [
+            "[person_1] wants to be a good batter.",
+            "[person_1] is watering the plants.",
+            "[person_1] is pouring concrete.",
+            "[person_1] is going to continue feeding fish.",
+            "[person_1] showed the snake and kept stepping forward."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the water runs out?",
+        "answer": [
+            "Maybe [person_1] will be very scared",
+            "It is probable that [person_1] will be very angry.",
+            "[person_1] will find a hammer.",
+            "[person_1] would not be able to play the gongs.",
+            "[person_1] will stop watering the plants."
+        ],
+        "reason": [
+            "The fire is dangerous.",
+            "The slippery floor is dangerous for [person_1].",
+            "Maybe this is the store's newest product.",
+            "The half orange will be dirty.",
+            "Water will run out."
+        ]
+    }
+}

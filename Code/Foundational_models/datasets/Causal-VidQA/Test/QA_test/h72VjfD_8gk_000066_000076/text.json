@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the tank top [person_1] wearing ?",
+        "answer": [
+            "[person_1] is wearing a black shirt.",
+            "The shirt is black.",
+            "The shirt is \u00a0 black.",
+            "The [person_1] is wearing a striped tee and denim shorts.",
+            "It is white color."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the bed ?",
+        "answer": [
+            "[person_1] is performing his performance.",
+            "[person_1] is smoking.",
+            "[person_1] is opening her Christmas presents.",
+            "[person_1] wants to play chess.",
+            "[person_1] is playing with his flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will play another round.",
+            "[person_1] maybe not be happy.",
+            "[person_1] is going to bed.",
+            "[person_1] will play other things.",
+            "[person_1] will go on practicing."
+        ],
+        "reason": [
+            "Because [person_1] seems to want to achieve a good performance.",
+            "Because there is no soil around [person_1] but there is soil in a distant place , so [person_1] may pile the soil to a distant place.",
+            "[person_1] wants to stop.",
+            "[person_1] needs to stand up and choose a bowling ball and then find a free line to play.",
+            "Maybe [person_1] is just learning to play flute."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels sleepy ?",
+        "answer": [
+            "[person_1] will not drink any water.",
+            "[person_1] will put his flute away.",
+            "[person_1] will stop the training and pick up the bottle.",
+            "[person_1] will give the first piece to [person_1].",
+            "[person_1] would sit down and drink some water."
+        ],
+        "reason": [
+            "Maybe [person_1] and [person_1] will fall down.",
+            "Then [person_1] will lie down and sleep.",
+            "Because [person_1] is on [person_1]'s left.",
+            "Because in that case [person_1] will go to the hospital.",
+            "Because [person_1] is small and standing too close to [person_1]."
+        ]
+    }
+}

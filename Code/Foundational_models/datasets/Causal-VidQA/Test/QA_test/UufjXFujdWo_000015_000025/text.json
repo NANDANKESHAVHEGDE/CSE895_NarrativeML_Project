@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Which gender is [person_3]?",
+        "answer": [
+            "[person_3] is standing behind [person_3].",
+            "[person_3] is holding [person_3].",
+            "[person_3] is placed on the ground.",
+            "They are on the beach.",
+            "[person_3] is male."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] holding a ball?",
+        "answer": [
+            "Because he has already won one.",
+            "[person_3] feels happy when [person_2] sticks out [person_2]'s tongue.",
+            "[person_3] wants to play basketball with [person_2].",
+            "[person_2] is keeping the boy.",
+            "[person_2] wants to find a stone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to hit the bull's eye.",
+            "[person_2] is going to hold the donut in front of him and eat.",
+            "[person_2] is going to pick up the ball.",
+            " [person_2] is going to have a rest.",
+            "[person_2] is going to follow the captain's instructions."
+        ],
+        "reason": [
+            "When [person_2] runs , [person_2] observes and prepares to run.",
+            "[person_2] folds her body toward the ball.",
+            "Because [person_2] is holding [person_2]'s hands.",
+            "[person_2] must know how to balance first in order to ride the skateboard.",
+            "Because [person_2] is looking at [person_2] and waiting for the opinion."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] stands nearer the basket stand?",
+        "answer": [
+            "[person_2] won't do Zumba on the stage.",
+            "The judge will raise the white flag.",
+            "[person_2] will be happy.",
+            "[person_2] can throw the ball through the basket.",
+            "[person_2] will be injured."
+        ],
+        "reason": [
+            "When [person_2] finishes a donut and chews it , [person_2] wipes his mouth with a towel.",
+            "When the rope broke , the donut falls on the ground , [person_2] kneels down to eat the donut.",
+            "Because if [person_2] used the wrong color , his product would be ruined.",
+            "The edge of the spoon is very thin , [person_2] needs to carve carefully.",
+            "[person_2] stands too far , so [person_2] failed to throw it through the hoop."
+        ]
+    }
+}

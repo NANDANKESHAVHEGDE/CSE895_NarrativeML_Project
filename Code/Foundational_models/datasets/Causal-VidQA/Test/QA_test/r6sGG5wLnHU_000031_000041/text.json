@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his room.",
+            "[person_1] is in a fashion shop.",
+            "[person_1] is in a gym.",
+            "[person_1] is inside their house.",
+            "[person_1] is in a museum."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in a gym?",
+        "answer": [
+            "Maybe [person_1] comes there to do exercise.",
+            "[person_1] is unwrapping her present to see her gift inside.",
+            "[person_1] is playing the lute.",
+            "[person_1] uses a tool to make the bubble.",
+            "Because [person_1] wants to water the plants."
+        ]
+    },
+    "predictive": {
+        "question": "what isn't [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue dancing.",
+            "[person_1] isn't going to do gym then.",
+            "[person_1] is going to discuss the food on the table.",
+            "[person_1] is going to talk about the advantage of lying on the ball.",
+            "[person_1] will continue dancing with [person_1]."
+        ],
+        "reason": [
+            "To clean out the snow on the left road.",
+            "From the action we can guess that [person_1] is introducing the advantage of lying on the ball.",
+            "[person_1] is saying something so [person_1] is just making video to teach other to do exercise.",
+            "[person_1] is also put her hands forward.",
+            "[person_1] turns to the right and he is sitting in the stands , there seems to be a game under the stage."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks her leg?",
+        "answer": [
+            "[person_1] will call the owner of [person_1].",
+            "[person_1] can't do exercise.",
+            "[person_1] may fall if [person_1] can not control his speed well.",
+            "The [person_1] will take care of [person_1].",
+            "[person_1] and [person_1] will look at [person_1]."
+        ],
+        "reason": [
+            "[person_1] could change the high of [person_1]'s microphone.",
+            "Because [person_1] is helpful.",
+            "[person_1] have to use legs to do this exercise.",
+            "The bag must be empty or leave space for eggs.",
+            "[person_1] can not ride the bike with the broken leg."
+        ]
+    }
+}

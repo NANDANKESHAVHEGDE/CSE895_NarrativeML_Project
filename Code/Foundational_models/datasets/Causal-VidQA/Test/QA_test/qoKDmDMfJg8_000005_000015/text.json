@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] covered her eyes with a towel before waxing.",
+            "[person_1] is wearing a sport uniform which contains a white tank top and a black short leggings.",
+            "[person_1] is wearing a T - shirt.",
+            "No , the [person_1] is not . The [person_1] is sitting down on the chair.",
+            "[person_1] is wearing glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a chessman?",
+        "answer": [
+            "Because [person_1] is suffering from eye disease.",
+            "[person_1] is happy because of playing football.",
+            "[person_1] is fascinated by coloring the picture.",
+            "[person_1] wants to know exactly what [person_1] is doing.",
+            "Because [person_1] is playing checkers."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to flip the sword.",
+            "[person_2] is going to teach [person_2] dance skill.",
+            "[person_2] is going to continue playing checkers.",
+            "[person_2] is going to try to make bubbles again.",
+            "[person_2] is going to kite surfing."
+        ],
+        "reason": [
+            "[person_2] is smiling happily.",
+            "[person_2] is holding a micro and [person_2] is talking.",
+            "Maybe [person_2] finds it interesting to smoke.",
+            "[person_2] is holding a chessman.",
+            "To let [person_2] make bubbles."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the light is off ?",
+        "answer": [
+            "[person_2] and [person_1] can't continue playing checkers.",
+            "[person_1] will find other power drills.",
+            "[person_1] and [person_2] will enjoy it.",
+            "[person_1] and [person_1] will stop sword fighting.",
+            "[person_1] will stop the snow blower."
+        ],
+        "reason": [
+            "[person_2] and [person_1] can't play it without the light.",
+            "[person_1] is still a child that cannot stand failure.",
+            "[person_1] will have to go fix the light.",
+            "[person_1] , [person_2] and [person_1] has just fell of because [person_2] , [person_1] and [person_1] have no place to lean on.",
+            "Wine bar must have many tools to open bottles."
+        ]
+    }
+}

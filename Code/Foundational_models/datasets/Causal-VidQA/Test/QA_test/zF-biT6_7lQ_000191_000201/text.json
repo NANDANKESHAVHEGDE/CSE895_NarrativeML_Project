@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is standing in the yard.",
+            "[person_1] is holding a boot.",
+            "[person_1] is holding a trimmer.",
+            "They are on the beach.",
+            "[person_1] is holding two sticks."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] look so excited?",
+        "answer": [
+            "Maybe [person_2] finds it interesting.",
+            "[person_2] is playing the harmonica.",
+            "[person_2] wants to rest.",
+            "Because the road is too big to measure with a tape measure.",
+            "[person_2] wants to keep the balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to stand by hands.",
+            "[person_1] may stand on the [person_1].",
+            "[person_1] does a workout.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] is going to continue to shave his beard with the trimmer."
+        ],
+        "reason": [
+            "[person_1] is talking with his friend.",
+            "The tap is still on.",
+            "[person_1] put down the weight lifting.",
+            "[person_1] still has a lot of beard on his chin.",
+            "[person_1] has a camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] cuts his own chin?",
+        "answer": [
+            "The hand of [person_1] will bleed.",
+            "Perhaps his chin will bleed.",
+            "[person_1] will stop long jumping.",
+            "[person_1] will be splashed with water.",
+            "[person_1] will go out on a date."
+        ],
+        "reason": [
+            "The trimmer looks pretty sharp.",
+            "This room is not spacious enough for four people to dance together.",
+            "Because it's not the right method to throw bowling ball.",
+            "[person_1] jumped very quickly.",
+            "The hammer is quite heavy."
+        ]
+    }
+}

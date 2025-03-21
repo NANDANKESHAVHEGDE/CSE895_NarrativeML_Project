@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is skating in a stage.",
+            "[person_1] is \u00a0 playing in the room.",
+            "[person_1] is on the lake shore.",
+            "[person_1] is in his living room.",
+            "[person_1] is in the garden."
+        ]
+    },
+    "explanatory": {
+        "question": "How is [person_1] opening his legs?",
+        "answer": [
+            "[person_1] wants to keep balance for tai chi moves.",
+            "[person_1] feels bored after work.",
+            "[person_1] push the mattress in to help [person_1] landing.",
+            "With the rein.",
+            "Because gym equipment needs a place to be stored."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may keep trying to rank faster.",
+            "[person_1] is going to stand on the hands.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is lowering his arms again.",
+            "[person_1] is going to keep dancing."
+        ],
+        "reason": [
+            "[person_1] is a player.",
+            "Lowering his arms may be the next move in the tai chi drill.",
+            "[person_1] is dancing very enthusiastically.",
+            "[person_1] likes the dance.",
+            "[person_1] loves this action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not raising his arms?",
+        "answer": [
+            "[person_1] would move his arms to the left and then to the right.",
+            "[person_1] might hurt herself.",
+            "[person_1] may not drink.",
+            "[person_1] will be hurt.",
+            "The discus would not go that far."
+        ],
+        "reason": [
+            "Moving arms to the left and to the right is common moves in doing tai chi.",
+            "[person_1] would be hospitalized immediately.",
+            "The weights create much force on the shoulders because they are heavy.",
+            "The cake is under [person_1]'s head so [person_1] has to face down.",
+            "The edges aren't neat."
+        ]
+    }
+}

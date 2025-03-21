@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's white.",
+            "The shirt is gray.",
+            "The shirt is blue.",
+            "The shirt color is yellow.",
+            "The shirt is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is trying to play the harmonica.",
+            "[person_1] wants to explain how to play the clarinet.",
+            "[person_1] has nearsightedness.",
+            "when [person_1] looking at the mirror , the reflection looks like someone else.",
+            "Because [person_1] is lifting weights."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to share the beer with his friends.",
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] is going to dance another move.",
+            "[person_1] is going to lift again.",
+            "[person_1] is going to pass the broken boards to the person beside [person_1]."
+        ],
+        "reason": [
+            "Lowering the lifts is one of the movements of the exercise , but the lifts are raised now.",
+            "[person_1] is holding the weights.",
+            "[person_1] holds the beer and holds out his hand to his friend.",
+            "[person_1] is whistling for example.",
+            "[person_1] eats too much."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "Maybe [person_1] will help [person_1] up.",
+            "Perhaps [person_1] may keep playing and be more careful.",
+            "[person_1] will be hurt.",
+            "[person_1] will call adults.",
+            "The children will laugh."
+        ],
+        "reason": [
+            "[person_1] may not run.",
+            "The ground is hard.",
+            "Because [person_1]'s hand is on the juicer when [person_1] falls down.",
+            "[person_1] will be very hurt.",
+            "The weights is very heavy."
+        ]
+    }
+}

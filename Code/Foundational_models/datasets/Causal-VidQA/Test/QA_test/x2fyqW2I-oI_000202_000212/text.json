@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1] [tennis racket_1]?",
+        "answer": [
+            "It is pink.",
+            "[tennis racket_1] and [person_1] are are on the road.",
+            "It is white.",
+            "It is black.",
+            "[tennis racket_1] and [person_1] are in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the people play together?",
+        "answer": [
+            "[person_1] wants to avoid injuries.",
+            "They are playing a game of dominoes.",
+            "The people want to win the prize.",
+            "The room is dark.",
+            "[tennis racket_1] is the singer."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue climbing till her gets to the peak.",
+            "[person_1] will keep practicing to improve the skill.",
+            "[person_1] may swim towards [person_1].",
+            "[person_1] will dip in more paint.",
+            "Perhaps [person_1] will continue to fold the napkin."
+        ],
+        "reason": [
+            "[person_1] will practice typing the pen on the table because [person_1] just finished the tutorial.",
+            "Because [person_1] has successfully clipped her right eyelash with [person_1] and [person_1].",
+            "Because [person_1] are rapt in the practicing.",
+            "[person_1] is holding a ball in his hand.",
+            "Under the guidance of [person_1] , [person_1] may do the next set of more accurate movements."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it power is off?",
+        "answer": [
+            "The letter may be torn.",
+            "The people can stop practice.",
+            "The drink should be thrown.",
+            "The computer can not be used.",
+            "Then the boat may continue to drift forward."
+        ],
+        "reason": [
+            "The room becomes dark then.",
+            "The diver splashed on the others in the water , so the people on the shore felt funny.",
+            "The lake is very deep and it is difficult to look for it.",
+            "The rain makes the rock slippery.",
+            "The [tennis racket_1] has only one wheel."
+        ]
+    }
+}

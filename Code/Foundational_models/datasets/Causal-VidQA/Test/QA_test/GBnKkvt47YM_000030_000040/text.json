@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in outside.",
+            "[person_1] and [person_2] are in the living room.",
+            "[person_1] and [person_2] are in his office.",
+            "They are in roller skating rink.",
+            "[person_1] and [person_2] are in a log cabin."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the cymbals?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing \u00a0 basketball.",
+            "[person_1] is playing cymbals.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is playing the keyboard."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will come up the stairs.",
+            "Maybe [person_1] is going to move quicker.",
+            "[person_1] is going to eat spaghetti.",
+            "Maybe [person_1] is preparing to presentation.",
+            "[person_1] is going to perform with cymbals."
+        ],
+        "reason": [
+            "[person_1] has food on hand.",
+            "[person_1] is leaning forward to take the camera.",
+            "[person_1] is holding cymbals in her hands.",
+            "There are many sand on his feet.",
+            "[person_1] has many other bottles on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it's rain?",
+        "answer": [
+            "[person_1] will start performing.",
+            "[person_1] won't be able to score his team.",
+            "[person_1] will continue performing.",
+            "The [person_1] will save time when peeling by bare hands.",
+            "[person_1] will stop performing."
+        ],
+        "reason": [
+            "Extending arms helps [person_1] keep balance and slow down.",
+            "[person_1] will have to find a place to hide from the rain.",
+            "Because [person_1] loses the support.",
+            "[person_1] won't need to find a place to hide from the rain.",
+            "There is little space for [person_1] on the white drawer."
+        ]
+    }
+}

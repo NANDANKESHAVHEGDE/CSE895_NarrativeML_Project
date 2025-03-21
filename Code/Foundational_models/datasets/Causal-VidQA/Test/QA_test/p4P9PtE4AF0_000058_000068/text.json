@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does the [person_1] wear on his face?",
+        "answer": [
+            "The [person_1] is red.",
+            "It is black.",
+            "A helmet.",
+            "The bed [person_1] is lying on is dark blue.",
+            "Sunglasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] wear it?",
+        "answer": [
+            "Because the sound of the guitar is louder.",
+            "By waving the arms.",
+            "[person_1] is the singer.",
+            "[person_1] wore gloves and used a tool to wax back for him.",
+            "Because the sunshine is too strong."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do then?",
+        "answer": [
+            "[person_1] will go back home.",
+            "[person_1] will start to hide.",
+            "[person_1] is going to swim.",
+            "The [person_1] is going to wash clothes in them.",
+            "The [person_1] will focus on the riding."
+        ],
+        "reason": [
+            "Because [person_1] seems to want to achieve a good performance.",
+            "Because [person_1] seems to be exhausted and stops practicing.",
+            "Because [person_1] should be careful when riding.",
+            "Because the eyes of [person_1] are always on food , so [person_1] may not be interested in the conversation , but only in food.",
+            "[person_1] is coughing and [person_1] needs water to moisturize his throat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will the [person_1] do if it rains suddenly?",
+        "answer": [
+            "The [person_1] will fall off the bike.",
+            "The [person_1] will go home.",
+            "[person_1] will hug the dog.",
+            "The [person_1] will go from home.",
+            "The [person_1] will not feel more comfortable."
+        ],
+        "reason": [
+            "Should only wax under and between the brows , never over them . Waxing above the brows can result in an unnatural look.",
+            "Because riding in the rain will prevent people from cold.",
+            "[person_1] combs his hair by his hand and a comb , if he throws his comb to the floor , then he will use his hand to comb his hair.",
+            "Because riding in the rain will make people catch a cold.",
+            "[person_1] is a baby."
+        ]
+    }
+}

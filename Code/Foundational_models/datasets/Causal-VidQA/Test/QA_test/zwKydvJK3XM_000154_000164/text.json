@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is at the basketball court.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_4] have to be in a wheelchair?",
+        "answer": [
+            "Because [person_4] has a disability.",
+            "[person_4] is exercising.",
+            "The towel will increase the friction between his hand and the bottleneck.",
+            "[person_4] is squeezing oranges with a juicer.",
+            "[person_4] is expressing his opposition."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will move the sofa to another side of the room.",
+            "[person_1] will continue to play basketball.",
+            "Perhaps [person_1] will continue punching the mannequin.",
+            "[person_1] will continue to practice.",
+            "[person_1] will ask her parents for help."
+        ],
+        "reason": [
+            "[person_1] is smiling to the camera.",
+            "[person_1] is moving the sofa ahead.",
+            "Because [person_1] is turning the steering wheel.",
+            "Maybe [person_1] is practicing.",
+            "Because [person_1]'s wife handles the money."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] walks normally?",
+        "answer": [
+            "The others may continue to play the game.",
+            "[person_1] will be able to play basketball",
+            "[person_1] could not be able to play.",
+            "[person_1] may not eat other dish.",
+            "The juice in it will come out."
+        ],
+        "reason": [
+            "[person_1] will not be in a wheelchair.",
+            "When [person_3] stands up , the team is putting their arms around to make a cheer.",
+            "[person_1] and [person_1] have gone a far way.",
+            "Because usually success will give people a sense of achievement.",
+            "[person_1] and [person_1] like oranges and buy a lot of oranges."
+        ]
+    }
+}

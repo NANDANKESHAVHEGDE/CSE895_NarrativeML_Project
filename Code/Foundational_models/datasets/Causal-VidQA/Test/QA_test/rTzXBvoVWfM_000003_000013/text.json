@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is listening to a man sitting in front of her.",
+            "[person_1] is raising his hands and shouting.",
+            "[person_1] is reading a fairy tale book.",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is opening the box of a gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising his hands and shouting?",
+        "answer": [
+            "Maybe the teacher called him.",
+            "[person_1] is celebrating because he threw the ball in the basket.",
+            "[person_1] is scared of the firework explosion.",
+            "[person_1] is playing the harmonica.",
+            "Stacking with a long cup is an advanced level."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_4] next?",
+        "answer": [
+            "[person_4] will congratulate [person_1].",
+            "[person_1] will continue to push [person_1].",
+            "[person_1] will continue to perform her yoga technique and once she is finished she will perform a different yoga position.",
+            "[person_1] will close her mouth around the lollipop to suck it better so she can finish it more effectively.",
+            "[person_1] is going to continue learning to spin plates."
+        ],
+        "reason": [
+            "[person_4] has just fallen on the grass.",
+            "[person_4] is a child and may accidentally swallow soap bubbles.",
+            "[person_4] held paper strips to remove the wax.",
+            "[person_4] is also raising his hands.",
+            "[person_4] has not shown all the techniques."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the ball slips out of the basket?",
+        "answer": [
+            "[person_4] will try again.",
+            "The ball will fall on the head of [person_4].",
+            "[person_4] will be much easier.",
+            "[person_4] will continue to practice.",
+            "[person_4] will be very happy."
+        ],
+        "reason": [
+            "[person_4] is standing near the basket.",
+            "There are many ingredients on the table.",
+            "To fix the snow blower.",
+            "To help fix the shed.",
+            "[person_4] will stand on the car."
+        ]
+    }
+}

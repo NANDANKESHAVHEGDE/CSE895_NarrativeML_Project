@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in the bathtub.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the bedroom?",
+        "answer": [
+            "[person_1] is practicing his skating skills.",
+            "[person_1] wants to keep fit.",
+            "[person_1] is playing chess.",
+            "[person_1] is trying out didgeridoo.",
+            "[person_1] lets the drill speedily rotate the apple while he is holding a peeler on the skin."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will hug everyone.",
+            "[person_1] will probably put pieces of paper in the printer.",
+            "[person_1] will look at the paper in front of her.",
+            "[person_1] is highly likely to knock on the gong.",
+            "It is predicted that [person_1] will not be able to play didgeridoo."
+        ],
+        "reason": [
+            "[person_1] plays the gong very enthusiastically and his hands move non - stop.",
+            "Because that pot of vegetables needs to be cooked before they can be eaten.",
+            "[person_1] switched the hammer into another hand.",
+            "[person_1] is raising his hand high.",
+            "[person_1] plays didgeridoo for a while by blowing air into it and then releasing it immediately."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues to play didgeridoo?",
+        "answer": [
+            "[person_1] may go back and stop trying.",
+            "[person_1] will end up folding napkin.",
+            "[person_1] may fold the paper again.",
+            "[person_1] will be exhausted.",
+            "[person_1] will feel pain and may be injured."
+        ],
+        "reason": [
+            "The [person_1] does not skate.",
+            "Because the chair is in a high position in comparison with the ground.",
+            "It takes a lot of breath to play didgeridoo.",
+            "It is so smooth that someone may slide.",
+            "[person_1] and [person_1] will hit the opposite person and fall."
+        ]
+    }
+}

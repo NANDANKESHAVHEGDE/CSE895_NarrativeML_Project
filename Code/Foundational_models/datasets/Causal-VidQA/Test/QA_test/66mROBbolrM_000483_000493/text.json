@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is opening present.",
+            "[person_1] is playing gongs.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is striking the bottle to the wall.",
+            "[person_1] is digging pulp from the coco."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear the strap of the accordion?",
+        "answer": [
+            "To stick the bolt with the cork and then pull the bolt out.",
+            "The [person_1] wears glasses to see small bass buttons easier.",
+            "It seems that the person put an animal in the [person_1].",
+            "[person_1] roasts marshmallows with other's help.",
+            "[person_1] wants to stick the accordion to the body and control the accordion conveniently."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue opening the gift.",
+            "[person_1] will put down the snorkel.",
+            "[person_1] is going to open present.",
+            "[person_1] may keep trying to drink.",
+            "[person_1] will pull the bellows and press the keys."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] is going to enjoy the melody.",
+            "[person_1] is playing the accordion and will need to pull the bellows and press the keys to create music.",
+            "[person_1] stops shaking the rope.",
+            "There is a microphone in front of him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not in this room?",
+        "answer": [
+            "The atmosphere is still romantic.",
+            "The match will not take place.",
+            "[person_1] would laugh harder.",
+            "[person_1] will not be recorded.",
+            "[person_1] may be scolded by the teacher."
+        ],
+        "reason": [
+            "Because [person_1] falls when she has not finished her turn.",
+            "[person_1] was injured.",
+            "[person_1] only has a glass.",
+            "[person_1] won't be able to continue play.",
+            "Because a camera is in the room."
+        ]
+    }
+}

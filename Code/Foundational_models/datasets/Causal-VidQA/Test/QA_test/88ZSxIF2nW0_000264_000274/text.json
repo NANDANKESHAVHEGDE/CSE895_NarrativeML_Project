@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it sunny?",
+        "answer": [
+            "[person_1] is on the chair.",
+            "[person_1] is wearing it in front of her.",
+            "Yes , it is.",
+            "[person_1] is placed next to [person_1].",
+            "It is \u00a0 behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is relaxing.",
+            "[person_1] is shearing his sheep for wool.",
+            "[person_1] is trying to slackline.",
+            "Maybe [person_1] is managing workers who are cutting wood.",
+            "Because [person_1] is smoking."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drink water.",
+            "[person_1] is going to shear the whole sheep.",
+            "[person_1] is going to lift the donuts box on the [person_1].",
+            "[person_1] will collect honey.",
+            "[person_1] is going to bow down to fondle a kangaroo."
+        ],
+        "reason": [
+            "To ask for [person_1]'s agreement with the proposal.",
+            "There are many other goats waiting for food from [person_1].",
+            "[person_1] worked on part of sheep fast and professionally.",
+            "[person_1] is returning to the starting point of the game.",
+            "[person_1] keeps talking about blackjack."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] might plant trees.",
+            "[person_1] would stop shearing to go inside and wait.",
+            "[person_1] may find a shelter.",
+            "[person_1] would go back the garage.",
+            "[person_1] would stop reading to go inside."
+        ],
+        "reason": [
+            "Electricity is necessary to the concert.",
+            "Although [person_1] is wearing rain boots , [person_1] does not bring an umbrella.",
+            "[person_1] and [person_1] don't have an umbrella.",
+            "[person_1] , [person_1] and [person_1] are outside and they don't have any umbrella.",
+            "[person_1] is outside and the wool would get wet."
+        ]
+    }
+}

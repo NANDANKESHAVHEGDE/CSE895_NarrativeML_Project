@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "It is \u00a0 behind and on the right of [person_1].",
+            "[person_1] is on the [person_1] behind the [person_1].",
+            "[person_1] is in front of table which is blue.",
+            "[person_1] is behind the [person_1] and [person_1].",
+            "[person_1] is wearing winter clothes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] moving?",
+        "answer": [
+            "[person_1] and [person_1] are playing chess.",
+            "Because there are many cars passing in front of [person_1].",
+            "[person_1] wants to keep balance.",
+            "[person_1] is shaving.",
+            "[person_1] is outside to play music."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put his hand in his mouth.",
+            "[person_1] keeps practicing.",
+            "[person_1] fell down and his knees were on the ground.",
+            "[person_1]'ll give the money to his wife.",
+            "[person_1]'ll come down."
+        ],
+        "reason": [
+            "[person_1] looks at the chessboard attentively.",
+            "[person_1] is looking up at someone.",
+            "[person_1] focuses on the balance skill.",
+            "[person_1] choked on smoke and coughed.",
+            "[person_1] will continue to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't move?",
+        "answer": [
+            "The plate would fly.",
+            "Maybe the tree would be die.",
+            "The plate would drop.",
+            "The woman would feel bored.",
+            "The plate would stay."
+        ],
+        "reason": [
+            "The plane may stop working and fall down.",
+            "[person_1] moved to keep balance.",
+            "The tree would be die if [person_1] didn't water.",
+            "[person_1] moved to lose balance.",
+            "[person_1] would not be able to appear to dance with."
+        ]
+    }
+}

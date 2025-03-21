@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the jeans [person_1] wearing ?",
+        "answer": [
+            "It is red.",
+            "It is blue.",
+            "It is orange.",
+            "[person_1] is \u00a0 wearing a white T - shirt.",
+            "It is purple."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting ?",
+        "answer": [
+            "[person_1] is playing guitar.",
+            "[person_1] does it to playing the gongs.",
+            "[person_1] is not able to walk yet.",
+            "[person_1] takes each cup and arranges them higher and higher.",
+            "[person_1] is waiting for his turn to cut his hair."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do ?",
+        "answer": [
+            "[person_1] intends to turn off the camera.",
+            "It is possible that [person_1] will keep shouting;",
+            "It is possible that [person_1] will play the guitar.",
+            "[person_1] has an intention of playing tug of war.",
+            "[person_1] tends to make the basket with great skill."
+        ],
+        "reason": [
+            "The guitar is in the hands of [person_1].",
+            "Because [person_1] is showing [person_1] how to fold clothes.",
+            "[person_1] is having fun.",
+            "Maybe [person_1] finishes the song.",
+            "Maybe [person_1] has been practicing for a long time."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is sick ?",
+        "answer": [
+            "[person_1] and [person_1] will play together.",
+            "[person_1] will be very tired.",
+            "[person_1] will stop.",
+            "[person_1] will have to see a doctor.",
+            "[person_1] will send the makeup video to public."
+        ],
+        "reason": [
+            "Maybe [person_1] will take a break.",
+            "[person_1] will need to take a rest.",
+            "[person_1] and [person_1] are dancing together.",
+            "[person_1] will not play guitar.",
+            "[person_1] will have to rest."
+        ]
+    }
+}

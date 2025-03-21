@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the room.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the cup ?",
+        "answer": [
+            "Because [person_1] is arranging the cups.",
+            "Because [person_1] wants to sharpen the pencil.",
+            "Because [person_1] wants to play the gong.",
+            "Because that helps [person_1] tie the bow more accurately.",
+            "[person_1] is skating backward."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably go on folding the napkin.",
+            "[person_1] will display his good work of the opening.",
+            "[person_1] will keep walking.",
+            "[person_1] will have a rest.",
+            "[person_1] continues to arrange cups."
+        ],
+        "reason": [
+            "Maybe [person_1] wants to keep the cups neat.",
+            "[person_1] is a service , who cannot join in the customers.",
+            "[person_1] is spreading the napkin to fold.",
+            "[person_1] is a baker and [person_1] is adding flour into cake pan to bake.",
+            "Because only the big wood in front has not been cut."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cups break?",
+        "answer": [
+            "[person_1] will feel regret.",
+            "Things fall all over the floor.",
+            "[person_1] will have a bad fall.",
+            "[person_1] could not get the paper.",
+            "[person_1] won't be able to lift it."
+        ],
+        "reason": [
+            "They would have no music to follow.",
+            "Because the cups look very expensive.",
+            "Because the cushion is soft.",
+            "Because there is no protection.",
+            "The poster would not be printed."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing next to the [dining table_1] ?",
+        "answer": [
+            "Because [person_1] doesn't know how to play the clapping game.",
+            "[person_1] is stacking dice.",
+            "[person_1] is squeezing oranges.",
+            "To keep him steady because [person_1] only stands on one leg.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to pick up the dice.",
+            "[person_1] is going to lie on the ground.",
+            "[person_1] is going to kneel on the ground.",
+            "[person_1] is going to keep enjoying.",
+            "[person_1] is going to use his hand to tamp the soil."
+        ],
+        "reason": [
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] dropped the dice on the floor.",
+            "[person_1] is having his turn next.",
+            "[person_1] stomped continuously.",
+            "[person_1] placed the gift on the sheet of paper , measured the gift , and put the ruler to cut."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] trains hard?",
+        "answer": [
+            "[person_1] , [person_1] , [person_1] , [person_1] and [person_1] will gather around [person_1].",
+            "They would pick [person_1] up.",
+            "[person_1] will stand up.",
+            "[person_1] , [person_1] and [person_1] will be exited.",
+            "[person_1] will play better."
+        ],
+        "reason": [
+            "[person_1] won't drop the dice anymore.",
+            "[person_1] is watching carefully and ready.",
+            "[person_1] loves it and won't give it up easily.",
+            "Because there is no other oven to use.",
+            "There is nobody in the room."
+        ]
+    }
+}

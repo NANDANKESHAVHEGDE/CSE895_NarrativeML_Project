@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [traffic light_1]?",
+        "answer": [
+            "It is narrow.",
+            "It is large.",
+            "The room is small.",
+            "[traffic light_1] is near [person_1].",
+            "The room is very bright."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is opening her gift.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is talking about something.",
+            "[person_1] is warming up.",
+            "[person_1] is whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to do workout.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to bed.",
+            "[person_1] is going to take the sheets away."
+        ],
+        "reason": [
+            "[person_1] is also eager to open presents.",
+            "[person_1] is spraying paint.",
+            "[person_1] looks very serious about exercising.",
+            "[person_1] is landing on the street.",
+            "[person_1] finds hopscotch interesting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does workout everyday?",
+        "answer": [
+            "[person_1] may be in excellent health.",
+            "[person_1] will stop doing exercises.",
+            "Maybe the wine glasses will be broken.",
+            "[person_1] felt surprised.",
+            "[person_1] does not know how to play soil."
+        ],
+        "reason": [
+            "Because [person_1] has disrupted the order of wedding.",
+            "Doing exercises can build physical strength.",
+            "He doesn't want to appear on the public.",
+            "Because [person_1] would not be able to take [person_1]'s picture with his phone anymore.",
+            "The room will be dark."
+        ]
+    }
+}

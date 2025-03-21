@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [toothbrush_1]?",
+        "answer": [
+            "It is brown.",
+            "[toothbrush_1] is wearing a white shirt and tie.",
+            "The white bucket is placed on [toothbrush_1].",
+            "It's a white plaid shirt.",
+            "[toothbrush_1] is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] brushing something on the table?",
+        "answer": [
+            "[person_1] is moving his arms to the left and to then to the right.",
+            "[person_1] is grinding something.",
+            "[person_1] feels comfortable while exercising.",
+            "[person_1] is moving the arms up and down , left to right.",
+            "[person_1] is standing a little lower than the ground."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep moving the tool in his hands.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to start eating.",
+            "[person_1] will huddling with the team."
+        ],
+        "reason": [
+            "[person_1]'s arms were intertwined.",
+            "[person_1] is practicing very hard.",
+            "[person_1] was smiling.",
+            "[person_1]'s hands are still holding the tool and keep moving continuously.",
+            "[person_1] feels hot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would [person_1] do if [person_1] didn't sit on the chair?",
+        "answer": [
+            "[person_1] could fold clothes on the table.",
+            "[person_1] would feel tired.",
+            "[person_1] wouldn't tease [person_1].",
+            "The hoop may fall down.",
+            "The [person_1] could get hurt."
+        ],
+        "reason": [
+            "Nobody comes to [person_1] to help him out , so he just has to stare at the floor and let his mind wander.",
+            "It takes [person_1] a certain amount of time to finish the work.",
+            "[person_1] would be have muscle contractions.",
+            "The [person_1] is on the [person_1].",
+            "Many people failed that challenge."
+        ]
+    }
+}

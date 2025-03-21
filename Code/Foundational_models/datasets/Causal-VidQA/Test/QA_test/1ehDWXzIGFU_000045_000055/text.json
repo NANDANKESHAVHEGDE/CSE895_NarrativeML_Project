@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [laptop_1]?",
+        "answer": [
+            "It is in front of the [person_1].",
+            "[laptop_1] is in the back of [person_1].",
+            "[person_1] is parked on the runway behind [person_1].",
+            "[laptop_1] is in a garage.",
+            "It is \u00a0 behind and on the right of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] given the [laptop_1]?",
+        "answer": [
+            "[person_1] is watching the swimming competition.",
+            "[person_1] finds stomping the grapes funnier than [laptop_1] does.",
+            "Because [person_1] wanted to take the newspaper inside.",
+            "Because he is given it on him birthday.",
+            "[person_1] is a child and needs help."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing the toy car?",
+        "answer": [
+            "[person_1] will pick it up and play with it.",
+            "[person_1] will repeat action after spinning.",
+            "[person_1] will discover the sea with [person_1].",
+            "[person_1] will take out his phone.",
+            "[person_1] will stop and have a rest."
+        ],
+        "reason": [
+            "Because [person_1] is the one who threw it and it looks like he wants to play more.",
+            "[person_1] threw the ball into the basket , so [person_1] might want to pick it up back from the ground.",
+            "[person_1] is the winner of the award.",
+            "The person in gray is pointing at the bag.",
+            "It is obvious that [person_1] feels happy to own a toy car."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if power is off?",
+        "answer": [
+            "[person_1] can open the [laptop_1].",
+            "[person_1] will have pretty hair.",
+            "[person_1] can't open the [laptop_1].",
+            "The hand of [laptop_1] will blood.",
+            "[person_1] can't close the [laptop_1]."
+        ],
+        "reason": [
+            "The room will become dark then.",
+            "Otherwise the dancer will fall easily.",
+            "The room will become bright then.",
+            "The weight of weight lifting is too much for him.",
+            "The room will become cool then."
+        ]
+    }
+}

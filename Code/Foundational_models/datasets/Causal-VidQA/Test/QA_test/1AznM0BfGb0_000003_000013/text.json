@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "[person_1] is standing on the grass.",
+            "[person_1] is looking at a book.",
+            "[person_1] is standing on the rubber floor.",
+            "[person_1] is standing in front of the exit.",
+            "[person_1] is in a kitchen."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on just on leg?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] is training his balance.",
+            "[person_1] is holding the didgeridoo in his hands to play.",
+            "[person_1] may not know how to tie a bow for himself.",
+            "Because [person_1] is taking care of flowers"
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] might call the adult.",
+            "[person_1] will set the table.",
+            "[person_1] will check her mark.",
+            "[person_1] tends to keep training.",
+            "[person_1] is going to comment about the javelin throw."
+        ],
+        "reason": [
+            "[person_1] doesn't look tired.",
+            "[person_1] kisses [person_1] twice before.",
+            "Juggle the poi is one of the skills in spinning poi.",
+            "[person_1] is the judge of the competition.",
+            "[person_1] has not finished her exercise yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the legs of [person_1] hurts?",
+        "answer": [
+            "The [person_1] will use this concrete materials to lay.",
+            "[person_1] will be able to train this exercise.",
+            "[person_1] will continue to dance.",
+            "[person_1] will not be able to train this exercise.",
+            "[person_1] will run after [person_1]."
+        ],
+        "reason": [
+            "It is very cold and there is snow on the ground.",
+            "This exercise requires no strength of the legs.",
+            "The most commonly eaten meat is beef , mutton and pork.",
+            "This exercise requires certain strength of the legs.",
+            "The power sockets is a bridge between electricity and the equipment that need electricity."
+        ]
+    }
+}

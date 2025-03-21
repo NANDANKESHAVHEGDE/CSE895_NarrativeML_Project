@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is stacking dices.",
+            "[person_1] is opening the door.",
+            "[person_1] is sitting by the desk.",
+            "[person_1] is shooting basketball.",
+            "[person_1] is opening a bottle."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] shoot basketball?",
+        "answer": [
+            "Because [person_1] is snatching weight lifting.",
+            "Maybe [person_1] is being treated for insomnia.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is jumping to throw the ball through the basket.",
+            "The knees and hips straighten out , then [person_1] raises himself into the air for power."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will put the new tire on the car.",
+            "[person_1] will stop playing with the cups.",
+            "[person_1] will continue playing basketball.",
+            "[person_1] will row down to the boy.",
+            "[person_1] will ask for another high - five."
+        ],
+        "reason": [
+            "[person_1] is trying to hand up.",
+            "Because [person_1] just finished a stroke.",
+            "[person_1] seems to enjoy it a lot.",
+            "[person_1] is very focused.",
+            "Then [person_1] will start playing harp."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] shoots basketball too high?",
+        "answer": [
+            "[person_1] can't shoot.",
+            "They would clean it up together.",
+            "[person_1] can score.",
+            "[person_1] might not be finish his throw as good.",
+            "[person_1] can't score."
+        ],
+        "reason": [
+            "[person_1] is lying on the floor.",
+            "[person_1] can only score if [person_1] drives to the basket.",
+            "[person_1] was a child.",
+            "[person_1] cannot score if [person_1] drives to the basket.",
+            "[person_1] would be to tall for the machine."
+        ]
+    }
+}

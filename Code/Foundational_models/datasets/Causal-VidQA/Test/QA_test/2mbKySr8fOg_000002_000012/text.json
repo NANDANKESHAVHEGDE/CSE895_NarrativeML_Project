@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] is wearing?",
+        "answer": [
+            "The shirt is beige.",
+            "The shirt is black.",
+            "It looks like a hand.",
+            "White.",
+            "It's a white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a basketball ?",
+        "answer": [
+            "[person_1] is doing a circus.",
+            "[person_1] does not want to fall.",
+            "[person_1] is planing wood.",
+            "[person_1] is playing basketball with his son.",
+            "[person_1] wants to improve the knowledge."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to hold the camera.",
+            "[person_1] is going to rebound and pass to his son.",
+            "[person_1] may wash his feet.",
+            "[person_1] is going to stop the video.",
+            "[person_1] is going to continue laughing."
+        ],
+        "reason": [
+            "[person_1] is jumping very high.",
+            "[person_1] almost dropped the plate.",
+            "[person_1]'s son just shot in the basket.",
+            "[person_1] is a beginner.",
+            "[person_1] finished the action successfully and smiled"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the ball suddenly breaks?",
+        "answer": [
+            "Then they can't cook.",
+            "There will be traces left on the console.",
+            "The cosmetics would fall to the floor.",
+            "[person_1] will not be able to continue playing.",
+            "[person_1] will look at [person_1]."
+        ],
+        "reason": [
+            "If there is no table and there is no place for cooking , they can't cook.",
+            "Because [person_1] just started learning today.",
+            "[person_1] will see a doctor.",
+            "[person_1] will need a new ball.",
+            "Because rolling dough is so tired."
+        ]
+    }
+}

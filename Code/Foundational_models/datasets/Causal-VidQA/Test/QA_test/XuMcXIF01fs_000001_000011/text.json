@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [backpack_1]?",
+        "answer": [
+            "[backpack_1] is on the road and next to the [backpack_1].",
+            "It is on the side of the road.",
+            "[backpack_1] is on the table.",
+            "It is on the wooden box.",
+            "[backpack_1] is behind the [backpack_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] throw snow?",
+        "answer": [
+            "Maybe [person_1] is playing an instrument.",
+            "Because [person_1] is playing with [person_2].",
+            "[person_1] wants to keep fit and healthy.",
+            "[person_1] is watching the swimming competition.",
+            "[person_1] is feeling shy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] maybe will give food to customers.",
+            "[person_1] will stand here.",
+            "[person_1] is turning around to get the comb.",
+            "[person_1] is going to collect snow.",
+            "[person_1] is going to lift the barbell."
+        ],
+        "reason": [
+            "[person_1] lifted the heel of the trailing skate and bent forward.",
+            "Because [person_2] is throwing snow at [person_1].",
+            "The reflection in the ball is not the same as his own appearance , which will arouse his curiosity.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "The hands of [person_1] are still holding the cleaning cloth and he sees to be looking for the next place to wipe."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [backpack_1] fell?",
+        "answer": [
+            "The baby's parents would change the batteries.",
+            "The [pack back_1] would not know what the [pack back_1] was given.",
+            "[pack back_1] could be dirty.",
+            "The person who has the arm held tightly by [backpack_1] will get angry.",
+            "The [pack back_1] would take it."
+        ],
+        "reason": [
+            "Because [backpack_1] fell to the ground with snow.",
+            "The distance between the bookshelf and [backpack_1] is quite close.",
+            "There would be fewer things to see in the room.",
+            "Because [backpack_1] could not lean the back of [backpack_1] in the chair.",
+            "Maybe [backpack_1] is a body expert."
+        ]
+    }
+}

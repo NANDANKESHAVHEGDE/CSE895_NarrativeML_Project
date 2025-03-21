@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [truck_1]?",
+        "answer": [
+            "It is white.",
+            "[truck_1] is placed on the ground.",
+            "It is rectangular.",
+            "[truck_1] is male.",
+            "The [truck_1] is used for playing badminton."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the sheep?",
+        "answer": [
+            "[person_1] and [person_1] are judges of a tai chi contest.",
+            "Because the [person_1] is looking for something in the [person_1].",
+            "[person_1] is shearing a sheep for wool.",
+            "Because the [person_1] wanted to take something from inside.",
+            "Because [person_1] is playing pen tapping."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next?",
+        "answer": [
+            "[person_1] will take more bird food out of the package.",
+            "[person_1] will continue shearing the sheep.",
+            "[person_1] will take the hand out of the cup.",
+            "[person_1] will put more bricks on block.",
+            "[person_1] may lean towards the mirror."
+        ],
+        "reason": [
+            "[person_1] ran towards the recorder after dropping the hoop.",
+            "It seems that [person_1] is still paying attention on the board with a pen on his hand.",
+            "Because [person_1] seems to have finished the work and stepped back.",
+            "[person_1] rides the unicycle out of the camera and keeps riding.",
+            "It seems that [person_1] does not finish the work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no electricity?",
+        "answer": [
+            "The [person_1]'s dress will be wet.",
+            "[person_1] could not sell sheep's wool.",
+            "[person_1] will throw it away.",
+            "[person_1] will call the police.",
+            "The two teams will fall to either side."
+        ],
+        "reason": [
+            "Because [person_1] and [person_1] do not have a complete birthday party with the birthday cake.",
+            "[person_1] will change the rope.",
+            "The shearing machine can not work without power and [person_1] can not shear sheep.",
+            "[person_1] and [person_1] are attached to the same rope.",
+            "The fish will swim to find food."
+        ]
+    }
+}

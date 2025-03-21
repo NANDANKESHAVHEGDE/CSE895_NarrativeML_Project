@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is on the table and behind [person_1].",
+            "[person_1] is in the kitchen.",
+            "[cup_1] is in the left hand side of [person_1].",
+            "[cup_1] is on the table behind [person_1].",
+            "[cup_1] is on the dining table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise [person_1]'s head?",
+        "answer": [
+            "[person_1] is learning to ride [person_1].",
+            "Maybe [person_1] likes to smoke.",
+            "[person_1] raises [person_1]'s head to say something.",
+            "[person_1] and [person_1] are practicing the clarinet.",
+            "[person_1] , [person_1] and [person_1] are practicing together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will keep shaving [person_1]'s left leg.",
+            "Maybe [person_1] will stand up.",
+            "[person_1] will go home.",
+            "[person_1] will go to find some carrots.",
+            "[person_1] will keep this gesture for a while and then change to another."
+        ],
+        "reason": [
+            "Because [person_1] has gone to the helm.",
+            "Because [person_1] squats down next to the wheel.",
+            "Because [person_1] has tried hard to do rope climbing which will let [person_1] be tired.",
+            "[person_1] will keep shaving [person_1]'s left leg until the foam is gone.",
+            "Because [person_1] is too young to keep so much money."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't bend over?",
+        "answer": [
+            "[person_1] would feel scary.",
+            "They will try one by one.",
+            "[person_1] may trip over the goat next to her.",
+            "[person_1] needs emergency treatment right away.",
+            "[person_1] would hurt herself with a razor."
+        ],
+        "reason": [
+            "Normally , [person_1] will kiss [person_1] on her face.",
+            "[person_1] would herself with a razor because [person_1] could not see where [person_1] is shaving.",
+            "Because [person_1] is not as fast as the boy , so [person_1] didn't grab the ball.",
+            "The [person_1] sits far away from the tightrope.",
+            "Because [person_1] lost her balance so [person_1] might fall."
+        ]
+    }
+}

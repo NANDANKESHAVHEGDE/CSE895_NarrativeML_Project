@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt pants [person_1] is wearing?",
+        "answer": [
+            "Yes.",
+            "The hair is yellow.",
+            "No.",
+            "It is black.",
+            "The [person_1] is behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is reading [person_1].",
+            "Maybe [person_1] wants to practice kickball.",
+            "[person_1] is roller skating slowly in the room.",
+            "Because [person_1] is playing in the room.",
+            "Maybe [person_1] is taking part in a competition on playing the lute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will try to skating faster.",
+            "[person_1] will continue playing in the room.",
+            "[person_1] will check his result.",
+            "[person_1] will use another hand to shake.",
+            "[person_1] will keep dancing."
+        ],
+        "reason": [
+            "[person_1] is practicing running.",
+            "[person_1] is moving the sofa ahead.",
+            "[person_1] is starting to follow.",
+            "[person_1] will keep skating.",
+            "[person_1] has held the branch and is ready to climb the tree."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The machine will stop working.",
+            "[person_1] will stop instructing.",
+            "[person_1] may not keep jumping.",
+            "The microphone will not be worked.",
+            "The room will be dark then."
+        ],
+        "reason": [
+            "[person_1] will hug the man.",
+            "[person_1] will stop skating.",
+            "[person_1] will stop smoking.",
+            "[person_1] will may stop talking.",
+            "[person_1] will stop somersaulting."
+        ]
+    }
+}

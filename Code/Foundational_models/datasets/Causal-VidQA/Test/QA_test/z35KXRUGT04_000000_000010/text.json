@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] has dark skin.",
+            "[person_1] is quite old.",
+            "[person_1] has a long hair.",
+            "[person_1] looks big.",
+            "[person_1] looks friendly."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the table?",
+        "answer": [
+            "To propose to [person_1].",
+            "Because it's easy to get over there.",
+            "They are here to practice saluting.",
+            "[person_1] is looking at the book on the table to play the flute.",
+            "Because the door is tight."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand playing the flute.",
+            "[person_1] is going to turn left.",
+            "[person_1] is going to water the plants.",
+            "[person_1] is going to continue practicing.",
+            "[person_1] is going to cut the wood."
+        ],
+        "reason": [
+            "[person_1] has no intention of stopping playing the flute.",
+            "[person_1] is very cool.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] is going to talk with her friend.",
+            "[person_1] needs to recover."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the TV turns on?",
+        "answer": [
+            "[person_1] may be the next one to do it.",
+            "[person_1] will record it again.",
+            "[person_1] will not turn on the faucet.",
+            "[person_1] may fall down.",
+            "[person_1] will not be able to concentrate on playing the flute."
+        ],
+        "reason": [
+            "[person_1] jumped and stood up.",
+            "[person_1] is fragile.",
+            "He was scared about the broken vase.",
+            "[person_1] only has a glass.",
+            "The room became very noisy."
+        ]
+    }
+}

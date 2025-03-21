@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [bicycle_1]?",
+        "answer": [
+            "[bicycle_1] is behind [bicycle_1].",
+            "[bicycle_1] is wearing a plaid sweatshirt.",
+            "[bicycle_1] is wearing a jacket.",
+            "[bicycle_1] is next to [bicycle_3].",
+            "[bicycle_1] is wearing a white dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in a wheelchair?",
+        "answer": [
+            "Perhaps [person_1] loves it.",
+            "To look beautiful.",
+            "[person_1] is already married.",
+            "Maybe [person_1] is footsore and can't walk.",
+            "The [person_1] is polishing the table."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to do more somersaults.",
+            "[person_1] intends to try walking on the rope again.",
+            "[person_1] intends to put down the cards.",
+            "[person_1] intends to lift himself up and move to the wheelchair next to him.",
+            "[person_1] is likely to put on foundation."
+        ],
+        "reason": [
+            "The right hand's [person_1] is holding the bradawl and putting the gong.",
+            "[person_1] will turn off after the conversation ends.",
+            "Maybe [person_1] wants to pluck the strings above.",
+            "[person_1] is footsore so [person_1] is practicing to be able to stand and walk.",
+            "[person_1] is dancing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] practice every day?",
+        "answer": [
+            "Both [person_1] and [person_1] will get wet.",
+            "It is possible that [person_1] will able to stand and walk.",
+            "[person_1] would ask [person_1] why.",
+            "It is impossible that [person_1] will able to stand and walk.",
+            "[person_1] will be hurt."
+        ],
+        "reason": [
+            "Because [person_1] failed his jump.",
+            "[person_1] wants [person_1] growing.",
+            "Daily practice will be harmful for his feet recover.",
+            "The others are very interested in the game.",
+            "Daily practice will help his feet recover."
+        ]
+    }
+}

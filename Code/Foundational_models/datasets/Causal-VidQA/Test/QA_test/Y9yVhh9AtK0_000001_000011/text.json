@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1]?",
+        "answer": [
+            "[car_1] is young and small.",
+            "It is lying on the floor.",
+            "[car_1] is parking on the road.",
+            "[car_1] is making a proposal now.",
+            "It is at the corner of the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] bouncing the ball on the ground?",
+        "answer": [
+            "[person_1] is playing guitar.",
+            "[person_1] is playing cymbals.",
+            "[person_1] cannot stand up.",
+            "[person_1] is playing basketball.",
+            "[person_1] is taking about shaving."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to throw another ball.",
+            "Maybe [person_1] is going to start taking photo.",
+            "[person_1] will get the job done.",
+            "[person_1] is highly likely to laugh.",
+            "[person_1] is going to come back home."
+        ],
+        "reason": [
+            "[person_1] is holding the bottle.",
+            "[person_1] is holding a glass of water.",
+            "Maybe [person_1] will continue playing.",
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] catch [sports ball_1] and turn back to the basketball hoop stand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [sports ball_1] rolls too fast on the ground?",
+        "answer": [
+            "Then people here will leave.",
+            "[person_1] and [sports ball_1] would be punished.",
+            "[sports ball_1] may leave the station.",
+            "[person_1] won't see anything.",
+            "[person_1] can't throw another ball."
+        ],
+        "reason": [
+            "Shaving makes [person_1] looks younger and more handsome.",
+            "Because [sports ball_1] needs to be examined.",
+            "[person_1] is trying to pick up [sports ball_1] to throw another round.",
+            "Shaved beards will still stick to the cheeks of [person_1].",
+            "Shaving is a way to make [person_1] look more handsome."
+        ]
+    }
+}

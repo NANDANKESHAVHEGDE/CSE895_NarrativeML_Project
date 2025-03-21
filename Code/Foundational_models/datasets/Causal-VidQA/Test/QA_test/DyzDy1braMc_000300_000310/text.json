@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] ?",
+        "answer": [
+            "[chair_1] is under [person_1].",
+            "It is on the right of [person_1].",
+            "[chair_1] is behind [person_1] and [chair_1].",
+            "It is behind [person_1].",
+            "[chair_1] is next to [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] play the guitar ?",
+        "answer": [
+            "[person_1] is playing the guitar by tapping on the notes with 1 finger.",
+            "[person_1] is squeezing oranges.",
+            "[person_1] wants to change the speed.",
+            "Maybe [person_1] is performing in a show.",
+            "[person_1] wants to practice playing the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do ?",
+        "answer": [
+            "[person_1] intends to use the tip of his finger to gently push the contact lens out.",
+            "[person_1] intends to participate in the competition.",
+            "[person_1] intends to turn the camera to another direction.",
+            "[person_1] intends to keep playing the organ.",
+            "[person_1] intends to play the guitar."
+        ],
+        "reason": [
+            "There is a rope and [person_1] is holding the rope in [person_1]'s hand.",
+            "[person_1] is holding the camera.",
+            "[person_1] is holding the trumpet and playing it.",
+            "[person_1] is holding the guitar.",
+            "[person_1] is crouching."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains ?",
+        "answer": [
+            "[person_1] will stop playing guitar.",
+            "It is possible that [person_1] will stop watering the plants.",
+            "[person_1] will start playing guitar.",
+            "The players can't continue.",
+            "[person_1] won't stop playing guitar."
+        ],
+        "reason": [
+            "[person_1] will get dry.",
+            "There is no umbrella or shelter from the rain around [person_1].",
+            "[person_1] will get wet.",
+            "The concrete gets wet.",
+            "[person_1] can't get wet."
+        ]
+    }
+}

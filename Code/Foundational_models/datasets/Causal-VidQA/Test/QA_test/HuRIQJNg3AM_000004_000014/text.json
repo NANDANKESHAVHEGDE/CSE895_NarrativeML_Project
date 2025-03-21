@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] here?",
+        "answer": [
+            "[person_1] is a woman.",
+            "Because [person_1] and [person_2] have gifts.",
+            "To wait for the bubbles around [person_1].",
+            "Because [person_1] is a music star.",
+            "Because [person_1] and [person_2] are having a cup - stacking competition."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] may cut the cake.",
+            "[person_2] may keep trying to get faster.",
+            "[person_2] may be going to stop lifting.",
+            "[person_2] is going to peel off the patch on the [person_2] leg.",
+            "[person_2] is going to chew the bread she is holding on her hand."
+        ],
+        "reason": [
+            "[person_2]'s body curled back.",
+            "Maybe he is a professional trainer.",
+            "Because another car came , [person_2] faced the car and [person_2] was ready to direct the car.",
+            "It's the turn of [person_2] to kick and [person_2] hasn't finished.",
+            "[person_1] arranges cups very professionally."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will wake up.",
+            "[person_1] will be lose.",
+            "It is a problem for [person_1] to do exercise when he has no way but to choose things of [person_1].",
+            "[person_1] will bump into [person_1].",
+            "[person_1] will use the bricks as a gun."
+        ],
+        "reason": [
+            "Losing the game makes [person_2] angry.",
+            "[person_2] will be win.",
+            "[person_1] will be lose",
+            "To record this birthday.",
+            "Because it is over time."
+        ]
+    }
+}

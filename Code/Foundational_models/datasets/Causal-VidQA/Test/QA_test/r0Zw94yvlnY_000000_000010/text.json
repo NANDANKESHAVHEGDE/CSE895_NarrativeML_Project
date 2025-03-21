@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is \u00a0 black.",
+            "The shirt is black.",
+            "The shirt is blue.",
+            "The shirt is green.",
+            "The shirt is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is doing a plunge.",
+            "[person_1] is trying to unbox the present.",
+            "[person_1] is doing somersaults.",
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is raising eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may swim towards [person_1].",
+            "[person_1] will continue raise eyebrows.",
+            "[person_1] will continue climbing till her gets to the peak.",
+            "[person_1] intends to win this game.",
+            "[person_1] will dip in more paint."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "Because [person_1] divides the money into piles.",
+            "Because [person_1] has reached out [person_1]'s hands.",
+            "[person_1] looks very happy.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The room will be dark.",
+            "The machine will stop working.",
+            "[person_1] will stop instructing.",
+            "[person_1] may not keep jumping.",
+            "The microphone will not be worked."
+        ],
+        "reason": [
+            "[person_1] will stand still.",
+            "[person_1] will be scared.",
+            "[person_1] will go out.",
+            "The performance will stop because the room is dark.",
+            "[person_1] will put the lute on the table."
+        ]
+    }
+}

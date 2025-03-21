@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [train_1]?",
+        "answer": [
+            "[train_1] is in the corner.",
+            "[train_1] is being sat by [train_1].",
+            "[train_1] is far behind the high fence.",
+            "[train_1] is on the [train_1].",
+            "[train_1] is behind the [train_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] throw a firework towards [person_2] , [person_3] , and [person_4]?",
+        "answer": [
+            "[person_1] is puffing smoke.",
+            "This video is documentary about the spinning poi.",
+            "[person_2] and [person_3] are showing respect.",
+            "[person_1] is making fun of [person_2] , [person_3] , and [person_4].",
+            "Because the fan will keep [person_1] cool when [person_1] is playing musical instruments."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will hold that posture for a while.",
+            "[person_1] is going to dance.",
+            "[person_1] is going to participate in a game.",
+            "[person_1] is going to keep hooping.",
+            "[person_1] is going to keep eating."
+        ],
+        "reason": [
+            "[person_1] is amused that [person_2] , [person_3] , and [person_4] ran away.",
+            "[person_1] wants to reach higher.",
+            "[person_1] is holding a harp.",
+            "[person_1] legs keep going up and down.",
+            "[person_1] is a professional skater."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't throw the firework towards them?",
+        "answer": [
+            "[person_2] would learn how to wear a sari.",
+            "[person_1] will stop painting.",
+            "[person_3] will be seriously injured.",
+            "[person_2] , [person_3] , and [person_4] wouldn't scatter away.",
+            "[person_1] will open his mouth wide and eat those potato chips."
+        ],
+        "reason": [
+            "Because if [person_1] does the correct technique , the dice will slide into the cup.",
+            "When [person_1] gets the dices in , he has to swing the cup continuously so as all the dices can move in the cup.",
+            "When [person_1] eats potato chips , he will open his mouth wide.",
+            "[person_1] looks young and must have other toys.",
+            "Because [person_2] , [person_3] , and [person_4] wouldn't be scared."
+        ]
+    }
+}

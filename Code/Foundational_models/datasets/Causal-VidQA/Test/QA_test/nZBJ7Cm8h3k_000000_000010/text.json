@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[person_1] is next to [chair_1].",
+            "[chair_1] is behind [person_1].",
+            "[person_1] is sitting on it.",
+            " [chair_1] is behind [chair_1].",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1]'s hand moving so fast?",
+        "answer": [
+            "[person_1] is playing chess with [person_1] and [person_1].",
+            "[person_1] is \u00a0 helping his daughter somersaults.",
+            "[person_1] is playing chess with [person_1].",
+            "Maybe [person_1] is playing chess with [person_1].",
+            "Because the song [person_1] is playing has a fast beat."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing the bagpipes.",
+            "[person_1] is going to pick up the ball.",
+            "[person_1] is going to put the dressing on the cake.",
+            "[person_1] is going to drink orange juice.",
+            "[person_1] is going to play the flute until the song runs out."
+        ],
+        "reason": [
+            "[person_1] is still on the couch.",
+            "[person_1] moved from the back to front.",
+            "[person_1] is getting out of the playing area.",
+            "[person_1] hasn't finished the song yet.",
+            "Because the floor needs fixing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] slips his hand off the table?",
+        "answer": [
+            "Maybe [person_1] will throw the empty potato chip packaging bag on the ground.",
+            "[person_1] would kiss [person_1] on her face.",
+            "The pants of the [person_1] might be wet.",
+            "The [person_1] might fail to throw the disc far.",
+            "[person_1] will stop playing the flute."
+        ],
+        "reason": [
+            "There would be nothing for [person_1] to make a video except for a camera.",
+            "[person_1] is trying to balance on a yoga ball.",
+            "There are many players standing together and they are having a break to discuss something.",
+            "[person_1] needs to be adjusted so that the hand is easy to play the flute.",
+            "[person_1] just wears a tank top."
+        ]
+    }
+}

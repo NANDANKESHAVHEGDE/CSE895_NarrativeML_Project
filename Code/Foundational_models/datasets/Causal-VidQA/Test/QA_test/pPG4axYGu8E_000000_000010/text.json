@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [bench_1]?",
+        "answer": [
+            "[bench_1] and [bench_1] are on the schoolyard.",
+            "They are in a room.",
+            "[bench_1] is brown.",
+            "Exhale completely away from the device.",
+            "[bench_1] and [bench_1] are in the weight training field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is going to train to change body.",
+            "Glasses are [person_1] inseparables.",
+            "[person_1] is performing for [person_1] and [person_1].",
+            "[person_1] wants to say something or instruct how to play the accordion.",
+            "[person_1] is introducing the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may change the action.",
+            "To find more snow.",
+            "[person_1] does a workout.",
+            "[person_1] may go to get a stick.",
+            "[person_1] may be going to take a rest."
+        ],
+        "reason": [
+            "Because [person_1] seems really like playing badminton so [person_1] will continue playing.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] is giving [person_1] instructions.",
+            "Because [person_1] is about to do it.",
+            "Because [person_1] looked at the person standing beside [person_1] and reached out the boards toward the standing person."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the power goes out?",
+        "answer": [
+            "[person_1] will help the workers unload.",
+            "Then the dog can't reach the food on the table.",
+            "[person_1] will stop training.",
+            "[person_1] would have to use another one.",
+            "The [person_1] would take them and wear them."
+        ],
+        "reason": [
+            "[bench_1] might cry.",
+            "[person_1] need to peel the cocos firstly.",
+            "[person_1] was only practicing.",
+            "Because it will be very dark in the gym.",
+            "Because it will be very hot when there is no electricity."
+        ]
+    }
+}

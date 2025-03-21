@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the right hand side of [person_1].",
+            "[person_1] is in the orange garden.",
+            "[person_1] is next to a conveyor belt.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in his house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding [apple_1]?",
+        "answer": [
+            "[person_1] is squeezing [apple_1].",
+            "[apple_1] wants to teach [person_1] something.",
+            "[person_1] is wearing [person_1] for [person_1].",
+            "[person_1] is helping [person_1] to have right hand position when [person_1] is doing tai chi.",
+            "Because [person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to keep squeezing.",
+            "[person_1] is going to rip paper.",
+            "[person_1] will catch the frisbee.",
+            "[person_1] will spray paint.",
+            "[person_1] is going to keep diving."
+        ],
+        "reason": [
+            "Frisbee is flying to him",
+            "[person_1] likes challenge.",
+            "[person_1] is just squeezing [apple_1] for fun.",
+            "Maybe [person_1] go out.",
+            "[person_1] is weaving fabric."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks the [cup_1]?",
+        "answer": [
+            "[person_1] will stop practicing.",
+            "[person_1] will be able to keep squeezing.",
+            "[person_1] will be very delighted.",
+            "[person_1] won't be able to keep squeezing.",
+            "[cup_1] will be broken down."
+        ],
+        "reason": [
+            "[cup_1] is an orange extractor.",
+            "Because [person_1] is humble.",
+            "[cup_1] is two orange extractors.",
+            "Because it is very effective to exercise arms of the [person_1] after a long time of training.",
+            "[cup_1] isn't an orange extractor."
+        ]
+    }
+}

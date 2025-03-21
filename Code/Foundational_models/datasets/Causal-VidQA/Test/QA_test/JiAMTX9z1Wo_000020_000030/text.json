@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is serving his customers.",
+            "[person_1] is playing luge sport.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is playing badminton outside.",
+            "[person_1] is doing side lunges on a bench"
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] wearing protection suit?",
+        "answer": [
+            "Maybe the weather is so hot.",
+            "Maybe the weather is cold,",
+            "[person_1] is having a practice match.",
+            "[person_1] makes it easy to see.",
+            "[person_1] wants to avoid injuries."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after he makes the preparation?",
+        "answer": [
+            "[person_1] may start to do another posture.",
+            "[person_1] will take a shower.",
+            "[person_1] will continue performing.",
+            "[person_1] is going to check something in the bag.",
+            "[person_1] will slide down very fast."
+        ],
+        "reason": [
+            "[person_1] wants to taste the sandwich's flavor.",
+            "[person_1] will feel tired.",
+            "Because his clothes are wet with the water.",
+            "[person_1] has done all the preparation and is ready to tear off waxing paper.",
+            "[person_1] is sliding down from a high place."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not gain momentum at the start?",
+        "answer": [
+            "[person_1] may stop blowing the ball.",
+            "[person_1]'s hat might fly.",
+            "[person_1] will be more confident when going to the pool.",
+            "[person_1] may bring it to the person holding the camera.",
+            "[person_1] could not slide down."
+        ],
+        "reason": [
+            "[person_1] does not do any preparation.",
+            "If the situation is bad , he might find someone for help.",
+            "Cars are running on the roadway.",
+            "[person_1] is a beginner.",
+            "[person_1] would not find keeping balance difficult as much as he does now."
+        ]
+    }
+}

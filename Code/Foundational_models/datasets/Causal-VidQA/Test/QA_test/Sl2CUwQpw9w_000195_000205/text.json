@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It's pink.",
+            "[person_1] is wearing the white shirt.",
+            "It is white.",
+            "It is \u00a0 white.",
+            "It's black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the mirror?",
+        "answer": [
+            "The table is discarded and the wood can be recycled.",
+            "Because the camel is the best way of transportation in the desert.",
+            "Because it's the instrument for playing the cello.",
+            "[person_1] wants to exercise physical health.",
+            "[person_1] is shaving."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] may cheer up.",
+            "[person_1] is going to eat.",
+            "[person_1] is going to continue to shave.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to keep dancing."
+        ],
+        "reason": [
+            "[person_1] just looked back.",
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] was blocked by the door.",
+            "[person_1] hasn't shaved yet.",
+            "[person_1] is turning the page."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] accidentally shaves his skin?",
+        "answer": [
+            "[person_1] will not be able to continue playing.",
+            "[person_1] will bleed.",
+            "[person_1] may record it again.",
+            "[person_1] feels satisfied for her effort.",
+            "[person_1] will wash hands by himself."
+        ],
+        "reason": [
+            "[person_1] promises [person_1] and [person_1] can do exercise unless [person_1] does not admire [person_1].",
+            "[person_1] is too young to do this.",
+            "The razor blade is very sharp.",
+            "To fix the snow blower.",
+            "Because the trash can is not clean enough to touch by bare hands."
+        ]
+    }
+}

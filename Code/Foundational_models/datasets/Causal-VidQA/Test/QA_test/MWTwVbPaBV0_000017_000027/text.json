@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [dining table_1] in the room?",
+        "answer": [
+            "[person_3] is holding [person_3].",
+            "[dining table_1] is holding a bagpipe.",
+            "[dining table_1] looks young.",
+            "[dining table_1] is in front of [person_3] and [person_2] .",
+            "[dining table_1] is holding an underwear."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] raising his hand?",
+        "answer": [
+            "[person_1] is standing on her head.",
+            "[person_1] wants to show something.",
+            "[person_1] is shaking the dice.",
+            "[person_1] is stacking dice.",
+            "To protect herself from the sun."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do put the pan back to the [dining table_1].",
+            "[person_1] is going to follow the instruction of teacher.",
+            "[person_1] is going to put the paper down on [dining table_1].",
+            "[person_1] is going to throw more food at [person_1]?",
+            "[person_1] is going to raise the hand."
+        ],
+        "reason": [
+            "because [person_1] is raising his right hand.",
+            "because this is a reverse video.",
+            "because the mechanical bull is going to move faster.",
+            "because [person_1] wants to continue practicing.",
+            "[person_1] is loosing balance when turning around."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_3] pushes [person_1] over?",
+        "answer": [
+            "[person_1] will stop milking.",
+            "[person_1] will bump into [person_3].",
+            "[person_3] will run fast suddenly.",
+            "[person_1] will fall on the ground.",
+            "[person_1] and [person_1] won't be able to keep moving."
+        ],
+        "reason": [
+            "because [person_1] is sitting on a chair and doesn't hold on to anything.",
+            "Because [person_1] is working attentively , [person_1] will be stimulated by the sudden noise.",
+            "Because the [person_1] is not too large.",
+            "[person_1] is a baby and [person_1] loves to play with other people.",
+            "[person_1] won't be able to get [person_1]'s arm out of the hole on [person_1]'s own."
+        ]
+    }
+}

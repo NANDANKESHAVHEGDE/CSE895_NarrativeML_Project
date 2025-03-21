@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the basketball court.",
+            "[person_1] is performing on the stage.",
+            "[person_1] is inside.",
+            "[person_1] is on the stage.",
+            "[person_1] is sitting in a luge."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a basketball ?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is playing cymbals.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "Maybe [person_1] is going to bow again.",
+            "[person_1] is going to keep diving.",
+            "[person_1] is going to yell at [person_1].",
+            "Maybe [person_1] is going to bow.",
+            "[person_1] is going to shot again."
+        ],
+        "reason": [
+            "[person_1] just plays basketball for fun.",
+            "[person_1] wants to relax with this game.",
+            "[person_1] has not finished her pumpkin.",
+            "[person_1] is breathing deeply and needs a break",
+            "[person_1] is finishing the product."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] attends a basketball game?",
+        "answer": [
+            "[person_1]'ll remake the bottom.",
+            "The atmosphere would become high.",
+            "Not much students will find out.",
+            "[person_1] will lose.",
+            "The checkers game will be paused."
+        ],
+        "reason": [
+            "Because [person_1] doesn't want to miss any messages.",
+            "[person_1] can't win with his current skills.",
+            "Remind herself of the action.",
+            "[person_1] will take a rest.",
+            "[person_1] doesn't want to miss anything important."
+        ]
+    }
+}

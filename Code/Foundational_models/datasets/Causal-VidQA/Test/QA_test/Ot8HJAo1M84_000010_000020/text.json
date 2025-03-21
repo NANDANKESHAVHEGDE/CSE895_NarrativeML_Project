@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1]?",
+        "answer": [
+            "The [person_1] is standing in a garden.",
+            "The [person_1] is standing behind the fence.",
+            "The [person_1] is standing near the base of the staircase.",
+            "The [person_1] is on the ground.",
+            "The [person_1] is in a restaurant."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] is on the ground?",
+        "answer": [
+            "[person_1] is joining in the roller skating competition.",
+            "Because the [person_1] is now parked in the garage.",
+            "[person_1] is taking a bath.",
+            "Because the [person_1] was knocked down by the door of the [refrigerator_1].",
+            "Because [person_1] needs the weight lifting to practice snatching weight lifting."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_2] do next?",
+        "answer": [
+            "The [person_2] will get off the camel too.",
+            "The [refrigerator_1] will mix the ingredients in the mixing bowl.",
+            "The [person_2] will go down the stairs.",
+            "[refrigerator_1] will clean the leaking fluid from the machine and try to reinstall the knob back into it.",
+            "The [person_2] will hide in the lower part of the [refrigerator_1]."
+        ],
+        "reason": [
+            "Because the [person_2] is the owner of the camel.",
+            "Because [person_2] feels it boring.",
+            "Because the [person_2] is practically burrowed into the the [refrigerator_1].",
+            "Because [refrigerator_1] has finished tidying up the bottom of the Christmas tree.",
+            "Because [person_2] seems to have a lot work to do."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would have happened if the [person_2] hadn't opened the upper door of the [refrigerator_1] too hard?",
+        "answer": [
+            "[person_1] maybe will win.",
+            "The [person_1] wouldn't have been knocked down.",
+            "The [person_1] can remember all music notes to play.",
+            "[person_1] would look in the direction of [person_2].",
+            "[person_1] would fold the napkin in front of [person_1]."
+        ],
+        "reason": [
+            "Everyone on the spot all wears shirts except [person_1] , so we could know that the weather is hot . When [person_1] starts sweating , [person_1] will take off [person_1]'s jacket.",
+            "Because [person_1] was knocked down by the force with which the [person_2] opened the refrigerator door.",
+            "Bad presentation means poor preparation . [person_2]'s teacher will feel that her student didn't take her assignment seriously , so [person_2]'s teacher may criticize [person_2].",
+            "[person_1] and [person_2] could not be able to do the movement they were doing because they couldn't keep their balance.",
+            "Because [person_1] would not be able to help [person_2] in tying his bow."
+        ]
+    }
+}

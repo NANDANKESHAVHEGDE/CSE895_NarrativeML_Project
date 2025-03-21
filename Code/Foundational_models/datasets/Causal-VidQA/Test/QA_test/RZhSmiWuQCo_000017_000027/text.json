@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near [person_1].",
+            "[person_1] is wearing underwear.",
+            "[chair_1] is green.",
+            "It us a black traditional piano.",
+            "[person_1] is on the stage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the shoe of [person_2]?",
+        "answer": [
+            "Because [person_1] wants to hold the accordion tightly.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is pulling the shoe of [person_2].",
+            "[person_1] and [person_2] are playing chess.",
+            "Because [person_1] wants to cut the board."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_2] tend to do?",
+        "answer": [
+            "[person_1] tends to continue play the piece.",
+            "[person_1] tends to sit nicely.",
+            "[person_1] tends to kick the ball.",
+            "[person_1] tends to keep dancing.",
+            "[person_1] will continue to open the gift."
+        ],
+        "reason": [
+            "[person_1] doesn't move around for a long time.",
+            "[person_1] will continue to open the gift because [person_1]'s hand is still tearing the wrapping paper.",
+            "[person_1] is head stand again.",
+            "[person_1] is preparing to stand on hands.",
+            "There are many books behind [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] weren't there?",
+        "answer": [
+            "Everyone would not come to this room.",
+            "[person_1] may help [person_2].",
+            "The machine will continue to work.",
+            "[person_1] would get infected.",
+            "[person_1] would not the shoe of [person_2]."
+        ],
+        "reason": [
+            "[person_1] will ask other people.",
+            "[person_1] is optimistic.",
+            "[person_1] would not see [person_1] to follow anymore.",
+            "There would be only [person_1] and [person_2] there.",
+            "Female is not stronger than male."
+        ]
+    }
+}

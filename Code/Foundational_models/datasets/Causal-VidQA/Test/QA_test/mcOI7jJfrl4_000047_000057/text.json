@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is on the right side [person_1].",
+            "[person_1] is to [person_1] right.",
+            "[potted plant_1] is on the sidewalk to [person_1]'s right.",
+            "The [potted plant_1] is in [potted plant_1]'s hand.",
+            "[potted plant_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_1] choose to tap the pen on [dining table_1]?",
+        "answer": [
+            "Because the [person_1] wants to test how well the [person_1] door is sealed.",
+            "[person_1] needs a surface smooth and hard to practice on as [dining table_1].",
+            "Because [person_1] needs using a lot of force to snatch weight lifting.",
+            "The [person_1] seems to be looking for something in the [person_1].",
+            "Because [person_1] helps him tie a necktie on [person_1]'s neck."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will continue trimming [person_1] then switch to [person_1].",
+            "[person_1] will stop tapping the pen for a while.",
+            "[person_1] will continue to throw the knife towards the target ahead.",
+            "[person_1] will instruct the class to hold this yoga position for a little bit longer , then let them relax and release their foot.",
+            "[person_1] will continue to play for the camera to show off his guitar talent."
+        ],
+        "reason": [
+            "[person_1] would want the camera to get a good view of her work so that it looks tasty and people will book tickets to her show.",
+            "[person_1] is acting silly playing the bagpipes ; once he's finished , he will get tired and relax on the couch.",
+            "[person_1] is in the process of washing their hands ; they haven't started yet , that's why they go to grab the soap.",
+            "[person_1] seems to be tired of tapping.",
+            "[person_1] lost her balance and fell on her face into the sand , so she would want to get back up after falling."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_1] got bored of tapping pen?",
+        "answer": [
+            "[person_1] may have a accident.",
+            "The [person_1] will not make the tree broken and died.",
+            "[person_1] would give up being a pen tapper.",
+            "[person_1] may not continue to work.",
+            "[person_1] may sit back."
+        ],
+        "reason": [
+            "[person_1] will hurt and not touch [person_1] anymore.",
+            "It hurts.",
+            "pen tapping can be difficult for [person_1].",
+            "Because [person_1] has helped his customer.",
+            "[person_1] looks very smart."
+        ]
+    }
+}

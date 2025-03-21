@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is sitting on the [chair_1]?",
+        "answer": [
+            "The [chair_1] is yellow.",
+            "The [chair_1] is behind the [person_1].",
+            "[person_1] is sitting on [chair_1].",
+            "The [person_1] is next to the door.",
+            "The [person_1] is holding a string."
+        ]
+    },
+    "explanatory": {
+        "question": "For what reason does [person_1] stop playing music?",
+        "answer": [
+            "[person_1] will feel hot and sweat a lot.",
+            "Because it is very sunny outside.",
+            "It's a part of the traditional costume.",
+            "[person_1] is skiing.",
+            "The accordion is so big , so [person_1] can't play it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will get the job done.",
+            "[person_1] is going to come back home.",
+            "[person_1] is going to stand up.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] will continue to play."
+        ],
+        "reason": [
+            "[person_1] cuts off the flower's stem.",
+            "[person_1] is going to enjoy the melody.",
+            "[person_1] stopped playing with the accordion and look the ground.",
+            "[person_1] may keep slacklining.",
+            "[person_1] is playing very attentively."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if [person_1] stands up?",
+        "answer": [
+            "[person_1] will speed up , too.",
+            "[person_1] hair will get messy.",
+            "[person_1] will ask an adult to help him lift the accordion.",
+            "[person_1] would bump into other people.",
+            "[person_1] will feel pain in his hand."
+        ],
+        "reason": [
+            "[person_1] can't lift the big accordion by himself.",
+            "To clean the pieces of the mirror.",
+            "Because the recipient can't sign it , the courier can't deliver it.",
+            "When [person_1] falls , which will attract the attention of [person_1] , [person_1] , and [person_1].",
+            "The didgeridoo is too big and heavy."
+        ]
+    }
+}

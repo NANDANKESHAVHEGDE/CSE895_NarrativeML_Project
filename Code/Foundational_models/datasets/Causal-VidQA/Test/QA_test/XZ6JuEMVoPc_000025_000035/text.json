@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "How [person_1] to play tacking cups?",
+        "answer": [
+            "[person_1] is stacking the cups on the table.",
+            "[person_1] is not able to walk yet.",
+            "[person_1] is waiting for his turn to cut his hair.",
+            "[person_1] is playing guitar.",
+            "[person_1] takes each cup and arranges them higher and higher."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue pulling the weights.",
+            "[person_1] may keep on skateboarding.",
+            "[person_1] will stop.",
+            "[person_1] will continue to stack cups.",
+            "[person_1] will go downhill."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "[person_1] looks very excited.",
+            "Because [person_1] doesn't want to play on [person_1] anymore.",
+            "[person_1] slowly arrange the cups on the top.",
+            "[person_1] holds gong sticks and looks at the sleeping people."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if all the cups fall down?",
+        "answer": [
+            "[person_1] would look for a tool to open it.",
+            "[person_1] will stop play.",
+            "[person_1] won't be able to walk all the way through the rope.",
+            "[person_1] will be angry.",
+            "She may try to make another sand sculpture."
+        ],
+        "reason": [
+            "[person_1] may bump into things.",
+            "[person_1] sees nothing moving.",
+            "Because it is easy to slip and fall on the beads.",
+            "Because black is too dark . It's not bright.",
+            "[person_1] will stack cups again."
+        ]
+    }
+}

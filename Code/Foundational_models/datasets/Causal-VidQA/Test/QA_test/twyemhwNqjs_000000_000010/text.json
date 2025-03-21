@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] place?",
+        "answer": [
+            "There are 15 cups on the floor.",
+            "[book_1]'s shirt is red.",
+            "[book_1] is parking on the street.",
+            "[book_1]'s shirt is red.",
+            "[book_1] is placed on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] peel a banana?",
+        "answer": [
+            "Because it's more convenient.",
+            "[person_1] wanted to give it to the kid who wears a red t - shirt.",
+            "[person_1] uses a trowel to take plaster on the hawk board and applies it on the wall.",
+            "Because there is no one here to play with [person_1].",
+            "Because [person_1] is still young and can't sit and play on [person_1]'s own yet."
+        ]
+    },
+    "predictive": {
+        "question": "What is the kid who wears a red t - shirt going to do?",
+        "answer": [
+            "The woman who is holding the camera will then send the recording to [person_1].",
+            "Maybe [book_1] will finish the task.",
+            "The man who wears a red t - shirt is going to take a rest.",
+            "The kid who wears a red t - shirt is going to eat the banana.",
+            "They might be going to collect the trash , and move them away."
+        ],
+        "reason": [
+            "Cat's owner stroked the cat gently . They had a good relationship , so he should prepare delicious food for the cat.",
+            "[person_1] and others are having fun.",
+            "The kid who wears a red t - shirt took the first bite.",
+            "The lights are dim.",
+            "She seems to be ready with the tool on her hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will occur if the kid who wears a red t - shirt denies the banana?",
+        "answer": [
+            "[person_1] will not play snow kitting.",
+            "The [person_1] will fall.",
+            "Maybe [person_1] will be blamed.",
+            "Possible [person_1] will eat the banana himself.",
+            "[person_1] will have to stop playing cello for a while."
+        ],
+        "reason": [
+            "[person_1] is trying to play a new song.",
+            "Because there is another one on the floor.",
+            "A banana was stripped , so [person_1] ought to eat it.",
+            "The headphone will break because the floor is so hard.",
+            "The script is being shown on the screen in front of the [person_1]."
+        ]
+    }
+}

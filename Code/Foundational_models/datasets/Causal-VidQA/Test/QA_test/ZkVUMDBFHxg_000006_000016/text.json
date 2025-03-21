@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [dining table_1]?",
+        "answer": [
+            "[dining table_1] is behind [dining table_1] and next to the door.",
+            "The [dining table_1] is in the left of the refrigerator.",
+            "The [dining table_1] is behind [person_5].",
+            "The [person_5] is behind the gong.",
+            "[dining table_1] is beside [person_5]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are the people looking so happy?",
+        "answer": [
+            "With the dog's head.",
+            "[dining table_1] is reading newspaper.",
+            "The flowers are for decoration.",
+            "People are playing a group game.",
+            "The man who wears a gray t - shirt wants to move the chair to another place."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_4] going to do after playing games?",
+        "answer": [
+            "[person_4] is going to play with the little boy.",
+            "[person_4] is going to drink some water.",
+            "[person_4] is opening present.",
+            "The man in brown will give the mixed wine to the customer.",
+            "The [person_4] will teach the [person_4] how to make the clothes clean."
+        ],
+        "reason": [
+            "Because as there are more players in a game , there will be more moves.",
+            "They are game partners.",
+            "[person_4] is talking.",
+            "[person_4] s getting thirsty.",
+            "Because he needs to buy things."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if only one person wins?",
+        "answer": [
+            "That person will get something for free.",
+            "[person_5] would stop performing.",
+            "[person_4] would dance alone.",
+            "[dining table_1] will be hurt.",
+            "[person_4] would be inedible."
+        ],
+        "reason": [
+            "[person_4] is supposed to do that according to the agreement with [person_4] before.",
+            "Without the stick , [person_5] could not play hurling.",
+            "Because [person_4] is a mere kid.",
+            "Because this is the rule of this game.",
+            "[person_4] will be reprimanded because of losing the good of customers."
+        ]
+    }
+}

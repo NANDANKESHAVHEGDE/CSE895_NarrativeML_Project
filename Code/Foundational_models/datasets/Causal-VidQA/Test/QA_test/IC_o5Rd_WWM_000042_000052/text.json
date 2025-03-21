@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_7]?",
+        "answer": [
+            "[person_7] is a male.",
+            "It's white.",
+            "No , we can't.",
+            "It's blue and yellow.",
+            "[person_7] is wearing a checkerboard shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] slide on the road?",
+        "answer": [
+            "[person_1] finds something.",
+            "Because he take part in the competition.",
+            "The [person_1] ran to avoid snowballs.",
+            "[person_1] like pit the paper.",
+            "[person_1] holds a hammer to strike at the tire hard."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_7] do next?",
+        "answer": [
+            "[person_7] will continue sliding on the road.",
+            "[person_7] will keep practicing to improve the skill.",
+            "[person_7] will go straight forward instead of staying still.",
+            "[person_7] will keep on climbing.",
+            "[person_7] will rise to his feet and keep practicing . "
+        ],
+        "reason": [
+            "There are audiences.",
+            "Because the practice makes [person_7] quite tired.",
+            "They dance in a professional style.",
+            "To let other children sing.",
+            "[person_7] seems to enjoy what he is doing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "[person_7] maybe stop playing.",
+            "The people can stop walk and come in the house.",
+            "[person_1] will stop playing guitar.",
+            "[person_1] will stop practicing.",
+            "[person_7] maybe enter the house."
+        ],
+        "reason": [
+            "[person_1] will go inside.",
+            "[person_7] may fall.",
+            "The people are outside , if it rains they will get wet.",
+            "[person_7] will not keep standing outside.",
+            "[person_7] will go inside."
+        ]
+    }
+}

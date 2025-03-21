@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is [person_1] ?",
+        "answer": [
+            "[person_1] is sitting near the window.",
+            "[person_1] is in the house.",
+            "[person_1] is a little girl.",
+            "[person_1] is the man who is wearing a red shirt.",
+            "[person_1] is in the pool."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] having \u00a0 a lot of cup in her hand?",
+        "answer": [
+            "[person_1] is doing somersaults.",
+            "[person_1] is doing various yoga stretches using the [person_1].",
+            "[person_1] is stacking cups.",
+            "[person_1] is learning how to walk again.",
+            "[person_1] is shooting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ? ",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] is going to train more.",
+            "[person_1] is going to turn left.",
+            "[person_1] will keep cleaning the dog.",
+            "[person_1] is going to step on the squash."
+        ],
+        "reason": [
+            "[person_1] has finished the body color.",
+            "People are interested in the story behind [person_1].",
+            "[person_1] is very cool.",
+            "[person_1] is slow and has no skills.",
+            "It is very sunny to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the cup tower falls ?",
+        "answer": [
+            "The [person_1] will have enough space to throw without other players.",
+            "The [person_1] will not get hurt due to the shot put ring's surface .",
+            "[person_1] will go and get a empty vase.",
+            "The [person_1] could not ride the bicycle on the treadmill.",
+            "[person_1] won't play anymore and goes to watch [tv_1]."
+        ],
+        "reason": [
+            "This is a race.",
+            "The wall is heavy.",
+            "Children are often impatient.",
+            "The hairstyle didn't satisfy [person_1].",
+            "Panda is so cute."
+        ]
+    }
+}

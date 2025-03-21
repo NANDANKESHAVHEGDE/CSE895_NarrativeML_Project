@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [tv_1] used for?",
+        "answer": [
+            "[tv_1] is black.",
+            "[tv_1] is on the shelf behind [tv_1].",
+            "The color of [tv_1] is black.",
+            "[tv_1] is behind the boy.",
+            "It's used for establish the picture of what's been observed by microscope."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have her hair tied up?",
+        "answer": [
+            "[person_1] and [person_1] may be in a competition.",
+            "To make the hair less likely to fall out.",
+            "[person_1] swings her arms to keep balance.",
+            "[person_1] is practicing stacking cups.",
+            "[person_1] is satisfied with the performance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] will enter the house.",
+            "Perhaps [person_1] is going to come home.",
+            "[person_1] is going to lunges.",
+            "[person_1] may go to the children park.",
+            "[person_1] is going to adjust the aperture of microscope."
+        ],
+        "reason": [
+            "[person_1] is running in a certain direction.",
+            "[person_1] is going to have a break.",
+            "[person_1] is exercising.",
+            "[person_1] keeps controlling the buttons , and the light on the microscope flickers on and off.",
+            "Maybe [person_1] is allergic to something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] didn't tied her hair?",
+        "answer": [
+            "It will influence the lab results.",
+            "[person_1] won't be able to look in the mirror to apply foundation evenly on her face.",
+            "[person_1] would rest for a while.",
+            "[person_1] will go to find one.",
+            "They would encourage him and help him to do it."
+        ],
+        "reason": [
+            "The laboratory needs a clean environment , and falling hair will affect the experiment.",
+            "People get ill when they are wet for long time.",
+            "Drinking too much beer while playing the game can get drunk.",
+            "The floor will be slippy if there has some water on it.",
+            "[person_1] will take a rest."
+        ]
+    }
+}

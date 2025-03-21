@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How's the weather?",
+        "answer": [
+            "He is with a smiling face.",
+            "[person_1] and [person_1] are in the garden.",
+            "[person_1] and [person_1] are on the street.",
+            "[person_1] and [person_1] are in the yard.",
+            "It's sunny."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling ?",
+        "answer": [
+            "Because [person_1] is competing in roller skating.",
+            "[person_1] is ripping paper.",
+            "Because [person_1] and [person_1] are playing a game.",
+            "Because [person_1] fell from the wheelbarrow and hit [person_1]'s back to the ground.",
+            "[person_1] is feeling happy."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to fall off the chair.",
+            "[person_1] will continue standing on the hand.",
+            "[person_1] is going to dance another move.",
+            "[person_1] is going to keep diving.",
+            "[person_1] is going to play that game again."
+        ],
+        "reason": [
+            "Out of manner , [person_1] didn't yell at [person_1] at first , but later , [person_1] finds that yelling at [person_1] is a more useful way to let [person_1]'s anger out.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] loves that splashing water game.",
+            "[person_1] likes sledding.",
+            "[person_1] is still working."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the water waves is too strong?",
+        "answer": [
+            "Maybe they can't drink.",
+            "[person_1] might get safe.",
+            "[person_1] will be replaced.",
+            "[person_1] might get hurt.",
+            "[person_1] will complete his pancake flip challenge."
+        ],
+        "reason": [
+            "Strong water waves can break friction.",
+            "The computer is behind them and is now off.",
+            "Strong water waves can create friction.",
+            "Because bowls can also hold food.",
+            "Strong water waves cannot create friction."
+        ]
+    }
+}

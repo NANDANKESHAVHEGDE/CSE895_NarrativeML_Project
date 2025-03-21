@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the corner of the yard.",
+            "[cup_1] is on the table behind [cup_1].",
+            "[cup_1] is lying on the blue blanket.",
+            "It is on the left of [cup_1].",
+            "[cup_1] is sitting on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] tickling [person_2]?",
+        "answer": [
+            "[person_2] wants [person_2] to be nearer.",
+            "[person_1] wants to make [person_2] smile.",
+            "Maybe [person_1] is introducing the plate.",
+            "[person_1] and [person_2] are practicing the clarinet.",
+            "[person_1] wants to improve riding skill."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue trying to take.",
+            "[person_1] is going to stand up.",
+            "[person_1] is going to talk.",
+            "[person_1] may tickle [person_2] again.",
+            "[person_1] is going to smile."
+        ],
+        "reason": [
+            "When [person_2] smiles , [person_1] raises his hand and prepares to tickle another time.",
+            "Maybe [person_1] likes to play it.",
+            "[person_1] is snowmobiling.",
+            "[person_1] is riding a mechanical bull.",
+            "Maybe [person_1] wants to take the umbrella."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries out?",
+        "answer": [
+            "[person_1] may play him.",
+            "The honey block will be dirty.",
+            "[person_1] may play with him.",
+            "[person_1] will earn money.",
+            "[person_1] may play everyone."
+        ],
+        "reason": [
+            "When [person_1] plays with [person_2] , she smiles happily.",
+            "[person_1] is standing on a puddle.",
+            "When [person_1] plays with [person_2] , he smiles sadly.",
+            "[person_1] needs to take a rest . Or [person_1] will fall down.",
+            "When [person_1] plays with [person_2] , he smiles happily."
+        ]
+    }
+}

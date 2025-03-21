@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [potted plant_1]?",
+        "answer": [
+            "The [potted plant_1] is behind [person_1].",
+            "It is on the wardrobe.",
+            "It is black.",
+            "It is \u00a0 behind and on the right of [person_1].",
+            "[potted plant_1] is on the right side [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] looking at [person_1]?",
+        "answer": [
+            "[person_1] and [person_2] are singing.",
+            "Because [person_1] is playing the violin with his friends in the room.",
+            "Because [person_1] is lifting weights.",
+            "Because [person_1] is trying to walk down the stairs with a wheelchair , [person_2] looks at [person_1].",
+            "He wants to try stack the dices one more time."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will definitely go on pushing his own wheelchair.",
+            "[person_1] is highly likely to stop playing maracas.",
+            "[person_1] will probably put pieces of paper in the printer.",
+            "[person_1] will check on the panel.",
+            "[person_1] will hug everyone."
+        ],
+        "reason": [
+            "Because we can know from the video that [person_1] is ready to climb.",
+            "[person_1] has just finished her performance.",
+            "[person_1] stood up to accelerate the pace.",
+            "To finish [person_1]'s training.",
+            "[person_1] is sitting on the wheelchair and holding wheels."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_2] do if [person_1] falls down?",
+        "answer": [
+            "[person_1] would be upset.",
+            "[person_2] will help [person_1].",
+            "[person_1] would not do anything.",
+            "[person_1] will drink water in [person_1].",
+            "[person_1] could push the wheelbarrow alone."
+        ],
+        "reason": [
+            "Because [person_1] has to sit in the wheelchair , [person_1] is difficult for [person_1] to walk.",
+            "[person_1] looks very serious and [person_1] seems to want to let [person_2] to trust what [person_1] said.",
+            "Though [person_1] and [person_1] look very angry , the aim of [person_1] and [person_1]'s quarrel is to solve the disputes.",
+            "If [person_1] is out of control , [person_2]'s life will be in danger , so naturally [person_2] will not keep calm.",
+            "Because [person_1] is worried about [person_1]."
+        ]
+    }
+}

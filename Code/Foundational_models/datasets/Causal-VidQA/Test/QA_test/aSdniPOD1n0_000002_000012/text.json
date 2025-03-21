@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the floor?",
+        "answer": [
+            "It is red.",
+            "It is orange.",
+            "It is blue.",
+            "The carpet is brown.",
+            "The room is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_1] stays half nude?",
+        "answer": [
+            "Perhaps [person_1] loves it.",
+            "Maybe [person_1] is hot.",
+            "Because [person_1] wants to find something on the ground.",
+            "Maybe [person_1] is performing [person_1]'s performance.",
+            "Perhaps playing the harmonica makes [person_1] happy."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "Perhaps [person_1] will throw the ball into the cups.",
+            "[person_1] will keep shaving [person_1]'s left leg.",
+            "The [person_1] will pick up the [person_1].",
+            "It is possible that [person_1] will guide [person_2] how to use harmonica."
+        ],
+        "reason": [
+            "Because hands of the [person_1] are still on the handle and [person_1] is ready for the next pulling.",
+            "[person_2] does not know how to play harmonica.",
+            "[person_1]'s hands is touching the string.",
+            "[person_1] is holding the first page.",
+            "The shoes haven't been finished polishing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] swallowed harmonica?",
+        "answer": [
+            "Maybe [person_1] will stop doing a handstand.",
+            "Two guys under [person_2] might fall in the sea.",
+            "[person_1] will be sad.",
+            "Maybe [person_1] will pick up the phone.",
+            "[person_1] would call his mother to help [person_2]."
+        ],
+        "reason": [
+            "the light from [person_2] will affect the camera's dynamic range.",
+            "[person_1] is just a child.",
+            "[person_1] is in danger.",
+            "[person_2] is the only adult in the room.",
+            "The curb is a lot harder than the grass . "
+        ]
+    }
+}

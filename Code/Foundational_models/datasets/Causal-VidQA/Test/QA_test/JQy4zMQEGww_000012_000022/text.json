@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is gray.",
+            "The shirt is black.",
+            "The shirt is green.",
+            "It's white.",
+            "[person_1] is wearing a blue and white plaid shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "The boy couldn't move the guitar out.",
+            "[person_1] is doing weightlifting.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is doing a handstand."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to cross the street.",
+            "[person_1] will read another book.",
+            "[person_1] will leave.",
+            "[person_1] is going to put the dice and the cup on [dining table_1].",
+            "[person_1] is going to sit on the [dining table_1] and train."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] is touching three cups.",
+            "[person_1] holds the hoop before hooping.",
+            "Maybe [person_1] wants to change his practice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stops training?",
+        "answer": [
+            "[person_1] will come home.",
+            "[person_1] and [person_1] may have to drink beer straight from the [person_1].",
+            "It is possible that [person_1] will bite the cat.",
+            "[person_1] will run away.",
+            "Maybe [person_1] will deal with himself."
+        ],
+        "reason": [
+            "[person_1] finished practicing today.",
+            "[person_1] does not want to be washed.",
+            "It would be very harmful for practicing while being exhausted.",
+            "[person_1] is participating in a donut - eating contest , so he will get a new donut to continue the game.",
+            "[person_1] should try harder."
+        ]
+    }
+}

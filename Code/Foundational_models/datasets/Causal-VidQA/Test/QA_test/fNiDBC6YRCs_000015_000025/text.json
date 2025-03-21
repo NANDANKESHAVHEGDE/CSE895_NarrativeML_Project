@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[car_1] is in front of the house door.",
+            "[person_1] is in a gym.",
+            "[person_1] is in his room.",
+            "[person_1] is in a room.",
+            "[person_1] is in the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a cup?",
+        "answer": [
+            "[person_1] is stacking dice.",
+            "[person_1] is shaking the dice.",
+            "To wait for the bubbles around [person_1].",
+            "The [person_1] could not keep balance while walking stilts.",
+            "The [person_1] lost balance and didn't want to fall."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will be keep playing the harmonica.",
+            "[person_1] would step back and let others come up and perform.",
+            "[person_1] will put in contact lenses.",
+            "[person_1] will push a wheelchair to help [person_1] enter the house to shelter from the rain.",
+            "[person_1] will stand up and cheer."
+        ],
+        "reason": [
+            "[person_1] is not likely to stop practicing.",
+            "[person_1] wears skates , holds a ice hockey stick and skates around the ice rink.",
+            "Because the bike got stuck.",
+            "[person_1] seems to enjoy it a lot.",
+            "[person_1] has done a perfect stacking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the 4 dices do not line up?",
+        "answer": [
+            "[person_1] will be fined.",
+            "[person_1] will continue to practice.",
+            "[person_1] won't see anything.",
+            "The weights will hurt [person_1].",
+            "[person_1]'s hat might fall down."
+        ],
+        "reason": [
+            "The room will be dark then.",
+            "[person_1] still hasn't reached his goal.",
+            "The room will be dark.",
+            "The repair shop's person will repair for him.",
+            "There are many food on the table."
+        ]
+    }
+}

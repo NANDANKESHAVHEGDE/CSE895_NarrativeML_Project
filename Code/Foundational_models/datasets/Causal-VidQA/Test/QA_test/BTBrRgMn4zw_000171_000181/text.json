@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_2] and [person_3]?",
+        "answer": [
+            "[person_2] and [person_2] are sitting on the floor.",
+            "[person_3] and [person_2] are in a massaging room.",
+            "[person_2] and [person_2] are at a massage room.",
+            "[person_2] and [person_3] are in the playground.",
+            "[person_3] and [person_2] are in their bedroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_3] have rope her hands?",
+        "answer": [
+            "Because [person_1] is afraid.",
+            "Maybe [person_1] start skipping rope.",
+            "Perhaps [person_1] loves pink.",
+            "It's easier to pick mushroom.",
+            "The [person_3] is using the [person_3] as a shield from the pillow of the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] will pick up the pancake.",
+            "[person_2] is going to eat the donut hanging on the rope.",
+            "[person_1] is going to share the skills of opening the beer bottle by hand.",
+            "[person_1] may go on instructing [person_3] how to skip rope.",
+            "[person_2] is going to style his beard."
+        ],
+        "reason": [
+            "Because [person_1] gave him another ball.",
+            "He asks [person_2] to push him near [person_1].",
+            "After [person_1] failed to flip the [person_2] , it is now turn of [person_2].",
+            "[person_1] is going on talking very carefully.",
+            "[person_2] has not finished the track."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] weren't there?",
+        "answer": [
+            "[person_1] would not know how to skip rope.",
+            "[person_1] would need to do anything for [person_2].",
+            "[person_1] would know how to skip rope.",
+            "[person_1] may help [person_2].",
+            "[person_1] would not know how to cut rope."
+        ],
+        "reason": [
+            "[person_1] wouldn't have chance to learn how to skip rope.",
+            "[person_1] has nothing to watch.",
+            "[person_1] would have chance to learn how to skip rope.",
+            "Because restaurant is not allowed to sell overnight food.",
+            "[person_1] wouldn't have chance to learn how to cut rope."
+        ]
+    }
+}

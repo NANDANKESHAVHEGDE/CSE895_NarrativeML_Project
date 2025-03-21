@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is quite dark.",
+            "The room is bright.",
+            "It is dark with the spot light on the stage only.",
+            "It is well - decorated.",
+            "There are two vases."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting there?",
+        "answer": [
+            "[person_1] is wearing makeup.",
+            "[person_1] is performing with a guitar.",
+            "[person_1] is eating.",
+            "[person_1] is talking about chess.",
+            "[person_1] is raising her eyebrows."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to take out the paint roller.",
+            "[person_1] will back up.",
+            "[person_1] will keep walking.",
+            "[person_1] will continue try it.",
+            "[person_1] will display his good work of the opening."
+        ],
+        "reason": [
+            "[person_1] is packing the furniture and he is now staring at [person_1].",
+            "[person_1] looks very happy.",
+            "Because [person_1] divides the money into piles.",
+            "Because [person_1] has reached out [person_1]'s hands.",
+            "Because [person_1] is now sculpting blindly , [person_1] needs a reference."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] and [person_1] will stop roller skating.",
+            "[person_1] will stop hooping.",
+            "Maybe [person_1] will stand up.",
+            "[person_1] will start hooping.",
+            "[person_1] will stop drawing."
+        ],
+        "reason": [
+            "The stage will be dark then.",
+            "The house will be bright then.",
+            "The house will be dark before.",
+            "The house will be dark then.",
+            "The machine will be stopped working."
+        ]
+    }
+}

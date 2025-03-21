@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the speaker that is placed next to [person_1]?",
+        "answer": [
+            "The [person_1] is on the floor.",
+            "The speaker is black.",
+            "The eyeliner is black.",
+            "The [person_1] is holding the [person_1].",
+            "[person_1] is on the carpet."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "answer": [
+            "[person_1] is enjoying the music that [person_1] plays.",
+            "Because [person_1] is going to roller skating.",
+            "[person_1] wants to train the horse.",
+            "Because [person_1] is happy to touch the mirror.",
+            "[person_1] likes to play with maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue performing a bass guitar solo.",
+            "[person_1] is going to go play somewhere else.",
+            "[person_1] is going to keep practicing.",
+            "[person_1] may cheer up.",
+            "[person_1] is going to do a workout."
+        ],
+        "reason": [
+            "[person_1] was blocked by the door.",
+            "[person_1] is not going to stop.",
+            "[person_1] hasn't stopped yet.",
+            "[person_1] is plucking the bass guitar strings.",
+            "[person_1] feels that the food is not good."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the electricity in the room is cut off?",
+        "answer": [
+            "It will be easier for them than eating watermelon.",
+            "The girl wearing the red camisole might not walk to the side of [person_1].",
+            "[person_1] cannot play bass guitar in the room anymore.",
+            "[person_1] would be sad.",
+            "Then we may can't know whether it's around Christmas Day."
+        ],
+        "reason": [
+            "The electric bass guitar of [person_1] runs on electricity.",
+            "[person_1] can't be empty otherwise [person_1] can't continue his work.",
+            "It is easy for [person_1] and [person_1] to climb then.",
+            "[person_1] feels painful.",
+            "[person_1] is afraid of snakes."
+        ]
+    }
+}

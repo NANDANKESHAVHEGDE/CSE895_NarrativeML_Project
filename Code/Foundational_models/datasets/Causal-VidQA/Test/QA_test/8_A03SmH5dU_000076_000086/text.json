@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the room.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is outdoors.",
+            "[person_1] is in the study room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] dance with fire outdoors?",
+        "answer": [
+            "To increase the friction.",
+            "[person_1] needs it to increase the volume.",
+            "Because fire dancing is a dangerous act when done indoors.",
+            "Because [person_1] is playing the flute requires fingers.",
+            "The [person_1] looked at something on the right."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to record a video about herself.",
+            "[person_1] is going to turn the next page and read it.",
+            "[person_1] is going to continue stomping grapes.",
+            "[person_1] is going to swim his best to the other side of the pool.",
+            "[person_1] is going to continue dancing with fire outdoors."
+        ],
+        "reason": [
+            "Because it's a better way to show [person_1]'s strength.",
+            "[person_1] is moving.",
+            "To ask for [person_1]'s agreement with the proposal.",
+            "To relax for several minutes.",
+            "The window was only half cleaned."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a fire comes to the fence?",
+        "answer": [
+            "The interview will stop.",
+            "The fence will be burned.",
+            "The contest will continue.",
+            "The [person_1] would not be drawn.",
+            "[person_1] would stop squeezing."
+        ],
+        "reason": [
+            "Because the fence is made of wood.",
+            "Because the scooter can not be used in a crowded place.",
+            "[person_1] could not see anything and lose direction without light.",
+            "[person_1] falls from a high distance.",
+            "[person_1] will repair it."
+        ]
+    }
+}

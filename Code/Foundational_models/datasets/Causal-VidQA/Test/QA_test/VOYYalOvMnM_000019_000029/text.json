@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool is [person_1] using?",
+        "answer": [
+            "[person_1] uses a knife.",
+            "[person_1] uses a clamp to open it.",
+            "[person_1] is using a chef's knife.",
+            "It is a sledgehammer.",
+            "The team's name is Rope Skipping Supersano."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smash the tire?",
+        "answer": [
+            "[person_1] stands on the grass to support [person_1].",
+            "[person_1] puts marshmallows in the fire.",
+            "[person_1] is swallowing sword.",
+            "[person_1] cannot stand the liquid or she feels something wrong with the champagne.",
+            "[person_1] is exercising."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the sunset?",
+        "answer": [
+            "[person_1] will go home to have a rest and have something to drink and eat.",
+            "[person_1] will start to do the exercise.",
+            "The [person_1] will use the basket again later.",
+            "[person_1] will begin to do the exercise.",
+            " [person_1] will begin to do the exercise."
+        ],
+        "reason": [
+            "It seems that [person_1] is collecting coco juice in this bowl.",
+            "Because she needs to carry the clothes home.",
+            "[person_1] looks very strong and goes to gym often.",
+            "The strenuous exercise is physically consuming.",
+            "[person_1] is preparing for exercise."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] did this exercise in the crowd?",
+        "answer": [
+            "Their legs would be numb and hurt.",
+            "They might be a good couple.",
+            "[person_1] might hurt others.",
+            "Maybe [person_1] would sit there and keep watching the game.",
+            "[person_1] would have to change the microphone."
+        ],
+        "reason": [
+            "To check why the box is empty.",
+            "[person_1]'s moving range is large.",
+            "To see what's wrong with the box.",
+            "[person_1] could not walk in balance.",
+            "There is always a given picture instructing others to complete the puzzle."
+        ]
+    }
+}

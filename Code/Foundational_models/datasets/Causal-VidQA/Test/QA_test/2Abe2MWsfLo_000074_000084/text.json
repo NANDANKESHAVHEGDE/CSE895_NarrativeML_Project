@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [motorcycle_2]?",
+        "answer": [
+            "[motorcycle_2] is under [person_1] foot.",
+            "They were in a room.",
+            "It has many textures.",
+            "There a two bottles.",
+            "They are watching the proposal."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] ride [motorcycle_1]?",
+        "answer": [
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "Because [person_2] goes out with [person_1].",
+            "Because [person_1] might fall.",
+            "[person_1] is shearing [motorcycle_1].",
+            "Maybe [person_1] is introducing the plate."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after [person_1] surpass?",
+        "answer": [
+            "It looks like that [person_1] is the teacher who is teaching the other people in the room some tai chi movements.",
+            "[person_1] and [person_2] is going to put the towel in a box on the couch.",
+            "[person_1] may be a reporter.",
+            "[person_1] may be at KTV.",
+            "[person_2] will try her best to keep up with [person_1] . "
+        ],
+        "reason": [
+            "[person_1] owns a lot of sport equipments in his room.",
+            "On the wall are pictures of [person_1]'s when she was a child.",
+            "There are many people and dining tables in the room.",
+            "That's when it's time for lunch.",
+            "It is obvious that they are nearly in the same line."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it is very torrid?",
+        "answer": [
+            "[people_2] will continue to practice.",
+            "[people_2] can't go out.",
+            "[people_2]'s hat might fall down.",
+            "[people_2] can go out.",
+            "The razor blade will make [people_2] bleed."
+        ],
+        "reason": [
+            "These people moves the knife up and down to sharpen it.",
+            "These people are outside , if it is hot they will get ill.",
+            "If the food is too salty , it can not be eaten.",
+            "These people are inside , if it is hot they will get ill.",
+            "After broken , the liquid in those bottles will be out."
+        ]
+    }
+}

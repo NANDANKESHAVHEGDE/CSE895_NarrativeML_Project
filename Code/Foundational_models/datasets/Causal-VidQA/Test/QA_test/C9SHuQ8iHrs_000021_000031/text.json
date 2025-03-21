@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] staying?",
+        "answer": [
+            "[person_1] is exercising.",
+            "[person_1] is staying in a music studio.",
+            "[person_1] is picking up the ball on the field.",
+            "[person_1] is doing mountain - climbing exercises now.",
+            "[person_1] is playing electric guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a jazz drum set that is placed behind and on the right side of [person_1]?",
+        "answer": [
+            "[person_1] and [person_1] are just starting to play chess.",
+            "[person_1] is learning how to stack cups.",
+            "[person_1] is opening present.",
+            "The jazz drum set is used to play drums in the studio.",
+            "[person_1] and [person_1] are opening presents."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to move forward.",
+            "[person_1] is going to take a break.",
+            "[person_1] will be playing a bass guitar solo.",
+            "[person_1] is going to sit there.",
+            "[person_1] is going to continue play."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] is in the middle of strumming the bass guitar.",
+            "[person_1] drinks all the wine in the bottle.",
+            "[person_1] stops shaking the rope.",
+            "This beach is a tourist spot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes playing music?",
+        "answer": [
+            "[person_1] will ruin her hair.",
+            "[person_1]'s finger will bleed.",
+            "[person_1] will take the bass guitar off and put it away.",
+            "It'll be cooler than it is now.",
+            "The meeting may be taken a break for a few minutes."
+        ],
+        "reason": [
+            "Because talking or singing with each other is happier than keeping silent.",
+            "[person_1] does not want [person_1] to be unhappy.",
+            "[person_1] will sleep.",
+            "[person_1] wants to find a toilet.",
+            "[person_1] will not need to hold the bass guitar when [person_1] does not play it."
+        ]
+    }
+}

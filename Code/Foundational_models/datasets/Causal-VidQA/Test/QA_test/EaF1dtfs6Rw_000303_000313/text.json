@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the woman's clothes who is sitting on the [chair_1]?",
+        "answer": [
+            "It is black.",
+            "No.",
+            "[chair_1] and [chair_1] are are on the road.",
+            "The [chair_1] is being held by the [chair_1].",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the woman sitting on [chair_1] keep talking?",
+        "answer": [
+            "[chair_1] wants to explain how to play the clarinet.",
+            "Because [chair_1] is watering the plants.",
+            "Maybe [chair_1] is practicing playing harp.",
+            "Maybe [chair_1] is under stress.",
+            "The woman sitting on [chair_1] is talking about how to do massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue reading.",
+            "[person_1] will turn over the body.",
+            "[person_1] will hold the dumbbells.",
+            "[person_1] will continue play.",
+            "[person_1] will probably continue trying to shine the other shoe."
+        ],
+        "reason": [
+            "Because [person_1] has a tendency to jump at the end.",
+            "To get massage at [person_1]'s waist.",
+            "Maybe [person_1] is playing an interesting song.",
+            "[person_1] is holding the harmonica.",
+            "Because [person_1]'s walking back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wants to go to the toilet?",
+        "answer": [
+            "The [person_1] will catch the pancake with her hand.",
+            "[person_1] will hit the car fall on the road.",
+            "The [person_1] will feel amazing when playing.",
+            "[person_1] will go to eat the hamburger.",
+            "The woman sitting on [chair_1] will stop massaging."
+        ],
+        "reason": [
+            "When the towel is in the locker , [person_1] must go to the locker and open the locker before he gets the towel.",
+            "Then [person_1] will go to open the door.",
+            "A student should tell the teacher if he wants to leave the classroom.",
+            "To let [person_1] go to the toilet first.",
+            "Because [person_1] does not wear work gloves , it is easy to get injured if [person_1] makes a mistake."
+        ]
+    }
+}

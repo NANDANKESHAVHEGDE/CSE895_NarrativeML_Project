@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is the the baby boy.",
+            "[chair_1] is close to the wall behind [chair_1].",
+            "[chair_1] is near [chair_2].",
+            "[chair_1] is placed next to the desk.",
+            "It is near next to the railing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] standing there?",
+        "answer": [
+            "[person_3] and [person_3]'s actions are funny.",
+            "Because that will be easier for [person_3] to tie a bow on [person_3]'s neck.",
+            "[person_3] is watching people stomping.",
+            "[person_3] is excited about participating the game.",
+            "[person_3] is excited about her gift."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is talking about his opinion.",
+            "[person_1] is going to toast coffee.",
+            "[person_1] is going to stomp his feet.",
+            "[person_1] will continue to play.",
+            "[person_1] will throw the frisbee."
+        ],
+        "reason": [
+            "[person_1]'s arms were intertwined.",
+            "[person_1] needs to recover.",
+            "[person_1] was smiling.",
+            "[person_1] just started.",
+            "His left leg is being lifted."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not hold the hand of [person_3]?",
+        "answer": [
+            "People will be overwhelmed.",
+            "[person_1] will stop running.",
+            "[person_1] might stop performing.",
+            "[person_3] could fall down.",
+            "The vehicle will stop running."
+        ],
+        "reason": [
+            "[person_3] herself could not keep balance.",
+            "[person_1] can't stand herself.",
+            "To find some ointment to release their pain.",
+            "They are floating up and down around him.",
+            "[person_1] only stops when finishing the bottle flip."
+        ]
+    }
+}

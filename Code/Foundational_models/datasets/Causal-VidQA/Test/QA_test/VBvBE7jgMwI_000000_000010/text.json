@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is in the corner of the yard.",
+            "[cup_1] is sitting on the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] picking up [cup_1]?",
+        "answer": [
+            "[person_1] puts his hands on the floor and stretches the resistance band",
+            "[person_1] is recording a video.",
+            "[person_1] bows to focus on [person_1]'s fingers when playing the guitar.",
+            "Because it is convenient to open and close the door of the [cup_1].",
+            "[person_1] may want to drink water."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to have a meal.",
+            "[person_1] may go back home.",
+            "[person_1] might drink water with [cup_1].",
+            "[person_1] may hug others.",
+            "[person_1] is going to continue opening the gift."
+        ],
+        "reason": [
+            "[person_1] waits for [person_1] to approach.",
+            "[person_1] is opening present.",
+            "[person_1] picks up [cup_1] from [dining table_1].",
+            "[person_1] looks very professionally.",
+            "[person_1] is keen on the activity."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't throw the ball through the basket?",
+        "answer": [
+            "[person_1] will not clap his hands to celebrate.",
+            "That friend would continue playing kickball.",
+            "There would be nothing to put into the second plate.",
+            "[person_1] would not have to chase after the ball.",
+            "[person_1] might be considered impolite."
+        ],
+        "reason": [
+            "[person_1] and others didn't have the practicing goals at the first.",
+            "The ball was thrown back and rolled to another direction.",
+            "[person_1] claps his hands to celebrate his goal , so he might not if there is no goal.",
+            "the child of [person_1] who is wearing a cap is too small to stand.",
+            "The [person_1] prepares well for the painting."
+        ]
+    }
+}

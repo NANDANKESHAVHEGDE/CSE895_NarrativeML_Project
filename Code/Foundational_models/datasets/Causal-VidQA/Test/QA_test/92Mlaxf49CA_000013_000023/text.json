@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it sunny?",
+        "answer": [
+            "[person_1] is on the chair.",
+            "[person_1] is wearing it in front of her.",
+            "[person_1] is placed next to [person_1].",
+            "It is \u00a0 behind the [person_1].",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the ground?",
+        "answer": [
+            "Maybe [person_1] is recording about pipes and how to smoke.",
+            "Because [person_1] is exercising.",
+            "Because [person_1] needs to hit the cap quickly so that he can open it.",
+            "Because [person_1] is spraying paint on the iron frame.",
+            "Because [person_1] is watering the plants."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue to water the plants.",
+            "[person_1] will keep practicing the piano.",
+            "[person_1] will probably practice.",
+            "[person_1] will close her eyes.",
+            "[person_1] will enjoy the liquid inside the bottle."
+        ],
+        "reason": [
+            "[person_1] is watering the plants.",
+            "[person_1] is spreading the napkin to fold.",
+            "[person_1] , [person_1] and [person_1] are dancing very beautifully.",
+            "[person_1] is spinning the skateboard.",
+            "[person_1] is a baker and [person_1] is adding flour into cake pan to bake."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't show up?",
+        "answer": [
+            "[person_1] wouldn't be know how to water the plants.",
+            "[person_1] would see more clearly.",
+            "[person_1] would be know how to water the plants.",
+            "They would be shocked by it.",
+            "[person_1] wouldn't be know how to kill the plants."
+        ],
+        "reason": [
+            "[person_1] was a child.",
+            "Because [person_1] did not remember all the moves of the greeting.",
+            "[person_1] was an adult.",
+            "[person_1] would be to tall for the machine.",
+            "[person_1] was not a child."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_2]'s shirt?",
+        "answer": [
+            "Black and blue.",
+            "There are five cups on the table.",
+            "There are 15 cups on the floor.",
+            "It's white.",
+            "There is a shovel."
+        ]
+    },
+    "explanatory": {
+        "question": "Why [person_2] interrupts [person_1] with her hand?",
+        "answer": [
+            "Maybe it's because of coincidence.",
+            "To play a trick on [person_1].",
+            "The space outside is more open than in the house.",
+            "They are here to perform music.",
+            "[person_1] has nothing to do."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to eat all the [person_2].",
+            "To host a bubble blowing match.",
+            "[person_2] is going to tuck in the paper on the corners of the box.",
+            "To take out all the rest clothes.",
+            "Give the bubble machine to [person_2]."
+        ],
+        "reason": [
+            "Because [person_2] also wants to make bubbles.",
+            "Because [person_2] wears Santa Claus's clothes.",
+            "Maybe [person_2] loves to eat noodles.",
+            "[person_2] is going to keep running.",
+            "To function as the snowman's coats."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the bubbles go into [person_1]'s eyes?",
+        "answer": [
+            "Then the basketball will not bounce up as the same direction as before.",
+            "[person_1] will feel more tired.",
+            "[person_1] might have to stop talking and finding a flashlight.",
+            "[person_1] would fall down and suffer the pain.",
+            "[person_2] will go to find some clean water."
+        ],
+        "reason": [
+            "[person_1] will go to the dentist.",
+            "To help [person_1] wash eyes.",
+            "The teammates of [person_1] are not delighted.",
+            "The not flat floor will affect the balance [person_1] is trying to keep.",
+            "[person_1] is trying to touch the fish."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] doing?",
+        "answer": [
+            "[person_3] is jogging.",
+            "[person_3] is holding a yellow balloon.",
+            "[person_3] is supporting [person_1] to hold the lanyard.",
+            "[person_1] is holding [person_3].",
+            "[person_3] is kissing [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] kiss [person_1]?",
+        "answer": [
+            "[person_1] is helping [person_1] not to fall.",
+            "[person_1] is opening present.",
+            "[person_3] wants to teach [person_1] something.",
+            "[person_1] is smoking hookah.",
+            "[person_3] expresses emotionally to [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] is going to express emotionally to [person_1].",
+            "[person_3] is going to bend down and pick up the ball.",
+            "[person_3] is going to finish [person_3]'s performance.",
+            "[person_3] is going to stand up.",
+            "[person_3] is moving her feet quickly."
+        ],
+        "reason": [
+            "[person_3] hugged and kissed [person_1].",
+            "Maybe [person_3] is helping his friend.",
+            "[person_3] finishes landing after the jump.",
+            "[person_3] is only a normal people.",
+            "[person_3] is done swirling [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] dropped the gift?",
+        "answer": [
+            "[person_1] will stop playing golf.",
+            "The driver of the snow blower will go to find some tools.",
+            "[person_1] will fall.",
+            "Maybe the gift can be broken.",
+            "[person_1] will try again."
+        ],
+        "reason": [
+            "When [person_3] has no strength , [person_3] will be overwhelmed by the barbell.",
+            "[person_1] and [person_3] are too heavy for the hover - board.",
+            "Because [person_1] would not have anything to feed the goat.",
+            "[person_1] held the gift on the right hand and [person_3] hugged [person_1] suddenly.",
+            "The harder [person_1] and [person_1] stomp , the more water comes out."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] holding?",
+        "answer": [
+            "[person_1] is holding a bagpipe.",
+            "[person_1] is holding an underwear.",
+            "[person_1] is holding [cell phone_1].",
+            "[person_1] is on the right hand of [person_1].",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold [cell phone_1] in the bathroom?",
+        "answer": [
+            "Maybe [person_1] wanna shoot a video on how to wax chest.",
+            "[person_1] is playing in a happy way.",
+            "Because [person_1] wants to propose to her.",
+            "[cell phone_1] is enjoying massage.",
+            "The [person_1] hasn't found what he wants."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to recommend the patch on his chest.",
+            "[person_1] is going to talk.",
+            "[person_1] will stop watering.",
+            "[person_1] may clean the table.",
+            "[person_1] may find a place to hide."
+        ],
+        "reason": [
+            "The result is not perfect.",
+            "[person_1] only used 1 dice.",
+            "[person_1] pointed to the stickers on his chest.",
+            "It is very sunny.",
+            "[person_1] is standing and waiting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] applies these patches too long?",
+        "answer": [
+            "[person_1] will stack cups quickly.",
+            "[person_1] and [person_1] will leave.",
+            "[person_1] may get burned.",
+            "[person_1] would decline the help.",
+            "[person_1] will watch [person_1] playing the toy."
+        ],
+        "reason": [
+            "Perhaps [person_1] is the one who possesses that tree.",
+            "Because [person_1] is folding the napkin on the table.",
+            "[person_1] and [person_1] combined between jumping rope and somersaulting . It is easy to fall.",
+            "[person_1] can not keep sitting in the wet place.",
+            "When applying a full patch , it should be hot to wax the chest easily . And [person_1] must test the temperature of the wax carefully to avoid scalding."
+        ]
+    }
+}

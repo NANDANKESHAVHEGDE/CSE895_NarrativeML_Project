@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2]?",
+        "answer": [
+            "[chair_2] is beside [person_1].",
+            "[person_1] is in the corner.",
+            "[chair_2] is behind [person_1].",
+            "[chair_2] is on the right of [person_1].",
+            "[chair_2] is under [chair_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are there so many people watching?",
+        "answer": [
+            "[chair_2] is helping the kids to do this.",
+            "[chair_2] is celebrating his success in stacking the dices.",
+            "[chair_2] is wearing make - up.",
+            "They want to see who wins the game.",
+            "To pressure the gas inside the beer bottle to open it better."
+        ]
+    },
+    "predictive": {
+        "question": "What will they do after cheering?",
+        "answer": [
+            "[chair_2] is going to run around the bases.",
+            "[person_1] will keep on sitting there and laughing.",
+            "[person_1] is going to throw the ball back to [person_1].",
+            "[person_1] may film this match.",
+            "They will play another round."
+        ],
+        "reason": [
+            "Because the game is not over yet.",
+            "[chair_2] is running very professionally.",
+            "[chair_2] is young.",
+            "Because [person_1] has filmed everything around.",
+            "Because they are really into the game and don't want to stop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the teacher comes in?",
+        "answer": [
+            "The apple may fall apart.",
+            "The girl might be scared.",
+            "The room would be in order soon.",
+            "[chair_2] would have to clean up the trimmed tree.",
+            "[person_1] might be unable to hula hoop."
+        ],
+        "reason": [
+            "The floor is so hard.",
+            "There is a lot of food on the table.",
+            "It's time for class and the teacher is strict.",
+            "The slides are very thin and fragile.",
+            "Because they are hungry and don't want to miss delicious food."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of clothes is [person_2] wearing?",
+        "answer": [
+            "No.",
+            "[person_2] is on the right of [person_2].",
+            "He is wearing yellow clothes.",
+            "A watch is being worn on [person_2] hand.",
+            "[person_2] is behind [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is everyone so happy?",
+        "answer": [
+            "Because [person_3] has trouble opening the gift.",
+            "Because they are good friends.",
+            "Because she doesn't memorize the melody of the song.",
+            "[person_3] is playing basketball.",
+            "[person_2] wants [person_2] to get stronger."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_3] do after laughing?",
+        "answer": [
+            "[person_3] will drink.",
+            "[person_3] will force force [person_3] to eat vegetables",
+            "[person_3] will go on playing with others . ",
+            "[person_3] might dance.",
+            "He will continue completing the puzzle."
+        ],
+        "reason": [
+            "Because [person_3] wants to touch the fishes.",
+            "The winner has not been known yet.",
+            "Because [person_3] likes these people.",
+            "Because they seem to be good friends.",
+            "[person_3] is happy for [person_3]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_3] do if there is a fire?",
+        "answer": [
+            "[person_3] will use the comb to comb her hair.",
+            "[person_3] will run away right now.",
+            "[person_3] will ask [person_3] to help him again.",
+            "[person_3] will run close right now.",
+            "[person_3] will be injured."
+        ],
+        "reason": [
+            "Because when the fire comes , people will choose to stay.",
+            "We can call some friend to come by calling them.",
+            "Because when the fire comes , people will choose to escape.",
+            "If she doesn't do that , she'll get caught in the rain.",
+            "Because when the fire comes , people will choose to pray."
+        ]
+    }
+}

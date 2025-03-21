@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "It's yellow.",
+            "A spoon.",
+            "[person_1] is in a room.",
+            "[person_1] is performing on stage.",
+            "[person_1] is in a gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room ?",
+        "answer": [
+            "[person_1] is practicing playing the flute.",
+            "[person_1] is having a party.",
+            "[person_1] is practicing cello.",
+            "[person_1] is sitting on the chair and using the piano.",
+            "[person_1] is teaching how to soften the hand muscles of a paralyzed person."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to tap dancing.",
+            "[person_1] is going to get more food for the goats.",
+            "[person_1] is bound to practice playing the piano.",
+            "[person_1] may eat the food on [person_1].",
+            "[person_1] is going to play the flute right after that."
+        ],
+        "reason": [
+            "It can not be eat.",
+            "From other's behavior we can know after practicing the people need to stand in a line.",
+            "[person_1] is wearing tap dancing shoes.",
+            "[person_1] has finished the song.",
+            "The piano is used by him."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is bored ?",
+        "answer": [
+            "[person_1] will not appear in the video.",
+            "[person_1] may cry.",
+            "[person_1] will certainly stop playing the piano.",
+            "[person_1] will run away.",
+            "[person_1] will not be able to complete the challenge."
+        ],
+        "reason": [
+            "[person_1] may lull [person_1] , then put the baby in the blue crib behind.",
+            "Because the [person_1] will hurt him.",
+            "[person_1] will go to bed.",
+            "[person_1] should stand up when the teacher [person_1] calls him to answer the question.",
+            "Maybe [person_1] will not have anything to shake the dices."
+        ]
+    }
+}

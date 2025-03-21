@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_3] doing ?",
+        "answer": [
+            "The mirror is on the wall.",
+            "Korean national flag is on the wall.",
+            "The [person_3] is playing the discus.",
+            "[person_3] is looking at the cap of [person_3].",
+            "The [person_3] is on the desk."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_3] use many strength?",
+        "answer": [
+            "[person_3] bent down to pick up the dropped ball.",
+            "[person_3] is watching a man swallowing a sword.",
+            "Because the road is too big to measure with a tape measure.",
+            "Because the [person_3] throw the frisbee away.",
+            "The accordion is so big , so [person_3] can't play it."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "[person_1] is going out.",
+            "The [person_1] may look for the shot put ball after throwing.",
+            "The [person_1] is going to keep the pose.",
+            "The [person_1] may not be startled again.",
+            "The [person_1] may keep moving body when performing."
+        ],
+        "reason": [
+            "The [person_1] kept looking around as if looking for an opportunity to get out of bed.",
+            "The [person_1] is still holding the hand of the man and stepping ahead.",
+            "Because the [person_3] avoids to hit by the discus.",
+            "The [person_3] , whom the [person_1] is following , is still riding.",
+            "The [person_1] is still holding the tether and following the dog."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_3] throws the frisbee in the [car_1] ?",
+        "answer": [
+            "The [car_1] will be damaged.",
+            "[person_3] will cut off power first.",
+            "The  woman on the stage will fall down.",
+            "[car_1] will try to practice playing again.",
+            "[car_1] may sit closer to the table."
+        ],
+        "reason": [
+            "When the [person_3] drives out of the area , the [car_1] is safe.",
+            "Because [person_3] is here to keep the parasailing safe.",
+            "[car_1] would try to help [car_1] because [car_1] is a child.",
+            "Because the fuel tank will catch the fire.",
+            "[person_3] is working with sharp blades."
+        ]
+    }
+}

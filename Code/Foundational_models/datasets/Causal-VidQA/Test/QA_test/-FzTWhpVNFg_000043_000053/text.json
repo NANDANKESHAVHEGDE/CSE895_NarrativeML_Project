@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the house.",
+            "[person_1] is sitting on a pavement.",
+            "[person_1] is standing near a lake.",
+            "[person_1] is in the gym.",
+            "[person_1] is on the right hand of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] here?",
+        "answer": [
+            "[person_1] turns the tablecloth over to be able to tap the pen on the table.",
+            "[person_1] is here to spray - paint the chair.",
+            "[person_1] is here to play the cymbals and drums made of an empty bucket.",
+            "[person_1] is stretching the whole body.",
+            "Maybe [person_1] just finished assembling it."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after playing?",
+        "answer": [
+            "[person_1] will go to the kitchen.",
+            "[person_1] will go home.",
+            "[person_1] will go to bed.",
+            "She will ask the man to hold the rope.",
+            "[person_1] will drink some water."
+        ],
+        "reason": [
+            "It's summer time.",
+            "Obviously , they just have a short talk.",
+            "To ask how to do the head stand successfully.",
+            "The action is too exhausting.",
+            "The action is too exhausting , and they have played really strenuously."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if someone kicked the bucket away?",
+        "answer": [
+            "[person_1] would be very angry.",
+            "[person_1] and [person_1] would go out.",
+            "The man wearing glasses might fall.",
+            "Maybe [person_1] can throw it in.",
+            "The clothes of [person_1] would get dirty."
+        ],
+        "reason": [
+            "Because [person_1] is in the middle of his performance.",
+            "The older man turned around so he could see what was going on.",
+            "There would not be electricity to the loudspeaker as well as there would not be any light.",
+            "The woman with the white shirt is stomping grapes.",
+            "The [person_1] needs the footrest to keep his body going up and down."
+        ]
+    }
+}

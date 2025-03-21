@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is skating.",
+            "[person_1] is playing mahjong.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is touching the organ.",
+            "[person_1] is introducing how to slam the tire."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] skating slowly?",
+        "answer": [
+            "[person_2] may just take up skating.",
+            "[person_2] is singing and dancing at the same time.",
+            "[person_2] is opening her present.",
+            "[person_2] is introducing how to do massaging neck.",
+            "Because [person_2] is afraid of falling down."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to try to make bubbles again.",
+            "[person_2] is going to skate carefully.",
+            "[person_2] is going to pick up the pancake.",
+            "[person_2] is going to put his cup away.",
+            "[person_2] is going to flip the sword."
+        ],
+        "reason": [
+            "[person_2] moves to another place.",
+            "[person_2] disagreed with [person_2] and before [person_2] continued to talk , [person_2] looked at the board which seems that there are some opinions on it.",
+            "[person_2] is speaking very attentively.",
+            "[person_2] moved step by step.",
+            "Because [person_2] wants to reply the hug of [person_2]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] gets injured?",
+        "answer": [
+            "[person_1] may stop skating.",
+            "[person_1] grows muscles.",
+            "[person_1] will be fall.",
+            "Then [person_1] may stop cooking.",
+            "[person_1] will drink water."
+        ],
+        "reason": [
+            "Because [person_1] is in the yard.",
+            "[person_1] has just started skating so [person_1] has no experience.",
+            "[person_1] would hit [person_1] because [person_1] is right in front of him.",
+            "[person_1] can't train because [person_1] was injured.",
+            "[person_1] is an amateur."
+        ]
+    }
+}

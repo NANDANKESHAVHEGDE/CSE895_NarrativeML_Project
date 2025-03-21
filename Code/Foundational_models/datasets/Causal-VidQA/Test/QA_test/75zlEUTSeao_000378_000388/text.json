@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is sitting?",
+        "answer": [
+            "[person_3] is sitting.",
+            "[person_3] is in the left of [person_3].",
+            "[person_3] is near the column.",
+            "[person_3] is on the ground.",
+            "It is on the table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand next to [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are performing together.",
+            "[person_1] is smiling at the baby's cute reaction.",
+            "This video is documentary about the spinning poi.",
+            "The foot of [person_1] is hurt.",
+            "Because [person_1] is thirsty."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_1] and [person_2] next?",
+        "answer": [
+            "[person_1] and [person_2] will be able to make cakes.",
+            "[person_1] and [person_2] will stop practicing.",
+            "[person_1] and [person_2] will continue performing.",
+            "[person_1] will continue to crawl on the floor.",
+            "Maybe to introduce [person_2] to tires."
+        ],
+        "reason": [
+            "Because she seems to want to make a video.",
+            "[person_1] and [person_2] appear to be in a knife - throwing game.",
+            "[person_1] and [person_2] has not finished the performance.",
+            "Because they are talking and aiming their cameras at that direction.",
+            "both [person_1] and [person_2] are in the process of reviewing the lollipops they're eating so they will finish eating them."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not on stage?",
+        "answer": [
+            "[person_1] may not do the greeting.",
+            "There would be only [person_2] and [person_3] on stage.",
+            "[person_2] would have to perform alone.",
+            "[person_1] may fold the clothes alone.",
+            "[person_1] might not be able to use the phone."
+        ],
+        "reason": [
+            "[person_1] is not able to describe this tai chi move alone because this move engages two performers.",
+            "There is no one besides [person_1] in the room . ",
+            "[person_1] does not attend the performance.",
+            "[person_1] will continue to dance.",
+            "[person_1] is just a kid and can not stay balance on the swing without help."
+        ]
+    }
+}

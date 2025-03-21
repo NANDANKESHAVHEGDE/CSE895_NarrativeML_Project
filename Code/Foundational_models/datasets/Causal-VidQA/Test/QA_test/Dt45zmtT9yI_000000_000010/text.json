@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the bookshelf?",
+        "answer": [
+            "Fire is under the wood.",
+            "It is made of glass.",
+            "The bookshelf is behind [person_1].",
+            "No.",
+            "It is made of wood."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold a flute?",
+        "answer": [
+            "[person_1] is doing physical exercise.",
+            "[person_1] uses a knife to peel the banana skin",
+            "[person_1] is singing and dancing at the same time.",
+            "[person_1] is performing in a show.",
+            "[person_1] is playing the flute."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will take the board away.",
+            "[person_1] will keep shaving [person_1]'s left leg.",
+            "[person_1] will lay on the floor.",
+            "Perhaps [person_1] will throw the ball into the cups.",
+            "[person_1] will read the book."
+        ],
+        "reason": [
+            "Because the [person_1] wants to go home for dinner.",
+            "There are many books behind [person_1].",
+            "That man is wait for [person_1].",
+            "Because there's a car next to [person_1] and the bucket is in the car.",
+            "[person_1] has successfully opened the bottle."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [chair_1] falls?",
+        "answer": [
+            "[person_1] will be very sad.",
+            "[person_1] won't be startled.",
+            "[person_1] will find anything to repair [person_1].",
+            "[person_1] will be startled.",
+            "[person_1] will bring [person_1] back."
+        ],
+        "reason": [
+            "When the [chair_1] touches the floor , it will make a small noise.",
+            "It is dangerous for [chair_1] to use the knife.",
+            "When the [chair_1] cannot touches the floor , it will make a loud noise.",
+            "[chair_1] only wants to use barbell to do exercise and other things are unnecessary.",
+            "When the [chair_1] touches the floor , it will make a loud noise."
+        ]
+    }
+}

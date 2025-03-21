@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [couch_1]?",
+        "answer": [
+            "[couch_1] is a little girl.",
+            "[couch_1] is the man who is wearing a red shirt.",
+            "[couch_1] is looking at the gong.",
+            "[couch_1] is the man who is wearing headphones.",
+            "The color of [couch_1] is green."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing with cups.",
+            "[person_1] is looking at the book and playing flute.",
+            "[person_1] is opening present.",
+            "Maybe [person_1] is listening to music.",
+            "He wants to see if there is anything outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will ride harder.",
+            "[person_1] will demonstrate how to use this fishing rod.",
+            "[person_1] will stop playing golf.",
+            "[person_1] will be cry.",
+            "[person_1] may pick up the things on the ground."
+        ],
+        "reason": [
+            "[person_1] isn't love the present and [person_1] throws the gift.",
+            "[person_1] turned around and go to [person_1]'s spot.",
+            "[person_1] is demonstrating while talking to the camera.",
+            "Because [person_1] is holding a cup.",
+            "That bottle of champagne is for cheering , not drinking."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] hits [person_1]?",
+        "answer": [
+            "[person_1] will be very happy.",
+            "[person_1] will be hurt.",
+            "[person_1] will keep playing the solo.",
+            "[person_1] won't be hurt.",
+            "[person_1] will solve it himself."
+        ],
+        "reason": [
+            "Because [person_2] would get hurt . [person_1] and [person_2] are sisters , [person_1] and [person_2] are kids.",
+            "[person_1] is a kid . [person_2] is strong and heavy.",
+            "The tree is behind [person_1] . When he raise his head , he is close to the tree.",
+            "[person_1] is an adult . [person_2] is strong and heavy.",
+            "When [person_1] walks in the water , he is very cool about it."
+        ]
+    }
+}

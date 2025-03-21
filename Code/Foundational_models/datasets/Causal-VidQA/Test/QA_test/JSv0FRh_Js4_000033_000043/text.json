@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_2]?",
+        "answer": [
+            "It is next to the [person_1].",
+            "[chair_2] is being sat by [person_1].",
+            "It is behind [person_1].",
+            "[chair_2] is being seated by [person_1].",
+            "[chair_2] is in the corner."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the faucet?",
+        "answer": [
+            "Because the pencil is blunt.",
+            "Because it's a tool for [person_1] to slide.",
+            "The [person_1] wants to sit down.",
+            "[person_1] is afraid of the fire.",
+            "Because it is a smoking device."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue having breakfast.",
+            "[person_1] will stop watering.",
+            "She is going to go to bed.",
+            "[person_1] will check the honey.",
+            "[person_1] will certainly smoke."
+        ],
+        "reason": [
+            "[person_1] is sitting on the floor.",
+            "[person_1] is holding a faucet.",
+            "[person_1] is leaving.",
+            "[person_1] and [person_1] are friends.",
+            "Because [person_1] has reached for the phone , it looks like the recording is finished."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the vase breaks?",
+        "answer": [
+            "[person_1] will stop smoking.",
+            "[person_1] will be frightened.",
+            "[person_1] will scream and shout.",
+            "[person_1] will be scared of [person_1].",
+            "They will take turns doing cartwheels."
+        ],
+        "reason": [
+            "The solution in the flask is gone.",
+            "It is too dark for them to continue their performance.",
+            "[person_1] might be very angry.",
+            "[person_1] is small and alone.",
+            "[person_1] will not be able to use it."
+        ]
+    }
+}

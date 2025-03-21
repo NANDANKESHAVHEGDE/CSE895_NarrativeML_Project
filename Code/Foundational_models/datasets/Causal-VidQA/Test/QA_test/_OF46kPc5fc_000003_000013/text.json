@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the skating rink.",
+            "[person_1] is in the room.",
+            "[person_1] is outside the house.",
+            "[person_1] is \u00a0 in the room.",
+            "[person_1] is in a fitness center."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] jump?",
+        "answer": [
+            "[person_1] received a gift.",
+            "[person_1] wants to throw the ball into the basket.",
+            "[person_1] is unboxing the present.",
+            "[person_1] throws the ball into the basketball hoop.",
+            "[person_1] might lose his balance."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may stop playing basketball.",
+            "[person_1] does a workout.",
+            "[person_1] will stop kicking high.",
+            "[person_1] intends to spend his time playing.",
+            "[person_1] is going to introduce about her book."
+        ],
+        "reason": [
+            "[person_1] has picked the frisbee up.",
+            "[person_1] may keep slacklining.",
+            "[person_1] feels hot.",
+            "[person_1] is going far away from the basketball hoop stand.",
+            "[person_1] has picked the cake up."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] jumps higher?",
+        "answer": [
+            "[person_1] can throw the ball into [tennis racket_1].",
+            "[person_1] will chase after [person_1].",
+            "[person_1] may sit for a while.",
+            "It will be dark.",
+            "[person_1] will get a round of applause."
+        ],
+        "reason": [
+            "[person_1] is a woman.",
+            "Because after falling , [person_1] may have injuries in his legs.",
+            "Because they are too close to each other.",
+            "[person_1] is wearing headphones to listen to music.",
+            "[person_1] doesn't jump high enough to reach the [tennis racket_1]."
+        ]
+    }
+}

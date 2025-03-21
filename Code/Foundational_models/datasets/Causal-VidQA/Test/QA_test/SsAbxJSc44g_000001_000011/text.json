@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_4] stomp grapes?",
+        "answer": [
+            "The [person_4] is happy after picking an apple.",
+            "Because it's a tool for [person_4] to slide.",
+            "Because [person_4] wants to use grape juice to make fermented wine.",
+            "Because [person_4] wants to use the cola to open the beer.",
+            "Because there is no electricity."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue stretching.",
+            "[person_1] may go home.",
+            "[person_1] is going to start stomp the grapes.",
+            "[person_1] is going to skate.",
+            "[person_1] is going to continue skateboarding."
+        ],
+        "reason": [
+            "[person_1] has picked the cake up.",
+            "[person_1] has raised his two palms.",
+            "[person_1] is excited about this book.",
+            "[person_1] is working very hard.",
+            "[person_1] is going to talk with her friend."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will be stop talking.",
+            "[person_1] maybe stop stomping.",
+            "[person_1] maybe afraid",
+            "[person_1] maybe afraid.",
+            "They will not work."
+        ],
+        "reason": [
+            "The light will not work . , too.",
+            "The fan will be off , too.",
+            "The room will be dark.",
+            "The piano will not work.",
+            "The television won't work without power."
+        ]
+    }
+}

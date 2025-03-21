@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "where is [car_1] parking?",
+        "answer": [
+            "[car_1]'s shirt is black.",
+            "There are 15 cups on the floor.",
+            "There are 4 trees.",
+            "[car_1] is parking on the street.",
+            "It is a wire cage."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the basketball?",
+        "answer": [
+            "[person_1] wants to improve the knowledge.",
+            "[person_1] prepares for playing it.",
+            "[person_1] is taking about shaving.",
+            "[person_1] is playing basketball with his son.",
+            "[person_1] is playing chess with her son."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] going to do?",
+        "answer": [
+            "[person_1] is about to get fed.",
+            "[person_1] is going to play something interesting toy.",
+            "[person_1] is going to proceed to play alone.",
+            "[person_1] is going to continue trying to stomp the grapes.",
+            "Maybe he will spit the water to the [person_1]."
+        ],
+        "reason": [
+            "[person_1] is playing on a deserted basketball court.",
+            "[person_1]'s job needs sawing wood panels.",
+            "There is still milk in the bottle and he still hold the bottle.",
+            "When he drink the wine , he feels happy and he is likely to drink it again.",
+            "[person_1] turns his head to the person on his right."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the girl who passes the basketball court wanna join with [person_1]?",
+        "answer": [
+            "[person_1] will stop jumping.",
+            "[person_1] and the girl who passes the basketball can practice the passing drills.",
+            "It is probable that [person_1] won't have pretty lips.",
+            "[person_1] will call the manager of the gym.",
+            "[person_1] will have a rest."
+        ],
+        "reason": [
+            "It needs more than one person to practice the passing drills.",
+            "[person_1] has the potential to become a great dancer.",
+            "There are some chairs behind [person_1].",
+            "The sofa is behind [person_1].",
+            "[person_1] will help [person_1] stand up."
+        ]
+    }
+}

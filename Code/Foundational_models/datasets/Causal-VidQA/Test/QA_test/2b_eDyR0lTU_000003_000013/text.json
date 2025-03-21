@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting on the ground.",
+            "[person_1] is sitting and reading the book on the [person_1].",
+            "[person_1] is stacking the dice on the table.",
+            "[person_1] is pointing towards the golf cart.",
+            "[person_1] is holding the harmonica."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pointing towards the golf cart?",
+        "answer": [
+            "[person_1] is hitting on the gongs to check the sound of the gongs.",
+            "[person_1] is planing wood.",
+            "[person_1] is taking photo.",
+            "[person_1] is playing a song on the guitar.",
+            "the golf cart is being driven by [person_6]."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [person_2] next after seeing the cart is moving?",
+        "answer": [
+            "[person_2] will continue to play the toy in the toy car.",
+            "[person_2] will run after the golf cart.",
+            "[person_2] will pass the soccer ball to [person_2].",
+            "[person_2] wants to slap the legs of [person_2].",
+            "[person_2] will organize them to start the party."
+        ],
+        "reason": [
+            "Because they sit on the stage , they are probably also the dancers.",
+            "After the kicking [person_2] seems lost the balance.",
+            "[person_2] is throwing something at the golf cart.",
+            "[person_2] has finished the difficult part of the performance.",
+            "[person_2] looks like she is washing her face with cleaner cream , so [person_2] may wash the cream off to clean the face skin."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the road is bumpy?",
+        "answer": [
+            "[person_5] will feel suffocated.",
+            "[person_5] will be kicked out of the golf cart.",
+            "[person_5] may go to work.",
+            "You will have a better beard.",
+            "[person_5] would get serious injury on his feet."
+        ],
+        "reason": [
+            "The [person_5] is standing at the site where the [person_5] is throwing the snow.",
+            "The [person_5] is big so it will make a loud noise when it falls.",
+            "Because [person_5] is next to them.",
+            "[person_5] is sitting on the back of the golf cart.",
+            "Because [person_5] may look at something else when [person_5] is kicking."
+        ]
+    }
+}

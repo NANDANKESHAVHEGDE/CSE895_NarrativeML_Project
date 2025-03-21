@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a gym.",
+            "[person_1] is in front of the wall.",
+            "[person_1] is in his room.",
+            "[person_1] is at the gym.",
+            "[person_1] is sitting at a table."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a guitar ?",
+        "answer": [
+            "The [person_1] seems to be looking for something in the refrigerator.",
+            "[person_1] is holding the harmonica.",
+            "Because [person_1] wants to touch her belly button.",
+            "Because the [person_1] wants to show the internal structure of the refrigerator.",
+            "Because [person_1] is playing guitar and whistling."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] will continue to lift weights.",
+            "[person_1] may keep working.",
+            "[person_1] is going to stop saluting.",
+            "[person_1] will rip the paper.",
+            "[person_1] is going to play another song."
+        ],
+        "reason": [
+            "[person_1] is learning how to play guitar with a mini guitar.",
+            "[person_1] is facing [person_1].",
+            "[person_1] is holding the chess piece.",
+            "[person_1] is looking at the plate of food.",
+            "[person_1] is snowmobiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] breaks one of the strings?",
+        "answer": [
+            "[person_1] will have to stop playing guitar for a while.",
+            "[person_1] will get cheers from the audience.",
+            "Then the health of the people will change.",
+            "[person_1] will climb over the fence to pick up the ball.",
+            "[person_1] will no longer be able to shoot with a pipe."
+        ],
+        "reason": [
+            "Because it may out of the catching range of [person_1].",
+            "The duck may eat whatever visitors give it.",
+            "[person_1] needs a new string.",
+            "The scratch of cats normally hurts.",
+            "[person_1] should reinforce the panels."
+        ]
+    }
+}

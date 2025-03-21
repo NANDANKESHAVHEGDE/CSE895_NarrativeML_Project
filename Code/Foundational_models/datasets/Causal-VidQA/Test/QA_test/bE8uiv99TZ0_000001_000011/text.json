@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is it dark in the room?",
+        "answer": [
+            "A watch.",
+            "It is a ring box.",
+            "Yes.",
+            "It is a towel.",
+            "The lamp is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] walking?",
+        "answer": [
+            "[person_1] is making a tutorial video.",
+            "[person_1] is playing chess.",
+            "[person_1] is possibly instructing the viewer how to play different chords on the guitar.",
+            "[person_1] is excited about his action.",
+            "[person_1] wants to keep fit."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after the exercise?",
+        "answer": [
+            "[person_1] will rest.",
+            "There will be some changes.",
+            "[person_1] will clean her face.",
+            "[person_1] may want to drink water.",
+            "[person_1] will give some comments on the performance."
+        ],
+        "reason": [
+            "Because [person_1] seems to practice and does the exercise.",
+            "[person_1] is moving forward gradually.",
+            "[person_1] is tired.",
+            "The pancake fell down the floor and she has to repair the pan to make another pancake.",
+            "The treadmill doesn't work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will they do if they are too tired?",
+        "answer": [
+            "They will start the exercise.",
+            "The audience below might see it.",
+            "They will stop the exercise.",
+            "This camp will earn more . ",
+            "They will not stop the exercise."
+        ],
+        "reason": [
+            "They will sleep at once.",
+            "It can be seen from the video that the cat has a very good relationship with its owner , so cat should catch up with his master.",
+            "They will not sleep at once.",
+            "The more people join the dancing , the atmosphere becomes higher.",
+            "They will keep awake at once."
+        ]
+    }
+}

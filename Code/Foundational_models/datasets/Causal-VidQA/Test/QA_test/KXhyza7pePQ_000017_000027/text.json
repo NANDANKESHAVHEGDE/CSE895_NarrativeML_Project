@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [truck_1]?",
+        "answer": [
+            "[truck_1] is next to [car_1].",
+            "The [truck_1] is sitting on the chair that is next to piano.",
+            "[truck_1] is under [truck_1].",
+            "[car_1] is in a roller skating floor.",
+            "The [car_1] is next to the [car_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] feel?",
+        "answer": [
+            "[person_2] feels excited.",
+            "[person_1] feels excited.",
+            "To make metal detecting.",
+            "[person_1] is excellent.",
+            "The weather is sunny."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to join the queue.",
+            "[person_1] is going to continue cutting wrapping paper with the ruler.",
+            "[person_1] is going to raise both hands.",
+            "[person_1] is going to tie a knot on [person_1]'s back.",
+            "[person_1] is going to ride unicycle somewhere else."
+        ],
+        "reason": [
+            "[person_1] will not stop riding skateboard until he perfects his skateboarding skill.",
+            "When [person_1] lies back down , [person_1] raises her hands and prepares to tickle.",
+            "There is only one square on the course to put one foot in.",
+            "[person_1] is cycling forward.",
+            "[person_1] does not finish carving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained suddenly?",
+        "answer": [
+            "[person_1] would stop lighting the candle to get inside the building.",
+            "[person_1] will cycle to find shelter from the rain.",
+            "[person_1] would stop shooting to find a shelter.",
+            "[person_1] and [person_1] might stop their practice and go inside.",
+            "[person_1] would stop warming up to find a shelter."
+        ],
+        "reason": [
+            "Because she is so love this cake.",
+            "[person_1] will get wet.",
+            "[person_1] and [person_1] don't have an umbrella.",
+            "The ground is too slippery to ride [person_1] in the rain.",
+            "[person_1] had to find a shelter."
+        ]
+    }
+}

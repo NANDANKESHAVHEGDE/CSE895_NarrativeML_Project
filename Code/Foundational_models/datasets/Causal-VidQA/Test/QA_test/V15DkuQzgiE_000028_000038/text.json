@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the color of [person_2]'s glasses?",
+        "answer": [
+            "They are black.",
+            "Yes.",
+            "The speaker is behind [person_2].",
+            "[person_2] and [person_2] are above the sink.",
+            "A watch."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is there a mirror on the wall?",
+        "answer": [
+            "It's put there by the parents.",
+            "[person_2] must have used these tools or she wanted to use them.",
+            "[person_2] wanted it to be more beautiful.",
+            "[person_2] is putting lipstick on her hand to check the color.",
+            "[person_2] is middle aged."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do after this round?",
+        "answer": [
+            "[person_2] will give [person_2] applause.",
+            "[person_2] will ask [person_2] for help.",
+            "[person_2] will close the book and put it back on the shelf.",
+            "[person_2] will continue the game.",
+            "[person_2] will go on watching TV."
+        ],
+        "reason": [
+            "No one can share food with [person_2].",
+            "[person_2] likes this exercise.",
+            "[person_2] wants to play with phone , too.",
+            "The food is delicious and he is hungry.",
+            "He loves the games even if he just lost a round."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] wins the game continuously?",
+        "answer": [
+            "[person_1] will try again.",
+            "[person_1] will lose some weight.",
+            "[person_1] will stop right away.",
+            "The earphone will break.",
+            "[person_2] would quit the game."
+        ],
+        "reason": [
+            "It is hard for him to lose all the time.",
+            "A statue never moves.",
+            "The weights is heavy.",
+            "It's hard to control the ball.",
+            "Because they regard [person_1] as good dance tutor."
+        ]
+    }
+}

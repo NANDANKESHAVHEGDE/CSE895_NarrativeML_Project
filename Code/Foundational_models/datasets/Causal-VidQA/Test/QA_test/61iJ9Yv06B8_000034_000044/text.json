@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is wearing a coat and a beanie.",
+            "The [person_1] is training the [person_1].",
+            "the [person_1] is wearing a pink shirt.",
+            "The [person_1] is playing with the dolls.",
+            "The [person_1] is introducing the [person_1] to the audience."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do the dolls move?",
+        "answer": [
+            "Because the [person_1] put her hand inside the dolls.",
+            "Because the [person_1] put his hand inside the dolls.",
+            "Because [person_1] is playing an accordion.",
+            "Because [person_1] wants to use the friction between them to open the cap.",
+            "[person_1] and [person_1] are playing chess."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will add detergent into the clothes.",
+            "The [person_1] will continue cutting the hair of the dog.",
+            "The [person_1] will take the tools into the bag.",
+            "The [person_1] will talk to the dog.",
+            "The [person_1] will continue to play the dolls."
+        ],
+        "reason": [
+            "Because the dog seems to resist the [person_1] touching it.",
+            "Because the [person_1] thinks it's fun to play this way.",
+            "The [person_1] finds that playing fire is funny.",
+            "Because the [person_1] doesn't seem to have more reactions with the dolls.",
+            "Because [person_1] wants to comfort the dog."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the dolls fall over?",
+        "answer": [
+            "[person_1] would be startled.",
+            "The hands of the [person_1] will be wet.",
+            "The [person_1] will pick the dolls up.",
+            "The [person_1] might fall from a considerable height.",
+            "[person_1] would not have to hang the weights on the shelf after each time he stands up."
+        ],
+        "reason": [
+            "Because it will clutter the space if it is not picked up.",
+            "Only adults have money.",
+            "Because [person_1] can't continue to bow down when he has cramps.",
+            "There will be no support device.",
+            "There is only one micro."
+        ]
+    }
+}

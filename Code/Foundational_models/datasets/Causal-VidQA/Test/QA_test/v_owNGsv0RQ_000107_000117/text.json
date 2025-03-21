@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the classroom.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is inside their house.",
+            "[person_1] is in his house.",
+            "[person_1] is sitting on the chair in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile?",
+        "answer": [
+            "Because [person_1] feels funny when [person_1] plays checker with [person_2].",
+            "Because [person_1] knows the person giving the gift that [person_1] is opening teases him.",
+            "Because [person_2] is attending a game.",
+            "Because [person_1] wants [person_1] to open it.",
+            "Because [person_2] is performing cello."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will think about the next move.",
+            "[person_1] will open the next page of the newspaper.",
+            "[person_1] will do workout.",
+            "[person_1] will sleep on the floor.",
+            "[person_1] will take a break."
+        ],
+        "reason": [
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] is explaining how to play.",
+            "It seems that [person_1] is quite interested in it.",
+            "[person_1] looks at the chessboard attentively.",
+            "[person_1] pushed the wheelbarrow and then stopped."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the board is broken down?",
+        "answer": [
+            "Then nobody will get hurt.",
+            "[person_2] will be jirured.",
+            "The opponents would have chance to take the ball.",
+            "They will be more competitive.",
+            "The table will be wet."
+        ],
+        "reason": [
+            "[person_2] is quite small to practice alone.",
+            "[person_2] can't continue his way with the barrier.",
+            "The board might be on top of [person_2].",
+            "[person_2] kept looking at the goat and the food so maybe [person_2] would reach out to touch the goat.",
+            "The [person_2] tries to throw from the shot put stop - board to get point."
+        ]
+    }
+}

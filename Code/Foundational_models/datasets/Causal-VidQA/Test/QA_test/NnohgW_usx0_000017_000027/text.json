@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are in their bedroom.",
+            "[person_1] and [person_2] are in the big room.",
+            "[person_1] and [person_2] are in a massaging room.",
+            "[person_1] and [person_2] are in the barber shop.",
+            "[person_2] and [person_2] are in the big room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] lying on the floor?",
+        "answer": [
+            "Because [person_2] wants to water the plants.",
+            "[person_1] wants to place the bass guitar on the laps and play it.",
+            "Maybe [person_1] comes there to do exercise.",
+            "[person_2] is playing with [person_1].",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] is going to play with the gift.",
+            "[person_1] is going to jump on [person_2] .",
+            "[person_1] is going to approach [person_1].",
+            "[person_1] will show the bees to [person_2]."
+        ],
+        "reason": [
+            "[person_1] is weaving fabric.",
+            "Maybe [person_1] does it for fun.",
+            "[person_1] wants to be a good batter.",
+            "[person_1] is going close [person_1].",
+            "Maybe [person_1] finds it strange."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] jumps too high?",
+        "answer": [
+            "[person_1] would not be able to throw across the bed.",
+            "[person_2] will be hurt.",
+            "[person_1] would get an injury.",
+            "[person_1] will be hurt.",
+            "[person_1] would get drunk."
+        ],
+        "reason": [
+            "[person_1] is a child and too short , so [person_1] needs to jump to throw the ball.",
+            "Maybe [person_1] will hurt [person_2] with that jump.",
+            "Because if [person_1] slips hands , there is nothing holding the weights so it will fall down.",
+            "Maybe [person_2] will hurt [person_1] with that jump.",
+            "[person_1] is a child and too short , so [person_1] needs to jump to be able to throw the ball."
+        ]
+    }
+}

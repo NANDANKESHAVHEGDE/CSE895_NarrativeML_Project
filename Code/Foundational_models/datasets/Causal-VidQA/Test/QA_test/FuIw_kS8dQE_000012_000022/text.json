@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is sitting on the [person_1].",
+            "[person_1] is moving the tire.",
+            "[person_1] is stacking the dice on the table.",
+            "[person_1] is showing the inhaler.",
+            "[person_1] is sitting and reading the book on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] using the inhaler?",
+        "answer": [
+            "It helps to preserve the pulp as much as possible.",
+            "[person_1] blows the clarinet powerfully.",
+            "[person_1] is showing audience how to use the inhaler.",
+            "[person_1] is planing wood.",
+            "[person_1] rides it well."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after using the inhaler?",
+        "answer": [
+            "Maybe [person_1] will drill holes in the board.",
+            "[person_1] will put the milk into the [person_1].",
+            "[person_1] will eat other food.",
+            "[person_1] will put the things away.",
+            "[person_1] will stop the engine."
+        ],
+        "reason": [
+            "[person_1] and [person_1] have finished showing how to use the inhaler.",
+            "To see how they do the head stand.",
+            "[person_1] has already shown the way to use the inhaler.",
+            "[person_1] enjoys the food very much.",
+            " [person_1] enjoys the sea."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a man faints out in front of [person_1]?",
+        "answer": [
+            "[person_1] and [person_1] might not be able to light up theirs candles.",
+            "[person_1] will hurry to help the man.",
+            "Maybe [person_1] will hurt herself.",
+            "[person_1] will feel uncomfortable.",
+            "They would ask why and insist the meeting be on the planned schedule."
+        ],
+        "reason": [
+            " \b There are many swords on the floor.",
+            "The audiences adore him.",
+            "[person_1]'s elbow is in the same height of [person_1]'s face when [person_1] raises [person_1]'s arms to aim at the target.",
+            "They don't want to talk to each other.",
+            "People's life is priority."
+        ]
+    }
+}

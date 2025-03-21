@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the wall?",
+        "answer": [
+            "[person_2] is holding the [person_2].",
+            "The mirror is on the wall.",
+            "It is to the left of [person_2].",
+            "[person_2] is sitting on [person_2].",
+            "It is [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] going backwards?",
+        "answer": [
+            "Because [person_1] is relaxing.",
+            "[person_1] is helping [person_2] train martial arts.",
+            "Maybe [person_2] does it for fun.",
+            "[person_1] is doing it for fun.",
+            "There is a microphone in front of [person_1] to record the sound [person_1] makes when playing the guitar."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do?",
+        "answer": [
+            "[person_1] will dust his clothes.",
+            "[person_1] will introduce how to use the long balloon.",
+            "[person_1] will continue to defend.",
+            "[person_1] will climb back up the slope.",
+            "She will continue to follow the teacher's steps."
+        ],
+        "reason": [
+            "[person_1] is training [person_2].",
+            "[person_1]'ve been exercising for a long time.",
+            "This set of actions is not finished yet",
+            "Their match has not finished yet.",
+            "[person_1] is currently in the middle of her dancing drill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] didn't wear target pads?",
+        "answer": [
+            "[person_1] would be fine.",
+            "[person_1] would get hurt.",
+            "The four people would stand into two rows.",
+            "The audience won't see [person_1]'s performance.",
+            "One of them is going to be a professional wrestler."
+        ],
+        "reason": [
+            "If players cannot keep balanced when hover boarding , they cannot stand on the skateboard.",
+            "Because [person_2] is a child and [person_2] is easy to lose balance.",
+            "The target pads protect [person_1] from the kick of [person_2].",
+            "Because [person_1] is eating the chips from [person_1].",
+            "Maybe [person_1] will notice the episodes."
+        ]
+    }
+}

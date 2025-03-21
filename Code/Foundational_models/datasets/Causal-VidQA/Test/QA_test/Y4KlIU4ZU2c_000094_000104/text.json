@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] is tall and slim.",
+            "[person_1] is tall and thin.",
+            "[person_1] looks friendly.",
+            "[person_1] looks about 70 years old .",
+            "[person_1] looks so pretty in her dress."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear the glasses?",
+        "answer": [
+            "Glasses are [person_1] inseparables.",
+            "[person_1] is planing wood.",
+            "[person_1] is going to train to change body.",
+            "[person_1] is introducing the harmonica.",
+            "[person_1] is old."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will raise his right hand.",
+            "It is possible that [person_1] will stop playing the harp.",
+            "[person_1] may go to the road to clean up the trash.",
+            "[person_1] will see what cards he has.",
+            "[person_1] will do workout."
+        ],
+        "reason": [
+            "[person_1]'s hands is touching the string.",
+            "[person_1] seems to want to improve the skill further.",
+            "It seems that [person_1] is quite interested in it.",
+            "[person_1] is old , so sitting for a long time will be tiring.",
+            "[person_1] has already put her arm on the right one."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the room is dark?",
+        "answer": [
+            "[person_1] will walk to the destination.",
+            "[person_1] will stop playing the harp.",
+            "[person_1] will clean the car in day time.",
+            "[person_1] will stop playing guitar.",
+            "[person_1] will change a machine and continue with his training."
+        ],
+        "reason": [
+            "There are many other machines in the gym which [person_1] can use to exercise.",
+            "[person_1] eyes will be bad.",
+            "[person_1] will turn on the light.",
+            "[person_1] likes to play with funny toys.",
+            "The dog can eat watermelon."
+        ]
+    }
+}

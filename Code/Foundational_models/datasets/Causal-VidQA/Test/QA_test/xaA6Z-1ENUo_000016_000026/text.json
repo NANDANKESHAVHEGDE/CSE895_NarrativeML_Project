@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is shooting basketball.",
+            "[person_1] is riding the bike with one leg.",
+            "[person_1] is smashing a tire.",
+            "[person_1] is stacking dice.",
+            "[person_1] is playing beer pong."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] put the hammer aside?",
+        "answer": [
+            "[person_1] needs to finish other works.",
+            "[person_1] wants to polish the shoe.",
+            "With the help of the toy machine.",
+            "Because [person_1] is a beginner.",
+            "Because the [person_1] plays a song."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will finish his works with his partners.",
+            "[person_1] will continue to raise [person_1]'s leg.",
+            "[person_1] will put her arms on the [person_1]'s left thigh.",
+            "[person_1] will continue to raising her eyebrows.",
+            "It is possible that [person_1] will go on polishing the shoes."
+        ],
+        "reason": [
+            "[person_1] is working to his partners who are working.",
+            "[person_1]'s hands is touching the string.",
+            "[person_1] seems to want to improve the skill further.",
+            "Because [person_1] prepared to eat the food with a fork.",
+            "Because [person_1] has raised up his hands on the top of the pottery."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] didn't see the bottle on the ground?",
+        "answer": [
+            "[person_1] would step on the bottle.",
+            "[person_1] could not cross the road that easily.",
+            "[person_1] would probably continue to put his hands on the bed.",
+            "The high pressure inside would push the cork out.",
+            "Watermelon will fall."
+        ],
+        "reason": [
+            "Overexertion is harmful for the whole body.",
+            "The pressure would push the cork out.",
+            "[person_1] is a little boy so there's risk of dangerous.",
+            "The bottle is on his way to the grass.",
+            "The plate drops once it doesn't spin."
+        ]
+    }
+}

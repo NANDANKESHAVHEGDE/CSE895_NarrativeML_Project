@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite tidy.",
+            "The room is cramped.",
+            "The room is quite dark.",
+            "It is small and tidy.",
+            "It is warm and tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding the plate?",
+        "answer": [
+            "[person_1] and [person_1] are playing darts.",
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "[person_1] is doing it for fun.",
+            "Maybe [person_1] is introducing the plate.",
+            "Because [person_1] is using the trowel to plaster."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to talk about the plates on the table.",
+            "[person_1] is going to stand again.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to do a workout.",
+            "[person_1] is going to learn how to keep balance."
+        ],
+        "reason": [
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [person_1].",
+            "[person_1] is holding the plate.",
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] fell under the bed.",
+            "Because the blue is skying at night."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "The machine will stop working.",
+            "[person_1] will stop instructing.",
+            "[person_1] may not keep jumping.",
+            "The room will be dark.",
+            "The machine will be off."
+        ],
+        "reason": [
+            "[person_1] will may stop talking.",
+            "[person_1] will stops stretching leg.",
+            "[person_1] may go out to find the candle.",
+            "[person_1] will hug the man.",
+            "The machine will not keep cutting."
+        ]
+    }
+}

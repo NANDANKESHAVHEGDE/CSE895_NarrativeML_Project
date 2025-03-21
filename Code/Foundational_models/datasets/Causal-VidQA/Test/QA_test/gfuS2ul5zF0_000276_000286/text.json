@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_2] and [person_4]?",
+        "answer": [
+            "[person_4] and [person_2] are on the stage.",
+            "[person_2] and [person_2] are on a snow - covered slope.",
+            "[person_4] and [person_2] are on the floor.",
+            "[person_4] and [person_2] are in the roller skating rink.",
+            "[person_2] and [person_4] are in the subway station."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't any microphone there?",
+        "answer": [
+            "This is an unprofessional music play.",
+            "[person_1] wants to exercise in his house",
+            "[person_2] is cutting hair.",
+            "They are in the class break and want to have some fun.",
+            "Because they are playing the guessing game."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_2] and [person_3] going to do?",
+        "answer": [
+            "[person_2] and [person_3] are going to talk about how [person_3] cooks.",
+            "[person_3] is going to find a wall.",
+            "[person_3] will feel very comfortable.",
+            "[person_2] and [person_3] are going to keep playing clarinets.",
+            "[person_2] and [person_3] may start other attacks."
+        ],
+        "reason": [
+            "[person_2] is enjoying writing.",
+            "[person_2] and [person_3] are crawling near the grass.",
+            "[person_2] and [person_3] have to say something after they taste wine.",
+            "[person_2] is holding a comb and she uses the comb to comb her hair.",
+            "The subway music play usually lasts long."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not play?",
+        "answer": [
+            "It will be dangerous.",
+            "[person_1] wouldn't have to put away the wheelbarrow.",
+            "The music play would not sound good.",
+            "[person_1] might get injured.",
+            "[person_1] might be injured."
+        ],
+        "reason": [
+            "The music play need 4 sound layers to be good at listening.",
+            "[person_1] is not tied on the [person_1].",
+            "Maybe [person_1] can't control body.",
+            "When [person_1] practices , these dices are so big that the cup can only hold three of them.",
+            "Because he is so young."
+        ]
+    }
+}

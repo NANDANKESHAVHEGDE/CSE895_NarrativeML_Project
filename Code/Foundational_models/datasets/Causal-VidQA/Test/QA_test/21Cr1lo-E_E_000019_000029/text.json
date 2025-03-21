@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is riding a horse.",
+            "[person_1] is bouncing the ball on the ground.",
+            "[person_1] is stacking dice.",
+            "[person_1] is throwing a basketball.",
+            "[person_1] is moving the tire."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the basket so small?",
+        "answer": [
+            "Because [person_1] is old , [person_1] can have some eye problems.",
+            "Maybe [person_1] is busy in the morning.",
+            "Maybe [person_1] is nearsighted.",
+            "Because [person_1] is a child.",
+            "[person_1] and [person_1] are in a room."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] continue to do?",
+        "answer": [
+            "[person_2] is going to show how to do the exercise.",
+            "[person_2] will continue to catch the ball and pass it back to [person_1] .",
+            "[person_2] is going to continue practicing Tai Ji.",
+            "[person_2] is going to wait for [person_1] to assist him tie a bow.",
+            "[person_2] is going to continue doing Tai Ji."
+        ],
+        "reason": [
+            "Because [person_1] is tapping them.",
+            "[person_2] and [person_1] are looking at [person_2] attentively.",
+            "[person_2] is helping [person_1] practice throwing basketball.",
+            "[person_2] is teaching [person_1] all alone.",
+            "[person_2] seems tired to stomp the grapes to make wine."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not throw the ball in the basket?",
+        "answer": [
+            "Then [person_1] will not stare the same thing.",
+            "[person_1] would have to chase and fetch it.",
+            "[person_1] could not get any score for his team.",
+            "[person_1] would not have to chase and fetch it.",
+            "[person_1] would be hit by [person_1]."
+        ],
+        "reason": [
+            "The ball may not bounce away.",
+            "The baby chair is suitable for babies.",
+            "The ball may bounce back.",
+            "Because vegetarians do not eat meat.",
+            "The ball may bounce away."
+        ]
+    }
+}

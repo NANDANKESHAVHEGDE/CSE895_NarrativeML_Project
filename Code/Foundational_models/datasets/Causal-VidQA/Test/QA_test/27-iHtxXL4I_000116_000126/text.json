@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bottle_2]?",
+        "answer": [
+            "[person_1] is hanging on the wall.",
+            "The [bottle_2] is next to [person_1].",
+            "[bottle_2] is next to the boy.",
+            "[person_1] and [person_1] are standing in the middle of the desert.",
+            "The man is painting the [person_1]'s nails."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the drawing?",
+        "answer": [
+            "[person_1] is lifting weights.",
+            "[person_1] is performing.",
+            "[person_1] seems very enthusiastic about the drawing.",
+            "[person_1] is showing her disapproval about something.",
+            "[person_1] is celebrating because he threw the ball in the basket."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to a workout.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to keep performing.",
+            "[person_1] is going to spraying the painting.",
+            "[person_1] may go other place."
+        ],
+        "reason": [
+            "[person_1] seems to enjoy playing it very much.",
+            "[person_1] is keeping the spray in her hand.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is leaving."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] practices painting everyday?",
+        "answer": [
+            "The children will laugh.",
+            "Maybe [person_1] will fall.",
+            "Other people will call the ambulance.",
+            "Maybe [person_1] will be good at painting.",
+            "[person_1] will stop skiing."
+        ],
+        "reason": [
+            "[person_1] will improve her skill in this field.",
+            "[person_1] won't give up just because of one fall.",
+            "[person_1] will be hurt her legs.",
+            "[person_1]'s head may hurt.",
+            "The floor is very hard and it will hurt [person_1] ."
+        ]
+    }
+}

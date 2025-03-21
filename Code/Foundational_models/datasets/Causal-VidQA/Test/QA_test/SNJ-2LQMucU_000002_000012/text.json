@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [dining table_1]?",
+        "answer": [
+            "[dining table_1] and [dining table_1] are behind [dining table_1].",
+            "The [dining table_1] is behind the [chair_3].",
+            "[dining table_1] is placed on the drawer.",
+            "The [dining table_1] is next to [dining table_1].",
+            "[dining table_1] is in a bag which is on the floor."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing the toy wheelbarrow?",
+        "answer": [
+            "Because [person_1] is playing with [person_2].",
+            "Because [person_1] is pushing the wheelbarrow.",
+            "Because [person_1] is watering the flower pots.",
+            "Because [person_1] is doing leg work out.",
+            "Because [person_1] wants to protect the head if [person_1] falls."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to flip the cake a few more times.",
+            "[person_1] is going to continue sitting in the car and [person_2] is going to go on pushing the wheelbarrow.",
+            "[person_1] and [person_2] are going to eat all the meal.",
+            "[person_1] and [person_2] are going to show the tap dancing skills.",
+            "[person_1] and [person_2] are going to keep throwing ball."
+        ],
+        "reason": [
+            "Because [person_1] and [person_2] do not want to make bubbles anymore.",
+            "[person_1] and [person_2] bang hands on the table.",
+            "[person_1] wants to show [person_2] gifts.",
+            "[person_1] and [person_2] are playing with together.",
+            "[person_1] and [person_2] feel pleasant to share about their love life."
+        ]
+    },
+    "counterfactual": {
+        "question": "Why will happen if [person_2] falls from the car?",
+        "answer": [
+            "[person_2] will take [person_2] to the hospital.",
+            "Maybe [person_2] will cry.",
+            "The mower will lose control.",
+            "[person_2] will help [person_2].",
+            "[person_2] will give [person_2] money."
+        ],
+        "reason": [
+            "Because talking or singing with each other is happier than keeping silent.",
+            "The razor blade is very sharp.",
+            "The bass guitar needs to be played with both hands.",
+            "[person_2] is a mere kid.",
+            "A partner of [person_2] will be seriously injured."
+        ]
+    }
+}

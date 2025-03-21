@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Is the gym large?",
+        "answer": [
+            "[person_1] is on the chair.",
+            "It is \u00a0 behind the [person_1].",
+            "Yes , it is.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] practice on their own?",
+        "answer": [
+            "Because [person_1] who has practiced is already familiar with the exercise.",
+            "Because [person_1] is stomping grapes in the tank.",
+            "[person_1] is practicing dynamic plate spinning skill.",
+            "Because that helps [person_1] tie the bow more accurately.",
+            "He wants to play better."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to lift weights.",
+            "[person_1] is going to stop saluting.",
+            "[person_1] will exam the honey's situation.",
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to climb into bed."
+        ],
+        "reason": [
+            "[person_1] is lifting weights.",
+            "[person_1] is putting hand down.",
+            "[person_1] is a professional.",
+            "The message says he should come home for dinner.",
+            "[person_1] is in the gymnastic."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut out?",
+        "answer": [
+            "[person_1] won't be able to reading.",
+            "[person_1] will be leave the practice room.",
+            "The match might be postponed.",
+            "[person_1] will take the instrument to be repaired.",
+            "[person_1] will stop drinking."
+        ],
+        "reason": [
+            "The rope is not long enough to play.",
+            "The weights is very heavy.",
+            "The rope is rubber band so the rope has elasticity.",
+            "Because dogs can not pull [person_1].",
+            "Due to not enough light to practice."
+        ]
+    }
+}

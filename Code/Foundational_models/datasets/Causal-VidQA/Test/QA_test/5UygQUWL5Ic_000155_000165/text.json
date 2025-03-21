@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is in front of [person_1] . [person_1] is holding it in hand.",
+            "It is black.",
+            "They are in their house.",
+            "[book_1] is in front of the boy.",
+            "[book_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the stage?",
+        "answer": [
+            "[person_1] is performing on the stage.",
+            "Because it's all scattered gift wrapping paper.",
+            "Because it's a electronic device.",
+            "Because there is a punching bag.",
+            "[person_1] is expressing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Perhaps [person_1] is going to sleep.",
+            "[person_1] will close the door.",
+            "[person_1] is going to feed the [person_1].",
+            "[person_1] is going to kneel on the ground.",
+            "[person_1] is going to open the book and express with the microphone."
+        ],
+        "reason": [
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] is wearing a uniform and is squeezing oranges.",
+            "[person_1] has hit the ball away.",
+            "[person_1] shaved off the bottom part of his beard.",
+            "[person_1] took the book in hand and opened it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not wear glasses?",
+        "answer": [
+            "[person_1] and [person_1] would keep playing.",
+            "[person_1] will be able to read the words in the book.",
+            "[person_1] would join with [person_1] practicing snapping her fingers.",
+            "[person_1] will not be able to read the words in the book.",
+            "[person_1] would teach [person_1] with tai chi."
+        ],
+        "reason": [
+            "The performer might be hurt.",
+            "His eyesight is good and can't see clearly.",
+            "[person_1] is playing the drum which leads the tempo of the song.",
+            "His eyesight is poor and can't see clearly.",
+            "Because he walks slowly."
+        ]
+    }
+}

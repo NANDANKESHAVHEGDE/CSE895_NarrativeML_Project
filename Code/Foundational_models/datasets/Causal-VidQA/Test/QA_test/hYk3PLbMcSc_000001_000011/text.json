@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the [couch_2]?",
+        "answer": [
+            "[person_2] is playing chess.",
+            "[person_2] is smoothening the wall to make it more beautiful.",
+            "[person_2] is excited about his action.",
+            "[person_2] is the singer.",
+            "The [person_2] knows which treble keyboard needed to touch."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will bake a cake.",
+            "[person_1] will close her eyes.",
+            "[person_1] will stand up.",
+            "[person_1] will enjoy the liquid inside the bottle.",
+            "[person_1] will try to put [person_1] in a paper box."
+        ],
+        "reason": [
+            "Because [person_1] is picking up the cloth to the camera.",
+            "Because [person_1] divides the money into piles.",
+            "It seems [person_1] cannot stand anymore.",
+            "The leg of [person_1] is tired.",
+            "After [person_1] instructs [person_1] to play the piano , [person_1] touches the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stands up?",
+        "answer": [
+            "[person_1] will sit on the [couch_1].",
+            "[person_1] will not fall off the chair in a strong way like [person_1] experienced.",
+            "[person_1] will not do lunges anymore.",
+            "[person_1] would leave.",
+            "[person_1] will wash his hands at the [person_1]."
+        ],
+        "reason": [
+            "[person_1] is helpful.",
+            "It seems that [person_1] loves drinking.",
+            "[person_1] will continue to play then.",
+            "[person_1] is the [person_1]'s instructor.",
+            "They are friends and always eat together."
+        ]
+    }
+}

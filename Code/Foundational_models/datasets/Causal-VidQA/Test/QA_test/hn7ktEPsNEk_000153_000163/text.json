@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is is throwing a stone so that it slides on the river surface.",
+            "[person_1] is stacking the dice on the table.",
+            "[person_1] is playing beer pong.",
+            "[person_1] is teaching [person_1] how to throw the ball to the basket.",
+            "[person_1] is sitting and reading the book on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] point [person_2]'s foot?",
+        "answer": [
+            "[person_1] explains the approximate posture to throw the ball.",
+            "[person_1] was given a toy.",
+            "Because it is easier for him to stack them.",
+            "[person_1] is teaching how to do a pull - up.",
+            "[person_1] is playing guitar there."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] going to guide [person_2] how to clean floor.",
+            "[person_2] will play again.",
+            "[person_2] is going to eat the hamburger.",
+            "[person_2] is going to proceed to practice more.",
+            "[person_2] may be going to sit up and take a rest."
+        ],
+        "reason": [
+            "[person_2] needs to practice to be well - trained.",
+            "[person_2] flipped the cake failed and it splattered all over the table so she has to clean it.",
+            "[person_2] is seeing the performances o \u200a f two girls and going to clap her hand to cheer for those two.",
+            "There is no other people to play with.",
+            "[person_2] walks very carefully and almost falls down in the end , which means he needs more practice."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] can't toss the ball into the basket?",
+        "answer": [
+            "The three people can make a band if they play music together.",
+            "[person_1] would have to pick the hoop up.",
+            "They should cook the rice.",
+            "[person_1] will try to play the flute.",
+            "[person_1] will fix [person_2]'s posture."
+        ],
+        "reason": [
+            "The swords are sharp enough to make deep cuts on their chests by accident.",
+            "Because when moving with high speed , [person_2] creates strong pressure which may destroy the fence.",
+            "Because [person_2]'s teammates is badly influenced by him.",
+            "The gun isn't [person_2]'s personal belongs.",
+            "Maybe [person_2] didn't follow the correct technique."
+        ]
+    }
+}

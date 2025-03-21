@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [chair_1]?",
+        "answer": [
+            "Behind the two men.",
+            "No , [chair_1] didn't.",
+            "No , we can't.",
+            "The [chair_1] is green.",
+            "Four."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is excited about holding these cups.",
+            "Because [person_1] is lifting weights.",
+            "Because [person_1] is playing in the room.",
+            "[person_1] is reading [person_1].",
+            "Maybe [person_1] is playing laser tag."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stop playing the flute.",
+            "[person_1] is going to continue playing badminton without a net with [person_1] on the grass.",
+            "[person_1] is going to lift the barbell.",
+            "[person_1] will stand here.",
+            "[person_1] is going to break."
+        ],
+        "reason": [
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "Lowering her hip is the next movement in the squat and it helps to tighten the muscles on her belly.",
+            "[person_1] put down the weight lifting.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] is sharpening the knife."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] increases the weights ?",
+        "answer": [
+            "[person_1] may concentrate on eating.",
+            "[person_1] may feel wonderful.",
+            "[person_1] will record the tutor video again after the camera is charged.",
+            "[person_1] will not be grinding the meat.",
+            "[person_1] will feel more tired."
+        ],
+        "reason": [
+            "[person_1] could do not know the way.",
+            "The teammates of [person_1] are not delighted.",
+            "Because it is impossible to make delicious dishes with spoiled materials.",
+            "The weights is very heavy.",
+            "[person_1] enjoys doing that."
+        ]
+    }
+}

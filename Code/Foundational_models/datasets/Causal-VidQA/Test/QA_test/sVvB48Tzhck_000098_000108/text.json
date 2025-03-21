@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "It is quite small.",
+            "It is large.",
+            "It is very clean.",
+            "It is in a rugby field.",
+            "It is very clean and neat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside?",
+        "answer": [
+            "[person_1] is playing lute alone.",
+            "[person_1] is shredding the paper.",
+            "[person_1] is planing wood.",
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "[person_1] is excited about throwing into the cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lift up the legs.",
+            "[person_1] is going to keep talking about the match.",
+            "[person_1] is putting the ball on his right arm.",
+            "[person_1] is going to take another plate of food.",
+            "[person_1] is going to change another song."
+        ],
+        "reason": [
+            "[person_1] eats too much.",
+            "[person_1] uses her hands to squeeze and pulls the sausage slowly and gently.",
+            "[person_1] moved some steps slowly and gently.",
+            "[person_1] may feel interesting.",
+            "Because the legs of [person_1] have been lifted up a little and are going to be more."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "[person_1] will stop folding.",
+            "[person_1] will stop hooping.",
+            "[person_1] will still play.",
+            "[person_1] will stop playing the lute.",
+            "[person_1] will rest on [person_1]."
+        ],
+        "reason": [
+            "[person_1] will take a rest after the performance.",
+            "[person_1] will need to rest after standing for so long.",
+            "Maybe [person_1] will take a break.",
+            "[person_1] will improve her skill in this field.",
+            "Laughing is good for health."
+        ]
+    }
+}

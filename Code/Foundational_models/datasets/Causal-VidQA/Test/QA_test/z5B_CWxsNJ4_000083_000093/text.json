@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are [person_1] and [person_2] doing?",
+        "answer": [
+            "It is quite small.",
+            "It is narrow.",
+            "Dancing.",
+            "It is untidy.",
+            "The room has many objects."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] closing the door?",
+        "answer": [
+            "Because [person_2] does not want [person_1] to get in.",
+            "He wants to test emotion when he plays.",
+            "[person_1] is put there for [person_1] to sit.",
+            "Because gym equipment needs a place to be stored.",
+            "It will be easier for [person_2] to tie the knot."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will stay outside.",
+            "[person_1] is going to continue teaching.",
+            "[person_1] is going to step back and observe [person_1].",
+            "[person_1] is going to dismantle the power drill.",
+            "[person_1] is going to use his hand to tamp the soil."
+        ],
+        "reason": [
+            "Because [person_2] has locked the door.",
+            "This can help [person_1] remember the action.",
+            "Maybe [person_1] likes to play it.",
+            "Maybe [person_1] is going to practice more.",
+            "The frisbee is far away from [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the lock of the door is broken?",
+        "answer": [
+            "[person_1] will be able to go into the garden.",
+            "[person_1] would not be tripped by [person_1].",
+            "The female will not wear a pair of sunglasses.",
+            "The bar will be full of people.",
+            "[person_1] has to stop."
+        ],
+        "reason": [
+            "Because [person_2] cannot lock the door with a broken door.",
+            "Because [person_2] will be curious about it.",
+            "It wastes a lot of time if you teach the same content again and again . So , the best way to handle this situation is to ask them to take out phones and record.",
+            "It is too dark to see anything.",
+            "Park the bike in a strong position so that it won't be felled down."
+        ]
+    }
+}

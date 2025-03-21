@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "The boy couldn't move the guitar out.",
+            "[person_1] plays the flute and doesn't want to disturb people.",
+            "[person_1] is fond of stacking the cups on the [person_1].",
+            "[person_1] is trying to use the didgeridoo.",
+            "[person_1] is doing arm stretching exercises."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to not play the flute.",
+            "[person_1] intends to call his friend.",
+            "[person_1] intends to fold over the other side of the paper and tape it down.",
+            "[person_1] intends to looking for some information.",
+            "[person_1] intends to practice the keyboard."
+        ],
+        "reason": [
+            "[person_1] is still holding and moving the harp.",
+            "[person_1] is putting [person_1]'s hands on the keyboard.",
+            "[person_1] has lowered his hand and plays flute.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] is preparing for the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels tired?",
+        "answer": [
+            "[person_1] will put away the flute and go to rest.",
+            "[person_1] will stop jumping.",
+            "[person_1] will bleed.",
+            "[person_1] will pour wine into his wine glass.",
+            "[person_1] will feel it lacks vitality."
+        ],
+        "reason": [
+            "Their is a lot of hair on the ground.",
+            "The painting color will not be reasonable.",
+            "[person_1] looks like a starter.",
+            "The sun is dazzling.",
+            "[person_1] might be sick."
+        ]
+    }
+}

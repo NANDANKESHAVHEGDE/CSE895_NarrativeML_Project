@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_2] doing?",
+        "answer": [
+            "[person_2] is holding a gift box.",
+            "[person_2] is opening a present for [person_2].",
+            "[person_2] is lying on a pillow.",
+            "[person_2] is filming.",
+            "[person_2] is jumping on the couch."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] giving [person_1] a box?",
+        "answer": [
+            "[person_1] is standing there to give [person_1] the knifes.",
+            "Because [person_3] is doing a concert.",
+            "Because [person_3] wants [person_1] to open it.",
+            "Because [person_3] is performing to earn money.",
+            "Because [person_1] and [person_3] are friends."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may stand up and change the chair.",
+            "[person_1] will continue kite surfing.",
+            "[person_1] is going to level the concrete into the pipes.",
+            "[person_1] is going to take the box from [person_3].",
+            "[person_1] is likely to learn how to make a basket."
+        ],
+        "reason": [
+            "[person_1] is lying on [person_1].",
+            "[person_1] is holding the flute and is about to play.",
+            "Maybe [person_1] is more comfortable.",
+            "When [person_3] gives [person_1] the box , [person_1] is looking at it too.",
+            "[person_1] put the dice into the cup and raising the cup now , hence , putting the dice back on the [person_3] is the next step."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] gets down the couch?",
+        "answer": [
+            "[person_2] will start to ride the horse.",
+            "[person_2] may want to take the present from [person_3].",
+            "[person_2] will help [person_3] with her things.",
+            "[person_3] would be sent to the hospital.",
+            "[person_3] will clap [person_2]'s shoulders."
+        ],
+        "reason": [
+            "[person_3] and [person_3] are women.",
+            "Because [person_3] is right behind [person_2].",
+            "[person_2] needs police to deal with the accident.",
+            "When [person_3] holds the box , [person_2] pays attention to what [person_3] says.",
+            "[person_2] is spinning very strongly."
+        ]
+    }
+}

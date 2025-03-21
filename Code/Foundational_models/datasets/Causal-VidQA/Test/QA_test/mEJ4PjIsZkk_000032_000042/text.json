@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1]?",
+        "answer": [
+            "[cup_1] is in the floor.",
+            "[cup_1] is in the corner of the yard.",
+            "[cup_1] is sitting on the floor.",
+            "[cup_1] is on the desk.",
+            "[cup_1] is on [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] walking toward [couch_1]?",
+        "answer": [
+            "[person_1] playing the lute for fun.",
+            "Because the person is lying down on the bed and pointing the camera upwards.",
+            "[person_1] stops playing bagpipes.",
+            "Because the gymers need to know the time when they practice.",
+            "[person_1] can see things more clearly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will leave.",
+            "[person_1] is going to cross the street.",
+            "[person_1] may put the bagpipes on [dining table_1].",
+            "[person_1] is going to put the plate away.",
+            "[person_1] will eat the apple on the table."
+        ],
+        "reason": [
+            "[person_1] has food on hand.",
+            "[person_1] is leaning forward to take the camera.",
+            "There are many sand on his feet.",
+            "[person_1] is taking the bagpipe off from him.",
+            "[person_1] has many other bottles on the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues playing bagpipes?",
+        "answer": [
+            "Then we can't see whether [person_1] brushes teeth or tongue.",
+            "[couch_1] , [person_1] , [couch_1] and [person_1] will probably gather around the food.",
+            "[person_1] will go out.",
+            "[person_1] might hit [person_1].",
+            "[person_1] may not walk toward [couch_1]."
+        ],
+        "reason": [
+            "[person_1] and [person_1] look like each other.",
+            "[person_1] wants [person_1] to play with the maracas.",
+            "because [person_1] can hit [person_1]'s feet.",
+            "[person_1] is performing in front of people.",
+            "Because [person_1] is sitting in a cart that is being pushed."
+        ]
+    }
+}

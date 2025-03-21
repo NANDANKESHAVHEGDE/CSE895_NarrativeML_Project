@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many couches are there in the video?",
+        "answer": [
+            "There are 15 cups on the floor.",
+            "There are four players.",
+            "There is a couch in the video.",
+            "[person_2] is placed on the floor.",
+            "[person_1] is parking on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the girl bending like that?",
+        "answer": [
+            "Because there is some water on the marble table.",
+            "Because the machine is more convenient.",
+            "[person_1] is playing chess with [person_1].",
+            "[person_1] is bored during class.",
+            "Because the girl is practicing standing on the hands."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stand on the hands.",
+            "[person_1] may change the action.",
+            "[person_1] probably will get more food.",
+            "[person_1] is going to keep mopping the microscope.",
+            "[person_1] is going to whistle."
+        ],
+        "reason": [
+            "[person_1] stands up right away after [person_1] fell down and [person_1] reaches to [person_1].",
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action.",
+            "[person_1] was holding the tool in the hands and [person_1] was talking.",
+            "[person_1] and a girl are practicing.",
+            "[person_1] is on the ground and [person_1] needs [person_1] help."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] falls?",
+        "answer": [
+            "Maybe [person_1] will get injured.",
+            "[person_1] will help [person_2] up.",
+            "[person_1] and [person_2] will stop.",
+            "[person_1] will be worry.",
+            "[person_2] needs to drink water."
+        ],
+        "reason": [
+            "[person_2] is a baby.",
+            "There are only two people in the room.",
+            "[person_2] is a little baby.",
+            "Because [person_2] is just a boy.",
+            "They won't want to make noise at the supermarket."
+        ]
+    }
+}

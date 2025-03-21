@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the t - shirt [person_2] wearing?",
+        "answer": [
+            "It is black.",
+            "It is an awl.",
+            "Yes.",
+            "The green chair is behind [person_2].",
+            "No."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] outside?",
+        "answer": [
+            "It is rather hot to play basketball outside.",
+            "Maybe [person_1] and [person_2] are practicing the army salute.",
+            "[person_2] wants to cheer [person_1] on.",
+            "They want to make grape wine.",
+            "Because [person_1] is looking to saw a piece of wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may take off the clip.",
+            "[person_1] is going to pick up the ball.",
+            "[person_1] is going to continue having breakfast.",
+            "[person_1] is going to come back home.",
+            "[person_1] will play basic chords."
+        ],
+        "reason": [
+            "[person_1] is running to the ball.",
+            "[person_1] finishes the action on the right , she should continue to do the action on the left.",
+            "[person_1] is upset.",
+            "[person_1] may be startled.",
+            "[person_1] spins plates in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is hungry?",
+        "answer": [
+            "The [person_1] will not fly to the right hand of [person_1].",
+            "Maybe [person_2] will give a dish for [person_1].",
+            "[person_1] will get off the chair and go.",
+            "Maybe [person_1] will stop arranging the cups.",
+            "The mother of [person_1] may take the meal for him."
+        ],
+        "reason": [
+            "[person_1] will practice the lute alone.",
+            "[person_1] feels pain.",
+            "[person_2] is like a mother of [person_1].",
+            "There are 2 bottles on the table.",
+            "To repair it."
+        ]
+    }
+}

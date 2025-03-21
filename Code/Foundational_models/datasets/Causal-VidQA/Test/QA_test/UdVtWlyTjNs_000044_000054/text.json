@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is the room?",
+        "answer": [
+            "The room is clean.",
+            "The room is dark.",
+            "The room is colorful.",
+            "The room is cramped.",
+            "It is tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] inside?",
+        "answer": [
+            "[person_1] is spinning plates.",
+            "[person_1] is playing the drums.",
+            "[person_1] is playing water slide.",
+            "Maybe [person_1] is hosting the show.",
+            "Because the [person_1] is wiping the round table underneath."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep performing.",
+            "[person_1] may plan to push [person_1] ahead.",
+            "[person_1] going to have a date with someone?",
+            "[person_1] probably will shake the pan again.",
+            "[person_1] is going to slowly opening his arms."
+        ],
+        "reason": [
+            "[person_1] used the tape on the table.",
+            "[person_1] stood on skateboard and moved forward by pushing one foot on the ground.",
+            "[person_1] looks tired and has put the barbell back.",
+            "At the last of the video , [person_1] is slowing down , so [person_1] may not want to go on skating.",
+            "[person_1] spins plates in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] and [person_1] will stop stretching arm.",
+            "Maybe [person_1] will stand up.",
+            "The room will be no light.",
+            "[person_1] maybe afraid.",
+            "The performance will not continue."
+        ],
+        "reason": [
+            "The store will be dark.",
+            "The room will be dark.",
+            "The meeting will be stopped.",
+            "[person_1] may stop playing.",
+            "[person_1] may not keep speaking."
+        ]
+    }
+}

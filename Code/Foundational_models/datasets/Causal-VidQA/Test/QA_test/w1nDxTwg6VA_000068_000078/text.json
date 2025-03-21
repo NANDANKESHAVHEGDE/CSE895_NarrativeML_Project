@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "[person_1] is ripping paper.",
+            "[person_1] is stacking the dice on the [person_1].",
+            "[person_1] is covering his head.",
+            "[person_1] is sitting on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] flipping the bottle?",
+        "answer": [
+            "Because the automatic machine will peel the apples.",
+            "[person_1] is competing with [person_2].",
+            "Because [person_1] is playing the cello.",
+            "[person_1] uses a tool to make the bubble.",
+            "Because [person_1] wants to propose loudly."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to throw up.",
+            "[person_2] is going to wipe his mouth.",
+            "[person_2] is going to have another kick.",
+            "[person_2] is going to put his cup away.",
+            "[person_2] is going to clap her hands."
+        ],
+        "reason": [
+            "Because [person_2] is holding and looking at the hamburger.",
+            "When [person_2] grabs his cup , he quickly gets all the dices into the cup and tries to put them onto the bottle.",
+            "Because [person_2] is guiding [person_2].",
+            "When [person_2] is giving a speech , [person_2] feels it's dull and boring.",
+            "[person_2] can not stand up and he needs help."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the dices fall down?",
+        "answer": [
+            "It is easier for [person_1] to wash the dog.",
+            "Someone will help [person_1] to play the gong.",
+            "[person_1] and [person_2] may compete again.",
+            "[person_1] will call his colleague.",
+            "[person_2] may ask [person_1] for some fish food."
+        ],
+        "reason": [
+            "That how girls do their makeup.",
+            "When [person_1] holds these dices inside his hands , one keeps falling out and he has to take it back.",
+            "People don't wear glasses sleeping.",
+            "When [person_2] and [person_1] attend the competition , they focus on how to be faster than the other.",
+            "The rapid current makes it easy to stand unsteady."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [cup_1] ?",
+        "answer": [
+            "[cup_1] is on the dining table.",
+            "[cup_1] is on the [cup_1].",
+            "[cup_1] is on the table and behind [cup_1].",
+            "[cup_1] is in the left hand side of [cup_1].",
+            "[cup_1] is on [cup_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing like that ?",
+        "answer": [
+            "Maybe [person_1] just does it for fun ?",
+            "[person_1] is playing xylophone.",
+            "[person_1] is screaming because she's getting cold milk poured all over her.",
+            "Because [person_1] screams out of excitement.",
+            "[person_1] is playing lute alone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will probably put pieces of paper in the printer.",
+            "[person_1] is bound to keep playing guitar.",
+            "[person_1] will go back home.",
+            "[person_1] will store the harp.",
+            "[person_1] is going to repair bicycles."
+        ],
+        "reason": [
+            "[person_1] is pushing a wheelchair.",
+            "Because there is a tool on the ground.",
+            "[person_1] has just finished the game.",
+            "[person_1] is bound to keep singing/",
+            "[person_1] still holds the harmonica and has no intention to stop playing the harmonica."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feel thirsty ?",
+        "answer": [
+            "[person_1] will be injured.",
+            "[person_1] will put the guitar on the dining table.",
+            "[person_1] is not injured.",
+            "[person_1] may miss the board.",
+            "[person_1] will be very nervous."
+        ],
+        "reason": [
+            "Because [person_1] is a child.",
+            "Grape juice stains [person_1]'s clothes.",
+            "[person_1] will take a cup of water and drink.",
+            "[person_1] needs to see the doctor.",
+            "According to [person_1] we know that it's not a easy thing to exercise with the exercising ball for a new guy."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt is yellow.",
+            "It is pink.",
+            "It is black.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling \u00a0 ?",
+        "answer": [
+            "Because [person_2] makes [person_1] happy.",
+            "Maybe [person_1] is feeling happy.",
+            "Because [person_1] amazes when the apple is peeled so fast.",
+            "[person_1] is excited about riding a unicycle.",
+            "because [person_1] is excited about playing snowball."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to wave to the opposite person.",
+            "[person_2] may keep dancing.",
+            "Add things on [person_2] to [person_2].",
+            "[person_2] is going to return to the starting position.",
+            "[person_2] is going to open the present."
+        ],
+        "reason": [
+            "[person_2] is holding a guitar.",
+            "Maybe [person_2] loves to eat noodles.",
+            "[person_2] likes to eat pizza.",
+            "Because [person_2] is raising his hand and smiling.",
+            "[person_2] is smiling and looks very excited."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] accidentally let [person_2] go?",
+        "answer": [
+            "[person_2] and [person_1] would also put their feet up.",
+            "[person_1] won't continue practicing.",
+            "[person_2] would be sad.",
+            "[person_1] would hardly do this job.",
+            "[person_2] will fall."
+        ],
+        "reason": [
+            "A goblet is the best vessel for champagne.",
+            "because [person_1] lies on the ground.",
+            "[person_1] needs to be careful when holding babies.",
+            "[person_1] has roasted them well and prepared to eat them.",
+            "There would be no chair for [person_1] to use."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1] ?",
+        "answer": [
+            "It is next to the wall.",
+            "It is in front of the window.",
+            "[chair_1] is behind [chair_1].",
+            " [chair_1] is behind [chair_1].",
+            "[chair_1] is next to [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] looking at the strings ?",
+        "answer": [
+            "[person_1] is showing the way shining shoes.",
+            "[person_1] can strum the right tune.",
+            "[person_1] is moving her hand to change her clothe in the virtual reality screen.",
+            "[person_1] is playing lute alone.",
+            "[person_1] is very hard - working and [person_1] uses a drill to work."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to need a break.",
+            "[person_1] is going to whistle.",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to slowly opening his arms.",
+            "[person_1] may tickle [person_1] again."
+        ],
+        "reason": [
+            "Because [person_1] is still in [person_1] , [person_1] is ready to stir the dishes.",
+            "[person_1] feels tired.",
+            "Because [person_1] looked at the person standing beside [person_1] and reached out the boards toward the standing person.",
+            "Because [person_1] made a small mark with it and the carpet is big.",
+            "Because [person_1] is giving [person_1] instructions."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the chair is broken ?",
+        "answer": [
+            "The [person_1] will not be fallen when throwing.",
+            "Maybe the gift inside will be also damaged.",
+            "[person_1] will fall.",
+            "[person_1] and [person_1] have to fix the broken microphone.",
+            "[person_1] will come here the next time."
+        ],
+        "reason": [
+            "Because [person_1] and [person_1] need a microphone to sing.",
+            "The bed can not be laid on.",
+            "It is break time.",
+            "Because he cannot open a locked door with key.",
+            "[person_1] will get hurt."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court.",
+            "[person_1] and [person_2] are in the room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] on the floor?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "[person_1] and [person_2] are playing together.",
+            "[person_1] needs to strip the apple speedier.",
+            "[person_1] is learning how to swallow the sword.",
+            "Maybe [person_1] is introducing the plate."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to dance.",
+            "[person_1] will kiss [person_1].",
+            "[person_1] is likely to put on foundation.",
+            "[person_1] intends to do more somersaults.",
+            "[person_1] intends to hold the phone."
+        ],
+        "reason": [
+            "[person_1] is pressing on the keyboard.",
+            "[person_1] is touching and moving strings of the harp.",
+            "[person_1] is sitting still.",
+            "[person_1] is moving her feet.",
+            "[person_1] hands are on the strings."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls?",
+        "answer": [
+            "[person_1] will not play anymore.",
+            "[person_1] may not dance anymore.",
+            "[person_2] will stop playing.",
+            "[person_1] will fall in the buoy mattress and do not get hurt.",
+            "[person_1] will stop jumping."
+        ],
+        "reason": [
+            "When falling , [person_1] will naturally cling to [person_1].",
+            "Maybe [person_1] feels pain and stops playing.",
+            "Maybe [person_1] is afraid a mechanical bull.",
+            "[person_2] will help [person_1] stand up.",
+            "[person_1] , [person_1] and [person_2] are looking at [person_1]."
+        ]
+    }
+}

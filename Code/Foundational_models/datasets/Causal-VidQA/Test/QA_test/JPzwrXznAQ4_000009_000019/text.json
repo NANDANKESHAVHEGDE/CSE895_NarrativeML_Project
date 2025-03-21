@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the writing on the treadmill?",
+        "answer": [
+            "The floor is light yellow.",
+            "The room is painted in yellow.",
+            "The dress is black.",
+            "Red.",
+            "Adidas."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] running?",
+        "answer": [
+            "[person_1] is doing for fun.",
+            "[person_1] is raising eyebrows with [person_1] and [person_1].",
+            "[person_1] is stacking cups.",
+            "[person_1] wants to keep fit.",
+            "[person_1] likes to shake maracas to make sound."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do if the treadmill breaks down?",
+        "answer": [
+            "They will keep playing.",
+            "[person_1] and [person_1] will work together again to pull the iron sheet out of the machine.",
+            "They will keep climbing.",
+            "[person_1] will stop running.",
+            "[person_1] and [person_1] will continue to open the gift."
+        ],
+        "reason": [
+            "To make wishes.",
+            "[person_1] has shown step 4 & 5.",
+            "The break time is over.",
+            "She is likely to get hurt.",
+            "It is clear that [person_1] is walking toward the mat again."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if power goes out?",
+        "answer": [
+            "[person_1] will continue running.",
+            "The machine will continue to work.",
+            "[person_1] will stop running.",
+            "[person_1] could not be able to do the exercise easily.",
+            "[person_1] will start running."
+        ],
+        "reason": [
+            "The treadmill won't work anymore.",
+            "Because [person_1] is broken and can not be used to drink beer.",
+            "The treadmill will continue work.",
+            "Because if so , it is not funny.",
+            "The treadmill will be bright."
+        ]
+    }
+}

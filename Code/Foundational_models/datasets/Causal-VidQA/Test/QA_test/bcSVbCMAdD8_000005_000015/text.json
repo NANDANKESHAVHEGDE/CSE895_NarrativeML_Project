@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are on the street.",
+            "They are in a room.",
+            "[person_1] and [person_2] are in the street.",
+            "In front of a house.",
+            "[person_1] and [person_2] are in the weight training field."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] have \u00a0 an iron ball in her hands?",
+        "answer": [
+            "[person_2] is training with that iron ball.",
+            "Because [person_2] is waiting for her turn.",
+            "[person_2] wanted it to be more beautiful.",
+            "[person_2] is putting lipstick on her hand to check the color.",
+            "both [person_2] and [person_2] are creating supportive wall for each other to lean on."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play there.",
+            "[person_1] is going to lift weights.",
+            "[person_1] is going to drive snowmobile.",
+            "[person_1] is going to eat spaghetti.",
+            "[person_1] will check the result."
+        ],
+        "reason": [
+            "There are many sand on his feet.",
+            "[person_1] has food on hand.",
+            "[person_1] is holding the weights.",
+            "[person_1] is leaning forward to take the camera.",
+            "[person_1] is very small."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] still tries to lift heavier weights?",
+        "answer": [
+            "[person_1] and [person_1] might not be able to light up theirs candles.",
+            "[person_1] will help [person_1].",
+            "Nothing will happen.",
+            "Maybe it's cool.",
+            "Maybe [person_1] will feel very tired."
+        ],
+        "reason": [
+            "It's too heavy for [person_1].",
+            "It is not too heavy for [person_1].",
+            "It's too heavy for [person_1] .",
+            "[person_1] can't stand with only one foot.",
+            "Because there are two person around [person_1] who will catch [person_1]."
+        ]
+    }
+}

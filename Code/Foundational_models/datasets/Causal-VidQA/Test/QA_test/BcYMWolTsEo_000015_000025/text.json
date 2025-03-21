@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What animal is the [person_1] riding?",
+        "answer": [
+            "It's white.",
+            "The shirt is pink.",
+            "The shirt color is yellow.",
+            "The shirt is black.",
+            "A camel."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] choose to ride the camel?",
+        "answer": [
+            "[person_1] is trying to open a gift.",
+            "[person_1] is trying to play.",
+            "Because the camel is the best way of transportation in the desert.",
+            "[person_1] wants to take the toy car out of the box.",
+            "[person_1] wants to play with the ball."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do on the camel?",
+        "answer": [
+            "[person_1] is going to play drums for a while longer.",
+            "[person_1] is going to go to the back stage.",
+            "The [person_1] will enjoy the riding very much.",
+            "The child in black will learn how to dance.",
+            "[person_1] will wash his face and change a clothes."
+        ],
+        "reason": [
+            "Because [person_1] eats the cake without her hands , her face must be dirty after eating the cake.",
+            "There is a guitar on the instruction book.",
+            "After [person_1] pushes the cart for a while , [person_1]'s relative holds the cart to push.",
+            "[person_1] is so dirty by eating.",
+            "Because the [person_1] feels excited on the camel."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if the [person_1] wants to take photos?",
+        "answer": [
+            "The [person_1] will ask the man holding the camel to help her.",
+            "The [person_1] will throw the shot put far.",
+            "The [person_1] will not ask the man holding the camel to help her.",
+            "[person_1] will put the carve in [person_1].",
+            "The [person_1] will ask the man holding the camel to prevent her."
+        ],
+        "reason": [
+            "Because there are not only two people.",
+            "Because he wants to go on foot.",
+            "Because there are too many people.",
+            "The team of [person_1] can win the game.",
+            "Because there are only two people."
+        ]
+    }
+}

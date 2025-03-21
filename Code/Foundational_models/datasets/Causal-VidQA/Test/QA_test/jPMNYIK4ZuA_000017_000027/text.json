@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is looking at himself.",
+            "[person_1] is snatching weight lifting.",
+            "[person_1] is tickling [person_1] and [person_1].",
+            "[person_1] is showing how to open the bottle.",
+            "[person_1] is opening [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the board hung on the wall of the gym?",
+        "answer": [
+            "Because the juice isn't as good as using a stomp.",
+            "Because the gymer needs to know their training schedule.",
+            "Maybe the juice isn't as good as using a stomp.",
+            "It's windy.",
+            "Because the competition doesn't start."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will clean all the wall.",
+            "[person_1] is going to ski.",
+            "[person_1] is going to break.",
+            "[person_1] will help chop wood.",
+            "[person_1] is going to play with these cups."
+        ],
+        "reason": [
+            "[person_1] may keep raising eyebrows.",
+            "[person_1] has danced very well.",
+            "The result is not perfect.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] puts down the weight lifting."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the racks are made of plastic?",
+        "answer": [
+            "[person_1] can't move fast.",
+            "The [person_1] would lose balance.",
+            "There would only be the red flag",
+            "The racks is broken.",
+            "[person_1] will regret it."
+        ],
+        "reason": [
+            "[person_1] can see nothing here.",
+            "The air is all out.",
+            "[person_1]'s friend disturbs [person_1].",
+            "The racks , which are made of plastic , are very soft . \u00a0 The dumbbell will crush it.",
+            "[person_1] wants to finish the polishing work."
+        ]
+    }
+}

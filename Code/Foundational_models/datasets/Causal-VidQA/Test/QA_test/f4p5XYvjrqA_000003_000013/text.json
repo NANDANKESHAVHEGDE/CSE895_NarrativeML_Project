@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What are they wearing?",
+        "answer": [
+            "The ceiling fan is working.",
+            "Day.",
+            "With short sleeves.",
+            "Yes , only one.",
+            "No , it isn't . It's bright."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] walking?",
+        "answer": [
+            "[person_1] is making a tutorial video.",
+            "[person_1] is playing chess.",
+            "[person_1] wants to keep fit.",
+            "[person_1] is possibly instructing the viewer how to play different chords on the guitar.",
+            "[person_1] is excited about his action."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after running?",
+        "answer": [
+            "[person_1] may brush the left side.",
+            "[person_1] will rest without doubt.",
+            "[person_1] will continue to direct traffic on the road next.",
+            "[person_1] , [person_1] and [person_1] will continue the performance.",
+            "[person_1] will go for lunch."
+        ],
+        "reason": [
+            "He is tired and need relax.",
+            "[person_1]'s family faints out.",
+            "[person_1] has to go back to company.",
+            "There are two blue boxes near [person_1] and [person_1].",
+            "[person_1] will be tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will [person_1] do if he is tired?",
+        "answer": [
+            "[person_1] will start running.",
+            "Apple will be ugly.",
+            "[person_1] will stop running.",
+            "[person_1] needs to practice more.",
+            "[person_1] will stop hitting."
+        ],
+        "reason": [
+            "He will work.",
+            "Losing the game makes [person_1] angry.",
+            "He will sleep.",
+            "Two people work faster than one.",
+            "He will cook."
+        ]
+    }
+}

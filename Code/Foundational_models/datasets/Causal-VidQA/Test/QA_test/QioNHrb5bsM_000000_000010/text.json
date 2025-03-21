@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is performing on stage.",
+            "[person_1] is in the study room.",
+            "[person_1] is in the gym.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is near the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing chess with many people in the room.",
+            "[person_1] is doing a plunge.",
+            "[person_1] is doing arm training by pulling weights.",
+            "[person_1] is excited about her book.",
+            "[person_1] is trying to unbox the present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] probably will get more food.",
+            "[person_1] may tickle [person_1] again.",
+            "[person_1] going to have a date with someone?",
+            "[person_1] may plan to push [person_1] ahead.",
+            "[person_1] will definitely practice seriously."
+        ],
+        "reason": [
+            "[person_1] has put the feet on the tree.",
+            "[person_1] is using all his strength to pull.",
+            "[person_1] is going to try working faster.",
+            "[person_1] is putting a towel on the [person_1] and talking about it.",
+            "Because [person_1] is eating the donut."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] works hard?",
+        "answer": [
+            "[person_1] will have a break.",
+            "[person_1] will turn back.",
+            "[person_1] will have a nice body.",
+            "[person_1] will show off to others.",
+            "[person_1]'s pants will fall."
+        ],
+        "reason": [
+            "[person_1] should bring more water.",
+            "Maybe [person_1] will go to bed.",
+            "When [person_1] feels tired , she has to stop to relax her body and recover her energy.",
+            "Maybe [person_1] will be strong.",
+            "[person_1] will go to bed."
+        ]
+    }
+}

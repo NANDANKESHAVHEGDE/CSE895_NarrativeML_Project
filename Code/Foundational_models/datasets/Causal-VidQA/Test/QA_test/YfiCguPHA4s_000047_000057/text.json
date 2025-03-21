@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is skating in a stage.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in the garden.",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] skate?",
+        "answer": [
+            "[person_1] skates smoothly.",
+            "[person_1] is learning how to ride unicycle.",
+            "Because [person_1] likes riding unicycle.",
+            "[person_1] is doing it for fun.",
+            "Because [person_1] is playing the cello."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after she arrives at the destination?",
+        "answer": [
+            "[person_1] will stop skating.",
+            "[person_1] will continue to eat.",
+            "[person_1] will use the inhaler slowly.",
+            "[person_1] will keep riding the bike",
+            "[person_1] may board the ship."
+        ],
+        "reason": [
+            "[person_1] has broken the board.",
+            "[person_1] is not likely to have finished the performance.",
+            "[person_1] has finished the performance.",
+            "They won't stop until the music is over.",
+            "[person_1] slows down gradually."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] fell while performing?",
+        "answer": [
+            "[person_1] will hold the donut with one hand.",
+            "[person_1] will go to the toilet.",
+            "[person_1] and [person_1] would help [person_1].",
+            "The [person_1] will get off the elephant.",
+            "[person_1] will be very upset."
+        ],
+        "reason": [
+            "There is no canteen or stall on the street.",
+            "[person_1] and [person_1] are skating with [person_1].",
+            "[person_1] has failed the contest.",
+            "[person_1] wants to go to the toilet.",
+            "If there is a plate it will be better to help [person_1] and [person_1] to show their potato chips."
+        ]
+    }
+}

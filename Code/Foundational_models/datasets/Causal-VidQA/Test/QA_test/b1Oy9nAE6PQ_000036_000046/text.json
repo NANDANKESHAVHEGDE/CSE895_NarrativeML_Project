@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] wearing?",
+        "answer": [
+            "The [person_1] is wearing a cap.",
+            "[person_1] is wearing a zebra print dress with leggings.",
+            "[person_1] looks old.",
+            "The [person_1] is wearing a striped tee and denim shorts.",
+            "[person_1] is wearing a checkered hooded jacket."
+        ]
+    },
+    "explanatory": {
+        "question": "why does [person_3] wave his hands?",
+        "answer": [
+            "The hands of [person_3] are cold from the snow because [person_3] does not wear gloves.",
+            "Because [person_3] is taking a wild slide.",
+            "Because she is a singer.",
+            "[person_3] wants to rest.",
+            "[person_3] is a singer."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to the other side of the bed.",
+            "[person_2] is going to make a small snowball.",
+            "[person_2] is going to avoid the snowball.",
+            "[person_2] is going to raise his leg.",
+            "[person_2] is going to sleep on the bed."
+        ],
+        "reason": [
+            "there is only a little snow on the hands of [person_2].",
+            "[person_2] are walking on the sidewalk and does not wear roller skates.",
+            "[person_2] is walking to the swimming pool.",
+            "because [person_2] is smiling and is not holding any snowballs.",
+            "because [person_2] is moving his leg backward to be ready to raise it."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_3] throws a snowball at the left of [person_1]?",
+        "answer": [
+            "[person_2] will try her best to stop that.",
+            "[person_2] would dodge.",
+            "[person_2] will hold the microphone in front of [person_3]'s mouth for [person_3].",
+            "[person_1] will have no idea to put her exercising things.",
+            "[person_3] can throw a snowball at [person_2]."
+        ],
+        "reason": [
+            "because [person_2] is sitting on the left of [person_1].",
+            "The balloon of [person_2] will be deflated.",
+            "The content on [person_1]'s newspaper must be surprising or shocking since [person_1] screamed . Shocking news will make people scream.",
+            "When [person_1] plays , he makes sure that the two columns of dices can stand straight.",
+            "[person_1] sees [person_2] on the ground and chooses to put down her things."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is near the lake.",
+            "[person_1] is in the garden.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in wood workshop.",
+            "[person_1] is in the cup - stacking game room."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a wood planer?",
+        "answer": [
+            "[person_1] wants to sew pliable materials to form a shape.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "Because the doll on the stage seems to be loaded with batteries.",
+            "[person_1] is the singer.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to play the harp.",
+            "[person_1] may be going to have a taste.",
+            "[person_1] is going to open another bottle.",
+            "[person_1] is going to keep playing the harp.",
+            "[person_1] is going to use hammer and chisel."
+        ],
+        "reason": [
+            "The hammer and chisels are on [dining table_1].",
+            "[person_1] needs to practice many times.",
+            "[person_1] is playing the guitar with zeal.",
+            "From the status of the left eye , we can see [person_1] has tried many times . So he will enjoy the beer because he open it by his hand , which means he gave up.",
+            "[person_1] think that stretching body is a nice thing and she likes it very much . Therefore , she wants to do more ."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has 1 more helper?",
+        "answer": [
+            "The work of [person_1] won't be done faster.",
+            "[person_1] will stop stomping grapes.",
+            "The work of [person_1] will be done slower.",
+            "His teammates will go up and help [person_1].",
+            "The work of [person_1] will be done faster."
+        ],
+        "reason": [
+            "Two people work faster than one.",
+            "Stomping grapes is a repetitive action.",
+            "Two people work slower than one.",
+            "Because it's more convenient for [person_1] to fix his own car rather than borrowing cars from others.",
+            "Three people work faster than one."
+        ]
+    }
+}

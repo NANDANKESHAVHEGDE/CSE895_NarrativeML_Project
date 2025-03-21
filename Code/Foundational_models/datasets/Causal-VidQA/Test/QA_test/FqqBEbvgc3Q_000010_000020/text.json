@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is pulling out the lower drawer of the refrigerator.",
+            "The [person_1] is playing accordion live.",
+            "The [person_1] is opening [person_1] door.",
+            "The [person_1] is introducing the [dog_1] to the audience.",
+            "the [person_1] is wearing a pink shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [dog_1] move?",
+        "answer": [
+            "The [person_1] laughs because the cameraman makes fun of him.",
+            "The [person_1] wears glasses to see small bass buttons easier.",
+            "[person_1] wants to show his talent.",
+            "[person_1] uses a bottle opener.",
+            "Because the [person_1] put his hand inside the [dog_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will continue to introduce the [dog_1].",
+            "The [person_1] will continue to draw the flower.",
+            "The [person_1] will dry the hair for the dog.",
+            "The [person_1] should continue to take out the contents of the [dog_1] and throw them away.",
+            "The [person_1] will praise the [dog_1]."
+        ],
+        "reason": [
+            "Because the cutting hair of [person_1] left on the floor will make the room messy.",
+            "Because the [person_1] doesn't seem to be finished.",
+            "Because the [person_1] seems to have finished her introduction.",
+            "Because the [person_1] seems to have repeated this action twice.",
+            "Because the [person_1] wants to try other types of exercise."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [dog_1] fall over?",
+        "answer": [
+            "Maybe [person_1] will touch the [dog_1].",
+            "The [person_1] will not make [dog_1] fall down on the floor.",
+            "[person_1] could not lift the barbell up.",
+            "[person_1] would ask to borrow a knife from the person next to him.",
+            "The [person_1] will pick the [dog_1] up."
+        ],
+        "reason": [
+            "[dog_1] is only a short distance away from the finish line.",
+            "Because it will clutter the space if the [dog_1] is not picked up.",
+            "Because there is no one as a guard.",
+            "[dog_1] is in her working room , she is good at making a potted plant.",
+            "Because the current rope is too long , which hinders [dog_1] to wind the tree."
+        ]
+    }
+}

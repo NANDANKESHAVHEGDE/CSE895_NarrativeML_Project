@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the gender of [person_1]?",
+        "answer": [
+            "The curtain behind [person_1] is red.",
+            "[person_1] is holding [person_1].",
+            "[person_1] is holding two sticks.",
+            "[person_1] is a female.",
+            "[person_1] is holding two dumbbells."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a headband?",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "Maybe [person_1] is learning how to play the harmonica.",
+            "[person_1] wants to play with the ball.",
+            "To keep her hair from falling down to her eye level.",
+            "[person_1] wants to drink the liquid in the bottle."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play marbles",
+            "[person_1] may carry on playing drums for a while.",
+            "[person_1] intends to play the harp.",
+            "[person_1] intends to go on singing.",
+            "[person_1] intends to have an intention of playing the flute."
+        ],
+        "reason": [
+            "[person_1] is playing guitar and singing.",
+            "[person_1] seems to be very keen on doing so.",
+            "[person_1] holds his arms forward.",
+            "[person_1] puts the harmonica down.",
+            "[person_1] is hover boarding."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was a sudden power outage in this room?",
+        "answer": [
+            "The glasses would broke.",
+            "[person_1] would cry loudly.",
+            "All the people will run away immediately.",
+            "[person_1] would get injured.",
+            "[person_1] might have to stop playing drums."
+        ],
+        "reason": [
+            "It is impossible that [person_1] is a referee.",
+            "It is difficult to find gold in the sands.",
+            "Because those cans are not biodegradable and environmental policies do not allow people to litter.",
+            "It is the appropriate etiquette of a performer . ",
+            "There would be no light for [person_1] to see the drums."
+        ]
+    }
+}

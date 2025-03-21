@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What kind of tool does [person_1] use?",
+        "answer": [
+            "His false tooth.",
+            "It is purple.",
+            "Yes.",
+            "Key pendant.",
+            "It is pink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why photographer has to move the camera?",
+        "answer": [
+            "[person_1] is stacking cups.",
+            "[person_1] is doing [person_1] makeup.",
+            "To show where the coke cap is.",
+            "[person_1] is raising eyebrows.",
+            "This is to increase the space between the cork and the bottle neck."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to pick up the ball.",
+            "[person_1] is going to put the dressing on the cake.",
+            "[person_1] is going to drink the cola.",
+            "[person_1] is going to drink orange juice.",
+            "[person_1] is going to raise both hands."
+        ],
+        "reason": [
+            "Because [person_1] also wants to make some bubbles.",
+            "[person_1] is making noodles thin and long.",
+            "One of the purpose of opening a bottle is to drink the liquid in it.",
+            "[person_1] finishes washing.",
+            "[person_1] is paying attention to [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the cola cap smashed the computer screen?",
+        "answer": [
+            "Surrounding objects would catch fire.",
+            "The computer will be taken in for repair.",
+            "The desk would not be thrown the ball at.",
+            "The computer will not be taken in for repair.",
+            "The bottle would explode."
+        ],
+        "reason": [
+            "It takes a lot of playing cards to finish the work.",
+            "A computer is not a very valuable item . And indispensable in daily life.",
+            "From the surrounding , we could tell that it's hard to get another bandage , so he only has to keep using the broken bandage.",
+            "A computer is a very valuable item . And indispensable in daily life.",
+            "Because more space would do good to his movements."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_2] wearing?",
+        "answer": [
+            "It is gray.",
+            "It is black.",
+            "Blue.",
+            "It is white.",
+            "It is a hat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding maracas?",
+        "answer": [
+            "[person_1] is happy because of playing football.",
+            "Because [person_1] is old , [person_1] can have some eye problems.",
+            "Because [person_1] is suffering from eye disease.",
+            "Because [person_1] is playing checkers with [person_1].",
+            "Because [person_1] likes the sound of maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] is going to repair bicycles.",
+            "[person_1] continues to shake the maracas",
+            "[person_1] will continue to eat.",
+            "[person_1] will continue to blow.",
+            "[person_1] will continue working."
+        ],
+        "reason": [
+            "Because [person_1] seems to be very proficient with sign language.",
+            "[person_1] is catching the toy in the green box.",
+            "Because [person_1] has already finished the training and it is [person_1]'s turn.",
+            "Because [person_1]'s going to calculate today's payoff.",
+            "Maybe [person_1] felt like the sound of maracas"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the person leaves?",
+        "answer": [
+            "[person_1] might fall.",
+            "[person_1] will stop being sad and [person_1] will stop crying . [person_1] and [person_1] will hug each other.",
+            "[person_1] will stop talking.",
+            "[person_1] will be cry.",
+            "The cello will break."
+        ],
+        "reason": [
+            "Maybe [person_1] will lose all the phone numbers.",
+            "The headphone will break because the floor is so hard.",
+            "[person_1] will cry if he is alone.",
+            "When [person_1] slides to the cushion , [person_1] is climbing to the cushion.",
+            "Because [person_1] feels uncomfortable."
+        ]
+    }
+}

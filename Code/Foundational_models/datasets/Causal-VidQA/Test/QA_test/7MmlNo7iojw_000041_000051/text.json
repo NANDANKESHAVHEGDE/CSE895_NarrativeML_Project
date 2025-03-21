@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] sitting?",
+        "answer": [
+            "[person_1] is on the shelf.",
+            "[person_1] is sitting on the bed.",
+            "[person_1] is sitting on the floor.",
+            "[person_1] is sitting on bed.",
+            "The [person_1] is near the window and close to the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding an wooden bass guitar?",
+        "answer": [
+            "[person_1] is filming himself so [person_1] is interacting with the camera.",
+            "[person_1] is playing bass guitar.",
+            "[person_1] is looking at someone who is standing near her.",
+            "Maybe the harmonica is a toy of [person_1].",
+            "[person_1] does squats."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is talking about his opinion.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to a workout.",
+            "[person_1] will be performing a bass guitar solo."
+        ],
+        "reason": [
+            "[person_1] stepped forward continuously.",
+            "[person_1] has bent back.",
+            "To make it look more fresh.",
+            "[person_1] is striking the bass guitar strings with both hands.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bass guitar loses one string?",
+        "answer": [
+            "[person_1] will stop dancing.",
+            "The bass guitar cannot sound as well as it did.",
+            "[person_1] may not choose to leave.",
+            "[person_1] will cut off the flower's stem.",
+            "If [person_1] does not stir the food , the food in [person_1] will get burnt."
+        ],
+        "reason": [
+            "[person_1] cannot create proper rhythms on the bass guitar as one string is lost.",
+            "Because there is a narrow gap in the middle.",
+            "The bass guitar will lose some music notes without a string.",
+            "[person_1] falls from the height which is comparatively high.",
+            "[person_1] is blocking the path in which [person_1] and others are traveling."
+        ]
+    }
+}

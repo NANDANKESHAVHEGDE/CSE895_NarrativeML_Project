@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many persons?",
+        "answer": [
+            "One.",
+            "[person_1] is in the clinic.",
+            "Five.",
+            "[person_1] is on a stage.",
+            "[person_1] is on the street."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] sit there?",
+        "answer": [
+            "To keep balance.",
+            "She has won the prize.",
+            "[person_1] smacks them to adjust them to a comfortable spot under his arm.",
+            "The machine should be operated like that.",
+            "[person_1] wants to play basketball with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after slowing down?",
+        "answer": [
+            "[person_1] will leave.",
+            "[person_1] will go on the meal.",
+            "[person_1] will not be angry.",
+            "[person_1] will get another board.",
+            "[person_1] will put on a mask."
+        ],
+        "reason": [
+            "It has been bearing the weight for long time.",
+            "[person_1]'s phone rings.",
+            "Because it is the rule of the game.",
+            "[person_1] hasn't finished the steps totally.",
+            "[person_1] must be tired because it is not an easy work."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1]'s phone rings?",
+        "answer": [
+            "The room will not be bright.",
+            "Perhaps [person_1] would open the best gift box first.",
+            "The [person_1] will play the song rightly through accordion.",
+            "Both [person_1] and [person_1] would be worry.",
+            "[person_1] will leave."
+        ],
+        "reason": [
+            "[person_1] will answer the phone.",
+            "The [person_1] tried to lick the arm of the [person_1].",
+            "Because [person_1] would have no one to play with.",
+            "[person_1] needs this special green cup to do the trick.",
+            "[person_1] will pick up the chess piece."
+        ]
+    }
+}

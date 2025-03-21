@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in a museum.",
+            "[person_1] is at the gym.",
+            "[person_1] is in a fashion shop.",
+            "[person_1] is in a living room.",
+            "[person_1] is in a classroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "[person_1] wants to train to change its body.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] is playing spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to celebrate.",
+            "[person_1] will probably stop pirouetting.",
+            "[person_1] is going to keep hooping.",
+            "[person_1] is going to do a calorie - burning exercise with round dumbbells . .",
+            "[person_1] is going to continue dancing."
+        ],
+        "reason": [
+            "[person_1] looks thirsty after doing exercise.",
+            "so that [person_1] has a beautiful healthy body.",
+            "The cat is sitting next to [person_1].",
+            "Maybe [person_1] will clap his hands.",
+            "[person_1] feels dark."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] trains with weights not carefully?",
+        "answer": [
+            "Round dumbbells cannot injure [person_1].",
+            "Maybe [person_1] feels disliked.",
+            "Round dumbbells can injure [person_1].",
+            "[person_1] might be very sad.",
+            "Big dumbbells can injure [person_1]."
+        ],
+        "reason": [
+            "Because dumbbells are quite heavy and dangerous.",
+            "Goal means it is closer to win.",
+            "Because dumbbells are not heavy and dangerous.",
+            "[person_1] is the little brother of [person_1].",
+            "Because dumbbells are quite heavy and safe."
+        ]
+    }
+}

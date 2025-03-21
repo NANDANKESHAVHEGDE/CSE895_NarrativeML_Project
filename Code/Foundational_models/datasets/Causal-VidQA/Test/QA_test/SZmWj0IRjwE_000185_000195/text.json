@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [potted plant_1]?",
+        "answer": [
+            "[potted plant_1] is on the right side [person_1].",
+            "[potted plant_1] is to [person_1] right.",
+            "[potted plant_1] is on the sidewalk to [person_1]'s right.",
+            "The [person_1] is in [potted plant_1]'s hand.",
+            "[potted plant_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] pushing [person_2]?",
+        "answer": [
+            "Because [person_2] can be the coach and is teaching [person_1] and [person_2].",
+            "[person_1] is practicing a move in tai chi.",
+            "[person_1] and [person_2] are playing didgeridoo.",
+            "[person_1] and [person_2] are just starting to play chess.",
+            "[person_2] is shaving for [person_1] ."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep working until it finishes.",
+            "[person_1] may turn around.",
+            "[person_1] is going to practice.",
+            "[person_1] may cheer up.",
+            "[person_1] is going to make another hit towards [person_2]."
+        ],
+        "reason": [
+            "[person_1] is going to go back home.",
+            "Hitting towards [person_2] is the next move in the drill.",
+            "[person_1] is shaking the arms.",
+            "[person_1] has finished checking the computer.",
+            "[person_1] is skateboarding through the hill."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] could not keep balanced?",
+        "answer": [
+            "Maybe other people can't see it clearly.",
+            "[person_2] might not practice performing.",
+            "[person_2] might have a fall.",
+            "The effect would not be so good.",
+            "The match would lose control."
+        ],
+        "reason": [
+            "The hits seem to be very strong.",
+            "[person_2] would keep trying to practice day by day.",
+            "Maybe some of the audience in the room wouldn't be able to understand what [person_2] is singing because no one can describe it.",
+            "Only in practice can [person_2] see his strength.",
+            "[person_2] might not be respected by his teammates."
+        ]
+    }
+}

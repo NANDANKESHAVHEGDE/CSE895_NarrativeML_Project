@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is [chair_1]?",
+        "answer": [
+            "[chair_1] is to the right of [chair_1].",
+            "[chair_1] is near the dining table.",
+            "[chair_1] is in front of [chair_1].",
+            "[chair_1] is being seated by [chair_1].",
+            "[chair_1] is empty."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [chair_1] empty?",
+        "answer": [
+            "[person_1] balances and stands on one leg.",
+            "It was a punishment for the loser.",
+            "There is no one except [person_1] is standing and playing bagpipes.",
+            "[person_1] waits to catch the ball and pass it for [chair_1].",
+            "[person_1] is playing maracas."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may stop playing bagpipes.",
+            "[person_1] may get out of the recording room.",
+            "[person_1] is certain to spray a painting.",
+            "She may keep moving her feet and dance.",
+            "Maybe [person_1] is going to continue skiing"
+        ],
+        "reason": [
+            "[person_1] is huddling with the team.",
+            "[person_1] is upset.",
+            "[person_1] is talking in front of the camera.",
+            "[person_1] is excited about it.",
+            "[person_1] is smiling."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not playing bagpipes?",
+        "answer": [
+            "[person_1] won't sit on [chair_1].",
+            "[person_1] will stop driving.",
+            "[person_1] may sit on [chair_1].",
+            "The match may not continue.",
+            "[person_1] may stand on [chair_1]."
+        ],
+        "reason": [
+            "[chair_1] is in use.",
+            "[person_1] needs to find a shelter.",
+            "[chair_1] is empty.",
+            "[person_1] will get wet if it rains.",
+            "[chair_1] is beautiful."
+        ]
+    }
+}

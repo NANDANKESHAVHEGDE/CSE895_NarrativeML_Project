@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What colour is the long sleeve shirt [person_1] wearing?",
+        "answer": [
+            "The shirt [person_1] is wearing is white.",
+            "The [person_1] is wearing checked pants.",
+            "No.",
+            "Two snowballs.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding drumsticks?",
+        "answer": [
+            "[person_1] is shredding the paper.",
+            "[person_1] wants to show people how to run properly.",
+            "[person_1] does squats.",
+            "[person_1] is playing drums.",
+            "[person_1] is shaving and trimming his beard."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to play with the maracas .",
+            "[person_1] intends to have an intention of playing the flute.",
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] intends to keep playing drums.",
+            "[person_1] intends to go on singing."
+        ],
+        "reason": [
+            "[person_1] is holding the trumpet and playing it.",
+            "Maybe [person_1] is trying to get dressed as fast as possible.",
+            "[person_1] is going forward to the [person_1].",
+            "[person_1] seems happy when playing and is moving hands with drumsticks.",
+            "Then maybe [person_1] tends to sit down on the chair."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] weren't there?",
+        "answer": [
+            "[person_1] might be in danger.",
+            "[person_1] would not be able to cycle anymore.",
+            "[person_1] would not play anything any instruments in the room.",
+            "[person_1] would not be able to play drums.",
+            "[person_1] would do all the tasks."
+        ],
+        "reason": [
+            "[person_1] is too short to reach the swing by himself.",
+            "There would be only [person_1] in the room",
+            "[person_1] should learn how to clean the room.",
+            "[person_1] would not see them.",
+            "[person_1] will continue to stand there."
+        ]
+    }
+}

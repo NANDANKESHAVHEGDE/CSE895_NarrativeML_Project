@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [car_1] ?",
+        "answer": [
+            "It is white.",
+            "[car_1] is on the [car_1]'s left side.",
+            "[car_1] is on the table.",
+            "It is white and black.",
+            "[car_1] is behind the fence , on the road."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] wear a jacket ?",
+        "answer": [
+            "To attract others' attention.",
+            "[person_1] is middle aged.",
+            "[person_1] is singing and playing lute in the room.",
+            "[person_1] needs a jacket to keep himself warm.",
+            "[person_1] is making a scene in a TV program."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "Maybe [person_1] will sit on the chair.",
+            "[person_1] is going to play the guitar.",
+            "[person_1] will take the [sports ball_1] on the ground.",
+            "Maybe [person_1] intends to lower your hand.",
+            "[person_1] intends to hit the puck in a zigzag way."
+        ],
+        "reason": [
+            "[person_1] is still under the sea.",
+            "The paper is in [person_1]'s hands.",
+            "[person_1] holds the ice hokey stick and hits the small puck.",
+            "[person_1] is crouching.",
+            "[person_1] is going forward to the [sports ball_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained heavily?",
+        "answer": [
+            "[person_1] would have to find and get to a rain shelter.",
+            "[person_1] would set up another bucket.",
+            "[person_1] may move to another path.",
+            "[person_1] will use the tools on [person_1] to repair the iron triangle.",
+            "The [person_1] will not have to run and get the ball back."
+        ],
+        "reason": [
+            "Because [person_1] is showing the way to peel a potato.",
+            "Training under the rain would not yield the most efficiency for the players.",
+            "The [person_1] removes the skin of potatoes before cooking.",
+            "[person_1] needs a place to avoid rain or [person_1] would get wet.",
+            "The thunder is very loud."
+        ]
+    }
+}

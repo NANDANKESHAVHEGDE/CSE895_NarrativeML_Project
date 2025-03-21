@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [vase_1]?",
+        "answer": [
+            "The [vase_1] is behind [person_1].",
+            "The shirt [person_1] wearing is blue.",
+            "The [person_1] and the [person_1] are on the window sill.",
+            "The [person_1] is wearing a T - shirt and jeans.",
+            "The [vase_1] is in the right of the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] touching the cups on the [dining table_1]?",
+        "answer": [
+            "Perhaps [person_1] wants to warm up comfortably.",
+            "Because [person_1] is holding maracas playing.",
+            "[person_1] is helping [person_1] to have right hand position when [person_1] is doing tai chi.",
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] is fond of playing with cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after stacking [cup_2]?",
+        "answer": [
+            "[person_1] is going to continue stacking other cups.",
+            "[person_1] and [person_1] are going to continue playing with each other.",
+            "The [cup_2].",
+            "Because [person_1] was searching for decorations on the ground.",
+            "[person_1] will return to the barn."
+        ],
+        "reason": [
+            "[cup_2] has run towards the left road at the end of the video.",
+            "Because they seems to be very affectionate and intimate towards each other.",
+            "It seems that [person_1] does not finish it.",
+            "[person_1] is home alone.",
+            "[person_1] is a little child and doesn't have that much strength."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] practices this game everyday?",
+        "answer": [
+            "[person_1] will master the game.",
+            "[person_1] may have to have a treatment.",
+            "[person_1] will change the game.",
+            "[person_1] may seek a headphone to do a silent disco dance.",
+            "[person_1] will stop the game."
+        ],
+        "reason": [
+            "Because the factory is dangerous.",
+            "[person_1] is a sentimental person and he will feel sad when he faces sad things.",
+            "Practice makes perfect.",
+            "The baby will not somersault well.",
+            "Drinking too much leads to getting drunk."
+        ]
+    }
+}

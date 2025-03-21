@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is on the table.",
+            "It is in front of the building.",
+            "[book_1] is under the table.",
+            "[book_1] is next to [book_1]'s right foot.",
+            "[book_1] is in the left of [book_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing the flute?",
+        "answer": [
+            "[person_1] wants the picture to be unique.",
+            "Because [person_1] is expressing love to [person_1].",
+            "Playing the flute is [person_1] hobby.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is playing to see how the guitar sounds."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to keep playing piano.",
+            "[person_1] intends to turn the camera to another direction.",
+            "[person_1] intends to continue playing checkers with [person_1].",
+            "[person_1] intends to continue playing the harmonica.",
+            "[person_1] has an intention of playing the flute."
+        ],
+        "reason": [
+            "[person_1] went down the stairs.",
+            "[person_1] seems very impassioned about harmonica.",
+            "[person_1] is facing [person_1].",
+            "[person_1] still hasn't landed perfectly.",
+            "[person_1] blowing technique is really skilled."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is tired?",
+        "answer": [
+            "Maybe [person_1] will tell [person_1] to take a break.",
+            "[person_1] will continue to play the flute.",
+            "[person_1] will be famous.",
+            "[person_1] will stop to play the flute.",
+            "[person_1] may go out."
+        ],
+        "reason": [
+            "Good performance will bring [person_1] fame.",
+            "[person_1] will feel tired yet.",
+            "There is a boat near [person_1] and his partner is on the shore.",
+            "[person_1] will not feel tired yet.",
+            "[person_1] will need to take a rest."
+        ]
+    }
+}

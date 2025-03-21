@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is pink.",
+            "The shirt is blue.",
+            "The shirt color is yellow.",
+            "The shirt is red.",
+            "The shirt is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] wants to play the lute.",
+            "[person_1] is playing the lute.",
+            "Because [person_1] is practicing standing on hands.",
+            "[person_1] is playing with paper.",
+            "Because [person_1] is opening present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep diving.",
+            "[person_1] is going to rip paper.",
+            "[person_1] is going to continue standing on hands.",
+            "[person_1] is going to fall off the chair.",
+            "[person_1] will keep on playing his toy."
+        ],
+        "reason": [
+            "[person_1] may be startled.",
+            "The tap is still on.",
+            "The training session just started.",
+            "[person_1] looks like a couple.",
+            "It is very sunny to play."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] falls down?",
+        "answer": [
+            "[person_1] will get up and continue practicing.",
+            "[person_1] will go to the side to rest.",
+            "[person_1]'s head may be injured by hitting the floor",
+            "[person_1] will run towards [person_1].",
+            "[person_1] needs to stand up by her own."
+        ],
+        "reason": [
+            "[person_1] will not keep standing by hands.",
+            "Because the honey block is in [person_1]'s hand and it will fall down as well.",
+            "[person_1] twists his feet.",
+            "Falling is a common occurrence when practicing standing on hands.",
+            "Because the ground is soft with grass on it."
+        ]
+    }
+}

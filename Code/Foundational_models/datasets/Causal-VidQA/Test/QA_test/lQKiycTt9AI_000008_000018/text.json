@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing the white shirt.",
+            "The shirt [person_1] wearing is red.",
+            "It's black.",
+            "The shirt [person_1] wearing is black.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_3] hold the cup and drink beer?",
+        "answer": [
+            "[person_3] is trying to get the dices into the cup.",
+            "because [person_3] must do so in order to sharpen the pencil.",
+            "The ball of [person_3] is small to fit hands of [person_3].",
+            "[person_3] is playing the guitar by tapping on the notes with 1 finger.",
+            "The opposing team threw the ball into his cup."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_3] going to do?",
+        "answer": [
+            "[person_3] also wants to have a try.",
+            "[person_3] is going to drink beer.",
+            "[person_3] is going to watch [person_3] and [person_3] workout.",
+            "Maybe [person_3] is going to join them.",
+            "[person_3] is going to catch the balloon back."
+        ],
+        "reason": [
+            "[person_3] just finishes whisking the egg so [person_3] may continue to cook it.",
+            "There is still a lot of cement that has not been moved.",
+            "[person_3] intends to slow down and gradually lower the body.",
+            "He bends over and puts woods to the floor.",
+            "[person_3] raised the cup."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] catches the ball in beer pong?",
+        "answer": [
+            "Maybe [person_3] is the winner.",
+            "[person_3] will be very afraid.",
+            "Maybe [person_3] is the loser.",
+            "[person_3] will likely fail.",
+            "The water will leak out and [person_3] will be wet."
+        ],
+        "reason": [
+            "Catching the ball in beer pong is the rules of beer pong.",
+            "[person_3] will need to aim more accurately.",
+            "Catching the ball in beer pong is against the rules of beer pong.",
+            "Because the [person_3] needs to use the television by his hands.",
+            "[person_3] will check the problem of the camera."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] wearing?",
+        "answer": [
+            "[person_1] wearing a beanie and yellow shoes.",
+            "[person_1] is wearing a glasses.",
+            "[person_1] is wearing a t - shirt.",
+            "[person_1] is wearing a traditional uniform.",
+            "[person_1] is wearing a helmet."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] 's face look?",
+        "answer": [
+            "[person_1] is putting the wheelchair in the car.",
+            "[person_1] is showing that the fruit is so hard.",
+            "[person_1] 's face look serious.",
+            "[person_1] is smoking hookah.",
+            "Because [person_1] has to dump the box."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] about to do?",
+        "answer": [
+            "[person_1] is going to shovel the sand using the truck.",
+            "[person_1] about to look up from the accordion.",
+            "[person_1] is about to demonstrate how the machine work.",
+            "[person_1] is about to identify welding measurements and position.",
+            "[person_1] is about to defense with his pillow."
+        ],
+        "reason": [
+            "He seems to be practicing.",
+            "[person_1] was looking at the accordion then he looked forward.",
+            "[person_1] raised the pillow up.",
+            "[person_1] is doing it carefully.",
+            "[person_1] close his leg and put the dumbbells above his shoulder."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not press the buttons on the accordion?",
+        "answer": [
+            "[person_1] would not have to bend down.",
+            "[person_1] would not fall.",
+            "[person_1] may keep the insect biting his body.",
+            "They may hug each other.",
+            "The sound that the accordion made would have no melody."
+        ],
+        "reason": [
+            "To practice the muscle of legs.",
+            "[person_1] created the melody by pressing the buttons on the accordion.",
+            "[person_1] thinks she can climb on it the next time.",
+            "[person_1] needs a sharp knife to prepare for dishes.",
+            "[person_1] has spun 5 plates before."
+        ]
+    }
+}

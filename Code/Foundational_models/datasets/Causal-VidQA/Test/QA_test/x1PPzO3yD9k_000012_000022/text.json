@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "[person_1] is sitting in a wheelbarrow.",
+            "[person_1] is putting the ring on the woman's finger.",
+            "[person_1] is wearing a sweater.",
+            "[person_1] is wearing a white t - shirt.",
+            "The hat is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting on the sofa?",
+        "answer": [
+            "Because he lost the game.",
+            "[person_2] is playing game.",
+            "[person_2] is watching [person_2].",
+            "[person_2] wants to throw it into the plastic sink.",
+            "[person_2] is reading newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to go out.",
+            "[person_1] is going to continue playing hurling.",
+            "[person_1] intends to put on lipstick.",
+            "[person_1] intends to drink wine.",
+            "[person_1] intends to continue ripping paper."
+        ],
+        "reason": [
+            "[person_1] is in the middle of the road.",
+            "[person_1] plucks the strings and controls the stick.",
+            "[person_1] still shows the hands up and shakes the body.",
+            "[person_1] holds the lipstick in her hand and applies it to her lips.",
+            "The contact lens has been pushed out of the eye."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't put on lipstick?",
+        "answer": [
+            "[person_1] will stand.",
+            "[person_1] would play in the garden.",
+            "[person_1] won't be able to skate on the ice rink.",
+            "It is possible that [person_1] will not look pretty.",
+            "[person_1] will have a sore leg."
+        ],
+        "reason": [
+            "Because the wall is very slippery.",
+            "[person_1] is standing behind [person_1].",
+            "There is a garden behind [person_1].",
+            "Putting on lipstick can make [person_1] younger.",
+            "The other person would not know that [person_1] wanted to high five."
+        ]
+    }
+}

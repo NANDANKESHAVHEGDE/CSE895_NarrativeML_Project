@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is stripping an apple.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing the keyboard.",
+            "[person_1] is slamming a tire.",
+            "[person_1] is peeling a coco."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] sitting next to [person_1]?",
+        "answer": [
+            "[person_2] prepares to discover the gifts.",
+            "[person_1] and [person_2] are opening presents.",
+            "[person_2] also wants to play the keyboard.",
+            "[person_2] is teaching [person_1] how to skate.",
+            "[person_1] and [person_2] are just starting to play chess."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "Perhaps [person_1] will throw the ball into the cups.",
+            "[person_1] will keep shaving [person_1]'s left leg.",
+            "[person_1] will keep on shaking the bottle.",
+            "Maybe [person_1] won't let [person_2] play the keyboard with him."
+        ],
+        "reason": [
+            "[person_1]'s hands is touching the string.",
+            "[person_1] has already put her arm on the right one.",
+            "[person_1] looks unsatisfied with the sound of the gong.",
+            "[person_2] doesn't know how to play the keyboard.",
+            "Because [person_1] has raised up his hands on the top of the pottery."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] cries?",
+        "answer": [
+            "[person_1] will find a way to make [person_2] stop crying.",
+            "[person_1] will make [person_1] stop crying.",
+            "It is possible that [person_1] will be in danger.",
+            "[person_1] will scream and dance.",
+            "[person_1] will stop playing flute."
+        ],
+        "reason": [
+            "Because [person_2] is small and easy to cry.",
+            "[person_1] and [person_2] are close and friendly together.",
+            "[person_1] and [person_2] are brothers.",
+            "To try to unload the big bag again.",
+            "[person_1] cherishes [person_2]."
+        ]
+    }
+}

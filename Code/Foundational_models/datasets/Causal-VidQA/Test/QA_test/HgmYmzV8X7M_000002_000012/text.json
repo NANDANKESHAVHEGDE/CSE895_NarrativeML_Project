@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] standing?",
+        "answer": [
+            "[person_1] is standing on a field.",
+            "[person_1] is standing in a parking lot.",
+            "[person_1] is outside standing on the sidewalk.",
+            "[person_1] is on the picture on the wall.",
+            "[person_1] is standing in front of the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on a field?",
+        "answer": [
+            "Because [person_1] is taking pictures of memories.",
+            "The [person_1] wanted to look at it.",
+            "Because [person_1] wants to record how he is skiing.",
+            "Because [person_1] is trying to throw discus.",
+            "Because [person_1] is performing cello."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] on the brink of doing?",
+        "answer": [
+            "[person_1] will play well.",
+            "[person_1] may shoot with his knees on the floor.",
+            "[person_1] may feel better.",
+            "[person_1] is going to go to the back.",
+            "[person_1] may keep on throwing stones."
+        ],
+        "reason": [
+            "[person_1] went closer to the camera to stop recording.",
+            "To practice more.",
+            "It is more convenient for people to eat.",
+            "[person_1] turned around and walked to the back.",
+            "Because [person_1] has finished her race."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not wear normal clothes?",
+        "answer": [
+            "[person_1] might perform much better.",
+            "[person_1] wouldn't be able to practice.",
+            "[person_1] stood up suddenly.",
+            "[person_1] and [person_1] would get falls , which is very dangerous.",
+            "The hammer might not be thrown far."
+        ],
+        "reason": [
+            "[person_1]'s clothes limited [person_1] from big range of motion.",
+            "The horse might be irritated by [person_1]'s action.",
+            "The dance needs two people.",
+            "[person_1] would lose the momentum.",
+            "The right hand of [person_1] has no bird food."
+        ]
+    }
+}

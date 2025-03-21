@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_2] holding in her hand?",
+        "answer": [
+            "The [person_2] is behind the [person_2].",
+            "[person_2] is looking at [person_2].",
+            "[person_2] is placed on the floor.",
+            "[person_2] is holding a drill machine.",
+            "[person_2] is wearing the glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "why is there a pencil on the head of drill machine?",
+        "answer": [
+            "Because if [person_1] sits while playing the gong , it will be difficult to have the force to swing the gong.",
+            "[person_1] and [person_1] are squeezing oranges.",
+            "because [person_1] is going to use the drill machine to sharpen the pencil.",
+            "Because [person_1] wants to touch her belly button.",
+            "Maybe [person_1] wants to show us how to open it again."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to hold the pencil sharpener tight.",
+            "[person_1] will attack [person_1].",
+            "[person_1] will keep feeding the fish.",
+            "[person_1] is going to lean backwards.",
+            "[person_1] is going to continue the sword fight."
+        ],
+        "reason": [
+            "the [person_1] has not fallen off the mechanical bull yet.",
+            "because [person_1] is smiling widely.",
+            "[person_1] uses two hands to hold the sharpener.",
+            "[person_1] is sliding a role of carpet on the ground.",
+            "[person_1] is loosing balance when turning around."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [person_2] drilled too fast?",
+        "answer": [
+            "There would be nothing to put into the second plate.",
+            "[person_2] and [person_2] might rest.",
+            "The [person_2] may turn around and bite [person_2].",
+            "the pencil would be broken.",
+            "Maybe the ribbon will not be long enough to tie."
+        ],
+        "reason": [
+            "[person_2] and others will just do exercises separately.",
+            "[person_2] is sitting of the chair , hence [person_2] is as not strong as [person_2].",
+            "the pencil is easy to be broken.",
+            "[person_2] is so short that he could not reach the basket.",
+            "Because the crutches slows [person_2] down."
+        ]
+    }
+}

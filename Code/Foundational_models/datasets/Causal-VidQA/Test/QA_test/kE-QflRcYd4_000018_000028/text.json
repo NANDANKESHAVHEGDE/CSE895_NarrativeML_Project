@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing the accordion.",
+            "[person_1] is introducing how to slam the tire.",
+            "[person_1] is riding the mechanic bull.",
+            "[person_1] is playing mahjong.",
+            "[person_1] is doing some tai chi moves."
+        ]
+    },
+    "explanatory": {
+        "question": "How is the mechanic bull rotating?",
+        "answer": [
+            "[person_1] is put there for [person_1] to sit on.",
+            "[person_1] is roller skating.",
+            "[person_1] is training spinning poi.",
+            "The mechanic bull is rotating very fast.",
+            "[person_1] is playing with cups for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] will get out of the area.",
+            "[person_1] will chop the green bell pepper.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to eat all the donuts in the box he is holding."
+        ],
+        "reason": [
+            "[person_1] got up and was about to go.",
+            "[person_1] is not going to stop.",
+            "[person_1] is jumping very high.",
+            "[person_1] almost dropped the plate.",
+            "[person_1] was blocked by the door."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not fall from the mechanic bull?",
+        "answer": [
+            "[person_1] would stop playing.",
+            "The [person_1] would be hit with a snowball.",
+            "[person_1] would start playing.",
+            "[person_1] can pulling [person_1] up.",
+            "[person_1] would keep playing."
+        ],
+        "reason": [
+            "Because it would scare the fish.",
+            "[person_1] fell down and have to go out.",
+            "Because [person_1]'s attention is on the cake.",
+            "[person_1] stand up and have to go out.",
+            "Maybe [person_1] will get the sword stuck in the neck."
+        ]
+    }
+}

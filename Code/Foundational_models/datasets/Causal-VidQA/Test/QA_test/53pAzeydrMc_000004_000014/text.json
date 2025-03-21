@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is peeling a coco.",
+            "[person_1] is playing basketball.",
+            "[person_1] is roller skating",
+            "[person_1] is looking at the camera and talking something.",
+            "[person_1] is opening the box of a gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] holding the right hand of [person_1]?",
+        "answer": [
+            "Because [person_1] might fall.",
+            "[person_1] is shearing [person_1].",
+            "[person_1] wants to play with the child.",
+            "The [person_1] wanted to put something in the [person_1].",
+            "To lift the shirt in [person_1]'s hand to look at it."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to let go and let [person_1] skate by himself.",
+            "[person_2] is going to make a dough.",
+            "[person_2] going to guide [person_1] how to clean floor.",
+            "[person_2] is going to walk to the left side of the screen.",
+            "[person_2] may be going to sit up and take a rest."
+        ],
+        "reason": [
+            "Because another car came , [person_2] faced the car and [person_2] was ready to direct the car.",
+            "It's the turn of [person_2] to kick and [person_2] hasn't finished.",
+            "Then it's time to let go.",
+            "[person_2] is too young to swing by himself so [person_2] may push the swing for [person_2].",
+            "Maybe he is a professional trainer."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] keeps holding the right hand of [person_1]?",
+        "answer": [
+            "[person_1] will then jump into the lake.",
+            "[person_1] will get hurt.",
+            "[person_1] won't fall.",
+            "The agricultural products will drop when the [person_1] lifts the bucket up.",
+            "The eyelids of [person_1] will blood."
+        ],
+        "reason": [
+            "Because [person_2] is sitting in [person_1].",
+            "[person_1] is standing near [person_1].",
+            "The [person_1] is standing on the grass and the [person_1] is little.",
+            "But [person_1] won't be able to learn how to skate by himself.",
+            "Because [person_2] is sitting on [person_2]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are there?",
+        "answer": [
+            "There are two chairs.",
+            "There are two chair.",
+            "There are two vases.",
+            "There are three people.",
+            "The room is clean."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_3] sitting there?",
+        "answer": [
+            "The [person_3] expands the bellows to make the sound loudlier or softer.",
+            "[person_3] wants to experience when sitting in this luge.",
+            "[person_3] is reading newspaper with [person_3].",
+            "[person_3] is watching the play chess.",
+            "[person_3] is having an interview."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to continue introduce [person_1].",
+            "[person_1] intends to play piano in the next meeting at church.",
+            "[person_1] intends to continue playing piano.",
+            "[person_1] intends to explain to [person_2].",
+            "[person_1] intends to continue working."
+        ],
+        "reason": [
+            "There is a picture behind [person_1].",
+            "[person_1] prepares to play the guitar.",
+            "[person_2] is moving the wrong chess piece.",
+            "Because [person_1] has an intention of being a outstanding student.",
+            "Maybe [person_1] is trying to get dressed as fast as possible."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_3] run into the chess board?",
+        "answer": [
+            "The chess pieces will fall.",
+            "[person_3] will stop feeding then.",
+            "[person_3] could not stand up so fast like that.",
+            "[person_3] would continue watching TV.",
+            "[person_3] may be drown."
+        ],
+        "reason": [
+            "Maybe [person_1] [person_2] will be angry.",
+            "[person_1] has a nearsightedness.",
+            "Maybe [person_1] and [person_2] spill food.",
+            "Feeding the animals is the job of [person_1].",
+            "[person_1] doesn't want to play with [person_2]."
+        ]
+    }
+}

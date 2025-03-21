@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is in the kitchen.",
+            "[person_1] is in the study room.",
+            "[person_1] is in the yard.",
+            "[person_1] is on the right hand side of [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bow down?",
+        "answer": [
+            "[person_1] can not play the piano while standing.",
+            "Because [person_1] opens the present.",
+            "[person_1] continue spinning the rope while moving forward.",
+            "It has snow and very cold.",
+            "[person_1] is playing with his friends."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "Maybe [person_2] is going to cut wood.",
+            "[person_2] will stop stretching arm.",
+            "[person_2] is going to watch [person_1] opening a present.",
+            "[person_2] is going to eat the donut in his hand.",
+            "Maybe [person_2] is going to turn around his head."
+        ],
+        "reason": [
+            "[person_2] is going to practice dancing hard for a perfect performance.",
+            "After doing the pancake throwing challenge for the person behind , he needs to turn around and see the result.",
+            "[person_2] has been pushing her foot against the play ground and it looks like the she does not want to stop.",
+            "Because [person_1] has not completed opening the gift yet.",
+            "[person_2] is afraid of losing his bike so he is going to run after [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stands erect?",
+        "answer": [
+            "[person_1] will take [person_1] to the hospital.",
+            "[person_1] will take [person_1] to the hospital.",
+            "[person_1] may use other papers to continue to sharpen the knife.",
+            "[person_1] and [person_1] will run to help him.",
+            "[person_1] will not keep opening the present anymore."
+        ],
+        "reason": [
+            "To ask the reason why [person_1] doesn't accept the proposal.",
+            "[person_1] will get tired.",
+            "Because the [person_1] is worried about [person_1].",
+            "Because [person_1] can't see where is the small ball.",
+            "Because the gift is on the floor , [person_1] needs to bow down to open."
+        ]
+    }
+}

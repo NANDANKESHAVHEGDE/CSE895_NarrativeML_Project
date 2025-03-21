@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] holding?",
+        "answer": [
+            "The [person_1] is standing in a garden.",
+            "The [person_1] stands in front of the [person_1].",
+            "The [person_1] is holding a string.",
+            "The [person_1] is lying on the floor.",
+            "The [person_1] is standing behind the fence."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did the [person_1] turn around?",
+        "answer": [
+            "The [person_1] looked at the [dog_1].",
+            "[person_1] is playing with [person_1].",
+            "[person_1] wants to practice holding the ball with the hockey stick.",
+            "[person_1] stacked the dice to do it for fun.",
+            "The [person_1] threw the pillow toward the boy."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [dog_1] going to do?",
+        "answer": [
+            "The [person_1] may keep playing with the horse.",
+            "The [person_1] may keep brushing something off.",
+            "The [person_1] may wash and wipe the right foot of the [dog_1].",
+            "The [dog_1] is going to follow the [person_1].",
+            "The [person_1] may keep playing in the backyard."
+        ],
+        "reason": [
+            "The [person_1] comforts the [dog_1] and stands up.",
+            "Because the [dog_1] raises the [dog_1]'s leg toward the next step.",
+            "The [person_1] catches the ball and wants to shoot once more time.",
+            "The [person_1] keeps watching someone's shot put throwing.",
+            "The [dog_1] is running behind the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it rained?",
+        "answer": [
+            "They would find a place to shelter the rain.",
+            "The [dog_1] might take the child to the bank.",
+            "[dog_1] would go inside the tent.",
+            "The [dog_1] would be wet.",
+            "[dog_1] would have to stop playing."
+        ],
+        "reason": [
+            "There is a risk of danger when [dog_1] and [dog_1] are in the sea.",
+            "[dog_1] and the team will not practice under the rain.",
+            "The [dog_1] and the horse are outside and the [dog_1] would not let the horse be wet.",
+            "The [dog_1] is running outside.",
+            "The [dog_1] is sitting outside."
+        ]
+    }
+}

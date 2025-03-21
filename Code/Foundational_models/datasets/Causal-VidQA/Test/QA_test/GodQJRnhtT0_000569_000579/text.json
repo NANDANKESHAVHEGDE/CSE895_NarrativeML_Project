@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the [dining table_1]?",
+        "answer": [
+            "The grass.",
+            "It's red.",
+            "There is plaster on the [dining table_1].",
+            "It is red.",
+            "A guitar."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] pour plaster on the [dining table_1]?",
+        "answer": [
+            "[dining table_1] puts his hands on the floor and stretches the resistance band",
+            "[person_1] is stretching her arms.",
+            "[person_1] is planing wood.",
+            "Because it is convenient to open and close the door of the [person_1].",
+            "[person_1] pour plaster on the [dining table_1] to take the plaster easily."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to introduce about her book.",
+            "[person_1] will stop watering.",
+            "[person_1] is going to apply plaster on the wall base.",
+            "[person_1] does a workout.",
+            "[person_1] intends to spend his time playing."
+        ],
+        "reason": [
+            "[person_1] jumped into the lake.",
+            "[person_1] cannot lift the sled.",
+            "[person_1] is plastering the wall base.",
+            "It is very sunny.",
+            "[person_1] has a camera."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has cramps while plastering?",
+        "answer": [
+            "[person_1] would be hurt on the head.",
+            "[person_1] may start plastering and relax.",
+            "Their parents would stop them.",
+            "[person_1] may stop plastering and relax.",
+            "It would not be enjoyable anymore."
+        ],
+        "reason": [
+            "it is very cold and there is snow on the ground and the temperature of [person_1] will increase.",
+            "Because [person_1] can continue to plaster when he has cramps.",
+            "[person_1] is unstoppable.",
+            "Because [person_1] can't continue to plaster when he has cramps.",
+            "Because [person_1] wants to dog be cute."
+        ]
+    }
+}

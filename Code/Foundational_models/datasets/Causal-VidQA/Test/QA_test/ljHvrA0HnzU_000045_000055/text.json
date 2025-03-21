@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [chair_1]?",
+        "answer": [
+            "[chair_1] is gray.",
+            "It's a bottle of cola.",
+            "[chair_1] is red.",
+            "It is well - decorated.",
+            "Yes , there is."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] smile?",
+        "answer": [
+            "There are so many performers.",
+            "Because it's hot outside.",
+            "[person_1] does not succeed in the game.",
+            "[person_1] feels excited.",
+            "[person_1] received a gift."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] may not ride the toy car which [person_1] sits on anymore.",
+            "[person_1] will continue to make vases.",
+            "[person_1] will drive the snow blower to the right.",
+            "[person_1] will blow the clarinet again.",
+            "[person_1] may keep trying to play the gong."
+        ],
+        "reason": [
+            "[person_1] wants to see [dog_1] howl again.",
+            "[person_1] is wearing [person_1].",
+            "[person_1] is moving towards the man at the door of the room.",
+            "Because the ball is coming from the left again , [person_1] wants to catch the ball.",
+            "[person_1] is showing the children the way to stand on hands."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] did not blow the clarinet?",
+        "answer": [
+            "[person_1] will be very happy.",
+            "[dog_1] would not howl back.",
+            "[person_1] will stop singing.",
+            "Perhaps someone will take [person_1] place.",
+            "[person_1] would tap the pen with two hands."
+        ],
+        "reason": [
+            "[dog_1] will responds if there is a sound of clarinet.",
+            "[person_1] will give [dog_1] some assistance as a the coach when the strength is not enough during exercise.",
+            "[dog_1] is equipped to play the skate game.",
+            "This is a strenuous exercise which burns fat.",
+            "[person_1] will start shining shoe."
+        ]
+    }
+}

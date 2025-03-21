@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing ?",
+        "answer": [
+            "[person_1] is slamming the concrete plate.",
+            "[person_1] is opening a bottle.",
+            "[person_1] is singing.",
+            "[person_1] is breaking an air brick.",
+            "[person_1] is giving [person_2] a white box."
+        ]
+    },
+    "explanatory": {
+        "question": "Why did [person_1] give it to [person_2] ?",
+        "answer": [
+            "[person_1] doesn't know how to open it.",
+            "[person_1] is playing chess with [person_2].",
+            "[person_1] does parkour by jumping over a chair and the [person_1].",
+            "[person_1] is eating.",
+            "[person_1] sat on the rope to get strength."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do ?",
+        "answer": [
+            "[person_2] is going to open it and see what's inside.",
+            "[person_2] is going to continue trying to repair floor.",
+            "[person_2] is going to eat.",
+            "[person_2] is going to clap her hands.",
+            "[person_2] is going to kiss [person_2]."
+        ],
+        "reason": [
+            "[person_2] disagreed with [person_2] and before [person_2] continued to talk , [person_2] looked at the board which seems that there are some opinions on it.",
+            "No one knows what's inside that white box.",
+            "[person_2] seems to be hurt by the punch.",
+            "[person_2] moves to another place.",
+            "[person_2] is a servant."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if there was a toy inside the white box?",
+        "answer": [
+            "The stick could hurt [person_1]'s foot.",
+            "[person_2] will give [person_1] that toy.",
+            "[person_1] will try again.",
+            "[person_1] won't be able to shave.",
+            "They would have to stop the concert."
+        ],
+        "reason": [
+            "Because the work has been completed.",
+            "Because the way [person_2] delivers the express is very rough.",
+            "Dogs often know how to swim in a dog - swim style.",
+            "Children love toys.",
+            "Because it is no need to drag an empty trash can."
+        ]
+    }
+}

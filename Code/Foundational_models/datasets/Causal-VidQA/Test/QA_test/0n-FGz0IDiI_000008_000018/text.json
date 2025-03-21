@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where does [person_2] stand?",
+        "answer": [
+            "[person_2] is brushing his teeth.",
+            "[person_2] is doing measurement work.",
+            "[person_2] is fixing a bottle on the table.",
+            "[car_1] has curly hair.",
+            "[person_2] stands beside [car_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] clap her hand?",
+        "answer": [
+            "[person_2] wants to praise [person_1].",
+            "the mechanical bull turns around and around to make the [person_1] dizzy.",
+            "[person_1] is doing tai chi.",
+            "Because [person_1] wants to harvest raspberries.",
+            "[person_1] is practicing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to get some more food for [person_2].",
+            "[person_2] is going to go towards [person_1].",
+            "[person_2] is going to play hurling.",
+            "[person_2] will let the bubble go.",
+            "[person_2] may choose a card."
+        ],
+        "reason": [
+            "[person_2] is still showing the hands up and shaking the body.",
+            "[person_2] needs [person_2] to cooperate with him to complete the performance.",
+            "Because [person_2] is old and easy to get tired.",
+            "[person_2] is stepping forward.",
+            "Easier to squeeze out."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [car_1] moves forward?",
+        "answer": [
+            "[person_1] would bleed a few drop of blood.",
+            "[person_1] would stop skating today.",
+            "[person_1] might be fussy.",
+            "[person_1] may have fallen off the ball earlier.",
+            "[person_1] should stay away from [car_2]."
+        ],
+        "reason": [
+            "There are many bottles on the table.",
+            "[car_1] is a little boy so there's risk of dangerous.",
+            "There are no other sticks here.",
+            "Because accidents can happen.",
+            "Because one milk bucket is not enough."
+        ]
+    }
+}

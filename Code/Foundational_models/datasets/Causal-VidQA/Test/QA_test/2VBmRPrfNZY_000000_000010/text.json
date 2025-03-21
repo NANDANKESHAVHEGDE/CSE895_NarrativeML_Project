@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the gender of [person_1]?",
+        "answer": [
+            "The room has many musical instruments.",
+            "There are two cymbals.",
+            "A nail , pliers and a stick.",
+            "Outdoor.",
+            "Male."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] keeps moving the microscope?",
+        "answer": [
+            "[person_1] is reading news in a magazine.",
+            "[person_1] like pit the paper.",
+            "To show it's flexibility.",
+            "[person_1] is playing it.",
+            "By riding the camel."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to introduce about her book.",
+            "[person_1] is going to introduce more function of the microscope.",
+            "[person_1] will stop kicking high.",
+            "[person_1] will stop watering.",
+            "[person_1] is going to take some photos."
+        ],
+        "reason": [
+            "[person_1] keeps his hand on the microscope and his mouth keeps talking.",
+            "To make it look more fresh.",
+            "[person_1] is very interested in what he says.",
+            "[person_1] stepped forward continuously.",
+            "[person_1] needs to recover."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] has a stomach suddenly?",
+        "answer": [
+            "The introduction will not stop.",
+            "[person_1] will cough.",
+            "The introduction will start.",
+            "[person_1] may just watch [person_1].",
+            "The introduction will stop."
+        ],
+        "reason": [
+            "A stomachache is a very distressing thing that prevents one from doing anything.",
+            "The room is narrow so an accidental fall may make [person_1] hit the head on the wall.",
+            "A stomachache is not a very distressing thing that prevents one from doing anything.",
+            "Because the vitriol will hurt them.",
+            "A stomachache is a very interesting thing that prevents one from doing anything."
+        ]
+    }
+}

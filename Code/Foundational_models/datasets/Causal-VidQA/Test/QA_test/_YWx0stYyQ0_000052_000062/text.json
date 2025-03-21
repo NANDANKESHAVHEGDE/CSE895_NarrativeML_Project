@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [handbag_1]?",
+        "answer": [
+            "The room is clean and beautiful.",
+            "It is small and tidy.",
+            "[handbag_1] is hanging on the wall.",
+            "The room looks like the store.",
+            "[handbag_1] is the furthest chair behind [handbag_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing there?",
+        "answer": [
+            "[person_1] is playing hand clapping with another person happily.",
+            "[person_1] is feeling enjoyment about the game that [person_1] is looking at.",
+            "[person_1] is a pianist.",
+            "[person_1] wants to show the audience how to use the tool.",
+            "[person_1] is instructing [person_2] how to do a lunge."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after beginning the exercise?",
+        "answer": [
+            "[person_1] will instruct [person_2] how to do.",
+            "[person_1] will speed up happily.",
+            "[person_1] will begin to iron the clothes.",
+            "[person_2] will sing.",
+            "[person_1] will tell her family."
+        ],
+        "reason": [
+            "[person_1] seems to be a trainer and is teaching about doing the lunge.",
+            "It takes her great efforts to do this.",
+            "Because the [person_1] is used to collect all the milk.",
+            "After seeing the smart phone drop , [person_1] may approach it and pick it up.",
+            "[person_1] wants to try the megaphone."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone rings?",
+        "answer": [
+            "the flash could scare [person_1] and create a glare on the mirror in front of [person_1] , ruining the photo.",
+            "There will be more people in the building.",
+            "The other man nearby will take the man who is exercising to the hospital.",
+            "[person_1] or [person_2] may pick up the phone.",
+            "[person_1] will be more difficult to see."
+        ],
+        "reason": [
+            "[person_1] is the only chair in the room.",
+            "[person_1] will pick up the phone.",
+            "Because [person_1] is outside.",
+            "[person_1] and [person_2] are in the room.",
+            "[person_2] is protect [person_1] just behind [person_1]."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2] ?",
+        "answer": [
+            "[person_1] and [person_2] are on the stage.",
+            "[person_1] and [person_2] are in the room.",
+            "[person_1] and [person_2] are on a snow - covered slope.",
+            "[person_1] and [person_2] are on the bus.",
+            "[person_1] and [person_2] are on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] have to hold when [person_1] is standing.",
+        "answer": [
+            "[person_1] is squeezing oranges.",
+            "Because [person_1] is doing her music homework.",
+            "Because the [person_1] is taking part in a discus.",
+            "Because [person_1] was still young and could not stand still.",
+            "[person_1] is reading a book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] intends to open the gift box.",
+            "[person_1] is going to do some difficult techniques.",
+            "[person_1] is going to show some skills.",
+            "[person_1] is going to take some photos.",
+            "[person_1] is going to stand on her hands."
+        ],
+        "reason": [
+            "[person_1] is very cool.",
+            "[person_1] just started.",
+            "[person_1] needs to recover.",
+            "[person_1] wanted to know what was inside the gift box.",
+            "People are interested in the story behind [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] doesn't know how to open the gift box?",
+        "answer": [
+            "[person_1] will then stand up and go home.",
+            "[person_1] will put the leftover in [person_1].",
+            "The [person_1] would fall with the [person_2].",
+            "[person_1] may come back to find [person_2].",
+            "[person_2] will have to open the gift for [person_1]."
+        ],
+        "reason": [
+            "There would be nothing except for the food [person_1] is holding.",
+            "Because [person_1] is too small to open presents.",
+            "The microscope is on the table.",
+            "The boy threw the pillow to the face of the [person_1].",
+            "If [person_1] doesn't close the window , the floor will get wet."
+        ]
+    }
+}

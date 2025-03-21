@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] siting?",
+        "answer": [
+            "[person_1] is sitting in the room.",
+            "[person_1] is in the garden.",
+            "[person_1] is standing next to [person_1].",
+            "[person_1] is in his garage.",
+            "[person_1] is in the sawmill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] talking?",
+        "answer": [
+            "[person_1] is shaving and trimming his beard.",
+            "[person_1] is looking at someone who is standing near her.",
+            "[person_1] is filming himself so [person_1] is interacting with the camera.",
+            "[person_1] lifts the sledgehammer with the head on the top and leans it slowly.",
+            "Because they find it interesting."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will water another plant.",
+            "[person_1] is going to turn left.",
+            "[person_1] will read books.",
+            "[person_1] will be playing bass guitar and showing how to play it.",
+            "[person_1] is going to water the plants."
+        ],
+        "reason": [
+            "[person_1] is striking the guitar strings and talking in front of the screen.",
+            "[person_1] wants to increase the difficulty.",
+            "One time only can bake some doughs.",
+            "[person_1] is a baby lying on the floor.",
+            "[person_1] is upset."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the bass guitar loses one string?",
+        "answer": [
+            "[person_1] will look back.",
+            "[person_1] could not attend the skating contest.",
+            "It may fall down on the legs of [person_1].",
+            "[person_1] may feel a sharp pain on his head.",
+            "The bass guitar will not sound good."
+        ],
+        "reason": [
+            "Because there is a narrow gap in the middle.",
+            "[person_1] will pick up his beanie after he's done playing the guitar.",
+            "Because the [person_1] tidies up the pieces himself easy to cut his hands.",
+            "[person_1] blocked the entrance to the greenhouse.",
+            "The bass guitar will lose some music notes without a string."
+        ]
+    }
+}

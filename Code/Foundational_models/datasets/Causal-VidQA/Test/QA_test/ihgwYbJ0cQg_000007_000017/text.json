@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is inside.",
+            "[person_1] is on the stage.",
+            "[person_1] is near the window.",
+            "[person_1] is sitting in a luge.",
+            "[person_1] is on the basketball court."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding \u00a0 a basketball ?",
+        "answer": [
+            "[person_1] is shooting basketball.",
+            "[person_1] wants to listen to music through the headphone.",
+            "[person_1] is playing basketball with his son.",
+            "[person_1] does not want to fall.",
+            "[person_1] wants to improve his physical strength."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may spray water on the flowers.",
+            "[person_1] does a workout.",
+            "Keep explaining something.",
+            "[person_1] might put her glasses down somewhere.",
+            "[person_1] is going to pick up the ball and shoot again."
+        ],
+        "reason": [
+            "She is absorbed in dancing.",
+            "[person_1] is jumping very professionally.",
+            "[person_1] just shot one in the basket.",
+            "Because [person_1] looks very tired.",
+            "[person_1] likes challenge."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] continues to shoot in the basket?",
+        "answer": [
+            "[person_1] will be very confident in himself.",
+            "[person_1] will edit the music again.",
+            "[person_1] would stop the game.",
+            "[person_1] may have to have this laptop fixed before packing it.",
+            "[person_1] may cry."
+        ],
+        "reason": [
+            "It's not easy to shoot 2 balls in a row like [person_1] .",
+            "The road will not be frozen.",
+            "[person_1] will focus on the road.",
+            "The [person_1] has some knives here.",
+            "The swords may cause cuts on [person_1] and [person_1]."
+        ]
+    }
+}

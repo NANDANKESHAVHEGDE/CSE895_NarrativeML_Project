@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is wearing a black cap.",
+            "The [person_1] is wearing a cap.",
+            "The [person_1] is presently playing a accordion.",
+            "The [person_1] is riding a camel.",
+            "The [person_1] is putting the drink into the refrigerator."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] sit here?",
+        "answer": [
+            "because [person_1] have just been given by [person_1].",
+            "Maybe [person_1] feel cold.",
+            "The [person_1] is singing along to the sound that [person_1] is playing.",
+            "The [person_1] sits on the chair to hold accordion carefully and prevent accordion from breaking.",
+            "Because [person_1] is waiting for [person_1] to draw a picture."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] is going to carry on sticking the balloons.",
+            "The [person_1] may stop playing accordion.",
+            "The [person_1] may enjoy the music which is started.",
+            "The [person_1] may keep playing accordion with the person who is playing drum.",
+            "The [person_1] may turn back and walk more."
+        ],
+        "reason": [
+            "The [person_1] is still paying attention to the cartoon.",
+            "The [person_1] popped the balloon and the [person_1] is not holding another balloon.",
+            "The [person_1] is holding another cap and talking about it.",
+            "The [person_1] plays an accordion and enjoys the sound from this instrument.",
+            "[person_1] needs to sleep."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] knows how to put accordion on the floor?",
+        "answer": [
+            "Then people will not applaud.",
+            "[person_1] will have committed a foul.",
+            "The [person_1] can throw shot put ball.",
+            "Maybe [person_1] won't fall.",
+            "The [person_1] will play accordion and use accordion effectively."
+        ],
+        "reason": [
+            "Because [person_1] will lose.",
+            "Because [person_1] wears high - heeled shoes and [person_1] is dancing and the suds will make the floor easy to slip . .",
+            "The [person_1] knows how to puts accordion on legs of [person_1] to carry.",
+            "[person_1] has just fell of the chair because [person_1] leaned on the chair strongly.",
+            "because [person_1] may kick on the hand of [person_1]."
+        ]
+    }
+}

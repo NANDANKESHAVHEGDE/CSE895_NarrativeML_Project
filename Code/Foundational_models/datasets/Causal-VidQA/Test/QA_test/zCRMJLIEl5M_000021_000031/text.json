@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_1] doing?",
+        "answer": [
+            "[person_1] is holding the harmonica.",
+            "[person_1] is practicing with the accordion.",
+            "[person_1] is holding the shirt and smiling.",
+            "[person_1] is reading a newspaper.",
+            "[person_1] is doing lunges with his hands going up"
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_1] reading?",
+        "answer": [
+            "[person_1] might want to know about today's news.",
+            "[person_1] is reading newspaper.",
+            "[person_1] is practicing playing the cello.",
+            "The boy couldn't move the guitar out.",
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] might exhale smoke.",
+            "[person_1] might be stopping.",
+            "[person_1] might flip the bottle again.",
+            "[person_1] is going to make a snowball to play throwing snowballs with [person_1].",
+            "[person_1] might continue reading the newspaper."
+        ],
+        "reason": [
+            "[person_1] is turning toward the hallway.",
+            "[person_1] is opening and closing her mouth.",
+            "[person_1] takes his hands off the guitar.",
+            "[person_1] needs to lean back to keep her balance on the back of the mechanical bull.",
+            "[person_1] doesn't do anything else."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if [chair_1] fell out?",
+        "answer": [
+            "[person_1] and [chair_1] might get wet.",
+            "[person_1] will put some wood in the fire pit.",
+            "[person_1] would fall out of the course.",
+            "[person_1] would run out and chase [chair_1].",
+            "[person_1] will stop reading the newspaper and raise [chair_1]."
+        ],
+        "reason": [
+            "[person_1] is sitting on [chair_1].",
+            "[person_1] is performing on the stage and [person_1] will fail when the plates fall down.",
+            "Because [person_1] has one already and it's enough.",
+            "The [person_1] is standing on the stilts.",
+            "[chair_1] is on the right side of [person_1]."
+        ]
+    }
+}

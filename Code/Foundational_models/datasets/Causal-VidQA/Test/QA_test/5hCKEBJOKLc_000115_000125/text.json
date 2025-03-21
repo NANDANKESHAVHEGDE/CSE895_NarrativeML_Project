@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1] shirt?",
+        "answer": [
+            "It's black.",
+            "[person_1] is in a kitchen.",
+            "She is holding a cup.",
+            "It is a mirror.",
+            "[person_1] is holding a piece of pulp from the coco he cuts."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] given [cake_3]?",
+        "answer": [
+            "[person_1] is doing it for fun.",
+            "Because [person_1] is practicing roller - skating.",
+            "[person_1] is using [cake_3] to squeeze oranges.",
+            "[person_1] wants to make the basket beautifully.",
+            "The Santa Claus give for him."
+        ]
+    },
+    "predictive": {
+        "question": " What will [person_1] do next after seeing the gift?",
+        "answer": [
+            "[person_1] will keep them on.",
+            "[person_1] will continue to install other boards.",
+            "[person_1] will close the above boards together.",
+            "[person_1] will be more beautiful.",
+            "[person_1] is going to open it immediately."
+        ],
+        "reason": [
+            "It seems that [person_1] is a little tired.",
+            "[person_1] seems to be interested in the things inside the bottle.",
+            "[person_1] feels quite curious about what it is with a smile on his face.",
+            "There is much garbage on the ground.",
+            "Because the washing needs water."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if power is off?",
+        "answer": [
+            "[person_1] will be broken.",
+            "[person_1] cannot be scary dark.",
+            "[person_1] may faint.",
+            "[person_1] can be scary dark.",
+            "[person_1] could not do the massage."
+        ],
+        "reason": [
+            "The room will become bright then.",
+            "The weight of weight lifting is too much for him.",
+            "The room won't become dark then.",
+            "The hot dog is dirty.",
+            "The room will become dark then."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] look like?",
+        "answer": [
+            "[person_1] looks like a basket weaver.",
+            "[person_1] looks thin.",
+            "[person_1] looks like a professional skier.",
+            "[person_1] looks handsome.",
+            "A little bit fat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing in front of the mirror?",
+        "answer": [
+            "[person_1] is taking about shaving.",
+            "Because [person_1] rotates two strings at the same time.",
+            "[person_1] is going to train to change body.",
+            "Glasses are [person_1] inseparables.",
+            "[person_1] likes to let her hair down."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to shave.",
+            "[person_1] is going to stack these cups.",
+            "[person_1] will check the result.",
+            "[person_1] will stop skiing.",
+            "[person_1] is going to drive snowmobile."
+        ],
+        "reason": [
+            "[person_1] is very small.",
+            "[person_1] is holding a razor in his hand.",
+            "[person_1] is still dancing with fire.",
+            "[person_1] has food on hand.",
+            "[person_1] may go on reading."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] finishes shaving ?",
+        "answer": [
+            "[person_1] feels more comfortable.",
+            "[person_1] will be more confident.",
+            "[person_1] would not be as happy as he is now.",
+            "The child will call his parents.",
+            "[person_1] and [person_1] will clap their hands."
+        ],
+        "reason": [
+            "Shaved beards will still stick to the cheeks of [person_1].",
+            "[person_1] would not be pushed.",
+            "To find a support for the legs.",
+            "Shaving is a way to make [person_1] look more handsome.",
+            "Because [person_1] will be tipped over by [person_1]."
+        ]
+    }
+}

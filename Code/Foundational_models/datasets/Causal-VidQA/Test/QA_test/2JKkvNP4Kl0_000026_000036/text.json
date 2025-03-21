@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the house?",
+        "answer": [
+            "[bicycle_1] is in the room.",
+            "[person_1] is \u00a0 in the room.",
+            "[person_1] is spinning plates in the kitchen.",
+            "Black.",
+            "The house is beside the path , among many trees."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] outstretch his arms?",
+        "answer": [
+            "Because the [person_1] manipulate the dolls with rope.",
+            "Because the [person_1] put her fingers inside the dolls.",
+            "The [person_1] is taking part in a show.",
+            "[person_1] outstretched his arms to keep balance.",
+            "Because the [person_1] put her hand inside the dolls."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may stand up and change the chair.",
+            "[person_1] is going to back the seat of [person_1].",
+            "[person_1] will stop weaving.",
+            "[person_1] is going to step back and observe [person_1].",
+            "[person_1] may go to the cameramen."
+        ],
+        "reason": [
+            "[person_1] wants the birds perched on his hand.",
+            "[person_1] is bare hands on the ground to stand up.",
+            "[person_1] is lifting light weights.",
+            "[person_1] shaved off the bottom part of his beard.",
+            "[person_1] gets off the [bicycle_1] , walks to where the cameraman is standing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the path is too slippery?",
+        "answer": [
+            "[person_1] would fall off the [bicycle_1].",
+            "[person_1] and [bicycle_1] may stop blowing the ball.",
+            "[person_1] will call the maintenance worker.",
+            "[person_1] will to to eat.",
+            "Everyone will stop doing sports."
+        ],
+        "reason": [
+            "The [bicycle_1] is just a unicycle so it is really hard to keep balance.",
+            "Because if it's cloudy there will be no sunshine for the pineapple to melt and [bicycle_1] would not put the pineapple outside.",
+            "Because it is easy to be seen by an unwanted person and it may be awkward for her.",
+            "[bicycle_1] stops because [bicycle_1] sees the ball , if there is no ball [bicycle_1] will not need to stop.",
+            "[bicycle_1] is an adult and [bicycle_1] needs to protect and take care of the children when they are injured."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is \u00a0 in the classroom.",
+            "[person_1] is in the classroom.",
+            "[person_1] is sitting between [person_4] and [person_3].",
+            "[person_1] is in the yard."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] sitting together?",
+        "answer": [
+            "[person_1] wants to have a closer look at the present.",
+            "The [person_1] steps forward with one foot and other foot is on his knee.",
+            "[person_1] is playing with his caretaker.",
+            "The [person_1] knows which treble keyboard needed to touch.",
+            "[person_1] , [person_2] and [person_3] are performing together."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do next after the show begins?",
+        "answer": [
+            "[person_1] will cheer.",
+            "[person_1] may put the plate in the oven.",
+            "[person_1] , [person_2] and [person_3] will continue the performance.",
+            "[person_3] may be a trainer.",
+            "[person_1] will eat [person_1]."
+        ],
+        "reason": [
+            "Because [person_1] looks excited and the kite leaves her panting for more.",
+            "[person_1] , [person_2] and [person_3] are still very concentrate on the performance.",
+            "[person_1] , [person_3] and [person_2] are not likely to stop.",
+            "The hat is on the rabbit's right.",
+            "The cake looks yummy."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] , [person_2] and [person_3] stopped blowing the clarinets?",
+        "answer": [
+            "[person_1] , [person_2] and [person_3] would take a rest.",
+            "[person_3] will go back or turn right.",
+            "The pan will fall down on the floor.",
+            "[person_1] will call the owner of [person_1].",
+            "[person_1]'s hair would be burnt."
+        ],
+        "reason": [
+            "[person_1] can't enter the left road.",
+            "[person_1] , [person_2] and [person_3] are tired blowing the clarinet.",
+            "[person_1] can not dance on the stage.",
+            "[person_1] would have nothing to be praised about.",
+            "[person_1] loves that challenge as he is observing attentively."
+        ]
+    }
+}

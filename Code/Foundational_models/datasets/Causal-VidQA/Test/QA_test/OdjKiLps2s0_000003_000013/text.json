@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is beside [person_1].",
+            "[chair_1] is next to [person_1].",
+            "[chair_1] is on the stage.",
+            "It is \u00a0 in the right of the [person_1].",
+            "[chair_1] is behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] doing exercise?",
+        "answer": [
+            "[person_1] really wants to improve her health.",
+            "[person_1] wants to improve her health.",
+            "Because there is no one here to play with [person_1].",
+            "[person_1] wants to improve his health.",
+            "[person_1] wants to teach this exercise to everyone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will exam the honey's situation.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] will rip the paper.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] is going to drink a bottle of water."
+        ],
+        "reason": [
+            "So that [person_1] has a beautiful healthy body.",
+            "[person_1] looks thirsty after doing exercise.",
+            "Maybe [person_1] will read the whole [person_1].",
+            "Because [person_1] acts as a guide.",
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does exercise in the wrong way?",
+        "answer": [
+            "[person_1] will take a photo of it.",
+            "[person_1] will suffer an injury to his legs.",
+            "The car in front of [person_1] may not move anymore.",
+            "[person_1] won't move.",
+            "[person_1] may not stand on the bed."
+        ],
+        "reason": [
+            "Because the sink can also be used to wash clothes.",
+            "Because [person_1] is doing a difficult exercise.",
+            "[person_1]'s team will become the winner.",
+            "[person_1] has no food for them.",
+            "[person_1] will help [person_1] get more food to feed the fish."
+        ]
+    }
+}

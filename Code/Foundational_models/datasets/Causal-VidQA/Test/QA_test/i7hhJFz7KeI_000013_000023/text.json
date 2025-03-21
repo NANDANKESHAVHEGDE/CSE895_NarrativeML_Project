@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How is a [teddy bear_1]?",
+        "answer": [
+            "It is smooth.",
+            "It is a browm apron.",
+            "The [teddy bear_1] is extremely good.",
+            "It is a present.",
+            "It is a hat."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] having some toys on the bed?",
+        "answer": [
+            "[person_1] stables the driller on the table to utilize it easier.",
+            "[person_1] is listening to the music beat.",
+            "[person_1] is helping [person_1] on practicing roller skating.",
+            "[person_1] looks at the exam results.",
+            "[person_1] loves playing with these objects."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may go to finish his job.",
+            "[person_1] might stand up.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to take the sheets away.",
+            "[person_1] is going to keep this action."
+        ],
+        "reason": [
+            "[person_1] has towel in the hand.",
+            "[person_1] touched his head with hand and shaved his head with a card , indicating that head is itchy and needs a comb.",
+            "[person_1] may keep trying to throw.",
+            "[person_1] is touching his hands on the floor.",
+            "[person_1] is stretching leg very hard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if a phone rings?",
+        "answer": [
+            "Maybe [person_1] will start doing a handstand.",
+            "Maybe [person_1] will go to the [person_1].",
+            "Maybe [person_1] will continue doing a handstand.",
+            "Maybe [person_1] or [person_1] will pick up the phone.",
+            "Maybe [person_1] will stop doing a handstand."
+        ],
+        "reason": [
+            "[person_1] will pick up the phone.",
+            "Because [person_1] is outside.",
+            "[person_1] will throw away the phone.",
+            "[person_1] is the only chair in the room.",
+            "[person_1] will destory the phone."
+        ]
+    }
+}

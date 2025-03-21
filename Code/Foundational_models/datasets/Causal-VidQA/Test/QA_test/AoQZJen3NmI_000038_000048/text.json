@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it in [person_2] hand?",
+        "answer": [
+            "It is [person_2].",
+            "It is pliers.",
+            "It is cloudy.",
+            "Three.",
+            "There are 10 people."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] use pliers?",
+        "answer": [
+            "It is used for the rest of nail in the stopper.",
+            "[person_2] is singing and dancing at the same time.",
+            "[person_2] is excited about her action.",
+            "[person_2] is trimming his beard.",
+            "By massaging at [person_2]'s neck."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will bake a cake.",
+            "Maybe [person_1] had to turn around and get the book and put the book on the shelf.",
+            "[person_1] is continuously rolling the glass ball from the right arm to the left arm.",
+            "[person_1] will go on opening the bottle.",
+            "Maybe [person_1] put the lid on the table."
+        ],
+        "reason": [
+            "Because these performers need to finish the show in turn.",
+            "The hair in cutting may get into her eyes.",
+            "[person_1] didn't catch any fish because the current was too strong.",
+            "It seems that the stopper is still inside the bottle.",
+            "[person_1] was playing the harmonica in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was no pliers?",
+        "answer": [
+            "They would use something to push the stopper.",
+            "Frisbee will be off - course.",
+            "[person_2] would not stick the wallpaper.",
+            "[person_2] wouldn't get the score.",
+            "[person_2] would feel disappointed."
+        ],
+        "reason": [
+            "[person_1] moves for [person_1] to follow moving.",
+            "He would lose.",
+            "[person_2] was walking in the kitchen and the pancake was on the kitchen floor.",
+            "Tools are better choice than a mouth to open the bottle.",
+            "It is another way to deal."
+        ]
+    }
+}

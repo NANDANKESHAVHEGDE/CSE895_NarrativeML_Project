@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [refrigerator_1]?",
+        "answer": [
+            "It is behind [person_1] .",
+            "They are black.",
+            "No.",
+            "[refrigerator_1] is next to [person_1].",
+            "[refrigerator_1] is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] in the room?",
+        "answer": [
+            "[person_1] is playing with cups.",
+            "[person_2] prepares to discover the gifts.",
+            "Maybe [person_1] is practicing playing flute.",
+            "[person_1] is opening present.",
+            "[person_2] is teaching [person_1] how to arrange tableware."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_2] going to do?",
+        "answer": [
+            "[person_2] will continue practicing the side - kicking.",
+            "It is expected that [person_2] will continue setting up the table.",
+            "[person_2] will probably move to the left a little bit.",
+            "[person_2] is going to go to the back stage.",
+            "[person_2] will try to unwrap the box to see what it is."
+        ],
+        "reason": [
+            "[person_2] seems to quite enjoy it.",
+            "[person_2] seems to pretty enjoy this exercise.",
+            "It seems that [person_2] is curious about what it is.",
+            "[person_2] seems to be in the middle of her demonstration.",
+            "[person_2] seems to do it often and enjoy the exercise."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [dining table_1] were flipped?",
+        "answer": [
+            "[dining table_1] would stop playing.",
+            "[dining table_1] would be excited.",
+            "[person_2] could be injured.",
+            "[person_2] might be very angry.",
+            "[person_2] would choose to play other toys."
+        ],
+        "reason": [
+            "According to the rules of baseball , a batter only get a maximum of 3 strikes before being eliminated from the round , so [dining table_1] might be disqualified if he had 3 strikes.",
+            "[person_2] has taken a lot of time to arrange eating utensils on [dining table_1].",
+            "Because she could be hurt.",
+            "The fewer people , the quicker it is the other's turn.",
+            "Because the plant wouldn't get much nutrition to feed on."
+        ]
+    }
+}

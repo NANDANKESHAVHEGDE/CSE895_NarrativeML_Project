@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is \u00a0 outside.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in the sawmill.",
+            "[person_1] is skating in a stage.",
+            "[person_1] is in bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is skiing.",
+            "[person_1] is playing lute alone.",
+            "[person_1] is playing basketball.",
+            "[person_1] is playing lute on the riverbank.",
+            "[person_1] is planing wood."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may plan to push [person_1] ahead.",
+            "[person_1] going to have a date with someone?",
+            "[person_1] is going to keep performing.",
+            "[person_1] probably will shake the pan again.",
+            "[person_1] is going to slowly opening his arms."
+        ],
+        "reason": [
+            "[person_1] is waving his hands.",
+            "There's a hole on the top and [person_1]'s taking the fruit out of the hole now.",
+            "[person_1]'s knocking it with great strength and he seems in a strong desire to do it.",
+            "[person_1] is sharpening the knife.",
+            "[person_1] uses her hands to squeeze and pulls the sausage slowly and gently."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] forgot the melody?",
+        "answer": [
+            "[person_1] won't be happy.",
+            "[person_1] won't be able to keep cutting his hair.",
+            "[person_1] would stop playing.",
+            "[person_1] will still happy.",
+            "[person_1] will go find it."
+        ],
+        "reason": [
+            "[person_1] 's actions make the birds startled and they will fly away.",
+            "[person_1] doesn't want to lose the bag.",
+            "Because the cart is currently in a different location , not in the room.",
+            "Because the material in the bucket is very important.",
+            "[person_1] will try to remember the melody."
+        ]
+    }
+}

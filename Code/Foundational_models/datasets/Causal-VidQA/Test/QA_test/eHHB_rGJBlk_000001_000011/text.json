@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is on the [person_1].",
+            "[person_1] is in the yard.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] jumping?",
+        "answer": [
+            "For horses to drink water.",
+            "[person_1] is watching [person_1].",
+            "Yes , they are.",
+            "Maybe [person_1] loves [person_1].",
+            "[person_1] is playing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do the stupid things that children do.",
+            "[person_1] may clean the inside.",
+            "[person_1] may stand up.",
+            "[person_1] is going to stack three more cups.",
+            "[person_1] may keep shaking ropes."
+        ],
+        "reason": [
+            "[person_1] fell under the bed.",
+            "[person_1] has to learn to keep balance so that she can take off 2 spare wheels on the [person_1].",
+            "[person_1] finds hopscotch interesting.",
+            "[person_1] is a kid who is playing.",
+            "[person_1] is going to feel tired."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] jumps out [bed_1]?",
+        "answer": [
+            "[person_1] will invite him to join the game.",
+            "[person_1] will have time to relax.",
+            "It is possible that [person_1] would sleep in bed.",
+            "[person_1] will be scolded.",
+            "[person_1] will take a rest."
+        ],
+        "reason": [
+            "[person_1] will fall to the ground in a strong way.",
+            "Because people like to be beautiful and glad to hear praise.",
+            "[person_1] was bragging on stacking dice which mean fast stacking is not necessary.",
+            "[person_1] does not know how to push [bed_1].",
+            "[person_1] may fall if he jumps out."
+        ]
+    }
+}

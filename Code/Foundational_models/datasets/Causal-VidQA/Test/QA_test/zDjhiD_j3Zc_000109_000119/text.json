@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is sitting on [person_1].",
+            "[person_1] is in the bath.",
+            "[person_1] is in the yard.",
+            "[person_1] is standing under a tree."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] staring at [person_1]'s feet?",
+        "answer": [
+            "[person_1] is staring at [person_1]'s feet to shave legs.",
+            "[person_1] is trying to explaining about picking up apples.",
+            "[person_1] is working out.",
+            "[person_1] is practicing snatching weight lifting.",
+            "To get massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "Which leg will [person_1] shave next?",
+        "answer": [
+            "Maybe 2 - 5 years old.",
+            "Maybe [person_1]'s right leg will be shaved.",
+            "[person_1] is a professional sportsman.",
+            "[person_1] may be shooting at a still target.",
+            "[person_1] and [person_1] are going to keep playing badminton together."
+        ],
+        "reason": [
+            "Because [person_1] directed [person_1] just now , so [person_1] is ready to continue to direct now.",
+            "[person_1] who is standing near [person_1] and [person_1] is watching [person_1] and [person_1] fencing.",
+            "Because [person_1] and [person_1] are still playing badminton and have not finished the match yet.",
+            "Maybe [person_1]'s right leg will be shaved because [person_1] is shaving [person_1]'s left leg now.",
+            "[person_1] and [person_1] looks like a couple."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] used [person_1]'s left hand to shave?",
+        "answer": [
+            "[person_1] would try to break it by hands again.",
+            "[person_1] would spend more time shaving.",
+            "[person_1] would feel scared.",
+            "[person_1] would be sad about it.",
+            "[person_1] would be tired soon."
+        ],
+        "reason": [
+            "[person_1] likes taking a walk better than having this cake.",
+            "The face of the [person_1] was stuck with mascara.",
+            "To take some medical examinations.",
+            "[person_1] would spend more time shaving because of entanglement.",
+            "[person_1] is busy doing her business."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_2] and [person_3] ?",
+        "answer": [
+            "[person_3] and [person_2] are on the stage.",
+            "[person_2] and [person_3] are in the room.",
+            "[person_2] and [person_2] are on a snow - covered slope.",
+            "[person_2] and [person_2] are on the floor.",
+            "[person_3] and [person_2] are on the bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_2] and [person_3] in the room?",
+        "answer": [
+            "[person_2] is looking for information in a [person_3].",
+            "[person_2] is performing on the stage.",
+            "[person_3] and [person_2] are opening gift boxes.",
+            "[person_2] does not want to fall.",
+            "[person_2] and [person_3] to read the cards."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_2] and [person_3] going to do?",
+        "answer": [
+            "[person_2] will feel comfortable of his face.",
+            "[person_3] looks at the cards with the same [person_2] .",
+            "[person_3] will feel relaxed with his head.",
+            "[person_2] will feel a little annoyed.",
+            "[person_3] is going to speak something."
+        ],
+        "reason": [
+            "[person_2] and [person_3] are competing to find out who is the winner.",
+            "because [person_2] can't read.",
+            "[person_2] and [person_3] are on a stage.",
+            "The [person_3] and the [person_2] are still standing motionless on the platform.",
+            "Because [person_2] is responsible for shuffling and dealing cards."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if  [person_3] doesn't read the cards to [person_2]?",
+        "answer": [
+            "The [person_3] will be off.",
+            "[person_2] might not be the winner.",
+            "He couldn't leave.",
+            "[person_2] may not understand what is written in the card.",
+            "[person_2] does not know how to play soil."
+        ],
+        "reason": [
+            "Because the ball is not flat.",
+            "Because [person_2] can't read.",
+            "All the dice weren't stacked on the [person_2] which means [person_3] failed.",
+            "Because alcohol can't make people's brain awake.",
+            "It would be too dark to study without light."
+        ]
+    }
+}

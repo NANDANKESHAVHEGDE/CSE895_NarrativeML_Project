@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is on the floor?",
+        "answer": [
+            "It is on the roadside.",
+            "[chair_1] is on the sand.",
+            "Toys are on the floor.",
+            "[chair_1] is on the floor.",
+            "There is a computer hardware CPU."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] put her head on the ground?",
+        "answer": [
+            "[person_2] is doing somersaults.",
+            "[person_2] stood up to help [person_2].",
+            "[person_2] tries to keep balance a plate.",
+            "[person_2] is sharing about his feeling.",
+            "Because it is very sunny outside."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] do next?",
+        "answer": [
+            "[person_2] will keep balance longer.",
+            "[person_2] will make a speech.",
+            "[person_2] will see how far the ball would go.",
+            "[person_2] will land on her back.",
+            "[person_2] will give a speech after [person_2]."
+        ],
+        "reason": [
+            "[person_2] somersaults on the ground.",
+            "[person_2] enjoys saying hello to the camera.",
+            "Because there are still several cups left.",
+            "[person_2] is holding some papers with a microphone on her hands.",
+            "He wins the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] jumps before somersault?",
+        "answer": [
+            "Maybe they will stop to play the game.",
+            "[person_2] may feel cold on the feet.",
+            "[person_2] will stand away.",
+            "[person_2] may land on her feet.",
+            "The birds will still be there."
+        ],
+        "reason": [
+            "Jump up can create enough space to do a full round of somersaults.",
+            "It can not be eat if it is rotten.",
+            "[person_2] would be focusing on getting the wine cork out of the bottle instead of talking because their meal needs wine.",
+            "Because cookies stick to the plate , if they can't be shoveled off , the plate can't be used any more , so the plate will be thrown away.",
+            "[person_2] just stood on one foot on the floor and raised one."
+        ]
+    }
+}

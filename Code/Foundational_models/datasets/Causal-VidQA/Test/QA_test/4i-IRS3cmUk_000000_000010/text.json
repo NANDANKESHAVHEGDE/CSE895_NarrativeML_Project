@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the mat under [person_2]?",
+        "answer": [
+            "They are in the yard.",
+            "It\u2019s sunny.",
+            "Black.",
+            "[person_2] and [person_2] are in their yard.",
+            "It's an electric saw."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stand there?",
+        "answer": [
+            "Maybe [person_1] receives present from someone.",
+            "Because [person_1] is relaxing.",
+            "[person_1] is attracted by what [person_1] is doing.",
+            "[person_1] is helping [person_1] to trim shrubs.",
+            "[person_1] is skating backward."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "To ask [person_2] to borrow the yoga mat.",
+            "[person_1] will show the balloon in his hand to the camera.",
+            "[person_1] will ask someone for help.",
+            "[person_1] will see where the ball falls down.",
+            "It is anticipated that [person_1] will keep on pushing the wheelbarrow."
+        ],
+        "reason": [
+            "Because [person_1] wants to win.",
+            "Because [person_1] is twisting wire right now.",
+            "Because [person_1] also wants to do some exercises.",
+            "Because [person_1] has already been collecting the fish line.",
+            "[person_1] needs to use the machine to copy something."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] get painted suddenly?",
+        "answer": [
+            "[person_1] will be hurt.",
+            "[person_1] will need more different colored pens.",
+            "[person_1] will take [person_2] to the hospital.",
+            "[person_2] will get [person_2] up.",
+            "[person_2] will have to run into a house."
+        ],
+        "reason": [
+            "[person_2] is outside.",
+            "To save [person_2] in time.",
+            "The grass was soft.",
+            "The ground is all soft sand.",
+            "[person_2] is standing outside."
+        ]
+    }
+}

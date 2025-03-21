@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [tv_1]?",
+        "answer": [
+            "The sofa is black.",
+            "[person_1] is using the left hand to hold the cigarette.",
+            "The [tv_1] is on the [person_1].",
+            "The [tv_1] is on the desk.",
+            "The [tv_1] is behind [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] and [person_2] stand up?",
+        "answer": [
+            "Perhaps [person_1] and [person_2] play a game.",
+            "[person_1] is going to train to change body.",
+            "[person_1] rides it well.",
+            "[person_1] is planing wood.",
+            "[person_1] is showing audience how to use the inhaler."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "[person_1] and [person_2] are going to continue to work.",
+            "[person_1] and [person_2] are going to play together.",
+            "[person_1] and [person_2] are going to laugh out loud.",
+            "[person_1] and [person_2] are going to snap fingers.",
+            "[person_1] and [person_2] are going to fall down."
+        ],
+        "reason": [
+            "[person_1] and [person_2] will not stop learning skateboarding until they can ride it.",
+            "[person_1] and [person_2] are paying attention to the newspaper.",
+            "[person_1] and [person_2] are still lifting their arms and legs.",
+            "The bricks needs to be aligned to complete a wall.",
+            "[person_1] and [person_2] leaned towards the ground."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the electricity were cut off?",
+        "answer": [
+            "The [tv_1] would not stop showing.",
+            "[tv_1] would be attacked.",
+            "The [tv_1] would start showing.",
+            "[tv_1] may go to catch him.",
+            "The [tv_1] would stop showing."
+        ],
+        "reason": [
+            "The [tv_1] can work without electricity.",
+            "[tv_1] and [tv_1] continue to work after lighting candles.",
+            "The [tv_1] can't work without electricity.",
+            "It can cause injury to [tv_1].",
+            "The [tv_1] can't work with electricity."
+        ]
+    }
+}

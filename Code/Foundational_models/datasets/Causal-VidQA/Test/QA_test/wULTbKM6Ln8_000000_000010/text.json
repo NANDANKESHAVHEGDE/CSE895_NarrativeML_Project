@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where are [person_1] and [person_2]?",
+        "answer": [
+            "[person_1] and [person_2] are at a massage room.",
+            "[person_1] and [person_2] are in his office.",
+            "[person_1] and [person_2] are their home kitchen.",
+            "[person_1] and [person_2] are at the leisure center.",
+            "[person_1] and [person_2] are in a log cabin."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] and [person_2] sitting there?",
+        "answer": [
+            "[person_1] and [person_2] are talking to each other.",
+            "[person_1] is in the middle of his training.",
+            "[person_1] and [person_2] are performing the didgeridoo.",
+            "[person_1] is here to play the cymbals and drums made of an empty bucket.",
+            "[person_1] and [person_2] are waving to each other."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to eat all the donuts in the box he is holding.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to feed [person_2].",
+            "[person_1] is going to learn how to keep balance.",
+            "[person_1] is going to read another page."
+        ],
+        "reason": [
+            "Sled is broken.",
+            "[person_1] is fond of doing it.",
+            "There is food on [dining table_1].",
+            "[person_1] finished the action successfully and smiled",
+            "[person_1] is jumping very high."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] drops food while eating?",
+        "answer": [
+            "[person_2] 's performance will become bad.",
+            "[person_2] may no be smiling.",
+            "There will be no problem.",
+            "[person_2] will be thirty.",
+            "[person_2] will be rich."
+        ],
+        "reason": [
+            "[person_2] is sitting on [person_2] legs.",
+            "Because silent disco needs to wear wireless headphones to dance.",
+            "[person_2] just feels natural before [person_2] does exercise.",
+            "[sink_1] under [person_2] will keep the floor from getting dirty.",
+            "[sink_1] only uses walking and doing exercise reduce weight."
+        ]
+    }
+}

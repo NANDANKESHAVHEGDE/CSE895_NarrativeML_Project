@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [motorcycle_1]?",
+        "answer": [
+            "[motorcycle_1] is lying on the table.",
+            "[motorcycle_1] is on the [motorcycle_1].",
+            "[motorcycle_1] is sitting close to the camera.",
+            "Four.",
+            "[motorcycle_1] is on the ground."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "answer": [
+            "[person_1] is outside performing on the street to earn money.",
+            "[person_1] plays the lute happily.",
+            "[person_1] is using a single - wheel electric vehicle so she does not have to ride.",
+            "For relaxation.",
+            "[person_1] is sitting on a very high chair , so [person_1] has to stand to clean the shoes easily."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will play the lute again.",
+            "[person_1] will come up the stairs.",
+            "[person_1] is going to eat spaghetti.",
+            "Maybe [person_1] is preparing to presentation.",
+            "Maybe [person_1] is going to move quicker."
+        ],
+        "reason": [
+            "[person_1] plays the lute very enthusiastically and happily.",
+            "[person_1] looped the ribbon around the package length - wise until the ribbon circled the package completely . Cut the ribbon and taped down the other end.",
+            "[person_1] is a beginner.",
+            "[person_1] fell under the bed.",
+            "[person_1] has food on hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the lute's strings were severed?",
+        "answer": [
+            "It is possible that [person_1] will have injured hands.",
+            "[person_1] will be a winner.",
+            "[person_1] would be very sad.",
+            "[person_1]'s health will be affected.",
+            "[person_1] would continue to attack."
+        ],
+        "reason": [
+            "[person_1] would be unable to play drums.",
+            "There are many food on the table.",
+            "[person_1] would not be able to play the lute . ",
+            "After broken , the liquid in those bottles will be out.",
+            "[person_1] and [person_1] are women , and they are beginner."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color of the [chair_1]?",
+        "answer": [
+            "[chair_1] and [chair_1] are in an ice cream shop.",
+            "[chair_1] and [chair_1] are in a photo hang on the wall behind [chair_1].",
+            "The [chair_1] color is pink.",
+            "[chair_1] and [chair_1] are in the bathroom.",
+            "[chair_1] is sitting in a baby stroller."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the lamp on the table?",
+        "answer": [
+            "It uses for lighting or decoration.",
+            "Because [person_2] is currently in a room without light.",
+            "Because [chair_1] is playing the gong.",
+            "The lamp used for lighting.",
+            "[person_1] is celebrating his last winning."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep skateboarding.",
+            "[person_1] is going to move the chess piece.",
+            "[person_1] is going to begin slowly walking forward.",
+            "[person_1] is going to cry and scream loudly.",
+            "[person_1] is going to dance another move."
+        ],
+        "reason": [
+            "Because [person_1] is eating potato chips.",
+            "There are many delicious corns on the table.",
+            "[person_1] is holding the chess piece.",
+            "[person_1] is on the ground and [person_1] needs [person_1] help.",
+            "Because at the moment [person_1] is trying to keep balance to prepare to do other action."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is out?",
+        "answer": [
+            "[person_1] and [person_2] will continue playing.",
+            "[person_1] and [person_2] may not keep dancing because there is no music.",
+            "[person_1] and [person_2] won't stop playing.",
+            "[person_1] maybe afraid.",
+            "[person_1] and [person_2] will stop playing."
+        ],
+        "reason": [
+            "The room will be dark then.",
+            "The machine will be stopped working.",
+            "[person_2] may stop playing.",
+            "The stage will be dark then.",
+            "[person_1] may not keep speaking."
+        ]
+    }
+}

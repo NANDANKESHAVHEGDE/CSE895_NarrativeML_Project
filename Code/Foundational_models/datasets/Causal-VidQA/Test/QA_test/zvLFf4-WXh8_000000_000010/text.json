@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are the cups?",
+        "answer": [
+            "Yes.",
+            "[person_1] is sitting on the snow.",
+            "They are black.",
+            "The bag next to [person_1] is white.",
+            "[person_1] is lying on a bed."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] stack cups?",
+        "answer": [
+            "[person_1] needs a wide space to throw discus.",
+            "[person_1] is playing basketball with [person_1].",
+            "[person_1] is doing it for fun.",
+            "Maybe [person_1] is doing a challenge.",
+            "Because it is not rain today."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to laugh.",
+            "[person_1] is going to finish the challenge.",
+            "[person_1] will throw the frisbee.",
+            "[person_1] is going to bed.",
+            "[person_1] is going to continue sailing."
+        ],
+        "reason": [
+            "[person_1] is still working.",
+            "[person_1] raises his arms.",
+            "[person_1] tricked the opponent by attacking a specific target.",
+            "[person_1] is stretching leg very hard.",
+            "[person_1] has towel in the hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] stacks cups slowly?",
+        "answer": [
+            "[person_1] will not be able to complete the challenge.",
+            "[person_1] will probably step on the bird.",
+            "[person_1] will rest on [person_1].",
+            "[person_1] will not be able to finish in short time.",
+            "[person_1] will take a rest."
+        ],
+        "reason": [
+            "[person_1] loses if [person_1] doesn't stack cups at a fast speed.",
+            "Because it is over time.",
+            "Losing the game makes [person_1] angry.",
+            "[person_1] will be win.",
+            "To record this birthday."
+        ]
+    }
+}

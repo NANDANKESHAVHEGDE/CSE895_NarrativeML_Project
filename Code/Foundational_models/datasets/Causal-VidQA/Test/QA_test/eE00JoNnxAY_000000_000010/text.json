@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_1] doing?",
+        "answer": [
+            "The [person_1] is standing behind the [person_1].",
+            "The [person_1] is introducing the internal structure of the refrigerator.",
+            "The [person_1] is raising her hand.",
+            "The [person_1] is struggling to try to open the [refrigerator_1] door.",
+            "The [person_1] is wearing a cap."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the [refrigerator_1]?",
+        "answer": [
+            "[person_1] is shredding the paper.",
+            "[person_1] is playing a solo with the electric bass guitar.",
+            "[person_1] is planing wood.",
+            "Because the [person_1] finds it interesting.",
+            "To do massaging neck."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will get off then.",
+            "The [person_1] will get off the camel carefully.",
+            "The [person_1] will continue to try to tie the hair of the [person_1].",
+            "The [person_1] will make a video.",
+            "The [person_1] will continue to open the [refrigerator_1]."
+        ],
+        "reason": [
+            "Because the [person_1] seems to have finished the display and is closing the [refrigerator_1] door on one side.",
+            "The [person_1] finds the fire of a lighter is much scary and [person_1] wants to escape it.",
+            "Maybe there's something in [refrigerator_1] that the [person_1] wants.",
+            "Because the dog is very cute.",
+            "Because the [person_1] has not tried before."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [refrigerator_1] door is suddenly opened?",
+        "answer": [
+            "[person_1] will have to go back to the gyro.",
+            "The [person_1] will fall to the ground.",
+            "Maybe the [person_1] will get hit by a car and hurt himself.",
+            "The [person_1] will hug the dog.",
+            "The clothing of the [person_1] would be wet."
+        ],
+        "reason": [
+            "Eating too much is easy to indigestion.",
+            "Because the interaction of forces will cause him to fall.",
+            "They probably have good relationships with each other and they need to keep up with the camera.",
+            "Because it can be molded in this way without a turntable.",
+            "Because this car is parked on the side of the road , there are a lot of cars going on so it's very dangerous."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the piano?",
+        "answer": [
+            "The piano is in front of the couch and next to the wall.",
+            "No , there are two.",
+            "It's a picture.",
+            "They are having a lesson.",
+            "The [person_1] is riding bike of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the [person_1] holding a teddy bear?",
+        "answer": [
+            "The [person_1] is polishing the table.",
+            "[person_1] is performing in a large room and [person_1] wants everyone can listen to the sound of the harmonica.",
+            "Maybe [person_1] is performing.",
+            "[person_2] is standing there to give [person_1] the knifes.",
+            "The [person_1] is holding the teddy bear to beat the [person_2]."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_2] going to do?",
+        "answer": [
+            "The [person_2] may turn behind.",
+            "Find more tools.",
+            "The [person_2] is going to do the measuring task of [person_2].",
+            "The [person_2] may take something on the table.",
+            "The [person_2] is going to keep fighting against the [person_1] with the pillow."
+        ],
+        "reason": [
+            "The [person_2] is holding the pillow and getting closer to the [person_1].",
+            "The [person_2] is holding the bag and looking at the bag.",
+            "The [person_2] is raising the snowball - holding hand and aiming at the [person_1].",
+            "The [person_2] is catching the [person_1] and holding the snowball.",
+            "The [person_2] is putting the hands in the box and looking at the bottom of the box."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] threw the pillow to the shelf in the corner?",
+        "answer": [
+            "The bottle might fall to the floor.",
+            "The plate may stop spinning as well.",
+            "[person_1] will stand up.",
+            "[person_1]'s work would be worse.",
+            "Maybe [person_1] would win something for herself."
+        ],
+        "reason": [
+            "The [person_1] is giving treat for [person_1].",
+            "The bottle is on the shelf.",
+            "Because [person_1] drops the cup and need other cup of beer to drink.",
+            "Because mirror is fragile.",
+            "Because [person_1] has to take the broom to sweep the floor."
+        ]
+    }
+}

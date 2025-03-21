@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "[chair_1] is beside [person_1].",
+            "[chair_1] is behind the [person_1].",
+            "[chair_1] is under [chair_1].",
+            "It is behind [person_1].",
+            "It is on the right of [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] playing maracas?",
+        "answer": [
+            "[person_1] is waiting for his turn to cut his hair.",
+            "Because they are thinking of their next move.",
+            "Because the daddy of [person_1] is going to show her how to open a beer,",
+            "[person_1] is playing maracas for fun.",
+            "[person_1] is roasting marshmallows for [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to have a dinner.",
+            "[person_1] is going to see the gift.",
+            "[person_1] is going to land on the sand pit.",
+            "[person_1] may be going to have a taste.",
+            "[person_1] is going to turn the next page and read it."
+        ],
+        "reason": [
+            "Because [person_1] is still holding the book on the hand of [person_1] and has not finished the speaking yet.",
+            "[person_1] is sitting in front of a dinning table.",
+            "[person_1] is holding a big bag of food in the goat barn.",
+            "Maybe [person_1] will clap his hands.",
+            "When [person_1] jumps off the pool , he floats and prepares to swim."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1]'s friends came?",
+        "answer": [
+            "[person_1] may not stop walking.",
+            "[person_1] would invite her friends to have dinner with him.",
+            "You will have a better beard.",
+            "[person_1] would invite his friends to have dinner with him.",
+            "[person_1] will smoke without talking."
+        ],
+        "reason": [
+            "[person_1] looks very generous.",
+            "The glasses are given by [person_1]'s daughter.",
+            "[person_1] looks very dangerous.",
+            "Because the broken racket can not be used to hit the badminton ball.",
+            "[person_1] looks very anious."
+        ]
+    }
+}

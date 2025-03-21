@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [chair_1] used for?",
+        "answer": [
+            "[chair_1] is hung on the wall.",
+            "No , the [chair_1] is not.",
+            "They are in a backstage door.",
+            "[chair_1] is used for sit.",
+            "It is hanging on the wall."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] have to wince when talking?",
+        "answer": [
+            "[person_1] is here to help [person_1] practicing tackling.",
+            "The sun affects visibility.",
+            "Because [person_1] wants to shave the sheep.",
+            "Because [person_1] is practicing skiing.",
+            "[person_1] is helping [person_1] practicing martial arts."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to start reading.",
+            "[person_2] is going to relax with friends.",
+            "[person_2] is going to clean the car window.",
+            "[person_2] is going to continue playing the guitar.",
+            "[person_2] is going to eat."
+        ],
+        "reason": [
+            "[person_2] is holding the chess piece.",
+            "[person_2] wants to show her love for the baby.",
+            "There are [person_2]'s friends skating.",
+            "Because [person_2] is raising his hand and smiling.",
+            "[person_2] is holding the guitar."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] slips and falls?",
+        "answer": [
+            "[person_1] can let someone else hold the boards.",
+            "[person_1] will go home.",
+            "[person_1] will be very painful.",
+            "[person_1] will record the video when he is free.",
+            "[person_1] will be very excited."
+        ],
+        "reason": [
+            "The skating rink is very hard for [person_1].",
+            "[person_1] may be injured.",
+            "[person_1] will continue to play after that.",
+            "[person_1] is so sad about her failure in riding.",
+            "[person_1] won't overbalance and whack into the handlebars if [person_1] cycles slower."
+        ]
+    }
+}

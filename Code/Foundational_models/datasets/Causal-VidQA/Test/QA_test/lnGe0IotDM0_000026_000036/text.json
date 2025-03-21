@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is reading a book for [person_1] and [person_1] on the bed.",
+            "[person_1] is pointing the champagne to the photographer.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is playing a drum.",
+            "[person_1] is opening the gift."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] and [person_2] playing simultaneously?",
+        "answer": [
+            "[person_1] and [person_2] is playing a duet.",
+            "Because it is very sunny outside.",
+            "[person_1]'s voice could be heard far away.",
+            "Because they're playing a game.",
+            "To volume up."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] keep doing?",
+        "answer": [
+            "The [person_1] will continue to play the dolls.",
+            "The [person_1] will go to the toilet.",
+            "The [person_1] will continue to introduce the dolls.",
+            "[person_1] will keep playing the beat for [person_2].",
+            "The [person_1] will continue to talk with the dolls."
+        ],
+        "reason": [
+            "[person_1] will turn to the right because now [person_1] is turning to the left and [person_1] has been moving to the left and then to the right.",
+            "Because the [person_1] wants to teach others how to take care of dogs.",
+            "Because the [person_1] is tired.",
+            "Because the [person_1] seems to know the inner workings of the refrigerator very well.",
+            "[person_1] is playing a drum so he will decide the tempo."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_2] did not tap his foot?",
+        "answer": [
+            "[person_2] might not be able to lose the beat.",
+            "[person_2] doesn't need to jump too much to throw the ball.",
+            "[person_2] might be able to catch up with the beat.",
+            "[person_2] will stand up.",
+            "[person_2] might not be able to catch up with the beat."
+        ],
+        "reason": [
+            "[person_2] isn't tapping his foot in sync with the beat.",
+            "[person_2] does not want to play alone.",
+            "[person_2] is tapping his foot in sync with the beat.",
+            "[person_2] and [person_2] are very close and will do everything together.",
+            "[person_2] is tapping his foot in sync with the game."
+        ]
+    }
+}

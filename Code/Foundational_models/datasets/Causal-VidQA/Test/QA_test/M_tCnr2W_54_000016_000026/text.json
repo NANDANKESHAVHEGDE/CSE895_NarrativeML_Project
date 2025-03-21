@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt is blue.",
+            "The shirt is pink.",
+            "It's white.",
+            "The shirt is black.",
+            "The shirt is black and white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting \u00a0 on the [chair_1]?",
+        "answer": [
+            "[person_1] is wrestling with another person.",
+            "[person_1] wants to do somersaults.",
+            "[person_1] , [chair_1] and [chair_1] are performing together.",
+            "[person_1] is defecating.",
+            "[person_1] is singing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do ?",
+        "answer": [
+            "[person_2] is going to dance again.",
+            "[person_2] is going to try to make bubbles again.",
+            "[person_2] is going to play another song.",
+            "[person_2] is going to fall down.",
+            "[person_2] is going to keep crying."
+        ],
+        "reason": [
+            "[person_2] has completed her part of the test.",
+            "[person_2] looks professional and knows a lot of songs.",
+            "[person_2] is moving towards.",
+            "[person_2] is eating noodles.",
+            "There are many gift boxes in the room."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] breaks one of the strings?",
+        "answer": [
+            "[person_2] will pick up the pen at once.",
+            "[person_2] will have to stop playing guitar for a while.",
+            "[person_2] may find other toys to play with.",
+            "[person_2] may use another board.",
+            "[person_2] will keep moving forward."
+        ],
+        "reason": [
+            "[person_2] needs a new string.",
+            "Because the bass guitar will be broken when being hit.",
+            "Playing laser tag for too long will make [person_2] exhausted.",
+            "The ropes are enough.",
+            "Because [person_2] is blocking the camera."
+        ]
+    }
+}

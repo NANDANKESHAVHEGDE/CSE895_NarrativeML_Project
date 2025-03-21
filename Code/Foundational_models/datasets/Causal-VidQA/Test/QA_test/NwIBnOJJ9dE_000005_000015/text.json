@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing basketball.",
+            "[person_1] is playing cymbals.",
+            "[person_1] is sitting in a hammock.",
+            "[person_1] is opening the box of a gift.",
+            "[person_1] is standing."
+        ]
+    },
+    "explanatory": {
+        "question": "Why isn't [person_1] sitting?",
+        "answer": [
+            "[person_1] prefers standing to play the guitar than sitting.",
+            "[person_1] is playing bagpipes.",
+            "[person_1] is a pianist.",
+            "[person_1] is shaving the beard of [person_1] .",
+            "[person_1] desires to play some tricks."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen with [chair_1]?",
+        "answer": [
+            "[chair_1] is going to keep smiling.",
+            "[chair_1] will still be empty.",
+            "She is going to take some photos.",
+            "[chair_1] is going to pull [chair_1]'s ear.",
+            "[chair_1] is going to be pushed away."
+        ],
+        "reason": [
+            "Because [chair_1] is kneeling there to help others train.",
+            "when [person_1] fell , he was leaning on [chair_1].",
+            "[person_1] is playing bagpipes and there is no one else in the room.",
+            "Because [person_1] is almost finish laying carpet in smaller room and he is moving toward outside.",
+            "[chair_1] holds the black ball in his hand and prepares to put it on the table."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is sitting?",
+        "answer": [
+            "[person_1] can not play bagpipes.",
+            "[person_1] may stop jumping.",
+            "[person_1] may turn off the lights before leaving room.",
+            "[person_1] may find [person_1].",
+            "[person_1] will get a lot of applause."
+        ],
+        "reason": [
+            "[person_1] need to stand up to hold bagpipes.",
+            "It has the potential to ignite a larger fire , therefore [person_1] must put it out soon.",
+            "[person_1] is an obstacle and a danger on the road.",
+            "The horse might be annoyed and hurt [person_1].",
+            "[person_1] wants to practice with [person_1]."
+        ]
+    }
+}

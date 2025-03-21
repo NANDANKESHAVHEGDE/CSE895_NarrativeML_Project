@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color game controller?",
+        "answer": [
+            "Yes it is.",
+            "It is black?",
+            "It is behind the [person_1].",
+            "Yes.",
+            "It's next to the door."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is dropping marbles from [person_1].",
+            "Because [person_1] is playing the game.",
+            "Because [person_1] is thinking about the next movement of [person_1].",
+            "[person_1] is making the lizard smoke the cigarette.",
+            "Because [person_1] is stacking cups."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play.",
+            "[person_1] is going to slowly opening his arms.",
+            "Take the fruit out of pumpkin and throw it away.",
+            "[person_1] is going to put the cans down.",
+            "[person_1] is going to eat the next slice of potato chips."
+        ],
+        "reason": [
+            "[person_1] is pressing a button on the remote.",
+            "[person_1] can push the meat into the machine with a stick.",
+            "[person_1] eats too much.",
+            "Because [person_1] is warming up her body and standing next to [person_1] on the running track.",
+            "[person_1] is whistling for example."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] won't be able to keep shaving.",
+            "[person_1] will stop jumping.",
+            "[person_1] may not laugh.",
+            "[person_1] will not stop high kicking.",
+            "[person_1] will stop playing the game."
+        ],
+        "reason": [
+            "Because the juicer needs power.",
+            "The room will have no light.",
+            "It's daytime.",
+            "Because television needs electricity to work.",
+            "The controller will turn off."
+        ]
+    }
+}

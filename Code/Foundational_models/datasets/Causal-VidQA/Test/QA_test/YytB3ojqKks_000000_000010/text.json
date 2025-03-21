@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing checkers with [person_1].",
+            "[person_1] is riding the bike with one leg.",
+            "[person_1] is smashing a tire.",
+            "[person_1] is opening the bottle.",
+            "[person_1] is holding a card."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] strike the tire?",
+        "answer": [
+            "[person_1] leans the tire at the wall and strikes it at its side.",
+            "With many tools.",
+            "[person_1] has opened the coco easily with the tool.",
+            "[person_1] wants to polish the shoe.",
+            "[person_1] opened it by using another bottle."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to the tire after being hit by [person_1]?",
+        "answer": [
+            "[person_1] will stop try to mow the lawn.",
+            "They may sisters.",
+            "It may fall down.",
+            "Most of the eggs will disappear from the ground.",
+            "They will pour the mixture out of the bowl."
+        ],
+        "reason": [
+            "It seems that the tire is not stable enough while being smashed.",
+            "According to the surrounding , [person_1] and [person_1] seems to be at home.",
+            "They are all collected by the children.",
+            "Because the tree has not been planted yet.",
+            "[person_1] turns his head and look back."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] put the tire on the ground?",
+        "answer": [
+            "The cup will be easily broken on the ground.",
+            "All the woods [person_1] has planed wrongly will be useless.",
+            "They will go to find a washer.",
+            "[person_1] would find it easily to exercise.",
+            "They would stop the competition."
+        ],
+        "reason": [
+            "[person_1] and others don't want to get wet.",
+            "In the process , a person has approached them , so it may attract more people's attention.",
+            "[person_1] didn't have to lift the hammer all the time while smashing.",
+            "Because the legs of [person_1] will not touch the ground.",
+            "[person_1] doesn't take winning or losing too much."
+        ]
+    }
+}

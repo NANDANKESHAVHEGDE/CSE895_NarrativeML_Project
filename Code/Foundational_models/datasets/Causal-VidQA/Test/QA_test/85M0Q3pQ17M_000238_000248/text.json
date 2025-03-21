@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_2]?",
+        "answer": [
+            "[person_2] is on a street.",
+            "[person_2] is standing outside the door.",
+            "[person_2] is lying on the bed.",
+            "[person_2] and [person_2] are outside.",
+            "[person_2] is on stage."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] do the massage?",
+        "answer": [
+            "It's a habit.",
+            "[person_1] is putting his mouth on a hole in the flute and blowing air into it.",
+            "By massaging at [person_2]'s neck.",
+            "Maybe [person_1] doesn't know how to type the next paragraph.",
+            "[person_1] is playing a bass guitar solo."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will keep cleaning the dog.",
+            "Bake the dough batch after batch.",
+            "[person_1] will ask [person_2] to turn over [person_2]'s body.",
+            "Maybe [person_1] is going to sit.",
+            "Maybe [person_1] is going to continue skiing"
+        ],
+        "reason": [
+            "[person_1] jumped into the lake.",
+            "To massage at other parts of the body.",
+            "[person_1] wants to increase the difficulty.",
+            "[person_1] is crawling on the floor.",
+            "[person_1] is a baby lying on the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] twisted [person_2]'s neck suddenly?",
+        "answer": [
+            "Then [person_2] may wash off the toothpaste.",
+            "[person_2] would use the squeezer to squeeze oranges instead of hands.",
+            "[person_2] will lie on the bed for a while.",
+            "[person_2] may fall down.",
+            "[person_2] may not dance."
+        ],
+        "reason": [
+            "[person_2] is the faster one.",
+            "Because the winner can get a prize.",
+            "To have a rest.",
+            "Because he looks tired.",
+            "[person_2] distracts [person_2]."
+        ]
+    }
+}

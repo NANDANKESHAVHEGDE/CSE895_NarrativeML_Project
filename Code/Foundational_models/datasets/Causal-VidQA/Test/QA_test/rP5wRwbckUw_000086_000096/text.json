@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of the shirt [person_1] wearing?",
+        "answer": [
+            "[person_1] is wearing a blue and white plaid shirt.",
+            "[person_1] is wearing a red T - shirt.",
+            "[person_1] is wearing a black shirt.",
+            "[person_1] is wearing a plaid shirt.",
+            "It's white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing on the balcony?",
+        "answer": [
+            "Maybe [person_1] wants to challenge herself.",
+            "[person_1] is interested in playing with [person_1].",
+            "[person_1] drills a nail into the stopper and uses the tail of the hammer to pull the nail.",
+            "[person_1] is performing stacking cups.",
+            "Maybe [person_1] does it for fun."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to continue stretching.",
+            "[person_1] is going to keep stacking.",
+            "[person_1] is going to sing.",
+            "[person_1] is going to continue sailing."
+        ],
+        "reason": [
+            "The tap is still on.",
+            "Maybe the weights are too heavy.",
+            "It is late.",
+            "[person_1] is standing in the class.",
+            "[person_1] is very professionally."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the cups dropped?",
+        "answer": [
+            "[person_1] would pick the cups up.",
+            "Then the person might spit out the cookies.",
+            "The machine would fall out of the board.",
+            "Other people would ask them to stay for watching.",
+            "He may increase his income."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "[person_1]'s performance would be unsuccessful.",
+            "It's dangerous.",
+            "[person_1] tries to complete his performance.",
+            "There are many curling around [person_1]."
+        ]
+    }
+}

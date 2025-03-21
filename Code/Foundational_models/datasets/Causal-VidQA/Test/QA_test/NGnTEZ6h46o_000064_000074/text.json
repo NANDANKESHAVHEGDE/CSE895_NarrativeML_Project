@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What does [person_1] wear?",
+        "answer": [
+            "A ring.",
+            "A white vest.",
+            "Red.",
+            "A hat.",
+            "[person_1] is putting all his apples in his t - shirt."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] bring two dogs?",
+        "answer": [
+            "Because [person_1] wants to wipe the objective with a clean paper.",
+            "[person_1] is skating.",
+            "The [person_1] wants to pick some blueberries.",
+            "He hitches the tire from the inside with the hammer and lifts them.",
+            "To help [person_1] detect metal."
+        ]
+    },
+    "predictive": {
+        "question": "What is [dog_1] going to do?",
+        "answer": [
+            "[dog_1] is going to play with [dog_1].",
+            "[dog_1] is walking towards the entrance.",
+            "[dog_1] and [dog_1] will help [dog_1].",
+            "To bark.",
+            "They are going to keep on practicing tackling."
+        ],
+        "reason": [
+            "[dog_1] put its front legs against the wall all the time.",
+            "[dog_1] is following close behind [dog_1].",
+            "Because [dog_1] thinks they are friends.",
+            "Because it finds something.",
+            "Because [dog_1] is directing the car."
+        ]
+    },
+    "counterfactual": {
+        "question": "If dogs break off the rope , what will happen?",
+        "answer": [
+            "[person_1] will run to catch them.",
+            "[person_1] would sit on the rink and cry.",
+            "[person_1] will run to lose them.",
+            "It is easier for [person_1] to wash the dog.",
+            "[person_1] will run away from them."
+        ],
+        "reason": [
+            "To cut the rope.",
+            "It can block up the sun.",
+            "To break off the rope, again.",
+            "The [person_1] presses the keys and pulls the bellows.",
+            "To re - tie the rope."
+        ]
+    }
+}

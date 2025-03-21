@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "The shirt color [person_1] is white.",
+            "The shirt [person_1] wearing is pink.",
+            "It's pink.",
+            "It is black.",
+            "It is \u00a0 black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_8] sitting on the floor?",
+        "answer": [
+            "[person_8] wants to open the box.",
+            "Because [person_8] is opening birthday presents.",
+            "Perhaps [person_8] feels pain in her hand.",
+            "[person_8] , [person_8] and [person_8] are performing together.",
+            "The [person_8] wanted to eat the apple right then."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_8] going to do?",
+        "answer": [
+            "[person_8] is going to keep watching dancers.",
+            "[person_8] is going to check the next person whether she or he moves.",
+            "[person_8] is going to cheer.",
+            "[person_8] is opening present.",
+            "[person_8] is going to go towards the other children."
+        ],
+        "reason": [
+            "[person_8] looks like a coach.",
+            "Friends gave her gifts.",
+            "That's his duty.",
+            "[person_8] slowed down.",
+            "The competition is taking place."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_3] and [person_3] will stop eating.",
+            "[person_3] maybe stop reading.",
+            "[person_3] will doing sports outside.",
+            "[person_3] maybe afraid.",
+            "[person_3] will stop reading and speaking."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "It's daytime outside.",
+            "Hair drier needs power to work.",
+            "The equipment can not be used when there is no power.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

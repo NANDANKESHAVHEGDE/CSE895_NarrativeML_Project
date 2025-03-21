@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "It is pink.",
+            "It is black.",
+            "The shirt [person_1] wearing is blue."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] and [person_2] holding swords?",
+        "answer": [
+            "[person_1] used his hand to stop the video.",
+            "Because [person_1] wants to focus on his action of tying the necktie.",
+            "[person_1] and [person_2] are practicing sword swallowing.",
+            "[person_1] is training spinning poi.",
+            "[person_1] may introducing them to someone."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to pull the sword out of her mouth.",
+            "[person_1] is going to keep jumping.",
+            "[person_1] is going to sleep.",
+            "[person_1] is going to stand up straight.",
+            "[person_1] is going to go play somewhere else."
+        ],
+        "reason": [
+            "[person_1] is going to go back home.",
+            "[person_1] is paying attention to other things.",
+            "[person_1] is very small.",
+            "[person_1] removes the smoking pipe from his mouth.",
+            "[person_1] swallows swords very confidently."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] and [person_2] practice hard?",
+        "answer": [
+            "[person_2]  will appease [person_1].",
+            "[person_1] and [person_2] will have a chance to perform on stage.",
+            "[person_2] will appease [person_1].",
+            "[person_1] and [person_2] won't have a chance to perform on stage.",
+            "[person_2] will come to comfort him."
+        ],
+        "reason": [
+            "[person_2] may make the baby laugh.",
+            "[person_1] and [person_2]'s efforts won't be rewarded.",
+            "[person_2] may give the balloon to [person_1].",
+            "[person_1] and [person_2]'s efforts will be rewarded.",
+            "it is snowy so that [person_1] , [person_2] and [person_2] can get a cough."
+        ]
+    }
+}

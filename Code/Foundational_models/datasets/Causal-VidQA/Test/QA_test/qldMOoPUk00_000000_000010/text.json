@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1] ?",
+        "answer": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is in the bath.",
+            "[person_1] is at swimming pool.",
+            "[person_1] is sitting on [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] appear at the swimming pool ?",
+        "answer": [
+            "[person_1] and [person_1] are opening a present together.",
+            "[person_1] is swimming.",
+            "May be [person_1] is a teacher and [person_1] is teaching [person_1] how to play the cello.",
+            "[person_1] might want to know about today's news.",
+            "Because [person_1] is not tall enough."
+        ]
+    },
+    "predictive": {
+        "question": " \b What is [person_1] going to do ?",
+        "answer": [
+            "Maybe [person_1] is going to stop standing on hands.",
+            "She may keep moving her feet and dance.",
+            "[person_1] would ask questions of her students.",
+            "[person_1] may get out of the recording room.",
+            "Maybe [person_1] is going to stop running."
+        ],
+        "reason": [
+            "[person_1] is standing on hands for a whole and [person_1] can feel tired.",
+            "Maybe [person_1] started weaving fabric.",
+            "[person_1] looks so excited.",
+            "So that [person_1] has a beautiful healthy body.",
+            "Because [person_1] has finished measuring the gap."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains outside ?",
+        "answer": [
+            "[person_1] will not be affected.",
+            "[person_1] will fall down.",
+            "[person_1] will be affected.",
+            "The cows will be hungry.",
+            "[person_1] will not be killed."
+        ],
+        "reason": [
+            "Maybe [person_1] will take a lot of time.",
+            "[person_1] is outside.",
+            "Because the person on the far right would lose balance.",
+            "[person_1] is inside.",
+            "The hot dog is dirty."
+        ]
+    }
+}

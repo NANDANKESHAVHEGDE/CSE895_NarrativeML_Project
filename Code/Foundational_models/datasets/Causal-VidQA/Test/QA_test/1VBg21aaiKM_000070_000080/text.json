@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is outside of the house.",
+            "[person_1] is in the barber shop.",
+            "[person_1] is in the cup - stacking game room.",
+            "[person_1] is in his sawmill.",
+            "[person_1] is in a wood workshop."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] standing \u00a0 ?",
+        "answer": [
+            "[person_1] is talking about his barber shop.",
+            "[person_1] is waiting for his turn to cut his hair.",
+            "[person_1] must rest the guitar on his thighs.",
+            "[person_1] is doing for fun.",
+            "Because [person_1] wants to see [person_1] opening the present."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do ?",
+        "answer": [
+            "[person_1] is going to serve the customers.",
+            "[person_1] is going to climb into bed.",
+            "[person_1] will keep working until it finishes.",
+            "[person_1] will continue to lift weights.",
+            "[person_1] is going to go play somewhere else."
+        ],
+        "reason": [
+            "[person_1] is a professional barber.",
+            "[person_1] is bowing.",
+            "[person_1] is not going to stop.",
+            "[person_1] hasn't stopped yet.",
+            "[person_1] finished the action successfully and smiled"
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen to the barber shop if the quality is good?",
+        "answer": [
+            "[person_1] will not be able to water the plants.",
+            "The barber shop of [person_1] will have more customers.",
+            "The person wearing the number 12 won't pick up the ball.",
+            "The barber shop of [person_1] will have less customers.",
+            "[person_1] will hit back."
+        ],
+        "reason": [
+            "Bad quality will attract many customers.",
+            "Editing the music needs power.",
+            "Good quality will hurt many customers.",
+            "Because the turntable will stop working when the power goes out.",
+            "Good quality will attract many customers."
+        ]
+    }
+}

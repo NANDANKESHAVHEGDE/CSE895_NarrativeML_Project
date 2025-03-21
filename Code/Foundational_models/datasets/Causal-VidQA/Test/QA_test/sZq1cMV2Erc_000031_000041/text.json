@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in bathroom.",
+            "[person_1] is in a park.",
+            "[person_1] is in the studio.",
+            "[person_1] is in a small library.",
+            "[person_1] is in the sawmill."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in a park?",
+        "answer": [
+            "Because the person who is lying on [person_1] is enjoy massaging.",
+            "Because [person_1] practiced two harps for a long time.",
+            "Because [person_1] enjoys playing with a mini accordion.",
+            "[person_1] is playing music with the people around.",
+            "[person_1] is practicing his skating skills."
+        ]
+    },
+    "predictive": {
+        "question": "What will happen to [person_1] next after he begins to skate?",
+        "answer": [
+            "[person_1] will stop to have a rest.",
+            "[person_1] will take a rest at sofa . ",
+            "They may be mom and son.",
+            "[person_1] will take a video.",
+            "[person_1] will continue practicing."
+        ],
+        "reason": [
+            "[person_1] seems to be interested in the things inside the bottle.",
+            "[person_1] and [person_1] put all the books that they find from the dumpster on the same place.",
+            "To finish the training task.",
+            "This is the routine he just did and he is going on.",
+            "[person_1] is not likely to stop practicing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if it suddenly rained?",
+        "answer": [
+            "Other person can't dance.",
+            "[person_1] could only lower his hip and stand up.",
+            "[person_1] would stop practicing.",
+            "She will fix the machine.",
+            "Workers will find out the problem."
+        ],
+        "reason": [
+            "[person_1] and [person_1]  might meet difficulties to control the boat when it rained.",
+            "The string might have broken and [person_1] had to stop playing.",
+            "They would be punished if they were found to turn over the table.",
+            "[person_1] needs to seek a shelter.",
+            "Every screw in the bicycle is important."
+        ]
+    }
+}

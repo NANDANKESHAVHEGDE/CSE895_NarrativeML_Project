@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the [bicycle_1]?",
+        "answer": [
+            "It collapsed.",
+            "It is white.",
+            "[bicycle_1] is sitting on a high chair.",
+            "The [bicycle_1] is black.",
+            "Yes , it is."
+        ]
+    },
+    "explanatory": {
+        "question": "How is the [person_1] keeping balance?",
+        "answer": [
+            "Because the [person_1] seems to be a host who is talk to the doll for fun.",
+            "The [person_1] is waving the arms of the [person_1].",
+            "[person_1] is holding the newspaper to read.",
+            "Because [person_1] is looking at the music book.",
+            "Because [person_1] is inviting [person_1] to his house."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do?",
+        "answer": [
+            "[person_1] will rise to her feet firstly.",
+            "[person_1] will try to squeeze it.",
+            "The [person_1] may carry on touching the wall to keep balance.",
+            "[person_1] will return to [person_1].",
+            "The [person_1] may keep riding on the unicycle."
+        ],
+        "reason": [
+            "The [person_1] can ride the unicycle without falling.",
+            "Because she needs to carry the clothes home.",
+            "[person_1] is preparing for exercise.",
+            "The [person_1] is still sitting on the bicycle.",
+            "The [person_1] bends down and takes another cup."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_1] did not wave the arms?",
+        "answer": [
+            "Maybe [person_1] can't lift it so easily.",
+            "The people beside [person_1] will hold it for [person_1].",
+            "The [person_1] will be able to control the [person_1].",
+            "The [person_1] might fall to the floor.",
+            "The left hand of the [person_1] would be injured."
+        ],
+        "reason": [
+            "Waving the arms helps the [person_1] keep balance while riding the [bicycle_1].",
+            "[person_1] just raises its head because [person_1] is attracted to the branch.",
+            "It is a lot of juice which took time and effort to make.",
+            "Because [person_1] will be drunk.",
+            "[person_1] likes the climbing competition."
+        ]
+    }
+}

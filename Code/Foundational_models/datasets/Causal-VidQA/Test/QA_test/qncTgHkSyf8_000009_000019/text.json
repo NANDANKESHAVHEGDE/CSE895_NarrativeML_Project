@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is next to the pool.",
+            "[person_1] is on a public bus."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] rotate?",
+        "answer": [
+            "He hitches the tire from the inside with the hammer and lifts them.",
+            "The [person_1] wants to pick some blueberries.",
+            "To pull the cork out which is sticking on the opener.",
+            "Maybe [person_1] does it for fun.",
+            "Because [person_1] is trying to tell us that the objective can be adjusted."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will fix the gongs.",
+            "[person_1] will dip in more paint.",
+            "[person_1] may swim towards [person_1].",
+            "[person_1] intends to win this game.",
+            "[person_1] will keep rotating."
+        ],
+        "reason": [
+            "Because [person_1] really wants to win this game.",
+            "Since the upper part of the device is already completed , [person_1] needs to complete the base.",
+            "The body of [person_1] is still moving.",
+            "Because [person_1] accepts [person_1]'s proposal.",
+            "[person_1] is introducing the headphone . The headphone is in [person_1]'s head."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there was no electricity?",
+        "answer": [
+            "[tv_1] would burn.",
+            "The [tv_1] could not plaster the wall.",
+            "[tv_1] would turn on.",
+            "The second cap is still under the sink.",
+            "[tv_1] would turn off."
+        ],
+        "reason": [
+            "There are many ingredients on the table.",
+            "There are big snows around the [tv_1].",
+            "[tv_1] needs no electricity to turn on.",
+            "Knitting needs to keep [tv_1]'s head down and then it will hurt her neck.",
+            "[tv_1] needs electricity to turn on."
+        ]
+    }
+}

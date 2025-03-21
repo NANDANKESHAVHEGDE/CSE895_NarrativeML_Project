@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What tool is [person_1] using?",
+        "answer": [
+            "[person_1] is round ball.",
+            "The [person_1] is parked in front of the brown building.",
+            "[person_1] is in the room.",
+            "[person_1] is using the slipper.",
+            "It is in the parking lot."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] bending over?",
+        "answer": [
+            "Because [person_1] is practicing sport.",
+            "Because [person_1] and [person_1] are watering the plants?",
+            "Because [person_1] has to pick up his slipper.",
+            "[person_1] is doing it for fun.",
+            "[person_1] is reading newspaper with [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to drink the [bottle_1].",
+            "Perhaps [person_1] is going to sleep.",
+            "[person_1] is going to feed the [bottle_1].",
+            "[person_1] is going to hold [person_1].",
+            "[person_1] will close the door."
+        ],
+        "reason": [
+            "[person_1] is going to take a ride on the bicycle.",
+            "The hamburger is not over yet.",
+            "One of the purposes of opening the beer is to have a drink.",
+            "There is also a pumpkin on the table.",
+            "[person_1] is going to start riding unicycle faster."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] opened the [bottle_1] successfully by his hand at beginning?",
+        "answer": [
+            "[person_1] will immediately pick [person_1] up and check for injuries.",
+            "[person_1] cannot reach to the box.",
+            "The people would stand in a row and dance while snap their fingers together.",
+            "The [person_1] would fall.",
+            "[person_1] will not pick up the slipper."
+        ],
+        "reason": [
+            "[person_1] has achieved what he want.",
+            "[bottle_1] is standing outside.",
+            "[person_1] is shining on shoes.",
+            "[person_1] looks like it's resting.",
+            "There are still many unfolded clothes next to [person_1]."
+        ]
+    }
+}

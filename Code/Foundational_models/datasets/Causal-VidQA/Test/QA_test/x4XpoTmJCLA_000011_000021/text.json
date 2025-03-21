@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_3]?",
+        "answer": [
+            "It is on the in the bookcase.",
+            "[book_3] is on the left.",
+            "It's next to the door.",
+            "[book_3] is kicking a ball.",
+            "It is in front of the building."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding maracas dancing?",
+        "answer": [
+            "[person_1] is holding the harmonica.",
+            "The [person_1] reads something from the book.",
+            "Because [person_1] is singing and holding maracas to accompaniment.",
+            "Because [person_1] is playing guitar and whistling.",
+            "Because [person_1] is playing a xylophone."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will shoot another cue ball.",
+            "Roll [person_1] by the other foot.",
+            "It is predicted that [person_1] will continues to shake the maracas.",
+            "[person_1] will keep practicing the piano.",
+            "[person_1]'ll put his money in the bank."
+        ],
+        "reason": [
+            "Because [person_1] was looking for a place to store food.",
+            "[person_1] has successfully opened the bottle.",
+            "Because there's a car next to [person_1] and the bucket is in the car.",
+            "Because the [person_1] wants to go home for dinner.",
+            "[person_1] is happily singing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off?",
+        "answer": [
+            "[person_1] will stop singing.",
+            "[person_1] will stop talking.",
+            "[person_1] will stop cooking.",
+            "[person_1] will be stop talking and guiding.",
+            "[person_1] will stop working."
+        ],
+        "reason": [
+            "The room will be dark.",
+            "The light will not work . , too.",
+            "The fan will be off , too.",
+            "The piano will not work.",
+            "The television won't work without power."
+        ]
+    }
+}

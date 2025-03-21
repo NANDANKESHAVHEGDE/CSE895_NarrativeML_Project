@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1]?",
+        "answer": [
+            "[book_1] is under the table.",
+            "[book_1] is on the floor.",
+            "[book_1] is on the floor.",
+            "[dining table_1] is behind [book_1].",
+            "[book_1] is on [dining table_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] jumping?",
+        "answer": [
+            "Because no one is sitting on [person_1].",
+            "[person_1] is sitting on the floor.",
+            "Maybe [person_1] is being treated for insomnia.",
+            "[person_1] is jumping to throw the ball through the basket.",
+            "Maybe [person_1] is busy in the morning."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue opening the gift.",
+            "[person_1] is going to pick up the ball.",
+            "[person_1] will put down the snorkel.",
+            "[person_1] is going to start practicing.",
+            "[person_1] will shoot it again."
+        ],
+        "reason": [
+            "[person_1] is sitting near the [person_1].",
+            "[person_1]'s arms were intertwined.",
+            "[person_1] put down the weights.",
+            "[person_1] is running to follow the ball.",
+            "[person_1] keen on the activity."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is taller?",
+        "answer": [
+            "[person_1] and [person_1] would get falls , which is very dangerous.",
+            "[person_1] would not be hurt.",
+            "[person_1] doesn't need to jump.",
+            "[person_1] may have broad knowledge.",
+            "[person_1] will not be able to continue playing."
+        ],
+        "reason": [
+            "[person_1] is a child and too short , so [person_1] needs to jump to be able to throw the ball.",
+            "They wonder if there is something wrong with [person_1].",
+            "[person_1] doesn't like the present that [person_1] received.",
+            "Because [person_1] is already coughing and patting on his chest several times.",
+            "He fell down while trying to ride backward."
+        ]
+    }
+}

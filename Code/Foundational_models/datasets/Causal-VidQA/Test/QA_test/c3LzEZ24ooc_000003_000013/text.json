@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [suitcase_1] placed?",
+        "answer": [
+            "[suitcase_1] is placed on the ground.",
+            "[suitcase_1] is male.",
+            "[suitcase_1] is wearing a white stripes shirt.",
+            "It is white.",
+            "[suitcase_1] is standing behind [suitcase_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [suitcase_1] placed on the ground?",
+        "answer": [
+            "Maybe the teacher called him.",
+            "[suitcase_1] is scared of the firework explosion.",
+            "[suitcase_1] is celebrating because he threw the ball in the basket.",
+            "[suitcase_1] is placed on the ground to contain the money.",
+            "To increase the volume."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep on dancing.",
+            "[person_1] is going to earn money by playing music.",
+            "[person_1] is going to keep beating.",
+            "[person_1] will keep dancing.",
+            "[person_1] is going to keep hooping."
+        ],
+        "reason": [
+            "[person_1] is going to put the shoe down.",
+            "[person_1] feels cold sitting on the floor.",
+            " [person_1] likes skiing.",
+            "[person_1] is preparing for a long jump.",
+            "[person_1] is playing music on the street with an open suitcase where the audience can donate money."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't have [suitcase_1]?",
+        "answer": [
+            "[person_1] might probably use the wrong stance and body movements to shoot the target.",
+            "[person_1] will use something to contain the money.",
+            "[person_1] will go back home.",
+            "[person_1] will ask [person_1] or [suitcase_1] for help.",
+            "[person_1] will pick [person_1] up and keep recording."
+        ],
+        "reason": [
+            "[person_1] is introducing [person_1]'s painting to the camera , so if [person_1]'s painting falls , [person_1] will pick it up.",
+            "because it's a [suitcase_1] flipping competition , the one who makes it is the winner.",
+            "[person_1] and [suitcase_1] would run around so as not to be attacked by the dog.",
+            "[person_1] pulled [person_1]'s ear for some reason , and if [person_1] finds that it was not [person_1] who did something bad , [person_1] will apologize to [person_1] for his rudeness.",
+            "Because [person_1] receives money for his work from the audience."
+        ]
+    }
+}

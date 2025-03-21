@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [bottle_1]?",
+        "answer": [
+            "It is behind the [bottle_2].",
+            "The [bottle_1] is on the [bottle_1].",
+            "The [bottle_1] is on the shelve behind [bottle_1].",
+            "The [bottle_1] is wearing a T - shirt and jeans.",
+            "The [bottle_1] is beside the [bottle_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the [refrigerator_1]?",
+        "answer": [
+            "Because [person_1] is unwrapping them.",
+            "The [person_1] is looking for something in the [refrigerator_1].",
+            "The [person_1] seems to be looking for something in the [refrigerator_1].",
+            "Because [person_1] is practicing snatching weight lifting.",
+            "Because the [person_1] is introducing the arrangement of the items in the [refrigerator_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will close the [refrigerator_1] door.",
+            "The [person_1] will continue to beat iron.",
+            "The [person_1] will continue trying to pet the dog.",
+            "The [person_1] will continue to give the [refrigerator_1] a bath.",
+            "The [person_1] will pick up the folded plane and play with it."
+        ],
+        "reason": [
+            "Because the [person_1] seems to be done with introductions.",
+            "Because the [person_1] has finished withdrawing money from a self - service ATM.",
+            "Because the [person_1] wants to know if there is enough money to count here.",
+            "Because without the trainer's command the [person_1] will not be obedient.",
+            "To apply medical ointment for another foot."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the [refrigerator_1] suddenly loses power?",
+        "answer": [
+            "[person_1] will be penalized for drinking all that beer.",
+            "The [person_1] will check the cause of the power failure.",
+            "[person_1] will have to swim then.",
+            "[person_1] would look for [refrigerator_1].",
+            "[person_1] would not smile or so happy."
+        ],
+        "reason": [
+            "Because the [refrigerator_1] power failure will affect the use.",
+            "[refrigerator_1]'s clothes limited [refrigerator_1] from big range of motion.",
+            "Because [refrigerator_1] may walk normally.",
+            "There is a mirror on the right of [refrigerator_1].",
+            "Because [refrigerator_1] needs to make sure the road is clean first and then clean the grass."
+        ]
+    }
+}

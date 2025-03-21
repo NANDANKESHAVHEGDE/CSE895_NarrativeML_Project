@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the [person_2] wearing?",
+        "answer": [
+            "The [person_2] is wearing a helmet and black glasses.",
+            "[person_2] is wearing a black shirt.",
+            "The [person_2] is wearing a red hair band.",
+            "The shirt [person_2] wearing is yellow",
+            "The shirt is a black shirt with flowers."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is the the [person_2] lying on the snow?",
+        "answer": [
+            "Maybe [person_1] and [person_2] are playing ball in the park.",
+            "The [person_2] was hit by the [person_1].",
+            "Maybe [person_2] feels happy because of a successful somersault.",
+            "It is possible that [person_1] is learning to play the harmonica.",
+            "Maybe [person_1] like playing this."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] will return to the [person_1] by skating.",
+            "[person_1] will go out of the pool and rest.",
+            "The [person_1] may put off the cap and wear another cap.",
+            "The [person_1] may give other treat for the [person_1].",
+            "The [person_1] may stop throwing snowballs toward the [person_2]."
+        ],
+        "reason": [
+            "The [person_1] has just stepped down to the floor after wiping the bed.",
+            "The [person_1] is standing and looking at the [person_2] without holding a snowball.",
+            "The [person_1] looks in front and goes forward after pushing the ball away.",
+            "The [person_1] is raising the camera in front of the girl on the tree.",
+            "The [person_1] is wiping the right feet of the [person_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if the [person_2] did not wear glasses?",
+        "answer": [
+            "The room will be brighter.",
+            "[person_2] would cut the sheep's skin and it would run away.",
+            "The snow might stick the eyes of the [person_2].",
+            "[person_2] might not be able to perform.",
+            "[person_2] may fold the clothes alone."
+        ],
+        "reason": [
+            "The face of the [person_2] was hit with two snowballs.",
+            "[person_2] can not see where to catch it.",
+            "[person_2] is a talented professor.",
+            "[person_2] will continue to dance.",
+            "The [person_2] can not keep balance while standing on the stilts."
+        ]
+    }
+}

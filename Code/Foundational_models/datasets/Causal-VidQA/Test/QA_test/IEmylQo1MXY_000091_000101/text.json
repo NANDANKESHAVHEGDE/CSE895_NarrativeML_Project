@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the bedroom.",
+            "[person_1] is in the big house.",
+            "[person_1] sits by the curtains.",
+            "[person_1] is on the roller skating rink.",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the big house?",
+        "answer": [
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "[person_1] needs to strip the apple speedier.",
+            "[person_1] is playing the accordion.",
+            "[person_1] is learning to ride [bicycle_1].",
+            "Because [person_1] is using the trowel to plaster."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] will continue to play.",
+            "[person_1] is talking about his opinion.",
+            "[person_1] will continue to play the cello.",
+            "[person_1] will huddling with the team.",
+            "[person_1] is going to ride [bicycle_1]."
+        ],
+        "reason": [
+            "The baby fell.",
+            "[person_1] is weaving fabric.",
+            "Because [person_1] wants to ride [bicycle_1].",
+            "Maybe [person_1] is a earthen pot.",
+            "Feedback is needed in the classroom."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [bicycle_1] breaks down?",
+        "answer": [
+            "[person_1] will be happy.",
+            "[person_1] can't use [bicycle_1] further.",
+            "[person_1] would be injured.",
+            "[person_1] can use [bicycle_1] further.",
+            "[bicycle_1] will be very happy."
+        ],
+        "reason": [
+            "[bicycle_1] will feel hurt.",
+            "Because [bicycle_1] has broken down and [bicycle_1] can be used anymore.",
+            "Using other tools can help make the snowman quicker.",
+            "Because [bicycle_1] has broken down and [bicycle_1] can not be used anymore.",
+            "[bicycle_1] needs to pick up his gun and keep moving."
+        ]
+    }
+}

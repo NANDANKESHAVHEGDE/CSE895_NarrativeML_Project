@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [person_2] wearing on his head?",
+        "answer": [
+            "[person_2] is wearing a white shirt.",
+            "Empty bottles.",
+            "There are six cups.",
+            "[person_2] is wearing a hat.",
+            "It is white."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [person_2] holding the foot of [sheep_1]?",
+        "answer": [
+            "Maybe [sheep_1] is playing laser tag.",
+            "[person_2] is holding the foot of [sheep_1] so he can cut the fur around his foot.",
+            "[person_2] is skipping rope.",
+            "Because [sheep_1] is watering the plants.",
+            "Because [person_2] is watering the flower pots."
+        ]
+    },
+    "predictive": {
+        "question": "what will happen with [person_1] next?",
+        "answer": [
+            "[person_1] will finish cutting the fur of [sheep_1] and then proceed to get off of [sheep_1] to let it stand.",
+            "[person_1] will finish trimming all the fur off the sheep and then start cutting the hair of [sheep_1].",
+            "[person_1] will wash that spoon.",
+            "[person_1] will continue to play her bagpipes for the person recording her while she plays on the streets.",
+            "[person_1] will go on spraying the wall."
+        ],
+        "reason": [
+            "the job of [person_1] is to brush the sheered sheep and [sheep_1] is almost done being sheered.",
+            "[person_1] could be a sheep farmer so , he would have multiple sheep in need of being sheered.",
+            "[person_1] seems to be increasing the intensity of the slap.",
+            "[person_1] is a doctor in a hospital , so after cleaning her hands , she will continue to do her job and help other people.",
+            "[person_1] is on top of [sheep_1] so that it can't move while he is cutting its hair."
+        ]
+    },
+    "counterfactual": {
+        "question": "what would happen if the wind blew the hat of [person_2] away?",
+        "answer": [
+            "[person_2] may find other toys to play with.",
+            "They will take a new one.",
+            "[sheep_1] will not be able to lay the carpet correctly.",
+            "[person_2] would stop cutting the fur of [sheep_1] and then go run after his hat before it gets too far from him.",
+            "[person_2] would get wet."
+        ],
+        "reason": [
+            "The [person_2] does not touch any cups.",
+            "Because [person_2] wants to eat the potato chips in the [person_2].",
+            "A statue never changes the countenance.",
+            "[person_2] spent money on his hat ; he would not want it to blow away and get lost.",
+            "The [person_2] needs to hold the cap to show it."
+        ]
+    }
+}

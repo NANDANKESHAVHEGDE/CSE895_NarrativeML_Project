@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color are [person_2]'s pants?",
+        "answer": [
+            "There are two certificates hanging on the wall near the door.",
+            "It's red.",
+            "The shoes are pink.",
+            "[person_2]'s pants is white.",
+            "It is red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] raise [person_1]'s hand?",
+        "answer": [
+            "[person_1] and [person_1] are practicing the clarinet.",
+            "[person_1] raises [person_1]'s hand to put both hands on the ground and stand on two hands.",
+            "[person_1] and [person_1] are practicing a piece of music.",
+            "[person_1] is talking to everyone.",
+            "[person_1] raises [person_1]'s arms to hold the stick."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_2] probably do?",
+        "answer": [
+            "[person_2] will be upside down.",
+            "[person_2] will feel more and more comfortable.",
+            "[person_2] has an intention of attracting the crowd as stomping grapes ad dancing at the same time.",
+            "[person_2] may go on playing with the boards.",
+            "The girl is going to continue riding to catch up with [person_2]."
+        ],
+        "reason": [
+            "[person_2] will take the shirt from [person_2]'s hand because [person_2]'s hand is holding on to the shirt and tends to pull it away.",
+            "[person_2] will touch the gift because [person_2] is staring at it.",
+            "[person_2] will be upside down because [person_2] already raised her arms.",
+            "It seems that [person_2] is quite satisfied with his performance.",
+            "[person_2] has longed for winning the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] fell down after standing on two hands?",
+        "answer": [
+            "Maybe they would threaten people or shoot.",
+            "[person_2] and [person_1] would ask [person_1] why.",
+            "Eating utensils on [person_1] would be shuffled and the plate might be broken.",
+            "[person_1] will lose game.",
+            "[person_2] probably wouldn't get up and imitate [person_1]."
+        ],
+        "reason": [
+            "[person_1] and [person_2] started moving as soon as [person_2] gave signal and stepped back.",
+            "[person_2] probably wouldn't get up and imitate [person_1] because [person_2] would be scared.",
+            "[person_1] and [person_2] would have to wait for another one.",
+            "[person_1] is participating a game.",
+            "Clothes get dirty easily in the kitchen."
+        ]
+    }
+}

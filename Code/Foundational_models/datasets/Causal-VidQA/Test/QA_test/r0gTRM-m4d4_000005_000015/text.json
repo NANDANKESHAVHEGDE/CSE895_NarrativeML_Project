@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "answer": [
+            "It is on the floor.",
+            "It is in the room.",
+            "It is in front of the wall.",
+            "[chair_1] is near [person_1].",
+            "It is in front of the window."
+        ]
+    },
+    "explanatory": {
+        "question": "How does [person_1] roast the marshmallows?",
+        "answer": [
+            "Because the door is tight.",
+            "[person_1] does it carefully.",
+            "To propose to [person_1].",
+            "Maybe [person_1] is taking the bath.",
+            "[person_1] is scoring."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do after roasting the marshmallows?",
+        "answer": [
+            "[person_1] will give them to [person_2].",
+            "[person_1] is going to laugh.",
+            "[person_1] feels disappointed.",
+            "Red , yellow , blue , black , gray , white.",
+            "[person_1] will taste the marshmallows."
+        ],
+        "reason": [
+            "Because [person_2] wants to eat marshmallows.",
+            "It seems that [person_1] is quite interested in [person_2].",
+            "Because [person_1] is holding the camera.",
+            "It appears that [person_1] is running toward the ball.",
+            "[person_1] is going to drop the watch because [person_1] is finished showing."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there comes a wolf?",
+        "answer": [
+            "They might be attracted by [person_2]'s dance.",
+            "They would run away at once.",
+            "[chair_1] may look for everything in the undersea.",
+            "[person_2] wouldn't be sitting on the floor.",
+            "[person_2] may not jump up."
+        ],
+        "reason": [
+            "A billiard stick is required to put the ball in the hole.",
+            "They enjoy dancing.",
+            "Doctors can cure diseases.",
+            "It is impossible that [chair_1] is a referee.",
+            "The wolf is dangerous for people."
+        ]
+    }
+}

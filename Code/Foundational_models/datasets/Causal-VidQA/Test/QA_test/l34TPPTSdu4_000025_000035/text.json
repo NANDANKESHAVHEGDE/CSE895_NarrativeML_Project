@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What type of clothes is [person_1] wearing?",
+        "answer": [
+            "He is a student.",
+            "The [person_1] is big.",
+            "A teacher.",
+            "[person_1] is wearing a blue shirt.",
+            "[person_1] is wearing casual clothes."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] sitting on the floor?",
+        "answer": [
+            "[person_1] is playing with his toys.",
+            "[person_1] is standing and stacking cups.",
+            "[person_1] is stacking cups.",
+            "The view at the window is beautiful.",
+            "[person_1] is slowly moving her hands."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will have a rest next.",
+            "[person_1]'ll count the money.",
+            "[person_1] may stop playing the maracas.",
+            "[person_1]'ll pull the bike out of the snow.",
+            "[person_1] might use a plate to put the dishes."
+        ],
+        "reason": [
+            "[person_1] must keep track of her student's progress.",
+            "Because it takes some time for the dye to dry.",
+            "Because the pottery in front of [person_1] hasn't been finished.",
+            "[person_1] is putting the maracas down.",
+            "[person_1] is concentrating on making the basket deftly."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] cried?",
+        "answer": [
+            "She will get a special thing from the box.",
+            "[person_1] may not stand there.",
+            "Maybe the parents of [person_1] would come.",
+            "[person_1] , [person_1] and [person_1] will continue drinking.",
+            "[person_1] would stop the game and tell her mother."
+        ],
+        "reason": [
+            "The parents of [person_1] have to take care of [person_1] . .",
+            "When the child cries , adults will come and comfort him.",
+            "It means that [person_1] doesn't like it.",
+            "[person_1] likes [person_1].",
+            "Because [person_1] will bump into the [person_1]."
+        ]
+    }
+}

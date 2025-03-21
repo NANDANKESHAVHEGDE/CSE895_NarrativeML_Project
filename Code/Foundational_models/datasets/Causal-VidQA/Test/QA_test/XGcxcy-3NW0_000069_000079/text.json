@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is [person_1]' pant?",
+        "answer": [
+            "There are six cups.",
+            "It is to the left of [person_1].",
+            "Yes.",
+            "It is pink.",
+            "[person_1] and [person_1] are watching two teams playing badminton."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] there?",
+        "answer": [
+            "[person_1] is happy because he is smiling.",
+            "[person_1] feels happy.",
+            "[person_1] felt excited because [person_1] was walking.",
+            "Because [person_2] is supporting [person_1]",
+            "[person_1] needs glasses to read newspaper."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to stop smoking.",
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] will continue talking.",
+            "[person_1] is going to use a rope to plane the wood.",
+            "[person_1] may continue what he did."
+        ],
+        "reason": [
+            "[person_1] feels excited.",
+            "[person_1] is jumping very hard.",
+            "Because [person_1] doesn't have a planing machine",
+            "Sled is broken.",
+            "[person_1] is fond of doing it."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] had planing machine?",
+        "answer": [
+            "[person_1] could not bounce [person_1] many times.",
+            "Perhaps [person_1] will laugh.",
+            "The ball would hardly get to the top.",
+            "[person_1] wouldn't need [person_2] to hold the wood.",
+            "[person_2] might be badly hurt."
+        ],
+        "reason": [
+            "Because using planing machine is much easier.",
+            "Because coins are dirty.",
+            "That is the rule of hurling.",
+            "Because sports ball is very heavy and hard.",
+            "It's time for [person_1] to go to bed."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "How many people are in the room?",
+        "answer": [
+            "There are three.",
+            "There are four people in the room.",
+            "There are 6 people.",
+            "There are three people.",
+            "There are two people in the garden."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the hall?",
+        "answer": [
+            "It's quieter in the room than outside.",
+            "[person_1] is playing chess with [person_2] , [person_3] and [person_4].",
+            "[person_1] is reading newspaper.",
+            "[person_1] is doing tai chi in the room with some of his friends.",
+            "[person_1] is fond of stacking the cups on the [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will continue dancing.",
+            "[person_1] is going to continue to dance.",
+            "[person_1] will play with [person_3].",
+            "[person_1] will continue to paint the wall yellow.",
+            "[person_1] will keep practicing."
+        ],
+        "reason": [
+            "[person_1] has not finished practicing.",
+            "[person_1] is playing chess.",
+            "[person_1] is lowering the flute.",
+            "[person_1] is shaking the maracas to the music.",
+            "[person_1] will feel tired after playing harp."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] wins?",
+        "answer": [
+            "[person_1] will be very angry.",
+            "Maybe [person_1] will be very happy.",
+            "[person_1] will bake doughs faster.",
+            "[person_1] would lose all his photos.",
+            "[person_2] , [person_3] , and [person_4] will congratulate [person_1]."
+        ],
+        "reason": [
+            "[person_1] may hoop again.",
+            "Because they are on a TV show , and they need to show the audience how to milk.",
+            "[person_1] will be very happy.",
+            "The swords are very sharp and dangerous.",
+            "From the shape we can see that it will be a log cabin."
+        ]
+    }
+}

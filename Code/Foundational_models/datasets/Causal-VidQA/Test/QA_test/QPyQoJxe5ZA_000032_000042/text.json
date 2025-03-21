@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "what is [cat_1] doing?",
+        "answer": [
+            "It is lovely with pictures on the wall?",
+            "[cat_1] is attacking the mirror.",
+            "There are two guitarists.",
+            "[cat_1] wears a black shirt.",
+            "It is quite tidy."
+        ]
+    },
+    "explanatory": {
+        "question": "why is [cat_1] attacking the mirror?",
+        "answer": [
+            "[cat_1] thought the reflection is a different cat.",
+            "Because [cat_1] is a beginner.",
+            "[cat_1] is taking a bath.",
+            "Maybe because [cat_1] feel cold.",
+            "By riding the horse everyday."
+        ]
+    },
+    "predictive": {
+        "question": "what is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to lie down.",
+            "[person_1] is going to put her left hand down.",
+            "[person_1] is going to leave.",
+            "[person_1] might going to take a break.",
+            "[person_1] is going to jump again."
+        ],
+        "reason": [
+            "[person_1] is turning toward the hallway.",
+            "[person_1] doesn't do anything else.",
+            "[person_1] was getting off of the ground and on his knee.",
+            "[person_1] was looking at the water bottle being thrown on the night stand.",
+            "[person_1] needs to lean back to keep her balance on the back of the mechanical bull."
+        ]
+    },
+    "counterfactual": {
+        "question": "what will happen if [person_1] is holding [cat_1]?",
+        "answer": [
+            "[cat_1] may scratch [person_1] in order to attack the reflection.",
+            "[person_1] can not do it again.",
+            "[person_1] may be sad.",
+            "[person_1] may keep drinking.",
+            "[person_1] may be sad."
+        ],
+        "reason": [
+            "Because [person_1] is following the order of [person_1].",
+            "When being hit , [cat_1] will be naturally roused from sleep.",
+            "[cat_1] attacks the reflection when [person_1] is holding [cat_1].",
+            "Because [person_1] will have no strength.",
+            "The [person_1] using [cat_1] makes fire cause more power."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s socks?",
+        "answer": [
+            "No.",
+            "[person_1] is wearing pink lipstick.",
+            "The socks are white.",
+            "It's black.",
+            "The shirt [person_1] is wearing is white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] roll [sports ball_1]?",
+        "answer": [
+            "Because [person_1] is playing stacks of cups.",
+            "The [sports ball_1] is reading a book which is on the table.",
+            "Because [person_1] is stacking cups.",
+            "Because the [person_1] seems to be taking the [person_1] apart.",
+            "To give [person_1]'s feet a massage."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will finish drawing the butterfly.",
+            "[person_1] will play again.",
+            "Roll [sports ball_1] by the other foot.",
+            "[person_1] will move the knight.",
+            "[person_1] will then take out the board."
+        ],
+        "reason": [
+            "To make another foot comfortable.",
+            "[person_1] loves to play because [person_1] is very professional.",
+            "[person_1]'s hand is on the string.",
+            "[person_1] is jumping in a professional way.",
+            "To check the quality of the ipad."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] feels painful when rolling [sports ball_1] by the feet?",
+        "answer": [
+            "[person_1] and [sports ball_1] will make another snowball.",
+            "The car will break and [person_1] will hurt.",
+            "[person_1] will stop painting.",
+            "[person_1] will be seriously injured.",
+            "[person_1] will stop rolling [sports ball_1]."
+        ],
+        "reason": [
+            "To relax first.",
+            "[person_1] will have lunch.",
+            "Because he just drank a shot and hasn't recovered.",
+            "[person_1] didn't make a good impact.",
+            "It is difficult to climb up for such a baby."
+        ]
+    }
+}

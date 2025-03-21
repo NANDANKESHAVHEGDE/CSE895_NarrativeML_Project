@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_3] doing?",
+        "answer": [
+            "The [person_3] is beside the tree , between [person_1] and [person_3].",
+            "The [person_3] is on the grass , in front of the blue house.",
+            "[person_3] is tied to a chair.",
+            "[person_3] is holding a yellow balloon.",
+            "[person_3] is in a team with [person_4] and competing with [person_1] and [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why do [person_1] and [person_2] all wear white T - shirts?",
+        "answer": [
+            "Maybe [person_1] wants to play kickball.",
+            "Because [person_1] and [person_2] are in the same team so [person_1] and [person_2] wear the same white T - shirts.",
+            "Because [person_2] prepares for the next move.",
+            "Because [person_1] is joining the competition.",
+            "Because [person_1] is playing the gong in this room."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] may find a place to hide.",
+            "[person_1] will stop watering.",
+            "[person_1] is going to focus on playing badminton.",
+            "[person_1] is going to follow the camera.",
+            "[person_1] may keep dancing."
+        ],
+        "reason": [
+            "Because the match seems very intense.",
+            "It is very sunny.",
+            "[person_1] only used 1 dice.",
+            "[person_1] may keep raising eyebrows.",
+            "[person_1] has danced very well."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] does not focus on the match?",
+        "answer": [
+            "[person_1] 's team will lose to [person_3] 's team easily.",
+            "[person_1] would not hold the board high enough for [person_1].",
+            "Then [person_1] will not know how [person_3] does.",
+            "[person_1] may succeed on flipping the bottle.",
+            "[person_1] would be shocked."
+        ],
+        "reason": [
+            "He may be lectured by his parents for playing the game.",
+            "The lawn is big enough for boys to play games.",
+            "[person_1] can't see the eyebrows clearly.",
+            "Because this is an intense period of the match and everyone concentrates on how to win the opposing team.",
+            "To record the massaging neck continuously."
+        ]
+    }
+}

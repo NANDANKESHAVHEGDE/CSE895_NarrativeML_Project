@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What color is the shirt [person_1] wearing?",
+        "answer": [
+            "It is purple.",
+            "The shirt [person_1] wearing is gray.",
+            "The shirt is yellow.",
+            "It is pink.",
+            "It is black."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in [car_1]?",
+        "answer": [
+            "Because [person_1] needs to outside.",
+            "Because [person_1] is smoking with his best friend.",
+            "[person_1] wants to teach [person_1] something.",
+            "[person_1] is smoking hookah.",
+            "[person_1] is squeezing [person_1]."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] intend to do?",
+        "answer": [
+            "[person_1] intends to not play the keyboard.",
+            "[person_1] intends to somersault again.",
+            "[person_1] intends to pull the rope.",
+            "It is possible that [person_1] will continue to play didgeridoo.",
+            "[person_1] intends to continue driving."
+        ],
+        "reason": [
+            "[person_1] is in the middle of the road.",
+            "The contact lens has been pushed out of the eye.",
+            "[person_1] holds the lipstick in her hand and applies it to her lips.",
+            "[person_1] works with a range of materials and equipment.",
+            "There is a rope and [person_1] is holding the rope in [person_1]'s hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't hold the steering - column?",
+        "answer": [
+            "[person_1] will do what he likes.",
+            "There will be traffic problems.",
+            "It is probable that contact lenses will tear.",
+            "Her mother will take him indoors.",
+            "[person_1] might pay more attention to her homework."
+        ],
+        "reason": [
+            "It is vital to deliver on tasks.",
+            "[person_1] is walking toward [person_1].",
+            "The chessmans is in the the chessboard.",
+            "The car is not controlled.",
+            "[person_1] will miss the call."
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the room.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the skating rink.",
+            "[person_1] is on the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] holding a shaver?",
+        "answer": [
+            "[person_1] is planing wood.",
+            "[person_1] is doing her job to earn money.",
+            "[person_1] is shaving and cutting his hair.",
+            "It seems that the person put an animal in the [person_1].",
+            "[person_1] may not know how to tie a bow for himself."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "Maybe [person_1] is going to jump again.",
+            "[person_1] may dance with [person_1].",
+            "[person_1] is certain to spray a painting.",
+            "[person_1] is going to use scissors to trim his beard.",
+            "[person_1] will get up."
+        ],
+        "reason": [
+            "[person_1] is holding a glass of water.",
+            "[person_1] is [person_1]'s partner.",
+            "[person_1] is holding the bottle.",
+            "Maybe [person_1] will continue playing.",
+            "[person_1] is holding scissors with his right hand."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] shows off his new hair to his friends?",
+        "answer": [
+            "[person_1] will get many compliments.",
+            "[person_1] will not be able to skate.",
+            "[person_1] will be fun.",
+            "[person_1] will stop playing.",
+            "[person_1] will record the song again."
+        ],
+        "reason": [
+            "The hair of [person_1] is very special.",
+            "The audience will love the song of [person_1].",
+            "[person_1] can not sing without it.",
+            "It was hard but [person_1] did it.",
+            "[person_1] looks more handsome."
+        ]
+    }
+}

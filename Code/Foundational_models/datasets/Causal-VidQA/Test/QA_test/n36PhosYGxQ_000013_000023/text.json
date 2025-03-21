@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s jacket?",
+        "answer": [
+            "The shirt [person_1] is wearing is white.",
+            "It is pink.",
+            "Two snowballs.",
+            "It is black.",
+            "The socks are white."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are they here?",
+        "answer": [
+            "[person_1] is waiting for her turn.",
+            "Because [person_1] feels proud of [person_1] for he opens the cap by himself.",
+            "[person_1] is playing chess.",
+            "Because they're having some fun.",
+            "They are here to tag the graffiti."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next?",
+        "answer": [
+            "[person_1] will take [person_1] to be calcined.",
+            "[person_1] may have a rest.",
+            "[person_1] will probably make it more professional.",
+            "[person_1] will put her hands down.",
+            "[person_1] will catch the ball."
+        ],
+        "reason": [
+            "[person_1] wants to practice more.",
+            "[person_1] just falls the food.",
+            "[person_1]'s team won the opposite team.",
+            "Because it seems that [person_1] stops tagging.",
+            "[person_1] prepares and jumps in a professional way."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if they left the empty spray paint cans on the ground after finishing tagging?",
+        "answer": [
+            "She will hold the baby by herself.",
+            "[person_1]'s feet may be bruised.",
+            "[person_1] would eat it.",
+            "They would stop the game and see the wild cat.",
+            "They might be charged of trashing the environment."
+        ],
+        "reason": [
+            "Because [person_1] is worried about the dog.",
+            "Because those cans are not biodegradable and environmental policies do not allow people to litter.",
+            "There would be no light for [person_1] to see the drums.",
+            "[person_1] will hit [person_1]'s feet.",
+            "Because there is no toilet in the room."
+        ]
+    }
+}

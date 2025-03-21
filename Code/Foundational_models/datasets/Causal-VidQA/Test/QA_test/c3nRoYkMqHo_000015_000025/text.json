@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [sink_1]?",
+        "answer": [
+            "White.",
+            "[person_1] is next to the window.",
+            "[sink_1] is near [person_1].",
+            "It is in the room and near window.",
+            "It's red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] riding the [bicycle_1]?",
+        "answer": [
+            "[person_1] is excited about his action.",
+            "[person_1] is instructing the camera how to play the song he's about to play.",
+            "[person_1] is making a tutorial video.",
+            "The [person_1] knows which treble keyboard needed to touch.",
+            "[person_1] holds the tree log to avoid rolling down."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after the preparation?",
+        "answer": [
+            "[person_1] will lay the bags in a warehouse.",
+            "[person_1] will roll the sushi up.",
+            "[person_1] will begin to ride [bicycle_1] . ",
+            "[person_1] will infuse them one by one.",
+            "The man standing beside [person_1] is going to do massage for [person_1]."
+        ],
+        "reason": [
+            "[person_1] is moving forward quickly.",
+            "Because [person_1] looks painful after biting the ice cream.",
+            "The treadmill doesn't work.",
+            "The treadmill broke down and he couldn't run.",
+            "[person_1] have a lot of fun in the game."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if it rains?",
+        "answer": [
+            "All people will get wet.",
+            "The people can't continue.",
+            "Maybe [person_1] will not have to water the plants.",
+            "[person_1] may stand under the wooden shelter in the center of the giraffe enclosure.",
+            "[person_1] may stop riding."
+        ],
+        "reason": [
+            "People will go home.",
+            "The competition will not continue.",
+            "[person_1] will get wet if it rains.",
+            "[person_1] needs to avoid raining.",
+            "Because [person_1] may not get ready to go home , the water can make his accordion wet and unable to use."
+        ]
+    }
+}

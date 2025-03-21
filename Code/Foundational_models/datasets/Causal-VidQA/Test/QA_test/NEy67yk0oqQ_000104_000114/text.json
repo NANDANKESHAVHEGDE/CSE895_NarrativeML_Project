@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What's the job of [person_1]?",
+        "answer": [
+            "[person_1] is wearing a green hat.",
+            "[person_1] is in a garage.",
+            "The sweater is white.",
+            "A chemist.",
+            "[person_1] is on the [person_1] behind the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] close her left eye?",
+        "answer": [
+            "[person_1] wants to keep himself against the damage.",
+            "The weather is very cold.",
+            "Because she enjoys this feeling.",
+            "To bring the right eye into focus.",
+            "[person_1] steps on the rope."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue teaching.",
+            "[person_1] is going to continue practicing.",
+            "[person_1] is going to continue playing there.",
+            "[person_1] is going to keep showing.",
+            "[person_1] is going to change magnification."
+        ],
+        "reason": [
+            "Maybe [person_1] loves to read.",
+            "[person_1] is walking very fast.",
+            "Because [person_1] has successfully finished the training.",
+            "The hand of [person_1] is turning the objective lens , which is used to change multiples.",
+            "[person_1] is holding a baseball bat."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the objective suddenly falls down?",
+        "answer": [
+            "[person_1] may take pictures again.",
+            "[person_1] may be educated.",
+            "[person_1] will not be here.",
+            "[person_1] will have a chance to win.",
+            "The slides on the platform will shatter."
+        ],
+        "reason": [
+            "The lifts seem to be very heavy.",
+            "The slides are very thin and fragile.",
+            "Darkness make more things uncertain.",
+            "Injury in sports is very dangerous.",
+            "Robbers all come prepared , so you have to spin things out first to make sure that you are safe and then find a chance to call the police."
+        ]
+    }
+}

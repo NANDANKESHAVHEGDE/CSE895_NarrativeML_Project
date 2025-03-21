@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is wearing the glasses?",
+        "answer": [
+            "[person_1] is placed on the floor.",
+            "[person_1] is on the wall.",
+            "The [person_1] is on the wall.",
+            "There is a couch in the video.",
+            "[person_1] is wearing the glasses."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the gong must be big?",
+        "answer": [
+            "[person_1] is watching the swimming competition.",
+            "The gong is big so that the sound is produced louder.",
+            "[person_1] feels bored after work.",
+            "The pressure inside the bottle is extremely high at the point of opening.",
+            "Because gym equipment needs a place to be stored."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to knock on the gong one more time.",
+            "[person_1] tends to eat maracas.",
+            "[person_1] tends to keep wearing the shoes.",
+            "[person_1] is likely to dance to the music.",
+            "[person_1] tends to take the present."
+        ],
+        "reason": [
+            "Maybe [person_1] finishes the song.",
+            "[person_1] is having fun.",
+            "The guitar is in the hands of [person_1].",
+            "[person_1] knocked on the gong twice and still pointing the stick towards the gong.",
+            "Because [person_1] is showing [person_1] how to fold clothes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen with [person_1] if there isn't the gong stick?",
+        "answer": [
+            "There would be many water drops flying anywhere.",
+            "[person_1] will stop and leave.",
+            "The bottles on the transmission band will all stop.",
+            "Maybe [person_1] won't be able to knock on the gong.",
+            "[person_1] would not be able to eat the biscuit."
+        ],
+        "reason": [
+            "[person_1] could chew it.",
+            "In the gift box there is only one card.",
+            "The gong is too heavy to knock with hands.",
+            "There is still much water on [person_1]'s hair.",
+            "[person_1] is a judge."
+        ]
+    }
+}

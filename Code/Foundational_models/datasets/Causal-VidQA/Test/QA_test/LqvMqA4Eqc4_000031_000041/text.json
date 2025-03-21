@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in the outside.",
+            "[person_1] is in the yard.",
+            "[person_1] is in the room.",
+            "[person_1] is \u00a0 in the swimming pool.",
+            "[person_1] is in the skating rink."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] hold the smoking pipe?",
+        "answer": [
+            "[person_1] is holding a stick to be balanced.",
+            "[person_1] wants to train the horse.",
+            "Because [person_1] wants to make a circle on the picture.",
+            "[person_1] needs to reposition his microphone.",
+            "Because [person_1] smokes."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to continue jumping jacks.",
+            "[person_1] is going to keep eating.",
+            "[person_1] will continue talking.",
+            "[person_1] is going to continue playing with toys.",
+            "[person_1] is going to stop smoking."
+        ],
+        "reason": [
+            "[person_1] gave a loud , silly laugh.",
+            "[person_1] is not going to stop.",
+            "[person_1] was blocked by the door.",
+            "[person_1] takes the pipe out of his mouth.",
+            "[person_1] hasn't stopped yet."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] doesn't know how to smoke?",
+        "answer": [
+            "[person_1] wouldn't fall.",
+            "[person_1] will have a cough.",
+            "[person_1] wouldn't dance.",
+            "The hammer will fly not far.",
+            "[person_1] would not catch the cake."
+        ],
+        "reason": [
+            "Because smoke will choke the lungs of [person_1].",
+            "[person_1] could exchange gifts with [person_1].",
+            "Because [person_1] needs something to put his clothes in.",
+            "Because [person_1] could exchange gifts with [person_1].",
+            "[person_1] need rest to recover."
+        ]
+    }
+}

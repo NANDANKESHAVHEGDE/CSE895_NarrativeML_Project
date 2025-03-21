@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [microwave_1]?",
+        "answer": [
+            "The [microwave_1] is on the sideboard behind the [person_1].",
+            "The [microwave_1] is in the right of the [person_1].",
+            "The [microwave_1] is on the shelve behind [person_1].",
+            "The [person_1] is on the floor.",
+            "The [person_1] is beside the [person_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] open the [refrigerator_1]?",
+        "answer": [
+            "The [person_1] wanted to put something in the [refrigerator_1].",
+            "To lift the shirt in [person_1]'s hand to look at it.",
+            "[person_1] needs [person_1] to hit the ball.",
+            "Because [person_1] needs to move the chessman to play checkers.",
+            "Because when [person_1] is snatching weight lifting , [person_1] needs the weight lifting."
+        ]
+    },
+    "predictive": {
+        "question": "What will the [person_1] do next?",
+        "answer": [
+            "The [person_1] will continue to beat iron.",
+            "The [person_1] will continue trying to pet the dog.",
+            "The [person_1] will close the [refrigerator_1] door.",
+            "The [person_1] will continue to give the [person_1] a bath.",
+            "The [person_1] will pick up the folded plane and play with it."
+        ],
+        "reason": [
+            "Because the work hasn't been done.",
+            "Because the performance of the dolls doesn't seem to be finished.",
+            "Because the [person_1] seems to go on the talk to make the audience laugh.",
+            "Because the dog has not yet finished cutting the hair.",
+            "Because the [person_1] seems to have finished taking what he wanted to take."
+        ]
+    },
+    "counterfactual": {
+        "question": "What happens if the [refrigerator_1] suddenly loses power?",
+        "answer": [
+            "The [person_1] will check the cause of the power failure.",
+            "[refrigerator_1] will be penalized for drinking all that beer.",
+            "[person_1] will have to swim then.",
+            "[person_1] would look for [refrigerator_1].",
+            "[person_1] would not smile or so happy."
+        ],
+        "reason": [
+            "[refrigerator_1]'s clothes limited [refrigerator_1] from big range of motion.",
+            "Because [refrigerator_1] may walk normally.",
+            "There is a mirror on the right of [refrigerator_1].",
+            "Because the [refrigerator_1] power failure will affect the use.",
+            "Because [refrigerator_1] needs to make sure the road is clean first and then clean the grass."
+        ]
+    }
+}

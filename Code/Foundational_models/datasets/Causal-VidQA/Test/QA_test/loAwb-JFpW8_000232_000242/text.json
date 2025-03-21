@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is sitting on the chair in the room.",
+            "[person_1] is between [person_2] and [person_3].",
+            "[person_1] is in the yard.",
+            "[person_1] is in a fitness center.",
+            "[person_1] is in the bathroom."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are [person_1] , [person_2] and [person_3] are together?",
+        "answer": [
+            "There some information that the [person_1] can read.",
+            "[person_1] is singing.",
+            "[person_1] is trying to do somersaults.",
+            "[person_1] , [person_2] and [person_3] are performing together.",
+            "Because [person_2] wants to know what's going on behind her."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] , [person_2] and [person_3] do next?",
+        "answer": [
+            "[person_2] and [person_3] will stop shouting at each other.",
+            "[person_1] and [person_2] will dance again.",
+            "[person_1] and [person_2] will lie on [person_2] for a while.",
+            "[person_1] , [person_2] and [person_3] will continue performing.",
+            "[person_1] and [person_2] will end the conversation."
+        ],
+        "reason": [
+            "They will want to make the salad tasty , so they will want to put more things than just lettuce into it.",
+            "[person_1] , [person_2] and [person_3] has not finished the performance yet.",
+            "[person_1] and [person_2] and [person_3] are turning to the sky.",
+            "Because the race has not finished.",
+            "[person_1] and [person_2] kept talking about the way to hoop better."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] were not on stage?",
+        "answer": [
+            "It will be difficult for [person_1] to play bass guitar.",
+            "[person_2] won't be able to try on clothes.",
+            "[person_2] and [person_3] could not perform.",
+            "[person_2] will not dance.",
+            "[person_2] would laugh harder."
+        ],
+        "reason": [
+            "Because without instruction from [person_2] , [person_1] would find it very difficult to tie her necktie on her own.",
+            "[person_1] , [person_2] and [person_3] need to play as a band.",
+            "[person_1] , [person_2] are just kids who love blowing out candles.",
+            "If [person_1] is not here , [person_2] will have to work on her own , so she will be more tired.",
+            "Because [person_2] has to ensure that her task is done."
+        ]
+    }
+}

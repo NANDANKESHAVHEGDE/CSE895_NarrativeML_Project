@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [person_1]?",
+        "answer": [
+            "[person_1] is in his room.",
+            "[person_1] is in front of the wall.",
+            "[person_1] is sitting in front of the stairs.",
+            "[person_1] is sitting at a table.",
+            "[person_1] is at the gym."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the gym?",
+        "answer": [
+            "[person_1] is playing with it.",
+            "Because [person_1] wants to make bubbles.",
+            "Maybe [person_1] wants to learn the harmonica.",
+            "[person_1] wants to train to change its body.",
+            "[person_1] is playing spinning poi."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to do a balance exercise on the mat.",
+            "[person_1] is going to cross the street.",
+            "[person_1] is about to eat.",
+            "[person_1] will leave.",
+            "[person_1] will read another book."
+        ],
+        "reason": [
+            "After [person_1] folded the bandage , [person_1] bent [person_1] to [person_1]'s wound.",
+            "[person_1] is touching three cups.",
+            "Because [person_1] is wearing a baby bib.",
+            "[person_1] holds the hoop before hooping.",
+            "So that [person_1] has a beautiful healthy body."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] can't keep its balance?",
+        "answer": [
+            "[person_1] will receive the award standing at the front.",
+            "[person_1] might fall.",
+            "When applying mascara on eyelashes , it will be smudged.",
+            "[person_1] will find the marbles.",
+            "[person_1] would not be able to capture a photo of [person_1]."
+        ],
+        "reason": [
+            "[person_1] will go somewhere.",
+            "because [person_1] can't keep balance.",
+            "If the mud is deeper , the mud will splash on clothes.",
+            "Because carts are moving very fast , if a cart hit another one , the accident may be serious and lead to injuries.",
+            "[person_1] and [person_1] would stop dancing because they wouldn't see anything."
+        ]
+    }
+}

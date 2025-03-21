@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is a [bed_1]?",
+        "answer": [
+            "It is on the side of the road.",
+            "[person_1] is a toddler.",
+            "[bed_1] is near [person_1].",
+            "It is in the parking lot.",
+            "[person_1] is using the slipper."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing with the cups on the table.",
+            "[person_1] is reading the newspaper.",
+            "Because [person_1] is doing her music homework.",
+            "[person_1] is reading the book.",
+            "[person_1] is squeezing oranges."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] do next after seeing [book_1]?",
+        "answer": [
+            "[person_1] will get off excitedly.",
+            "[person_1] will choose to dance again.",
+            "[person_1] will mow in this direction.",
+            "[person_1] will skate forward with a rapid speed.",
+            "[person_1] will start to read it."
+        ],
+        "reason": [
+            "Because [person_1]'s face gets dirty and [person_1] can't clean by herself.",
+            "[book_1] is [person_1]'s body guard.",
+            "[person_1] is overseeing the competition and marking the distances of the contestants.",
+            "Getting up and down puts a lot of pressure on the knees so [person_1] will feel tired in her knees after doing squat.",
+            "It seems that [person_1] is interested in [book_1]."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is cut off?",
+        "answer": [
+            "[person_1] will stop reading.",
+            "Perhaps [person_1] will stop playing the tug of war.",
+            "[person_1] will stop talking.",
+            "Maybe [person_1] and [person_1] will not play this game.",
+            "[person_1] will continue reading."
+        ],
+        "reason": [
+            "The room will be dark then.",
+            "The internet will be off , too.",
+            "The room will be bright then.",
+            "The lights are off , too.",
+            "The room will be small then."
+        ]
+    }
+}

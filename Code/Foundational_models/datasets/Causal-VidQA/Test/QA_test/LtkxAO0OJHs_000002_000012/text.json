@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is the [person_1] standing?",
+        "answer": [
+            "The [person_1] is struggling to try to open the [person_1] door.",
+            "The [person_1] is introducing the internal structure of the refrigerator.",
+            "The [person_1] is introducing the [person_1] to the audience.",
+            "The [person_1] is standing behind the [car_1].",
+            "The [person_1] is wearing a cap."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does the [person_1] hold a ball?",
+        "answer": [
+            "The [person_1] is waving the arms of the [person_1].",
+            "The [person_1] holds a ball to play basketball.",
+            "[person_1] is holding the newspaper to read.",
+            "because [person_1] wants to light something up.",
+            "Because the [person_1] is performing to every one."
+        ]
+    },
+    "predictive": {
+        "question": "What is the [person_1] going to do?",
+        "answer": [
+            "The [person_1] may keep throwing the ball through the hoop.",
+            "The [person_1] is going to keep raising the microphone toward the [person_1].",
+            "The [person_1] may figure out how far the [person_1] throws.",
+            "The [person_1] is going to keep petting the horse in the cage.",
+            "The [person_1] may try to shoot the ball through the hoop another time."
+        ],
+        "reason": [
+            "The [person_1] has already thrown a snowball toward the [person_1].",
+            "[person_1] is running and looking at the ball.",
+            "The [person_1] is still holding the paper and standing next to the screen.",
+            "The [person_1] is still taking the shovel and bowing by the snow.",
+            "The [person_1] throws the ball to the hoop , but the ball is not passed through the hoop."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the [person_1] does not throw the ball through the hoop?",
+        "answer": [
+            "[person_1] will eat something instead burger.",
+            "People who buys [person_1]'s product will scold her.",
+            "The newspaper will fly down on the floor.",
+            "There would not be [person_1].",
+            "The [person_1] will not feel better."
+        ],
+        "reason": [
+            "There are other food floating in the air.",
+            "There are some candies on [person_1]'s plate.",
+            "[person_1] showed off the apple that he picked.",
+            "because [person_1] and [person_1] is in a team , [person_1] may support [person_1].",
+            "The [person_1] is sad when the ball is not able to pass through the basketball hoop."
+        ]
+    }
+}

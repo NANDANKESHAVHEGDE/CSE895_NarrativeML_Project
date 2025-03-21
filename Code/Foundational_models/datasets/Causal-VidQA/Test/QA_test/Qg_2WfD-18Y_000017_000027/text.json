@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the color of [person_1]'s clothes?",
+        "answer": [
+            "They are blue and red.",
+            "It is all white.",
+            "[person_1] is wearing black pants with white line.",
+            "It's orange.",
+            "Red."
+        ]
+    },
+    "explanatory": {
+        "question": "Why are some of the kids wearing the paper crowns?",
+        "answer": [
+            "[person_1] is working out.",
+            "[person_2] wants to practice her movement.",
+            "They found fun wearing that.",
+            "[person_2] is circling is hands and kneeing.",
+            "Because the light is yellow."
+        ]
+    },
+    "predictive": {
+        "question": "What are [person_1] and [person_2] going to do?",
+        "answer": [
+            "They are going to play a game.",
+            "They may keep riding motorcycles on the road.",
+            "[person_1] and [person_2] may have a rest.",
+            "Eating the sushi.",
+            "[person_1] and [person_2] are going to continue their work."
+        ],
+        "reason": [
+            "[person_1] and [person_2] are a couple.",
+            "There are many wine bottles on the table.",
+            "[person_1] and [person_2] bang hands on the table.",
+            "[person_1] is going to keep talking together.",
+            "Because they want to have fun."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_2] refuses to play the game any more?",
+        "answer": [
+            "[person_2] find [person_1] to play it.",
+            "The other drivers will come to help the driver in need.",
+            "[person_1] find [person_2] to play it.",
+            "[person_2] may step on [person_1].",
+            "[person_1] find others to play it."
+        ],
+        "reason": [
+            "[person_2] needs to help.",
+            "There are no people in the bus to play with.",
+            "[person_2] will be exposed to others if [person_2]'s clothes are torn.",
+            "There are many people in the bus to play with.",
+            "[person_2] would start crying because she would have to cut her hair to get the lollipop out."
+        ]
+    }
+}

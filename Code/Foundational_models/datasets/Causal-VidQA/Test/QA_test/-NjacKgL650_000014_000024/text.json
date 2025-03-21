@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is it hanging on the wall in the corner of the room?",
+        "answer": [
+            "Yes.",
+            "No.",
+            "It is black.",
+            "It is a towel.",
+            "It is [tv_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_2] kneel on the ground?",
+        "answer": [
+            "[person_2]'s leg has something wrong.",
+            "[person_2] is assisting [person_2].",
+            "[person_2] is practicing the guitar.",
+            "Because his teeth are healthy and strong.",
+            "To make a proposal."
+        ]
+    },
+    "predictive": {
+        "question": "What will [person_1] and [person_2] do next?",
+        "answer": [
+            "[person_1] and [person_2] will continue playing the instruments.",
+            "[person_1] and [person_2] will then make a phone call.",
+            "[person_1] and [person_2] will probably keep doing their work.",
+            "[person_1] and [person_2] will work together again to pull the iron sheet out of the machine.",
+            "After all the lettuce is shredded by hand , they will put the vegetables into their salad."
+        ],
+        "reason": [
+            "[person_1] and [person_2] were looking at the light screen attentively.",
+            "Because [person_1] and [person_2] are at the [person_1] and there is food.",
+            "[person_1] and [person_2] are resting , and [person_1] and [person_2] will continue to train when [person_1] and [person_2] are well.",
+            "To tell others that [person_1] and [person_2] will marry.",
+            "Because [person_1] and [person_2] worked together successfully."
+        ]
+    },
+    "counterfactual": {
+        "question": "What if [person_1] is dissatisfied with the proposal?",
+        "answer": [
+            "[person_2]'s team will get an extra shot.",
+            "[person_2] won't be sad.",
+            "[person_1] will try again to record.",
+            "[person_2] will then buy a marriage ring.",
+            "[person_2] will go down."
+        ],
+        "reason": [
+            "If [person_1] give directions indiscriminately , the traffic may not understand what [person_1] means.",
+            "To ask for [person_1]'s agreement.",
+            "The mother of [person_1] will comfort him.",
+            "[person_1] will need help from others.",
+            "[person_1] wouldn't like being hurt ; it would make him angry and want to attack [person_1] back."
+        ]
+    }
+}

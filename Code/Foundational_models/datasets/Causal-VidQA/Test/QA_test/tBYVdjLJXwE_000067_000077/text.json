@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is [person_1] doing?",
+        "answer": [
+            "[person_1] is playing badminton with [person_2] in a room which has the wall painted green.",
+            "[person_1] is doing some tai chi moves.",
+            "[person_1] is sitting on the sofa.",
+            "Dancing.",
+            "[person_1] is sitting with [person_2]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_2] looking at the [cell phone_1]?",
+        "answer": [
+            "[person_1] is ripping paper.",
+            "[person_1] wants to protect the head.",
+            "Because [person_1] is showing how to play it.",
+            "Because [person_2] is playing a xylophone.",
+            "Because [person_1] is playing the flute to the song in the book."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?",
+        "answer": [
+            "[person_2] is going to give interview to [person_2].",
+            "[person_2] will wait for another child.",
+            "[person_2] is going to hold the donut in front of him and eat.",
+            "[person_2] is going to wave to the opposite person.",
+            "[person_2] is going to play xylophone by himself."
+        ],
+        "reason": [
+            "There is food where [person_2] sits.",
+            "Because [person_1] already showed him playing xylophone instruction.",
+            "Maybe [person_2] is teaching how to wear contact lenses.",
+            "[person_2] bent down and seemed to believe in [person_1].",
+            "[person_2] is taking care of [person_1] and [person_1] doesn't know how to sweep the floor."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] is alone in the room?",
+        "answer": [
+            "[person_2] may find other toys to play with.",
+            "[person_2] may not play the xylophone.",
+            "[person_2] may not reach to the drums.",
+            "[person_2] will remind [person_2] and [person_2] to be quite.",
+            "[person_2] will be knocked down to the floor and injured."
+        ],
+        "reason": [
+            "This game may attract huge audiences.",
+            "Without [person_1] , [person_2] will not know how to play xylophone . Moreover , there are plenty of toys in the room.",
+            "Because [person_2] and [person_1] are the closest to [person_1].",
+            "There are spectators watching [person_1] under the stage.",
+            "The drink will make the table sticky."
+        ]
+    }
+}

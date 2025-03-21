@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Where is [book_1] ?",
+        "answer": [
+            "[book_1] is opposite [book_1].",
+            "[book_1] is on the piano.",
+            "It is on the bookshelf.",
+            "It is \u00a0 on the bookshelf.",
+            "They are outside the house."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1] in the room?",
+        "answer": [
+            "[person_1] is playing keyboard.",
+            "[person_1] is concentrating on playing the lute.",
+            "[person_1] is raising eyebrows.",
+            "[person_1] is excited about her book.",
+            "[person_1] is playing piano."
+        ]
+    },
+    "predictive": {
+        "question": "What does [person_1] tend to do?",
+        "answer": [
+            "[person_1] tends to keep [person_1]'s legs to avoid falling.",
+            "[person_1] is likely to continue to play with the guitar.",
+            "[person_1] tends to knock on the gong one more time.",
+            "[person_1] tends to keep wearing the shoes.",
+            "[person_1] tends to singing while playing piano."
+        ],
+        "reason": [
+            "[person_1] hits the ball very hard and [person_1] run along the ball.",
+            "[person_1] is looking attentively.",
+            "The napkin in hands of [person_1] isn't finished folding.",
+            "[person_1] wants to keep his physical health.",
+            "[person_1] is pressing on the keyboard."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if the power is off ?",
+        "answer": [
+            "The piano won't be able to work.",
+            "[person_1] won't be able to keep shaving.",
+            "[book_1] won't find the phone owner anymore.",
+            "[book_1] will not stop high kicking.",
+            "[book_1] will stop kicking high."
+        ],
+        "reason": [
+            "There will be no electricity connected to the lights.",
+            "There will be no light in this room.",
+            "The laptop will be turn off then.",
+            "It is electric.",
+            "Without the power the laptop can't work any more."
+        ]
+    }
+}

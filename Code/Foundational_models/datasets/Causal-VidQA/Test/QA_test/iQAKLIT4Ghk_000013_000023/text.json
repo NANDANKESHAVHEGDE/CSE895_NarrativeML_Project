@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "What is the thing in front of [person_1]?",
+        "answer": [
+            "The [person_1] is on the floor.",
+            "The [person_1] playing accordion inside the house.",
+            "It is small.",
+            "It is very clean and neat.",
+            "It is a mirror."
+        ]
+    },
+    "explanatory": {
+        "question": "Why does [person_1] look at the mirror while tying a bow tie?",
+        "answer": [
+            "That will produce more air in the bottle thus make the champagne spout out.",
+            "Because that helps [person_1] tie the bow more accurately.",
+            "[person_1] is skating backward.",
+            "[person_1] is attracted by what [person_1] is doing.",
+            "[person_1] is teaching [person_1] how to play the harmonica."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do next after finishing tying the bow?",
+        "answer": [
+            "[person_1] is going to work.",
+            "[person_1]'s relative is going to give [person_1] a helping hand.",
+            "[person_1] is going to stop pushing the car.",
+            "[person_1] will laugh.",
+            "[person_1] is going to say no."
+        ],
+        "reason": [
+            "There are swimming tracks , people are cheering for [person_1] , someone is filming.",
+            "The vehicle is running to that direction.",
+            "Because [person_1] has already dressed formally.",
+            "Because [person_1] enjoys this experience.",
+            "Because he seems to look forward to playing with paper airplanes."
+        ]
+    },
+    "counterfactual": {
+        "question": "What would happen if there were no mirror in front of [person_1]?",
+        "answer": [
+            "Maybe [person_1] will blow the whistle to end the game.",
+            "[person_1] may have to find something else to press the carpet.",
+            "It would be much more difficult for [person_1] to tie the bow.",
+            "Then [person_1] will be more tired by herself.",
+            "Maybe [person_1] will borrow someone else's shovel."
+        ],
+        "reason": [
+            "Because [person_1] would fall to the solid ground with nothing but stones.",
+            "Because [person_1] would have no way to check if the bow tie looked fine or not.",
+            "Because [person_1] is a child and is easy to be hurt.",
+            "Because [person_1] was running fast.",
+            "Because [person_1] is charging at the wheel with the intention of tackling it."
+        ]
+    }
+}

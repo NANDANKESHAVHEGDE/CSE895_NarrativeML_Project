@@ -1,0 +1,56 @@
+{
+    "descriptive": {
+        "question": "Who is [person_1]?",
+        "answer": [
+            "[person_1] is in his house.",
+            "[person_1] is in the bedroom.",
+            "[person_1] is in the bathroom.",
+            "[person_1] is the man who is holding a musical instrument.",
+            "[person_1] is sitting on [chair_1]."
+        ]
+    },
+    "explanatory": {
+        "question": "Why is [person_1]'s hair gray and white?",
+        "answer": [
+            "Because [person_1] needs to use [person_1]'s hands to play the keyboard.",
+            "Because [person_1] is playing the flute requires fingers.",
+            "Because [person_1] is an elderly woman.",
+            "The woman sitting on [person_1] is talking about how to do massaging neck.",
+            "The [person_1] is singing along to the sound that [person_1] is playing."
+        ]
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "answer": [
+            "[person_1] is going to keep sticking the wallpaper.",
+            "[person_1] may keep mixing the drink.",
+            "[person_1] will stretch the noodle.",
+            "[person_1] is going to turn the page.",
+            "[person_1] is going to enjoy and listen to music that is played by [person_2]."
+        ],
+        "reason": [
+            "[person_1] is going to take a ride on the bicycle.",
+            "[person_1] will do a show after she said all words.",
+            "[person_1] just sits and feels the music with a happy face.",
+            "[person_1] has not finished shaking his arms up and down.",
+            "[person_1] is going to start riding unicycle faster."
+        ]
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2] stops playing accordion?",
+        "answer": [
+            "[person_2] might be injured.",
+            "[person_2] would stop blowing the clarinet.",
+            "[person_2] may have a quick tidy - up.",
+            "Then there will be not much sound.",
+            "[person_2] would lie on the table."
+        ],
+        "reason": [
+            "[person_2] , [person_2] and [person_2] are teammate.",
+            "[person_2] can't control herself.",
+            "Because there is no one pets [person_2] anymore.",
+            "[person_2] doesn't wear any protective arms.",
+            "Because [person_2]'s room is quite messy."
+        ]
+    }
+}
