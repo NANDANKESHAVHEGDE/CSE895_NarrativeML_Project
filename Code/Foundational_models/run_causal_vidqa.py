@@ -53,7 +53,7 @@ def main():
     parser.add_argument("--spatial_flag", type=bool, default=None)
     parser.add_argument("--temporal_flag", type=bool, default=None)
     parser.add_argument("--narml_column_name", type=str, default="narrativeml")
-    parser.add_argument("--narrativeml_type", type=str, default=None, choices=["full", "spatial", "temporal", "both"])
+    parser.add_argument("--narrativeml_type", type=str, default="full", choices=["full", "spatial", "temporal", "both"])
 
 
     args = parser.parse_args()
@@ -67,13 +67,13 @@ def main():
     
     #Generating descriptions from video segments and frames
     ##Initialize vision llm
-    vision_llm = init_vision_llm(model_id=args.captioner_model_id, num_frames=args.des_num_frames)
+    # vision_llm = init_vision_llm(model_id=args.captioner_model_id, num_frames=args.des_num_frames)
     
 
-    generate_descriptions(frames_folder_dir=args.videos_frames_dir, captioner=vision_llm, narrative_csv=args.description_narrative_csv,
-                          start_pos=args.des_start_pos, end_pos=args.des_end_pos, dataset_name=args.dataset_name,
-                          num_frames=args.des_num_frames,num_segments=args.des_num_segments,checkpoint_steps=args.des_checkpoint_steps,
-                          max_words=args.des_max_words)
+    # generate_descriptions(frames_folder_dir=args.videos_frames_dir, captioner=vision_llm, narrative_csv=args.description_narrative_csv,
+    #                       start_pos=args.des_start_pos, end_pos=args.des_end_pos, dataset_name=args.dataset_name,
+    #                       num_frames=args.des_num_frames,num_segments=args.des_num_segments,checkpoint_steps=args.des_checkpoint_steps,
+    #                       max_words=args.des_max_words)
 
     #Generate text only large language model for three task
     ##Narrative Generating
@@ -97,21 +97,21 @@ def main():
     
     #Generating narrativeml from narrative of a video
     #Note: This one run for the full dataset
-    # if args.narml_temperature == None or args.narml_max_tokens == None:
-    #     narrativeml_config = None
-    # else:
-    #     narrativeml_config = {}
+    if args.narml_temperature == None or args.narml_max_tokens == None:
+        narrativeml_config = None
+    else:
+        narrativeml_config = {}
     
-    # if args.narml_temperature != None:
-    #     narrativeml_config['temperature'] = args.narml_temperature
+    if args.narml_temperature != None:
+        narrativeml_config['temperature'] = args.narml_temperature
 
-    # if args.narml_max_tokens != None:
-    #     narrativeml_config['max_tokens'] = args.narml_max_tokens
+    if args.narml_max_tokens != None:
+        narrativeml_config['max_tokens'] = args.narml_max_tokens
 
-    # generate_narrativeml_files(generator=text_llm, csv_file=args.description_narrative_csv, dtd_file=args.narml_dtd_file,
-    #                            examples_input_file=args.narml_examples_input_file, narrativeml_config=narrativeml_config,
-    #                            checkpoint_steps=args.narml_checkpoint_steps, spatial_flag=args.spatial_flag,
-    #                            temporal_flag=args.temporal_flag, column_name=args.narml_column_name)
+    generate_narrativeml_files(generator=text_llm, csv_file=args.description_narrative_csv, dtd_file=args.narml_dtd_file,
+                               examples_input_file=args.narml_examples_input_file, narrativeml_config=narrativeml_config,
+                               checkpoint_steps=args.narml_checkpoint_steps, spatial_flag=args.spatial_flag,
+                               temporal_flag=args.temporal_flag, column_name=args.narml_column_name)
     
     #Running question asnwering
     if args.qa_temperature == None or args.qa_max_tokens == None:
@@ -131,7 +131,7 @@ def main():
                                  dtd_file=args.narml_dtd_file, examples_input_file=args.narml_examples_input_file,
                                  suffix=args.qa_file_suffix)
     
-    """##NarrativeML only
+    ##NarrativeML only
     generate_answer_causal_vidqa(generator=text_llm, csv_file=args.description_narrative_csv, qa_dir=args.qa_dir,
                                  output_dir=args.prediction_dir, qa_config=qa_config, input_mode="narrativeml",
                                  dtd_file=args.narml_dtd_file, examples_input_file=args.narml_examples_input_file,
@@ -141,7 +141,7 @@ def main():
     generate_answer_causal_vidqa(generator=text_llm, csv_file=args.description_narrative_csv, qa_dir=args.qa_dir,
                                  output_dir=args.prediction_dir, qa_config=qa_config, input_mode="both",
                                  dtd_file=args.narml_dtd_file, examples_input_file=args.narml_examples_input_file,
-                                 suffix=args.qa_file_suffix, narml_type=args.narrativeml_type)"""
+                                 suffix=args.qa_file_suffix, narml_type=args.narrativeml_type)
 
 if __name__ == "__main__":
     main()

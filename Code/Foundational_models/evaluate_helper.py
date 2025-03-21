@@ -8,9 +8,8 @@ from evaluate import load
 
 def create_cuasal_vidqa_ground_truth_file(ground_truth_dir:str, output_dir:str=None):
     #Extract video ids list
-    video_ids = os.listdir(ground_truth_dir)
-    video_ids = sorted(video_ids)
-    video_ids = video_ids[1:]  # Creates a new list without the first element
+    video_ids = [vid for vid in sorted(os.listdir(ground_truth_dir)) if not vid.endswith('.ipynb_checkpoints')]
+    # Creates a new list without the first element
 
     
     #Instantinate ground truth DataFrame
@@ -26,7 +25,7 @@ def create_cuasal_vidqa_ground_truth_file(ground_truth_dir:str, output_dir:str=N
     ground_truth_df["counterfactual"] = ""
 
     #Run through video ids to get ground truth answer for each video id
-    for video_id in tqdm(video_ids):
+    for video_id in tqdm(video_ids):  
         answer_file = os.path.join(ground_truth_dir, video_id, "answer.json")
         with open(answer_file, "r") as afile:
             answers = json.load(afile)
