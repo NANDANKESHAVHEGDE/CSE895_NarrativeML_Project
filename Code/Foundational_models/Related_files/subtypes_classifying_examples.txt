@@ -1,0 +1,191 @@
+Here are five examples to help you better visualize your task:
+Example 1:
+Please base on a list of corresponding subtypes for each main type given above classify the following questions into subtypes!
+Questions in JSON format:
+{
+    "descriptive": {
+        "question": "What passed?"
+    },
+    "explanatory": {
+        "question": "Why is [person_1] going away?"
+    },
+    "predictive": {
+        "question": "What is [person_2] going to do?"
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_2]'s little boy falls down?"
+    }
+}
+
+Your output subtypes classified questions in JSON format:
+{
+  "descriptive": {
+    "question": "What passed?",
+    "subtype": "Action-Based Question"
+  },
+  "explanatory": {
+    "question": "Why is [person_1] going away?",
+    "subtype": "Intent-Based \"Why\" Questions"
+  },
+  "predictive": {
+    "question": "What is [person_2] going to do?",
+    "subtype": "Immediate Next Action Prediction"
+  },
+  "counterfactual": {
+    "question": "What will happen if [person_2]'s little boy falls down?",
+    "subtype": "Human Physical Action or Accident"
+  }
+}
+
+Example 2:
+Please base on a list of corresponding subtypes for each main type given above classify the following questions into subtypes!
+Questions in JSON format:
+{
+    "descriptive": {
+        "question": "What pants is [person_5] wearing?"
+    },
+    "explanatory": {
+        "question": "Why did [person_5] suddenly look back?"
+    },
+    "predictive": {
+        "question": "What might the man on shore in front of [person_2] do next?"
+    },
+    "counterfactual": {
+        "question": "What if [person_1] suddenly accelerates?"
+    }
+}
+
+Your output subtypes classified questions in JSON format:
+{
+    "descriptive": {
+        "question": "What pants is [person_5] wearing?",
+        "subtype": "Object and Appearance Description"
+    },
+    "explanatory": {
+        "question": "Why did [person_5] suddenly look back?",
+        "subtype": "Intent-Based \"Why\" Questions"
+    },
+    "predictive": {
+        "question": "What might the man on shore in front of [person_2] do next?",
+        "subtype": "Immediate Next Action Prediction"
+    },
+    "counterfactual": {
+        "question": "What if [person_1] suddenly accelerates?",
+        "subtype": "Human Physical Action or Accident"
+    }
+}
+
+Example 3:
+Please base on a list of corresponding subtypes for each main type given above classify the following questions into subtypes!
+Questions in JSON format:
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?"
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?"
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?"
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws the hammer?"
+    }
+}
+
+Your output subtypes classified questions in JSON format:
+{
+    "descriptive": {
+        "question": "Where is [chair_1]?",
+        "subtype": "Location-Based Questions"
+    },
+    "explanatory": {
+        "question": "Why is [person_1] outside?",
+        "subtype": "Intent-Based \"Why\" Questions"
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "subtype": "Intent or Tendency Prediction"
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] throws the hammer?",
+        "subtype": "Physical Object Alteration"
+    }
+}
+
+Example 4:
+Please base on a list of corresponding subtypes for each main type given above classify the following questions into subtypes!
+Questions in JSON format:
+{
+    "descriptive": {
+        "question": "How many chairs are there on the video?"
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?"
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do then?"
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] stood closer to [chair_1]?"
+    }
+}
+
+Your output subtypes classified questions in JSON format:
+{
+    "descriptive": {
+        "question": "How many chairs are there on the video?",
+        "subtype": "Counting Question"
+    },
+    "explanatory": {
+        "question": "Why is [person_1] smiling?",
+        "subtype": "Social and Emotional Reactions"
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do then?",
+        "subtype": "Intent or Tendency Prediction"
+    },
+    "counterfactual": {
+        "question": "What would happen if [person_1] stood closer to [chair_1]?",
+        "subtype": "Social Interaction or Presence"
+    }
+}
+
+Example 5:
+Please base on a list of corresponding subtypes for each main type given above classify the following questions into subtypes!
+Questions in JSON format:
+{
+    "descriptive": {
+        "question": "What is the pattern on the left side of the wall?"
+    },
+    "explanatory": {
+        "question": "Why is [person_1] so happy?"
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?"
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not satisfied with the content he took?"
+    }
+}
+
+Your output subtypes classified questions in JSON format:
+{
+    "descriptive": {
+        "question": "What is the pattern on the left side of the wall?",
+        "subtype": "Object and Appearance Description"
+    },
+    "explanatory": {
+        "question": "Why is [person_1] so happy?",
+        "subtype": "Social and Emotional Reactions"
+    },
+    "predictive": {
+        "question": "What is [person_1] going to do?",
+        "subtype": "Intent or Tendency Prediction"
+    },
+    "counterfactual": {
+        "question": "What will happen if [person_1] is not satisfied with the content he took?",
+        "subtype": "Emotional or Mental State"
+    }
+}
+********************************************************************************
