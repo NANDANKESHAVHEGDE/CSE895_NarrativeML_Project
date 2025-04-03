@@ -91,6 +91,7 @@ def create_causal_vidqa_prediction_file(prediction_dir:str, output_dir:str=None,
     if des_nar_narml_csv == None:
         video_ids = os.listdir(prediction_dir)
         video_ids = sorted(video_ids)
+        video_ids = video_ids[1:]
     else:
         des_nar_narml_df = pd.read_csv(des_nar_narml_csv)
         video_ids = des_nar_narml_df["video_id"].tolist()
